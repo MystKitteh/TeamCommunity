@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 401
 
-<title>ROSWELL THAT ENDS WELL</title>
+<title><character>ROSWELL THAT ENDS WELL</character></title>
 
 <author>J. Stewart Burns</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -14,34 +14,34 @@ And Grandpa.]
 distance from it. Bender, Leela and Farnsworth are sat on the 
 couch. Fry and Zoidberg stand at either side.]
 
-FRY
+<character>FRY</character>
 I've never seen a supernova blow up. 
 But if it's anything like my old Chevy 
 Nova, it'll light up the night sky!
 
-BENDER
+<character>BENDER</character>
 Yeah, anyone who misses this will regret 
 it for the rest of his life! Hey Fry 
 could you go make some popcorn?
 
-FRY
-OK.
+<character>FRY</character>
+<character>OK</character>.
 
 [He leaves.]
 
 [Ship's Galley. Fry picks up some Iffy Pop and tears the top 
 off.]
 
-FRY
+<character>FRY</character>
 Let's go microwave, I'm in a hurry here! 
 Hm?  Hey, what smells like blue?
 
 [Cut to: Ship's Cockpit.]
 
-LEELA
+<character>LEELA</character>
 Fry get up here it's starting!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Focus!
 
 [Leela twizzles his glasses and he smiles, satisfied. The star 
@@ -49,14 +49,14 @@ explodes and a wave of red starts to move out from it. It hits
 the ship and the cockpit is engulfed with red. The crew gasp 
 in horror. The red reaches the consoles.]
 
-BENDER
+<character>BENDER</character>
 Aw no!
 
 [The consoles fizzle and crackle. The blue from the galley enters 
 the cockpit and moves towards the red. The crew scream more. 
 Enter Fry from the galley hatch.]
 
-FRY
+<character>FRY</character>
 Hey, which crazy thing happening are 
 you guys screaming about?
 
@@ -67,59 +67,59 @@ rapidly moves backwards from September 21st 3002. The ship passes
 hundreds of different types of clocks. The timehole opens again 
 and ship emerges, the crew dazed and disorientated.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Oooh my head is spinning.
 
 [The microwave dings.]
 
-FRY
+<character>FRY</character>
 Ooo my popcorn's done!
 
 [Cut to: Ship's Galley. Fry opens the microwave and is disappointed. 
 He doesn't have popcorn, instead he has an entire corn on the 
 cob.]
 
-FRY
+<character>FRY</character>
 Aw, it's less popped than ever.
 
-LEELA
+<character>LEELA</character>
 I don't know what happened but we've 
 taken on a lot of clocks.  Let's get 
 back home.
 
 [Ship's Cockpit. The ship flies towards Earth.]
 
-LEELA
+<character>LEELA</character>
 Why is there so little traffic around 
 Earth?
 
 [The Professor looks at a screen.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 And what's this layer of ozone? That's 
 never been there before.
 
 [On the screen Warning is displayed and a klaxon sounds. Zoidberg 
 holds his claws to his ears.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Such noises!
 
-LEELA
+<character>LEELA</character>
 Oh no! There's no global positioning 
 signal! Navigation is failing!
 
-FRY
+<character>FRY</character>
 We're gonna crash!
 
-LEELA
+<character>LEELA</character>
 Not if I can help it!  Oh, I guess I 
 can't. Everyone put on your seatbelts.
 
 [Fry, Farnsworth and Zoidberg sit down and belt up. Leela puts 
 hers on.]
 
-BENDER
+<character>BENDER</character>
 Ah those things cost more lives than 
 they save.
 
@@ -130,16 +130,16 @@ windscreen and off into the distance.]
 [Desert. The crew look around at the pieces of scattered Bender. 
 Fry talks to Bender's severed head.]
 
-FRY
+<character>FRY</character>
 Bender, are you OK?
 
-BENDER
+<character>BENDER</character>
 I dunno. I'll try to move my feet.
 
 [He tries and he succeeds. But his feet are quite a way away 
 from him.]
 
-LEELA
+<character>LEELA</character>
 Alright, here's the plan. Zoidberg, 
 pick up the pieces. Everyone else, take 
 five.
@@ -151,7 +151,7 @@ chest cabinet.]
 [Time Lapse. Many hours have passed and it is now night. A wolf 
 howls and Zoidberg finishes picking up bits of Bender.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 And Zoidberg picks up another piece, 
 the crowd goes wild!!
 
@@ -161,7 +161,7 @@ the crowd goes wild!!
 [Cut to: Airbase Hangar. A table covered by a sheet is all that 
 is in the building. Two men approach it.]
 
-MAN
+<character>MAN</character>
 General in all my years of covering 
 top secret discoveries with sheets I've 
 never dramatically revealed anything 
@@ -171,11 +171,11 @@ The debris from an alien spaceship!
 [He dramatically pulls the sheet away revealing bits of Bender 
 on the table. The General picks up Bender's arm.]
 
-GENERAL
+<character>GENERAL</character>
 Son I think I can safely say (shouting) 
 whoaaaa!
 
-MAN
+<character>MAN</character>
 As you can see, 1947 is going to be 
 an eventful year for the town of...Roswell, 
 New Mexico!
@@ -189,24 +189,24 @@ rocky outcrop.]
 [Cut to: Ship's Cockpit. Farnsworth, Fry and Bender's head look 
 at a console.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Remarkable! According the high precision 
 digital chronograph it's July 9th 1947. 
 Which would explain why the chronograph 
 has turned into this pin-up calendar.
 
-BENDER
+<character>BENDER</character>
 Wait a second. You mean we travelled 
 through time?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Doy! Some idiot must have put metal 
 in the microwave...
 
-FRY
+<character>FRY</character>
 Yo!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 ...and the microwave's radiation combined 
 with the gravitons and graviolis from 
 the supernova blasted us through Time 
@@ -214,38 +214,38 @@ itself.
 
 [Enter Leela with a newspaper. She slaps it down on the console.]
 
-LEELA
+<character>LEELA</character>
 Have you seen today's news?
 
-BENDER
+<character>BENDER</character>
 High school gym renovations on schedule? 
 What a load!
 
-LEELA
+<character>LEELA</character>
 No over here!  Flying Saucer Captured!
 
 [Bender sees the picture - a man holds his torso.]
 
-BENDER
+<character>BENDER</character>
 That's no flying saucer, that's my ass!
 
-FRY
+<character>FRY</character>
 My God! This mean the flying saucer 
 that crashed in Roswell...was...us!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 And the alien they captured was...was...
 
 [Cut to: Airbase Hangar. Men open a crate. Zoidberg is inside 
 behind some bars. He waves.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Hello!
 
-GENERAL
+<character>GENERAL</character>
 Eurgh!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 So what are you guys doing tonight? 
 I'm up for whatever.
 
@@ -254,7 +254,7 @@ I'm up for whatever.
 [Ship's Cockpit. Farnsworth and Fry look at a screen. A picture 
 of the timehole is on the screen.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yes we tore the universe a new space-hole 
 alright! But it's clenching shut fast. 
 Our only hope of getting back to our 
@@ -263,29 +263,29 @@ own time is to go through it in oh say......exactly
 
 [Leela blowtorches the steering wheel.]
 
-LEELA
+<character>LEELA</character>
 No problem. The ship's fixed except 
 for the cup holder and I think I can 
 have that operational within 10 hours.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You've got 8. But a more urgent concern 
 is the microwave.  Without a working 
 one we have no hope of returning to 
 the future.
 
-LEELA
+<character>LEELA</character>
 Well, I'm sure we can buy a microwave 
 from somewhere around here.  Meanwhile 
 you guys sneak onto the army base and 
 rescue Bender's body.
 
-FRY
+<character>FRY</character>
 Hey, and while we're on the base I'll 
 visit my grandfather Enos! He was stationed 
 at Roswell.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Your grandfather?  Stay away from him 
 you dimwitted monkey. You mustn't interfere 
 with the past. Don't do anything that 
@@ -294,33 +294,33 @@ you were supposed to do it. In which
 case. for the love of God, don't not 
 do it!
 
-FRY
+<character>FRY</character>
 Got it.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 If for example you were to kill your 
 grandfather, you would cease to exist!
 
 [Fry gasps.]
 
-FRY
+<character>FRY</character>
 But existing is basically all I do!
 
 [Airbase Hangar. The men look on as Zoidberg sleeps on the table.]
 
-GENERAL
+<character>GENERAL</character>
 What is your purpose here?
 
 [Zoidberg wakes up.]
 
-ZOIDBERG (DROWSY)
+<character>ZOIDBERG </character>(<character>DROWSY</character>)
 Alright officer I'll move along.
 
-MAN
+<character>MAN</character>
 What the General means is, why did you 
 come to Earth?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Not a day goes by I don't ask myself 
 the same question.
 
@@ -331,62 +331,62 @@ sprays onto him some boots, some trousers and a shirt.]
 [Airbase. Fry walks around the base looking around at all the 
 activity going on.]
 
-SERGEANT (SHOUTING)
+<character>SERGEANT </character>(<character>SHOUTING</character>)
 Enos!  Private, I want that toilet bowl 
 so clean I could eat off it! Cos I intend 
 to!
 
-ENOS
+<character>ENOS</character>
 Well gadzooks Sarge!
 
 [The Sergeant continues yelling.]
 
-FRY
+<character>FRY</character>
 It's him! It's my grandfather Enos.
 
-SERGEANT
+<character>SERGEANT</character>
 ...Now prepare my lunch and place it 
 in the latrine at twelve hundred hours!
 
 [The Sergeant walks away and Enos slowly walks towards the kitchens. 
 A jeep slowly drives towards him on the road. Fry gasps.]
 
-FRY
+<character>FRY</character>
 That jeep's gonna hit him! And I won't 
 exist anymore!  Are you crazy? You almost 
 got yourself run over!
 
-ENOS
+<character>ENOS</character>
 I did? Then I sure am lucky you knocked 
 me onto this pile of rusty bayonets!
 
-BENDER
+<character>BENDER</character>
 Fry! Stop interfering with history! 
 I don't wanna have to memorise a lot 
 of new kings when I get back!
 
-FRY (WHISPERING)
+<character>FRY </character>(<character>WHISPERING</character>)
 I had no choice. I was about to not 
 exist. I could feel myself fading away, 
 like Greg Kinnear.
 
 [Enos gets up and dusts himself off.]
 
-ENOS
+<character>ENOS</character>
 Well, thanks soldier. I'm off to make 
 Sarge's lunch! Handling raw chicken? 
 It's part of the job!  Mmm! Finger licking 
 good!
 
-FRY
+<character>FRY</character>
 That's it! This place is too dangerous. 
 We've gotta get you out of here!  Everything's 
 gonna be alright Dad!
 
-ENOS
+<character>ENOS</character>
 Well gadzooks I'd better ask Sarge.
 
-FRY (SHOUTING)
+<character>FRY </character>(<character>SHOUTING</character>)
 No time! Run! Run to safety!
 
 [Cut to: Bombing Range (Formerly Minefield). Fry and Enos run 
@@ -395,21 +395,21 @@ on and dodge mines and bombs, screaming.]
 [Airbase Building. The General and the man stand behind a one 
 way mirror in a room filled with computers and things.]
 
-MAN
+<character>MAN</character>
 This food will determine what food, 
 if any, the alien eats.
 
 [Cut to: In Front Of The Mirror. Enter Zoidberg who turns around 
 and sees a table full of food.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 A buffet! Oh if only I had my wallet 
 with me.
 
 [Cut to: Behind The Mirror. The man presses a button and his 
 voice is heard in the next room on an intercom.]
 
-MAN
+<character>MAN</character>
 Um, it's free.
 
 [Zoidberg squeals with delight and gorges on the food. It splatters 
@@ -417,23 +417,23 @@ up against the mirror. The men peer into the room and recoil
 in horror as Zoidberg splatters himself against the window and 
 licks the food off.]
 
-GENERAL
+<character>GENERAL</character>
 Get me the president.
 
 [Sears-Roebuck. In the department store Farnsworth and Leela, 
 dressed in 20th century garb, look around.]
 
-LEELA
+<character>LEELA</character>
 Fry's from around this time, I'll talk 
 like him.
 
 [Cut to: Appliances. Leela walks up behind a salesman.]
 
-LEELA
+<character>LEELA</character>
 Yo homes! We're looking for a microwave 
 oven.
 
-SALESMAN
+<character>SALESMAN</character>
 Microwave? Never heard of that brand 
 sweetheart.  What you want is the Deuluxe 
 Gas Princess. This baby has four broilers, 
@@ -445,87 +445,87 @@ in front of it all day.
 [Leela gives the man and evil and opens the oven door. It lands 
 on his knee. He screams.]
 
-LEELA
+<character>LEELA</character>
 Oh I'm sorry, now I'll ax you again: 
 Where can we find a mi-cro-wave?
 
-SALESMAN
+<character>SALESMAN</character>
 Sir you're wife's hysterical. So I'll 
 address this to you. This oven is lightning 
 fast. It takes only 5 hours to cook 
 a roast.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Ooo that's good news! You know you really 
 don't cook enough roast Leela!  Ooo. 
 Women!
 
 [Street. Fry and Enos walk.]
 
-FRY
+<character>FRY</character>
 Thank God I got you off that dangerour 
 army base!
 
-ENOS
+<character>ENOS</character>
 You sure are the helpful type stranger! 
 Say, you got anything to eat in that 
 there lunchbox?  Ooo! Snack!
 
 [He puts them in his mouth and cringes.]
 
-BENDER
+<character>BENDER</character>
 Hey, that's my brain...
 
 [Fry puts Bender's head in a sack and Bender's words become muffled.]
 
-ENOS
+<character>ENOS</character>
 Man, them crackers cut my mouth up somethin' 
 bad! Let's stop off for a malt!
 
 [Joe's Malts. Fry and Enos sit at a table.]
 
-ENOS
+<character>ENOS</character>
 See that waitress there?
 
-FRY
+<character>FRY</character>
 Yowza! I know what I want for dessert!
 
-ENOS
+<character>ENOS</character>
 That's my fiance! Mildred.
 
-FRY
+<character>FRY</character>
 Grandma Mildred?! Uh, no dessert, just 
 coffee.
 
-MILDRED
+<character>MILDRED</character>
 Okie doke.  And for you snuggums?
 
-ENOS
+<character>ENOS</character>
 Uh, I'll have a pie with a fried egg 
 on top.
 
 [Mildred kisses him.]
 
-FRY
+<character>FRY</character>
 Eh she sure is pretty. You ought to 
 marry her and father some children right 
 away!
 
-ENOS
+<character>ENOS</character>
 Yeah folks say that. But did you ever 
 get the feeling you're only going with 
 girls cos you're supposed to?
 
-FRY
+<character>FRY</character>
 What?? Don't ever say or think that 
 again! Please. Just concentrate on staying 
 alive!  Fire! Look out!  Oh! You almost 
 got neutered.
 
-ENOS
+<character>ENOS</character>
 Well, it ain't as bad as getting killed!
 
-FRY
+<character>FRY</character>
 For me it is!  I'm getting you out of 
 here!
 
@@ -536,7 +536,7 @@ outside a shack.]
 
 [Cut to: Shack.]
 
-FRY
+<character>FRY</character>
 OK, we're in the middle of nowhere, 
 which is the safest part of nowhere. 
 Just stay put and enjoy this calendar.
@@ -548,7 +548,7 @@ the woman.]
 [Cut to: Outside Shack. Fry locks the door, get's in the jeep 
 and drives away.]
 
-FRY
+<character>FRY</character>
 Safe and sound! Finally I can continue 
 to exist!
 
@@ -556,7 +556,7 @@ to exist!
 
 [Cut to: Building. Three men watch and one counts down.]
 
-MAN
+<character>MAN</character>
 3. 2. 1.
 
 [The atomic bomb goes off.]
@@ -570,80 +570,80 @@ it occupants apart.]
 [Cut to: Jeep. Fry looks in the mirror and sees the mushroom 
 cloud. He stops and looks back.]
 
-BENDER
+<character>BENDER</character>
 And you are outta here!
 
 [Joe's Malts. Leela and Farnsworth look at the menu's.]
 
-MILDRED
+<character>MILDRED</character>
 What'll you folks have today?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I'll have the soylent green, with a 
 slice of soylent orange and some soylent 
 coleslaw.
 
-MILDRED
+<character>MILDRED</character>
 Pardon?
 
-LEELA (WHISPERING)
+<character>LEELA </character>(<character>WHISPERING</character>)
 It's the 20th century Professor.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh right!  I'll have a croque monsieur, 
 the paella, two mutton pills and a stein 
 of mead!
 
-LEELA
+<character>LEELA</character>
 I'll just have a small injection of 
 femislim.
 
-MILDRED
+<character>MILDRED</character>
 Uh, two chilli dogs comin' up.
 
 [She walks off.]
 
-LEELA
+<character>LEELA</character>
 Well, settle in. Without a microwave 
 we're trapped in this time period.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh Lord! We'll have to endure the horrible 
 music of the big bopper, and then the 
 terrible tragedy of his death.
 
 [Leela looks through the window and sees something.]
 
-LEELA
+<character>LEELA</character>
 Wait a second. There's a microwave radar 
 dish at the army base. We could steal 
 it!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No! That would alter history. Above 
 all else, it is our sacred duty to preserve 
 the past exactly as it was.
 
 [Enter Fry in his own clothes.]
 
-FRY
+<character>FRY</character>
 Well, I killed my grandfather.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Wha?
 
-LEELA
+<character>LEELA</character>
 Wait. If you killed your grandfather 
 then why do you stll exist?
 
-FRY
+<character>FRY</character>
 I dunno. Maybe God loves me.
 
 [Bender laughs.]
 
 [Cut to: Phone. Mildred is talking to someone.]
 
-MILDRED
+<character>MILDRED</character>
 Killed? In an atomic blast? No sir, 
 I'm afraid I don't take much solace 
 in the fact that the implosion trigger 
@@ -652,32 +652,32 @@ functioned perfectly
 [She hangs up and cries. Fry comes up behind her and puts his 
 hand on her shoulder.]
 
-FRY
+<character>FRY</character>
 Aww. There there. If it makes you feel 
 any better, his body was vapourised 
 so there's no chance of him coming back 
 as a zombie.
 
-MILDRED (CRYING)
+<character>MILDRED </character>(<character>CRYING</character>)
 I'm not worried about that.
 
-FRY
+<character>FRY</character>
 Then you're a braver woman than I.
 
-MILDRED
+<character>MILDRED</character>
 You remind me of Enos. Would you mind 
 walking me home?
 
-FRY
+<character>FRY</character>
 Uh, how far is it?
 
 [Airbase Runway. A plane lands and a crate of canned eggs is 
 unloaded. President Truman kicks it open and emerges from it.]
 
-GENERAL
+<character>GENERAL</character>
 Welcome to Roswell President Truman.
 
-TRUMAN
+<character>TRUMAN</character>
 Fellas, this visit's top secret. No 
 one's to know about it, except the senior 
 officers,  the scientists  and a single 
@@ -687,7 +687,7 @@ conspiracy nutter no one will believe.
 
 [Airbase Hangar. Dusk has fallen and the men enter the hangar.]
 
-GENERAL
+<character>GENERAL</character>
 Mr President, our men have assembled 
 the parts of the alien ship into it's 
 original design.
@@ -695,86 +695,86 @@ original design.
 [Bender's body is now shaped like a flying saucer. A hatch opens 
 and a beer bottle falls out. The men gasp.]
 
-TRUMAN
+<character>TRUMAN</character>
 Whistling Dixie! I want this sent to 
 Area 51 for study.
 
-GENERAL
+<character>GENERAL</character>
 But sir, that's where we're building 
 the fake moon landing set.
 
-TRUMAN
+<character>TRUMAN</character>
 Then we'll really have to land on the 
-moon. Invent NASA and tell them to get 
+moon. Invent <character>NASA</character> and tell them to get 
 off their fanny's!
 
 [Room. Zoidberg is tied to a chair. Truman sits opposite him 
 with the General and other man behind him.]
 
-TRUMAN
+<character>TRUMAN</character>
 If you come in peace, surrender or be 
 destroyed. If you're here to make war, 
 we surrender.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Both good, the important thing is I'm 
 meeting new people.
 
-TRUMAN
+<character>TRUMAN</character>
 Bushwa! Now what's your mission? Are 
 you planning on making some sort of 
 alien-human hybrid?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Are you coming onto me?
 
-TRUMAN
+<character>TRUMAN</character>
 Hot crackers I take exception to that!
 
-ZOIDBERG (SEXFULLY)
+<character>ZOIDBERG </character>(<character>SEXFULLY</character>)
 I'm not hearing a no.
 
 [Truman stand up.]
 
-TRUMAN
+<character>TRUMAN</character>
 Nuts to this space crap! If we want 
 information, we'll have to do us an 
 old fashioned alien autopsy!
 
 [A man holds a saw up bhind Zoidberg. Zoidberg turns around.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Hooray!
 
 [Mildred's House. She pours a drink for her and Fry.]
 
-MILDRED (CRYING)
+<character>MILDRED </character>(<character>CRYING</character>)
 Every little thing reminds me of Enos.
 
 [She looks at a picture of a mushroom cloud and cries more.]
 
-FRY
+<character>FRY</character>
 Aww I know how you feel. My grandfather 
 died recently.
 
-MILDRED
+<character>MILDRED</character>
 It's all so sad. At times like this, 
 I just need someone to hold me. Mmm. 
 You like holding me don't you?
 
 [Fry shakes and stands up.]
 
-FRY
+<character>FRY</character>
 Hey, you know what always cheers you 
 up? Baking me a nice tray of sugar cookies!
 
-MILDRED
+<character>MILDRED</character>
 How 'bout these cookies sugar?
 
 [She rips her dress open. Fry jumps with shock and throws his 
 glass across the room.]
 
-FRY
+<character>FRY</character>
 I shouldn't be here. I shouldn't even 
 exist. But I do which proves...you can't 
 really be my grandm -
@@ -785,17 +785,17 @@ really be my grandm -
 Fry is still asleep. Farnsworth, Leela and Bender peer through 
 the window and are disgusted.]
 
-LEELA [FROM OUTSIDE]
+<character>LEELA </character>[<character>FROM OUTSIDE</character>]
 Eurgh!
 
 [Leela taps on the glass and Fry wakes up, drowsy.]
 
 [Cut to: Outside. Fry opens the window and pokes his head out.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 What the hell have you done Fry?
 
-FRY
+<character>FRY</character>
 Relax! She can't be my grandmother! 
 I figured it all out.
 
@@ -804,19 +804,19 @@ I figured it all out.
 [Fry turns around. Mildred is wearing glasses and in knitting. 
 Her voice is drier.]
 
-MILDRED
+<character>MILDRED</character>
 Come back to bed deary!
 
 [Fry screams.]
 
-FRY
+<character>FRY</character>
 It's impossible! I mean, if she's my 
 grandmother, who's my grandfather?
 
 [Fry screams and runs back and forth. Mildred pours some tea. 
 She is wearing a shawl.]
 
-MILDRED
+<character>MILDRED</character>
 Did you say something deary? I'm a bit 
 hard of hearing.
 
@@ -831,40 +831,40 @@ is doing into a microphone.]
 [The doctor takes the microphone back. Another pulls out one 
 of Zoidberg's organs.]
 
-DOCTOR #2
+<character>DOCTOR #2</character>
 Heart.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Take, I've got four of them.
 
-DOCTOR #1
+<character>DOCTOR #1</character>
 Stomach contents: One deviled egg.
 
 [He puts it in a kidney bowl.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Deviled egg?
 
 [He eats it. The doctor pulls it out again.]
 
-DOCTOR #1
+<character>DOCTOR #1</character>
 The same deviled egg.
 
 [Ship's Cockpit. Fry screams and blubbers in shock. Leela slaps 
 him.]
 
-LEELA
+<character>LEELA</character>
 Snap out of it!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Start the ship Leela. Let's just steal 
 the damned radar dish and get back to 
 our own time!
 
-FRY
+<character>FRY</character>
 But...but won't that change history?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh a lesson in not changing history 
 from Mr I'm-My-Own-Grandpa! Let's get 
 the hell out of here already! Screw 
@@ -879,39 +879,39 @@ The ship shoots at buildings, cuts through telephone wires, shoots
 at a water tower. The conspiracy photographer holds his camera 
 up.]
 
-CONSPIRACY NUTTER
-UFO! UFO!
+<character>CONSPIRACY NUTTER</character>
+<character>UFO</character>! <character>UFO</character>!
 
 [The ship turns around and he takes a photo. The developed photo 
 turns into the famed picture of the Lock Ness Monster.]
 
 [Airbase Building. A doctor is sawing Zoidberg.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Hey don't cut that! I need that to speak!
 
 [The doctor looks at the other doctor then cuts faster. The ceiling 
 breaks open and Fry and Leela drop in with jetpacks.]
 
-DOCTOR #2
+<character>DOCTOR #2</character>
 Oh my!
 
-TRUMAN
+<character>TRUMAN</character>
 Sweet Roosevelt's ghost!
 
 [Leela kicks the doctor.]
 
-LEELA
+<character>LEELA</character>
 Heyya!  Ya!  Ya!
 
 [Fry pulls some organs out of Zoidberg and throws them at Truman.]
 
-FRY
+<character>FRY</character>
 Take this Mr President, sir!
 
 [He throws another organ and it hits Truman in the face.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 The President is gagging on my gas bladder! 
 What an honour!
 
@@ -919,7 +919,7 @@ What an honour!
 of a flying saucer. The wall explodes. Farnsworth, asleep, is 
 sitting in a flying chair with guns attached. He wakes up.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Huh wha? Oh right!
 
 [He moves the chair forward, pciks Bender's body up with his 
@@ -930,10 +930,10 @@ opens and the magnetic winch comes out and grabs the radar dish.
 It rips off the roof of the building. Inside the Sergeant is 
 eating his lunch from the toilet.]
 
-SERGEANT (SHOUTING)
+<character>SERGEANT </character>(<character>SHOUTING</character>)
 Enos!
 
-FRY [FROM SHIP]
+<character>FRY </character>[<character>FROM SHIP</character>]
 He's dead, sorry.
 
 [The ship flies away. Planes shoot at it. The ship flies into 
@@ -943,23 +943,23 @@ the hangar and blasts out of the roof. It quickly gains height.]
 look out of the doors and cheer. Leela appears on the screen 
 from the cockpit.]
 
-FRY
+<character>FRY</character>
 Yay!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Choke on that causality!
 
-BENDER
+<character>BENDER</character>
 1947 can kiss my shiny metal...
 
 [His head falls out of the door and tumbles back to Earth. He 
 screams on the way down.]
 
-FRY
+<character>FRY</character>
 Turn around. We've gotta go back for 
 Bender!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Impossible. The supernova timehole is 
 closing! If we don't leave now, we'll 
 never get back to the 31st century!
@@ -969,7 +969,7 @@ at some popcorn. The room turns blue.]
 
 [Cut to: Outside Ship.]
 
-FRY [FROM INSIDE]
+<character>FRY </character>[<character>FROM INSIDE</character>]
 Bendeeeeer!
 
 [The ship vanishes into the timehole.]
@@ -977,20 +977,20 @@ Bendeeeeer!
 [Planet Express: Meeting Room. Zoidberg finishes taping up his 
 wound.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 There, good as new!
 
 [Leela holds up and organ.]
 
-LEELA
+<character>LEELA</character>
 Don't you need this one?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Oh no! That's my... Gotcha!
 
 [Leela, not impressed, tosses the organ over her shoulder.]
 
-FRY
+<character>FRY</character>
 Oh, poor Bender. He must be so lonely 
 right now. Trapped a thousand years 
 in the past. Hey! Wait a second!
@@ -999,26 +999,26 @@ in the past. Hey! Wait a second!
 ruins of the Roswell Airbase. Fry searches the area with a metal 
 detector.]
 
-LEELA
+<character>LEELA</character>
 Anything?
 
-FRY
+<character>FRY</character>
 No.  Wait!
 
 [Leela slams her spade into the ground and it hits Bender's head.]
 
-BENDER [FROM GROUND]
+<character>BENDER </character>[<character>FROM GROUND</character>]
 Ow! Stupid junk!
 
-FRY
+<character>FRY</character>
 He's alive!  Bender. What was it like 
 lying in that hole for a thousand years?
 
-BENDER
+<character>BENDER</character>
 I was enjoying it until you guys showed 
 up.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Well, now everything is back as it was. 
 And if history doesn't care that out 
 degenerate friend Fry is his own grandfather, 
@@ -1027,10 +1027,10 @@ then who are we to judge?
 [Leela rejoins Bender's head with his body which is still shaped 
 like a spaceship.]
 
-BENDER
+<character>BENDER</character>
 Amen!
 
 [He lifts off. Fry, Bender, Leela and Farnsworth walk back to 
 the ship.]
 
-THE END</xml>
+<character>THE END</character></xml>

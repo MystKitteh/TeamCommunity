@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 202 
 
-<title>MARS UNIVERSITY</title>
+<title><character>MARS UNIVERSITY</character></title>
 
 <author>J. Stewart Burns</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -12,42 +12,42 @@ around the table. Bender has a bottle of L�brau. Fry has a can
 of Slurm and isn't wearing his jacket. Enter Farnsworth with 
 a large crate on a hover trolley.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Good news, everyone.  We've got a very 
 special delivery today.
 
-FRY
+<character>FRY</character>
 Who's it going to?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Me.
 
 [Bender dusts off his hands.]
 
-BENDER
+<character>BENDER</character>
 Another job well done.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No, I need it shipped to my office at 
 Mars University.  It's a little experiment 
 that may well win me the Nobel Prize.
 
-LEELA
+<character>LEELA</character>
 In what field?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I don't care, they all pay the same.
 
 [Fry stands next to the box.]
 
-FRY
+<character>FRY</character>
 Is it dangerous?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, my, no.  Off we go!
 
 [Opening Credits. There is a remixed version of the normal theme. 
-Caption: Transmitido en Martian en SAP.]
+Caption: Transmitido en Martian en <character>SAP</character>.]
 
 [The Planet Express ship flies towards Mars.]
 
@@ -60,28 +60,28 @@ of the university grounds. They walk past a statue of a big skulled
 Martian with octopus-like tentacles wielding a huge laser gun 
 on horseback.]
 
-FRY
+<character>FRY</character>
 Very impressive. Back in the 20th century 
 we had no idea there was a university 
 on Mars.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Well, in those days Mars was just a 
 dreary, uninhabitable wasteland, uh, 
 much like Utah. But unlike Utah, it 
 was eventually made livable, when the 
 university was founded in 2636.
 
-LEELA
+<character>LEELA</character>
 They planted traditional college foliage: 
 ivy, trees, hemp. Soon the whole planet 
 was terraformed.
 
-FRY
+<character>FRY</character>
 Does that mean it's safe to breathe 
 the air?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Of course.
 
 [Fry takes some huge breaths.]
@@ -89,7 +89,7 @@ Of course.
 [Outside Wong Library. The building is quite big, with "Socrates 
 | Vos Savant | Cognitron" written across the top.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Over here is Wong Library. It has the 
 largest collection of literature in 
 the Western universe.
@@ -103,52 +103,52 @@ impressedly.]
 
 [Cut to: Outside Wong Library.]
 
-BENDER
+<character>BENDER</character>
 Hey look. There's a chapter of my old 
 robot fraternity; Epsilon Rho Rho.
 
-[He points to a beaten up frat house with a neon "ERR" sign atop 
+[He points to a beaten up frat house with a neon "<character>ERR</character>" sign atop 
 it. There is a smashed up car, some kegs, a cable spool being 
 used as a table, some kegs, some dustbins, some kegs, some upturned 
 chairs and some kegs around it.]
 
-LEELA
+<character>LEELA</character>
 You went to college?
 
-BENDER
+<character>BENDER</character>
 Of course, I'm a bender. I went to Bending 
 College. I majored in Bending.
 
-FRY
+<character>FRY</character>
 What was your minor?
 
-BENDER
+<character>BENDER</character>
 Robo-American Studies.
 
 [Outside Epsilon Rho Rho House. Bender knocks on the door and 
 a dorky fratbot answers it.]
 
-FRATBOT #1
+<character>FRATBOT #1</character>
 Are you here to fumigate the moose head?
 
-BENDER
+<character>BENDER</character>
 Uh, no, actually I'm an Epsilon from 
 way back.
 
 [They both to a crazy handshake full of tugs, whizzes and the 
 creation of cosmic clouds.]
 
-FRATBOT #1
+<character>FRATBOT #1</character>
 Eh, close enough. C'mon in.
 
-BENDER
+<character>BENDER</character>
 Thanks. Here's your finger back.
 
 [The fratbot takes it and Bender and the crew follow him in.]
 
 [Cut to: Epsilon Rho Rho House. The place is a mess.]
 
-BENDER
+<character>BENDER</character>
 All the coolest robots are in this fraternity.
 
 [In another room two other fratbots sit at a table with a chessboard. 
@@ -160,60 +160,60 @@ on it on another wall. One of the other fratbots looks like he
 has glasses painted onto his face and the other one is very fat. 
 The glasses one looks at the chessboard. The game hasn't begun.]
 
-FRATBOT #2
+<character>FRATBOT #2</character>
 Mate in 143 moves.
 
-FRATBOT #3
+<character>FRATBOT #3</character>
 Oh, poo, you win again!
 
-BENDER
+<character>BENDER</character>
 Uh-oh, nerds!
 
-FRATBOT #1
+<character>FRATBOT #1</character>
 Allow me to introduce myself. I'm Gearshift, 
 chapter president. This is Oily, and 
 this here is Fatbot.
 
-BENDER
+<character>BENDER</character>
 You're all losers. My name's Bender.
 
 [The fratbots gasp.]
 
-OILY
+<character>OILY</character>
 Bender from Bending State Bender? Wow, 
 you're a legend around here!
 
-FATBOT
+<character>FATBOT</character>
 I heard that in one single night you 
 drank a whole keg, streaked across campus 
 and crammed 58 humans into a phone booth.
 
-BENDER
+<character>BENDER</character>
 (modest) Yeah, well, a lot of 'em were 
 children. Anyway I should get going.
 
 [Leela comes down the stairs.]
 
-GEARSHIFT
+<character>GEARSHIFT</character>
 No, Bender, wait. We're the lamest frat 
 on campus. Even Hillel has better parties 
 than us. Please, you've gotta stay and 
 teach us how to be cool.
 
-BENDER
-Hmm, OK. But I'll need 10 kegs of beer, 
+<character>BENDER</character>
+Hmm, <character>OK</character>. But I'll need 10 kegs of beer, 
 a continuous tape of Louie Louie and 
 a regulation two-storey panty-raid ladder.
 
 [Fatbot wiggles his fingers with excitement.]
 
-FATBOT
+<character>FATBOT</character>
 Oh, boy! Oh, boy! Oh, boy!
 
 [Mars University Campus. Fry, Leela and Farnsworth continue the 
 tour.]
 
-FRY
+<character>FRY</character>
 I tell you, being here really takes 
 me back to my college days.
 
@@ -222,49 +222,49 @@ where winners get a Bart and Homer Simpson doll. Fry stands by
 a booth called Coney Island Community College. A buck-toothed 
 guy leans through a window wearing a gown and hat.]
 
-MAN #1
+<character>MAN #1</character>
 Step right up, who wants to learn physics?
 
 [Fry shrugs and walks in.]
 
-MAN #2
+<character>MAN #2</character>
 Keep your hands inside the car at all 
 times.
 
 [Flashback ends.]
 
-FRY
+<character>FRY</character>
 Good old Coney Island College! Go Whitefish!
 
-LEELA
+<character>LEELA</character>
 Don't take this the wrong way, Fry, 
 but you don't seem like the educated 
 type.
 
-FRY
+<character>FRY</character>
 Oh, yeah?  Read it and weep. I'm a certified 
 college dropout.
 
-LEELA
+<character>LEELA</character>
 Please! Everyone knows 20th century 
 colleges were basically expensive daycare 
 centres.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 That's true. By current academic standards, 
 you're merely a high school dropout.
 
-FRY
+<character>FRY</character>
 What?! That's not fair. I deserve the 
 same respect any other college dropout 
 gets. By God, I'm gonna enroll here 
 at Mars University and drop out all 
 over again!
 
-LEELA
+<character>LEELA</character>
 You won't last two weeks.
 
-FRY
+<character>FRY</character>
 Aww, thanks for believing in me.
 
 [Mars University Student Registration. A few people queue up 
@@ -272,33 +272,33 @@ in front of the enrolment tables for A-L and M-Y. Several aliens
 queue at Z. Fry joins the A-L line and leafs through a course 
 catalogue. Amy wanders up behind him.]
 
-AMY
+<character>AMY</character>
 Yo, classmate. What you takin'?
 
-FRY
+<character>FRY</character>
 Oh, I don't know.  Hey, Professor, what 
 are you teaching this semester?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Same thing I teach every semester: The 
 mathematics of quantum neutrino fields. 
 I made up the title so that no student 
 would dare take it.
 
-FRY
+<character>FRY</character>
 Mathematics of wanton burrito meals. 
 I'll be there!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Please, Fry, I don't know how to teach; 
 I'm a professor!
 
-FRY
+<character>FRY</character>
 See you in class!
 
 [Farnsworth grumbles as he walks off with his crate.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh!
 
 [Mars University Campus. That night Bender runs around the Martian 
@@ -307,7 +307,7 @@ and they run across the campus with a ladder. They lean it up
 against the side of a building and climb on. The ladder lifts 
 them up to a window and they giggle as they peer through.]
 
-FATBOT
+<character>FATBOT</character>
 This is gonna be great!
 
 [Cut to: Sorority House. Sexy blondes pillow fight in their slinky 
@@ -316,15 +316,15 @@ and another takes a haiband out of her hair and starts typing
 on a Mac. The robots stare towards her chest then suddenly stare 
 at the Mac.]
 
-BENDER
+<character>BENDER</character>
 Bingo!
 
-FATBOT
+<character>FATBOT</character>
 Oh, mama!
 
 [Gearshift wolf whistles. The Mac fizzles and suddenly goes off.]
 
-BENDER
+<character>BENDER</character>
 Oh, yeah! Someone's been a bad computer! 
 Get a load of that!
 
@@ -335,73 +335,73 @@ and the fratbots crash into a building. Some guys wearing blue
 blazers and smoking pipes run out of Snooty House. The first, 
 Meiderneyer, has brown hair and the second one, Chet, is blonde.]
 
-MEIDERNEYER
+<character>MEIDERNEYER</character>
 I say, you've damaged our servants' 
 quarters ... and our servants.
 
-CHET
+<character>CHET</character>
 This time Robot House has gone too far.
 
-BENDER
+<character>BENDER</character>
 Cheese it!
 
 [They run off screaming.]
 
-FATBOT
+<character>FATBOT</character>
 (screaming) They're gonna catch us!
 
 [Financial Aid Dorm: Fry's Room. Fry looks around his new abode.]
 
-FRY
+<character>FRY</character>
 Hey, pretty nice for a single. Two desks, 
 two chairs, a couple of beds.  A woodpecker.
 
-LEELA
+<character>LEELA</character>
 I think that's probably your roommate.
 
-FRY
+<character>FRY</character>
 Oh, right, cool. (shouting) C'mon in, 
 roomie!  (talking) What the--?
 
-MONKEY
+<character>MONKEY</character>
 I call top bunk!  Ahh!
 
 [Time Lapse. The monkey hums as it empties it's case. It takes 
 out a toothbrush and toothpaste, a hairbrush and a hairdryer.]
 
-FRY
+<character>FRY</character>
 My roommate's a monkey?
 
-MONKEY
+<character>MONKEY</character>
 (sarcastic) Brilliant deduction, you're 
 a credit to your species.
 
 [Enter Farnsworth pushing the empty crate.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Ah, Fry, I see you've met Guenter!
 
-FRY
+<character>FRY</character>
 You know each other?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Guenter is my experiment. He was the 
 top secret contents of this stinking 
 crate.
 
 [He lowers the crate and pats it.]
 
-GUENTER
+<character>GUENTER</character>
 I'd rather live in a crate than share 
 a room with this dork.
 
-LEELA
+<character>LEELA</character>
 So what makes Guenter talk?
 
-FRY
+<character>FRY</character>
 Is he genetically engineered?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, please! That's preposterous science-fiction 
 mumbo-jumbo. Guenter's intelligence 
 actually lies in his electronium hat 
@@ -410,16 +410,16 @@ to produce cognitive radiation.
 
 [Fry scratches his head in confusion. Guenter scoffs.]
 
-GUENTER
+<character>GUENTER</character>
 You're wasting your breath, Professor. 
 He'll never understand a word of it.
 
-FRY
+<character>FRY</character>
 I understood the word "hat"!
 
 [He reaches for the hat and Guenter leaps back.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Please, stop bickering. I arranged that 
 you be roommates for a reason: So I'd 
 only have to remember one phone number. 
@@ -427,16 +427,16 @@ Now shake hands and make up.
 
 [They reluctantly do. Fry holds up a banana.]
 
-FRY
+<character>FRY</character>
 You want a banana?
 
-GUENTER
+<character>GUENTER</character>
 I don't eat bananas. I prefer banana-flavoured 
 energy bars made from tofu.
 
 [Fry narrows his eyes.]
 
-FRY
+<character>FRY</character>
 I don't like you.
 
 [Mars University: 20th Century History Lecture Hall. The teacher 
@@ -444,56 +444,56 @@ scrawls "20th Century History" on the blackboard with a piece
 of chalk and presses a button which converts it to clean text. 
 Guenter is sat to his left and Amy two seats left. Fry chuckles.]
 
-FRY
+<character>FRY</character>
 This is gonna be a cakewalk!
 
-TEACHER
+<character>TEACHER</character>
 Welcome to the history of the 20th century. 
 Look to your left, then to your right. 
 Then in nine other directions. One of 
 the 12 of you will not pass this class.
 
-AMY
+<character>AMY</character>
 Boring.  Let's hear about Walter Mondale 
 already!
 
-TEACHER
+<character>TEACHER</character>
 Be forewarned: The only sure way to 
 get an A in this class is to have lived 
 in the 20th century.
 
-FRY
+<character>FRY</character>
 Swish!
 
 [He swishes his hands. The teacher presses a button in front 
 of him marked "Fry" and Fry gets electrocuted.]
 
-TEACHER
+<character>TEACHER</character>
 You were saying, Mr. Fry?
 
-FRY
+<character>FRY</character>
 I'm from the 20th century. Go ahead, 
 ask me anything.
 
-TEACHER
+<character>TEACHER</character>
 Very well. What device invented in the 
 20th century allowed people to view 
 broadcast programmes in their own homes?
 
-FRY
+<character>FRY</character>
 Ooh ... I know this ... whatyya call 
 it? Lite Brite!
 
 [The teacher electrocutes him again. Guenter laughs and points 
 his pencil in the air.]
 
-GUENTER
+<character>GUENTER</character>
 I believe the answer is the television.
 
-TEACHER
+<character>TEACHER</character>
 Very good Mr ...  ... Guenter.
 
-AMY
+<character>AMY</character>
 (impressed) Wow! Smart and cute!
 
 [She ruffles Guenter's fur. Guenter smiles cockily at Fry.]
@@ -503,30 +503,30 @@ office at his desk carefully adjusting parts of a model spaceship
 with old-fashioned sails. He is a middle-aged man and wears a 
 brown suit and black thick-rimmed glasses.]
 
-VERNON
+<character>VERNON</character>
 What I love about being dean of students 
 is the peace and quiet and the respect 
 I receive.  Now what's all this about?
 
 [He puts it on speaker-phone.]
 
-WOMAN
+<character>WOMAN</character>
 Dean Vernon, the students from Robot 
 House are here.
 
 [Vernon takes off his glasses.]
 
-VERNON
+<character>VERNON</character>
 Robot House!
 
 [Enter Bender and the other fratbots.]
 
-BENDER
+<character>BENDER</character>
 Hey, dean, nice looking model.
 
 [Vernon quickly pulls it back from the edge of the desk.]
 
-VERNON
+<character>VERNON</character>
 You keep away from it. You robots are 
 a disgrace to this university. Whenever 
 a fire alarm is pulled, it's Robot House. 
@@ -534,25 +534,25 @@ Whenever the campus liquor store is
 looted, Robot House. Whenever a human 
 corpse is desecrated--
 
-BENDER
+<character>BENDER</character>
 Now, I can explain that.
 
-VERNON
+<character>VERNON</character>
 That's enough out of you. From this 
 day forth, Robot House is on dodecatupple-secret 
 probation!
 
 [The robots gasp.]
 
-BENDER
+<character>BENDER</character>
 No fair!
 
-FATBOT
+<character>FATBOT</character>
 My mom is gonna kill me!
 
 [Vernon puts his glasses back on.]
 
-VERNON
+<character>VERNON</character>
 Now if you'll excuse me, I have to get 
 back to the one thing that's kept me 
 sane these past eight years: My model 
@@ -561,33 +561,33 @@ ship.
 [He looks down. The ship isn't on his desk. His jaw drops when 
 he sees Fatbot eating it.]
 
-GEARSHIFT
+<character>GEARSHIFT</character>
 Fatbot! No!
 
-FATBOT
+<character>FATBOT</character>
 When I get nervous I get hungry.
 
 [Vernon grits his teeth.]
 
-BENDER
+<character>BENDER</character>
 Cheese it!
 
 [Cut to: Mars University: Outside Mentholyptus Hall. The robots 
 burst through the doors, run down the steps and away.]
 
-VERNON
+<character>VERNON</character>
 (shouting; from inside) Robot House!
 
 [Cafe. Fry sits with a brown-haired girl wearing an orange MU 
 top and reading an English 101 book. Fry has a tray in front 
 of him with a burger, two bananas and some crackers on it.]
 
-FRY
+<character>FRY</character>
 So, Chrissy, we seem to be hitting it 
 off. If you're not doing anything later 
 might I escort you to a kegger?
 
-CHRISSY
+<character>CHRISSY</character>
 Not even if you were the last man on 
 Mars.
 
@@ -598,12 +598,12 @@ as she writes something on a piece of paper and hands it to Guenter.
 She giggles, chews her pencil bashfully and leaves. Fry watches 
 her, dumbstruck. Guenter raps on the window and gets Fry's attention.]
 
-GUENTER
+<character>GUENTER</character>
 (shouting) Hey! You like bananas?
 
 [Cut to: Cafe. Guenter slaps the piece of paper onto the window.]
 
-GUENTER
+<character>GUENTER</character>
 (shouting; from outside) I got her number. 
 How do you like them bananas?
 
@@ -614,43 +614,43 @@ Hall. Farnsworth has drawn a diagram and some algerbra on the
 blackboard under the heading "Today's Lesson: WD or 'Witten's 
 Dog'".]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 And therefore, by process of elimination, 
 the electron must taste like grapeade.
 
 [He turns around to his class ... who aren't there. The door 
 opens and Fry walks in.]
 
-FRY
+<character>FRY</character>
 Sorry, I overslept.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Until 5pm?
 
-FRY
+<character>FRY</character>
 It's that obnoxious monkey. He kept 
 me up all night with his constant thinking. 
 Just thinking and thinking. He's trying 
 to make me look like an idiot.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Don't be jealous. Without his special 
 hat, Guenter might be no more intelligent 
 than you.
 
 [Fry sighs.]
 
-FRY
+<character>FRY</character>
 I hate that rodent!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Fry, that monkey is my most important 
 experiment. If you two don't stop fighting 
 I'll have you both neutered.
 
 [Fry chuckles.]
 
-FRY
+<character>FRY</character>
 That'll show him.
 
 [Mars University Parent's Reception. A string quartet plays in 
@@ -660,70 +660,70 @@ with old books, chanderliers and large armchairs. Guests include
 the boys from Snooty House and the fratbots. Amy is wearing a 
 long white dress and introduces her parents to Vernon.]
 
-AMY
+<character>AMY</character>
 Dean Vernon, I'd like you to meet my 
 parents, Leo and Inez.
 
-VERNON
+<character>VERNON</character>
 Ah, Mr. and Mrs. Wong, I'm so glad we 
 could admit Amy in exchange for your 
 generous contribution.
 
-MR. WONG
+<character>MR. WONG</character>
 How much more for Phi Beta Kappa?
 
-VERNON
+<character>VERNON</character>
 How much you got?
 
 [Fry scoops up some hors d'evours from the buffet and shovels 
 them in his mouth. Guenter sidles up beside him.]
 
-GUENTER
+<character>GUENTER</character>
 Sorry I'm late, I was off at a study 
 session ... with Chrissy!
 
 [Fry carries on chewing and narrows his eyes at Guenter.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, I'm glad you made it, Guenter because 
 in honour of parents weekend I have 
 a special surprise for you.
 
 [He pulls a purple sheet off a cage. There are two monkeys inside.]
 
-GUENTER
+<character>GUENTER</character>
 (horrified) Mom? Dad? What are you doing 
 here?  This is so humiliating.
 
 [Fry throws some bananas into the cage.]
 
-FRY
+<character>FRY</character>
 Now these monkeys I like!  What's that? 
 You wanna come out?
 
 [He unlocks the cage.]
 
-GUENTER
+<character>GUENTER</character>
 No! Stop!
 
 [The cage door falls open and the monkeys run out. One jumps 
 into the punch bowl and splashes around and another jumps onto 
 a snooty boy and knocks him over. The other guests run away.]
 
-CHET
+<character>CHET</character>
 I say.
 
 [Fry, Leela and Farnsworth duck.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 What's that they're flinging at us?
 
-GUENTER
+<character>GUENTER</character>
 Oh, dear Lord, all over the dean!
 
 [He covers his face.]
 
-FRY
+<character>FRY</character>
 Hey, uh, Guenter? Why don't you get 
 up on the chandelier with your parents 
 and I'll take a picture?
@@ -731,31 +731,31 @@ and I'll take a picture?
 [Guenter's parents swing around on the chandelier. He groans 
 and runs out.]
 
-BENDER
+<character>BENDER</character>
 Well, looks like the party's winding 
 down. Let's take a road trip to Tijuana 
 and get Fatbot some action.
 
 [Oily and Gearshift high-five.]
 
-FATBOT
+<character>FATBOT</character>
 It's my first time, I'm really nervous.
 
 [He eats the portrait of Vernon. Vernon wipes his face and sees.]
 
-VERNON
+<character>VERNON</character>
 (shouting) Robot House!
 
 [Financial Aid Dorm Corridor. Fry and Leela stand outside Fry 
 and Guenter's room.]
 
-LEELA
+<character>LEELA</character>
 What you did to Guenter was cruel. At 
 the risk of sounding like an after-school 
 special, I think we learned who the 
 real animal was today.
 
-FRY
+<character>FRY</character>
 You mean peer pressure?
 
 [Cut to: Financial Aid Dorm: Fry and Guenter's Room. Fry opens 
@@ -763,21 +763,21 @@ the door. The room is dark and Guenter's shadow is cast onto
 the wall. He is holding something and points it at Fry and Leela. 
 Fry gasps and hides behind Leela.]
 
-FRY
+<character>FRY</character>
 Look out! He's got a gun!
 
 [Leela turns the light on. Guenter is sat in the corner of the 
 room surrounded by banana skins. The thing he is holding is another 
 banana.]
 
-GUENTER
+<character>GUENTER</character>
 (crying) Leave me alone.
 
-LEELA
+<character>LEELA</character>
 Hey, what's going on? I thought you 
 didn't like bananas.
 
-GUENTER
+<character>GUENTER</character>
 (crying) Of course I do. I try so hard 
 to fit in but seeing my parents act 
 like that made me realise I'm just a 
@@ -785,7 +785,7 @@ primative beast.
 
 [He sobs.]
 
-FRY
+<character>FRY</character>
 Hey, hey, cheer up. Not everyone turns 
 out like their parents. I mean, look 
 at me. My folks were honest hardworking 
@@ -793,37 +793,37 @@ people.
 
 [He snorts.]
 
-LEELA
+<character>LEELA</character>
 Besides, Guenter, you're not like other 
 monkeys. You've got the hat.
 
-GUENTER
+<character>GUENTER</character>
 (crying) So what? I mean, sure, it looks 
 cool and it makes me smart but it doesn't 
 make me happy.
 
 [He sobs some more.]
 
-LEELA
+<character>LEELA</character>
 That's so sad. I didn't even know monkeys 
 could cry.
 
-GUENTER
+<character>GUENTER</character>
 (crying) They can't. It's all the hat.
 
 [And some more. Fry puts his hand on his shoulder.]
 
-FRY
+<character>FRY</character>
 Look, Guenter, if you're so miserable 
 here, maybe you should just go back 
 to the jungle.
 
-GUENTER
+<character>GUENTER</character>
 The jungle. But I couldn't do that to 
 the Professor. I'm his prize experiment, 
 and he's like a father to me.
 
-LEELA
+<character>LEELA</character>
 But he's not your father. That guy in 
 the punch bowl was your father.
 
@@ -833,18 +833,18 @@ the punch bowl was your father.
 flashes on the board and Guenter scribbles away, hard at work. 
 Farnsworth stands at the front with the teacher.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Look at him, I'm so proud.
 
-FRY
+<character>FRY</character>
 Thanks, Professor!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Not you.
 
 [He presses the electrocution button and Fry screams.]
 
-FRY
+<character>FRY</character>
 (screaming) Ow!
 
 [Guenter looks up from his paper and sighs. He has drawn bananas 
@@ -857,13 +857,13 @@ starts hyperventilating and finally cracks. He snaps his pencil
 and screams. He throws off his hat, makes monkey noises and jumps 
 through a window.]
 
-STUDENT
+<character>STUDENT</character>
 Hey!
 
 [Guenter runs off the campus and into the jungle and Farnsworth 
 hangs his head.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, I always feared he might run off 
 like this. Why? Why? Why didn't I break 
 his legs?
@@ -872,61 +872,61 @@ his legs?
 at a photo of him and Guenter on a log flume ride. He strokes 
 the picture.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (crying) Oh, poor Guenter.
 
-LEELA
+<character>LEELA</character>
 So he just ran away in the middle of 
 the exam?
 
 [Farnsworth sniffs.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I'm afraid so. All he handed in was 
 a paper smeared with faeces. He tied 
 with Fry.
 
-FRY
+<character>FRY</character>
 I guess he realised I was right when 
 I told him to go back to the jungle.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You what? After I spent months slaving 
 over a hot monkey brain?
 
-FRY
+<character>FRY</character>
 Hey, don't blame me. You tried to force 
 Guenter to be a human but he's an animal. 
 He belongs in the wild. Or in the circus 
 on one of those tiny tricycles. Now 
 that's entertainment.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 But Guenter's obviously better off being 
 intelligent. Tell him, Leela.
 
-LEELA
+<character>LEELA</character>
 Nuh-uh, I'm staying out of this. Now 
 here's my opinion: What we should do 
 is...
 
 [She leans in and whispers something to them.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 What?
 
-LEELA
+<character>LEELA</character>
 I said we'll go to the jungle and let 
 Guenter decide once and for all.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 What?
 
 [Mars Surface. There is a Big Fraternity Raft Regatta and crowds 
 have turned out to watch. The fratbots pull their delapidated 
 raft into the river alongside other frats.]
 
-VERNON
+<character>VERNON</character>
 You all know the rules. Whichever house 
 wins the regatta becomes head of the 
 Greek Council. And should that house 
@@ -937,51 +937,51 @@ Marshal of a parade honouring them.
 
 [The SS Von Snoot pulls up alongside Bender's raft.]
 
-CHET
+<character>CHET</character>
 I say, Robot House, your water craft 
 is as ill-designed as you yourselves.
 
-MEIDERNEYER
+<character>MEIDERNEYER</character>
 Good one, Chet!
 
 [They laugh, chink their glasses and gulp down their champagne.]
 
-BENDER
+<character>BENDER</character>
 Oh, yeah? Watch this!
 
 [He rips the top of a keg off, downs the whole thing and belches 
 a huge flame. He crushes the keg against his head and the Snootys 
 stare.]
 
-CHET
+<character>CHET</character>
 Well, I never!
 
-VERNON
+<character>VERNON</character>
 Fraternities, on your marks.
 
 [He fires the starting gun at the fratbots' boat and it starts 
 to deflate. The SS Von Snoot sails off.]
 
-BENDER
+<character>BENDER</character>
 Hey!
 
 [Mars Jungle. Leela cuts through some thicket and Farnsworth 
 and Fry follow.]
 
-FRY
+<character>FRY</character>
 Wow" The jungles on Mars look just like 
 the jungles on Earth.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Jungles? On Earth?
 
 [He laughs. Leela points up a tree.]
 
-LEELA
+<character>LEELA</character>
 I see some movement up there. I think 
 it's him.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Stand back.
 
 [He pulls a pin from a grenade and throws it into the bushes. 
@@ -989,10 +989,10 @@ It explodes and a purple gas envelopes the tree. Three tucans,
 two parrots, a frog, a lizard, a snake and tiger fall out of 
 it flat on their backs.]
 
-LEELA
+<character>LEELA</character>
 Oops.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Don't worry. They'll be fine once the 
 tranquiliser wears off.
 
@@ -1001,13 +1001,13 @@ tree and flatten the other creatures.]
 
 [Time Lapse. The trio peer through some leaves.]
 
-FRY
+<character>FRY</character>
 There's our man!
 
 [They watch Guenter sitting on a rock looking at his reflection 
 in a river.]
 
-LEELA
+<character>LEELA</character>
 Professor, you'll offer Guenter the 
 hat and, Fry, you'll offer him the banana. 
 We'll let him choose whether he wants 
@@ -1017,30 +1017,30 @@ animal.
 [Fry chombles on the banana. Leela gives him a stern look and 
 hands him a new one. Guenter scratches himself and sees them.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Come on, Guenter, take the hat.
 
-FRY
+<character>FRY</character>
 No, the banana, the banana!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Consider the philosophical and metaphysical 
 ramifications of the--
 
-FRY
+<character>FRY</character>
 Banana, banana, banana!
 
-LEELA
+<character>LEELA</character>
 Wait, what's that sound?
 
 [They hear a motorboat get closer and closer. It's the fratbots. 
 Bender waterskis behind the repaired raft.]
 
-GEARSHIFT
+<character>GEARSHIFT</character>
 (shouting) Hey, Bender, you sure this 
 is a short-cut?
 
-BENDER
+<character>BENDER</character>
 (shouting) Not as sure as I was an hour 
 ago!
 
@@ -1051,24 +1051,24 @@ fratbots come to a huge waterfall. They scream and go over the
 edge. They hit some rocks at the bottom and disappear underwater. 
 The SS Von Snoot sails past towards the finish line.]
 
-VERNON
+<character>VERNON</character>
 And the winner is ...  ... Robot House?!
 
 [The Snooty boys suddenly fall out of their boat. Leela, Fry 
 and Farnsworth are still heading for the waterfall. They grab 
 onto a log.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, dear Lord!
 
-LEELA
+<character>LEELA</character>
 No! No!
 
 [The log wedges itself behind a rock in the middle of the river 
 and they stop floating towards the waterfall. They breathe a 
 sigh of relief.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Thank God this log is sturdy.  (shouting) 
 Put on the hat, Guenter! You're the 
 only one who can save us!  (muttering) 
@@ -1076,28 +1076,28 @@ Stupid monkey.
 
 [Guenter puts the hat on his knee.]
 
-FRY
+<character>FRY</character>
 No.
 
-LEELA
+<character>LEELA</character>
 Not there.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Keep trying.
 
 [He puts it on his butt and Fry chuckles. Finally he puts it 
 on his head.]
 
-GUENTER
+<character>GUENTER</character>
 Eureka! The hat goes on the head. It's 
 all so obvious now!
 
 [The log starts to move.]
 
-LEELA
+<character>LEELA</character>
 (shouting) Help us, Guenter!
 
-GUENTER
+<character>GUENTER</character>
 Oh, my goodness. (shouting) Hang on. 
 I need to do some calculations.  Got 
 it!  Grab on!
@@ -1105,20 +1105,20 @@ it!  Grab on!
 [They do and Guenter tumbles over the edge, pulling them upwards. 
 The vine ties itself around them and a branch.],
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 We're saved!
 
-FRY
+<character>FRY</character>
 'Preciate it Guenter!
 
 [Guenter holds onto the vine as he dangles halfway down the waterfall. 
 The vine starts to break and he whimpers.]
 
-LEELA
+<character>LEELA</character>
 Oh, no! Hurry, Guenter, climb up the 
 vine. You can still save yourself.
 
-GUENTER
+<character>GUENTER</character>
 Why bother? I've got nothing to live 
 for. I was miserable as a genius, and 
 as a monkey, I was so dumb I tried to 
@@ -1129,7 +1129,7 @@ just no place for me in this world.
 [The vine snaps and he screams as he plummets towards the bottom. 
 Farnsworth, Fry and Leela watch him. He hits the water below.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, that poor, sweet monkey. Well lets 
 go gather him up. There's no sense letting 
 him go to waste.
@@ -1139,49 +1139,49 @@ him go to waste.
 [Time Lapse. They reach the foot of the waterfall and find Guenter 
 still alive. His hat is bashed though.]
 
-FRY
+<character>FRY</character>
 Guenter! You're alive!
 
-GUENTER
+<character>GUENTER</character>
 I guess the hat must have broke my fall.
 
 [Farnsworth opens up the hat.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 It seems to be working at only half-capacity, 
 but I can fix it.
 
-GUENTER
+<character>GUENTER</character>
 No, wait! I like it like this. I actually 
 feel sort of happy.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 But what about your super-intelligence?
 
-GUENTER
+<character>GUENTER</character>
 When I had that there was too much pressure 
 to use it. All I want out of life is 
 to be a monkey of moderate intelligence 
 who wears a suit. That's why I've decided 
 to transfer to business school!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (screaming) Nooo!
 
 [Mars University Campus. Dean Vernon keeps his word and reluctantly 
-heads the parade honouring the robots of ERR. Fatbot stands at 
+heads the parade honouring the robots of <character>ERR</character>. Fatbot stands at 
 the front of the float and waves to everyone. Farnsworth and 
 Amy are on the float as well. Guenter leaps on and Farnsworth 
 pats him on the head.]
 
-BENDER
+<character>BENDER</character>
 (shouting) Come on, everyone! Big party 
 in Robot House!
 
 [The students cheer and start dancing to Lloyd Williams' Shout. 
 As they dance Animal House-esque subtitles appear under the main 
 characters. "Fry Dropped Out Successfully And Returned To His 
-Dead-End Delivery Job" appears under Fry; "Guenter Got His MBA 
+Dead-End Delivery Job" appears under Fry; "Guenter Got His <character>MBA </character>
 And Became President Of The Fox Network" appears under Guenter; 
 "Fatbot Caught A Computer Virus In Tijuana And Had To Be Rebooted" 
 under Fatbot, "Leela Went On One Date With Dean Vernon, But He 
@@ -1189,4 +1189,4 @@ Never Called Again" under Leela and Vernon and finally "His Job
 Done, Bender Stole Everything Of Value From Robot House And Ran 
 Off" under Bender.]
 
-THE END</xml>
+<character>THE END</character></xml>

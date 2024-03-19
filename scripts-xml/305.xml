@@ -1,9 +1,9 @@
 <xml>
-<episodeInfo>FUTURAMA
+<episodeInfo><character>FUTURAMA</character>
 
 Episode 305
 
-<title>AMAZON WOMEN IN THE MOOD</title>
+<title><character>AMAZON WOMEN IN THE MOOD</character></title>
 
 <author>Lewis Morton</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -14,20 +14,20 @@ Episode 305
 for Hermes' morning meeting. Nibbler licks himself in the middle 
 of the table.]
 
-HERMES
+<character>HERMES</character>
 People, we got a problem: Little Nibbler's 
 been coughing up hairballs.
 
-LEELA
+<character>LEELA</character>
 Well, so has Fry. What's the big deal?
 
 [Nibbler coughs up a huge one. In amongst the green gloop is 
 a white cane. Fry makes an impressed whistle.]
 
-FRY
+<character>FRY</character>
 He's got me beat!
 
-HERMES
+<character>HERMES</character>
 Now well all love Nibbler, so it's only 
 fair that we all pitch in and clean 
 it up together. Still, I propose we 
@@ -35,34 +35,34 @@ make Zoidberg do it. All in favour?
 
 [Everyone except Zoidberg raises their hands.]
 
-LEELA
+<character>LEELA</character>
 Yeah!
 
-BENDER
+<character>BENDER</character>
 Alright, yup.
 
-HERMES
+<character>HERMES</character>
 All opposed?  All abstaining?
 
 [Again no one votes. Leela taps Zoidberg on the shoulder.]
 
-LEELA
+<character>LEELA</character>
 Dr. Zoidberg? Are you OK?
 
 [He keels over and rests on Fry's shoulder. Fry looks at him.]
 
-FRY
+<character>FRY</character>
 He's dead.
 
 [Everyone gasps.]
 
-BENDER
+<character>BENDER</character>
 What?
 
-AMY
+<character>AMY</character>
 Oh no!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 He always seemed so full of life. Laughing, 
 singing, begging for scraps. And now 
 this.
@@ -71,44 +71,44 @@ this.
 walks in wearing a towel. But his body is white-pink and is wobbling 
 around like lobster jelly.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Why with all the crying?  So that's 
 where I left my shell.
 
 [He wobbles over to the table. Leela picks up the shell.]
 
-LEELA
+<character>LEELA</character>
 I didn't know you could take this thing 
 off.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 It was starting to get a little cramped 
 in there so I molted, why not? Ah, the 
 fresh air feels good!
 
 [He wobbles around.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Stop doing that!
 
 [Zoidberg tucks his shell under his arm.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 So long. I'm off to toss this old shell 
 in the dumpster and maybe pick up those 
 potato chips Amy didn't finish yesterday.
 
-AMY
+<character>AMY</character>
 Those were toenail clippings.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 A feast is a feast.
 
 [He turns around and leaves. His shell has a huge hole down the 
 back of it. As he walks out his towel falls off. The sound of 
 a phone ringing comes from the lounge.]
 
-AMY
+<character>AMY</character>
 Hey, that's my cellphone!
 
 [She runs off.]
@@ -116,27 +116,27 @@ Hey, that's my cellphone!
 [Cut to: Planet Express: Lounge. Amy runs in and picks her tiny 
 cellphone up off the huge CellMate. She answers.]
 
-AMY
+<character>AMY</character>
 Hello?  Hello? Who is this?  Hello? 
 Hello?
 
 [They hang up and she curses. Leela walks in.]
 
-LEELA
+<character>LEELA</character>
 What's wrong? Did you swallow your phone 
 again?
 
 [She sits down.]
 
-AMY
+<character>AMY</character>
 Some guy's been calling and hanging 
 up 10 times a day for a year.
 
-LEELA
+<character>LEELA</character>
 Men who call too much are the worst 
 ... I bet.
 
-AMY
+<character>AMY</character>
 I just wish a decent guy would call 
 me instead of this spleeze-ball who 
 has me too terrified to even answer 
@@ -148,17 +148,17 @@ the phone.  Hello?
 phone and trembling. He tries to say something but just gasps 
 and stutters.]
 
-AMY
+<character>AMY</character>
 Hello? Is anyone there?
 
 [Kif hangs up.]
 
-KIF
+<character>KIF</character>
 I love you.  Why must I be such a coward?
 
 [He cries. Enter Zapp.]
 
-ZAPP
+<character>ZAPP</character>
 Kif, I'm headed to the men's room and 
 I'll be needing an attendant so-- Oh, 
 I'm sorry. You're crying like a woman. 
@@ -169,22 +169,22 @@ rap.
 
 [He sits on Kif's bed. Kif sighs.]
 
-KIF
+<character>KIF</character>
 Well, I'm in love with this girl--
 
 [Zapp bursts out laughing and pats Kif on the back.]
 
-ZAPP
+<character>ZAPP</character>
 (laughing) Oh, that's rich! (talking) 
 Go on.
 
-KIF
+<character>KIF</character>
 I met her a year ago...
 
 [Flashback. The Titanic escape pod flies away from the doomed 
 ship.]
 
-KIF
+<character>KIF</character>
 (voice-over) ...when we were escaping 
 from that cruise ship you piloted directly 
 into a black hole.
@@ -192,7 +192,7 @@ into a black hole.
 [Amy and Kif watch from the escape pod as the Titanic is sucked 
 into the black hole.]
 
-ZAPP
+<character>ZAPP</character>
 (voice-over; proud) Yes! It was in all 
 the papers.
 
@@ -201,7 +201,7 @@ building. Bender dumps the Countess De La Roca's fake bracelet
 in a bin and walks into the building with the other staff. Amy 
 kisses Kif and gives him her number.]
 
-AMY
+<character>AMY</character>
 Call me.
 
 [Kif takes the paper and she goes inside. He trembles and gasps 
@@ -209,86 +209,86 @@ and breathes heavily some more.]
 
 [Flashback ends. Zapp goes along with the story.]
 
-ZAPP
+<character>ZAPP</character>
 Uh-huh, uh-huh. Mm-hmm, uh-huh.
 
-KIF
+<character>KIF</character>
 I've finished talking, sir.
 
 [Zapp sees something on Kif's wall.]
 
-ZAPP
+<character>ZAPP</character>
 Belay that remark!  Your Amy knows my 
 Leela? I have formed an idea!
 
 [Nimbus Bridge. Leela is on the viewscreen, Zapp is in his chair 
 and Kif hides behind it. Amy walks in behind Leela.]
 
-ZAPP
+<character>ZAPP</character>
 I'm calling to negotiate a double date. 
 You and me, Kif and Amy.
 
-LEELA
+<character>LEELA</character>
 Forget it.
 
 [Cut to: Planet Express: Meeting Room. She turns away from the 
 screen.]
 
-ZAPP
+<character>ZAPP</character>
 Then let the negotiations begin. I 
 propose we go out on 10 dates.
 
-LEELA
+<character>LEELA</character>
 How about zero?
 
-ZAPP
+<character>ZAPP</character>
 Nine.
 
-LEELA
+<character>LEELA</character>
 Zero.
 
 [Cut to: Nimbus Bridge.]
 
-ZAPP
+<character>ZAPP</character>
 Seven.
 
 [Cut to: Planet Express: Meeting Room.]
 
-LEELA
+<character>LEELA</character>
 Zero.
 
-ZAPP
+<character>ZAPP</character>
 Eight?
 
 [Amy leans down at Leela's side.]
 
-AMY
+<character>AMY</character>
 (whispering) Please, Leela? Kif's like 
 the sweetest guy who's ever liked me.
 
-ZAPP
+<character>ZAPP</character>
 Five, and that's my final offer ... 
 four.
 
 [Leela sighs.]
 
-LEELA
+<character>LEELA</character>
 One.
 
-ZAPP
+<character>ZAPP</character>
 Two.
 
-LEELA
+<character>LEELA</character>
 One half.
 
 [Cut to: Nimbus Bridge.]
 
-ZAPP
+<character>ZAPP</character>
 I'll take it.
 
 [Cut to: Planet Express: Meeting Room.]
 
-ZAPP
+<character>ZAPP</character>
 We'll meet you tonight for part of 
 dinner and the first half of a movie.
 
@@ -299,26 +299,26 @@ orbiting a big, green planet. The main part of the restaurant
 looks like the Encounter Restaurant at Los Angeles airport. A 
 centipede-like alien leaves his coat at the coat check which 
 charges a 25 cent surcharge for every sleeve over nine. Zapp 
-walks in wearing his formal off-white DOOP uniform. Kif wears 
+walks in wearing his formal off-white <character>DOOP</character> uniform. Kif wears 
 a tie and jacket over his regular velour uniform and carries 
 some flowers and a box of chocolates.]
 
-KIF
+<character>KIF</character>
 Um, sir? I don't go out on many dates 
 and, um, what if I can't think of anything 
 to say?
 
-ZAPP
+<character>ZAPP</character>
 Here's my personal book of pickup lines. 
 Say as many of them as you can as fast 
 as you can. Don't stop for any reason.
 
-KIF
+<character>KIF</character>
 Maybe I'll just give her these flowers.
 
 [Zapp takes them and hits Kif with them.]
 
-ZAPP
+<character>ZAPP</character>
 Wrong, wrong, wrong! And what's that? 
 Candy? Candy's for dorks! Give me that. 
 Mmm!
@@ -328,41 +328,41 @@ He takes his hands off the wheel to hand some people a menu.
 Amy and Leela are already at the table. Amy wears a light blue 
 dress and Leela wears her black jacket. Zapp and Kif arrive.]
 
-ZAPP
+<character>ZAPP</character>
 Hello, beautiful. I got these for you.
 
 [He hands her Kif's flowers and sits down.]
 
-LEELA
+<character>LEELA</character>
 Thanks.
 
 [She sets fire to them and puts them in Zapp's glass of water.]
 
-ZAPP
+<character>ZAPP</character>
 Well, well. This looks to be one disturbingly 
 erotic date.
 
-LEELA
+<character>LEELA</character>
 Half-date.
 
-ZAPP
+<character>ZAPP</character>
 Waiter, bring us a bottle of wine.
 
-LEELA
+<character>LEELA</character>
 Half-bottle.
 
-ZAPP
+<character>ZAPP</character>
 And some oysters on the half-shell.
 
-LEELA
+<character>LEELA</character>
 Quarter-shell.
 
-KIF
+<character>KIF</character>
 Oh, and I'd like--
 
 [Zapp puts his hand over Kif's mouth.]
 
-ZAPP
+<character>ZAPP</character>
 Kif's not hungry. (quietly) Kif, this 
 place is expensive. (talking) I'd like 
 two steaks and the ladies will have 
@@ -374,7 +374,7 @@ sensual dressing.
 [Time Lapse. It's Kareoke Night at the restaurant and Morbo sings 
 Lipps Inc's Funkytown.]
 
-MORBO
+<character>MORBO</character>
 (singing) Oh, won't you take me to funkytown,
 
 Oh, won't you take me to funkytown.
@@ -385,68 +385,68 @@ Oh, won't you take me to funkytown.
 
 [At the table the meals have arrived.]
 
-AMY
+<character>AMY</character>
 Kif, you're so quiet. You haven't said 
 a word all night.
 
-KIF
+<character>KIF</character>
 Well, um, um ... hello.
 
-AMY
+<character>AMY</character>
 'Cause I was really hoping we could 
 talk and stuff.
 
 [Kif stutters and gasps then drinks a glass of wine and takes 
 out Zapp's book. Zapp smirks and picks his teeth with a toothpick.]
 
-KIF
+<character>KIF</character>
 Amy, (reading) if I said you had a beautiful 
 body would you take your pants off and 
 dance around a little?
 
-AMY
+<character>AMY</character>
 What?!
 
-LEELA
+<character>LEELA</character>
 Lieutenant Kroker!
 
 [Zapp winks at Kif and gives a thumbs up. Kif gasps and reads 
 some more.]
 
-KIF
+<character>KIF</character>
 (reading) I find the most erotic part 
 of the woman is the boobies
 
-AMY
+<character>AMY</character>
 Kif!
 
-KIF
+<character>KIF</character>
 Oh, my!
 
 [Leela stands up.]
 
-LEELA
+<character>LEELA</character>
 This half-date is entirely over. Amy? 
 Conference!
 
 [They walk away and Kif groans.]
 
-KIF
+<character>KIF</character>
 Is there nothing we can do, sir?
 
-ZAPP
+<character>ZAPP</character>
 There's only one sure-fire way back 
 into a woman's heart and parts beyond. 
 I speak of course, of kareoke.
 
-KIF
-(determined) My years in the DOOP Boys' 
+<character>KIF</character>
+(determined) My years in the <character>DOOP</character> Boys' 
 Chorus will not have been in vain!
 
 [Cut to: Le Palm D'Orbit Women's Room. Leela and Amy apply lipstick 
 with a handy device that doesn't touch their lips.]
 
-LEELA
+<character>LEELA</character>
 Alright, enough lipstick. Let's storm 
 out.
 
@@ -454,16 +454,16 @@ out.
 notice Kif starting to sing Bonnie Tyler's Total Eclipse Of The 
 Heart.]
 
-KIF
+<character>KIF</character>
 (singing) Once upon a time I was falling 
 in love,
 
 But now I'm only falling apart...
 
-AMY
+<character>AMY</character>
 Oh, that's so emotional!
 
-KIF
+<character>KIF</character>
 (singing) ...There's nothing I can do,
 
 A total eclipse of the heart--
@@ -471,7 +471,7 @@ A total eclipse of the heart--
 [Zapp walks onto the stage and pushes Kif aside. Kif drops the 
 mic and Zapp catches it and spins it around.]
 
-ZAPP
+<character>ZAPP</character>
 Amateur hour's over.  Let me show you 
 why they call me "The Velour Fog"! Hit 
 it!
@@ -485,16 +485,16 @@ Where you drink champagne and it tastes just like Coca-Cola,
 
 C-O-L-A .. .Cola.
 
-MAN
+<character>MAN</character>
 Aw, give us a break!
 
-WOMAN
+<character>WOMAN</character>
 Get off!
 
-CHEF
+<character>CHEF</character>
 He sickens me!
 
-ZAPP
+<character>ZAPP</character>
 (spoken-word) She walked up to me and 
 she asked me to dance,
 
@@ -521,20 +521,20 @@ off into space.]
 [Cut to: Le Palm D'Orbit. Zapp finishes singing. The restaurant 
 is deserted.]
 
-LEELA
+<character>LEELA</character>
 We're going home. Call us a space taxi.
 
-ZAPP
+<character>ZAPP</character>
 No need. There's not a restaurant built 
 I can't fly. Where to, ladies?
 
-KIF
+<character>KIF</character>
 Please, sir. Let's just divide up the 
 check and--
 
 [Zapp starts pressing buttons on the steering controls.]
 
-ZAPP
+<character>ZAPP</character>
 Let's see what this eatery can do.
 
 [Cut to: Outside Le Palm D'Orbit. The headlights and indicators 
@@ -544,24 +544,24 @@ ships away from the car park.]
 
 [Cut to: Le Palm D'Orbit.]
 
-ZAPP
+<character>ZAPP</character>
 Ah, she's built like a steakhouse, but 
 she handles like a bistro.  She's out 
 of control!
 
 [Cut to: Outside Le Palm D'Orbit.]
 
-ZAPP
+<character>ZAPP</character>
 (from inside) You win again, gravity!
 
 [Everyone screams as the restaurant tumbles towards the green 
 planet.]
 
 [Planet Express: Lounge. The next day, Fry, Bender and Hermes 
-sit watching TV. Zoidberg walks in still without a shell and 
+sit watching <character>TV</character>. Zoidberg walks in still without a shell and 
 carrying a purple J. Crab catalogue.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Look what arrived: My new shell catalogue. 
 So let's try some on already!  Ah! Muy 
 macho! Hey, gringos! Here comes El Zoido 
@@ -569,20 +569,20 @@ to ruin your drinking water!
 
 [He points claws at them like guns and imitates gunfire.]
 
-BENDER
+<character>BENDER</character>
 Whoa, whoa, whoa! I'm Mexican and I 
 find that offensive.
 
 [He opens his chest cabinet. "Hecho En Mexico" is etched on the 
 inside of his door. He closes it and it falls off.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 You Latins are so hot-blooded!  This 
 one's like a summer guy!
 
 [He turns around revealing his lobster ass.]
 
-HERMES
+<character>HERMES</character>
 Look, you fat fish. The Planet Express 
 health plan only covers one kind of 
 replacement shell.
@@ -591,7 +591,7 @@ replacement shell.
 and "Shell" printed on it. Zoidberg groans and Hermes closes 
 the catalogue. Zoidberg wobbles out towards the meeting room.]
 
-FRY
+<character>FRY</character>
 I can't believe Leela and Amy aren't 
 back yet from their half-date. I'm gonna 
 call the restaurant.
@@ -599,47 +599,47 @@ call the restaurant.
 [He picks up the phone and dials Le Palm D'Orbit. The dial tone 
 changes to the "unavailable" beeps.]
 
-OPERATOR
+<character>OPERATOR</character>
 The number you have dialled has crashed 
 into a planet. Please make a note of 
 it.
 
 [Fry and Bender gasp. Fry gets up.]
 
-FRY
+<character>FRY</character>
 We gotta go rescue them!
 
-BENDER
+<character>BENDER</character>
 Eh, I don't know.
 
-FRY
+<character>FRY</character>
 Bender! Think of the se�oritas!
 
 [Bender leaps up.]
 
-BENDER
+<character>BENDER</character>
 V�monos!
 
 [Planet Surface. Kif, Amy, Zapp and Leela sit amid the burning 
 wreckage of Le Palm D'Orbit.]
 
-KIF
+<character>KIF</character>
 So, Amy, um, well--
 
-AMY
+<character>AMY</character>
 It's always a line with you!
 
-LEELA
+<character>LEELA</character>
 What planet is this anyway?
 
-ZAPP
+<character>ZAPP</character>
 (mumbling) I 'unno. (talking) This whole 
 sector is uncharted.
 
-KIF
+<character>KIF</character>
 It is not uncharted, you lost the chart!
 
-ZAPP
+<character>ZAPP</character>
 Well, nothing to do now but repopulate 
 the human race.  Just me and you!  (whispering) 
 And maybe you.
@@ -647,7 +647,7 @@ And maybe you.
 [Crashing sounds come from the woods around them and the ground 
 starts to shake.]
 
-AMY
+<character>AMY</character>
 What is it?
 
 [She looks at the water in her cup which ripples like the glass 
@@ -660,17 +660,17 @@ Kug and she has a blue hairdo and wears very little. Two others
 are with her: Ornik, a darker Amazonian with dreads and Tonk, 
 a blonde.]
 
-KUG
+<character>KUG</character>
 Me hear people. But me not see people.
 
-THOG
+<character>THOG</character>
 No big deal. Everybody make mistake.
 
 [They turn to leave. Leela gestures for Amy and Kif to keep quiet. 
 Zapp peers over the top of the wreckage with a big grin on his 
 face. He turns on the charm.]
 
-ZAPP
+<character>ZAPP</character>
 Well, hello! I usually don't say this 
 but you are the most beautiful trio 
 of gigantic ladies I've ever laid eyes 
@@ -690,15 +690,15 @@ wreckage of Le Palm D'Orbit and smacks down onto the ground,
 the landing gear lowering just a little too late. Fry and Bender 
 run down the steps and see the wreckage.]
 
-FRY
+<character>FRY</character>
 Oh, no! Any sign of Leela or Amy?
 
-BENDER
+<character>BENDER</character>
 No. But what do you make of this?
 
 [He picks up a giant hairclip.]
 
-FRY
+<character>FRY</character>
 I don't know. But it might have something 
 to do with this.
 
@@ -707,7 +707,7 @@ to do with this.
 [Time Lapse. Bender peers through some huge grass blades and 
 gasps.]
 
-BENDER
+<character>BENDER</character>
 Oh, your God!
 
 [Fry looks through the grass. In front of them several Amazonians 
@@ -715,15 +715,15 @@ have gathered. Kug, Thog and Ornik lead Amy, Leela, Zapp and
 Kif into a ring at the front of the crowd. Around them is an 
 Amazonian city, with buildings made of wood and straw.]
 
-KUG
+<character>KUG</character>
 Move! Go!
 
-FRY
+<character>FRY</character>
 Alright, here's the plan--
 
 [Something grunts.]
 
-BENDER
+<character>BENDER</character>
 What kind of moronic plan is that?  
 Wow!
 
@@ -732,35 +732,35 @@ Wow!
 [Time Lapse. Fry and Bender are in chains with Zapp and Kif. 
 Leela and Amy are freed.]
 
-THOG
+<character>THOG</character>
 Women go free. Men stay in chains.
 
-ORNIK
+<character>ORNIK</character>
 We take them to our leader. She know 
 what do.
 
-FRY
+<character>FRY</character>
 Pfft. A female leader?
 
-LEELA
+<character>LEELA</character>
 Fry, shut up.
 
-FRY
+<character>FRY</character>
 Yes, captain!
 
 [Amazonian City. The Amazonians lead Leela, Amy and the prisoners 
 past the buildings.]
 
-THOG
+<character>THOG</character>
 This capital city planet Amazonia.
 
-LEELA
+<character>LEELA</character>
 Where are all the men in your society?
 
-ORNIK
+<character>ORNIK</character>
 Men die out many year ago.
 
-BENDER
+<character>BENDER</character>
 With all these women around they were 
 probably nagged to death. Are you with 
 me, fellas?
@@ -770,44 +770,44 @@ stop laughing.]
 
 [Outside Basketball Pitch. The group watch a woman bounce a basketball.]
 
-THOG
+<character>THOG</character>
 Here stadium, where our women basketball 
 teams play.
 
-KUG
+<character>KUG</character>
 We no can dunk, but good fundamentals.
 
-ORNIK
+<character>ORNIK</character>
 That more fun to watch.
 
 [Zapp, Fry and Bender laugh.]
 
-ZAPP
+<character>ZAPP</character>
 (laughing) Oh, God, you're killing me! 
 Ow! God, you're killing me!
 
 [Outside The Drollery Domicile.]
 
-THOG
+<character>THOG</character>
 This our comedy club. Humour here funny 
 in different way.
 
-ORNIK
+<character>ORNIK</character>
 It not reinforce stereotypes.
 
-KUG
+<character>KUG</character>
 Comedy come from character, real situations. 
 Not abstract craziness.
 
-BENDER
+<character>BENDER</character>
 Translation: Boring!  (laughing) That's 
 a good one!  Ow!
 
-AMY
+<character>AMY</character>
 This women-only planet is sounding better 
 and better.
 
-LEELA
+<character>LEELA</character>
 I'm already looking for apartments.
 
 [She looks through a free "Westside Cave Rentals" brochure.]
@@ -815,17 +815,17 @@ I'm already looking for apartments.
 [Outside Femputer Temple. The stone temple has a woman's face 
 carved into it and smoking boobies.]
 
-THOG
+<character>THOG</character>
 Here live vengeful, all-knowing leader. 
 She decide men's fate.
 
-FRY
+<character>FRY</character>
 Is she hot?
 
-THOG
+<character>THOG</character>
 That not important. She all-knowing.
 
-FRY
+<character>FRY</character>
 In other words, "No".  Ow!
 
 [Femputer Temple. Leela, Amy and the Amazonians and their prisoners 
@@ -834,43 +834,43 @@ room. Three Amazonians bow before a wall and the wall turns around
 revealing a huge piece of technology with dials and flickering 
 lights.]
 
-THOG
+<character>THOG</character>
 (chanting) All hail Femputer.
 
-KUG AND ORNIK
+<character>KUG AND ORNIK</character>
 (chanting) All hail Femputer.
 
-AMY
+<character>AMY</character>
 You all obey a big computer?
 
-KUG
+<character>KUG</character>
 Yes. It appear mysteriously just about 
 time men die out.
 
-LEELA
+<character>LEELA</character>
 So why did you make it your leader?
 
-ORNIK
+<character>ORNIK</character>
 It seemed like different kind of politician.
 
-KUG
+<character>KUG</character>
 Not beltway insider.
 
 [Thog holds something up to the Femputer.]
 
-THOG
+<character>THOG</character>
 Femputer, we bring offering of bath 
 beads and scented soaps.
 
-FEMPUTER
+<character>FEMPUTER</character>
 Your gift pleases Femputer. Femputer 
 demands to know why there are men on 
 her planet.
 
-FRY
+<character>FRY</character>
 It was an accident, ma'am.
 
-FEMPUTER
+<character>FEMPUTER</character>
 That does not fempute. Femputer will 
 return after deciding your punishment.
 
@@ -878,130 +878,130 @@ return after deciding your punishment.
 
 [Time Lapse. Kif, Zapp, Fry and Bender are shackled to the wall.]
 
-FRY
+<character>FRY</character>
 Leela, I'm through making fun of women. 
 Now I want them to help me.
 
-AMY
+<character>AMY</character>
 Should we do something?
 
 [Ornik chokes Fry with a strap.]
 
-LEELA
+<character>LEELA</character>
 There's no hurry.
 
 [Kug tightens the strap around Zapp's neck.]
 
-ZAPP
+<character>ZAPP</character>
 Yes! A little tighter.  Tighter. Perhaps 
 a hard spanking is in order?  Too hard!
 
 [She turns to Amy and Leela.]
 
-KUG
+<character>KUG</character>
 Men strange. You have them on your planet?
 
-LEELA
+<character>LEELA</character>
 (ashamed) I'm afraid so.
 
-KUG
+<character>KUG</character>
 What they for?  Oh, you mean "snu-snu".
 
 [The other Amazonians murmur.]
 
-THOG
+<character>THOG</character>
 We hear tell men used for snu-snu. But 
 all we have go on are ancient legend 
 and subscription to Cosmo.
 
-ZAPP
-Just FYI, I could be used for snu-snu.
+<character>ZAPP</character>
+Just <character>FYI</character>, I could be used for snu-snu.
 
-THOG
+<character>THOG</character>
 Silence. You want die like last men 
 visit Amazonia?
 
-FRY
+<character>FRY</character>
 What'd they die of?
 
-KUG
+<character>KUG</character>
 Crushed pelvises.
 
 [In the corner some happy little skeletons lie against the wall 
 with broken pelvises. One enjoyed himself so much he is still 
 holding the cigarette.]
 
-FRY
+<character>FRY</character>
 Yes!
 
-ZAPP
+<character>ZAPP</character>
 Oh, thank you, Lord in heaven!
 
 [The Femputer returns.]
 
-FEMPUTER
+<character>FEMPUTER</character>
 After lengthy femputations, I, Femputer, 
 have decided the fate of the men. Femputer 
 sentences them to death.  By snu-snu!
 
-FRY
+<character>FRY</character>
 (cheering) Yay!
 
-ZAPP
+<character>ZAPP</character>
 (cheering) Yeah!  (talking) What are 
 you, gay?
 
-FEMPUTER
+<character>FEMPUTER</character>
 Death to the men. Death by snu-snu.
 
 [The prisoners whimper.]
 
-FRY
+<character>FRY</character>
 Although the snu-snu part's gonna be 
 pretty good.
 
-ZAPP
+<character>ZAPP</character>
 Baby, it'll blow your mind.
 
-LEELA
+<character>LEELA</character>
 Femputer, be reasonable. Sure men are 
 annoying and they wreck up whatever 
 planet they're in charge of. But most 
 of these men are sorta my friends. They 
 don't deserve to die.
 
-FEMPUTER
+<character>FEMPUTER</character>
 Hmm. Perhaps men are not as evil as 
 Femputer thinks.
 
-THOG
+<character>THOG</character>
 But they make fun women's basketball.
 
-FEMPUTER
+<character>FEMPUTER</character>
 What?! Did you explain how the women's 
 good fundamentals make up for their 
 inability to dunk?
 
-ORNIK
+<character>ORNIK</character>
 Yes. They still laugh.
 
-FEMPUTER
+<character>FEMPUTER</character>
 The men must die.
 
-BENDER
+<character>BENDER</character>
 Too true, Femputer. You're so wise. 
 Kill 'em all, I say. Good riddance! 
 Did I mention I'm not a man? I'm a manbot. 
 It's an understandable mistake. You 
 can let me down now, thanks.
 
-KUG
+<character>KUG</character>
 He big jerk like man.
 
-BENDER
+<character>BENDER</character>
 I sure am. But check the crotch.  Nothing.
 
-FEMPUTER
+<character>FEMPUTER</character>
 Very well, release him. As for the others, 
 take them to the snu-snu chambers.
 
@@ -1016,52 +1016,52 @@ Zapp towards the snu-snu chambers under the moonlit sky.]
 with their hands tied behind them and their feet bound. Several 
 Amazonians have gathered to watch along with Amy, Leela and Bender.]
 
-BENDER
+<character>BENDER</character>
 (crying) I'll miss you, meatbag.
 
-LEELA
+<character>LEELA</character>
 Me too, meatbag.
 
-FRY
+<character>FRY</character>
 Goodbye, friends. I never thought I 
 would die like this. But I'd always 
 really hoped.
 
 [Femputer gives instructions over the Sonya loudspeaker.]
 
-AMAZONIANS
+<character>AMAZONIANS</character>
 (chanting) Snu-snu, snu-snu, snu-snu!
 
 [Thog starts untying Kif's hands.]
 
-KIF
+<character>KIF</character>
 Amy. Before I die, I have to tell you: 
 I didn't mean to say those awful things 
 on our date. They were all Zapp's idea.
 
-AMY
+<character>AMY</character>
 Really? Honest and true?
 
-KIF
+<character>KIF</character>
 Yes. And-And that person calling and 
 hanging up, was me. I was just too nervous 
 to say hello because I love you.
 
-AMY
+<character>AMY</character>
 Oh, Kif!
 
-THOG
+<character>THOG</character>
 It Thog's first time.  Be gentle!
 
 [She flings him over her shoulder and walks into the snu-snu 
 chamber. Ornik and Kug drag Fry and Zapp into two other chambers.]
 
-LEELA
+<character>LEELA</character>
 We've got to do something. Bender, maybe 
 you can interface with the Femputer 
 and reprogram it to let them go.
 
-BENDER
+<character>BENDER</character>
 Maybe you can interface with my ass. 
 By biting it!  Alright, I'll go!
 
@@ -1069,10 +1069,10 @@ By biting it!  Alright, I'll go!
 the chambers and two new women walk in. Fry and Zapp groan from 
 inside then cheer.]
 
-FRY
+<character>FRY</character>
 (from inside) Ooh! Yeah!
 
-ZAPP
+<character>ZAPP</character>
 (from inside) Oh, baby!
 
 [They groan and scream again.]
@@ -1080,13 +1080,13 @@ ZAPP
 [Outside Femputer Temple. Bender runs up one side and hides behind 
 one of the stone boobies. Two guards sit on the steps.]
 
-GUARD #1
+<character>GUARD #1</character>
 How Tonk look?
 
-GUARD #2
+<character>GUARD #2</character>
 Tonk look good. Me fat.
 
-GUARD #1
+<character>GUARD #1</character>
 No, you look good. Tonk fat.
 
 [Bender mocks them with the yack-yack gesture. They walk down 
@@ -1094,49 +1094,49 @@ the steps and Bender sneaks inside.]
 
 [Cut to: Femputer Temple. The Femputer is facing outwards.]
 
-FEMPUTER
+<character>FEMPUTER</character>
 Intruder! Stay away from the mighty 
 Femputer! Guards!
 
-BENDER
-Time to override the CPU and reprogram 
+<character>BENDER</character>
+Time to override the <character>CPU</character> and reprogram 
 this Femputer.
 
 [He takes out a pipe and starts hitting the Femputer.]
 
-FEMPUTER
+<character>FEMPUTER</character>
 Hey, whoa, whoa! Stop it! Stop it! Hey, 
 cut that out!
 
 [A panel falls down revealing a hollow section of the Femputer 
 with a bed, a curtain and lots of levers. Also a Fembot.]
 
-FEMBOT
+<character>FEMBOT</character>
 Cease hitting Femputer!
 
 [She turns around and sees Bender and screams.]
 
-BENDER
+<character>BENDER</character>
 You're no Femputer, you're a Fembot!
 
-FEMBOT
+<character>FEMBOT</character>
 (ashamed) It's true. I disguised myself 
 as a Femputer so I could rule the Amazonians.
 
-BENDER
+<character>BENDER</character>
 But why?
 
-FEMBOT
+<character>FEMBOT</character>
 Why? Why? I came here from a faraway 
 planet. A planet ruled by a chauvinistic 
 Manputer that was really a Manbot. Have 
 you any idea how it feels to be a Fembot 
 living in a Manbot's Manputer's world?
 
-BENDER
+<character>BENDER</character>
 What?
 
-FEMBOT
+<character>FEMBOT</character>
 And now, my meddling Manbot, there's 
 the question of what to do with you!
 
@@ -1146,21 +1146,21 @@ his arms and panicking.]
 [Snu-Snu Chambers. The Amazonians are queued up waiting for their 
 snu-snu. Fry and Zapp walk out, gasping.]
 
-ZAPP
+<character>ZAPP</character>
 (gasping) We need rest. The spirit is 
 willing but the flesh is spongy and 
 bruised.
 
-ORNIK
+<character>ORNIK</character>
 It time snu-snu!
 
-FRY
+<character>FRY</character>
 Can't we just cuddle?  (screaming) Nooo!
 
 [She carries him inside. Kug picks up Zapp. He groans and she 
 takes him in.]
 
-LEELA
+<character>LEELA</character>
 We can't wait for Bender. It's time 
 for a woman's touch.  Yah! Hi-yah! Yah, 
 yah yah!
@@ -1169,7 +1169,7 @@ yah yah!
 floor and sits on her. Amy walks past on stilts. She has put 
 a bone through her hair and torn her dress.]
 
-AMY
+<character>AMY</character>
 (disguised, deeper voice) Me next snu-snu. 
 Out me way.
 
@@ -1177,19 +1177,19 @@ Out me way.
 
 [Cut to: Kif's Snu-Snu Chamber. Thog looks under a bed.]
 
-THOG
+<character>THOG</character>
 Where go beautiful man?  Me want snu-snu!
 
 [She pokes him with a broom and he runs around the ceiling, his 
 hands and feet sticking to it. Amy walks in. She sees Kif and 
 Thog and gasps. She jumps off the stilts and holds out her arms.]
 
-AMY
+<character>AMY</character>
 Kif! Jump!
 
 [He lands in her arms.]
 
-KIF
+<character>KIF</character>
 My hero!
 
 [They kiss and run.]
@@ -1197,7 +1197,7 @@ My hero!
 [Outside Femputer Temple. Amy runs past the steps still carrying 
 Kif with the Amazonians chasing her.]
 
-THOG
+<character>THOG</character>
 (shouting) Me not get snu-snu! Get him!
 
 [They chase her around the side of the temple. Ornik, Kug and 
@@ -1208,53 +1208,53 @@ through a crack in the wall.]
 Amazonians run in and corner her. Thog gets on her knees in front 
 of the Femputer.]
 
-THOG
+<character>THOG</character>
 Mighty Femputer. Small girl steal green 
 kissy man. We kill her now?
 
-FEMBOT
+<character>FEMBOT</character>
 (from inside) Come back later. Leave 
 me alone.
 
-BENDER
+<character>BENDER</character>
 (from inside) Yeah, get lost!  (spookily) 
 Ooh! I'm a scary Femputer. Release the 
 prisoners!  (from inside) And bring 
 gold. Lots of gold.
 
-THOG
+<character>THOG</character>
 Gold? Why Femputer want gold?
 
-FEMBOT
+<character>FEMBOT</character>
 (from inside) You heard the man.
 
 [They giggle again. Amy and Kif smile and walk out.]
 
-BENDER
+<character>BENDER</character>
 (from inside) C'mon! Gimmie some of 
 that!
 
 [Planet Express: Lounge. Hermes and Zoidberg stand at the water 
 cooler.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 And that's how I got my new shell. It 
 looks just like the shell I threw out 
 yesterday and I found it in the same 
 dumpster, but this one had a live raccoon 
 inside.  Pretty good story, eh, Hermes?
 
-HERMES
+<character>HERMES</character>
 Stick to someone else, you windy barnacle�
 
 [Leela, Bender and Farnsworth sat at the table.]
 
-LEELA
+<character>LEELA</character>
 It's funny how the battle of the sexes 
 was only resolved when a Manbot and 
 a Fembot realised they loved each other.
 
-BENDER
+<character>BENDER</character>
 Yeah. By the way, if she calls, I'm 
 not here. All I know is this gold says 
 that was the best mission ever!
@@ -1263,21 +1263,21 @@ that was the best mission ever!
 gold. On the couch Kif yawns and puts his arm around Amy. She 
 giggles.]
 
-AMY
+<character>AMY</character>
 It sure was.
 
 [Fry and Zapp stand nearby in body casts and leaning on crutches.]
 
-FRY
+<character>FRY</character>
 Oh, yeah!
 
-ZAPP
+<character>ZAPP</character>
 I had snu-snu!
 
-KIF
+<character>KIF</character>
 So, um, Amy, w-what do you wanna do 
 now?
 
 [Amy whispers something in his ear and smiles. He gasps and stutters.]
 
-THE END</xml>
+<character>THE END</character></xml>

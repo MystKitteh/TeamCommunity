@@ -1,59 +1,59 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 108 
 
-<title>A BIG PIECE OF GARBAGE</title>
+<title>A <character>BIG PIECE OF GARBAGE</character></title>
 
 <author>Lewis Morton</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
 [Planet Express: Meeting Room. The crew are sat around the table.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Good news, everyone. Tomorrow you'll 
 be making a delivery to Ebola 9, the 
 virus planet.
 
-HERMES
+<character>HERMES</character>
 Why can't they go today?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Because tonight's a special night and 
 I want all of you to be alive. It's 
 the Academy of Inventors annual symposium.
 
-FRY
+<character>FRY</character>
 Wow! I love symposia.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 It's the event of the scientific season. 
 Every member presents an invention and 
 the best one wins the Academy prize.
 
-BENDER
+<character>BENDER</character>
 Sounds boring.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, my, yes. But not this year, because 
 my latest invention is unbeatable. Behold! 
 The death clock.  Simply jam your finger 
 in the hole and this readout tells you 
 exactly how long you have left to live.
 
-LEELA
+<character>LEELA</character>
 Does it really work?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Well it's occasionally off by a few 
 seconds. What with free will and all.
 
-FRY
+<character>FRY</character>
 Sounds like fun. How long do I have 
 left to live?
 
 [He puts his finger in the hole and the clock dings.]
 
-BENDER
+<character>BENDER</character>
 Ooh! Dibs on his CD player!
 
 [Opening Credits. Caption: Mr. Bender's Wardrobe By Robotany 
@@ -63,15 +63,15 @@ Ooh! Dibs on his CD player!
 all wearing white lab coats. Bender is wearing a top hat and 
 is talking to Farnsworth.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, my, yes.
 
-FRY
+<character>FRY</character>
 Who's the gross nerd?
 
 [He points to a picture of a geek on the wall.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 That's me at the very first symposium. 
 I'm the Academy's oldest living member, 
 you know. These youngsters all look 
@@ -79,36 +79,36 @@ up to me.
 
 [Enter an old man.]
 
-WERNSTROM
+<character>WERNSTROM</character>
 Well, well, well. Look who decided to 
 show his wrinkled face.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Why don't you just leave me alone, Wernstrom?!
 
-WERNSTROM
+<character>WERNSTROM</character>
 Face it, Farnsworth, you're over the 
 hill. It's time to leave science to 
 the 120-year-olds.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You young turks think you know everything. 
 I was inventing things when you were 
 barely turning senile.
 
 [Wernstrom laughs.]
 
-WERNSTROM
+<character>WERNSTROM</character>
 Go home before you embarrass yourself, 
 old man. Now, if you'll excuse me, I'm 
 going to take a nap before the ceremonies.
 
 [He leaves.]
 
-FRY
+<character>FRY</character>
 Who's that jerk?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 A hundred years ago he was my most promising 
 student at Mars University. But then 
 after one fateful pop-quiz...
@@ -116,20 +116,20 @@ after one fateful pop-quiz...
 [Flashback: Mars University. A younger Farnsworth hands a younger 
 Wernstrom a piece of paper.]
 
-WERNSTROM
+<character>WERNSTROM</character>
 A-minus? No one gives Ogden Wernstrom 
 an A-minus!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I'm sorry but penmanship counts.
 
-WERNSTROM
+<character>WERNSTROM</character>
 I swear I'll have my revenge even if 
 it takes me a hundred years.
 
 [Flashback ends.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 And here it is: Slightly over 99 years 
 later and still no revenge. I'm essentially 
 in the clear.
@@ -138,22 +138,22 @@ in the clear.
 at a table. Bender is wearing a top hat and is reading the wine 
 list. A waiter takes his order.]
 
-BENDER
+<character>BENDER</character>
 I've been perusing your fortified wine 
 list and I've selected the '71 Hobo's 
 Delight, the '57 Chateau Par-tay and 
 the '66 Thunder Chevitz.
 
-WAITER
+<character>WAITER</character>
 Exquisite choices, sir.
 
-BENDER
+<character>BENDER</character>
 And mix them all together in a big jug.
 
 [Time Lapse. The lights in the auditorium are now dimmed and 
 Ron Popeil's head in a jar is on the stage.]
 
-POPEIL
+<character>POPEIL</character>
 Welcome to this year�s Academy of Inventors 
 Annual Symposium, I'm your host, Ron 
 Popeil, inventor of Mr. Microphone, 
@@ -167,62 +167,62 @@ young star, Ogden Wernstrom.
 [The audience applauds and Wernstrom stands up and walks onto 
 the stage. Fry boos him.]
 
-BENDER
+<character>BENDER</character>
 (shouting) More wine!
 
-WERNSTROM
+<character>WERNSTROM</character>
 Distinguished members of the Academy, 
-I present to you, the Reverse SCUBA 
+I present to you, the Reverse <character>SCUBA </character>
 Suit. Observe!  Fetch!  Now, sit!  I 
 said sit!  Bad fish!
 
 [He hits the fish with a newspaper and it sits. The audience 
 applauds. Farnsworth groans.]
 
-FRY
+<character>FRY</character>
 Don't worry, Professor, it's no competition 
 for your death clock.
 
-WERNSTROM
+<character>WERNSTROM</character>
 And what will you be presenting this 
 evening, grandpa?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Let's just say it'll put you young whippersnappers 
 in your place!
 
-WERNSTROM
+<character>WERNSTROM</character>
 I just hope it's not as lame as that 
 death clock you presented last year.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Uh, last year, you say?
 
-WERNSTROM
+<character>WERNSTROM</character>
 That's right.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, my! Did it put you young whippersnappers 
 in your place?
 
-WERNSTROM
+<character>WERNSTROM</character>
 Hardly! We laughed until our teeth fell 
 out. Come along, Cinnamon.
 
 [His fish follows him.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, dear, I'll have to invent something 
 new in the next ten minutes. Perhaps 
 some sort of death clock.
 
-LEELA
+<character>LEELA</character>
 Uh, Professor...?
 
 [Time Lapse. A man on the stage demonstrates a helicopter hat. 
 He turns a handle and flies away. The audience applauds.]
 
-POPEIL
+<character>POPEIL</character>
 Our last presentation comes from our 
 oldest member, Professor Hubert Farnsworth. 
 Professor?
@@ -230,15 +230,15 @@ Professor?
 [A spotlight falls on Farnsworth. He is scribbling something 
 on a piece of paper.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Just a second, just a second.
 
-WERNSTROM
+<character>WERNSTROM</character>
 Pencils down, prune-face.
 
 [Farnsworth snarls and runs onto the stage.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Uh, yes, here I am, OK, now, hello there. 
 Now, we all know telescopes allow us 
 to see distant objects. But what if 
@@ -249,10 +249,10 @@ Smellescope.
 [He puts a piece of paper on a projector. The audience starts 
 talking.]
 
-MAN
+<character>MAN</character>
 Oh, I say!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 The odour travels past this coffee stain 
 here, around the olive pit and into 
 this cigar burn. And this appears to 
@@ -265,7 +265,7 @@ my!
 [He puts it back on the projector. It is smudged. The audience 
 laughs again.]
 
-WERNSTROM
+<character>WERNSTROM</character>
 I've waited a hundred years for this, 
 Farnsworth. I give your invention the 
 worst grade imaginable: An A-minus-minus.
@@ -275,7 +275,7 @@ worst grade imaginable: An A-minus-minus.
 [Time Lapse. Ron Popeil is back on the stage. A trophy is beside 
 him.]
 
-POPEIL
+<character>POPEIL</character>
 And now for the presentation of the 
 award. Listen, folks, I'm practically 
 giving this prize away to Dr. Wernstrom, 
@@ -287,35 +287,35 @@ outside, sighs and walks away.]
 [Planet Express: Meeting Room. Fry, Bender, Leela and Farnsworth 
 are sat around the table.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Perhaps 149 is just too old to be a 
 scientist.
 
-BENDER
+<character>BENDER</character>
 Yep!
 
-FRY
+<character>FRY</character>
 No, Professor, don't give up. There 
 were plenty of times in my century when 
 I was gonna give up but I never did. 
 Never! Hey, are you even listening to 
 me? Oh, I give up!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 By God, you're right! I'm going to build 
 that Smellescope!
 
 [Planet Express: Attic.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Eureka!
 
 [Fry, Leela and Bender run in.]
 
-FRY
+<character>FRY</character>
 Did you build the Smellescope?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No, I remembered that I'd built one 
 last year. Go ahead. Try it. You'll 
 find that every heavenly body has its 
@@ -324,59 +324,59 @@ it at Jupiter.
 
 [Fry sniffs.]
 
-FRY
+<character>FRY</character>
 Smells like strawberries.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Exactly! And now Saturn.
 
 [Fry sniffs.]
 
-FRY
+<character>FRY</character>
 Pine needles. Oh, man, this is great! 
 Hey, as long as you don't make me smell 
 Uranus.
 
 [He laughs.]
 
-LEELA
+<character>LEELA</character>
 I don't get it.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I'm sorry, Fry, but astronomers renamed 
 Uranus in 2620 to end that stupid joke 
 once and for all.
 
-FRY
+<character>FRY</character>
 Oh. What's it called now?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Urectum. Here, let me locate it for 
 you.
 
 [Fry chuckles.]
 
-FRY
+<character>FRY</character>
 No, no, I think I'll just smell around 
 a bit over here!  Hmm.  Hmm.
 
 [He sniffs again and starts gagging.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 What is it?  Oh, jeez! Oh, man! Remarkable! 
 A stench so foul is right off the funk-o-meter. 
 I dare say Fry may have discovered the 
 smelliest object in the known universe.
 
-BENDER
+<character>BENDER</character>
 Ooh, ooh, name it after me!
 
 [Leela sniffs.]
 
-LEELA
+<character>LEELA</character>
 I think it's moving.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Hmm, perhaps the computer can calculate 
 its trajectory.  My God! Whatever it 
 is it's headed straight for us. With 
@@ -386,7 +386,7 @@ to a stinky crater. We have less than
 
 [Fry, Leela and Bender gasp.]
 
-BENDER
+<character>BENDER</character>
 Well, lets get looting!
 
 [He picks up a TV and runs out.]
@@ -394,13 +394,13 @@ Well, lets get looting!
 [Planet Express: Meeting Room. The crew are sat around the table 
 looking at a hologram of the Earth.]
 
-FRY
+<character>FRY</character>
 So this thing's gonna destroy the whole 
 city?  What the heck is it?
 
 [Farnsworth taps a keyboard.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Ah! Just as I thought. The answer lies 
 in this movie I found on the Internet.
 
@@ -408,7 +408,7 @@ in this movie I found on the Internet.
 on the screen, along with the title The Great Garbage Crisis 
 Of 2000.]
 
-NARRATOR
+<character>NARRATOR</character>
 New York City: the year 2000. The most 
 wasteful society in the history of the 
 galaxy and it was running out of places 
@@ -428,75 +428,75 @@ the ball might return to Earth someday,
 but their concerns were dismissed as 
 "depressing".
 
-FRY
+<character>FRY</character>
 Wow! You got that off the Internet? 
 In my day the Internet was only used 
 to download pornography.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Actually that's still true.
 
 [He resumes the movie.]
 
-FEMALE SCIENTIST
+<character>FEMALE SCIENTIST</character>
 Now that the garbage is in space, doctor, 
 perhaps you can help me with my sexual 
 inhibitions.
 
-MALE SCIENTIST
+<character>MALE SCIENTIST</character>
 With gusto!
 
 [They both strip down to their underwear. Leela turns the lights 
 back on. Fry groans.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 So that's the situation. Due to the 
 short-sightedness of Old New York, New 
 New York is going to be destroyed by 
 a giant ball of garbage.
 
-LEELA
+<character>LEELA</character>
 Fry, what the hell were you people thinking 
 back then? How could you just throw 
 your garbage away?
 
-FRY
+<character>FRY</character>
 Hey, hey, gimmie a break! What do you 
 do with it?
 
-LEELA
+<character>LEELA</character>
 We recycle everything. Robots are made 
 from old beer cans.
 
-BENDER
+<character>BENDER</character>
 Yeah! And this beer can is made outta 
 old robots.
 
-LEELA
+<character>LEELA</character>
 And that sandwich you're eating is made 
 of old discarded sandwiches.  Nothing 
 just gets thrown away.
 
-FRY
+<character>FRY</character>
 The future is disgusting.
 
-LEELA
+<character>LEELA</character>
 Typical 20th century attitude.
 
-FRY
+<character>FRY</character>
 Hey! You have no right to criticise 
 the 20th century. We gave the world 
 the lightbulb, the steamboat and the 
 cotton gin.
 
-LEELA
+<character>LEELA</character>
 Those things are all from the 19th century.
 
-FRY
+<character>FRY</character>
 Yeah, well, they probably just copied 
 us.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Please! There's no time for this now. 
 This is an emergency. We must warn the 
 mayor.
@@ -504,27 +504,27 @@ mayor.
 [Citihall: Mayor's Office. The Mayor, a short balding man in 
 a green suit, sits behind his desk.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Garbage ball, huh? That sounds serious.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Very serious, Mayor Poopenmeyer.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 I gotta be sure this isn't another scientific 
 fraud like global warming or second-hand 
 smoke.  Send in my science advisor.
 
 [Enter Wernstrom.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Wernstrom!
 
-WERNSTROM
+<character>WERNSTROM</character>
 Well, well, well! Come to present your 
 latest napkin, Professor?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No, I'm here because a giant trash ball 
 is heading straight for us. Smell for 
 yourself.
@@ -532,40 +532,40 @@ yourself.
 [Farnsworth wipes the Smellescope. Poopenmeyer sniffs and leaps 
 back.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Hey! Holy jeez!
 
-WERNSTROM
+<character>WERNSTROM</character>
 That smell could be anything; A faulty 
 stench coil, some cheese on the lens, 
 who knows?
 
 [A woman walks in with a cassette player.]
 
-WOMAN
+<character>WOMAN</character>
 Mr. Mayor, we just got this transmission 
 from Neptune.
 
-MAN
+<character>MAN</character>
 Giant...garbage ball.....passed close 
 by...horrible stench......
 
-WOMAN
+<character>WOMAN</character>
 The transmission cuts out there, sir. 
 No, I, guess it keeps going.
 
 [The voice chokes again. The message cuts out.]
 
-WOMAN
+<character>WOMAN</character>
 There we go.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 My God! The senile old man is right.
 
-WERNSTROM
+<character>WERNSTROM</character>
 Do you mean him or me?
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Him!
 
 [He points at Farnsworth. Wernstrom grumbles.]
@@ -577,19 +577,19 @@ other is an alien that looks like one from This Island Earth.
 He has a huge green head with veins poking out of it and big 
 eyes.]
 
-LINDA
+<character>LINDA</character>
 Next, New New York in crisis. Morbo?
 
-MORBO
+<character>MORBO</character>
 Thanks, human female. Puny Earthlings 
 were shocked today to learn that a ball 
 of garbage will destroy their pathetic 
 city of New New York.
 
-LINDA
+<character>LINDA</character>
 Makes me glad we live here in Los Angeles.
 
-MORBO
+<character>MORBO</character>
 Morbo agrees!
 
 [They both laugh.]
@@ -598,10 +598,10 @@ Morbo agrees!
 is projected in the middle of the room. A military man is there 
 with the others.]
 
-LEELA
+<character>LEELA</character>
 Can't we just shoot a missile at it?
 
-MILITARY MAN
+<character>MILITARY MAN</character>
 We've simulated that on a supercomputer 
 but the ball is just too damn gooey. 
 A missile would go right through it.
@@ -609,7 +609,7 @@ A missile would go right through it.
 [The hologram shows a missile squelching through the garbage 
 ball.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 But suppose we send a crew to plant 
 an explosive precisely on the fault 
 line betwen this mass of coffee grounds 
@@ -618,41 +618,41 @@ disks.
 
 [The simulation explodes.]
 
-MILITARY MAN
+<character>MILITARY MAN</character>
 In theory, it could work.
 
-WERNSTROM
+<character>WERNSTROM</character>
 Uh, in theory, perhaps. But you'll never 
 find a crew willing to take on a mission 
 so suicidal-y dangerous.
 
 [Farnsworth smiles and looks at his crew.]
 
-BENDER
+<character>BENDER</character>
 Oh, crap!
 
 [Planet Express: Hangar. The crew are assembled in front of the 
 ship.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Now, you'll only have one chance to 
 destroy the ball. After that, it will 
 be so close to Earth that blowing it 
 up would cause garbage to rain over 
 the entire planet, killing billions.
 
-BENDER
+<character>BENDER</character>
 (ironic) Oh, boo-hoo!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Now here's the bomb I've prepared. Once 
 you activate it, you'll have 25 minutes 
 to get away.
 
-LEELA
+<character>LEELA</character>
 That's all? But --
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Now, now, there'll be plenty of time 
 to discuss your objections when and 
 if you return.
@@ -666,26 +666,26 @@ ball. It looks like the asteroid from Armageddon.]
 
 [Ships Cockpit.]
 
-LEELA
+<character>LEELA</character>
 Odour at magnitude 8.  Magnitude 12. 
 Magnitude 31.  We're breaking up. Turn 
 on the anti-smell device.
 
 [The sound of an air freshener goes off and the ship stops shaking.]
 
-FRY
+<character>FRY</character>
 Hmm, sporty!
 
 [Garbage Ball Surface. The ship cruises in and lands. The steps 
 go down, the door opens and the crew look around.]
 
-FRY
+<character>FRY</character>
 Wow!
 
-LEELA
+<character>LEELA</character>
 Look at all this filth.
 
-FRY
+<character>FRY</character>
 It's not filth. It's a glorious monument 
 to the achievements of the 20th century. 
 Look! A real Beanie Baby.  Oh! A Mr. 
@@ -695,29 +695,29 @@ Simpson dolls!
 [He runs over to a pile of them. Bender picks one up and pulls 
 the string.]
 
-DOLL
+<character>DOLL</character>
 Eat my shorts!
 
-BENDER
+<character>BENDER</character>
 OK  (� la Homer Simpson) Mmm! Shorts!
 
-LEELA
+<character>LEELA</character>
 Fry, this stuff was garbage when it 
 was new. Let's blow it up already!
 
-FRY
+<character>FRY</character>
 This junk isn't garbage! I can dig in 
 any random pile and find something great.
 
 [He digs in a pile and comes out with a six pack holder around 
 his neck, like a seagull. Leela cuts him free.]
 
-FRY
+<character>FRY</character>
 (gasping) Alright, let's get to work.
 
 [Time Lapse. The crew walk across the surface, reading a map.]
 
-LEELA
+<character>LEELA</character>
 Let's see. If that's Hypodermic Ridge 
 then the bomb must go right here.  Get 
 ready to run. We've got 25 minutes. 
@@ -726,37 +726,37 @@ Uh, 15 minutes.  5 minutes.  6h minutes?
 [Bender pulls the bomb out of the ground. He turns it upside 
 down.]
 
-BENDER
+<character>BENDER</character>
 There's your problem. The Professor 
 put the counter on upside-down.
 
-LEELA
+<character>LEELA</character>
 That idiot! It wasn't set for 25 minutes, 
 it was set for 52 seconds.
 
 [Fry screams.]
 
-FRY
+<character>FRY</character>
 We're gonna die! (calmly) Right?
 
-BENDER
+<character>BENDER</character>
 Right!
 
 [Fry screams again.]
 
 [Time Lapse. The timer is at 19 seconds. Bender screams.]
 
-BENDER
+<character>BENDER</character>
 It's gonna blow!
 
 [He throws it to Fry. Fry throws it back. Bender throws it at 
 Leela and it hits her helmet.]
 
-LEELA
+<character>LEELA</character>
 Hey, watch it! You'll put somebody's 
 eye out!
 
-BENDER
+<character>BENDER</character>
 OK, OK, keep your space pants on. I'll 
 take care of this.
 
@@ -764,10 +764,10 @@ take care of this.
 and bounces back into his hands. He throws it up again and it 
 explodes. The crew sigh with relief.]
 
-FRY
+<character>FRY</character>
 We're saved!
 
-LEELA
+<character>LEELA</character>
 Yeah, but this garbage ball's unstoppable 
 now. New New York is done for.
 
@@ -780,27 +780,27 @@ out and replaced with "Losers".]
 
 [Citihall: Mayor's Office.]
 
-LINDA
+<character>LINDA</character>
 All in all, this is one day Mittens 
 the kitten won't soon forget!
 
 [Morbo and Linda chuckle.]
 
-MORBO
+<character>MORBO</character>
 Kittens give Morbo gas. In lighter 
 news, the city of New New York is doomed. 
 Blame rests with known human Professor 
 Hubert Farnsworth and his tiny, inferior 
 brain.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, how could I have put that bomb timer 
 on upside-down? I could swear I followed 
 the manual precisely.  I'm a dried up 
 husk of a scientist. This is all my 
 fault.
 
-FRY
+<character>FRY</character>
 No, it's my fault too. I'm sure I threw 
 out more than my share of that trash 
 up there. Also, one month my toilet 
@@ -809,51 +809,51 @@ garbage can.  Leela was right. The people
 of the 20th century were idiotic slobs. 
 Especially me.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Enough! You all failed miserably. It's 
 time to put a real scientist in charge.
 
 [Enter Wernstrom.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Wernstrom!
 
-WERNSTROM
+<character>WERNSTROM</character>
 The very same.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Dr. Wernstrom, can you save my city?
 
-WERNSTROM
+<character>WERNSTROM</character>
 Of course. But it'll cost you. First 
 I'll need tenure.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Done.
 
-WERNSTROM
+<character>WERNSTROM</character>
 And a big research grant.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 You got it.
 
-WERNSTROM
+<character>WERNSTROM</character>
 Also, access to a lab and five graduate 
 students, at least three of them Chinese.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Um, alright done. What's your plan?
 
-WERNSTROM
+<character>WERNSTROM</character>
 What plan? I'm set for life! Au revoir, 
 suckers!
 
 [He walks out.]
 
-LEELA
+<character>LEELA</character>
 That rat! Do something!
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 I wish I could but, he's got tenure!
 
 [New New York Street. People stop and stare into the sky as a 
@@ -864,46 +864,46 @@ no one is looking and eats it.]
 [Cut to: Citihall: Mayor's Office. A pizza slice splats against 
 the window.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 It's time to take action.  Stephanie, 
 cancel the maid for today. Have her 
 come tomorrow.  Well, I'm out of ideas. 
 Anyone?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Wait! If we could build an object the 
 exact size, density and consistency 
 of the garbage ball, it might just knock 
 the ball away without smashing it to 
 bits.
 
-LEELA
+<character>LEELA</character>
 But where can we find a substance the 
 exact density and consistency as garbage?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Alas, I don't know.
 
-FRY
+<character>FRY</character>
 Uh, what about garbage?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Good Lord! A second ball of garbage! 
 That just might work!
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 But garbage isn't something you just 
 find lying in the streets of Manhattan. 
 This city's been garbage-free for 500 
 years!
 
-FRY
+<character>FRY</character>
 Then it's time to make some more.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Make garbage? But how?
 
-FRY
+<character>FRY</character>
 Stand back and watch the master! This 
 Slurm can.  Now it's garbage. These 
 papers.  Garbage. This picture of your 
@@ -911,28 +911,28 @@ wife.  Pure garbage. Now you try it.
 
 [Poopenmeyer picks up a pencil and drops it on the floor.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 By God, I think the boy's got something. 
 Come on, everyone! The fate of the city 
 is at stake!
 
 [He turns a chair on it's side.]
 
-FRY
+<character>FRY</character>
 Good!  Don't finish that cruller, throw 
 it away  Bender. Drink that beer and 
 drop the bottle on the ground.  Very 
 nice.
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Get that robot some more beer!  We've 
 trashed this room but that's just the 
 start. We've got to get Fry's message 
 to the people.
 
-[Woman's Kitchen. Fry is on TV.]
+[Woman's Kitchen. Fry is on <character>TV</character>.]
 
-FRY
+<character>FRY</character>
 People of New New York. Take a lesson 
 from the 20th century. Stop all this 
 pain-in-the-ass recycling and throw 
@@ -942,7 +942,7 @@ your garbage on the floor.
 
 [Man's Living Room.]
 
-FRY
+<character>FRY</character>
 Go ahead. Just chuck it any old place 
 like I used to. Your city is counting 
 on you.
@@ -959,33 +959,33 @@ bulldozed away.]
 [Launch Pad. The new garbage ball has been stuck on top of a 
 rocket. ]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 If my calculations are correct, this 
 garbage ball will knock the other garbage 
 ball directly into the sun.
 
-WERNSTROM
+<character>WERNSTROM</character>
 And if my calculations are correct, 
 we're all going to die horribly.
 
 [He laughs then realises what he's said.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Alright, places everyone. Prepare for 
 launch.
 
 [Farnsworth counts down.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Five, four, three, two, three, four, 
 five, six...
 
-LEELA
+<character>LEELA</character>
 Just fire the damn thing.
 
 [Fry tries to push the button but misses it.]
 
-FRY
+<character>FRY</character>
 Oops!
 
 [He pushes it again. The rocket takes off and heads towards the 
@@ -998,10 +998,10 @@ flies into the sun.
 
 [Launch Pad. Farnsworth sniffs through the Smellescope.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Burning garbage!
 
-FRY
+<character>FRY</character>
 It worked!
 
 [Everyone except Wernstrom cheers.]
@@ -1009,7 +1009,7 @@ It worked!
 [Outside Citihall. The Mayor and the Planet Express crew are 
 standing on the steps. Poopenmeyer is finishing a speech.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 And so, on behalf of the entire city, 
 I thank you, Professor Farnsworth. I 
 now present you with the Academy prize, 
@@ -1019,17 +1019,17 @@ a jackass.
 
 [He hands Farnsworth the trophy.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yes! In your face, Wernstrom!
 
-WERNSTROM
+<character>WERNSTROM</character>
 I'll get you, Farnsworth. Even if it 
 takes me another hundred years.
 
 [He and his five graduate students - three of them Chinese - 
 shake their fists.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 And, Fry, we owe you a tremendous debt 
 as well. If not for your 20th century 
 garbage-making skills, we'd all be buried 
@@ -1037,19 +1037,19 @@ under 20th century garbage.
 
 [The crowd cheers.]
 
-LEELA
+<character>LEELA</character>
 Should we really be celebrating? I mean, 
 what if the second garbage ball returns 
 to Earth like the first one did?
 
-FRY
+<character>FRY</character>
 Who cares? That won't be for hundreds 
 of years.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Exactly! It's none of our concern.
 
-FRY
+<character>FRY</character>
 That's the 20th century spirit!
 
 [He and Farnsworth hold the award up and the crowd cheers and 

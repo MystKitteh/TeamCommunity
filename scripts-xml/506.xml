@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 506
 
-<title>LESS THAN HERO</title>
+<title><character>LESS THAN HERO</character></title>
 
 <author>Ron Weiner</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -12,7 +12,7 @@ Episode 506
 [Planet Express: Meeting Room. Leela dials the videophone and 
 it connects. The SewerCom logo appears on the screen.]
 
-SEWERCOM ANNOUNCER
+<character>SEWERCOM ANNOUNCER</character>
 (Pleasant Female Voice) Your call is 
 being (Gruff Alien Voice) connected 
 (Pleasant Female Voice) by SewerCom 
@@ -20,26 +20,26 @@ being (Gruff Alien Voice) connected
 
 [Leela's parents, Morris and Munda, appear on the screen.]
 
-MUNDA [ON SCREEN]
+<character>MUNDA </character>[ON <character>SCREEN</character>]
 Look Morris, it's Leela calling.
 
-LEELA
+<character>LEELA</character>
 Hi Mom, hi Dad! Ready for your big trip 
 to the surface?
 
-MORRIS [ON SCREEN]
+<character>MORRIS </character>[ON <character>SCREEN</character>]
 We're excited honey but we don't wanna 
 embarrass you. I mean your mother and 
 I are basically monsters.
 
-LEELA
+<character>LEELA</character>
 Dad, relax. You are being so mutant!
 
-MUNDA [ON SCREEN]
+<character>MUNDA </character>[ON <character>SCREEN</character>]
 I found this adorable little bag to 
 wear over my head.  And it was on sale!
 
-LEELA
+<character>LEELA</character>
 No one's wearing anything adorable over 
 their head. Now listen, I could never 
 ever be ashamed of my parents. I'll 
@@ -49,62 +49,62 @@ see you this weekend.
 of poker at the table while Hermes and Amy relax on the sofa. 
 Enter Leela.]
 
-LEELA
+<character>LEELA</character>
 Hey, guess who I just got off the videophone 
 with?
 
-BENDER
+<character>BENDER</character>
 No.
 
-LEELA
+<character>LEELA</character>
 My parents! They're coming up from the 
 sewers for a visit Sunday.
 
 [Everyone gasps and reacts in horror.]
 
-AMY
+<character>AMY</character>
 Are you off your rocket? Your parents 
 are mutants. It's illegal for them to 
 come above ground 'cause they're inferior 
 genetic scum..uh present company excluded 
 of course!
 
-LEELA
+<character>LEELA</character>
 I'm getting them a special one-day surface 
 permit from Citihall.
 
-HERMES
+<character>HERMES</character>
 Ooo, while you're there, could you pick 
 me up a licence to kill?
 
-LEELA
+<character>LEELA</character>
 Sure. Bare hands or weapon?
 
-HERMES
+<character>HERMES</character>
 Uh, what does piano wire count as?
 
 [Enter Farnsworth.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Good news anyone, the Swedish robot 
 from pi-kea is here with the supercollider 
 I ordered.
 
-PI-KEA ROBOT
+PI-<character>KEA ROBOT</character>
 Enjoy your affordable Swedish crap!
 
 [As it rolls out, one of it's wheels falls off and it's shelf 
 breaks. Fry, Leela and Bender open the box. Fry picks up the 
 instructions.]
 
-FRY
+<character>FRY</character>
 Let's see what tools we'll need.  Uh-huh, 
 Uh-huh,  Uh-huh! Alright, we're all 
 set.
 
 [Bender takes a board out of the box and puts it down.]
 
-BENDER
+<character>BENDER</character>
 Nothing like the rustic wholesomeness 
 of working with one's own hand.
 
@@ -113,29 +113,29 @@ board in half.]
 
 [Time Lapse. Fry and Leela tighten the last nut with Bender.]
 
-BENDER
+<character>BENDER</character>
 Ah, there, finished. And with only six 
 missing pieces!
 
-FRY
+<character>FRY</character>
 Those Swedes sure know how to put in 
 almost everything you need.
 
 [Leela rubs her arm.]
 
-LEELA
+<character>LEELA</character>
 Man, I'm sore all over. I feel like 
 I just went ten rouns with Mighty Thor.
 
 [Fry rubs his shoulder.]
 
-FRY
+<character>FRY</character>
 I feel like I was mauled by Jesus.
 
 [Planet Express: Zoidberg's Office. Zoidberg rummages through 
 a cupboard and produces a tube of ointment.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I've got just the thing, genuine miracle 
 cream I bought from a travelling salesman. 
 "Come one come all," he said, "Step 
@@ -149,7 +149,7 @@ miracle cream...
 [The wall explodes and a charred Farnsworth tumbles through it 
 and lands in a crumpled heap on the other side of the room.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Bad news nobody, the supercollider super-exploded. 
 I need you to take it back and exchanged 
 it for a wobbly CD rack and some of 
@@ -161,7 +161,7 @@ those ransid meatballs.
 mugger steps out in front of them with his hat covering something 
 in his hand.]
 
-MUGGER
+<character>MUGGER</character>
 Excuse me? Hi! Do you have a minute? 
 I live in Jersey City and my car broke 
 down and I need to get back because 
@@ -169,28 +169,28 @@ my Aunt's real sick and she needs this
 medicine but I need money for the bus. 
 So I'm mugging you. Hand over your wallets.
 
-LEELA
+<character>LEELA</character>
 I don't believe that story for a second.
 
-MUGGER
+<character>MUGGER</character>
 It doesn't matter, I'm mugging you.
 
-FRY
+<character>FRY</character>
 There's no bus to Jersey City.
 
-MUGGER
+<character>MUGGER</character>
 Give me your wallets now or my robot'll 
 shoot.
 
 [He pulls his hat off his hand, revealing a small robot names 
 Andrew with a gun.]
 
-ANDREW
+<character>ANDREW</character>
 Don't make me hurt you.
 
 [Fry and Leela shriek. Fry fumbles for his wallet.]
 
-FRY
+<character>FRY</character>
 I'm too scared to find my pocket. Here, 
 I'll just take of my pants and give 
 you those.
@@ -198,7 +198,7 @@ you those.
 [He starts to unzip them. The mugger cringes and puts his hand 
 to his face.]
 
-MUGGER
+<character>MUGGER</character>
 Hey! I don't like what I'm seeing. Give 
 it to him Andrew!  Give it to him again 
 Andrew!  What the...? Laser proof shirts 
@@ -207,26 +207,26 @@ huh? I'll show you.
 [He picks up a pipe and hits Leela with it. It harmlessly bends 
 as it hits her.]
 
-LEELA
+<character>LEELA</character>
 What the? Hey! Quit it!  Heyya!
 
 [She grabs the mugger between her legs, spins him around and 
 throws him against a wall.]
 
-MUGGER
+<character>MUGGER</character>
 Foiled. And after years of planning.
 
-ANDREW
+<character>ANDREW</character>
 You're outta the game!
 
 [Planet Express: Hangar. Fry sits on the steps while Leela paces 
 around.]
 
-LEELA
+<character>LEELA</character>
 How did we manage to survive? What gave 
 us those strange powers?
 
-FRY
+<character>FRY</character>
 Maybe we're all wearing magic rings 
 but they're invisible rings so we don't 
 even realise it. Also you can't feel 
@@ -235,86 +235,86 @@ the rings.
 [Leela picks up Zoidberg's miracle cream and rubs some on her 
 neck. She reads something on the tube and gasps.]
 
-LEELA
+<character>LEELA</character>
 Fry, shut up and look at this! (Reading) 
 May cause superpowers in humans!
 
-FRY
+<character>FRY</character>
 Wow! A superpowers drug you can just 
 rub into your skin? You'd think it'd 
 be something you have to freebase.
 
-LEELA
+<character>LEELA</character>
 Let's see, which powers do we have? 
 Super-strength?
 
 [Fry karate chops a table in half and Leela kicks a hole in the 
 wall.]
 
-FRY
+<character>FRY</character>
 Yup.
 
-LEELA
+<character>LEELA</character>
 Uh-huh. Lickety speed?
 
 [The both run very fast to the other end of the hangar.]
 
-FRY
+<character>FRY</character>
 Check.
 
-LEELA
+<character>LEELA</character>
 Yes sir!  Ability to command a loyalty 
 of sea creatures?
 
-FRY (SHOUTING)
+<character>FRY </character>(<character>SHOUTING</character>)
 Hey Zoidberg, get in here!
 
-LEELA
+<character>LEELA</character>
 Ain't got that.
 
-FRY
+<character>FRY</character>
 Nope!
 
-LEELA
+<character>LEELA</character>
 Wow, superpowers! I'll be able to pack 
 my day with twice as many humdrum activity.
 
-FRY
+<character>FRY</character>
 Leela, I think you're missing the big 
 picture. When you were a kid what was 
 your biggest fantasy?
 
-LEELA
+<character>LEELA</character>
 To have parents.
 
-FRY
+<character>FRY</character>
 Whatever. The correct answer is: To 
 be a superhero. We have superpowers 
 and we're Americans. This is our chance.
 
-LEELA
+<character>LEELA</character>
 Hmm, I have been looking for a way to 
 serve the community that incorporates 
 my violence. Let's do it!
 
-FRY
+<character>FRY</character>
 You'll barely regret this!
 
 [Enter Bender.]
 
-BENDER
+<character>BENDER</character>
 Hey, a friend of mine said he mugged 
 you today and you had superpowers.
 
-LEELA
+<character>LEELA</character>
 It's true. Thanks to this funky fresh 
 cream.
 
-FRY
+<character>FRY</character>
 Now me and Leela are forming an awesome 
 crime-fighting duo.
 
-BENDER
+<character>BENDER</character>
 Wow, crime-fighting. Cool. You say you're 
 a duo? Yeah duos are good. Of course 
 sometimes they're a little short handed. 
@@ -324,16 +324,16 @@ things out. But, whatever.  I have these
 three costumes you could use. But, I 
 guess I'll just throw one away.
 
-LEELA
+<character>LEELA</character>
 We'd love to have you on the team Bender. 
 But aren't you more on the supply side 
 of crime?
 
-FRY
+<character>FRY</character>
 Plus the cream won't give you superpowers, 
 you're a robot.
 
-BENDER
+<character>BENDER</character>
 So? I'm already super-strong. And my 
 arms do this.  Also I got this going.
 
@@ -343,12 +343,12 @@ at each other.]
 [Planet Express: Roof. The trio, in their superhero garb, stand 
 on the roof looking across New New York.]
 
-LEELA (SHOUTING)
+<character>LEELA </character>(<character>SHOUTING</character>)
 Listen up New New York! There's a new 
 group of superheros in town! And we're 
 -
 
-LEELA
+<character>LEELA</character>
 (shouting) Sorry! (whispering) A new 
 era of justice has begun.
 
@@ -359,27 +359,27 @@ to stop this crime...]
 [The scene changes to a backdrop with The New Justice Team's 
 logo on it. Fry bursts through it.]
 
-FRY
+<character>FRY</character>
 Captain Yesterday!
 
 [Leela bursts through.]
 
-LEELA
+<character>LEELA</character>
 Clobberella!
 
 [Bender bursts through and pushes Leela aside.]
 
-BENDER
+<character>BENDER</character>
 And Superking! The best one of the three!
 
-FRY
+<character>FRY</character>
 Wow!
 
 [Scenes: Park. The New Justice Team's theme tune starts playing 
 and the scene cuts to a park where Petunia is sitting on a bench 
 feeding some rats. A thief snatches her bag.]
 
-SONG
+<character>SONG</character>
 Go Go New Justice Team,
 
 [Captain Yesterday swoops in front of the thief.]
@@ -421,7 +421,7 @@ Superking you rule!
 [Scenes: Street. Clobberella looks down from a rooftop and sees 
 an alien's cat is stuck up a tree.]
 
-SONG
+<character>SONG</character>
 Clobberella beats you up,
 
 Clobberella beats you up!
@@ -438,7 +438,7 @@ Clobberella!
 [Scenes: Rooftops. The New Justice Team jump from rooftop to 
 rooftop.]
 
-SONG
+<character>SONG</character>
 Citizens never fear,
 
 Crazy do-good freaks are here,
@@ -463,18 +463,18 @@ The New Justice Team!
 
 [Bender lands in front of them.]
 
-BENDER
+<character>BENDER</character>
 Ta-da!
 
 [Street. A crook is put into the back of a police van. Crowds 
 cheer the New Justice Team.]
 
-WOMAN (SEXFULLY)
+<character>WOMAN </character>(<character>SEXFULLY</character>)
 Captain Yesterday, I find your skintight 
 highwaters incredibly sexy! Let's get 
 together sometime!
 
-FRY
+<character>FRY</character>
 Sure. I'm listed in the phone book so 
 once I reveal my real name to you along 
 with my home address and a copy of my 
@@ -482,48 +482,48 @@ birth certificate -
 
 [Leela pulls him away from the woman.]
 
-LEELA
+<character>LEELA</character>
 Are you crazy?? We have to keep our 
 secret identities secret.
 
-FRY
+<character>FRY</character>
 From everybody?
 
-LEELA
+<character>LEELA</character>
 Especially from everybody.
 
-FRY
+<character>FRY</character>
 Give several reasons why.
 
-LEELA
+<character>LEELA</character>
 For one, superheroes cause a lot of 
 collateral damage, and we don't wanna 
 get our butts sued.
 
-FRY
+<character>FRY</character>
 Or do we...? No I guess not.
 
-LEELA
+<character>LEELA</character>
 Also, if our identities get out, every 
 crook in the city will be after us. 
 Or, God forbid, our loved ones.
 
-BENDER
+<character>BENDER</character>
 Superking has no need for loved ones. 
 How ya doin' kid?
 
 [Mayor's Office. Mayor Poopenmeyer signs the permits for Leela.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 There you go. Two one-day mutant surface 
 passes.
 
-LEELA
+<character>LEELA</character>
 Thank you Mayor Poopenmeyer.
 
 [Poopenmeyer's phone rings.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Mayor here...what's that? Horrible crime 
 in the works? Ruthless villain? Citizens 
 in danger? That's fantastic news!  Because 
@@ -532,102 +532,102 @@ I get to summon The New Justice Team!
 [He presses the nose on a clown picture. Bender's antenna wobbles. 
 He clasps his hands around it.]
 
-LEELA
+<character>LEELA</character>
 Shh!
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Uh, they're usually here by now.
 
-LEELA
+<character>LEELA</character>
 Well, so long. Keep in touch.
 
 [They start to leave.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Wait, stay and meet the superheroes. 
 There's three of you and three of them 
 so it'll be perfect.  Is this clown 
 on? Where are those daring crimestoppers?
 
-LEELA
+<character>LEELA</character>
 Oh, I completely forgot, I left my apartment 
 on fire!
 
 [She leaves.]
 
-BENDER
-Uh, as for me, I'm late for my LSAT's.
+<character>BENDER</character>
+Uh, as for me, I'm late for my <character>LSAT</character>'s.
 
 [He leaves.]
 
-FRY
+<character>FRY</character>
 And I can't take life anymore.
 
 [He runs and jumps through the window and flies back through 
 another one as Captain Yesterday. Clobberella and Superking run 
 in on the other side of the room.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Clobberella! Captain Yesterday! My liege! 
 You're just in time!  We've received 
 a tip that the Museum of Natural History 
 will be robbed tomorrow at exactly 9am. 
 The target: The priceless Quantum Gemerald!
 
-FRY
+<character>FRY</character>
 Who's the perp?
 
 [The hologram changes.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 A dangerous villain know as The Zookeeper, 
 who commits crimes aided by a pack of 
 highly trained animals.
 
-FRY
+<character>FRY</character>
 Pack of highly. Got it!
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 His crew includes a badger with a troubled 
 past and nothing left to lose, an elephant 
 who never forgets - to kill! And a seldom 
 used crab named Lucky aka Citizen Snips.
 
-LEELA
+<character>LEELA</character>
 You can count on us Mr Mayor! Justice 
 away!
 
 [She and Fry runs out with Bender gasping and puffing behind 
 them.]
 
-BENDER (GASPING)
+<character>BENDER </character>(<character>GASPING</character>)
 Hold the elevator!
 
 [Planet Express: Restroom. Leela addresses an envelope to her 
 parents and puts the surface passes in. Then she flushes it down 
 the toilet.]
 
-BENDER
+<character>BENDER</character>
 We're in here too.
 
-FRY
+<character>FRY</character>
 Uh, Leela, how you gonna meet your folks 
 tomorrow? We've already scheduled the 
 Zookeeper for a 9am foiling at the museum.
 
-LEELA
+<character>LEELA</character>
 Not a problem. I've cleverly arranged 
 to meet my parents right there at the 
 same museum at 10.
 
-BENDER
+<character>BENDER</character>
 9, 10 a big fat hen.  The name...Bender!
 
 [Museum Of Natural History. People go about their business in 
 the museum whilst The New Justice Team sit atop a giant ant which 
 is suspended from the ceiling.]
 
-LEELA
+<character>LEELA</character>
 I can't believe the Zookeeper is this 
 late for his own heist. It's just rude! 
 Total hell! It's 10! I'm supposed to 
@@ -636,69 +636,69 @@ secret costume!  There they are!
 
 [Morris and Munda look around, disappointed.]
 
-MUNDA
+<character>MUNDA</character>
 How could Leela not be here? Do you 
 think she forgot?
 
-MORRIS
+<character>MORRIS</character>
 Relax. I'm sure she's just ashamed of 
 us.
 
-SECURITY GUARD
+<character>SECURITY GUARD</character>
 Yo! Freakjobs! Hit the nearest manhole! 
 Pronto like.
 
-MORRIS
+<character>MORRIS</character>
 But we have passes that allow us to 
 be up here. From the mayor himself.
 
 [Munda hands the passes to the security guard.]
 
-SECURITY GUARD
+<character>SECURITY GUARD</character>
 I dunno...I never heard of no mayor.
 
 [Enter the Zookeeper.]
 
-RANDY
+<character>RANDY</character>
 The Zookeeper!
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Sorry I'm late, long story. Now everybody 
 hit the deck! I'm cutting the entire 
 line and stealing the exhibit.
 
 [The New Justice Team drop to the floor in front of him.]
 
-LEELA
+<character>LEELA</character>
 You're not stealing anything! Nobody 
 hit the deck!
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Ah, superheroes! Or should I say superzeroes!
 
-FRY (SADLY)
+<character>FRY </character>(<character>SADLY</character>)
 That was uncalled for.
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Animals, attack.
 
 [He blows a silent whistle and animal exhibits come to life and 
 break out of the glass cases. They run rampage.]
 
-TOUR GUIDE
+<character>TOUR GUIDE</character>
 Please to not feed the animals!
 
 [An elephant picks her up and eats her. In a scene lifted from 
 Batman The New Justice Team spring into action. A yak charges 
-towards Fry and he punches it. YAK!. Bender picks a fight with 
+towards Fry and he punches it. <character>YAK</character>!. Bender picks a fight with 
 a boxing kangaroo.]
 
-BENDER
+<character>BENDER</character>
 You're going down my friend! Down Under!
 
 [He laughs. The kangaroo punches him. 01001010!!!]
 
-TEDDY ROOSEVELT
+<character>TEDDY ROOSEVELT</character>
 Man boxing a kangaroo is a peculiar 
 spectacle. But a kangaroo boxing a robot? 
 Now I'm afraid you've lost me!  (shouting) 
@@ -708,31 +708,31 @@ Citizen Snips!
 The snake reaches into the Quantum Gemerald's case and takes 
 it.]
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Nice job Fingers!
 
 [He kisses it.]
 
-MUNDA
+<character>MUNDA</character>
 I'm scared and confused. I think we've 
 wandered into an off-Broadway play.
 
-MORRIS
+<character>MORRIS</character>
 No there are way too many people here.
 
 [The Zookeeper runs up a flight of stairs.]
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Later, if anyone asks how I got away, 
 tell them right now!
 
 [Clobberella and Captain Yesterday leap in front of him.]
 
-LEELA
+<character>LEELA</character>
 Forget it Zookeeper! You're going into 
 captivity!
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Fool! A quip without putting me behind 
 bars would have been far more delicious! 
 Here catch!
@@ -740,37 +740,37 @@ Here catch!
 [He throws the Gemerald over the side of the stairs. Fry leaps 
 for it and goes over the edge too.]
 
-LEELA
+<character>LEELA</character>
 No, Fry you can't fall fast enough!
 
 [She runs down the stairs while the Zookeeper runs off in another 
 direction. Bender hold out his arms at the bottom of the staircase.]
 
-BENDER
+<character>BENDER</character>
 I got it I got it!  I don't got it!
 
 [Leela dives in front of him and catches the Gemerald. Fry falls 
 on top of Bender. Everyone cheers.]
 
-TEDDY ROOSEVELT
+<character>TEDDY ROOSEVELT</character>
 You've saved the Gemerald!
 
-FRY
+<character>FRY</character>
 Yet the Zookeeper escaped. Thus proving 
 that the deadliest animal of all is 
 the Zookeeper!
 
-BENDER
+<character>BENDER</character>
 You can get off me anytime.
 
-LEELA
+<character>LEELA</character>
 Oh no! My parents are leaving! I've 
 gotta go change back into street-Leela.
 
 [She turns to leave but Mayor Poopenmeyer and several photographers 
 block her path.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Thank you mysterious heroes. The value 
 of the Gemerald you saved is slightly 
 greater than the cost of the damage 
@@ -783,7 +783,7 @@ take photographs. Leela looks around sadly.]
 [Outside Museum Of Natural History. Morris sets some cones out 
 by a manhole.]
 
-MUNDA
+<character>MUNDA</character>
 It's good that Leela doesn't love us. 
 She'll be less sad when we die.
 
@@ -791,7 +791,7 @@ She'll be less sad when we die.
 in after her, takes the cones and replaces the cover. Leela comes 
 out of the museum just as they disappear.]
 
-LEELA
+<character>LEELA</character>
 Mom? Dad? I showed up! And I got the 
 audio tour for Treasures Of Liberachi's 
 Tomb!
@@ -800,85 +800,85 @@ Tomb!
 
 [Turanga House. Leela is with her parents.]
 
-MORRIS
-Sweetie, it's OK. You don't have to 
+<character>MORRIS</character>
+Sweetie, it's <character>OK</character>. You don't have to 
 apologise for standing us up on the 
 only visit to the surface we'll ever 
 have.
 
-LEELA
+<character>LEELA</character>
 I wanna tell you why I didn't show up. 
 But I can't. Just please believe me 
 that it was a very good reason. I'm 
 sorry I disappointed you.
 
-MUNDA
+<character>MUNDA</character>
 Leela, you could never disappoint us.
 
-MORRIS
+<character>MORRIS</character>
 We're so proud of everything that you 
 are. And we always will be. You're our 
 baby girl.
 
 [They both smile.]
 
-LEELA
+<character>LEELA</character>
 Oh, I can't take it! Mom, Dad, I'm Clobberella!
 
 [She rips her clothes off revealing her Clobberella outfit. Munda 
 gasps.]
 
-MORRIS
+<character>MORRIS</character>
 Galloping gators!
 
-MUNDA
+<character>MUNDA</character>
 You're a superhero?  Well that's wonderful! 
 But did you have to make the costume 
 so revealing?
 
 [Morris puts his arm around Leela.]
 
-MORRIS
+<character>MORRIS</character>
 Look at me! Proud dad of a superhero! 
 We should print up T-Shirts! And F-Shirts 
 for our friends with two arms on the 
 same side!
 
-LEELA
+<character>LEELA</character>
 No, listen. It's very important that 
 you never ever tell anyone. Under any 
 circumstance.
 
-MORRIS
+<character>MORRIS</character>
 What if I've had a few?
 
-LEELA
+<character>LEELA</character>
 Dad, you drink? No. Not even then.
 
-MORRIS
+<character>MORRIS</character>
 Alright. My sucker is sealed.
 
-LEELA
+<character>LEELA</character>
 In fact, I shouldn't even be wearing 
 this around here.  It was brisk, I dressed 
 in layers.
 
-MUNDA
+<character>MUNDA</character>
 That's my girl!
 
 [Lake Mutagenic. Morris, Raoul and the Leg Mutant sit in a boat 
 fishing.]
 
-MORRIS
+<character>MORRIS</character>
 So uh, anyway, my daughter's Clobberella.
 
-RAOUL
+<character>RAOUL</character>
 Leela is Clobberella?
 
-LEG MUTANT
+<character>LEG MUTANT</character>
 You're pulling me!
 
-MORRIS
+<character>MORRIS</character>
 Shh, keep it under your sock. It's a 
 big secret. That's why I'm only telling 
 you two.
@@ -886,11 +886,11 @@ you two.
 [Cut to: Shore Of Lake Mutagenic. A big eared mutant and a big 
 mouthed mutant overhear.]
 
-BIG EARED MUTANT
+<character>BIG EARED MUTANT</character>
 Oh my God! That guy's daughter is Clobberella! 
 But don't tell anyone.
 
-BIG MOUTHED MUTANT
+<character>BIG MOUTHED MUTANT</character>
 Gotcha!
 
 [Planet Express: Meeting Room. Farnsworth, Fry, Leela and Bender 
@@ -898,89 +898,89 @@ sit around the table. The Zookeeper appears on the screen.]
 
 [Fry, Leela and Bender gasp.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I don't remember much buddy, and you're 
 no looker!
 
-LEELA
+<character>LEELA</character>
 Uh Professor, isn't it time for your 
 nap?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yes dammit!
 
 [He falls asleep. His chair flies out of the room.]
 
-LEELA
+<character>LEELA</character>
 Zookeeper! How did you know our real 
 identities?
 
 [He claps and a parrot lands on his shoulder.]
 
-PARROT [ON SCREEN]
+<character>PARROT </character>[ON <character>SCREEN</character>]
 Leela told her parents. Leela's parents 
 blabbed.
 
 [The Zookeeper gives it a cracker.]
 
-FRY
+<character>FRY</character>
 Leela, is the person that parrot is 
 mimicking telling the truth by proxy?
 
-LEELA (SADLY)
+<character>LEELA </character>(<character>SADLY</character>)
 Yes. My parents were so hurt, I couldn't 
 help it! (angry) But I distinctly told 
 them not to tell anyone.
 
 [Bender puts on his Superking crown.]
 
-BENDER
+<character>BENDER</character>
 We are not amused.
 
 [He claps and gorilla comes in pulling a cage. In the cage are 
 Leela's parents. Leela gasps.]
 
-LEELA
+<character>LEELA</character>
 Mom! Dad!
 
-MUNDA [ON SCREEN]
+<character>MUNDA </character>[ON <character>SCREEN</character>]
 Leela please forgive us! Especially 
 your father who's the one who told thank 
 you very much Morris.
 
-LEELA
+<character>LEELA</character>
 Are you alright? Has he hurt you?
 
-MORRIS [ON SCREEN]
+<character>MORRIS </character>[ON <character>SCREEN</character>]
 No but my allergies are going nuts. 
 Oh God!
 
-MUNDA [ON SCREEN]
+<character>MUNDA </character>[ON <character>SCREEN</character>]
 Every couch and table has animal fur 
 all over it. He lets them climb on everything!
 
-LEELA
+<character>LEELA</character>
 Alright Zookeeper, what do you want?
 
 [He laughs.]
 
-MUNDA [ON SCREEN]
+<character>MUNDA </character>[ON <character>SCREEN</character>]
 Save us Leela! I mean...if you don't 
 have anything better to do.
 
 [A pirhana walks past the camera and bites it. The picture cuts 
 out.]
 
-LEELA
+<character>LEELA</character>
 We're out of options. We have to steal 
 the Gemerald!
 
-FRY
+<character>FRY</character>
 But, should superheroes commit crime? 
 Even to save lives? I need moral guidance. 
 Bender?
 
-BENDER
+<character>BENDER</character>
 Hmm, the thought of stealing anythig 
 fills Superking with disgust. But if 
 it must be so, then let a museum heist 
@@ -989,68 +989,68 @@ be pulled!
 [Planet Express: Locker Area. Leela opens her locker. The miracle 
 cream tube is empty. Fry picks it up.]
 
-FRY
+<character>FRY</character>
 Oh no! Our superpower cream is out of 
 itself!
 
-LEELA
+<character>LEELA</character>
 Check inside the cap! There might be 
 a caked in goldmine!
 
 [Fry unscrews the cap and looks inside.]
 
-FRY
+<character>FRY</character>
 El zilcho! I'm afraid we're boned.
 
-BENDER
+<character>BENDER</character>
 El zilcho...is it too late to change 
 my superhero name?
 
 [Museum Of Natural History. Enter The New Justice Team.]
 
-LEELA
+<character>LEELA</character>
 Just be cool. Nobody knows we're superpowerly 
 challenged.
 
 [Fry gasps.]
 
-FRY
+<character>FRY</character>
 Man, this costume is so damn heavy!
 
-KID
+<character>KID</character>
 Hey Captain Yesterday, can I like, wail 
 on you with this 2x4 and it doesn't 
 hurt you?
 
 [He whacks Fry.]
 
-FRY
+<character>FRY</character>
 Owww! That...didn't hurt.
 
-SECURITY GUARD
+<character>SECURITY GUARD</character>
 Hi superheroes, everything OK?
 
-LEELA
+<character>LEELA</character>
 Big O, little k my friend! Just checking 
 if everything's alright!
 
-SECURITY GUARD
+<character>SECURITY GUARD</character>
 It's OK alright!
 
-LEELA
+<character>LEELA</character>
 OK then. Grab it!
 
 [Bender's arm extends, breaks the display case and grabs the 
 Gemerald. The crowd gasps.]
 
-BUBBLEGUM TATE
+<character>BUBBLEGUM TATE</character>
 Yo, the superheroes have turned evil! 
 Most uncool!
 
-SECURITY GUARD
+<character>SECURITY GUARD</character>
 Get 'em!
 
-LEELA
+<character>LEELA</character>
 Stay back! Or we'll, beat the tour out 
 of you...using superpowers!
 
@@ -1061,97 +1061,97 @@ out and down the steps.]
 
 [Zookeeper's Non-Lair.]
 
-FRY
+<character>FRY</character>
 So this is your lair?
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Of course not. You think I'd show you 
 my lair? My lair's a million times nicer 
 than this!
 
-FRY
+<character>FRY</character>
 OK, take it easy!
 
-BENDER
+<character>BENDER</character>
 Well, here's your lousy Gemerald.
 
 [The Zookeeper claps.]
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Hawk! Fetch!
 
 [The hawk flies off his shoulder and picks up the Gemerald.]
 
-FRY
+<character>FRY</character>
 That seemed unnecessary.
 
 [Enter the gorilla with Morris and Munda.]
 
-ZOOKEEPER
+<character>ZOOKEEPER</character>
 Our transaction is complete. Come Solomon, 
 to the lair.
 
 [The gorilla picks him up and runs off down a dark passage.]
 
-LEELA
+<character>LEELA</character>
 Mom, Dad, oh I'm so sorry I got you 
 kidnapped by a crazy madman who tried 
 to feed you to pirhanas.
 
-MUNDA
+<character>MUNDA</character>
 We're just happy to be involved in your 
 life.
 
-LEELA
+<character>LEELA</character>
 No no, it's my fault for telling you 
 I was a superhero.
 
-MORRIS
+<character>MORRIS</character>
 That's true.
 
-LEELA
+<character>LEELA</character>
 I just couldn't stand to have you to 
 think I was ashamed of you.
 
-MUNDA
+<character>MUNDA</character>
 That's OK sweetie, but, it's natural 
 for children to be a little ashamed 
 of their parents.
 
-FRY
+<character>FRY</character>
 Oh yeah!
 
-MORRIS
+<character>MORRIS</character>
 Just like it's natural for parents to 
 be a little disappointed in their children...n-not 
 that we are.
 
-MUNDA
+<character>MUNDA</character>
 But you could call a little more often.
 
-LEELA
-OK.
+<character>LEELA</character>
+<character>OK</character>.
 
-MUNDA
+<character>MUNDA</character>
 And would it kill you to use some mouthwash?
 
 [Leela hugs them.]
 
-BENDER
+<character>BENDER</character>
 Hey Fry we've still got our costumes 
 on. Wanna steal some more stuff?
 
-FRY
+<character>FRY</character>
 I guess, as long as you think it's right.
 
-BENDER
+<character>BENDER</character>
 Superheroes away!
 
 [Closing Credits. Over the credits are a montage of clips from 
 the episode as well as a new version of The New Justice Team 
 song.]
 
-SONG
+<character>SONG</character>
 Go go go New Justice Team!
 
 Fighting justice is their quest!

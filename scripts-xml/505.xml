@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 505
 
-<title>KIF GETS KNOCKED UP A NOTCH</title>
+<title><character>KIF GETS KNOCKED UP A NOTCH</character></title>
 
 <author>Bill Odenkirk</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -11,46 +11,46 @@ Episode 505
 
 [Planet Express: Lounge. Amy flies in on a party-board.]
 
-AMY
+<character>AMY</character>
 Woohoo!  Shman! The Great Rad Spot is 
 mega sweet for mega party-boarding.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Indeed.
 
-AMY
+<character>AMY</character>
 Any calls while I was out?
 
-LEELA
+<character>LEELA</character>
 Yeah. You got a telesonic transmission 
 from Kif a couple hours ago.
 
 [Amy gasps.]
 
-AMY
+<character>AMY</character>
 My Kiffie called?  Kif?
 
-KIF [ON SCREEN]
+<character>KIF </character>[ON <character>SCREEN</character>]
 Ooo Amy you're back. Another hour and 
 I would have thought about hanging up.
 
-AMY
+<character>AMY</character>
 Why didn't you just leave a message 
 sweetie?
 
-KIF [ON SCREEN]
+<character>KIF </character>[ON <character>SCREEN</character>]
 Well um, I've left hundreds of messages 
 with your answering machine but you 
 never seem to...
 
-AMY (SHOUTING)
+<character>AMY </character>(<character>SHOUTING</character>)
 Bender!
 
-BENDER
+<character>BENDER</character>
 Not my fault if you don't check me! 
 Messages erased.
 
-KIF [ON SCREEN]
+<character>KIF </character>[ON <character>SCREEN</character>]
 Oh dearest, this long distance relationship 
 is too much to bear......when even an 
 inch seperates us I quiver with misery. 
@@ -61,14 +61,14 @@ a billion light years.
 
 [Cut to: Nimbus Communication Room.]
 
-AMY [ON SCREEN]
+<character>AMY </character>[ON <character>SCREEN</character>]
 Kif, don't cry, or you'll get a tummy 
 ache.
 
 [Cut to: Planet Express: Lounge. On the screen Zapp walks up 
 behind Kif.]
 
-ZAPP [ON SCREEN]
+<character>ZAPP </character>[ON <character>SCREEN</character>]
 Lieutenant, some things came off me 
 and clogged the drain so if you could......oh 
 ho! What's this?
@@ -76,11 +76,11 @@ ho! What's this?
 [Cut to: Nimbus Communication Room. Zapp zooms the screen in 
 on Leela.]
 
-ZAPP
+<character>ZAPP</character>
 Well well well! Do my eyes believe me 
 or is that my bosomy swan, Leela?
 
-LEELA [ON SCREEN]
+<character>LEELA </character>[ON <character>SCREEN</character>]
 Say again. You're breaking up!
 
 [She throws the book she is reading at the screen.]
@@ -88,22 +88,22 @@ Say again. You're breaking up!
 [Cut to: Planet Express: Lounge. Leela's book hits the screen 
 and smashes it, cutting off the line. Amy groans. Enter Farnsworth.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Good news everyone. You'll be delivering 
 pain medicine to the hive mind of Nigel 
 7.
 
 [Enter Scruffy, wheeling in a huge pill.]
 
-SCRUFFY
+<character>SCRUFFY</character>
 Scruffy's rollin' out a large pill!
 
-AMY
+<character>AMY</character>
 You're going to Nigel 7? Kif's on patrol 
 near there! You could drop me off on 
 the way!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 We could but we won't! It's a spaceship 
 dammit not a prom limousine!  If anyone 
 needs me I'll be in the Angry Dome.
@@ -117,14 +117,14 @@ dome.]
 
 [Ship's Cockpit. The ship leaves Earth orbit.]
 
-LEELA
+<character>LEELA</character>
 This is a very long trip, so we'll all 
 have to go into hibernative-naptosis 
 to save oxygen.
 
 [She presses a button and the lights dim. Bender curses.]
 
-BENDER
+<character>BENDER</character>
 I don't even breathe oxygen!
 
 [He shuts down.]
@@ -136,7 +136,7 @@ Amy climbs out of it.]
 [Cut to: Ship's Cockpit. Amy sneaks past a snoring Bender, sits 
 in the pilot's seat and takes control of the ship.]
 
-AMY (WHISPERING)
+<character>AMY </character>(<character>WHISPERING</character>)
 Here I come Kif!
 
 [She turns the ship around and laughs.]
@@ -144,91 +144,91 @@ Here I come Kif!
 [Nimbus Bridge. Zapp watches Casper The Friendly Ghost on the 
 screen and chuckles.]
 
-ZAPP
+<character>ZAPP</character>
 They jump right out of their pants! 
 Oh what now? Activate glass window. 
 Kif, I'm sensing a very sensual disturbance 
 in the force. Prepare for ship-to-ship 
 intimacy!
 
-KIF
+<character>KIF</character>
 Yes sir captain!
 
 [Cut to: Outside Nimbus. The front section of the Nimbus's starboard 
-leg opens up and swallows the Planet Express ship � la the SPECTRE 
+leg opens up and swallows the Planet Express ship � la the <character>SPECTRE </character>
 spaceship in You Only Live Twice.]
 
 [Cut to: Leela's Quarters. The lights come on and a startled 
 Leela wakes up. She turns over and sees Zapp lying beside her.]
 
-ZAPP
+<character>ZAPP</character>
 How 'bout I help you finish that dream 
 you were having about me?
 
-LEELA
+<character>LEELA</character>
 OK, I was just at this part: Heyya!
 
 [She punches him and he falls off the bed.]
 
-ZAPP
+<character>ZAPP</character>
 Uh, let's try that a little lower and 
 a lot softer!
 
 [Kif's Quarters. Kif and Amy sit on his bed.]
 
-KIF
+<character>KIF</character>
 Imagine you stowing away and stealing 
 a licenced starship! Oh it's so romantic 
 it gives me the shivvers!
 
 [He shivvers.]
 
-AMY
+<character>AMY</character>
 I don't care how much trouble I get 
 in. I needed to feel my lips pressed 
 against your lipless beak!
 
 [They kiss.]
 
-KIF
+<character>KIF</character>
 Oh Amy, I can't stand having a whole 
 universe between us. I've been thinking 
 a lot about this and, well, would you 
 move in with me?
 
-AMY
+<character>AMY</character>
 Here? But...uh...wouldn't it be crowded?
 
-KIF
+<character>KIF</character>
 No no, it's really twice the size! You 
 can use the floor and, I'll have the 
 ceiling! See?
 
 [He climbs up the wall and onto the ceiling. Amy giggles.]
 
-AMY
+<character>AMY</character>
 Kif! You have so much creativity and 
 niceness, but......I'm not sure if I 
 -
 
-KIF
+<character>KIF</character>
 Hush! Before you answer, come thither!
 
 [Nimbus Holo-Shed. A bare room which looks very similar to the 
 Holodeck from Star Trek: The Next Generation. The walls, floors 
 and ceiling are criss-crossed with lines. Amy looks around.]
 
-KIF
+<character>KIF</character>
 This is the Holo-Shed. It can simulate 
 anything you desire, and nothing can 
 hurt you. Except when it malfunctions 
 and the holograms become real.
 
-AMY
+<character>AMY</character>
 Well, that probably won't happen this 
 time.
 
-KIF
+<character>KIF</character>
 I wanted to show you what life would 
 be like if we were together. Computer: 
 Run program Kif-1.
@@ -236,26 +236,26 @@ Run program Kif-1.
 [The environment changes to a mountainous landscape with a small 
 house in the background. Amy gasps.]
 
-AMY
+<character>AMY</character>
 This is so beautiful!  Spirit! Kif! 
 That's the pony I always wanted but 
 my parents said I had too many ponies 
 already!
 
-KIF
+<character>KIF</character>
 Yes. I prgorammed it in for you! 4 million 
-lines of BASIC! And, if this isn't the 
+lines of <character>BASIC</character>! And, if this isn't the 
 life you want, how 'bout this? Run program 
 Kif-2!
 
 [The environment changes to a night-time scene by a moonlit lake.]
 
-AMY
+<character>AMY</character>
 Oh Kif!
 
 [They put their arms around each other.]
 
-KIF
+<character>KIF</character>
 We could live here by the shore of the 
 tranquilibrious sea, in a timeshare. 
 And I would pluck the moon from the 
@@ -265,22 +265,22 @@ I love you!  Run program Kif://3.
 
 [The environment changes to a castle in the clouds.]
 
-AMY
+<character>AMY</character>
 This isn't bad. My aunt had a place 
 like this.
 
-KIF
+<character>KIF</character>
 Amy, we could live in a bus station 
 bathroom for all I care. As long as 
 we're together it will feel like a castle 
 to me.
 
-AMY
+<character>AMY</character>
 Kif, I'd love to live with you...someday. 
 But before then there's still lots I 
 wanna do on my own.  What was that?
 
-KIF
+<character>KIF</character>
 Oh dear. I feel the Holo-Shed might 
 be broken again. Well, as long as we 
 don't cross paths with Atilla the -
@@ -289,29 +289,29 @@ don't cross paths with Atilla the -
 from the Sherlock Holmes novels, Jack The Ripper and an evil 
 Abraham Lincoln.]
 
-AMY
+<character>AMY</character>
 Look! Spirit!
 
 [Atilla the Hun is riding Spirit, who rears up and roars like 
 a very angry rabid horse.]
 
-KIF
+<character>KIF</character>
 And there's Professor Moriarty, Jack 
 The Ripper, Evil Lincoln!
 
 [Evil Lincoln cackles.]
 
-MORIARTY
+<character>MORIARTY</character>
 Right-o gents it's another simulation 
 gone mad so murder and mayhem, standard 
 procedure!
 
 [They start wrecking the castle.]
 
-JACK THE RIPPER
+<character>JACK THE RIPPER</character>
 Rampage!!
 
-EVIL LINCOLN
+<character>EVIL LINCOLN</character>
 Real hologram simulated Evil Lincoln 
 is back!!
 
@@ -322,22 +322,22 @@ Kif and Amy run out.]
 [Nimbus Bridge. Klaxons wail and red lights flash on and off. 
 Enter Amy and Kif.]
 
-KIF
+<character>KIF</character>
 The Holo-Shed's on the fritz again, 
 the characters turned real!
 
-ZAPP
+<character>ZAPP</character>
 Damn. The last time that happened I 
 got slapped with three paternity suits. 
 Listen up history's greatest villains......Get 
 back into the Holo-Shed before I start 
 blasting!
 
-ATILLA THE HUN
+<character>ATILLA THE HUN</character>
 Stop! Don't shoot fire stick in space 
 canoe! Cause explosive decompression!
 
-ZAPP
+<character>ZAPP</character>
 Spare me your space-age technobabble 
 Atilla The Hun!
 
@@ -350,42 +350,42 @@ groans. Zapp flies by and grabs Bender's legs. His toupe� wobbles
 in the wind. On the other side of the bridge Amy starts losing 
 her grip on Kif's hand.]
 
-AMY
+<character>AMY</character>
 Kif! Hold on!
 
-KIF
+<character>KIF</character>
 I totally want to!
 
 [His hand slips out of his glove. Amy grabs his face but loses 
 her grip and the wind carries him towards the hole. He grabs 
 hold of Leela.]
 
-LEELA
+<character>LEELA</character>
 Grab on!
 
 [He loses his grip on her and grabs Fry's trouser leg.]
 
-FRY
+<character>FRY</character>
 Over here!
 
 [He reaches for Bender but he doesn't help.]
 
-KIF
+<character>KIF</character>
 Hold me!
 
-BENDER
+<character>BENDER</character>
 Have a good one!  Aw, man!
 
 [Zapp breathes a sigh of relief and straightens his toupe�.]
 
-ZAPP
+<character>ZAPP</character>
 After all that I could use some relaxation. 
 I'll be in the Holo-Shed.
 
 [Nimbus Sick Bay & Horta Burn Clinic. A doctor finishes examining 
 Zapp.]
 
-DOCTOR
+<character>DOCTOR</character>
 Well, except for a few broken bones, 
 some internal hemoraging and a partially 
 barfed up heart, everyone appears fine. 
@@ -393,84 +393,84 @@ Oh and Kif is pregnant.
 
 [Everyone gasps. Kif hugs Amy.]
 
-KIF
+<character>KIF</character>
 Oh joy!
 
 [Time Lapse.]
 
-KIF
+<character>KIF</character>
 Amy, isn't it wonderful? I'm pregnant!
 
-AMY (UNSURE)
+<character>AMY </character>(<character>UNSURE</character>)
 Yes it's...great. A great miracle.
 
-LEELA
+<character>LEELA</character>
 And not one of those bogus everyday 
 miracles like a sunrise. Aren't you 
 a male?
 
-BENDER
+<character>BENDER</character>
 Yeah what's the deal? Just when I thought 
 I'd figured out you biological creatures, 
 its something else! Lemme at 'im!  Come...over...lemme...!
 
 [Kif shakes.]
 
-ZAPP
+<character>ZAPP</character>
 Look, I'm sure we're all a little unclear 
 on how anyone gets pregnant. So Kif, 
 pray explain. And don't spare the dirty 
 words where appropriate.
 
-KIF
+<character>KIF</character>
 Well it's quite simple really. When 
 one of my species experiences deep feelings 
 of love we enter a so called "receptive 
 state."
 
-ZAPP
+<character>ZAPP</character>
 You disgust me! Go on.
 
-KIF
+<character>KIF</character>
 At that point, our skin becomes a semi-permeable 
 membrane which allows the passage of 
 genetic material. I held Amy's hand 
 and voila.
 
-BENDER
-Oh OK. but that better be all there 
+<character>BENDER</character>
+Oh <character>OK</character>. but that better be all there 
 is!
 
-KIF
+<character>KIF</character>
 Oh Amy! You'll be a mother!
 
 [He hugs her.]
 
 [Kif's Quarters. Everyone except Zapp is there. Even Evil Lincoln.]
 
-KIF
+<character>KIF</character>
 What a wonderous affirmation of our 
 love! And all from the touch of your 
 hand.
 
 [He laughs and rolls around.]
 
-FRY
+<character>FRY</character>
 Dude hold up! Remember when Zapp blew 
 a hole in the ship?
 
-EVIL LINCOLN
+<character>EVIL LINCOLN</character>
 Indeed.
 
-FRY
+<character>FRY</character>
 Kif touched everybody there. Couldn't 
 any one of us be the mother?
 
-AMY
+<character>AMY</character>
 Hey yeah!  I mean...what about that 
 Kif?
 
-KIF
+<character>KIF</character>
 Well I suppose I might have gotten pregnant 
 that way. Or even from a toilet seat. 
 Though that's impossible since I have 
@@ -478,67 +478,67 @@ a private washroom.
 
 [Kif's toilet flushes and Zapp emerges from the washroom.]
 
-ZAPP
+<character>ZAPP</character>
 Ah, my home away from home. By the way 
 Kif, your flush seemed to be set on 
 stun, not kill.
 
 [Kif trembles.]
 
-AMY
+<character>AMY</character>
 Look Kif, I probably am the mother. 
 Although maybe I'm not. Of course I 
 hope I am but just in case I'm not, 
 maybe we should have a test.
 
-BENDER
+<character>BENDER</character>
 A test. I demand a test!
 
 [Planet Express: Hangar. A huge piece of equipment is in the 
 middle of the room. Everyone stands around it.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Even I laughed at me when I built this 
 alien cross species genetic analyser 
 but I guess I showed myself! Subjects, 
 please enter the chamber.  Now to take 
-a DNA sample.  When I pull this switch 
+a <character>DNA</character> sample.  When I pull this switch 
 the maternifuge will spin at 10,000 
-RPM, seperating out everyone who isn't 
+<character>RPM</character>, seperating out everyone who isn't 
 the mother....father...whatever.
 
 [He pulls the switch and the maternifuge starts spinning. Everyone 
 in it screams. Farnsworth drops the floor from underneath them.]
 
-BENDER
+<character>BENDER</character>
 Faster! Faster!
 
 [Fry flies out of the maternifuge and hits a mattress.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Good. Fry's ejection indicates that 
 he is not the man-mom.  Nor is Captain 
 Brannigan.
 
 [Kif wipes his forehead.]
 
-KIF
+<character>KIF</character>
 Oh thank you merciful God!
 
 [Zoidberg flies out.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Zoidberg?! What the hell were you doing 
 in there?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 That's where I live. I have no home.
 
 [Everyone watches as Leela and Amy spin around in the maternifuge. 
 Someone screams as they fly through the tube. It is Amy. Kif 
 looks in horror.]
 
-KIF
+<character>KIF</character>
 Amy? But that means...
 
 [He looks in the slowing maternifuge. Leela is the only one left. 
@@ -546,38 +546,38 @@ She slides out.]
 
 [Planet Express: Meeting Room.]
 
-KIF
+<character>KIF</character>
 Leela must have impregnated me when 
 she grabbed my ungloved hand. That explains 
 the poster in hygiene class: No Glove, 
 No Love.
 
-LEELA
+<character>LEELA</character>
 Wow, this is all so confusing.
 
-ZAPP
+<character>ZAPP</character>
 Leela! How could you? Our love has had 
 to endure your constant hatred and now 
 this? (crying) Stop testing our love!
 
-KIF
+<character>KIF</character>
 Please captain. I thank Leela for the 
-DNA she gave me but in my species, the 
+<character>DNA</character> she gave me but in my species, the 
 true parent is the one that inspired 
 the initial feeling of love. We call 
 that person the smizmar. And my smizmar 
 is Amy.
 
-ZAPP
+<character>ZAPP</character>
 So the toilet seat is like the uncle 
 or something?
 
 [O'Zorgnax's Pub. Amy and Leela are out for drinks.]
 
-LEELA
+<character>LEELA</character>
 Sorry I got your boyfriend pregnant.
 
-AMY
+<character>AMY</character>
 That's OK, at least Kif's baby shower 
 should be fun. I'd better put it on 
 my calendar.  (to calendar) Thursday: 
@@ -588,7 +588,7 @@ calendar) Set Motherhood Mode.
 [The calendar erases all of Amy's entries and replaces it with 
 Motherhood. Amy sighs. Leela raises her glass.]
 
-LEELA
+<character>LEELA</character>
 To motherhood.
 
 [The clink their glasses and guzzle back their drinks.]
@@ -597,111 +597,111 @@ To motherhood.
 has gathered for Kif's baby shower. Leo and Inez Wong are there 
 too.]
 
-AMY
+<character>AMY</character>
 Mom, Dad, I know this is weird but -
 
-MRS WONG
+<character>MRS WONG</character>
 Yeah yeah, we don't care how squishy 
 alien get pregnant. All we care is we 
 have grandchild now.
 
-KIF
+<character>KIF</character>
 You're very open-minded Mrs Wong.
 
-MR WONG
+MR <character>WONG</character>
 Hey! You call her grandma now!
 
-MRS WONG
+<character>MRS WONG</character>
 Call me grandma like crazy! All the 
 time!
 
 [Fry taps his glass.]
 
-FRY
+<character>FRY</character>
 Check it out y'all. Everyone we invited 
 is here.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Also Zoidberg!
 
-FRY
+<character>FRY</character>
 So lets open the gifts!
 
 [Everyone cheers.]
 
-KIF
+<character>KIF</character>
 Lets start with this one. From Bender.
 
 [He opens the box and sees the gift. It is a pair of mounted 
 robot shoes.]
 
-BENDER
+<character>BENDER</character>
 It's my booties from when I was a kid.
 
-AMY
+<character>AMY</character>
 Uh, they're already bronzed.
 
-BENDER
+<character>BENDER</character>
 They are bronze.
 
 [Kif is about to open another gift.]
 
-KIF
+<character>KIF</character>
 And this one's from Leela, oh I just 
 love the bow! I wonder what it is!
 
 [He starts to open it. Zapp puts his arm around Leela.]
 
-ZAPP
+<character>ZAPP</character>
 Yes I wonder what we got you.
 
 [Leela elbows him in the stomach. Kif takes the present out of 
 the box.]
 
-KIF
+<character>KIF</character>
 It's a basket! F-for picnics?
 
-LEELA
+<character>LEELA</character>
 It means a lot to me. It's the basket 
 my parents left me in at the Orphanarium.
 
-HERMES
+<character>HERMES</character>
 You could use it for picnics.
 
-MRS WONG
+<character>MRS WONG</character>
 Here Amy. We get this one for you.
 
 [Amy is excited.]
 
-AMY
+<character>AMY</character>
 Is it a party board?
 
 [She opens it.]
 
-MRS WONG
+<character>MRS WONG</character>
 It's a board alright! An ironing board!
 
-MR WONG
+MR <character>WONG</character>
 We had your old party board converted 
 now that you not be partying anymore.
 
-AMY
+<character>AMY</character>
 You, you trashed my party board?
 
-MRS WONG
+<character>MRS WONG</character>
 Damn right! Now you're a mom, the only 
 surfing you do is under a big wave of 
 responsibilty.
 
-KIF
+<character>KIF</character>
 Oh this is the happiest moment of my 
 life! You all brought such wonderful 
 gifts! But the greatest gift...
 
-BENDER
+<character>BENDER</character>
 Mine!
 
-KIF
+<character>KIF</character>
 ...is the bond I share with my smizmar 
 Amy. And soon, the quivvering mass of 
 life within me will depend on us both. 
@@ -711,24 +711,24 @@ will wren my loins into way and pull
 us down, down, down into the deep dark 
 waters of commitment.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 That's so beautiful!
 
 [He dries his tears with a mouth flap.]
 
-AMY (CRYING)
+<character>AMY </character>(<character>CRYING</character>)
 Yes, yes it's......no! I can't do this!
 
 [She runs out of the room crying. Everyone gasps.]
 
-BENDER
+<character>BENDER</character>
 Oh my God!
 
 [Zoidberg cries like a baby.]
 
 [Time Lapse. Mr and Mrs Wong and Zapp have left.]
 
-KIF
+<character>KIF</character>
 Oh how could Amy leave me? When will 
 women learn to take responsibilty for 
 the children they've helped create? 
@@ -736,7 +736,7 @@ The quickening! My time is near. I
 must return to my homeworld to perform 
 the ancient birthing rites.
 
-SCRUFFY
+<character>SCRUFFY</character>
 Lemme know how that turns out.
 
 [He munches a biscuit.]
@@ -748,16 +748,16 @@ covering the ship.]
 [Time Lapse. The crew, Kif and Zapp walk through the jungle. 
 Kif stops.]
 
-KIF
+<character>KIF</character>
 I must now embark on a perilous journey. 
 To give birth in precisely the same 
 swamp I was born.
 
-LEELA
+<character>LEELA</character>
 If it's so dangerous I'd better go with 
-you. A gal has to protect her DNA.
+you. A gal has to protect her <character>DNA</character>.
 
-KIF
+<character>KIF</character>
 No Leela. Tradition demands that I make 
 this journey with my smizmar, and since 
 Amy isn't here I must go it alone. Farewell. 
@@ -768,88 +768,88 @@ For we may never meet again.
 [Time Lapse. Fry, Zapp and Bender hack away at plants in front 
 of them while Leela carries Kif.]
 
-KIF
+<character>KIF</character>
 My scrapes feel a little better now.
 
 [Bender sees a large blue thing.]
 
-BENDER
+<character>BENDER</character>
 Hey, what's this fat ugly thing? A frog? 
 A toad? Or your momma!
 
 [He laughs. The thing grabs him with it's tongue and starts to 
 swallow him.]
 
-KIF
+<character>KIF</character>
 It's a poisonous froad! No one move.
 
 [He inflates his head. The froad screams and drops Bender.]
 
-BENDER
+<character>BENDER</character>
 I'm back baby!
 
 [Kroker Swamp.]
 
-KIF
+<character>KIF</character>
 Behold. The sacred ancestral birthing 
 grounds of my family.
 
 [Zapp sniffs.]
 
-ZAPP
+<character>ZAPP</character>
 Smells like a jockstrap.
 
 [An Amphibion rises from the middle of the swamp.]
 
-MIDWIFE
+<character>MIDWIFE</character>
 I am the Grand Midwife.
 
-FRY
+<character>FRY</character>
 Hi!
 
-KIF
+<character>KIF</character>
 I am Kif of the clan Kroker. I come 
 to bear my young.
 
-MIDWIFE
+<character>MIDWIFE</character>
 Then let the Tea Of New Life be brewed. 
 As it is written "and both shall lift 
 the jug together". Where is your smizmar?
 
-KIF
+<character>KIF</character>
 She's not with me.
 
-MIDWIFE
+<character>MIDWIFE</character>
 Oh the sorrow. Oh the shame. I'm sorry 
 I'm probably just making you feel worse.
 
-KIF
+<character>KIF</character>
 As long as Amy is with me in my heart 
 I will have the strength of two.  Apparently 
 Amy hasn't been working out much lately.
 
 [He drags it a little way.]
 
-MIDWIFE
+<character>MIDWIFE</character>
 As the tea boils please join hands with 
 your beloved smizmar.  Oh right sorry, 
 but I memorised the ceremony by heart 
 and it mentions her a lot.
 
-KIF
+<character>KIF</character>
 I'll try to endure.
 
-MIDWIFE
+<character>MIDWIFE</character>
 Good 'cause I'm not changing it. Now 
 turn ye to and gaze deeply into each 
 other's eyes.
 
 [Kif looks at Bender.]
 
-BENDER
+<character>BENDER</character>
 What are you looking at?
 
-MIDWIFE
+<character>MIDWIFE</character>
 May the love I sense between you at 
 this moment remain with you both for 
 all your days.  The Tea Of New Life 
@@ -859,121 +859,121 @@ then drink.
 
 [Kif looks into the cup and cries.]
 
-KIF
+<character>KIF</character>
 Amy.
 
-AMY (SHOUTING)
+<character>AMY </character>(<character>SHOUTING</character>)
 Kif!
 
 [Everyone looks up and gasps. Amy flies towards the swamp on 
 her party/ironing board.]
 
-KIF
+<character>KIF</character>
 Amy! Is it you or have I gone crazy 
 with lonliness?
 
-BENDER
+<character>BENDER</character>
 Both.
 
 [Amy lands and falls off.]
 
-AMY
+<character>AMY</character>
 I still don't know if I'm ready for 
 this but, I do know I love you. And 
 I wanna be here beside you.
 
-MIDWIFE
+<character>MIDWIFE</character>
 Great! Now I lost my place! I'm starting 
 over!
 
 [Kif's bump rumbles.]
 
-KIF
+<character>KIF</character>
 Oh no time! It has begun!  Oh my!
 
 [Everyone else cringes at what is happening. Bender pulls out 
 a camera and takes a photo.]
 
-BENDER
+<character>BENDER</character>
 Neat!
 
-AMY
+<character>AMY</character>
 You can do it Kif!
 
 [Kif pushes again.]
 
-KIF
+<character>KIF</character>
 Oh nearly!
 
 [He pushes some more and eventually some spawn comes from between 
 his legs and makes a huge splash. Leela, Fry and Zapp cover their 
 noses.]
 
-BENDER
+<character>BENDER</character>
 Aww man!
 
 [Some one and two eyed tadpoles hop out from the spawn and head 
 for the swamp.]
 
-KIF
+<character>KIF</character>
 Amy my love, tell me, are they making 
 it to the water?
 
 [Some snakes and flying things surround the tadpoles. Leela breaks 
 a huge leaf off a plant and throws it to Amy.]
 
-LEELA
+<character>LEELA</character>
 Amy!
 
 [Amy catches it and starts beating back the animals.]
 
-AMY
+<character>AMY</character>
 Shoo! Stay away from my babies!
 
 [A flying thing picks a tadpole up. Amy smacks it with the leaf 
 and the tadpole falls to the ground. The rest of the animals 
 turn around and the tadpoles hop into the water.]
 
-MIDWIFE
+<character>MIDWIFE</character>
 The birthing is complete!
 
 [Everyone cheers and gathers around Kif and Amy.]
 
-KIF
+<character>KIF</character>
 Oh thank you!
 
-MIDWIFE
+<character>MIDWIFE</character>
 I will now take my leave. I live here 
 so I won't actually be going anywhere 
 but you don't have to talk to me anymore.
 
-FRY
+<character>FRY</character>
 Congratulations!
 
-ZAPP
+<character>ZAPP</character>
 Nice work!
 
-BENDER
+<character>BENDER</character>
 Way to go squishy!
 
 [The tadpoles swim away.]
 
-LEELA
-There goes my DNA. What a disgusting 
+<character>LEELA</character>
+There goes my <character>DNA</character>. What a disgusting 
 and beautiful process.
 
-FRY
+<character>FRY</character>
 That's birth for you.
 
-KIF
+<character>KIF</character>
 Well we've given them a great start 
 Amy. And in 20 years they'll sprout 
 legs and crawl back onto land as children.
 
-AMY
+<character>AMY</character>
 And I'll be ready then.
 
 [They hug and watch their children swim around in the swamp. 
 Two leap into the air and bump their heads.]
 
-THE END</xml>
+<character>THE END</character></xml>

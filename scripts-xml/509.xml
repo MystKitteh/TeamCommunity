@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 509
 
-<title>THE STING</title>
+<title><character>THE STING</character></title>
 
 <author>Patric M. Verrone</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -13,7 +13,7 @@ Episode 509
 Virtual Golf. Bender is all kitted out in golf gear. He takes 
 his club from Fry and puts the ball on the tee.]
 
-BENDER
+<character>BENDER</character>
 A hush comes over the crowd. The only 
 sound is Bender calling everyone else 
 a jerk and he swings!  And he slices 
@@ -22,97 +22,97 @@ it into the water, oh man!
 [He plugs himself into the game and appears on the screen. He 
 jumps into the lake. Enter Hermes and Farnsworth.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Bad news everyone. You're not good enough 
 to go on your next mission.
 
-FRY
+<character>FRY</character>
 Hooray!
 
-BENDER
+<character>BENDER</character>
 Not good enough!
 
 [They high-five. Leela descends from above in a harness.]
 
-LEELA
+<character>LEELA</character>
 Why? Says who?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Because. And says me. It's an extremely 
 dangerous mission that killed my last 
 crew. And you're not nearly as good 
 as them.
 
-FRY
+<character>FRY</character>
 Woohoo!
 
-BENDER
+<character>BENDER</character>
 We live to suck another day!
 
 [They both do a happy dance. Leela disconnects Bender from the 
 game.]
 
-LEELA
+<character>LEELA</character>
 We're just as good as any of those crews 
 you sent to their deaths. What's the 
 mission?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Collecting honey. Ordinary honey.
 
-LEELA
+<character>LEELA</character>
 That doesn't sound so dangerous.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 This is no ordinary honey. It's produced 
 by vicious space bees. A single sting 
 of their hideous neuro-toxin can cause 
 instant death!
 
-HERMES
+<character>HERMES</character>
 And that's if you're not allergic! You 
 don't wanna know what happens then, 
 oh no no, God no!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Your insides will boil out of your eye 
 sockets like a science fair volcano!
 
-HERMES
+<character>HERMES</character>
 I didn't want to know1
 
 [He bursts into tears.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 These bees are larger than most Buicks 
 and twice as ugly!
 
-FRY
+<character>FRY</character>
 Larger than an American sedan?  How 
 big is the honey comb?
 
-HERMES
+<character>HERMES</character>
 Honey comb's big. Yeah yeah yeah.
 
-BENDER
+<character>BENDER</character>
 It's not small?
 
-HERMES
+<character>HERMES</character>
 No no no.
 
-LEELA
+<character>LEELA</character>
 It'll take more than deadly deadly bees 
 to keep us from doing our job. Come 
 on boys!
 
-FRY
+<character>FRY</character>
 But Leela we're no good!
 
-LEELA
+<character>LEELA</character>
 Listen, I'm scared too. But I'm more 
 scared of disappointing myself.
 
-FRY
+<character>FRY</character>
 I'm not scared of that at all!
 
 [She pushes him towards the ship.]
@@ -121,20 +121,20 @@ I'm not scared of that at all!
 lands just inside. Swarms of bees fly past with their space pollen. 
 Leela paints yellow and black stripes on Bender.]
 
-LEELA
+<character>LEELA</character>
 Now bees communicate by dancing.
 
-FRY
+<character>FRY</character>
 Like my parents. Oh wait, that was hitting!
 
-LEELA
+<character>LEELA</character>
 So this language cartridge will let 
 you distract them.
 
 [She installs the cartridge into the slot in the back of Bender's 
 head.]
 
-BENDER
+<character>BENDER</character>
 Ah good! I always have thoughts and 
 feelings that can only be expressed 
 through dance! (in bee) You stink! Bender's 
@@ -146,51 +146,51 @@ great! Deal with it!
 make their way into the hive carrying a long hose. A bee flies 
 in front of them and they gasp.]
 
-LEELA
+<character>LEELA</character>
 Bender quick! Waggle something!
 
 [As Bender talks Fry and Leela make their escape.]
 
-BENDER (IN BEE)
+<character>BENDER </character>(IN <character>BEE</character>)
 Hello fellow bees. How's the abdomen? 
 Swollen with nectar I trust?
 
-BEE (IN BEE)
+<character>BEE </character>(IN <character>BEE</character>)
 Duh!
 
 [Time Lapse. The crew get closer to the centre of the hive.]
 
-FRY
+<character>FRY</character>
 Leela let's turn back. There's absolutely 
 no shame in wussing out.
 
-LEELA
+<character>LEELA</character>
 Relax, everything'll be fine!
 
 [They look up and see a ship caked in honey. It has a familiar 
 logo on the tail.]
 
-FRY
+<character>FRY</character>
 Oh my God! The old Planet Express ship!
 
-LEELA
+<character>LEELA</character>
 There's the black box!
 
 [She picks it up and plays it.]
 
-MAN [ON TAPE]
+<character>MAN </character>[ON <character>TAPE</character>]
 Captain, the bees have us surrounded! 
 Oh the Professor was right, we're not 
 as good as his old crew!
 
-CAPTAIN [ON TAPE]
+<character>CAPTAIN </character>[ON <character>TAPE</character>]
 Well I aim to prove him wrong! It'll 
 take more than a few deadly deadly bees 
 to -  Oh Lord!
 
 [He screams some more and Leela switches the tape off.]
 
-LEELA
+<character>LEELA</character>
 Uh, couldn't make that out. Too much 
 static!
 
@@ -199,24 +199,24 @@ static!
 [Time Lapse. The crew crawl into part of the honey comb. It drips 
 with honey.]
 
-BENDER
+<character>BENDER</character>
 Ew!
 
 [They arrive at the end of the tunnel and gasp.]
 
-LEELA
+<character>LEELA</character>
 We found it! The honey comb hideout!
 
 [Time Lapse. Leela puts the hose into a river of honey and the 
 hose sucks it up. Fry looks at something else.]
 
-FRY
+<character>FRY</character>
 Hey what's this goop?
 
-LEELA
+<character>LEELA</character>
 Royal jelly. They feed it to the queen.
 
-FRY
+<character>FRY</character>
 Bees make honey and jelly? Huh. How 
 come nothing humans make taste good? 
 Help! I can't swim in jelly as far 
@@ -224,16 +224,16 @@ as I know!
 
 [Leela pulls him out.]
 
-LEELA
+<character>LEELA</character>
 Look!  It's a baby queen! Aww she's 
 so cute! You adorable wittle itty bitty 
 fuzzy wuzzy -
 
-FRY
+<character>FRY</character>
 Leela! Stop bonding and lets go! I got 
 jelly in my underpants!
 
-LEELA
+<character>LEELA</character>
 I'm taking this bee with us. With queen 
 we can build a hive and make more honey 
 ourselves. Let me just pack her a lunch 
@@ -241,17 +241,17 @@ and we'll go.
 
 [She dips a jar into the jelly.]
 
-BENDER (IN BEE)
+<character>BENDER </character>(IN <character>BEE</character>)
 Pick up the pace lady! I'm sick of shaking 
 my booty for these fat jerks!  I didn't 
 mean you're all fat. Just fatso there.
 
 [He points at a fat bee.]
 
-BEES (IN BEE)
+<character>BEES </character>(IN <character>BEE</character>)
 He insulted our fat queen!
 
-QUEEN (IN BEE)
+<character>QUEEN </character>(IN <character>BEE</character>)
 You try keeping your figure after 10,000 
 kids!
 
@@ -259,7 +259,7 @@ kids!
 queen tries to sting him. Bender grabs a hold of her sting. She 
 shakes him around.]
 
-LEELA
+<character>LEELA</character>
 This is where we distinguish ourselves 
 from the last crew. Activate emergency 
 high speed self contained escape pack 
@@ -273,7 +273,7 @@ Leela dodges a bee and it hits the comb and explodes.
 
 [Cut to: Outside Ship. Leela and Fry fly towards it.]
 
-LEELA
+<character>LEELA</character>
 Good luck Bender!
 
 [They fly through the cargo bay hatch.]
@@ -286,7 +286,7 @@ holds it down. The queen prepares her sting.]
 [Cut to: Ship's Cargo Bay. Her sting comes through with Bender 
 on the end.]
 
-BENDER
+<character>BENDER</character>
 I'm back baby!
 
 [Cut to: Outside Ship. The cargo bay hatch closes, the queen 
@@ -297,26 +297,26 @@ bees back.]
 [Ship's Cockpit. Fry cheers and Leela puts the baby queen in 
 a little pet basket.]
 
-FRY
+<character>FRY</character>
 We made it! We're alive!
 
-LEELA
+<character>LEELA</character>
 Burn on that old crew! The only things 
 they did better than us were suck and 
 die!
 
-FRY
+<character>FRY</character>
 Leela we got lucky this time but you 
 should be more careful. I don't want 
 anything to happen to you.
 
-LEELA
+<character>LEELA</character>
 Thanks, but I can look out for myself. 
 Frankly I can smell danger a mile away.
 
 [The bee unfolds it's sting.]
 
-FRY
+<character>FRY</character>
 Look out!  You want her you'll have 
 to go through me.
 
@@ -325,14 +325,14 @@ The bee writhes around on the floor, dying. Bender quickly throws
 it into the airlock and jettisons it. It floats away into space 
 and a space truck hits it. Leela looks where the sting hit her.]
 
-LEELA
+<character>LEELA</character>
 You call that a wound? That's a boo 
 boo top! But thanks for trying to save 
 me Fry! Fry?  He's...he's dead.
 
 [She and Bender kneel beside him.]
 
-BENDER (CRYING)
+<character>BENDER </character>(<character>CRYING</character>)
 Who will make Bender waffles just the 
 way he likes them now?
 
@@ -340,11 +340,11 @@ way he likes them now?
 He is in an open casket. Mourners that include Leo and Inez Wong 
 and two Trisolians pay their respects to him. Leela cries.]
 
-LEELA (CRYING)
+<character>LEELA </character>(<character>CRYING</character>)
 It was all my fault! He died because 
 of me!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No no no no no no no.  I'm lying to 
 make her feel better.
 
@@ -353,11 +353,11 @@ make her feel better.
 [Time Lapse. Hermes and LaBarbara pay their respects to Fry. 
 Hermes puts piece of burning paper on the coffin.]
 
-LABARBARA
+<character>LABARBARA</character>
 Husband, can't you go anywhere without 
 lighting something up?
 
-HERMES
+<character>HERMES</character>
 It's an old Jamaican accounting tradition. 
 We burn his timecard. That way his zombie 
 doesn't come back looking for his final 
@@ -365,11 +365,11 @@ paycheque.
 
 [They leave and Amy and Zoidberg stand beside Fry.]
 
-AMY
+<character>AMY</character>
 He looks so natural. It's funny to think 
 he's clammed full of sawdust and preservatives.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I only wish I could have removed the 
 stinger.
 
@@ -378,17 +378,17 @@ stinger.
 [Time Lapse. Father Changstein el Gamahl of the First Amalgamated 
 Church begins the eulogy.]
 
-PRIEST
+<character>PRIEST</character>
 I barely knew Philip, but as a clergyman 
 I have no problem telling his most intimate 
 friends all about him.
 
 [The congregation cries.]
 
-HERMES
+<character>HERMES</character>
 Soothe us with sweet lies.
 
-PRIEST
+<character>PRIEST</character>
 It may comfort you to know that Fry's 
 death took only 15 seconds. Yet the 
 pain was so intense that it felt to 
@@ -400,23 +400,23 @@ the ages.
 [The coffin turns around and is ejected into space. Scruffy plays 
 Walking On Sunshine on the bagpipes.]
 
-AMY
+<character>AMY</character>
 He's walking on sunshine now.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 This makes me the oldest member of my 
 family.
 
 [He cries and hugs Bender.]
 
-AMAZONIAN
+<character>AMAZONIAN</character>
 Him do good snu-snu.
 
 [Behind her the radiator from the Miss Universe pageant, Petunia, 
 the girl from The Hip Joint, Morgan Proctor and Michelle aren't 
 so sure.]
 
-BENDER
+<character>BENDER</character>
 All those times I said "Kill all humans" 
 I'd always whisper "except one." And 
 Fry was that one. And I never told him 
@@ -424,14 +424,14 @@ so.
 
 [He cries and hugs Farnsworth. Terry does his swooshy coat thing.]
 
-TERRY (DRAMATICALLY)
+<character>TERRY </character>(<character>DRAMATICALLY</character>)
 Farewell from the world of tomorrow!
 
 [Leela's Bedroom. She tickles Nibbler and wipes her eye with 
 half a hanky. She puts the other half on her bedside table and 
 sees the jar of honey.]
 
-LEELA (CRYING)
+<character>LEELA </character>(<character>CRYING</character>)
 They say a spoonful of space honey helps 
 ease the pain.  It's good.  I feel funny. 
 Haha funny!
@@ -440,23 +440,23 @@ Haha funny!
 
 [Leela's Dream. Leela floats towards Fry's coffin and it opens.]
 
-FRY
+<character>FRY</character>
 Leela?
 
-LEELA
+<character>LEELA</character>
 Fry? I thought you were dead.
 
-FRY
+<character>FRY</character>
 Nope, I'm better than ever. Before the 
 accident I couldn't do this!
 
 [He sticks his hand through the sting wound.]
 
-LEELA
+<character>LEELA</character>
 Impressive! But it does sorta support 
 my You-Are-Dead theory.
 
-FRY
+<character>FRY</character>
 Then I'll prove I'm alive! By telling 
 you something only I could know. There's 
 a surprise for you in my locker. I got 
@@ -466,21 +466,21 @@ we left.
 [Behind him his locker appears. He opens the door and pulls out 
 a gift-wrapped box and hands it to Leela. She gasps.]
 
-LEELA
+<character>LEELA</character>
 It's too beautiful to open! Can I open 
 it?
 
-FRY
+<character>FRY</character>
 Sure. There's just one thing I want 
 you to.
 
-LEELA
+<character>LEELA</character>
 What?
 
-FRY
+<character>FRY</character>
 I want you to wake up.
 
-LEELA
+<character>LEELA</character>
 Wake up? But I'm not -
 
 [Cut to: Leela's Bedroom. She wakes up. It's the middle of the 
@@ -489,58 +489,58 @@ night. Nibbler rolls of the bed.]
 [Planet Express: Locker Area. The crew sans Bender are gathered 
 around Fry's locker.]
 
-LEELA
+<character>LEELA</character>
 In my dream Fry said he hid a gift for 
 me in my locker. If it's true then he 
 must still exist in some form.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh course he still exists. As a frozen 
 corpse in outer space!  Oh, I made myself 
 sad.
 
-LEELA
+<character>LEELA</character>
 Well, here goes.
 
 [She opens the locker. It is empty. The crew sigh.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Bupkiss!
 
 [Enter Bender counting some cash and whistling.]
 
-BENDER
+<character>BENDER</character>
 Well, I feel better now. Pawning all 
 the stuff in Fry's locker helped give 
 me closure.
 
-LEELA
+<character>LEELA</character>
 Was there anything in there that might 
 have been a gift for me?
 
-BENDER
+<character>BENDER</character>
 No. Nothing. Not at all. No way Jos�! 
 Here it is.
 
-LEELA
+<character>LEELA</character>
 You took this from Fry's locker?
 
-BENDER
+<character>BENDER</character>
 Hey the guy's dead! There's no law against 
 grave robbing!
 
 [Leela opens the gift. It's a squeezy toy.]
 
-LEELA
+<character>LEELA</character>
 That proves it. Fry is alive somewhere 
 and he's reaching me in my dreams.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Bullpies!
 
 [Planet Express: Farnsworth's Lab. He helps Leela onto a table.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Lay down here and we'll do some tests. 
 If Fry is out there then Leela's brain 
 could be acting as a five pound ouija 
@@ -548,57 +548,57 @@ board.
 
 [Leela lies back on the table.]
 
-LEELA
+<character>LEELA</character>
 Is this some sort of brain scanner?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Some sort yes. In France it's called 
 a "guillotine."
 
 [He pulls a lever. Leela gasps and jumps out of the way, narrowly 
 missing the blade.]
 
-LEELA
+<character>LEELA</character>
 Professor! Can't you examine my brain 
 without removing it?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yes. Easily.
 
 [He scans her brain with a small scanner thing.]
 
-BENDER
+<character>BENDER</character>
 Hey, what if Fry wasn't actually dead 
 when we buried him? Y'know like Julia 
 Roberts?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Well I suppose there's a slim -  I don't 
 believe it!
 
-LEELA
+<character>LEELA</character>
 What is it? Is Fry alive in some other 
 dimension or something?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No. According to this gizmometer, Fry 
 is dead and nothing can bring him back! 
 Remarkable.
 
-LEELA
+<character>LEELA</character>
 But, my dream. Your science can't unprove 
 that! How could I have know the gift 
 was in Fry's locker?
 
-HERMES
+<character>HERMES</character>
 Easy! He told you about it before he 
 died! And your grief roasted mind blocked 
 it out.
 
-LEELA
+<character>LEELA</character>
 Are you saying I'm going crazy?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No no, no one's saying that! But I'm 
 certainly thinking it loudly.
 
@@ -607,26 +607,26 @@ certainly thinking it loudly.
 [Cut to: Leela's Dream. Back in space Fry appears to her like 
 the Cheshire Cat, just his hair and mouth.]
 
-FRY
+<character>FRY</character>
 Hi Leela! I'm just gonna keep talking, 
 even if you can't hear me. Blah blah 
 blah, blah blah blah blah blah.
 
-LEELA
+<character>LEELA</character>
 Shut up, I can hear you. The Professor 
 says you're just a dream.
 
 [Fry appears fully.]
 
-FRY
+<character>FRY</character>
 Oh yeah?  Could a dream take you dancing 
 in an illusion garden?
 
-LEELA
+<character>LEELA</character>
 Well yes, technically. It's still very 
 sweet of you.
 
-FRY
+<character>FRY</character>
 Then what if we shared a sleigh ride 
 across the ice fields of Hiperia?
 
@@ -634,32 +634,32 @@ across the ice fields of Hiperia?
 along in a sleigh by a woolly mammoth. Fry hands Leela a mug 
 and tears open a packet of cocoa.]
 
-LEELA
+<character>LEELA</character>
 Oh Fry you must be alive! I've never 
 been treated so romantically by my own 
 imagination before!
 
-FRY
+<character>FRY</character>
 Here, take my jacket. You look a little 
 cold.
 
-LEELA
+<character>LEELA</character>
 Thank you. It's all so beautiful I forgot 
 how many hundreds of degrees zero it 
 must be. I just wish I could convince 
 the others you're alive.
 
-FRY
+<character>FRY</character>
 You can. All you have to do is wake 
 up.
 
-LEELA
+<character>LEELA</character>
 No no! Don't say that! This is real!
 
 [Cut to: Leela's Bedroom. She wakes up and sends Nibbler flying 
 off the bed.]
 
-LEELA
+<character>LEELA</character>
 Not another dream!  Fry's jacket! The 
 one he was buried in! My dream was real! 
 He's alive!
@@ -669,83 +669,83 @@ He's alive!
 [Planet Express: Meeting Room. Bender is on fire. Hermes, Amy, 
 Zoidberg and Farnsworth blast him with fire extinguishers.]
 
-BENDER
+<character>BENDER</character>
 That's better!
 
 [He lights a cigar. Enter Leela with Fry's jacket in a jacket 
 jacket.]
 
-LEELA
+<character>LEELA</character>
 Fry's alive! I have proof!
 
-BENDER
+<character>BENDER</character>
 You do not!
 
-HERMES
+<character>HERMES</character>
 I'm from Jamaica, the show-me island. 
 So show me you're blowing it out your 
 fanny.
 
-LEELA
+<character>LEELA</character>
 But he gave me his jacket. Look.
 
 [She opens the jacket jacket and pulls out...her own green jacket.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 That's not Fry's jacket. Fry's jacket 
 is red! That's your jacket. An off the 
 rack lime green affair.
 
-LEELA
+<character>LEELA</character>
 But Fry...his jacket...and when I woke 
 up it was on me.
 
-HERMES
+<character>HERMES</character>
 You're under a lot of guilt stress Leela. 
 Here, work it off.
 
 [He hands the squeezy stress toy and she squeezes it.]
 
-LEELA [SQUEEZING]
+<character>LEELA </character>[<character>SQUEEZING</character>]
 I am not under stress dammit!
 
 [The toy explodes.]
 
-LEELA
+<character>LEELA</character>
 What?
 
-AMY
+<character>AMY</character>
 I said everything's going to be alright.
 
-LEELA
+<character>LEELA</character>
 Oh. Maybe I am freaking out a little.
 
-BENDER
+<character>BENDER</character>
 A little? You're screwier than my Aunt 
 Rita! And she's a screw!
 
-LEELA
+<character>LEELA</character>
 I need to calm down. I'd better take 
 some more of that space honey.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You've been taking space honey? Be careful 
 you purple haired imbecile!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 One spoonful calms you down, two spoonfuls 
 help you sleep, but three spoonfuls, 
 you'll go into a sleep and never wake 
 up! Never!
 
-BENDER (AMY'S VOICE)
+<character>BENDER </character>(<character>AMY</character>'S <character>VOICE</character>)
 Never!
 
 [Leela gasps.]
 
 [Planet Express: Lounge. Leela takes a spoonful of honey.]
 
-LEELA
+<character>LEELA</character>
 One spoonful to calm me down.  OK, I've 
 got a pretty good calm going! Two spoonfuls 
 to help me sleep.  Uh oh, still awake. 
@@ -753,113 +753,113 @@ I guess one more spoonful couldn't hurt.
 Oh my gosh! I'd better get a sponge! 
 Fry?  Is that you? I don't need a sponge!
 
-FRY
+<character>FRY</character>
 Why and I sticky and naked? Did I miss 
 something fun?
 
 [Planet Express: Farnsworth's Lab. Farnsworth scans Fry with 
 the gizmometer.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Incredible! According to the gizmometer, 
 Fry touched the royal jelly in the space 
-hive, leaving an imprint of his DNA 
+hive, leaving an imprint of his <character>DNA </character>
 and brainwaves. Then, when it spilled 
 on the couch, it recombined with trace 
 amounts of Fry's hair and skin -
 
-BENDER
+<character>BENDER</character>
 And blood! Don't forget about Fry's 
 blood!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yes Bender, thank you. In short, the 
 various fluids Fry left in the couch 
 caused the royal jelly to regenerate 
 his entire being!
 
-FRY
+<character>FRY</character>
 Neat!
 
-BENDER
+<character>BENDER</character>
 This is great! My buddy's alive and 
 his credit cards are valid again!  Lets 
 go get hammered!
 
 [The crew cheer.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I should warn you: I'm a mean drunk.
 
 [They leave, leaving Fry and Leela alone.]
 
-LEELA
+<character>LEELA</character>
 Fry, I'm so glad I didn't kill you.
 
-FRY
+<character>FRY</character>
 Me too.
 
-LEELA
+<character>LEELA</character>
 Feeling responsible for your death was 
 driving me mad. But now everything is 
 alright.
 
-FRY
+<character>FRY</character>
 Uh, not everything.
 
-LEELA
+<character>LEELA</character>
 What? What do you mean?
 
-FRY
+<character>FRY</character>
 You have to wake up.
 
-LEELA
+<character>LEELA</character>
 Wake up? Oh no! No! It can't be!
 
 [Cut to: Planet Express: Lounge. Leela wakes up on the couch. 
 The royal jelly wasn't spilt and Fry didn't come back to life. 
 The two spoonfuls did help her sleep. She gasps and looks around.]
 
-LEELA
+<character>LEELA</character>
 Poo.
 
 [Planet Express: Meeting Room.]
 
-LEELA
+<character>LEELA</character>
 I'm cracking up. In my dreams I'm happy 
 because Fry is alive, but when I'm awake 
 my mind plays tricks on me.
 
-HERMES
+<character>HERMES</character>
 Oh take it easy Leela.
 
-AMY
+<character>AMY</character>
 In every life we have some trouble.
 
-BENDER
+<character>BENDER</character>
 But when you worry you make it double.
 
-FARNSWORTH (SINGING)
+<character>FARNSWORTH </character>(<character>SINGING</character>)
 The landlord says your rent is late...
 
-HERMES (SINGING)
+<character>HERMES </character>(<character>SINGING</character>)
 He might have to litigate.
 
-BENDER (SINGING)
+<character>BENDER </character>(<character>SINGING</character>)
 But don't worry!
 
 [He opens his chest cabinet and a bee flies out and stings Farnsworth's 
 head.]
 
-BEE (SINGING)
+<character>BEE </character>(<character>SINGING</character>)
 Bee...
 
-FARNSWORTH (SINGING)
+<character>FARNSWORTH </character>(<character>SINGING</character>)
 ...happy!
 
 [His head explodes and the meeting room goes dark.]
 
-ZOIDBERG (SINGING)
+<character>ZOIDBERG </character>(<character>SINGING</character>)
 Ain't got no cash,
 
 Ain't got no style,
@@ -870,21 +870,21 @@ But does Zoidberg worry?
 
 [The bee stings him.]
 
-BEE (SINGING)
+<character>BEE </character>(<character>SINGING</character>)
 Bee...
 
-ZOIDBERG (SINGING)
+<character>ZOIDBERG </character>(<character>SINGING</character>)
 ...happy!
 
 [He explodes. Hermes holds Amy and skates around as the bee flies 
 alongside.]
 
-HERMES (SINGING)
+<character>HERMES </character>(<character>SINGING</character>)
 Don't worry now Amy!
 
 [The bee stings him and he explodes.]
 
-AMY (SINGING)
+<character>AMY </character>(<character>SINGING</character>)
 OK! I'm happy!
 
 [The bee stings her and she explodes.]
@@ -892,31 +892,31 @@ OK! I'm happy!
 [Streamers and glitter falls around the table and Bender dances 
 on it.]
 
-BENDER (SINGING)
+<character>BENDER </character>(<character>SINGING</character>)
 Take us home Bender! Don't worry!
 
-BEE (SINGING)
+<character>BEE </character>(<character>SINGING</character>)
 Bee...
 
 [It stings him.]
 
-BENDER (SINGING)
+<character>BENDER </character>(<character>SINGING</character>)
 ...happy!
 
 [He explodes in a rather nice display of fireworks. The smoke 
 clears and everyone is back at the table again.]
 
-LEELA
+<character>LEELA</character>
 Uh, were you just singing?
 
-BENDER
+<character>BENDER</character>
 No I was telling you not to worry. I'm 
 not allowed to sing - court order.
 
 [Ship's Cockpit. Leela takes off in the ship. She is nervous 
 and jittery.]
 
-LEELA
+<character>LEELA</character>
 I'll find Fry's coffin, take his corpse 
 and keep it under my mattress to remind 
 me he's really dead. That'll prove I'm 
@@ -927,7 +927,7 @@ looks out at Fry's coffin, floating like the monolith from 2001:
 A Space Odyssey. She jumps out and floats to it. She puts her 
 hands on it.]
 
-LEELA
+<character>LEELA</character>
 OK, it's just an ordinary coffin. Containing 
 my ordinary dead friend, who I killed.
 
@@ -937,24 +937,24 @@ fast like in 2001: A Space Odyssey. Leela stares.]
 [Cut to: Leela's Bedroom. She wakes up from what was another 
 dream.]
 
-LEELA
+<character>LEELA</character>
 What happened? Why am I in my apartment?
 
 [Farnsworth's, Zoidberg's, Hermes' and Amy's faces appear on 
 her walls.]
 
-LEELA
+<character>LEELA</character>
 Stop it! Stop it!
 
 [She tears their faces down like wallpaper. Bender appears on 
 the floor.]
 
-BENDER
+<character>BENDER</character>
 You killed Fry!
 
 [She grabs the hoover and sucks him up.]
 
-LEELA
+<character>LEELA</character>
 OK, I'm insane! But I'm still sane enough 
 to know it.  The only time I feel alright 
 is in my dreams. With you.  Three spoonfuls. 
@@ -964,46 +964,46 @@ Here goes. Goodbye waking world.
 [The spoon moves towards her mouth. Fry's photo suddenly starts 
 talking.]
 
-FRY'S PHOTO
+<character>FRY</character>'S <character>PHOTO</character>
 Leela! No!  Listen to me, you don't 
 want to lie in bed like a vegetable 
 and do nothing the rest of your life. 
 I've tried it. Bedsores hurt!
 
-LEELA (CRYING)
+<character>LEELA </character>(<character>CRYING</character>)
 Then what am I s'posed to do?
 
-FRY'S PHOTO
+<character>FRY</character>'S <character>PHOTO</character>
 Fight it!
 
-LEELA (CRYING)
+<character>LEELA </character>(<character>CRYING</character>)
 I can't!
 
-FRY'S PHOTO
+<character>FRY</character>'S <character>PHOTO</character>
 You can! The Leela I know doesn't give 
 up this easily.
 
-LEELA
-OK. I'll try.  Go away!
+<character>LEELA</character>
+<character>OK</character>. I'll try.  Go away!
 
 [She throws the jar at it. The jar and the bee break and the 
 one bee becomes a swarm. Leela picks up Fry's photo and holds 
 it tightly.]
 
-FRY'S PHOTO
+<character>FRY</character>'S <character>PHOTO</character>
 I don't know if you can hear me Leela 
 but there's something I wanna tell you. 
 I love you.
 
-LEELA (CRYING)
+<character>LEELA </character>(<character>CRYING</character>)
 I'm so scared Fry I don't know what 
 to do.
 
-FRY'S PHOTO
+<character>FRY</character>'S <character>PHOTO</character>
 Just wake up Leela. Please. Just wake 
 up.
 
-LEELA (CRYING)
+<character>LEELA </character>(<character>CRYING</character>)
 I don't understand what you mean!
 
 [She hugs the photo.]
@@ -1011,69 +1011,69 @@ I don't understand what you mean!
 [Cut to: Hospital Room. Leela is in a bed and Fry is sat at her 
 side. His jacket is draped around her and she is in a coma.]
 
-FRY (CRYING)
+<character>FRY </character>(<character>CRYING</character>)
 Just wake up. Please. Just wake up Leela.
 
 [Her eyelid flutters and opens. She looks around.]
 
-LEELA
+<character>LEELA</character>
 Fry. You're alive!
 
-FRY
+<character>FRY</character>
 Leela! You're awake!
 
-LEELA
+<character>LEELA</character>
 Of course I'm awake. You wouldn't stop 
 waking me.  Where am I?
 
-FRY
+<character>FRY</character>
 In the hospital. The ambulance brought 
 you here right after the bee stung you.
 
-LEELA
+<character>LEELA</character>
 But the bee stung you. It barely touched 
 me.
 
 [Fry lifts up his shirt. There is a patch where his wound was.]
 
-FRY
+<character>FRY</character>
 Stinger went right through me and you 
 got all the poison. My new spleen came 
 from a guy who liked to motorcycle.
 
 [He makes revving noises. Enter the rest of the crew.]
 
-HERMES
+<character>HERMES</character>
 Sweet three toed sloth of ice planet 
 Hoth! She's awake!
 
 [They all cheer.]
 
-BENDER
+<character>BENDER</character>
 You were in the best coma I've ever 
 seen!
 
-AMY
+<character>AMY</character>
 The doctor said you'd never wake up.
 
-LEELA
+<character>LEELA</character>
 Really? How long was I out?
 
-AMY
+<character>AMY</character>
 Two weeks. Fry never left your side 
 for a minute.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 And he talked non-stop, like a parrot 
 of the sea he was.
 
-FRY
+<character>FRY</character>
 I though that if you heard a familiar 
 voice, it might help keep your mind 
 together. But, who knows if it really 
 got through.
 
-LEELA
+<character>LEELA</character>
 It got through Fry.  It got through.
 
-THE END</xml>
+<character>THE END</character></xml>

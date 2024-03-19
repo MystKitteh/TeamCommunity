@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 106 
 
-<title>A FISHFUL OF DOLLARS</title>
+<title>A <character>FISHFUL OF DOLLARS</character></title>
 
 <author>Patric M. Verrone</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -10,7 +10,7 @@ Episode 106
 [Fry's Bedroom. Fry is awoken by squeaking bed springs from the 
 apartment next door. He growls.]
 
-FRY
+<character>FRY</character>
 I can't take it anymore! They've been 
 at it for hours!  (shouting) Give it 
 a rest, you two!
@@ -19,7 +19,7 @@ a rest, you two!
 poker. They have springy bodies which are constantly squeaking. 
 One of the robots oils his springs.]
 
-ROBOT
+<character>ROBOT</character>
 (shouting) Sorry!
 
 [Opening Credits. Caption: Loading...]
@@ -30,31 +30,31 @@ ROBOT
 teacher stands at the front of the room. She wears frosted half-moon 
 glasses and has grey hair.]
 
-TEACHER
+<character>TEACHER</character>
 Good morning, class. I trust you've 
 all prepared for today's final exam.
 
-FRY
+<character>FRY</character>
 Uh, excuse me? I missed a few lectures. 
 Uh, what subject is this?
 
-TEACHER
+<character>TEACHER</character>
 Ancient Egyptian algebra.
 
 [She points to the blackboard, revealing it is filled with Egyptian 
 hieroglyphs. Fry gasps.]
 
-FRY
+<character>FRY</character>
 What a nightmare!
 
-TEACHER
+<character>TEACHER</character>
 Mister Fry, are those your underpants? 
 Young man, I think it's time you learned 
 a lesson about Lightspeed brand briefs.
 
 [She pulls down a poster showing the briefs.]
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 (voice-over) Lightspeed fits today's 
 active lifestyle. Whether you're on 
 the job......or having fun... Lightspeed 
@@ -67,7 +67,7 @@ of a flashing background.]
 [Cut to: Fry's Bedroom. The dream ends and Fry suddenly wakes 
 up.]
 
-FRY
+<character>FRY</character>
 What a weird dream! I'll never get back 
 to sleep.
 
@@ -75,42 +75,42 @@ to sleep.
 
 [Planet Express: Lounge. The crew are sat around the table.]
 
-FRY
+<character>FRY</character>
 So you're telling me they broadcast 
 commercials into people's dreams?
 
-LEELA
+<character>LEELA</character>
 Of course.
 
-FRY
+<character>FRY</character>
 But, how is that possible?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 It's very simple. The ad gets into your 
 brain just like this liquid gets into 
 this egg.  Although in reality it's 
 not liquid, but gamma radiation.
 
-FRY
+<character>FRY</character>
 That's awful. It's like brainwashing.
 
 [Leela wipes the yolk from her hair.]
 
-LEELA
+<character>LEELA</character>
 Didn't you have ads in the 20th century?
 
-FRY
+<character>FRY</character>
 Well, sure, but not in our dreams. Only 
 on TV and radio. And in magazines and 
 movies and at ball games and on buses 
 and milk cartons and t-shirts and written 
 in the sky. But not in dreams. No siree!
 
-BENDER
+<character>BENDER</character>
 Quit squawking, flesh wad, nobody's 
 forcing you to buy anything.
 
-AMY
+<character>AMY</character>
 Yeah. I mean we all have commercials 
 in our dreams but you don't see us running 
 off to buy brand name merchandise at 
@@ -122,20 +122,20 @@ low, low prices.
 Express staff who are immediately preyed on by a saleswoman at 
 the cosmetics stand.]
 
-SALESWOMAN
+<character>SALESWOMAN</character>
 Hi! Care to sample the latest fragrance 
 from Calvin Clone?
 
-AMY
+<character>AMY</character>
 No thanks.
 
 [The saleswoman sprays her. Amy curses in Chinese and walks away 
 rubbing her eyes.]
 
-SALESWOMAN
+<character>SALESWOMAN</character>
 And you, sir?
 
-BENDER
+<character>BENDER</character>
 No thanks I --
 
 [The saleswoman sprays him. Bender sprays her back with oil, 
@@ -144,7 +144,7 @@ covering her face. She coughs and splutters.]
 [Time Lapse. Leela is sat on a chair at the cosmetics stand. 
 A cosmetologist brushes away her fringe.]
 
-COSMETOLOGIST
+<character>COSMETOLOGIST</character>
 What a lovely face. We just need to 
 draw attention away from the eye area.
 
@@ -153,11 +153,11 @@ sees her reflection and sighs. The woman has plastered her face
 in lipstick so she looks like a clown. In the menswear department 
 Fry picks up a box of the briefs.]
 
-FRY
+<character>FRY</character>
 Cool.  Can I try these on before I buy 
 them?
 
-SALESMAN
+<character>SALESMAN</character>
 I'm afraid I can't let you open the 
 package. But you can try on the demo 
 pair.
@@ -167,7 +167,7 @@ deodorant.]
 
 [Fitting Room. Fry puts the briefs and is impressed.]
 
-FRY
+<character>FRY</character>
 : Ooh! Ho ho ho!
 
 [He sees his reflection in the mirror - a muscled man surrounded 
@@ -178,51 +178,51 @@ Less Attractive Than They Appear and sighs.]
 Bender, wearing a green sweater, picks up a few cans of Mom's 
 Old Fashion Robot Oil from a pile and hides them under the sweater.]
 
-AMY
+<character>AMY</character>
 Hey, Bender! Great new sweater.
 
-BENDER
+<character>BENDER</character>
 New? What sweater? I came in with it. 
 I don't know you people!
 
-[He walks off. A hovering CCTV camera follows him. Back in the 
+[He walks off. A hovering <character>CCTV</character> camera follows him. Back in the 
 menswear department, Fry is buying the Lightspeeds.]
 
-SALESMAN
+<character>SALESMAN</character>
 $30, please.
 
-FRY
+<character>FRY</character>
 $30? I can't afford that. Unless... 
 Do you take Visa?
 
-SALESMAN
+<character>SALESMAN</character>
 Visa hasn't existed for 500 years.
 
-FRY
+<character>FRY</character>
 American Express?
 
-SALESMAN
+<character>SALESMAN</character>
 600 years.
 
-FRY
+<character>FRY</character>
 Discover card?
 
-SALESMAN
+<character>SALESMAN</character>
 Sorry we don't take Discover.
 
 [Amy, Leela, Zoidberg and Bender walk up behind him.]
 
-AMY
+<character>AMY</character>
 Hey! You're springing for Lightspeed? 
 Pretty ritzy!
 
-FRY
+<character>FRY</character>
 No, I can't afford them. Being poor 
 sucks. What kind of world is this where 
 they advertise things not everybody 
 can afford?
 
-AMY
+<character>AMY</character>
 Quiet. There's an ad coming on.
 
 [On the screens an old woman, the same woman from on the tins 
@@ -230,52 +230,52 @@ of oil - Mom - sits in a chair knitting. She is wearing a huge
 green dress and an apron around her front. Behind her on the 
 wall is a picture of three men dressed in the same grey clothes.]
 
-MOM
+<character>MOM</character>
 Hello shoppers. It's me, Mom!
 
-FRY
+<character>FRY</character>
 Hey who's the rocker jockey?
 
-AMY
+<character>AMY</character>
 Guh! It's Mom. The world's most huggable 
 industrialist.
 
-MOM
+<character>MOM</character>
 Call me old fashioned, but when my 
 robot starts to squeak like an old screen 
 door well, that's when I reach for a 
 can of Mom's Old Fashioned Robot Oil.
 
-BENDER
+<character>BENDER</character>
 Mmm, tasty!
 
-MOM
+<character>MOM</character>
 And remember: Mom's oil is made with 
 10% more love than the next leading 
 brand!
 
 [She smiles.]
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 "Mom", "love" and "screen door" are 
 registered trademarks of Mom Corp.
 
 [The tins under Bender's sweater squeak.]
 
-FRY
+<character>FRY</character>
 Hey, Bender. Sounds like you could use 
 a little of that oil.
 
-[Some tins fall out of Bender's sweater. Seven hovering CCTV 
+[Some tins fall out of Bender's sweater. Seven hovering <character>CCTV </character>
 cameras surround him. He looks up at them.]
 
-BENDER
+<character>BENDER</character>
 I'm boned.
 
-SMITTY
+<character>SMITTY</character>
 Freeze scuzzbot!
 
-BENDER
+<character>BENDER</character>
 Uh, there's obviously been some sort 
 of a mistake here.  I'm sure there's......I 
 say I'm sure there's......that is, I'm 
@@ -289,58 +289,58 @@ Ask About Our Generous Brutality Settlements.]
 [Cut to: New New York Police Department. At the front desk Fry 
 counts some money.]
 
-AMY
+<character>AMY</character>
 Do we have enough money to pay Bender's 
 fine?
 
-FRY
+<character>FRY</character>
 78, 79. 79.50. Crud! We're 50 cents 
 short.
 
-LEELA
+<character>LEELA</character>
 I'd love to chip in, but Bender stole 
 my wallet.
 
 [Fry sees something through a window, a building called Big Apple 
 Bank.]
 
-FRY
+<character>FRY</character>
 Hey, that's my old bank. Maybe my account's 
 still open.
 
 [Big Apple Bank. Fry steps forward to the desk and has a retina 
 scanned.]
 
-TELLER
+<character>TELLER</character>
 Hmm. We don't seem to have your retina 
 scan, your fingerprint or your colonic 
 map on file.
 
-FRY
+<character>FRY</character>
 Yeah, well, I did open the account over 
 a thousand years ago. What about my 
-ATM card?
+<character>ATM</character> card?
 
-[The teller pulls out an old ATM machine from under the desk 
+[The teller pulls out an old <character>ATM</character> machine from under the desk 
 and blows the dust off it.]
 
-TELLER
-Do you still remember your PIN number?
+<character>TELLER</character>
+Do you still remember your <character>PIN</character> number?
 
-FRY
+<character>FRY</character>
 Sure! It's the price of a cheese pizza 
 and a large soda back where I used to 
 work, Panucci's Pizza.
 
-TELLER
+<character>TELLER</character>
 OK, you had a balance of 93 cents...
 
 [Fry looks at Amy and Leela.]
 
-FRY
+<character>FRY</character>
 Alright!
 
-TELLER
+<character>TELLER</character>
 ...and at an average of 2 and a quarter 
 percent over a period of 1000 years, 
 that comes to...$4.3 billion.
@@ -351,19 +351,19 @@ and foaming at the mouth. Then he faints.]
 [Planet Express: Lounge. The crew are gathered in celebration, 
 wearing top hats and drinking champagne.]
 
-HERMES
+<character>HERMES</character>
 To Fry.
 
-AMY
+<character>AMY</character>
 Cheers!
 
 [They raise their glasses.]
 
-LEELA
+<character>LEELA</character>
 I know Fry's rich, but do we really 
 have to wear these top hats?
 
-BENDER
+<character>BENDER</character>
 Maybe you don't understand just how 
 rich he is. In fact, I think I'd better 
 put on a monocle.
@@ -383,56 +383,56 @@ and shoot it, blasting it to pieces.]
 [Original Cosmic Ray's Pizza. The Planet Express staff are gathered 
 around a table for lunch.]
 
-FRY
+<character>FRY</character>
 Pizza dinner on me!  Just keep the tab 
 under $50 million.
 
-ROBOT CHEF
+<character>ROBOT CHEF</character>
 Yo!  I haven't got all day. What kind 
 of pizza yous guys want?
 
-FRY
+<character>FRY</character>
 Uh, yeah. We'll have one with everything 
 but anchovies and one with my all time 
 favourite topping, anchovies!
 
-ROBOT CHEF
+<character>ROBOT CHEF</character>
 (mechanical voice) Invalid selection. 
 (normal voice) Yo, what are you talking 
 about?
 
-FRY
+<character>FRY</character>
 Anchovies? You know? Those little headless 
 fish?
 
-ROBOT CHEF
+<character>ROBOT CHEF</character>
 (mechanical voice) Does not compute. 
 Does not compute.
 
 [His head explodes.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I'm sorry, Fry, but the anchovy has 
 been extinct since the 2200's.
 
-FRY
+<character>FRY</character>
 What?!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, my, yes. Fished to death. Just about 
 the time your people arrived on Earth 
 wasn't it, Zoidberg?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 (defensively) I'm not on trial here.
 
-FRY
+<character>FRY</character>
 So none of you has ever had anchovies? 
 Oh, man! You don't know what you're 
 missing. They were all salty and oily 
 and they melted in your mouth and --
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Stop! Stop! I admit it! My people ate 
 them all! We kept saying "One more can't 
 hurt" and then they were gone. We're 
@@ -440,13 +440,13 @@ sorry!
 
 [He holds his claws to his head and hangs it in shame. Fry sighs.]
 
-FRY
+<character>FRY</character>
 I just wished I could've showed you 
 guys how great they were. I may be rich 
 but I still can't buy back all the things 
 I miss from the 20th century.
 
-BENDER
+<character>BENDER</character>
 Maybe you're forgetting just how rich 
 you are.  Huh? Huh?
 
@@ -458,27 +458,27 @@ the landlord and moves in.]
 in there. Amy picks up the telephone is puzzlement and puts the 
 receiver over her eyes. Enter Fry.]
 
-FRY
+<character>FRY</character>
 So? What do you think?
 
-LEELA
+<character>LEELA</character>
 I know you spent a lot of money on this 
 place, Fry, but it's awfully primitive. 
 The floors are made of such hard wood.
 
-BENDER
+<character>BENDER</character>
 Hey! Get a load of this pathetic 20th 
 century TV!
 
-FRY
+<character>FRY</character>
 What's wrong with it?
 
-BENDER
+<character>BENDER</character>
 Well, aside from causing eye cancer, 
 these things had a lousy low-definition 
 picture.
 
-AMY
+<character>AMY</character>
 That's true. On a TV like this I bet 
 you couldn't even make out my obscene 
 tattoo.
@@ -486,160 +486,160 @@ tattoo.
 [She rolls her sleeve up to reveal her obscene tattoo which appears 
 blurry. Bender whistles and Leela chuckles.]
 
-LEELA
+<character>LEELA</character>
 That's cute!
 
 [Staadgi & Staadgi Auctioneers. In the crowded room Fry bids 
 for something.]
 
-AUCTIONEER
+<character>AUCTIONEER</character>
 Sold!
 
-FRY
+<character>FRY</character>
 Yes!
 
-LEELA
+<character>LEELA</character>
 I just don't get it. Who was this Ted 
 Danson? And why would you pay $10,000 
 for his skeleton?
 
-FRY
+<character>FRY</character>
 I have an idea for a sitcom.
 
-BENDER
+<character>BENDER</character>
 Ah, leave him alone, Leela. So he's 
 going a little wacko with his money. 
-It's OK.
+It's <character>OK</character>.
 
-LEELA
+<character>LEELA</character>
 You're just saying that because he bought 
 you that antique robot toy.
 
 [Bender chuckles.]
 
-BENDER
+<character>BENDER</character>
 Yeah, it is cute.
 
 [He starts playing with a "Knock 'Em, Sock 'Em" toy. One little 
 robot punches the other's head off and Bender screams.]
 
-AUCTIONEER
+<character>AUCTIONEER</character>
 Now, our final item: This unopened can 
 of Angry Norwegian brand anchovies circa 
 1997.
 
-FRY
+<character>FRY</character>
 Anchovies?!
 
-AUCTIONEER
+<character>AUCTIONEER</character>
 The last known can in existence guaranteed 
 fresh and edible. Do I hear $10,000?
 
-FRY
+<character>FRY</character>
 15,000!
 
-MAN
+<character>MAN</character>
 20!
 
 [A rich Decapodian woman stands up.]
 
-DECAPODIAN WOMAN
+<character>DECAPODIAN WOMAN</character>
 30! No, 40!
 
-FRY
+<character>FRY</character>
 50,000!
 
 [The other bidders whisper to each other.]
 
-LEELA
+<character>LEELA</character>
 Are you crazy? It's a can of old fish.
 
-FRY
+<character>FRY</character>
 Don't tell me how to spend my money.
 
-AUCTIONEER
+<character>AUCTIONEER</character>
 50 going once, twice...
 
 [He raises his gavel but is interrupted by Mom.]
 
-MOM
+<character>MOM</character>
 75,000.
 
 [The room gasps. Mom is stood at the back of the room with the 
 three men from the picture in the ad.]
 
-LEELA
+<character>LEELA</character>
 Oh, my God, it's Mom! I've never seen 
 her in person before.
 
-FRY
+<character>FRY</character>
 100,000.
 
 [More whispering from the bidders.]
 
-LEELA
+<character>LEELA</character>
 Fry, you can't bid against Mom. She's 
 the richest, most powerful person in 
 the world. And she's so adorable.
 
 [Mom looks in her purse.]
 
-MOM
+<character>MOM</character>
 Well, I suppose I could go as high as...300,000.
 
-FRY
+<character>FRY</character>
 500!
 
-MOM
+<character>MOM</character>
 Oh, mercy be. A million.
 
-FRY
+<character>FRY</character>
 Two.
 
-MOM
+<character>MOM</character>
 Six.
 
-FRY
+<character>FRY</character>
 14!
 
-MOM
+<character>MOM</character>
 I can see the nice young man really 
 wants those little fish. Nevertheless, 
 I'll bid 23 million.
 
 [Fry stands up and raises his hand.]
 
-FRY
+<character>FRY</character>
 One jillion dollars.
 
 [The bidders gasp in shock.]
 
-AUCTIONEER
+<character>AUCTIONEER</character>
 Sir, that's not a number.
 
 [The bidders gasp again.]
 
-FRY
+<character>FRY</character>
 Oh. In that case, 50 million.
 
 [Mom turns to three men behind her.]
 
-MOM
+<character>MOM</character>
 Well, boys, your old mother knows when 
 she's been beat.  You win, young man. 
 I tip my bonnet to you.
 
 [The other bidders murmur.]
 
-BIDDER #1
+<character>BIDDER #1</character>
 Isn't she adorable?
 
-BIDDER #2
+<character>BIDDER #2</character>
 Isn't she sweet?
 
 [The auctioneer bangs his gavel.]
 
-AUCTIONEER
+<character>AUCTIONEER</character>
 What a class act! Sold! To the gentleman 
 who bought every item in today's auction.
 
@@ -648,39 +648,39 @@ who bought every item in today's auction.
 [Historic 20th Century Apartment. Fry wanders around the room 
 in the dark and picks up a box.]
 
-FRY
-Now for some good old 20th century TV.
+<character>FRY</character>
+Now for some good old 20th century <character>TV</character>.
 
-[He puts a video tape into the VCR.]
+[He puts a video tape into the <character>VCR</character>.]
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 Do you remember a time when chocolate 
 chip cookies came fresh from the oven? 
 Petridge Farm remembers.
 
-FRY
+<character>FRY</character>
 Ah, those were the days.
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 Do you remember a time when women couldn't 
 vote and certain folk weren't allowed 
 on golf courses? Petridge Farm remembers.
 
 [A knock at the door.]
 
-LEELA
+<character>LEELA</character>
 Fry? Are you there?
 
-FRY
+<character>FRY</character>
 Eh?
 
 [Enter Leela and Bender. Fry turns the TV off.]
 
-LEELA
+<character>LEELA</character>
 You haven't been to work in three days. 
 What have you been doing?
 
-FRY
+<character>FRY</character>
 I've been sitting right here. I picked 
 up my life exactly where I left off 
 a thousand years ago. Now if you'll 
@@ -690,31 +690,31 @@ biz-ay!
 [Fry turns the stereo on and listens to Baby Got Back by Sir 
 Mix-a-lot. Leela turns it off.]
 
-LEELA
+<character>LEELA</character>
 You can't just sit here in the dark 
 listening to classical music.
 
-FRY
+<character>FRY</character>
 I could if you hadn't turned on the 
 lights and shut off the stereo.
 
-LEELA
+<character>LEELA</character>
 Fry, this isn't healthy. You're living 
 in the past.
 
-FRY
+<character>FRY</character>
 I'm rich! I can live whenever I want.
 
-LEELA
+<character>LEELA</character>
 But we're your friends and we live here 
 in the year 3000.
 
-BENDER
+<character>BENDER</character>
 Yeah. Now are you gonna come to the 
 squid fights with us or sit here wallowing 
 in your prehistoric junk?
 
-FRY
+<character>FRY</character>
 Junk? Maybe you can't understand this 
 but I've finally found what I need to 
 be happy, and it's not friends: It's 
@@ -722,22 +722,22 @@ things.
 
 [He gets up and walks towards the door. Bender turns around.]
 
-BENDER (SADLY)
+<character>BENDER </character>(<character>SADLY</character>)
 I'm a thing.
 
-FRY
+<character>FRY</character>
 Just leave me alone.
 
 [Fry opens the door and Leela and Bender walk out.]
 
-LEELA
+<character>LEELA</character>
 Fry please.   My ponytail's caught in 
 the door.
 
-FRY
+<character>FRY</character>
 I don't need them. Not when I have my 
 antique videos, my bucket of fossilised 
-KFC and 50 million dollars worth of 
+<character>KFC</character> and 50 million dollars worth of 
 anchovies.
 
 [He kisses the tin of anchovies.]
@@ -745,12 +745,12 @@ anchovies.
 [Mom's Friendly Robot Company Building Corridor. Mom walks towards 
 her office, followed by her sons.]
 
-MOM
+<character>MOM</character>
 Mercy me, what a day.
 
 [Cut to: Mom's Office.]
 
-MOM
+<character>MOM</character>
 Could you shut the door, Igner dear? 
 I think I feel a draught coming on. 
 Holy crap, that bastard's itchy!  Walt! 
@@ -758,24 +758,24 @@ Cream soda!
 
 [Walt is the oldest. He has a full head of black hair.]
 
-WALT
+<character>WALT</character>
 Right away, mother.  Larry, get your 
 mother a cream soda.
 
-LARRY
+<character>LARRY</character>
 But Mom said --
 
 [Walt slaps him.]
 
-WALT
+<character>WALT</character>
 You heard me.
 
 [Mom drinks the can of soda, throws it down then lights a cigarette.]
 
-IGNER
+<character>IGNER</character>
 What's wrong, Mommy?
 
-MOM
+<character>MOM</character>
 It's those damned anchovies. That dirtbag, 
 Fry, must know their secret. And I won't 
 rest until I get my hands on them. No 
@@ -784,12 +784,12 @@ one messes with Mom!
 [She laughs evily. Walt laughs with her. Larry and Igner join 
 in. Walt slaps Larry.]
 
-WALT
+<character>WALT</character>
 Quiet, you!
 
 [Time Lapse. Mom is now sat behind a huge desk.]
 
-MOM
+<character>MOM</character>
 As you boys know, one of the cornerstones 
 of my empire is Mom's Old Fashioned 
 Robot Oil. Think of it: 10 billion robots. 
@@ -797,78 +797,78 @@ Each one needing an oil change every
 3000 miles. You don't have to do the 
 math to know that's a buttload of oil.
 
-IGNER
+<character>IGNER</character>
 Can I wear your fat suit?
 
-MOM
+<character>MOM</character>
 (shouting): No, Igner, put that down.
 
 [Igner drops the fat suit arm.]
 
-IGNER
+<character>IGNER</character>
 Aww.
 
-WALT
+<character>WALT</character>
 What does this have to do with the anchovies?
 
-MOM
+<character>MOM</character>
 I'm getting to the freaking anchovies. 
 A single drop of the anchovies natural 
 oil would lubricate 10 robots permanently.
 
-LARRY
+<character>LARRY</character>
 Wow, it's a shame they went extinct.
 
-MOM (SHOUTING)
+<character>MOM </character>(<character>SHOUTING</character>)
 No it isn't, shut your filthy trap! 
 (talking) Thank you, Walt. If anyone 
-ever got a hold of anchovy DNA, they 
+ever got a hold of anchovy <character>DNA</character>, they 
 could chop out the oil-making gene, 
 stick it in a bunch of third world kids 
 and bam! Cheap effective robot oil. 
 Enough to put dear old Mom out of businness.
 
-WALT
+<character>WALT</character>
 My God! This Mr. Fry must be a mastermind 
 of the highest order.
 
 [Cut to: Historic 20th Century Apartment. Fry is sat in the dark 
 watching Sanford & Son.]
 
-FRED
+<character>FRED</character>
 Esther, you ugly!
 
 [Fry laughs.]
 
 [Cut to: Mom's Friendly Robot Company Building: Mom's Office.]
 
-MOM
+<character>MOM</character>
 We have only one option: We'll have 
 to bankrupt Mr Fry, so he'll be forced 
 to sell the anchovies to us.
 
-WALT
+<character>WALT</character>
 Mother, you are one clever old skag!
 
-MOM
+<character>MOM</character>
 And don't you forget it!
 
-LARRY
+<character>LARRY</character>
 But how are we supposed to get Fry's 
 money out of the bank?
 
-MOM
+<character>MOM</character>
 That part will be easy, thanks to the 
 nice people at Mom's Old Fashioned Video 
 Surveillance Unit.
 
 [She puts another tape in. The scene at Big Apple Bank replays 
-on the TV.]
+on the <character>TV</character>.]
 
-TELLER [ON TV]
-Do you still remember your PIN number?
+<character>TELLER </character>[ON TV]
+Do you still remember your <character>PIN</character> number?
 
-FRY [ON TV]
+<character>FRY </character>[ON TV]
 Sure! It's the price of a cheese pizza 
 and a large soda back where I used to 
 work, Panucci's Pizza.  It's the price 
@@ -876,41 +876,41 @@ of a cheese pizza and a large soda --
 
 [Mom turns the TV off.]
 
-MOM
+<character>MOM</character>
 You know what needs to be done.
 
-LARRY
+<character>LARRY</character>
 What?
 
-MOM (SHOUTING)
-Get his PIN number, you idiots!  (talking) 
+<character>MOM </character>(<character>SHOUTING</character>)
+Get his <character>PIN</character> number, you idiots!  (talking) 
 Now I'm off to some chairty BS for knocked-up 
 teenage sluts.
 
 [Historic 20th Century Apartment. There is a knock at the door.]
 
-WALT [FROM OUTSIDE]
+<character>WALT </character>[<character>FROM OUTSIDE</character>]
 Mr. Fry. It's those three plumbers you 
 called for.
 
-LARRY [FROM OUTSIDE]
+<character>LARRY </character>[<character>FROM OUTSIDE</character>]
 We're here to tighten your drains.
 
 [The sounds of Walt's hand meeting Larry's face is heard. Fry 
 opens the door.]
 
-FRY
+<character>FRY</character>
 I didn't order any --
 
 [Walt and Igner jump on Fry and pin him to the floor.]
 
-WALT
+<character>WALT</character>
 Quick! Give him the tranquilliser.
 
 [Larry puts some tablets in Fry's mouth and strokes them down 
 his throat.]
 
-LARRY
+<character>LARRY</character>
 That's a good boy.
 
 [Fry falls unconscious.]
@@ -918,39 +918,39 @@ That's a good boy.
 [Pizzeria Set. Fry comes around and sees a disguised Walt wearing 
 a fake handlebar moustache.]
 
-WALT
+<character>WALT</character>
 Wake up, Mr. Fry.
 
-FRY
+<character>FRY</character>
 Where am I?
 
-WALT
+<character>WALT</character>
 You're in the good old year 2000, working 
 here at Panucci's Pizza. You fell asleep 
 on the job.
 
-FRY
+<character>FRY</character>
 That sounds like me but, I thought I 
 got frozen. Wasn't I in the future?
 
-WALT
+<character>WALT</character>
 No, you only "dreamed" you were in the 
 year 3000.
 
-FRY
+<character>FRY</character>
 So I'm really back? That's exactly what 
 I wanted, I guess. Who are you?
 
-WALT
+<character>WALT</character>
 I'm Mr. Panucci.
 
-FRY
+<character>FRY</character>
 You are? Did you grow a moustache since 
 last night?
 
 [Walt tears off the moustache.]
 
-WALT
+<character>WALT</character>
 No. Now go work the currency register. 
 I think I hear a customer coming...I 
 said "I think I hear a customer coming"!
@@ -958,11 +958,11 @@ said "I think I hear a customer coming"!
 [Cut to: Backstage. Larry is forcing a dress over Igner's head. 
 Pamela Anderson's head in jar is on a table.]
 
-ANDERSON
+<character>ANDERSON</character>
 Hurry up, please. I wanna get back to 
 the head museum.
 
-LARRY
+<character>LARRY</character>
 Don't worry, Miss Anderson, this won't 
 take long. Now, your motivation is you're 
 back in the year 2000 and your head's 
@@ -971,17 +971,17 @@ pizza.
 
 [He picks up the jar and puts it on Igner's head.]
 
-ANDERSON
+<character>ANDERSON</character>
 OK, but I'm only doing this so people 
 will take my head seriously as an actress.
 
 [Cut to: Pizzeria Set. Fry notices something on a sign above 
 him.]
 
-FRY
+<character>FRY</character>
 Hey, look! Anchovies!
 
-WALT
+<character>WALT</character>
 Of course. They're not extinct yet. 
 And if you need further proof that this 
 is really a thousand years ago well, 
@@ -990,62 +990,62 @@ Anderson!
 
 [Enter Pamela Anderson on top of Igner.]
 
-FRY
+<character>FRY</character>
 Ooh!
 
-ANDERSON
+<character>ANDERSON</character>
 Hello, Fry. Remember me from Baywatch: 
 The Movie?
 
-FRY
+<character>FRY</character>
 Uh...
 
-ANDERSON
+<character>ANDERSON</character>
 It was the first movie to be shot entirely 
 in slow motion.
 
 [Walt leans in to Anderson.]
 
-WALT (WHISPERING)
+<character>WALT </character>(<character>WHISPERING</character>)
 It hasn't been made yet.
 
 [Walt shakes his head.]
 
-WALT
+<character>WALT</character>
 Nope.
 
-ANDERSON
+<character>ANDERSON</character>
 Crap!
 
-FRY
+<character>FRY</character>
 Wait. You're Pamela Anderson! Cool! 
 What can I get you?
 
-ANDERSON
+<character>ANDERSON</character>
 Oh, I'll have a cheese pizza and a large...uh...line?
 
 [Larry whispers from backstage.]
 
-LARRY (WHISPERING)
+<character>LARRY </character>(<character>WHISPERING</character>)
 Soda!
 
-ANDERSON
+<character>ANDERSON</character>
 Oh, right! Cheese pizza and a large 
 soda!
 
-FRY
+<character>FRY</character>
 Uh, cheese and a --  That was quick!
 
-ANDERSON
+<character>ANDERSON</character>
 So. What do I owe you?
 
-FRY
-10.77. Same as my PIN number.
+<character>FRY</character>
+10.77. Same as my <character>PIN</character> number.
 
 [Walt, Larry, Igner and Anderson laugh. Fry is unsure of what 
 is happening so just laughs along with them.]
 
-IGNER
+<character>IGNER</character>
 Hey, you don't get to laugh.
 
 [He hits Fry on the head with Anderson's jar.]
@@ -1056,20 +1056,20 @@ There are bags of money in the limo.]
 
 [Cut to: Limo. Igner is driving.]
 
-IGNER
+<character>IGNER</character>
 Thanks a billion!
 
 [He laughs. Larry counts the cash in the back.]
 
-LARRY
+<character>LARRY</character>
 More like 4.3 billion!
 
 [He laughs with Igner. Walt slaps them both.]
 
-IGNER
+<character>IGNER</character>
 Ow!
 
-LARRY
+<character>LARRY</character>
 Ow!
 
 [The limo speeds off and Fry blacks out into a dream.]
@@ -1077,54 +1077,54 @@ Ow!
 [Cut to: Fry's Dream. Pizza's, 1077's and anchovy tins float 
 around him. Leela's and Bender's heads float towards him.]
 
-FRY
+<character>FRY</character>
 Oh, I had a nightmare I was in the year 
 2000 and you guys never existed. I'm 
 so glad I'm awake now and you're really 
 here.
 
-LEELA
+<character>LEELA</character>
 Since when do you care about us?
 
-BENDER
+<character>BENDER</character>
 We thought you only cared about cans 
 of anchovies and stuffy old songs about 
 the buttocks.
 
-FRY
+<character>FRY</character>
 No, that's not true!
 
 [Leela and Bender float away.]
 
-LEELA
+<character>LEELA</character>
 Goodbye-eee!
 
-BENDER
+<character>BENDER</character>
 Wheee!
 
 [A pack of Lightspeeds appear in the corner.]
 
 [Fry comes to. A repobot walks out of his apartment with his 
-TV.]
+<character>TV</character>.]
 
-FRY
+<character>FRY</character>
 Bender! Leela! Don't leave me. Wait 
 a minute! Hey, buddy what year is this?
 
-REPOBOT
+<character>REPOBOT</character>
 Uh, 3000.
 
-FRY
+<character>FRY</character>
 3000? Yes! I'm still in the future! 
 Life is wonderful!  Wait! What are you 
 doing with my stuff?
 
-REPOBOT
+<character>REPOBOT</character>
 Uh, check bounced. We're taking it all 
 back.
 
-FRY
-Oh, no, my ATM card! My secret PIN number! 
+<character>FRY</character>
+Oh, no, my <character>ATM</character> card! My secret <character>PIN</character> number! 
 1077. I've got nothing left. Except...
 
 [He pulls the tin of anchovies out of his sock.]
@@ -1132,11 +1132,11 @@ Oh, no, my ATM card! My secret PIN number!
 [Planet Express: Lounge. Leela and Bender are sat on the couch 
 and Farnsworth is sat at the table.]
 
-LEELA
+<character>LEELA</character>
 You're Fry's relative. Do you have any 
 idea how he got so crazy?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Uh, wha? Oh, yes, they say madness runs 
 in our family. Some even call me mad! 
 And why? Because I dared to dream of 
@@ -1146,47 +1146,47 @@ that suck blood out of...
 
 [He walks out still blabbering. Enter Fry.]
 
-FRY
+<character>FRY</character>
 Leela! Bender! I missed you so much!
 
-LEELA
+<character>LEELA</character>
 You did? What happened?
 
-FRY
+<character>FRY</character>
 I was robbed. They got everything except 
 these.
 
 [He holds up the anchovies.]
 
-BENDER
+<character>BENDER</character>
 Who did?
 
 [Leela gasps at something across the room. Mom is stood in the 
 doorway wearing her fat suit.]
 
-MOM
+<character>MOM</character>
 Hello, Fry.
 
-LEELA
+<character>LEELA</character>
 It's Mom.
 
-MOM
+<character>MOM</character>
 I felt terrible when I heard about your 
 money troubles and I thought maybe I 
 could help out a sweet young man by 
 buying his anchovies.
 
-FRY
+<character>FRY</character>
 Sorry. But the anchovies aren't for 
 sale.
 
-MOM
+<character>MOM</character>
 What? Listen, you little bastard. I 
 control the robot oil business and I 
 won't let you ruin me. How much do you 
 want?
 
-FRY
+<character>FRY</character>
 You might as well put that chequebook 
 away, because I've discovered something 
 even more important. My friends. And 
@@ -1195,44 +1195,44 @@ That's why these anchovies are going
 on a pizza, so I can share the food 
 I love with the people I like.
 
-MOM
+<character>MOM</character>
 Holy hell! You're going to eat them? 
 Oh, well. Just make sure you eat them 
 all. You're a growing boy. Toodle-oo! 
 Dumb ass!
 
-FRY
+<character>FRY</character>
 What a nice lady!
 
 [Time Lapse. The whole staff except for Zoidberg are gathered 
 around the table. Fry opens the tin of anchovies.]
 
-FRY
+<character>FRY</character>
 OK, my friends. Get ready for the most 
 delicious extinct animal you've ever 
 tasted.
 
-AMY
+<character>AMY</character>
 I don't know, I've had cow.  Ew! Gross!
 
-FRY
+<character>FRY</character>
 Ah, no one likes them at first but they'll 
 grow on you.
 
 [Enter Zoidberg. He sniffs.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 That stench. That heavenly stench!  
 More!
 
-FRY
+<character>FRY</character>
 There aren't any more. And there never 
 will be.
 
 [Zoidberg tips the table over and moves towards Fry, raising 
 his claws.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 More! More! More! More!
 
-THE END</xml>
+<character>THE END</character></xml>

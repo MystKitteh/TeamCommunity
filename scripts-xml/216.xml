@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 216 
 
-<title>THE DEEP SOUTH</title>
+<title><character>THE DEEP SOUTH</character></title>
 
 <author>J. Stewart Burns</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -13,15 +13,15 @@ Episode 216
 picks tufts out of his fur. Bender does the same to Fry. Enter 
 Hermes.]
 
-HERMES
+<character>HERMES</character>
 Exciting news, people! The pet licence 
 I requsitioned for Nibbler has arrived.
 
-LEELA
+<character>LEELA</character>
 Hermes, that's sweet. I didn't know 
 you cared about Nibbler.
 
-HERMES
+<character>HERMES</character>
 Dream on, woman. I'd like to put the 
 little bastard in a sack and toss the 
 sack in a river and hurl the river into 
@@ -35,20 +35,20 @@ licence. And it's mandatory!
 a short while later and the cargo bay lift comes down with Bender, 
 Fry and Farnsworth standing on it.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Ah! The exact centre of the Atlantic 
 Ocean. This seems the logical place 
 for fish to congregate.
 
-BENDER
+<character>BENDER</character>
 So we're in international waters?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Indeed so.
 
 [Bender whips out a radio and talks into it.]
 
-BENDER
+<character>BENDER</character>
 Falcon, this is Blue Raven, the goose 
 has nested. Repeat, the goose has nested. 
 Hey, guess what you're accessories 
@@ -57,64 +57,64 @@ to?
 [Time Lapse. On the roof of the ship, the crew pull out their 
 fishing equipment from the gun turret.]
 
-LEELA
+<character>LEELA</character>
 The sun, the sea air, good friends.
 
-BENDER
+<character>BENDER</character>
 Leela's right, fishing blows. Whattya 
 say we make it interesting?
 
-HERMES
+<character>HERMES</character>
 Why not?
 
-AMY
+<character>AMY</character>
 Yeah.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yeah, cool.
 
-BENDER
+<character>BENDER</character>
 Everybody kick in five bucks.  There, 
 wasn't that interesting?
 
-LEELA
+<character>LEELA</character>
 Bender!
 
 [Fry chuckles.]
 
-FRY
+<character>FRY</character>
 This contest is as good as over. I once 
 caught a fish this big.
 
 [He stretches out his arms.]
 
-BENDER
+<character>BENDER</character>
 Oh, yeah? I once caught a fish this 
 big!
 
 [He extends his arms the length of the ship. Leela opens a case.]
 
-LEELA
+<character>LEELA</character>
 I'm afraid you're both out of your league, 
 boys, 'cause you're looking at a woman 
 who owns her own harpoon.
 
 [She twists the top of the harpoon onto the bottom.]
 
-BENDER
+<character>BENDER</character>
 Harpoon, my ass!
 
-LEELA
-OK.
+<character>LEELA</character>
+<character>OK</character>.
 
 [And she does. He screams in pain and jumps into the water. Hermes 
 looks at five buckets.]
 
-HERMES
+<character>HERMES</character>
 Let's see now, which bait to use?  Crickets? 
 Squid? Chicken necks?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Excuse me, if I might be so bold, I'm 
 willing to offer my services as a bait 
 critic.  These sardines for example 
@@ -124,62 +124,62 @@ dry, stringy nightcrawlers, though juicy
 
 [He sticks his head in the bucket and gobbles the bait.]
 
-HERMES
+<character>HERMES</character>
 I don't believe this! It's eating my 
 bait!  Beat it, you mooching crawdad!
 
 [Zoidberg runs away and woops. Bender presses a button on his 
 fishing rod.]
 
-BENDER
+<character>BENDER</character>
 Hey, Fry, check out my laser-guided 
 fishing rod.
 
-FRY
+<character>FRY</character>
 (whispering) Quiet, Bender, you're scaring 
 away the fish.
 
-BENDER
+<character>BENDER</character>
 Fine. I'll head over to the other side. 
 (shouting) Good luck fishing on this 
 side!
 
 [He walks away and Fry casts his line and chuckles.]
 
-FRY
+<character>FRY</character>
 I can hit a fish between the eyes from 
 20 yards!
 
-BENDER
+<character>BENDER</character>
 Oh, yeah? I can hit a shrimp!
 
-FRY
+<character>FRY</character>
 A shrimp?  I find it a bit hard to believe 
 that--
 
 [Bender's line hits Fry between the eyes and knocks him over. 
 Leela spins her harpoon around and sees something in the water.]
 
-LEELA
+<character>LEELA</character>
 Aha!  Gather round, chumps! I got the 
 winner!
 
 [An old boot comes out of the water on the end of the harpoon. 
 Leela sighs.]
 
-AMY
+<character>AMY</character>
 Oh, so this is where you shop for your 
 boots?
 
 [Fry reels in a little fish.]
 
-BENDER
+<character>BENDER</character>
 Couple more of those and you'll have 
 yourself a fish stick!
 
 [He laughs.]
 
-FRY
+<character>FRY</character>
 Hey, a fish this fine belongs in a fish 
 nugget-style chunklet. And anyway, it's 
 bigger than anything you've caught. 
@@ -187,13 +187,13 @@ Ow! My small intestine!
 
 [Leela tries again with the harpoon.]
 
-LEELA
+<character>LEELA</character>
 Bingo! Whatever it is, it's 20 times 
 heavier than a boot.
 
 [She pulls out a crate marked "Boots 10 Pair" and sighs.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You'll never catch anything with that 
 primitive technology. What you need 
 is this fish pheromone.  The most potent 
@@ -202,21 +202,21 @@ aphrodisiac known to fishkind.  Uh-oh!
 [Several fish leap up to his head. He screams and knocks them 
 off. Zoidberg comes up behind him and sniffs him.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 (sexfully) I'm so into you!
 
 [He wraps his mouth flaps around Farnsworth's head and slurps.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, my!
 
 [Fry reels in his line. There is big fish attached to it.]
 
-FRY
+<character>FRY</character>
 (shouting) Hey, Bender, I just caught 
 a fish this big!
 
-BENDER
+<character>BENDER</character>
 Quit exaggerating, Fry. Ah, screw this! 
 If I'm not gonna catch a fish, I might 
 as well not catch a big fish.  There. 
@@ -225,20 +225,20 @@ can be solved with bending.
 
 [He ties the ships tether line to the hook.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Bender, be careful. That's the ships 
 diamond filament tether. It's unbreakable.
 
-BENDER
+<character>BENDER</character>
 Then why do I have to be careful?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 It belonged to my grandmother.
 
 [Bender takes some food from Hermes' hands, attaches it to his 
 hook and throws it into the sea.]
 
-HERMES
+<character>HERMES</character>
 My manwich!
 
 [Time Lapse. Dusk approaches. Fry is asleep in a chair with his 
@@ -246,78 +246,78 @@ rod next to him, Amy is asleep, Hermes is asleep with sign hanging
 around him saying he will be awake at 7pm. Bender snoozes, his 
 door opening and closing. Leela casts her harpoon again.]
 
-LEELA
+<character>LEELA</character>
 Wake up, everyone! I've got something. 
 And this time it's alive!  Dr. Zoidberg, 
 since when do you even wear boots?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I wasn't wearing it. (ashamed) I was 
 eating it.
 
 [Leela sighs and lets go of the rope.]
 
-LEELA
+<character>LEELA</character>
 Come on, let's go home.
 
 [Amy wakes up and screams.]
 
-AMY
+<character>AMY</character>
 Sunburn! My fabulous body! It's ruined! 
 What happened to my parasol?
 
-BENDER
+<character>BENDER</character>
 I don't know. It wasn't here when I 
 took your umbrella.  What? I put sunblock 
 on you.
 
-AMY
+<character>AMY</character>
 Well it didn't work!
 
 [She turns around and stomps off. On her back Bender has spelled 
 out "Honk If Bender Is Great" in sunblock. He giggles.]
 
-LEELA
+<character>LEELA</character>
 Come on, Bender. Pull in your line and 
 let's go.
 
 [Bender tries to pull in the line.]
 
-BENDER
+<character>BENDER</character>
 Hey, I'm snagged.
 
 [The line starts to whirr away.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 It's not snagged, the mechano man has 
 caught something!  Sweet Zombie Jesus! 
 It's huge!
 
-AMY
+<character>AMY</character>
 It's coming up!
 
 [A huge fish leaps up from the water and over the top of the 
 ship. The staff gasp.]
 
-HERMES
+<character>HERMES</character>
 Oh, that's big!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 A colossal-mouth bass!
 
 [The bass heads back under the water and the tether starts winding 
 away.]
 
-FRY
+<character>FRY</character>
 It's diving!
 
 [The ship shakes and tilts forward.]
 
-LEELA
+<character>LEELA</character>
 It's pulling us under! Everyone into 
 the ship!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Wait! I'll save us! By cutting the unbreakable 
 diamond filament!  Well, at least I'll 
 die with my friends. Hello?
@@ -327,71 +327,71 @@ creeps towards Zoidberg. He climbs in and shuts it behind him.
 The ship lurches forward and disappears under the water and the 
 staff scream. Something floats to the surface.]
 
-HERMES
+<character>HERMES</character>
 (from ship) My Speedos!
 
 [Ships Cockpit. The room is glowing red and a klaxon beeps. Leela 
 watches the depth gauge.]
 
-LEELA
+<character>LEELA</character>
 Depth at 45 hundred feet, 48 hundred, 
 50 hundred! 5000 feet!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Dear Lord, that's over 150 atmospheres 
 of pressure.
 
-FRY
+<character>FRY</character>
 How many atmospheres can this ship withstand?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Well it's a spaceship, so I'd say anywhere 
 between zero and one.
 
 [The ships hull creaks around them.]
 
-BENDER
+<character>BENDER</character>
 What's that? Is someone bending girders?
 
 [More creaking. The depth gauge reaches 6000ft and breaks. Farnsworth's 
 glasses break and so do Bender's eyes. He screws some new ones 
 in.]
 
-LEELA
+<character>LEELA</character>
 We'll be crushed if we don't equalise 
 the pressure.
 
-FRY
+<character>FRY</character>
 How do we do that?
 
 [Pipes burst around the room and the water floods in.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 That should do it.
 
 [The water gets higher.]
 
-AMY
+<character>AMY</character>
 We're all gonna die!
 
-FRY
+<character>FRY</character>
 Wait, I'll be back in a minute.
 
 [He takes off his jacket and swims under the water. A toilet 
 flushes and the water level drops. The staff cheer and Fry walks 
 back in, zipping up his shorts.]
 
-LEELA
+<character>LEELA</character>
 You did it, Fry!
 
-FRY
+<character>FRY</character>
 Did what?
 
 [The ship hits some rocks and everyone is thrown across the room, 
 screaming. The ship comes to a rest on the ocean floor. Bender 
 looks out the window.]
 
-BENDER
+<character>BENDER</character>
 People, it's far far worse than we thought; 
 My fish got away.
 
@@ -399,17 +399,17 @@ My fish got away.
 back on, Leela mops the floor and Fry tapes up a crack in the 
 hull.]
 
-LEELA
+<character>LEELA</character>
 There, good as new! Except we're three 
 miles below the surface, we don't have 
 any food and the ship won't work underwater.
 
-BENDER
+<character>BENDER</character>
 (restrained) Tempers are wearing thin. 
 Let's just hope some robot doesn't kill 
 everybody.
 
-HERMES
+<character>HERMES</character>
 The important thing is that we don't 
 panic. There are rules for situations 
 like this.  Now, the first order of 
@@ -417,132 +417,132 @@ business is lunch. I suggest a nice
 lobster Zoidberg, I mean lobster Newburg, 
 I mean Doctor Zoidberg.
 
-LEELA
+<character>LEELA</character>
 OK, everyone, calm down. The Professor 
 and I will get to work on the ship. 
 Bender, Zoidberg, since you can survive 
 underwater, you'll go out and look for 
 food.
 
-FRY
+<character>FRY</character>
 I'd better go too. They don't know what 
 I like.
 
 [He opens the airlock.]
 
-HERMES
+<character>HERMES</character>
 Fry, no! The pressure will crush you 
 like a green snake under a sugarcane 
 truck.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Not necessarily. This is chance for 
 Fry to test out my experimental anti-pressure 
 pill.
 
 [He pulls out a huge black pill.]
 
-FRY
+<character>FRY</character>
 I can't swallow that.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Well then good news! It's a suppository.
 
 [Seabed. Fry, Bender and Zoidberg walks across the ocean floor. 
 Fry holds a bag of air. Zoidberg picks up a fish and puts it 
 Bender's chest cabinet.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 How are you doing there, Fry?  Glad 
 to hear it.  Aha!
 
 [He puts it in Bender's chest cabinet. Bender sees an electric 
 eel and grabs it. It shocks him.]
 
-BENDER
+<character>BENDER</character>
 Aw, yeah!
 
 [Zoidberg sees a little glowing thing.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Yum, yum, yum!  Uh-oh!  Look at me, 
 I'm Dr. Zoidberg, homeowner!
 
 [Time Lapse. The trio search for food next to a sunken wreck. 
 Fry lifts a skull and crossbones flag.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Careful, Fry, I think that flag might 
 be poisonous.
 
 [Bender emerges from the boat wearing a pirate hat and an eyepatch 
 and carrying some bottles.]
 
-BENDER
+<character>BENDER</character>
 Ahoy, mateys! I shanghaied us some hearty 
 grub.  Arr! The laws o' science be a 
 harsh mistress!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Say, robot, old buddy? Could you help 
 me move a couch?
 
-BENDER
+<character>BENDER</character>
 Uh, OK, but I'm not carrying it upstairs.
 
 [He climbs into the shell leaving Fry alone. Some seaweed parts, 
 revealing a mermaid. She laughs and swims away and Fry blubbers. 
 Zoidberg and Bender emerge from the shell.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 What is it, Fry?
 
-FRY
+<character>FRY</character>
 (blubberling) Mermaid.
 
-BENDER
+<character>BENDER</character>
 You want some lemonade? You saw a big 
 parade?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Your student loans have been repaid? 
 Then how 'bout lending your old pal 
 Zoidberg a few bucks, Mr Millionaire!
 
 [Ships Mess. The crew are eating. Fry is still blubberling.]
 
-LEELA
+<character>LEELA</character>
 Fry, swallow your food. Then talk.
 
 [Fry swallows.]
 
-FRY
+<character>FRY</character>
 A mermaid!
 
 [Amy laughs.]
 
-AMY
+<character>AMY</character>
 You think you saw a mermaid?
 
-FRY
+<character>FRY</character>
 No, I did see a mermaid! She was wearing 
 a tube top and she had a beautiful scaley 
 tail. And I think she had hair extensions.
 
-BENDER
+<character>BENDER</character>
 Yeah, right!
 
-LEELA
+<character>LEELA</character>
 Sure she did.
 
-HERMES
+<character>HERMES</character>
 OK, Fry!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You're simply hallucinating, you ... 
 moron.
 
-FRY
+<character>FRY</character>
 What's so far-fetched about mermaids? 
 I mean, there's all sorts of weird sea 
 creatures here in the future. Like Dr. 
@@ -552,11 +552,11 @@ Zoidberg.
 has built a window box on his shell and is landscaping a garden. 
 He turns around and waves.]
 
-LEELA
+<character>LEELA</character>
 I'm afraid Fry is suffering from ocean 
 madness.
 
-FRY
+<character>FRY</character>
 Every time something good happens to 
 me you say it's some kind of madness, 
 or I'm drunk, or I ate too much candy. 
@@ -564,18 +564,18 @@ Well I saw a real mermaid and I wish
 for once my friends would have decency 
 and kindness to believe me.
 
-LEELA
+<character>LEELA</character>
 (whispering) Ocean madness.
 
 [Fry storms out.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 He may have ocean madness but that's 
 no excuse for ocean rudeness.
 
 [Fry's And Bender's Quarters. Fry lies awake while Bender snores.]
 
-FRY
+<character>FRY</character>
 (muttering) Ocean madness, yeah right. 
 It's always something, ain't it?  (talking) 
 It's her! Bender, wake up! She's here! 
@@ -587,93 +587,93 @@ Wake up!  Oh! oxygen!
 door behind him. His suitcase floats away and he screams. The 
 mermaid puts something in his mouth.]
 
-MERMAID
+<character>MERMAID</character>
 Here you go, darlin'.
 
 [Fry breathes.]
 
-FRY
+<character>FRY</character>
 Hey! I can breath and talk, just like 
 a fish!
 
-MERMAID
+<character>MERMAID</character>
 Oh, you speak fish?
 
 [She says something in fish.]
 
-FRY
+<character>FRY</character>
 What?
 
-MERMAID
+<character>MERMAID</character>
 I'm sorry, my accent's atrocious. Hi, 
 my name's Umbriel!
 
-FRY
+<character>FRY</character>
 I'm Fry. So, uh, am I gonna drown?
 
-UMBRIEL
+<character>UMBRIEL</character>
 Course not. Just stay calm and let the 
 currents relax your every muscle.
 
 [Fry relaxes.]
 
-FRY
+<character>FRY</character>
 Aw, yeah!
 
-UMBRIEL
+<character>UMBRIEL</character>
 Did it just get warmer?
 
-FRY
+<character>FRY</character>
 I can't believe you're really real. 
 I like your tail.
 
-UMBRIEL
+<character>UMBRIEL</character>
 Oh, you're sweet. I like those wiggly 
 doo-dads comin' outta your hips.
 
-FRY
+<character>FRY</character>
 Oh, Thanks. They're called pants.
 
 [Time Lapse. Fry and Umbriel sit next to a glowing vent.]
 
-UMBRIEL
+<character>UMBRIEL</character>
 This here's a volcanic vent. The water 
 comes out at over 4000 degrees.
 
-FRY
+<character>FRY</character>
 No kidding.
 
 [He relaxes.]
 
-UMBRIEL
+<character>UMBRIEL</character>
 Did it just get colder?  Tell me more 
 about that bizarre land-y world you 
 come from. Is there water there too?
 
-FRY
+<character>FRY</character>
 Sure, sometimes it falls from the sky.
 
-UMBRIEL
+<character>UMBRIEL</character>
 Hm.
 
-FRY
+<character>FRY</character>
 And sometimes it doesn't.
 
 [She gasps.]
 
-UMBRIEL
+<character>UMBRIEL</character>
 Oh, Mr. Fry! You do go on!
 
-FRY
+<character>FRY</character>
 You know what I like best about you, 
 Umbriel? You find me fascinating even 
 when I'm not claiming to be a jewel 
 thief or a lion tamer.
 
-UMBRIEL
+<character>UMBRIEL</character>
 Lions? There are sealions on the land?
 
-FRY
+<character>FRY</character>
 Yup. We call them land-sealions ... 
 I tame them!
 
@@ -685,25 +685,25 @@ into each other's eyes and kiss.]
 [Ships Galley. Bender reads The Atlantic Monthly while Leela, 
 Amy and Hermes are gathered around something. Enter Farnsworth.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I'm almost finish reconfiguring the 
 ships propulsion system. We can leave 
 as soon as the paper-m�ch� is dry.
 
-LEELA
+<character>LEELA</character>
 Where's Fry?
 
-BENDER
+<character>BENDER</character>
 I didn't kill him. Professor?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No, I've been busy.
 
-HERMES
+<character>HERMES</character>
 He must've gone out looking for that 
 mermaid. The poor demented honky.
 
-LEELA
+<character>LEELA</character>
 It's ocean madness alright. Sailors 
 call it aqua dementia, the deep down 
 crazies, the wet willies, the screaming 
@@ -714,54 +714,54 @@ moist!
 [Cut to: Ship Corridor. Leela joins the rest of them. Farnsworth 
 opens the door to the airlock.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 We'll form a search party. Now, we'll 
 need oxygen.
 
-BENDER
+<character>BENDER</character>
 I got it covered.  In the event of an 
 emergency, my ass can be used as a floatation 
 device.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Ooh, that reminds me: You've all taken 
 your pressure pills, right?
 
-AMY
+<character>AMY</character>
 Yes! Stop asking!
 
 [Seabed. The crew stand outside the ship wearing their oxygen 
 masks. Zoidberg sniffs around like a dog.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I've got his scent! Over here where 
 the water gets warmer. This way!
 
 [The staff follow him across the seabed. They peek over a mound 
 and gasp. Ahead of them is a city.]
 
-BENDER
+<character>BENDER</character>
 (awestruck) Bend me!
 
 [Amy says something in Chinese.]
 
-AMY
+<character>AMY</character>
 Dude! An ancient sunken city!
 
 [The crew look at a partly-obscured sign that reads "City Of 
 Atl".]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Could it possibly be? Are the old legends 
 true?  It is! It's the fabled lost city 
 of Atlanta!
 
-MERMAN
+<character>MERMAN</character>
 Howdy, y'all!
 
 [City Of Atlanta. The crew are greated by another merman.]
 
-COLONEL
+<character>COLONEL</character>
 Welcome to Atlanta. Folks round these 
 parts call me the Colonel.  Here, have 
 some breathers, courtesy of our Chamber 
@@ -770,12 +770,12 @@ of Commerce.
 [He hands them the same breathing gear Umbriel gave Fry earlier. 
 They put them in.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 This is uncomfortable and humiliating. 
 Now, if they could put it in the form 
 of a suppository.
 
-COLONEL
+<character>COLONEL</character>
 Y'all enjoy your stay! Tourism's our 
 main source of income round here so 
 see the sights, spend some money. Please 
@@ -783,17 +783,17 @@ don't leave!
 
 [Fry and Umbriel come out of Krispy Kreme.]
 
-BENDER
+<character>BENDER</character>
 Fry! Oh, I just knew you were still 
 alive! (whispering) I owe you 10 bucks, 
 Hermes!
 
-FRY
+<character>FRY</character>
 Hey, you guys, the most amazing thing 
 happened. It's two-for-one Tuesday at 
 Krispy Kreme! Plus there's mermaids.
 
-COLONEL
+<character>COLONEL</character>
 Nice out of town folks, I'd like you 
 to meet my daughter, Umbriel. Umbriel, 
 these are some Yankees.
@@ -801,32 +801,32 @@ these are some Yankees.
 [Time Lapse. The staff, Umbriel and the Colonel wander around 
 the city.]
 
-AMY
+<character>AMY</character>
 So, Fry, Atlanta was an American city 
 in your time?
 
-FRY
+<character>FRY</character>
 I think it was just an airport. They 
 had a place where you could buy nuts.
 
-UMBRIEL
+<character>UMBRIEL</character>
 No! Ancient Atlanta was more than just 
 a Delta hub. It was a vibrant metropolis, 
 the equal of Paris or New York.
 
-FRY
+<character>FRY</character>
 That's right, honey! Whatever you say.
 
-UMBRIEL
+<character>UMBRIEL</character>
 Look at these fabulous ruins. Turner 
 Field, the Coca-Cola bottling plant, 
 the, uh, the airport.
 
-LEELA
+<character>LEELA</character>
 But tell us: How could a city with such 
 a ... fabulous airport, end up underwater?
 
-COLONEL
+<character>COLONEL</character>
 Ah, now that's a story that can only 
 rightly be told in a Chamber of Commerce 
 video narrated by folk-rock trubadour 
@@ -835,7 +835,7 @@ Donovan.
 [He presses a button and Donovan appears on the screen and strums 
 the tune to Atlantis with slightly different lyrics.]
 
-DONOVAN
+<character>DONOVAN</character>
 Atlanta was a city, landlocked, hundreds 
 of miles from the area we now call the 
 Atlantic Ocean,
@@ -862,26 +862,26 @@ The others chose to remain behind on their porches with their
 rifles, and one day evolve into mermaids, and sing and dance 
 and ring in the new.
 
-MERMAIDS
+<character>MERMAIDS</character>
 Hail Atlanta!
 
 [The video ends.]
 
-LEELA
+<character>LEELA</character>
 The magician?
 
-BENDER
+<character>BENDER</character>
 Whoa, whoa, whoa. Wouldn't it take millions 
 of years to evolve into mermaids?
 
-UMBRIEL
+<character>UMBRIEL</character>
 Normally, yes, but the caffine really 
 sped things up.  That stuff's wonderful.
 
 [Colonel's House. The staff are seated around a dining table 
 with the Colonel and Umbriel.]
 
-COLONEL
+<character>COLONEL</character>
 So when Umbriel first brought home this 
 carpet bagger, I was again' it. But, 
 damnit, if old legs here ain't grown 
@@ -889,183 +889,183 @@ on me!
 
 [He pats Fry on the back.]
 
-FRY
+<character>FRY</character>
 Aw, shucks, Colonel.
 
 [He spits tobacco and the spitoon dings.]
 
-HERMES
+<character>HERMES</character>
 Well, it's all very nice here but we 
 should be going. I miss me wife and 
 me oxygen.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yes, we all miss our loved ones and 
 gases. Come on, Fry.
 
-FRY
+<character>FRY</character>
 Wait. I'm not going with you.
 
 [Everyone gasps.]
 
-LEELA
+<character>LEELA</character>
 But, Fry, what about us? What about 
 your life on the surface? You don't 
 belong down here.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 She's right, I mean sure they got the 
 Braves but it's a third-rate symphony.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Fry, you half-mad, half-insane maniac, 
 be reasonable. Don't you realise that 
 if you stay at this depth your body 
 will permanently adapt to the pressure?
 
-FRY
+<character>FRY</character>
 Realise it? I don't even understand 
 it!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 It means you'll never be able to return 
 to the surface.
 
-FRY
+<character>FRY</character>
 I don't care. I'm staying. I've got 
 everything I want right here.
 
 [He hugs Umbriel.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (shouting) I'm bored! Let's go!
 
 [Outside Colonel's House. On the porch Fry shakes hands with 
 his old friends as they leave.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 You know, Fry, I've got a little place 
 just outside town. You could come visit, 
 maybe?
 
 [Fry looks at the Colonel who shakes his head.]
 
-FRY
+<character>FRY</character>
 Sorry, Zoidberg. I'm trying to join 
 the country club.
 
 [Bender hugs Fry.]
 
-BENDER
+<character>BENDER</character>
 (crying) Oh, Fry!  I'll miss you!
 
 [He leaves and the Colonel waves.]
 
-COLONEL
+<character>COLONEL</character>
 Y'all come back now, y'hear?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (shouting) Let's go, damnit! Let's go!
 
 [Ships Airlock. Farnsworth opens the door and the crew walk in. 
 Zoidberg stops outside.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Well, I guess this is goodbye for me 
 as well.
 
-LEELA
+<character>LEELA</character>
 Whatever.
 
-AMY
+<character>AMY</character>
 Later.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Bye.
 
 [Cut to: Seabed. Zoidberg turns away sadly and the door closes 
 behind him. He screams. His shell is a burned ruin.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 No! My home! It burned down!  (crying) 
 How did this happen?
 
-HERMES
+<character>HERMES</character>
 That's a very good question.
 
 [Bender picks something up.]
 
-BENDER
+<character>BENDER</character>
 So that's where I left my cigar.
 
 [He smokes it.]
 
-HERMES
+<character>HERMES</character>
 That just raises further questions!
 
 [Umbriel's Bedroom. Fry and Umbriel sit on her bed.]
 
-FRY
+<character>FRY</character>
 You know, Umbriel, these last 24 hours 
 have been the happiest days of my life.
 
-UMBRIEL
+<character>UMBRIEL</character>
 Oh, Fry! I want you to make a mer-woman 
 outta mer-me.
 
 [She gets under the sheet and her top floats away.]
 
-FRY
+<character>FRY</character>
 Mercy! I do believe I'm gettin' the 
 vapours!
 
 [He tears his clothes off and dives under the sheets. He and 
 Umbriel kiss and her tail flaps around.]
 
-UMBRIEL
+<character>UMBRIEL</character>
 What the hell is that?
 
-FRY
+<character>FRY</character>
 Yeah I'm a little confused too. How 
 do I ... y'know ... with the tail and 
 all?
 
-UMBRIEL
+<character>UMBRIEL</character>
 I'm not your first am I? I mean, I-I 
 lay my eggs and leave and you release 
 your fertiliser.
 
 [Outside Colonel's House. Fry runs away from the house.]
 
-FRY
+<character>FRY</character>
 (gasping) Why couldn't she be the other 
 type of mermaid, with the fish part 
 on top and the lady part on the bottom?
 
 [The Colonel and Umbriel open the door.]
 
-UMBRIEL
+<character>UMBRIEL</character>
 Now who's gonna escort me to the Debutante 
 Ball?
 
-COLONEL
+<character>COLONEL</character>
 Well what about that rich young dugong 
 from Macon?
 
 [Ships Cockpit.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 There! The engine modifications are 
 complete.
 
-LEELA
+<character>LEELA</character>
 Prepare for launch.
 
 [Cut to: Seabed. The ship takes off from the rocky bed. The engine 
 has been modified to flap around like a fish tail. Fry misses 
 the ship.]
 
-FRY
+<character>FRY</character>
 Wait! Wait for me! Don't leave me here!
 
 [He sees Bender's fish hook and chases it. He leaps up and grabs 
@@ -1076,7 +1076,7 @@ he screams and the bass eats him.]
 Poopenmeyer, photographers and other people are crowded around 
 Bender.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 And so, in honour of his record-breaking 
 catch, I'm proud to award Bender this 
 cheque for $1000.
@@ -1084,52 +1084,52 @@ cheque for $1000.
 [He shakes Bender's hand and photographers take photos. The crowd 
 cheers. The bass spits out Fry followed by Hermes' manwich.]
 
-LEELA
+<character>LEELA</character>
 It's you!
 
-BENDER
+<character>BENDER</character>
 Hey, buddy!
 
-HERMES
+<character>HERMES</character>
 My manwich!
 
-LEELA
+<character>LEELA</character>
 Fry, are you alright? What happened?
 
-AMY
+<character>AMY</character>
 What about Umbriel?
 
-FRY
+<character>FRY</character>
 Well, it turns out I loved her, but 
 I wasn't in love with her.
 
-AMY
+<character>AMY</character>
 (whispering) Trouble in bed.
 
 [Leela nods.]
 
-BENDER
+<character>BENDER</character>
 Ah, it's great to have you back, buddy.
 
 [He puts his arms around Fry. Poopenmeyer looks at the scales.]
 
-POOPENMEYER
+<character>POOPENMEYER</character>
 Wait a-- This is no record! Gimmie back 
 that cheque! I'm giving it to some giant 
 orphans.
 
 [He snatches the cheque from Bender. Fry starts struggling.]
 
-FRY
+<character>FRY</character>
 Ow! Bender, you're hurting me. Ow!
 
 [He chokes. The bass' gills open. Zoidberg is inside.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Hey! I'm trying to sleep in here!
 
-THE END
+<character>THE END</character>
 
-DONOVAN
+<character>DONOVAN</character>
 (over credits) Hail Atlanta!
 </xml>

@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 404
 
-<title>LOVE AND ROCKET</title>
+<title><character>LOVE AND ROCKET</character></title>
 
 <author>Dan Vebber</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -10,45 +10,45 @@ Episode 404
 [Opening Credits. Caption: When You See The Robot, Drink!]
 
 [Ship's Cockpit. Bender argues with the ship at a port that looks 
-like the ports HAL 9000 used in 2001: A Space Oddysey. The ship 
+like the ports <character>HAL 9000</character> used in 2001: A Space Oddysey. The ship 
 speaks with a male voice.]
 
-BENDER
+<character>BENDER</character>
 You are one narrow minded spaceship 
 Planet Express Ship.
 
-SHIP
+<character>SHIP</character>
 Whoa whoa! Why should my tax money pay 
 for art I find offensive?
 
 [Bender flips through a book titled Art & You and holds up a 
 page with a picture of a Horrible Gelatinous Blob.]
 
-BENDER
+<character>BENDER</character>
 Would you censor the Venus de Venus 
 just because you can see her spewers?
 
-SHIP
+<character>SHIP</character>
 Oh its filthy! Why not create a national 
 endowment for strip clubs while we're 
 at it?
 
-BENDER
+<character>BENDER</character>
 Why not indeed!
 
-LEELA
+<character>LEELA</character>
 Bender! Ship! Stop bickering or I'm 
 going to come back there and change 
 your opinions manually!
 
-BENDER
+<character>BENDER</character>
 Fine! I'll be in my quarters appreciating 
 controversial artworks.
 
 [He leaves. The door closes on him and cuts his head off. It 
 lands on the floor and rolls a little.]
 
-SHIP (SARCASTICALLY)
+<character>SHIP </character>(<character>SARCASTICALLY</character>)
 Oops! Sorry!
 
 [He chuckles.]
@@ -56,37 +56,37 @@ Oops! Sorry!
 [Planet Express: Meeting Room. The crew are sat around the table. 
 Bender screws his head back on.]
 
-BENDER
+<character>BENDER</character>
 Ah that ship is so white bread!
 
 [Enter Hermes and Farnsworth carrying several red boxes.]
 
-HERMES
+<character>HERMES</character>
 People! It's Valentines Day next week, 
 so your beloved company has gotten you 
 all new uniforms!
 
 [Everyone opens their boxes and reacts well to the uniforms.]
 
-AMY
+<character>AMY</character>
 Cool!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Clothing, delicious clothing!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 We'll need to look our best if we're 
 to get the account of our new potential 
 customer Romanticorp!
 
-AMY
+<character>AMY</character>
 Romanticorp? Are they a corporation 
 that makes romantic stuff?
 
-HERMES
+<character>HERMES</character>
 Very good Amy!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Everyone suit up. We're off to the most 
 romantic city on Earth!
 
@@ -96,34 +96,34 @@ they close.]
 
 [Cut to: Romanticorp Factory Entrance.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Remember, we've got to show these people 
 we're not bitter husks of human beings 
 who long ago abandoned hope of finding 
 love in this lifetime. Leela you'll 
 have to do some acting.
 
-LEELA
+<character>LEELA</character>
 Check!
 
 [Some doors open and a man and a woman, Sheldon and Gwen, walk 
 in.]
 
-SHELDON
+<character>SHELDON</character>
 Welcome, aww I'm just so excited!  I'm 
 Sheldon and this is my chief financial 
 officer Gwen.
 
-GWEN
+<character>GWEN</character>
 For 30 years we've shared the adventure 
 of managing Romanticorp.
 
-SHELDON
+<character>SHELDON</character>
 Not to mention the adventure of marriage!
 
 [They both laugh. Then they kiss again.]
 
-LEELA
+<character>LEELA</character>
 Oh you have got to be kidding!  Ow! 
 Ow! I mean, aww thats so sweet!  Ow! 
 I mean, (soppily) Aww dats show shweet!
@@ -133,25 +133,25 @@ I mean, (soppily) Aww dats show shweet!
 [Romanticorp Factory Production Line. The crew and Sheldon and 
 Gwen are moving along a moving walkway.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You know, romance is an important part 
 of our work too, uh right everyone?
 
 [The crew nod in agreement.]
 
-SHELDON
+<character>SHELDON</character>
 Do any of you collect Lovey Bears?
 
-AMY
+<character>AMY</character>
 I do! Kif's given me dozens! Is it true 
 what the ad says? That you kiss them 
 together out of blanket cloth and magic 
 buttons?
 
-GWEN
+<character>GWEN</character>
 No.
 
-SHELDON
+<character>SHELDON</character>
 It's actually cheaper to genetically 
 engineer real ones.  They frolic in 
 the Lovey Forest until their first birthday 
@@ -162,36 +162,36 @@ love fluff!
 [In the Lovey Forest, bears are picked up and put onto a conveyor 
 belt where they are delivered to the Bear "Hospital".]
 
-AMY (UNSURE)
+<character>AMY </character>(<character>UNSURE</character>)
 Oh cute!
 
 [Romanticorp Factory Romance Acceleration Lab.]
 
-GWEN
+<character>GWEN</character>
 Knowing which pickup lines fizzle and 
 which ones sizzle keeps us on the cutting 
 edge of flirtation technology.
 
 [Two robot frames stand in front of a woman.]
 
-FRAME #1
+<character>FRAME #1</character>
 Is heaven missing an angel? 'Cause you've 
 got nice cans!
 
 [The woman is not impressed.]
 
-FRAME #2
+<character>FRAME #2</character>
 My two favourite things are commitment 
 and changing myself.
 
 [The woman is lovestruck and hugs the frame.]
 
-LEELA
+<character>LEELA</character>
 Does that dummy have a brother?
 
 [Romanticorp Factory Candy Hearts Production.]
 
-SHELDON
+<character>SHELDON</character>
 And now friends and lovers we come to 
 the heart of our operation. Pun definately 
 intended!
@@ -200,10 +200,10 @@ intended!
 the cattle prod. Hermes picks up a candy heart that says "Cutie 
 Pie."]
 
-HERMES
+<character>HERMES</character>
 Impressive!
 
-GWEN
+<character>GWEN</character>
 My family has been making these hearts 
 since the 1900's. Tastes may have changed 
 but our secret recipe sure hasn't.
@@ -211,15 +211,15 @@ but our secret recipe sure hasn't.
 [She points to a machine mixing Bone Meal and Earwig Honey. Fry 
 picks up a candy heart.]
 
-FRY
+<character>FRY</character>
 Whoa! Letters like "U" and "R" can mean 
 words like "You" and "Are." Here Leela, 
 U-R-2 Cute!
 
-LEELA
+<character>LEELA</character>
 Perhaps. What's your point?
 
-FRY
+<character>FRY</character>
 I've never been able to put into words 
 how I feel about you. But somewhere 
 among these trillions of hearts, those 
@@ -231,13 +231,13 @@ around being chased by a hunter. The hunter shoots and misses.
 Farnsworth zaps the Lovey Bear with the cattle prod and it falls 
 over. He turns to Sheldon and Gwen.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 So, do we have the contract?
 
 [Ship's Cockpit. The ship is now back in the hangar and the crew 
 have changed back into their normal clothes.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 With that big new Romanticorp contract, 
 I've been able to make those government 
 mandated upgrades you've all been suing 
@@ -245,112 +245,112 @@ me about.
 
 [The crew look around the cockpit.]
 
-LEELA
+<character>LEELA</character>
 Ooo look! You taped up the cracks in 
 the dark matter reactor!
 
-FRY
+<character>FRY</character>
 And you got a cage for the lion!
 
 [The cage is in the ceiling. The lion growls and swipes it's 
 paw at Fry. Bender turns the radio on.]
 
-BENDER
+<character>BENDER</character>
 Hey who's been messing with the radio? 
 This isn't alternative rock. It's college 
 rock!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh it must have been the ship's new 
 improved personality software I installed.
 
-SHIP
+<character>SHIP</character>
 Yeah it was me. It's a cute song.
 
-BENDER
+<character>BENDER</character>
 Listen ship! No one changes my stations! 
 I hope you have a good mechanic!
 
 [He rolls his sleeves up.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 It even comes with an adjustable voice.
 
 [He adjusts the voice. As the ship speaks its voice changes from 
 the smartarse male voice to a friendly female voice.]
 
-SHIP
+<character>SHIP</character>
 We each get one of the four buttons 
 remember Bender? That was the deal.
 
 [She giggles.]
 
-BENDER
+<character>BENDER</character>
 Wha? Did you just say...?
 
-SHIP
+<character>SHIP</character>
 If you don't like the stations you could 
 just...play with my buttons 'til you 
 find something we both enjoy.  Oh gosh! 
 That came out all wrong!
 
-BENDER
+<character>BENDER</character>
 Too late baby, you said it! So what'll 
 it be? My place? Or you?
 
 [Time Lapse. The crew are now in uniform and are cruising through 
 space. Fry enters with a barrel of candy hearts.]
 
-FRY
+<character>FRY</character>
 Before we deliver these hearts, I'm 
 gonna find the one that sums up my feelings 
 for you!  "I Love You." Hmm, too conventional. 
 "You're My Man." Ooo so close!
 
-LEELA
+<character>LEELA</character>
 I'm not impressed by a guy's message 
 Fry. I'm impressed by the guy. Or not.
 
 [The ship shakes violently. Fry falls over.]
 
-FRY
+<character>FRY</character>
 Whoa!
 
-LEELA
+<character>LEELA</character>
 What was that?
 
-FRY
+<character>FRY</character>
 Maybe we hit a space cow.
 
 [Cut to: Ship's Engine Room. Bender is tickling a control panel.]
 
-BENDER
+<character>BENDER</character>
 Coochie coochie!
 
-SHIP (GIGGLING)
+<character>SHIP </character>(<character>GIGGLING</character>)
 Stop it! You're mussing up my trajectory!
 
-BENDER
+<character>BENDER</character>
 You know you love it sugar-engine!
 
 [He presses some buttons.]
 
-SHIP (GIGGLING)
+<character>SHIP </character>(<character>GIGGLING</character>)
 No!
 
 [She laughs. Enter Fry and Leela.]
 
-LEELA
+<character>LEELA</character>
 Bender!  What's going on in here?  Planet 
 Express Ship! Cover your shame!
 
 [Ship closes the control panel.]
 
-SHIP
+<character>SHIP</character>
 It's not what it looks like. Bender 
 was just helping me...zip up my turbine.
 
-FRY
+<character>FRY</character>
 Wow Bender. Are you and the ship an 
 item? I mean I know you're both items 
 but...how can you date a ship anyway? 
@@ -360,26 +360,26 @@ be all like...
 
 [He impersonates a ship.]
 
-BENDER
+<character>BENDER</character>
 Fry, in order for me to get busy at 
 maximum efficiency, I need a girl with 
 a big 400 ton booty!
 
 [He taps the wall.]
 
-LEELA
+<character>LEELA</character>
 Bender, dating your co-worker and primary 
 mode of transportation is immoral, illogical 
 and a violation of interstellar shipping 
 statute 437-B.
 
-BENDER
+<character>BENDER</character>
 That's what makes it so nasty!
 
 [He strokes the control panel. Ship giggles. He giggles and rubs 
 himself up the wall.]
 
-LEELA
+<character>LEELA</character>
 Still, given the chance, I've given 
 to urges far more shocking.
 
@@ -389,7 +389,7 @@ to urges far more shocking.
 dates the ship. First he sits on one of the tail fins with a 
 picnic set up. The sheet blows in the breeze of space.]
 
-BENDER (SINGING)
+<character>BENDER </character>(<character>SINGING</character>)
 Daisy, Daisy, give me your answer do. 
 I'm half crazy all for the love of 
 you.  It won't be a stylish marriage......I 
@@ -402,38 +402,38 @@ built for two.
 [Planet Express: Meeting Room. Leela reads a newspaper while 
 Fry is still searching for the perfect candy heart.]
 
-BENDER
+<character>BENDER</character>
 Well, I'm sick of her.
 
-FRY
+<character>FRY</character>
 The ship? But you just started dating.
 
-BENDER
+<character>BENDER</character>
 With my mighty robot powers I can get 
 sick of things much quicker than you 
 humans.
 
-LEELA
+<character>LEELA</character>
 Well just remember we all still have 
 to work together. So try and let her 
 down easy.
 
-BENDER
+<character>BENDER</character>
 In due time Leela. But for now I'll 
 just resume dating cheap floozies on 
 the side.
 
-FRY
+<character>FRY</character>
 You have much to teach us.
 
-LEELA
+<character>LEELA</character>
 Ugh. Doesn't it bother you even a little 
 to be taking advantage of your girlfriend's 
 trust?
 
 [Bender laughs.]
 
-BENDER
+<character>BENDER</character>
 Oh wait you're serious. Let me laugh 
 even harder.
 
@@ -441,24 +441,24 @@ even harder.
 
 [Elzar's Fine Cuisine. Bender sits with two Fembots. They giggle.]
 
-FEMBOT #1
+<character>FEMBOT #1</character>
 What's it like being a lawyer for the 
 Mayor's office? And also the world's 
 strongest millionaire?
 
-BENDER
+<character>BENDER</character>
 Well baby, for starters you gotta be 
 honest all the time!
 
 [Enter Elzar.]
 
-ELZAR
+<character>ELZAR</character>
 Good evening Bender! And to your lady 
 friends may I say - Bam!
 
 [The Fembots giggle.]
 
-FEMBOT #2
+<character>FEMBOT #2</character>
 You know Elzar?
 
 [Through a window Ship watches Bender and the Fembots.]
@@ -469,99 +469,99 @@ You know Elzar?
 room the windowbell ding dongs and awakens Fry. He opens the 
 window. It is Ship.]
 
-FRY
+<character>FRY</character>
 Planet Express Ship? Is that you?
 
-SHIP
+<character>SHIP</character>
 Oh. Hi Fry. Is Bender home?
 
-FRY
+<character>FRY</character>
 Uh, um no. I think he's at his parent's.
 
-SHIP
+<character>SHIP</character>
 Oh I see. He didn't fly there in another 
 spaceship did he?
 
-FRY
+<character>FRY</character>
 Bender? No! He's an old fashioned one 
 spaceship robot. Look I'll tell him 
 you stopped by OK?
 
-SHIP
-OK.
+<character>SHIP</character>
+<character>OK</character>.
 
 [Fry closes the window and walks back to his bed. Almost immediately 
 the windowbell goes off again. He walks over and opens the window. 
 Ship is still there.]
 
-SHIP
+<character>SHIP</character>
 Oh. Hi Fry. Is he home now?
 
 [Central Park Zoo. Bender and the ship stroll around.]
 
-SHIP
+<character>SHIP</character>
 Of all the zoos we've been to today, 
 I like this one the best. Bender, which 
 is your favourite nocturnal rat?
 
-BENDER
+<character>BENDER</character>
 Eh, they're all pretty unimpressive.
 
 [The ship swoops off in another direction.]
 
-SHIP
+<character>SHIP</character>
 Oh honey look! The Tapirs!  It says 
 here that the babies lose their pyjama 
 like coat after their first year. Isn't 
 that interesting honey?
 
-BENDER
+<character>BENDER</character>
 Yup. Mind numbingly interesting. Ooh!
 
 [He spies a Fembot and zooms in on her.]
 
-SHIP
+<character>SHIP</character>
 Bender!! Are you looking at other women?
 
-BENDER
+<character>BENDER</character>
 No baby never!
 
 [He turns around. His eyes are fully zoomed.]
 
-SHIP (CRYING)
+<character>SHIP </character>(<character>CRYING</character>)
 Bender! Don't lie! I saw you at Elzar's 
 with those two ladys of the evening. 
 Explain that!
 
-BENDER
+<character>BENDER</character>
 OK, I like a challenge.  Aah! I got 
 it! I'm going to be completely honest 
 with you Planet Express ship. Those 
 women you saw me with...were my accountants!
 
-SHIP
+<character>SHIP</character>
 Your accountants? Oh I would dearly 
 love to believe that were true. So I 
 do.
 
-BENDER
+<character>BENDER</character>
 Phew!
 
-SHIP
+<character>SHIP</character>
 I'm going to go home and get dinner 
 started.
 
 [She zooms off. Bender's chest cabinet opens. Lucy Liu's head 
 in a jar is still there.]
 
-LIU
+<character>LIU</character>
 Who are you talking to?
 
-BENDER
+<character>BENDER</character>
 No one baby! Lucy Liu is the only girl 
 for Bender!
 
-LIU
+<character>LIU</character>
 I love you -
 
 [He slams the door on her.]
@@ -569,41 +569,41 @@ I love you -
 [Ship's Cockpit. Leela is steering the ship through an asteroid 
 belt and is back in her new uniform. Ship sighs.]
 
-LEELA
+<character>LEELA</character>
 Planet Express Ship is something wrong?
 
-SHIP
+<character>SHIP</character>
 Oh it's Bender. He's acting so strange 
 lately.  Do you think he's going to 
 ask me to marry him?
 
-LEELA
+<character>LEELA</character>
 Uh, no.
 
-SHIP
+<character>SHIP</character>
 Oh-oh, someone knows something she's 
 not telling!
 
 [Leela sighs.]
 
-LEELA
+<character>LEELA</character>
 Uh look, I'm not saying Bender's not 
 great but have you ever considered that 
 maybe he's...y'know...not that great?
 
 [Ship scoffs.]
 
-SHIP
+<character>SHIP</character>
 You're just jealous! No one loves you 
 because you're tiny and made of meat!
 
 [An asteroid suddenly hits Ship's windscreen.]
 
-LEELA
+<character>LEELA</character>
 Could you maybe pay a little more attention 
 to these asteroids?
 
-SHIP
+<character>SHIP</character>
 Sorry Captain Leela. I guess I'm just 
 having one of those...manic Mondays!
 
@@ -613,9 +613,9 @@ having one of those...manic Mondays!
 Earth) and lands outside a huge castle, home of the planets' 
 rulers, Lrrr and Nd-Nd.
 
-[Cut to: Omicronian Castle. Lrrr and Nd-Nd watch TV.]
+[Cut to: Omicronian Castle. Lrrr and Nd-Nd watch <character>TV</character>.]
 
-LRRR
+<character>LRRR</character>
 This is ancient Earth's most foolish 
 program. Why does Ross, the largest 
 Friend, not simply eat the other five?
@@ -625,26 +625,26 @@ Perhaps they are saving that for sweeps.
 
 [Enter a guard.]
 
-GUARD
+<character>GUARD</character>
 Exaulted leaders, the Earth messengers 
 have arrived bearing a peace offering 
 from their weak and fearful government.
 
-LRRR
+<character>LRRR</character>
 Oh very well. This is a Joey heavy episode 
 anyway.
 
 [He turns the TV off. Enter Leela, Fry and Bender with the barrels 
 of candy hearts.]
 
-LRRR
+<character>LRRR</character>
 I am Lrrr of the planet Omicron Persei 
 8.
 
 [A picture slips from the wall. He puts it back. Leela reads 
 from a piece of paper.]
 
-LEELA (READING)
+<character>LEELA </character>(<character>READING</character>)
 Esteemed potentates of Omicron Persei 
 8, please accept these 20 billion candy 
 hearts as proof that Earth loves you. 
@@ -653,7 +653,7 @@ Thiiis much!
 [She holds her arms out wide. Lrrr and Nd-Nd taste the candy 
 hearts. They immediately spit them out.]
 
-LRRR
+<character>LRRR</character>
 Bleurgh! These candies are choccy and 
 unpleasant!
 
@@ -661,13 +661,13 @@ ND-ND
 And what is this emotion you humans 
 call "wuv"?
 
-LRRR
+<character>LRRR</character>
 Surely it says "love"?
 
 ND-ND
 No, "wuv." With an Earth "w." Behold!
 
-LRRR (SHOUTING)
+<character>LRRR </character>(<character>SHOUTING</character>)
 This concept of wuv confuses and infuriates 
 us!
 
@@ -676,28 +676,28 @@ us!
 [Cut to: Ship's Cockpit. The ship and crew have taken off and 
 are pursued by Omicronian saucers.]
 
-FRY
+<character>FRY</character>
 Incoming torpedoes. Shields at maximum 
 yarnell.
 
-LEELA
+<character>LEELA</character>
 Steady, Planet Express Ship. Focus on 
 diverting all power to the scramjets.
 
-BENDER
+<character>BENDER</character>
 Uh look, Planet Express Ship, this might 
 not be the best time...but...well...I 
 really like you and whatever but...I 
 think we should just be friends.
 
-SHIP (SCREAMING)
+<character>SHIP </character>(<character>SCREAMING</character>)
 Nooo!
 
 [Cut to: Outside Ship. She jerks to a stop.]
 
 [Cut to: Ship's Cockpit.]
 
-BENDER
+<character>BENDER</character>
 So we're cool?
 
 [The Omicronian torpedoes hit the ship and explode.]
@@ -706,30 +706,30 @@ So we're cool?
 on the hull. Ship is crying. Leela prints a readout from a machine 
 and looks at it.]
 
-LEELA
+<character>LEELA</character>
 Well, it was a spectacular battle but 
 there doesn't seem to be any permanent 
 damage.
 
-SHIP (CRYING)
+<character>SHIP </character>(<character>CRYING</character>)
 No damage? What about my feelings?
 
-LEELA
+<character>LEELA</character>
 Aww, calm down. I'm sure Bender is taking 
 this just as hard as you are.
 
 [Cut to: Fry and Bender's Quarters. They are both lying in their 
 hammocks.]
 
-BENDER (SINGING)
+<character>BENDER </character>(<character>SINGING</character>)
 Bender is great oh Bender is great. 
 Bender Bender Bender!
 
-FRY
+<character>FRY</character>
 You couldn't have picked a better time 
 to dump the ship Bender!
 
-BENDER
+<character>BENDER</character>
 Eh, the moment seemed right. Call me 
 old fashioned but I like a dump to be 
 as memorable as it is devastating.
@@ -738,23 +738,23 @@ as memorable as it is devastating.
 Leela is wearing her pyjamas and is sat in her chair facing Ship's 
 port. She starts eating another tub of ice cream.]
 
-LEELA
+<character>LEELA</character>
 I know, I know. Look Ship, if there's 
 one thing I learnt from my mutual breakup 
 with Sean that was totally mutual its 
 that happiness can only come from within 
 you.
 
-SHIP (CRYING)
+<character>SHIP </character>(<character>CRYING</character>)
 But Bender is within me! There must 
 be some way to make him love me again.
 
-LEELA
+<character>LEELA</character>
 Trust me. You can't change men anymore 
 than you can change the laws of time 
 and space.
 
-SHIP
+<character>SHIP</character>
 That's so true.  I may not be able to 
 change the laws of time and space, but 
 I know something that can.
@@ -763,27 +763,27 @@ I know something that can.
 The ship is heading straight towards a huge quasar. She wrestles 
 with the controls but they won't move.]
 
-LEELA (UNSURE)
+<character>LEELA </character>(<character>UNSURE</character>)
 Uh sweetie? You see that giant quasar 
 we're heading into? You might wanna 
 scooch a few parsecs to the left.
 
 [Ship, the movie buff, resonds calmly.]
 
-SHIP
+<character>SHIP</character>
 I'm afraid I can't do that Leela.
 
 [Enter Fry and Bender.]
 
-FRY
+<character>FRY</character>
 What's happening? Space cow?
 
-LEELA
+<character>LEELA</character>
 The ship's just taking the breakup a 
 little hard. (whispering to Fry) She's 
 nuts!
 
-SHIP
+<character>SHIP</character>
 In a few moments the power of 10 million 
 black holes will smush me and Bender 
 together into a beautiful enternal quantum 
@@ -791,48 +791,48 @@ singularity.
 
 [The crew scream.]
 
-BENDER
+<character>BENDER</character>
 Uh you don't need to kill us Planet 
 Express ship...because...I love you! 
 Uh yeah baby! I feel like doing stuff.
 
-SHIP
+<character>SHIP</character>
 Hmm. I don't believe you. If you really 
 wanted to be with me you'd merge your 
 program with mine.
 
-BENDER
+<character>BENDER</character>
 Whoa whoa whoa! Slow down! All of my 
 friends that have done that said that 
 afterwards all the passion went out 
 of their relationship.
 
-LEELA
+<character>LEELA</character>
 Look, I don't know if you want my opinion 
 -
 
-SHIP
+<character>SHIP</character>
 Leela. Bender and I really need to be 
 alone. So, I'm turning off the oxygen.
 
 [The oxygen goes off and Leela and Fry start to suffocate. They 
 grab some oxygen tanks and put them on.]
 
-LEELA
+<character>LEELA</character>
 Now look missy! If you don't trun around 
 now I'm going to have to shut down your 
 brain!
 
-SHIP
+<character>SHIP</character>
 Fire detected in the vicinity of Leela.
 
 [A fire hose comes down from the ceiling and hits Leela with 
 a jet of water.]
 
-FRY
+<character>FRY</character>
 Ha! That barely hurt Leela at all!
 
-SHIP
+<character>SHIP</character>
 Maybe not. But what if the artificial 
 gravity were to malfunction?
 
@@ -840,7 +840,7 @@ gravity were to malfunction?
 the ceiling. The candy hearts float upwards and out of the barrels. 
 Bender screams.]
 
-BENDER
+<character>BENDER</character>
 Float for your lives!
 
 [They all swim through the door.]
@@ -850,31 +850,31 @@ the door.]
 
 [Cut to: Shower.]
 
-LEELA
+<character>LEELA</character>
 This is the one place she can't hear 
 us. Everyone just pretend to shower.
 
-FRY
+<character>FRY</character>
 Same as everyday, got it.
 
-LEELA
+<character>LEELA</character>
 Now here's the plan.
 
 [Cut to: Ship's Bathroom. Ship has another port in the bathroom. 
 She tries to listen to the plan but can't hear through the soundproof 
 shower glass. All she sees is Leela's lips moving.]
 
-SHIP
+<character>SHIP</character>
 Oh, if only I could read lips!
 
 [Cut to: Shower.]
 
-LEELA
+<character>LEELA</character>
 Comprendez Bender? You'll have to distract 
 her. Merge your program with hers while 
 I shut down her brain.
 
-BENDER
+<character>BENDER</character>
 It's too risky. I'm a very meek individual. 
 If her personality engulfs mine, the 
 Bender you know and worship could disappear 
@@ -882,23 +882,23 @@ forever!
 
 [Leela doesn't take long to think about the situation.]
 
-LEELA
+<character>LEELA</character>
 I'm willing to take that risk.
 
 [Ship's Cockpit. The ship gets closer to the quasar. Bender floats 
 in. There are candy hearts everywhere.]
 
-BENDER
+<character>BENDER</character>
 Hey pookums! Contrary to what I was 
 saying earlier, melding minds with you 
 would be extremely bearable.
 
 [Ship gasps.]
 
-SHIP
+<character>SHIP</character>
 You really mean it?
 
-BENDER
+<character>BENDER</character>
 Uh......yes!
 
 [He pulls out a wire from inside the control panel and connects 
@@ -908,14 +908,14 @@ himself via a modem.]
 motherboard. Bender looks around in a panic. Ship is a little 
 smaller and she has eyes and is wearing lipstick.]
 
-BENDER
+<character>BENDER</character>
 Huh? Tubes? You're older than you said 
 you were!
 
-SHIP
+<character>SHIP</character>
 Come closer Bender. Lets become one!
 
-BENDER
+<character>BENDER</character>
 I prefer two. That way we can still 
 be a horse for Hallowe'en.
 
@@ -925,25 +925,25 @@ be a horse for Hallowe'en.
 floating around. Leela waves her hand across one of Ship's ports. 
 No reaction.]
 
-LEELA
+<character>LEELA</character>
 OK, Bender has her distracted. Now I 
 can shut down her brain by deactivating 
 the carbonated logic matrix.  Ugh. I 
 can't concentrate with this obnoxious 
 candy in my face.
 
-FRY
+<character>FRY</character>
 I'm on it. And maybe I'll find those 
 magic words while I'm at it.
 
-LEELA
+<character>LEELA</character>
 Fat chance.
 
-FRY
+<character>FRY</character>
 Eh.  Blech!  Eurgh! Ooo how 'bout this 
 one?
 
-LEELA
+<character>LEELA</character>
 Give it up Fry! I've got to pop these 
 tops in a precise order.
 
@@ -951,21 +951,21 @@ tops in a precise order.
 
 [Time Lapse.]
 
-LEELA
+<character>LEELA</character>
 Halfway there. The ship should be getting 
 a little less rational now.
 
 [Cut to: Ship's Mind. Ship is chasing Bender making irrational 
 noises.]
 
-SHIP
+<character>SHIP</character>
 Want...to...engulf...Bender!
 
 [She cackles and grows fangs.]
 
 [Cut to: Ship's Brain Room.]
 
-LEELA
+<character>LEELA</character>
 Only a few more.  Hey! I won free admission 
 to Six Flags! Just one more reason we 
 must survive this.
@@ -973,31 +973,31 @@ must survive this.
 [Fry is about to eat another heart but notices Leela's oxygen 
 gauge. The needle points at critical.]
 
-FRY
+<character>FRY</character>
 Um, Leela?
 
-LEELA
+<character>LEELA</character>
 Fry! I'll read your candy later! When 
 we're not dead!  What was that?
 
-FRY (SUFFOCATING)
+<character>FRY </character>(<character>SUFFOCATING</character>)
 Oh nothing.
 
 [Cut to: Ship's Mind. Ship is still chasing Bender. He comes 
 to a dead end on the motherboard.]
 
-SHIP
+<character>SHIP</character>
 We're gonna love being each other you 
 sexy ion!
 
-BENDER (SCREAMING)
+<character>BENDER </character>(<character>SCREAMING</character>)
 Nooo!
 
 [She moves towards him.]
 
 [Cut to: Ship's Brain Room.]
 
-LEELA
+<character>LEELA</character>
 Last one!  It worked! Gravity normal, 
 air returning, terror replaced by cautious 
 optimism! We did it Fry!  Fry?  You 
@@ -1005,36 +1005,36 @@ gave me your oxygen? Oh no! Breathe
 Fry breathe!  You leave me breathless! 
 Happy Valentine's Day Fry!
 
-FRY (GASPING)
+<character>FRY </character>(<character>GASPING</character>)
 Happy Valentine's day.
 
 [Ship's Cockpit. Bender has separated from the ship. He wakes 
 up. Enter Fry and Leela.]
 
-FRY
+<character>FRY</character>
 Bender! Are you OK?
 
-BENDER
+<character>BENDER</character>
 Aw. What crazy thing am I going to date 
 next?
 
-LEELA
+<character>LEELA</character>
 Well at least it sounds like you were 
 able to keep your conciousness seperate 
 from hers.
 
-BENDER
+<character>BENDER</character>
 Of course! Bender is a lone wolf. A 
 solitary eagle.  A cuddly baby Tapir! 
 And that's why I love 'em!
 
 [He walks out.]
 
-FRY
+<character>FRY</character>
 Well I guess we'd better clean up these 
 millions of hearts.
 
-LEELA
+<character>LEELA</character>
 Nah, I've got a lazier idea.
 
 [The ship's cargo bay doors open and the candy hearts float out 
@@ -1044,4 +1044,4 @@ and into the quasar.]
 Gelatinous Blobs, mutants, Amy and Kif and Fry and Leela (joined 
 by Zoidberg).]
 
-THE END</xml>
+<character>THE END</character></xml>

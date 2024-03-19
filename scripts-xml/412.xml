@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 412
 
-<title>WHERE NO FAN HAS GONE BEFORE</title>
+<title><character>WHERE NO FAN HAS GONE BEFORE</character></title>
 
 <author>David A. Goodman</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -13,7 +13,7 @@ Episode 412
 Planet Express ship flies through space with the trademark warp 
 nacelles featured in Star Trek attached to it.]
 
-SHATNER
+<character>SHATNER</character>
 (voice-over) Shatner's log, airdate 
 ... unknown.
 
@@ -22,12 +22,12 @@ a court setting. Zapp Brannigan is judge while Bender and Leela
 sit with the heads in jars of William Shatner, Leonard Nimoy, 
 George Takei, Walter Koenig, DeForest Kelley and Nichelle Nichols.]
 
-SHATNER
+<character>SHATNER</character>
 The impossible has happened. It would 
 take days to recount the events I have 
 witnessed. So, settle in. It all began--
 
-ZAPP
+<character>ZAPP</character>
 Quiet, you! This court martial is now 
 in session. The honourably sexy Zapp 
 Brannigan residing. Bring in the accused.
@@ -36,10 +36,10 @@ Brannigan residing. Bring in the accused.
 the Star Trek episode The Menagerie. Fry looks paralysed. The 
 heads gasp.]
 
-TAKEI
+<character>TAKEI</character>
 Oh, my!
 
-ZAPP
+<character>ZAPP</character>
 Philip J. Fry, you stand accused of 
 travelling to the forbidden planet Omega 
 3, a crime punishable by 12 concurrent 
@@ -48,20 +48,20 @@ charges?
 
 [Kif leans over Fry's shoulder.]
 
-KIF
+<character>KIF</character>
 One beep for "yes", two beeps for "no".
 
 [Fry beeps once.]
 
-ZAPP
+<character>ZAPP</character>
 "Yes". So noted. Do you plead guilty? 
 Double "yes". Guilty! I will now carry 
 out the punishment. Kif, my gun.
 
-LEELA
+<character>LEELA</character>
 Wait! He plead not guilty.
 
-ZAPP
+<character>ZAPP</character>
 Order!  Order in the court! Very well 
 then, Mr. Fry. Please recount the events 
 that led you to be guilty.
@@ -73,17 +73,17 @@ that led you to be guilty.
 [Rent-A-Wreck Video. Fry, Leela, Bender and Zoidberg look at 
 the videos on the shelves.]
 
-LEELA
+<character>LEELA</character>
 The Professor said he was taking a brief 
 nap, so we only have time for six movies.
 
 [Bender scoops up some videos.]
 
-BENDER
+<character>BENDER</character>
 Lets take these six Jim Carrey movies 
 and record over them.
 
-FRY
+<character>FRY</character>
 You know what movies average out to 
 be really good? The first six Star Trek 
 movies!
@@ -91,28 +91,28 @@ movies!
 [The rest of the crew gasp, a camera zooms in on Fry and other 
 customers panic.]
 
-CLERK
+<character>CLERK</character>
 (shouting) Everybody hit the deck!
 
 [Everybody falls to the floor.]
 
-LEELA
+<character>LEELA</character>
 (whispering) Sh! Those words are forbidden!
 
-FRY
+<character>FRY</character>
 What words? Star Trek?
 
 [A klaxon goes off and a red light flashes.]
 
-LEELA
+<character>LEELA</character>
 Sh!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Shut your gills!
 
 [A siren is heard from outside.]
 
-BENDER
+<character>BENDER</character>
 That sound! It's patrol car 718! Hide 
 him!
 
@@ -120,14 +120,14 @@ him!
 cabinet.]
 
 [Cut to: Outside Rent-A-Wreck Video. Leela, Bender and Zoidberg 
-leave as Smitty and URL pull up and run into the shop without 
+leave as Smitty and <character>URL</character> pull up and run into the shop without 
 noticing them.]
 
 [Flashback ends.]
 
 [Fade to: Ships Cargo Bay. Fry is still beeping.]
 
-ZAPP
+<character>ZAPP</character>
 The court is intrigued. Perhaps we could 
 hear more about these forbidden words 
 from someone with a sexilly seductive 
@@ -135,15 +135,15 @@ voice.
 
 [Nichelle Nichols is about to speak.]
 
-TAKEI
+<character>TAKEI</character>
 With pleasure. You see, the show was 
 banned after the Star Trek wars.
 
-ZAPP
+<character>ZAPP</character>
 You mean after the vast migration of 
 Star Wars fans?
 
-NICHOLS
+<character>NICHOLS</character>
 No, that was the Star Wars trek.  By 
 the 23rd century, Star Trek fandom had 
 evolved from a loose association of 
@@ -152,15 +152,15 @@ religion.
 
 [On the screen, a service is held at the Church Of Trek.]
 
-PRIEST
+<character>PRIEST</character>
 And Scotty beamed them to the Klingon 
 ship where they would be no Tribble 
 at all.
 
-CONGREGATION
+<character>CONGREGATION</character>
 All power to the engines.
 
-NICHOLS
+<character>NICHOLS</character>
 As country after country fell under 
 its influence, world leaders became 
 threatened by the movements power.  
@@ -169,16 +169,16 @@ the manner most befitting virgins.
 
 [On the rim of a volcano two men throw Trekkies into the flames.]
 
-MAN
+<character>MAN</character>
 He's dead, Jim!  He's dead, Jim!  He's 
 dead, Jim!
 
-NICHOLS
+<character>NICHOLS</character>
 Finally, the sacred texts were banned.
 
 [The episodes are put inside a torpedo casing.]
 
-TAKEI
+<character>TAKEI</character>
 The last copies of the 79 episodes and 
 six movies were dumped on the forbidden 
 world Omega 3. Along with that blooper 
@@ -190,36 +190,36 @@ fires the torpedo. It hits the planet like Spock's coffin hit
 the Genesis planet in Star Trek: The Wrath Of Khan. The video 
 ends.]
 
-NIMOY
+<character>NIMOY</character>
 Thus, Star Trek was forever scoured 
 from human memory.
 
-BENDER
+<character>BENDER</character>
 Another classic science-fiction show 
 cancelled before its time.
 
 [Zapp tuts.]
 
-ZAPP
+<character>ZAPP</character>
 I've never heard of such a brutal and 
 shocking injustice that I cared so little 
 about. Next witness.
 
-KIF
+<character>KIF</character>
 Bender the robot, please take the stand.
 
 [Fry steps out of the wheelchair, perfectly healthy.]
 
-FRY
+<character>FRY</character>
 She's all yours, buddy!
 
 [Bender gets in.]
 
-BENDER
+<character>BENDER</character>
 I'd only met the defendant, Fry, once, 
 but I knew he was up to no good.
 
-ZAPP
+<character>ZAPP</character>
 Please use the beeps.
 
 [Bender grumbles and starts to beep.]
@@ -228,48 +228,48 @@ Please use the beeps.
 
 [Fade to: Head Museum. Fry runs into the 20th century room.]
 
-FRY
+<character>FRY</character>
 Mr. Nimoy, I came as soon as I heard 
 what happened centuries ago. I can't 
 believe your show was banned.
 
-NIMOY
+<character>NIMOY</character>
 I have absolutely no idea what you're 
 talking about.
 
 [A camera tracks Fry but he ignores it.]
 
-FRY
+<character>FRY</character>
 You know? 1966? 79 episodes, about 30 
 good ones.
 
-NIMOY
+<character>NIMOY</character>
 Oh, really, I've done too many things 
 to remember one particular TV series. 
 But if-if you want to discuss my books 
 of poetry--
 
-FRY
+<character>FRY</character>
 Come on! Remember that episode where 
 you go high on spores and smacked Kirk 
 around?
 
-NIMOY
+<character>NIMOY</character>
 No. Perhaps you're thinking of my one 
 man show about Vincent van Spock-- Uh, 
 uh, I mean van Gogh! Damn!
 
-FRY
+<character>FRY</character>
 Aha! You can't escape it!
 
-NIMOY
+<character>NIMOY</character>
 (crying) Oh, you're right, I can't.
 
-FRY
+<character>FRY</character>
 Uh, jeez, don't get upset. I mean, OK 
 I outwitted you, but--
 
-NIMOY
+<character>NIMOY</character>
 (crying) No, it's my fellow cast members. 
 300 years ago they left Earth behind.
 
@@ -278,17 +278,17 @@ NIMOY
 [Fade to: Launch Pad. Star Trek cast members' heads in jars are 
 loaded into a rocket.]
 
-SHATNER
+<character>SHATNER</character>
 This planet doesn't appreciate us anymore, 
 Leonard.
 
-NIMOY
+<character>NIMOY</character>
 Bill, you are, and always shall be, 
 my friend. But I just signed a six-month 
 lease on my apartment. I can't walk 
 away from a commitment like that.
 
-SHATNER
+<character>SHATNER</character>
 Very well, my friend.
 
 [His jar is loaded into the rocket. The rocket blasts off leaving 
@@ -298,43 +298,43 @@ Nimoy behind.]
 
 [Fade to: Head Museum. Nimoy sobs.]
 
-NIMOY
+<character>NIMOY</character>
 (crying) Why did the world turn its 
 back on our obvious greatness?
 
-FRY
+<character>FRY</character>
 I'm literally angry with rage! Your 
 co-stars may be gone but we can still 
 get those episode tapes back for the 
 whole world to see. Come on!
 
-NIMOY
+<character>NIMOY</character>
 Oh!
 
 [He grabs Nimoy's jar from the shelf, tucks it under his arm 
 and runs out. Jonathan Frakes' jar hops forward.]
 
-FRAKES
+<character>FRAKES</character>
 Yes! Front row!
 
 [Ships Cockpit. The ship is in the hangar and Fry starts to power 
 it up.]
 
-LEELA
+<character>LEELA</character>
 You can't go to Omega 3; It's forbidden! 
 I forbid you!
 
-FRY
+<character>FRY</character>
 But we have to! The world needs Star 
 Trek to give people hope for the future.
 
-LEELA
+<character>LEELA</character>
 But it's set 800 years in the past!
 
-BENDER
+<character>BENDER</character>
 Yeah, why is this so important to you?
 
-FRY
+<character>FRY</character>
 'Cause it-it taught me so much. Like 
 how you should accept people, whether 
 they be black, white, Klingon or even 
@@ -342,11 +342,11 @@ female. But most importantly, when I
 didn't have any friends, it made me 
 feel like maybe I did.
 
-LEELA
+<character>LEELA</character>
 Well, that is touchingly pathetic. I 
 guess I can't let you go alone.
 
-BENDER
+<character>BENDER</character>
 I'll go too, with Leonard's permission, 
 of course.
 
@@ -356,22 +356,22 @@ of course.
 
 [Cut to: Ships Cockpit.]
 
-LEELA
+<character>LEELA</character>
 We're entering the Omega system.
 
 [An alarm goes off.]
 
-COMPUTER VOICE
+<character>COMPUTER VOICE</character>
 Warning: You are now in forbidden space.
 
-BENDER
+<character>BENDER</character>
 Forbidden shmer-shmidden! What are they 
 gonna do, write a letter? (sarcastic) 
 Ooh, I'm so scared!
 
 [The ship shakes and another alarms goes off.]
 
-LEELA
+<character>LEELA</character>
 I've lost control of the ship!
 
 [Bender panics.]
@@ -380,154 +380,154 @@ I've lost control of the ship!
 and lands upside down. The crew get out, Fry carrying Nimoy. 
 Bender lights a cigar and Leela gasps.]
 
-FRY
+<character>FRY</character>
 Oh, dip!
 
-NIMOY
+<character>NIMOY</character>
 Dip, indeed!
 
 [They look around in amazement. There are Star Trek props and 
 sets everywhere.]
 
-FRY
+<character>FRY</character>
 It's all stuff from that forbidden show.
 
-NIMOY
+<character>NIMOY</character>
 So many cardboard sets, so many memories. 
 If only the others--
 
-SHATNER
+<character>SHATNER</character>
 I guess that's my cue.
 
 [He steps out of the "Guardian of Forever" prop with a body and 
 wearing a yellow Star Trek uniform.]
 
-NIMOY
+<character>NIMOY</character>
 Bill!
 
-SHATNER
+<character>SHATNER</character>
 L-Dog!
 
-NIMOY
+<character>NIMOY</character>
 (laughing) Hey! This is wonderful!
 
-SHATNER
+<character>SHATNER</character>
 Oh, man.
 
-NIMOY
+<character>NIMOY</character>
 I feel like hugging you.
 
-SHATNER
+<character>SHATNER</character>
 Well I would except you have no body! 
 And we're both men.
 
 [Nichelle Nichols steps out, also with a body. She is followed 
 by the other actors.]
 
-NIMOY
+<character>NIMOY</character>
 Nichelle! George! Walter! DeForest! 
 Welshy!
 
-FRY
+<character>FRY</character>
 Welshy?
 
-NICHOLS
+<character>NICHOLS</character>
 We did some musical reunion specials 
 in the 2200's but the guy who played 
 Scotty had trouble yodelling.
 
-TAKEI
+<character>TAKEI</character>
 Ever since then, Welshy has been a welcome 
 participant in our escapades.
 
 [Welshy says something in Welsh.]
 
-FRY
+<character>FRY</character>
 I can't believe it! How'd you all end 
 up here?
 
-SHATNER
+<character>SHATNER</character>
 We were on our way to Welshy's cousin's 
 house to stay in the guest room when 
 our ship was pulled down to this planet 
 and crashed, just like yours.
 
-KOENIG
+<character>KOENIG</character>
 When we woke up, we had these bodies.
 
-FRY
+<character>FRY</character>
 Say it in Russian!
 
 [Koenig sighs.]
 
-KOENIG
+<character>KOENIG</character>
 Ven ve voke up ve had these wodies.
 
 [Fry squeals.]
 
-FRY
+<character>FRY</character>
 Now say "nuclear wessels"!
 
-KOENIG
+<character>KOENIG</character>
 No!
 
-TAKEI
+<character>TAKEI</character>
 You'll love it here. Everything is provided 
 for us. And we never age. Check out 
 these abs!
 
 [He rips his shirt revealing his body.]
 
-BENDER
+<character>BENDER</character>
 Yowza!
 
-LEELA
+<character>LEELA</character>
 But who's doing all this for you?
 
-SHATNER
+<character>SHATNER</character>
 You know, we never thought about it. 
 We're famous celebrities -- we're used 
 to this sort of treatment.
 
 [A deep, booming voice interrupts them.]
 
-MELLLVAR
+<character>MELLLVAR</character>
 It is I!
 
 [Everyone gasps and looks up. Above them is a hovering, green 
 cloud.]
 
-BENDER
+<character>BENDER</character>
 Whoa! What a cheesy effect!
 
-MELLLVAR
+<character>MELLLVAR</character>
 I am not an effect! You doubt my power?
 
-BENDER
+<character>BENDER</character>
 I do.
 
 [Melllvar zaps Welshy with a bolt of lightning and he falls over.]
 
-WELSHY
+<character>WELSHY</character>
 (shouting) Aye!
 
 [Fry runs to him and holds him.]
 
-FRY
+<character>FRY</character>
 (screaming) Welshy!
 
 [Flashback ends.]
 
 [Ships Cargo Bay.]
 
-ZAPP
+<character>ZAPP</character>
 This court will now hear some very sensual 
 testimony from this court's ex-lover, 
 Turanga Leela.
 
 [Leela is already in the wheelchair.]
 
-LEELA
+<character>LEELA</character>
 Go  yourself.
 
 [She beeps.]
@@ -536,21 +536,21 @@ Go  yourself.
 
 [Fade to: Omega 3 Surface. The flashback continues from earlier.]
 
-MELLLVAR
+<character>MELLLVAR</character>
 Behold another power, different from 
 the one you saw earlier.
 
 [Melllvar floats over Nimoy's jar and gives him a body and a 
 blue uniform.]
 
-NIMOY
+<character>NIMOY</character>
 Hey! A body! Buff, tan. Yeah, this is 
 mine alright!
 
-FRY
+<character>FRY</character>
 Alright, you gas, what's the deal?
 
-MELLLVAR
+<character>MELLLVAR</character>
 Centuries ago, the videotaped adventures 
 of the Enterprise crew rained down upon 
 my planet. Over and over, I watched 
@@ -559,11 +559,11 @@ beings. I am Melllvar! Seer of the tapes,
 knower of the episodes! Tremble before 
 my encyclopaedic knowledge of Star Trek!
 
-FRY
+<character>FRY</character>
 Tremble? I laugh. Nobody knows more 
 about Star Trek than me!
 
-MELLLVAR
+<character>MELLLVAR</character>
 I beg to differ.  Long have I waited 
 for the one who played Spock. At last, 
 we can begin.
@@ -571,35 +571,35 @@ we can begin.
 [A banner reading "Welcome To Trekfest 3002" appears behind him, 
 hanging from a prop.]
 
-FRY
+<character>FRY</character>
 Cool! A Star Trek convention!
 
-NIMOY
+<character>NIMOY</character>
 Uh, Melllvar, can you give us some idea 
 of how long this is going to last?
 
-MELLLVAR
+<character>MELLLVAR</character>
 Until time stops.
 
-LEELA
+<character>LEELA</character>
 What?
 
-SHATNER
+<character>SHATNER</character>
 He can't do this!
 
-NIMOY
+<character>NIMOY</character>
 You can't be serious!
 
-MELLLVAR
+<character>MELLLVAR</character>
 Now, we have a full schedule of events--
 
-BENDER
+<character>BENDER</character>
 Uh, can people who hate Star Trek leave?
 
-KOENIG
+<character>KOENIG</character>
 Good question!
 
-MELLLVAR
+<character>MELLLVAR</character>
 No, you have to stay even longer.
 
 [Bender and Koenig groan.]
@@ -608,27 +608,27 @@ No, you have to stay even longer.
 snores. Melllvar gets Takei's autograph and Fry stands behind 
 him, nervous.]
 
-MELLLVAR
+<character>MELLLVAR</character>
 Um, uh, sign it to Melllvar. "Melllvar" 
 has three "L's".
 
-TAKEI
+<character>TAKEI</character>
 I think I've done enough conventions 
 to know how to spell "Melllvar".
 
 [Time Lapse. The cast and Melllvar are standing in front of a 
 backdrop having their photo taken by Bender.]
 
-BENDER
+<character>BENDER</character>
 Say "nerd"!
 
-ALL
+<character>ALL</character>
 Nerd!
 
 [Time Lapse. Shatner is on a stage spoken-wording Eminem's The 
 Real Slim Shady.]
 
-SHATNER
+<character>SHATNER</character>
 (spoken-word) I'm Slim Shady,
 
 Yes, I'm the real Shady,
@@ -641,56 +641,56 @@ Please stand up,
 
 Please stand up.
 
-KOENIG
+<character>KOENIG</character>
 How can you do a spoken-word version 
 of a rap song?
 
-MELLLVAR
+<character>MELLLVAR</character>
 He found a way.
 
 [Time Lapse. Fry and Melllvar are playing "Ambassador Sarek's 
 Trivia Challenge" with Leela as questionmaster. Fry has 500 points 
 and Melllvar has 300.]
 
-LEELA
+<character>LEELA</character>
 For one hundred quatloos: Who did the 
 captain maroon on Ceti Alpha V?
 
 [Shatner leaps up.]
 
-SHATNER (SHOUTING)
+<character>SHATNER </character>(<character>SHOUTING</character>)
 Khaaan!
 
 [Fry buzzes.]
 
-FRY
+<character>FRY</character>
 Uh ... Khan?
 
-LEELA
+<character>LEELA</character>
 Correct.
 
 [Fry's score goes up to 600.]
 
-MELLLVAR
+<character>MELLLVAR</character>
 My button has broken. The trivia contest 
 has ended. I-I now have a surprise. 
 You will perform a fan script, written 
 by the ultimate Trek fan.
 
-FRY
+<character>FRY</character>
 You have my fan script?
 
-MELLLVAR
+<character>MELLLVAR</character>
 I meant me! Melllvar is the ultimate 
 fan!
 
-FRY
+<character>FRY</character>
 (smug) Oh, I was confused because the 
 scoreboard says something different.
 
 [Melllvar growls.]
 
-MELLLVAR
+<character>MELLLVAR</character>
 Trivia contest over! Take your scripts! 
 We have limited rehearsal time. Now, 
 I didn't make enough copies of the script 
@@ -698,55 +698,55 @@ so George and Walter will have to share.
 
 [Takei reluctantly shares.]
 
-LEELA
+<character>LEELA</character>
 Uh, you probably don't want us to see 
 you rehearsing, or it'll give away the 
 ending.
 
-MELLLVAR
+<character>MELLLVAR</character>
 That's right! The ending must not be 
 ruined.
 
-LEELA
+<character>LEELA</character>
 We'll go wait in the ship.
 
-MELLLVAR
-OK.
+<character>MELLLVAR</character>
+<character>OK</character>.
 
-FRY
+<character>FRY</character>
 Not 'til I get my 600 quatloos!
 
 [Leela and Bender grab Fry and pull him away.]
 
 [Ships Cockpit. The ship flies away from the planet.]
 
-FRY
+<character>FRY</character>
 This is wrong. We shouldn't have abandoned 
 them there.
 
-BENDER
+<character>BENDER</character>
 I dunno, I'm feeling pretty good about 
 it.
 
-LEELA
+<character>LEELA</character>
 I didn't wanna leave them either, Fry, 
 but what are we supposed to do?
 
-FRY
+<character>FRY</character>
 Well, usually on the show someone would 
 come up with a complicated plan then 
 explain it with a simple analogy.
 
-LEELA
+<character>LEELA</character>
 Hmm. If we can re-route engine power 
 through the primary weapons and reconfigure 
 them to Melllvar's frequency, that should 
 overload his electro-quantum structure.
 
-BENDER
+<character>BENDER</character>
 Like putting too much air in a balloon!
 
-FRY
+<character>FRY</character>
 Of course! It's so simple!
 
 [The ship turns around and heads back to the planet.]
@@ -754,36 +754,36 @@ Of course! It's so simple!
 [Omega 3 Surface. The cast are on the set of the Enterprise bridge 
 rehearsing with their scripts.]
 
-SHATNER
+<character>SHATNER</character>
 (reading) Alas, my ship, whom I love 
 like a woman, is .. .disabled.  Oh, 
 Lord!
 
-NIMOY
+<character>NIMOY</character>
 (reading) Fascinating, captain, and 
 logical too. Yet we need some help.
 
-TAKEI
+<character>TAKEI</character>
 (reading) Look, captain, Melllvar will 
 help us.
 
 [He turns around and points to the door. It eventually opens 
 and Melllvar floats through.]
 
-KOENIG
+<character>KOENIG</character>
 (reading) Keptin, I wope he will welp 
 our ... vessel.
 
-MELLLVAR
+<character>MELLLVAR</character>
 Wessel!  You're not acting hard enough!
 
-NIMOY
+<character>NIMOY</character>
 Melllvar, you have to respect your actors. 
 When I directed Star Trek IV I got a 
 magnificent performance out of Bill 
 because I respected him so much.
 
-SHATNER
+<character>SHATNER</character>
 And when I directed Star Trek V I got 
 a magnificent performance out of me, 
 because I respected me so much!
@@ -793,23 +793,23 @@ because I respected me so much!
 [Ships Jeffries Tube. Bender welds something in the Planet Express 
 ships equivalent to Scotty's tube.]
 
-BENDER
+<character>BENDER</character>
 (shouting) OK! I'm done re-kafoobling 
 the energy motron ... or, whatever.
 
 [Cut to: Ships Cockpit.]
 
-LEELA
+<character>LEELA</character>
 Fire!
 
-[She pauses then presses the "FIRE!" button on the control panel 
+[She pauses then presses the "<character>FIRE</character>!" button on the control panel 
 herself.]
 
 [Orange phaser beams diverge from the ship.]
 
 [Cut to: Omega 3 Surface. The fan script performance continues.]
 
-NICHOLS
+<character>NICHOLS</character>
 (reading) My, what a handsome energy 
 creature you are. I love you.  Hey, 
 you wrote it!
@@ -820,11 +820,11 @@ you wrote it!
 console exploding in his face like in Star Trek. Smoke comes 
 out of machinery and sparks fly.]
 
-LEELA
+<character>LEELA</character>
 Its not working! He's drawing straight 
 from our weapons.
 
-FRY
+<character>FRY</character>
 Like a balloon and ... something bad 
 happens.
 
@@ -839,34 +839,34 @@ pulls it back down to the planet.]
 [Cut to: Omega 3 Surface. The ship crashes and the engine falls 
 off. The crew crawl out from underneath.]
 
-BENDER
+<character>BENDER</character>
 Yup!
 
 [Melllvar and the Star Trek actors are nearby.]
 
-LEELA
+<character>LEELA</character>
 So, uh, how's rehearsal going?
 
-MELLLVAR
+<character>MELLLVAR</character>
 Lousy. Here I've been admiring a bunch 
 of actors while you, a crew of genuine 
 space heroes, risked your lives to save 
 them.
 
-NIMOY
+<character>NIMOY</character>
 Hey! We've done heroic things too.
 
-NICHOLS
+<character>NICHOLS</character>
 Yeah! In the third season I kissed Shatner!
 
-MELLLVAR
+<character>MELLLVAR</character>
 Silence! My whole world has turned upside-down. 
 I have but one option.
 
-KOENIG
+<character>KOENIG</character>
 Keep them and let us go?
 
-MELLLVAR
+<character>MELLLVAR</character>
 No! To determine who is more worthy 
 of my fanatical devotion I shall pit 
 you together against each other in armed 
@@ -874,20 +874,20 @@ combat ... To the death!
 
 [Everyone gasps.]
 
-BENDER
+<character>BENDER</character>
 Where'd you get an idiotic idea like 
 that?
 
-MELLLVAR
+<character>MELLLVAR</character>
 Episodes 19, 46, 56 and 77.
 
-FRY
+<character>FRY</character>
 Great list. Except, you forgot episode 
 66!
 
 [He chuckles.]
 
-MELLLVAR
+<character>MELLLVAR</character>
 I was getting to that one!
 
 [He zaps Welshy's corpse and it explodes.]
@@ -896,13 +896,13 @@ I was getting to that one!
 
 [Ships Cargo Bay.]
 
-ZAPP
+<character>ZAPP</character>
 So Melllvar ordered a battle to the 
 death. I assume no one survived.
 
 [Leela sighs.]
 
-LEELA
+<character>LEELA</character>
 Can we get on with this? My foot's getting 
 tired!
 
@@ -910,7 +910,7 @@ tired!
 
 [Fade to: Omega 3 Surface.]
 
-MELLLVAR
+<character>MELLLVAR</character>
 This will be your standard battle to 
 the death. The only weapons: Whatever 
 you can find. But I warn you, do nothing 
@@ -923,115 +923,115 @@ directions.]
 [Time Lapse. The actors hide behind a covered wagon on a Western 
 set. A tumbleweed blows by. Shatner rips his shirt.]
 
-KOENIG
+<character>KOENIG</character>
 I don't have much experience at fighting-- 
 Except with you guys.
 
-SHATNER
+<character>SHATNER</character>
 I have an idea. Wasn't there an episode 
 where I threw my shoe at the enemy?
 
-NIMOY
+<character>NIMOY</character>
 You mean Doohan?
 
 [They both laugh and high five.]
 
-SHATNER
+<character>SHATNER</character>
 Whoever it was, I did it like this.
 
 [He takes a boot off and throws it at Takei's face.]
 
-TAKEI
+<character>TAKEI</character>
 Ow!
 
 [Shatner hops.]
 
-SHATNER
+<character>SHATNER</character>
 My foot's cold!
 
 [By the "Guardian of Forever" prop, Leela drops a pile of sticks 
 next to Fry.]
 
-LEELA
+<character>LEELA</character>
 There, we can make these into spears.
 
-FRY
+<character>FRY</character>
 And we can tie these caterpillars together 
 to make bow strings for bows and arrows.
 
-BENDER
+<character>BENDER</character>
 And we can use this machine gun to shoot 
 them! Yee-haw!  That was fun!
 
 [On a rock-face, the actors separate. Shatner, Nichols and Takei 
 remain. Shatner holds a bamboo stick.]
 
-NICHOLS
+<character>NICHOLS</character>
 What if I distract them with my famous 
 fan dance?
 
-SHATNER
+<character>SHATNER</character>
 Oh, that's good, good, good, good. And 
 then, George, you give them a karate 
 chop!
 
-TAKEI
+<character>TAKEI</character>
 I find that offensive. Just because 
 I'm of Japanese ancestry you assume 
 I know karate. Have I ever led you to 
 believe I've studied karate?
 
-SHATNER
+<character>SHATNER</character>
 Well, no, but you never talk about yourself.
 
-TAKEI
+<character>TAKEI</character>
 (sadly) Maybe if you showed a little 
 interest.
 
 [Elsewhere, Fry tries out his bow and arrow.]
 
-FRY
+<character>FRY</character>
 Well, here goes nothing.
 
 [He tries to fire the arrow but the bow breaks and the caterpillars 
 crawl all over his face. He falls over. Nichols appears from 
 behind some rocks and does the fan dance from Star Trek V.]
 
-NICHOLS
+<character>NICHOLS</character>
 (sexfully) Hello, boys!
 
 [She dances. Bender zooms in.]
 
-BENDER
+<character>BENDER</character>
 Whoa!
 
 [Takei sneaks up behind him and chops him on the shoulder.]
 
-TAKEI
+<character>TAKEI</character>
 Hi-yah!
 
 [Bender screams. On a cliff, Leela and Shatner edge their way 
 around a rock, facing opposite directions. They bump into each 
 other and turn around. Leela screams and Shatner gasps.]
 
-SHATNER
+<character>SHATNER</character>
 There's no right way to hit a woman.
 
-LEELA
+<character>LEELA</character>
 Then do it the wrong way.
 
-SHATNER
+<character>SHATNER</character>
 Fine. Yah!
 
 [He kicks her and knocks her down. She gets back up.]
 
-LEELA
+<character>LEELA</character>
 Is that all you've got? Hi-yah!
 
 [She does a roundhouse on him and hits him in the eye. He groans 
 and raises his fists, ready to hit her.]
 
-SHATNER
+<character>SHATNER</character>
 See you in h--
 
 [Leela hits him in the face. He hits back and she dodges his 
@@ -1040,43 +1040,43 @@ ground. She jumps on him and repeatedly hits him in the face.
 Fry fights DeForest Kelley while Bender takes on Nimoy, Koenig 
 and Takei.]
 
-BENDER
+<character>BENDER</character>
 Come on, Walter!
 
-NIMOY
+<character>NIMOY</character>
 Take that!
 
 [He hits Bender with a stick. Fry pushes Kelley away and Nichols 
 cartwheels onto him, yelling. She locks his head between her 
 thighs and pulls his hair.]
 
-FRY
+<character>FRY</character>
 It hurts!
 
-NIMOY
+<character>NIMOY</character>
 Let's see if this actually works!  Hm. 
 Ow! Ow! Ow!
 
-KOENIG
+<character>KOENIG</character>
 My face!
 
-TAKEI
+<character>TAKEI</character>
 Ow! My face too!
 
 [Shatner and Leela are both down. Shatner gets up and offers 
 her his hand.]
 
-SHATNER
+<character>SHATNER</character>
 May I?  Oh!
 
 [She picks up a rock and holds it over him.]
 
-MELLLVAR
+<character>MELLLVAR</character>
 Excellent! Excellent!
 
 [Shatner holds out his hand.]
 
-SHATNER
+<character>SHATNER</character>
 Leela, please. This is exactly what 
 Melllvar wants. We're just pawns in 
 his diabolical game of checkers. Can't 
@@ -1086,34 +1086,34 @@ way?
 [A bigger pink energy cloud wearing ugly glasses appears next 
 to Melllvar.]
 
-MELLLVAR'S MOTHER
+<character>MELLLVAR</character>'S <character>MOTHER</character>
 Melllvar! Dinner time!
 
-MELLLVAR
+<character>MELLLVAR</character>
 Aw, but Mom, I'm playing with my collectables!
 
-MELLLVAR'S MOTHER
+<character>MELLLVAR</character>'S <character>MOTHER</character>
 Now!
 
 [Melllvar groans and disappears.]
 
-FRY
+<character>FRY</character>
 All this time we thought he was a powerful 
 super-being, yet he was just a child.
 
-MELLLVARS'S MOTHER
+<character>MELLLVARS</character>'S <character>MOTHER</character>
 He's not a child, he's 34!
 
 [She disappears.]
 
-BENDER
+<character>BENDER</character>
 Alright, Koenig, I've wanted to do this 
 for years!
 
 [He grabs him by his shirt and holds up his fist. Fry grabs his 
 arm.]
 
-FRY
+<character>FRY</character>
 Bender, wait! This is our chance to 
 escape, before Melllvar comes back. 
 But we all need to work together.
@@ -1121,42 +1121,42 @@ But we all need to work together.
 [Time Lapse. They run onto the cliff and find Leela and Shatner 
 making out. Shatner rubs Leela's back.]
 
-SHATNER
+<character>SHATNER</character>
 I love you so much!
 
 [Nimoy clears his throat.]
 
-NIMOY
+<character>NIMOY</character>
 Hello?
 
 [They both look up.]
 
-FRY
+<character>FRY</character>
 We've decided to work together.
 
-NIMOY
+<character>NIMOY</character>
 Uh, so did they.
 
 [Shatner gets up and elbows Nimoy.]
 
-SHATNER
+<character>SHATNER</character>
 Now, how do we escape?
 
-LEELA
+<character>LEELA</character>
 We can't use our ship; We have life 
 support but the engines are wrecked.
 
-TAKEI
+<character>TAKEI</character>
 Ironic Because our engines work but 
 our life support systems don't.
 
-LEELA
+<character>LEELA</character>
 Hey, if your engines work--
 
-TAKEI
+<character>TAKEI</character>
 And your life support systems work--
 
-FRY
+<character>FRY</character>
 Stop! You're just goin' around in circles! 
 (to himself) Think, Fry, think! Everyone's 
 depending on you.
@@ -1168,7 +1168,7 @@ the hull of the Planet Express ship.]
 
 [Cut to: Ships Cockpit.]
 
-LEELA
+<character>LEELA</character>
 We're too heavy. You guys need to lose 
 some weight, fast!
 
@@ -1178,16 +1178,16 @@ the decapitated bodies of the Star Trek cast are thrown out.]
 [Cut to: Ships Cockpit. The actors heads are in jars. Fry wheels 
 in the video case.]
 
-FRY
+<character>FRY</character>
 Look, Leonard, we're light enough to 
 keep the tapes! Isn't that great?
 
-NIMOY
+<character>NIMOY</character>
 I'm living in a gefilte fish jar.
 
 [The ship flies away from the planet.]
 
-FRY
+<character>FRY</character>
 We did it!
 
 [Everyone cheers.]
@@ -1198,10 +1198,10 @@ ship.]
 
 [Cut to: Ships Cockpit.]
 
-FRY
+<character>FRY</character>
 Melllvar's got a spaceship!
 
-MELLLVAR
+<character>MELLLVAR</character>
 Yes, in mint condition. And you made 
 me take it out of the package!
 
@@ -1210,12 +1210,12 @@ ship.]
 
 [Cut to: Ships Cockpit.]
 
-LEELA
+<character>LEELA</character>
 The Nimbus! We're saved!
 
 [A screen comes down from above Leela's head.]
 
-ZAPP
+<character>ZAPP</character>
 You're under arrest. Prepare to be 
 boarded.
 
@@ -1223,11 +1223,11 @@ boarded.
 
 [Ships Cargo Bay.]
 
-ZAPP
+<character>ZAPP</character>
 So I boarded you, eh. What happened 
 next?
 
-LEELA
+<character>LEELA</character>
 You started this stupid court martial. 
 Now if you don't mind, we're still fighting 
 Melllvar!
@@ -1241,10 +1241,10 @@ follows, shooting more.]
 
 [Cut to: Ships Cockpit. Everyone falls over.]
 
-LEELA
+<character>LEELA</character>
 One more hit and we're done for!
 
-TAKEI
+<character>TAKEI</character>
 Let's take 'em out with us. Do you guys 
 have a self-destruct code? Like "destruct 
 sequence 1-A, 2-B, 3--"
@@ -1252,49 +1252,49 @@ sequence 1-A, 2-B, 3--"
 [Bender's head explodes, leaving some wires, coils and his mouth 
 poking out of his body.]
 
-BENDER
+<character>BENDER</character>
 Thanks a lot, Takei, now everybody knows!
 
-MELLLVAR
+<character>MELLLVAR</character>
 If I can't have the original cast of 
 Star Trek, no one will! Prepare to die!
 
-FRY
+<character>FRY</character>
 Wait! If they mean that much to you, 
 why do you wanna kill them?
 
-MELLLVAR
+<character>MELLLVAR</character>
 Because I ... I ... I dunno what I'd 
 do without them.
 
-FRY
+<character>FRY</character>
 Melllvar, you can't let a TV show be 
 your whole life. You can do anything 
 you want. Look at Walter Koenig: After 
 Star Trek, he became an actor.
 
-KOENIG
+<character>KOENIG</character>
 Not just an actor, but a well-rounded 
 person, with my own friends and credit 
 cards and keys.
 
-MELLLVAR
+<character>MELLLVAR</character>
 Well, I guess I could move out of my 
 parents' basement ... maybe get a temp 
 job.
 
-FRY
+<character>FRY</character>
 Whoa, whoa! One step at a time.
 
-MELLLVAR
+<character>MELLLVAR</character>
 I thank you, Fry. You know, you and 
 I are of a kind. In a different reality 
 I could have called you "friend".
 
-FRY
+<character>FRY</character>
 Episode 10, Balance Of Terror.
 
-MELLLVAR
+<character>MELLLVAR</character>
 More like episode nine, loser! In your 
 face! Victory is mine!
 
@@ -1302,30 +1302,30 @@ face! Victory is mine!
 
 [Cut to: Ships Cokpit. Everyone watches him return to the planet]
 
-SHATNER
+<character>SHATNER</character>
 I wonder, my friends, was he really 
 such an evil energy gas?
 
-NICHOLS
+<character>NICHOLS</character>
 He did give us eternal youth.
 
-KOENIG
+<character>KOENIG</character>
 24-hour Laundromat.
 
-TAKEI
+<character>TAKEI</character>
 A full assortment of rum, both spiced 
 and regular.
 
-NIMOY
+<character>NIMOY</character>
 Truly, it was a paradise.
 
-FRY
+<character>FRY</character>
 And all you had to put up with was one 
 really annoying Star Trek fan.
 
 [The heads catch on.]
 
-SHATNER
+<character>SHATNER</character>
 Let's get the hell outta here!
 
 [The ship flies away like at the end of every Star Trek episode.]

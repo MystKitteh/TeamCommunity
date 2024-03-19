@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 207 
 
-<title>A HEAD IN THE POLLS</title>
+<title>A <character>HEAD IN THE POLLS</character></title>
 
 <author>J. Stewart Burns</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -12,10 +12,10 @@ Episode 207
 [Planet Express: Lounge. Fry and Bender sit on the couch with 
 their feet up on the table. There are crumbs, Chinese take-away 
 boxes and a burger on the table. A creepy Twilight Zone-esque 
-show starts on the TV. The opening titles are a star field background 
+show starts on the <character>TV</character>. The opening titles are a star field background 
 with various objects flying past the camera.]
 
-NARRATOR
+<character>NARRATOR</character>
 (voice-over; on TV) You're entering 
 the vicinity of an area adjacent to 
 a location.  The kind of place where 
@@ -30,7 +30,7 @@ the last man on earth.
 library. The scene moves inside where the man walks between the 
 bookshelves.]
 
-MAN
+<character>MAN</character>
 Finally, solitude. I can read books 
 for all eternity.  It's not fair! It's 
 not fair! Wait, my eyes aren't that 
@@ -41,116 +41,116 @@ at that weird mirror!
 
 [Fry shudders.]
 
-BENDER
+<character>BENDER</character>
 Cursed by his own hubris!
 
 [Enter Leela.]
 
-LEELA
+<character>LEELA</character>
 There's a political debate on! Quick, 
 change the channel!
 
-BENDER
+<character>BENDER</character>
 Hey, that's what Fry said when we turned 
 on the debate!
 
 [Leela changes the channel herself. Two men who look remarkably 
 alike stand at podiums. There are just two people in the audience.]
 
-ANNOUNCER
-(voice-over; on TV) C-SPAN9 presents: 
+<character>ANNOUNCER</character>
+(voice-over; on TV) C-<character>SPAN9</character> presents: 
 The Thrill Of Politics.
 
 [Fry and Bender snore. Leela sighs and slides Fry across the 
 couch and sits between them. They wake up.]
 
-LEELA
+<character>LEELA</character>
 Look, I know there are no car chases 
 but this is important. One of these 
 two men will become president of the 
 world.
 
-FRY
+<character>FRY</character>
 What do we care? We live in the United 
 States.
 
-LEELA
+<character>LEELA</character>
 The United States is part of the world.
 
-FRY
+<character>FRY</character>
 Wow! I have been gone a long time.
 
 [One of the candidates, Jack Johnson, begins the debate.]
 
-JOHNSON
+<character>JOHNSON</character>
 It's time someone had the courage to 
 stand up and say: "I'm against those 
 things that everybody hates".
 
 [The other candidate is John Jackson.]
 
-JACKSON
+<character>JACKSON</character>
 Now I respect my opponent. I think 
 he's a good man but, quite frankly, 
 I agree with everything he just said!
 
-FRY
+<character>FRY</character>
 These are the candidates? They sound 
 like clones.  Wait a minute. They are 
 clones!
 
-LEELA
-Don't let their identical DNA fool you. 
+<character>LEELA</character>
+Don't let their identical <character>DNA</character> fool you. 
 They differ on some key issues.
 
-JOHNSON
+<character>JOHNSON</character>
 I say your three cent titanium tax 
 goes too far.
 
-JACKSON
+<character>JACKSON</character>
 And I say your three cent titanium 
 tax doesn't go too far enough!
 
-FRY
+<character>FRY</character>
 If I were registered to vote, I send 
 these clowns a message by staying home 
 on election day and dressing up like 
 a clown.
 
-LEELA
+<character>LEELA</character>
 You're not registered?
 
-FRY
+<character>FRY</character>
 Nope. Not vaccinated either! Besides. 
 It's not like one vote ever made a difference.
 
-LEELA
+<character>LEELA</character>
 That's not true. The first robot president 
 won by exactly one vote.
 
-BENDER
+<character>BENDER</character>
 Ah, yes. John Quincy Adding Machine. 
 He struck a cord with the voters when 
 he pledged not to go on a killing spree.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 But, like most politicians, he promised 
 more than he could deliver.
 
-LEELA
+<character>LEELA</character>
 The point is, one vote can make a difference 
 and even though it won't, I'm still 
 taking you to get registered.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yes, that's a capital idea. Let's all 
 go register.
 
-FRY
+<character>FRY</character>
 Professor, when did you become so obsessed 
 with voting?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 The very instant I became old.
 
 [Citihall. Two banners have been hung outside, one saying "Voter 
@@ -159,38 +159,38 @@ Vote". The Planet Express staff stand in the middle of a room.
 On one side is Jack Johnson's party, the Tastycrats, and on the 
 other is John Jackson's, the Fingerlicans.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 The problem with both parties is that 
 they always want to give your tax dollars 
 to the less fortunate.
 
-FRY
+<character>FRY</character>
 The less fortunate get all the breaks!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 You know, Fry, you could join a third 
 party, maybe.
 
 [Amy scoffs.]
 
-AMY
+<character>AMY</character>
 Only weirdos and mutants join third 
 parties.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Really? I'd better keep an eye out at 
 the next meeting.
 
-FRY
+<character>FRY</character>
 What party do you belong to, Bender?
 
-BENDER
+<character>BENDER</character>
 I'm not allowed to vote.
 
-FRY
+<character>FRY</character>
 'Cause you're a robot?
 
-BENDER
+<character>BENDER</character>
 No, convicted felon.
 
 [Time Lapse. Some of the other parties are the One Cell, One 
@@ -198,98 +198,98 @@ Vote party which is represented by two amoebae; the Green Party,
 represented by five green aliens and the Brain Slug Party, represented 
 by two people with Brain Slugs on their heads.]
 
-WOMAN
+<character>WOMAN</character>
 We favour unreasonably huge subsidies 
 to the Brain Slug Planet.
 
-FRY
+<character>FRY</character>
 OK, but what are the Brain Slugs who 
 control you gonna do for the working 
 man?
 
-WOMAN
+<character>WOMAN</character>
 Attach Brain Slugs to them.
 
-FRY
+<character>FRY</character>
 (sarcastic) Sure, you say that now!
 
 [Amy looks at the Dudes For The Legalation Of Hemp party.]
 
-AMY
+<character>AMY</character>
 So, is it true you can make all kinds 
 of shirts and ropes out of hemp?
 
-STONED GUY
+<character>STONED GUY</character>
 Dave's not here, man.
 
-AMY
+<character>AMY</character>
 I also heard hemp makes great shampoo.
 
-STONED GUY
+<character>STONED GUY</character>
 It does? No way! I gotta check out this 
 brochure!
 
 [He picks up a burger and munches on it. Farnsworth is over at 
 the National Ray-Gun Association stand.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 So what are you doing to protect my 
 constitutional right to bear doomsday 
 devices?
 
-N.R.A. MAN
+<character>N</character>.<character>R</character>.A. <character>MAN</character>
 Well, first off, we're gonna get rid 
 of that three-day waiting period for 
 mad scientists.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Damn straight! Today, the mad scientist 
 can't get a doomsday device, tomorrow 
 it's the mad grad student. Where will 
 it end?
 
-N.R.A. MAN
+<character>N</character>.<character>R</character>.A. <character>MAN</character>
 Amen, brother. I don't go anywhere without 
 my mutated anthrax......for duck hunting.
 
 [Zoidberg talks with a Neptunian at the People For The Ethical 
 Treatment Of Humans stand.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Sure, humans are cute, but how else 
 are we supposed to test cosmetics?
 
 [Hermes has a Brain Slug attached to his head.]
 
-HERMES
+<character>HERMES</character>
 I concur.
 
 [Fry and Leela check out the Voter Apathy Party. The man sits 
 at the stand, leaning his head on his hand.]
 
-FRY
+<character>FRY</character>
 Now here's a party I can get excited 
 about. Sign me up!
 
-V.A.P. MAN
+<character>V</character>.<character>A</character>.P. <character>MAN</character>
 Sorry, not with that attitude.
 
-FRY
+<character>FRY</character>
 (downbeat) OK then, screw it.
 
-V.A.P. MAN
+<character>V</character>.<character>A</character>.P. <character>MAN</character>
 Welcome aboard, brother!
 
-FRY
+<character>FRY</character>
 (excited) Alright!
 
-V.A.P. MAN
+<character>V</character>.<character>A</character>.P. <character>MAN</character>
 You're out.
 
 [Planet Express: Lounge. Bender, Fry and Leela are back on the 
 couch.]
 
-FRY
+<character>FRY</character>
 That was pretty cool. I think I'm actually 
 starting to get interested in politics.
 
@@ -298,7 +298,7 @@ Morbo and Linda. Fry and Bender fall asleep. In the studio, there
 is picture of the hardhat guy giving a thumbs up with a question 
 mark above him and "Decision 3000" below him.]
 
-LINDA
+<character>LINDA</character>
 And so, with two weeks left in the 
 campaign, the question on everyone's 
 mind is who will be the next president 
@@ -306,13 +306,13 @@ of Earth? Jack Johnson or bitter rival
 John Jackson? Two terrific candidates, 
 huh, Morbo?
 
-MORBO
+<character>MORBO</character>
 All humans are vermin in the eyes of 
 Morbo.
 
 [Linda laughs.]
 
-LINDA
+<character>LINDA</character>
 In other local news, disaster struck 
 on Saturn�s moon of Titan today, when 
 a titanium mine collapsed, trapping 
@@ -320,50 +320,50 @@ a titanium mine collapsed, trapping
 
 [Bender wakes up.]
 
-BENDER
+<character>BENDER</character>
 What? Lord have mercy!
 
-LINDA
+<character>LINDA</character>
 Unless something is done quickly, the 
 trapped robots will be dead within 300 
 years.  Sir, what rescue operations 
 are planned?
 
-MINE SPOKESMAN
+<character>MINE SPOKESMAN</character>
 The plan is basically to pave over 
 the area and get on with our lives.
 
 [Bender gasps. The picture cuts back to the studio.]
 
-MORBO
+<character>MORBO</character>
 News of the mines closing sent titanium 
 prices skyrocketing.
 
-BENDER
+<character>BENDER</character>
 Alright! I'm rich!
 
-LEELA
+<character>LEELA</character>
 What are you talking about?
 
-BENDER
+<character>BENDER</character>
 My body's 40% titanium!  I'm finally 
-richer than those snooty ATM machines.
+richer than those snooty <character>ATM</character> machines.
 
-FRY
+<character>FRY</character>
 Too bad you can't spend it.
 
-BENDER
+<character>BENDER</character>
 (ironic) Oh, can't I?
 
-FRY
+<character>FRY</character>
 No.
 
-BENDER
+<character>BENDER</character>
 Watch me, poor man.
 
 [Outside Rook Takes Pawnshop.]
 
-PAWNBROKER
+<character>PAWNBROKER</character>
 (from inside) Pleasure doing business 
 with you.
 
@@ -371,7 +371,7 @@ with you.
 building and sets it down on the pavement. Bender is holding 
 a wad of cash in his mouth.]
 
-BENDER
+<character>BENDER</character>
 Game's over, losers. I have all the 
 money! Compare your lives to mine and 
 then kill yourselves!  Hey, get away. 
@@ -381,7 +381,7 @@ You just lost five dollars!
 
 [Time Lapse. The dog has gone.]
 
-BENDER
+<character>BENDER</character>
 Hey, buddy. Little help?  (shouting) 
 Thank you!
 
@@ -390,42 +390,42 @@ Fry are sat around the conference table. Fry is eating a bowl
 of Bachelor Chow. Bender's head flies through the window, bounces 
 off the screen and lands in the middle of the table.]
 
-BENDER
+<character>BENDER</character>
 Hello, peasants.
 
-LEELA
+<character>LEELA</character>
 Bender? What happened to you?
 
-FRY
+<character>FRY</character>
 Yeah, you look different. Did you get 
 a haircut?
 
-BENDER
+<character>BENDER</character>
 No, I sold my body.
 
 [He spits the cash out of his mouth.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Sold your body? Oh, Bender, I've been 
 down that road. I know it's glamorous 
 and the parties are great but you'll 
 end up spending every dollar you make 
 on jewellery and skintight pants.
 
-FRY
+<character>FRY</character>
 This is crazy, Bender. How are you gonna 
 live without a body?
 
-BENDER
+<character>BENDER</character>
 Pft. Bodies are for hookers and fat 
 people! All I need is a wad of cash 
 with a head wrapped around it.
 
-FRY
+<character>FRY</character>
 Well, at least now you can pay off your 
 loan shark.
 
-BENDER
+<character>BENDER</character>
 Yeah, right. What's he gonna do, break 
 my legs?
 
@@ -434,36 +434,36 @@ my legs?
 [Fancy Pad. Bender lives the high life. He sits on a lilo in 
 a pool, reading Playbot with a lackey nearby.]
 
-BENDER
+<character>BENDER</character>
 Ah, this is the life. Another martini, 
 please.
 
 [Time Lapse. At the bar the man pours the drinks straight into 
 Bender's head through his antenna hole.]
 
-BENDER
+<character>BENDER</character>
 Shaken, not stirred.  Aw, yeah!
 
 [Casino. Fry and Leela join Bender for a game of Roulette.]
 
-BENDER
+<character>BENDER</character>
 Put it all on black.
 
 [Fry slides Bender's chips down the table and knocks Bender onto 
 the wheel. He bounces around on it before it stops. His antenna 
 points to a number.]
 
-CROUPIER
+<character>CROUPIER</character>
 21 red.  I beg your pardon, 33 black.
 
-BENDER
+<character>BENDER</character>
 Yes! The rich get richer!
 
 [Bowling Alley. The machine returns Leela's ball, which looks 
 like an eye. Fry bowls Bender's head down the lane and it knocks 
 down all the pins.]
 
-BENDER
+<character>BENDER</character>
 Strike! In your face, Leela!  Ow!
 
 [Planet Express: Lounge. Nibbler runs through a door flap being 
@@ -473,27 +473,27 @@ the way of the car...]
 [Cut to: Planet Express: Meeting Room. ...as Bender drives it 
 through the doorway. He hits a gibbering Farnsworth in the shins.]
 
-BENDER
+<character>BENDER</character>
 (shouting) Timber!
 
 [Farnsworth falls over.]
 
-FRY
+<character>FRY</character>
 Hey, Bender, can I take a ride in your 
 car?
 
-BENDER
+<character>BENDER</character>
 Maybe if you clean up first. It looks 
 like your neck stepped in something. 
 Oh, I'm sorry, that's just your body!
 
 [He laughs.]
 
-FRY
+<character>FRY</character>
 Hey! You look me in the shins and say 
 that.
 
-BENDER
+<character>BENDER</character>
 I've had it up to here with this place. 
 I'm off to the Head Museum to hang out 
 with classy heads like me who appreciate 
@@ -512,7 +512,7 @@ Genitals, Jill Big Breasts and Long D. Silver and TV stars David
 Duchovny, Gillian Anderson, Tim Allen, Jerry Seinfeld, Lucille 
 Ball and Katey Sagal.]
 
-BENDER
+<character>BENDER</character>
 Now, which group of heads is good enough 
 for me to hang out with? What do you 
 think, Fry? Fry?
@@ -520,62 +520,62 @@ think, Fry? Fry?
 [Fry is talking to Claudia Schiffer's head in the supermodels 
 section.]
 
-SCHIFFER
+<character>SCHIFFER</character>
 Hi, I'm Claudia Schiffer's head.
 
-FRY
+<character>FRY</character>
 I recognise you. Didn't you used to 
 have a body of some sort?
 
-SCHIFFER
+<character>SCHIFFER</character>
 Yeah, but it was holding me back. You 
 know, I just did the cover of the Sports 
 Illustrated Swimcap Issue.
 
 [Fry purrs.]
 
-FRY
+<character>FRY</character>
 Well, you're looking great.
 
-SCHIFFER
+<character>SCHIFFER</character>
 Thanks. I wouldn't mind losing a few 
 pounds though.
 
-FRY
+<character>FRY</character>
 Couldn't hurt.
 
 [Head Museum: Hall of Presidents.]
 
-BENDER
+<character>BENDER</character>
 Ah, US presidents.  Sturdy shelves, 
 good security.  This place has class.
 
-CLINTON
+<character>CLINTON</character>
 (to Leela) Hey, sugar cookie. You know, 
 legally, nothing I can do counts as 
 sex anymore.
 
-FORD
+<character>FORD</character>
 I apologise for his rudeness, ma'am. 
 He gets this way around meaty-looking 
 women.
 
-FRY
+<character>FRY</character>
 (to Clinton) Hey, I remember you. I 
 was gonna vote for you one time. But 
 voting isn't cool so I stayed home alone 
 and got trashed on Listerine.
 
-FORD
+<character>FORD</character>
 Frankly, I've never felt voting to be 
 all that essential to the process.
 
-NIXON
+<character>NIXON</character>
 No kidding, Ford.
 
 [Bender tells Washington an anecdote.]
 
-BENDER
+<character>BENDER</character>
 So then the hookerbot says, "That's 
 not my expansion slot" and my friends 
 says, "That's not my gold-plated 25-pin 
@@ -583,76 +583,76 @@ connector!"
 
 [He laughs.]
 
-WASHINGTON
+<character>WASHINGTON</character>
 Oh, Bender. Thou robots really cracketh 
 me up.
 
-BENDER
+<character>BENDER</character>
 You know, I like it here. What's the 
 rent on one of these jars?
 
-BUSH SR.
+<character>BUSH SR</character>.
 Sorry, Bender, but we just can't allow 
 every Tom, Dick, and Harry to move in. 
 No offence, Jefferson, Nixon and Truman.
 
-CARTER
+<character>CARTER</character>
 Maybe Mr. Bender can get a spot in the 
 closet of presidential losers.
 
 [The closet is filled with the heads of Bob Dole, Lyndon LaRouche, 
 Walter Mondale and Ross Perot as well as some cleaning supplies.]
 
-DOLE
+<character>DOLE</character>
 Bob Dole needs company. LaRouche won't 
 stop with the "knock knock" jokes.
 
-BENDER
+<character>BENDER</character>
 Pass.
 
-WASHINGTON
+<character>WASHINGTON</character>
 So, telleth, Bender. What hath happened 
 to your body?
 
-BENDER
+<character>BENDER</character>
 I hocked it.
 
-WASHINGTON
+<character>WASHINGTON</character>
 Hocked it? Why wouldst thou do that?
 
-BENDER
+<character>BENDER</character>
 Same reason you hocked your teeth.
 
-WASHINGTON
+<character>WASHINGTON</character>
 Ah. Booze money.
 
-NIXON
+<character>NIXON</character>
 I remember my body; flabby, pastey-skinned, 
 riddled with phlebitis. A good Republican 
 body! God, I loved it.
 
-FRY
+<character>FRY</character>
 I hear that. I spent most of my teen 
 years loving my body. Course, it was 
 tough love but -- ooh!
 
 [Leela elbows him in the stomach.]
 
-LEELA
+<character>LEELA</character>
 Fry, he opened up relations with China. 
 He doesn't want to hear about your ding-dong.
 
-BENDER
+<character>BENDER</character>
 So, Nixon. Even if you miss your body, 
 being a head's great too, right?
 
-NIXON
+<character>NIXON</character>
 No, son. It's a sad and lonely life.
 
-BENDER
+<character>BENDER</character>
 Oh, great. Now you tell me!
 
-NIXON
+<character>NIXON</character>
 That's my style. I like to kick 'em 
 when they're down!
 
@@ -662,26 +662,26 @@ when they're down!
 tiny bed and he is wearing a nightcap. He tosses and turns. He 
 starts dreaming and 1's and 0's appear out of blackness.]
 
-BENDER
+<character>BENDER</character>
 (sleep-talking) Ones...zeros...one, 
 one, zero, zero, one --
 
 [The numbers appear faster and faster and he wakes up screaming. 
 Fry opens the door.]
 
-FRY
+<character>FRY</character>
 Bender, what is it?
 
-BENDER
+<character>BENDER</character>
 Whoa, what an awful dream. Ones and 
 zeros everywhere. And I thought I saw 
 a two.
 
-FRY
+<character>FRY</character>
 It was just a dream, Bender. There's 
 no such thing as two.
 
-BENDER
+<character>BENDER</character>
 I know what this is about. My body loved 
 me, and I turned its back on it. Well, 
 old friend, tie a yellow ribbon round 
@@ -691,10 +691,10 @@ your neck, 'cause I'm a-comin' home!
 at the pawnshop. There is a metal detector, a TV, some suitcases 
 and a guitar in the shop.]
 
-BENDER
+<character>BENDER</character>
 You sold my body? To who?!
 
-PAWNBROKER
+<character>PAWNBROKER</character>
 I can't reveal that information, but 
 you look like a nice robot. Tell you 
 what, I'll give you 50 bucks for the 
@@ -702,34 +702,34 @@ kid.
 
 [He starts counting out some cash.]
 
-FRY
+<character>FRY</character>
 Hey, my clothes are worth 50 bucks!
 
-PAWNBROKER
+<character>PAWNBROKER</character>
 Deal.
 
 [Planet Express: Lounge. Fry is sat on the couch stark naked 
 with Bender, Leela and Farnsworth.]
 
-BENDER
+<character>BENDER</character>
 (crying) Oh! How could I let this happen? 
 I can't go through the rest of my life 
 like this.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Don't you have a self-destruct button?
 
-BENDER
+<character>BENDER</character>
 (crying) Yeah, but it's on my body. 
 What am I gonna do?
 
-FRY
+<character>FRY</character>
 Ah, I can't stand to see a robot cry. 
 Let's watch TV!
 
 [He turns it on. Richard Nixon's head is giving a press conference.]
 
-NIXON
+<character>NIXON</character>
 And so, ladies and gentlemen, I'm throwing 
 my head into the ring. I'm announcing 
 my candidacy for the presidency of Earth.
@@ -737,17 +737,17 @@ my candidacy for the presidency of Earth.
 [Cut to: Nixon's Press Conference. The reporters wave their hands 
 in the air.]
 
-JOURNALIST #1
+<character>JOURNALIST #1</character>
 Just one question.
 
 [A man stands up.]
 
-CHANG
+<character>CHANG</character>
 Scoop Chang, Beijing Bugle. Sir, the 
 constitution clearly states that nobody 
 can be elected president more than twice.
 
-NIXON
+<character>NIXON</character>
 That's right, nobody.  But as you can 
 plainly see, I've got a shiny new body!
 
@@ -756,28 +756,28 @@ new red tie.]
 
 [Cut to: Planet Express: Lounge. Gasps aplenty.]
 
-BENDER
+<character>BENDER</character>
 Oh!
 
-LEELA
+<character>LEELA</character>
 Bender, he's got your body!
 
-BENDER
+<character>BENDER</character>
 That dirty, double-crossing bastard! 
 How dare he run off with Richard Nixon!
 
 [Time Lapse. Fry has put on some new clothes.]
 
-LEELA
+<character>LEELA</character>
 Nixon must have bought your body from 
 the pawn shop.
 
-FRY
+<character>FRY</character>
 Yeah, and that electric guitar.
 
 [Nixon plays Jefferson Airplane�s White Rabbit.]
 
-NIXON
+<character>NIXON</character>
 (singing; on TV} Remember what the dormouse 
 said
 
@@ -786,69 +786,69 @@ Feed your head.
 (talking) I'm meeting you half way, you stupid hippies! [Cheers 
 from the crowd.] I am not a crook's head!
 
-BENDER
+<character>BENDER</character>
 Yeah you are, you stole my body! Fry, 
 Leela, you gotta help me!
 
-LEELA
+<character>LEELA</character>
 Ordinarily I'd say no and lecture you 
 on how this is your own fault for being 
 such an idiot. But when a robotic Nixon 
 is on the loose, we have a duty to take 
 action. Idiot.
 
-[Washington D.C. The Planet Express ship lands beside the Washington 
+[Washington <character>D</character>.C. The Planet Express ship lands beside the Washington 
 Monument and the much larger Clinton Monument.]
 
 [Presidential Debate. Jack Johnson, John Jackson and Nixon are 
 at the debate, headed by Morbo.]
 
-MORBO
+<character>MORBO</character>
 Morbo will now introduce tonight's candidates: 
 Puny Human #1, Puny Human #2, and Morbo's 
 good friend, Richard Nixon.
 
-NIXON
+<character>NIXON</character>
 Hello, Morbo. How's the family?
 
-MORBO
+<character>MORBO</character>
 Belligerent and numerous.
 
-NIXON
+<character>NIXON</character>
 Good man. Nixon's pro-war and pro-family.
 
 [He takes a baby out of his chest cabinet and kisses it.]
 
-BENDER
+<character>BENDER</character>
 Great. First he steals my body, now 
 he's touching my stuff.
 
-LEELA
+<character>LEELA</character>
 Come on. We've gotta find some way to 
 talk to him.
 
 [They sneak out.]
 
-MORBO
+<character>MORBO</character>
 Morbo demands an answer to the following 
 question: If you saw delicious candy 
 in the hands of a small child would 
 you seize and consume it?
 
-JOHNSON
+<character>JOHNSON</character>
 Unthinkable.
 
-JACKSON
+<character>JACKSON</character>
 I wouldn't think of it.
 
-MORBO
+<character>MORBO</character>
 What about you, Mr. Nixon? I remind 
 you you are under a truth-o-scope.
 
 [The truth-o-scope hovers over Nixon's head and he starts to 
 sweat.]
 
-NIXON
+<character>NIXON</character>
 Uh, well, I, uh...the question is-is 
 vague. You don't say what kind of candy, 
 whether anyone is watching or uh... 
@@ -860,44 +860,44 @@ the child.
 [Nixon's Dressing Room. He squirts cleaner on his jar and rubs 
 it. His campaign manager is with him.]
 
-CAMPAIGN MANAGER
+<character>CAMPAIGN MANAGER</character>
 You scored big points tonight, sir.
 
-NIXON
+<character>NIXON</character>
 What are you talking about? They ate 
 me alive out there.
 
-CAMPAIGN MANAGER
+<character>CAMPAIGN MANAGER</character>
 Yes, but your body stayed on message. 
 And that message is, "Look at my shiny 
 new body". The robots ate it up. You've 
 got real charisma from the neck down.
 
-NIXON
+<character>NIXON</character>
 Nixon with charisma? My God, I can rule 
 the universe!
 
 [Bender, Fry and Leela come out of a dirty laundry hamper.]
 
-BENDER
+<character>BENDER</character>
 Give me my body back you two-bit thief!
 
-NIXON
+<character>NIXON</character>
 Now look here, you drugged out communist. 
 I paid for this body and I'd no sooner 
 return it than I would my little cocker 
 spaniel dog, Checkers.  Shut up, damnit!
 
-FRY
+<character>FRY</character>
 Please, Mr. Nixon. We're appealing to 
 your sense of decency.
 
 [Everyone laughs.]
 
-BENDER
+<character>BENDER</character>
 That was a good one!
 
-NIXON
+<character>NIXON</character>
 Seriously though, I'm never giving back 
 this body. Now beat it! Before I get 
 Cambodian on your asses!
@@ -906,18 +906,18 @@ Cambodian on your asses!
 monument. He was a huge monster, and his statue shows him devouring 
 a person. There are skulls around his feet.]
 
-BENDER
+<character>BENDER</character>
 (crying) It's hopeless. We might as 
 well turn in my head for the five cent 
 deposit.
 
-FRY
+<character>FRY</character>
 No way! I'm not letting my best friend 
 get recycled. Not for five cents, not 
 for five hundred cents! Leela, I've 
 got a plan!
 
-LEELA
+<character>LEELA</character>
 I've got a better plan.
 
 [Outside Watergate Hotel. Fry and Leela, dressed in black, creep 
@@ -925,11 +925,11 @@ around the side of the building. The two carry a bag between
 them with Bender�s head inside. A searchlight moves past them 
 and they freeze.]
 
-FRY
+<character>FRY</character>
 (whispering) Why would Nixon stay at 
 the Watergate?
 
-LEELA
+<character>LEELA</character>
 (whispering) They give you a discount 
 if you've been here before.
 
@@ -939,86 +939,86 @@ a tug.]
 
 [Time Lapse. Leela hauls herself up the side of the building.]
 
-FRY
+<character>FRY</character>
 Keep going, we're right behind you.
 
 [He's just holding onto her and letting her do all the climbing. 
 Bender looks through a window.]
 
-BENDER
+<character>BENDER</character>
 Whoa, mama! Get a room, you two!
 
-MAN
+<character>MAN</character>
 We're in a room!
 
-BENDER
+<character>BENDER</character>
 Well then lose some weight.
 
 [Leela pulls Fry onto a ledge and they pull back some curtains. 
-Nixon is asleep in front of a TV.]
+Nixon is asleep in front of a <character>TV</character>.]
 
-NIXON
+<character>NIXON</character>
 (sleep-talking) Aroo!
 
 [Cut to: Nixon's Hotel Room. Fry and Leela climb in.]
 
-NIXON
+<character>NIXON</character>
 (sleep-talking) Oh, yeah. You women's 
 libbers really know how to party!
 
-BENDER
+<character>BENDER</character>
 (whispering) Psst! There I am!
 
 [Leela starts unscrewing Nixon's jar from Bender's body.]
 
-NIXON
+<character>NIXON</character>
 (sleep-talking) Hey, Betty Friedan. 
 Send a little of that lotion my way!
 
-LEELA
+<character>LEELA</character>
 OK, almost got it. Steady. Steady. Don't 
 panic.
 
 [Fry is lying on a bed, not listening. He looks at a box beside 
 the bed marked "Magic Tentacles".]
 
-FRY
+<character>FRY</character>
 Ooh!  Uh-oh!
 
 [The bed starts to shake and the tentacles throw Fry around. 
 Nixon wakes up and gasps.]
 
-NIXON
+<character>NIXON</character>
 What the...?  You shaggy peaceniks have 
 some nerve!
 
-BENDER
+<character>BENDER</character>
 I'm just here for what's mine. Don't 
 make me kick your neck.
 
-NIXON
+<character>NIXON</character>
 Bring it on, soup can.
 
 [They growl and start very slowly edging their way towards each 
 other.]
 
-LEELA
+<character>LEELA</character>
 Alright, break it up, you two!
 
 [She puts them on the couch.]
 
-NIXON
+<character>NIXON</character>
 That's it. You're all going to jail. 
 And don't expect me to grant a pardon 
 like that sissy, Ford.
 
-LEELA
+<character>LEELA</character>
 You'll never pardon anybody because 
 you'll never get elected president. 
 The voters of Earth aren't the pea-brained 
 idiots they were back in your time.
 
-NIXON
+<character>NIXON</character>
 Oh, no? Well, listen here, missy. Computers 
 may be twice as fast as they were in 
 1973 but your average voter is as drunk 
@@ -1032,10 +1032,10 @@ at night and wreck up the place.
 
 [He cackles.]
 
-FRY
+<character>FRY</character>
 Well, he lost my vote.
 
-NIXON
+<character>NIXON</character>
 Like one vote ever made a difference. 
 Now, if you'll excuse me, I'm going 
 to inch myself over to the phone and 
@@ -1043,37 +1043,37 @@ call the police.
 
 [He starts hopping his way over.]
 
-BENDER
+<character>BENDER</character>
 Not so fast, Nixon! Are you familiar 
 with audio tape?
 
 [He rewinds a tape in his head.]
 
-NIXON
+<character>NIXON</character>
 Uh-oh. I don't like where this is heading.
 
-NIXON
+<character>NIXON</character>
 And I'll go into people's houses at 
 night and wreck up the place!
 
 [He cackles.]
 
-NIXON
+<character>NIXON</character>
 My God? I really sound like that? I 
 thought my voice had more of a Clark 
 Gable quality.
 
 [Leela takes the tape out of Bender�s mouth.]
 
-LEELA
+<character>LEELA</character>
 The jig's up, Nixon. We'll trade you 
 the tape for the body.
 
-NIXON
+<character>NIXON</character>
 Oh, expletive deleted. You've got a 
 deal.
 
-FRY
+<character>FRY</character>
 Hey, I've got one last thought.
 
 [The magic tentacles grab him and start throwing him around again.]
@@ -1081,7 +1081,7 @@ Hey, I've got one last thought.
 [Planet Express: Lounge. Fry, Leela and Farnsworth are sat on 
 the couch holding Earth flags. Enter Bender.]
 
-BENDER
+<character>BENDER</character>
 Ah, it's good to be back in one piece 
 again. Except I can't get these damn 
 bumper stickers off.
@@ -1089,87 +1089,87 @@ bumper stickers off.
 [He turns around and shows them his "Nixon's Head's The One" 
 and "Impeach This!" bumper stickers.]
 
-LINDA
+<character>LINDA</character>
 The sheer drama of this election has 
 driven voter turnout to it's highest 
 level in centuries -- 6%
 
-MORBO
+<character>MORBO</character>
 Exit polls show evil underdog Richard 
 Nixon trailing with an estimated zero 
 votes.
 
-LEELA
+<character>LEELA</character>
 Yes! The system works!
 
-LINDA
+<character>LINDA</character>
 The time is 7:59 and the robot polls 
 are now opening...and the robot vote 
 is in. Nixon has won!
 
-LEELA
+<character>LEELA</character>
 No!
 
-FRY
+<character>FRY</character>
 What?
 
-BENDER
+<character>BENDER</character>
 Get out of town!
 
-FRY
+<character>FRY</character>
 Why would robots vote for Nixon now 
 that he's just a head in a jar?
 
 [Cut to: Nixon's Campaign Headquarters.]
 
-CAMPAIGN MANAGER
+<character>CAMPAIGN MANAGER</character>
 I give you the next president of Earth!
 
 [Nixon comes through the flag with his head atop a massive robot 
 body. He steps on his campaign manager and crushes her.]
 
-NIXON
+<character>NIXON</character>
 (shouting) Nixon's back!
 
 [His robot supporters cheer.]
 
 [Cut to: Planet Express: Lounge.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I can't believe it. He won by a single 
 vote.
 
-BENDER
+<character>BENDER</character>
 Well it ain't my fault. I'm a non-voting 
 felon, thank you.
 
-FRY
+<character>FRY</character>
 Well it's not my fault either 'cause 
 I forgot to vote.
 
-LEELA
+<character>LEELA</character>
 Oh, crud. I knew there was something 
 I meant to do today.
 
-MORBO
+<character>MORBO</character>
 Morbo congratulates out gargantuan 
 cyborg president. May death come quickly 
 to his enemies.
 
 [Linda chuckles.]
 
-[Washington D.C. Street. People run away as Nixon uproots trees 
+[Washington <character>D</character>.C. Street. People run away as Nixon uproots trees 
 and crushes cars to Hail to the Chief.]
 
-NIXON
+<character>NIXON</character>
 Aroo! Who's kicking who around now? 
 Aroo! Aroooo!
 
 [Cut to: Outside White House.]
 
-NIXON
+<character>NIXON</character>
 Knock knock!
 
 [He pounds down the wall with his fists, walks in and laughs.]
 
-THE END</xml>
+<character>THE END</character></xml>

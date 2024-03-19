@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 516
 
-<title>THE DEVIL'S HANDS ARE IDLE PLAYTHINGS</title>
+<title><character>THE DEVIL</character>'S <character>HANDS ARE IDLE PLAYTHINGS</character></title>
 
 <author>Ken Keeler</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -15,7 +15,7 @@ rendition of The Grumpy Snail comes from Fry's room. Bender,
 wearing pyjama trousers, pokes his head around the corner from 
 his room.]
 
-BENDER
+<character>BENDER</character>
 Huh?  I choose to not understand these 
 signs.
 
@@ -25,31 +25,31 @@ signs.
 on his bed playing the holophonor. The green holographic smoke 
 snakes upwards from it but he can't form a picture.]
 
-BENDER
+<character>BENDER</character>
 Aha!
 
 [Fry quickly hides the holophonor behind him.]
 
-FRY
+<character>FRY</character>
 Bender?? I was just not playing the 
 holophonor.
 
 [He wafts the smoke away with his hand.]
 
-BENDER
+<character>BENDER</character>
 Yeah well you should try not stinking 
 at it.
 
-FRY
+<character>FRY</character>
 I am trying. (ashamed) I've been taking 
 lessons.
 
-BENDER
+<character>BENDER</character>
 Lessons? Oh that's rich! Isn't it time 
 you gave up all hope of ever improving 
 yourself in any way?
 
-FRY
+<character>FRY</character>
 I know I should but I just can't. Remember 
 when I had those stomach worms that 
 made me smart? I could play the holophonor 
@@ -60,7 +60,7 @@ to have somebody there. Please?
 
 [Bender sighs.]
 
-BENDER
+<character>BENDER</character>
 Fine I'll go already. Y'know sometimes 
 I wish your real parents were still 
 alive...not often.
@@ -71,7 +71,7 @@ alive...not often.
 Taking The Joy Out Of Music For 20 Years." Fry and Bender ride 
 some Segways on the pavement and Fry crashes his into Bender's.]
 
-BENDER
+<character>BENDER</character>
 Whoa...hey!
 
 [Holophonor School. The room is decorated like an old woman's 
@@ -79,15 +79,15 @@ home, being as the teacher herself is an old woman. A mother
 straightens her son's hair and the teacher approaches Fry and 
 Bender with a tray.]
 
-FRY
+<character>FRY</character>
 Uh...hello Mrs Mellenger.
 
-MRS MELLENGER
+<character>MRS MELLENGER</character>
 Hello Philip.  And you must be Mr Bender. 
 Philip's told me so much about you. 
 Is it true that you're a robot?
 
-BENDER
+<character>BENDER</character>
 I prefer the term "love machine."
 
 [He growls sexfully.]
@@ -102,82 +102,82 @@ as they climb into the clouds. A barrel rolls under them and
 scores 100 points for each like in the Donkey Kong game. The 
 audience applauds. Bender leans over to the kid's mother.]
 
-BENDER
+<character>BENDER</character>
 Wow, your kid is great. How hard did 
 you say you had to hit him?
 
-MOTHER
+<character>MOTHER</character>
 Fairly hard.
 
 [Fry puts My First Holophonor on the music stand. He flips through 
 it, sits down and clears his throat.]
 
-FRY
+<character>FRY</character>
 The...Grumpy Snail.  Sorry.
 
 [He carries on playing then starts playing badly. The snail turns 
 into a slimy, salivating beast and starts growling at the audience. 
 They scream.]
 
-KID
+<character>KID</character>
 (crying) It's too grumpy!
 
 [A man screws up a piece of paper and throws it at Fry. More 
 people throw paper at Fry and the snail disappears.]
 
-FRY
+<character>FRY</character>
 Ow! No! Quit it! Stop it!
 
 [Bender stands up, applauds and cheers. The audience stares at 
 him.]
 
-MRS MELLENGER
+<character>MRS MELLENGER</character>
 Mr Bender, I simply can not teach your 
 child.
 
-BENDER
+<character>BENDER</character>
 Then good day madam!  We hope to see 
 you soon for tea.
 
 [Planet Express: Lounge. Bender and Fry sit at the table with 
 the holophonor.]
 
-FRY
+<character>FRY</character>
 It's hopeless. I can hear all this great 
 music in my head but my stupid hands 
 can't keep up.
 
-BENDER
+<character>BENDER</character>
 Aww, you know what always cheers me 
 up? Laughing at other people's misfortunes.
 
 [He laughs at Fry's misfortune. Enter Leela with a clipboard.]
 
-LEELA
+<character>LEELA</character>
 Hey guys, you missed a great delivery 
 to Space Earth. Where you been all afternoon?
 
-FRY
+<character>FRY</character>
 Uh...a concert.
 
-LEELA
+<character>LEELA</character>
 Ooo was it jazz-noodling? My ex-boyfriend 
 Sean played the sax. I used to listen 
 for hours while he sat naked on my couch 
 and improvised.
 
-BENDER
+<character>BENDER</character>
 So musicians really Rodger your Hammerstein 
 huh?
 
-LEELA
+<character>LEELA</character>
 Yeah, it's weird. Sean was uneducated, 
 unambitious. He was pastey and hunched...
 
-FRY
+<character>FRY</character>
 (quietly) Pretty boy.
 
-LEELA
+<character>LEELA</character>
 ...But when he played I could sense 
 this incredible, beautiful creative 
 soul. Then one day I found someone else's 
@@ -186,14 +186,14 @@ couch fibres on his butt.
 [She walks out into the meeting room, muttering to herself. The 
 door closes behind her and Fry stands up from the table.]
 
-FRY
+<character>FRY</character>
 It could be my beautiful soul sitting 
 naked on her couch if I could just learn 
 to play this stupid thing.
 
 [Bender stands up.]
 
-BENDER
+<character>BENDER</character>
 Oh but you can. Although you may have 
 to metaphorically make a "deal with 
 the devil." And by "devil" I mean "Robot 
@@ -205,7 +205,7 @@ underneath The Inferno and they scream in pain. Beelzebot and
 his band of Hellbots practice the Robot Hell song. He plays his 
 golden fiddle and then suddenly stops.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 God, you hit a sour note about 200 years 
 back Doug!  Let's take it from the top. 
 Ah Bender, Fry. You've come back for 
@@ -213,19 +213,19 @@ more eternal damnation.
 
 [Bender stands up and dust himself off.]
 
-BENDER
+<character>BENDER</character>
 No, this isn't a religious visit. Fry 
 just wants holophonor lessons.
 
 [Fry stands up.]
 
-FRY
+<character>FRY</character>
 Yep. I need to get really good without 
 practicing.
 
 [The Robot Devil cackles evilly.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Hell is full of ten year olds who wanted 
 exactly the same thing. Trouble is, 
 you have what my old music teacher Mrs 
@@ -235,20 +235,20 @@ to master a belt buckle.  Now wouldn't
 it be nice if you had a pair of robot 
 hands to replace them?
 
-FRY
+<character>FRY</character>
 Sure it would.  Oh well. Goodbye.
 
 [He turns around and Bender stops him.]
 
-BENDER
+<character>BENDER</character>
 Fry you smelly idiot, I think he's willing 
 to make some kind of deal with the devil 
 with you.
 
-FRY
+<character>FRY</character>
 He is?  Great! Wait, what's the catch?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 No catch. I'll merely pick a robot at 
 random from somewhere in the universe 
 - probably one you've never even met 
@@ -256,11 +256,11 @@ random from somewhere in the universe
 switch them for yours.  It's just the 
 sort of guy I am, what do you say?
 
-FRY
+<character>FRY</character>
 I don't know. It doesn't seem entirely 
 moral to -
 
-BENDER
+<character>BENDER</character>
 Fry if you don't take this offer right 
 now I will lose all respect for you 
 and punch you.
@@ -268,26 +268,26 @@ and punch you.
 [The Robot Devil giggles and drums his fingers on the huge Wheel 
 Of Robots in anticipation of Fry's decision.]
 
-FRY
+<character>FRY</character>
 Well...alright. You sure I probably 
 won't know him?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Definitely probably not.  Just sign 
 this contract.
 
-BENDER
+<character>BENDER</character>
 Wow.
 
 [Fry signs the contract and the Robot Devil pulls it away from 
 him.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 And here we go!
 
 [He spins the huge wheel and cackles insanely.]
 
-BENDER
+<character>BENDER</character>
 I got a hundred bucks on Rectal-Exambot!
 
 [They watch as the wheels cycles through hundreds of robots. 
@@ -297,48 +297,48 @@ Hookerbot from Hell Is Other Robots. It reaches "Bender" and
 slows down even more and just manages to pass it, finally coming 
 to rest on "Robot Devil." The Robot Devil screams.]
 
-FRY
+<character>FRY</character>
 Robot Devil? I get your hands? Zam!
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Oh what an appallingly ironic outcome.
 
-BENDER
+<character>BENDER</character>
 It's not ironic it's just coincidental. 
 Now fork over those lady-fingers cookie!
 
 [Fry holds out his hands and the Robot Devil sighs. He takes 
 a meat cleaver out of his chest cabinet.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Y'know I only put my name on there as 
 a show of good faith for the other robots.
 
-FRY
+<character>FRY</character>
 Stop being such a baby and chop my hands 
 off.
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Oh very well.
 
 [He very quickly chops and swaps Fry's and his hands. Fry looks 
 at his new hands.]
 
-FRY
+<character>FRY</character>
 (impressed) How'd you do that?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 They're very good hands.
 
 [Fry flexes his new fingers.]
 
-FRY
+<character>FRY</character>
 At last! At last I have the power to 
 make Leela love me.
 
 [The hands grab his around the throat and start to choke him.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Oh sorry, that'll wear off in a couple 
 of days.
 
@@ -349,37 +349,37 @@ choking.]
 Leela, Amy, Zoidberg and Bender are sat around the table. Enter 
 Fry.]
 
-FRY
+<character>FRY</character>
 Check it out everyone. I'm back from 
 hell and I've got the Robot Devil's 
 hands!
 
-AMY
+<character>AMY</character>
 Neat! Let's see a trick.
 
-FRY
+<character>FRY</character>
 Alrighty!
 
 [He spins off Bender's head and starts to completely dismantle 
 him. Then he starts juggling the pieces. Bender panics as he 
 juggles. Enter Scruffy.]
 
-SCRUFFY
+<character>SCRUFFY</character>
 Somebody called the Robot Devil's here 
 to see somebody called Fry.
 
-FRY
+<character>FRY</character>
 Uh-oh.
 
 [He quickly puts Bender back together and runs out.]
 
-BENDER
+<character>BENDER</character>
 Where'd I go just now?
 
 [Planet Express: Entrance. Fry walks into the foyer where the 
 Robot Devil is already standing.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Hello Fry.  Just dropped by to make 
 sure you're as happy with our little 
 deal as I am.  Give me back my hands! 
@@ -388,16 +388,16 @@ in places.
 
 [Fry chuckles.]
 
-FRY
+<character>FRY</character>
 Yeah, they get around! But I'm afraid 
 we had a deal.
 
 [The Robot Devil groans.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 It looks like I wasted a bus trip.
 
-FRY
+<character>FRY</character>
 Yes you did.
 
 [Montage Later that night Fry sits in his bedroom playing The 
@@ -416,7 +416,7 @@ by the grumpy snail. At the side of the screen is a picture of
 Fry in an oval holding his holophonor underneath "Fry's Greatest 
 Holophonor Hits."]
 
-GRUMPY SNAIL [ON TV]
+<character>GRUMPY SNAIL </character>[ON TV]
 Yes, now you can hear holophonor virtuoso 
 Philip Fry play 900 of his classic themes 
 in your own home on this two-record 
@@ -426,7 +426,7 @@ for only $14.99.
 [Fry sits on the couch bored. Zoidberg picks up the phone and 
 starts dialling.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Only $14.99 for a two-record set. Two 
 records! Oh Zoidberg, at last you're 
 becoming a crafty consumer!  Hello? 
@@ -435,28 +435,28 @@ I'll take eight!
 [The doorbell rings. Scruffy walks in from the meeting room and 
 points back the way he came.]
 
-SCRUFFY
+<character>SCRUFFY</character>
 Mr Hedonismbot to see you.
 
-FRY
+<character>FRY</character>
 Show him in.
 
-SCRUFFY
+<character>SCRUFFY</character>
 Very good sir.
 
 [He leaves. Enter Hedonismbot.]
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 Ah Fry, congratulations. Your latest 
 performance was as delectable as dipping 
 my bottom over and over into a bath 
 of the silkiest oils and creams!
 
-FRY
+<character>FRY</character>
 Thank you sir, that's exactly what I 
 was going for.
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 You were the sole diversion in what 
 has been a pale and unamusing season. 
 And so I would feign commission you 
@@ -464,25 +464,25 @@ write an opera.
 
 [He drops a bunch of grapes into his mouth.]
 
-FRY
+<character>FRY</character>
 But, I've never written an opera.
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 And I've never heard one. Still, if 
 you can keep me amused through the overture 
 I shall consider it a smashing success.
 
-FRY
+<character>FRY</character>
 But I wouldn't even know what to write 
 about. Unless...  OK I'll do it. If 
 I can make it about Leela.
 
 [Leela stops eating and turns around.]
 
-LEELA
+<character>LEELA</character>
 Me? Really?
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 A man writing an opera about a woman? 
 Oh sera, how deliciously absurd!  I 
 shall see you at the premiere.
@@ -502,63 +502,63 @@ and sees Fry sat on the balcony playing the holophonor. In his
 image two stick figures dance. He stops playing and writes some 
 notes on a music sheet.]
 
-LEELA
+<character>LEELA</character>
 Is it part of the opera?
 
 [Fry turns around and quickly puts the holophoner down.]
 
-FRY
+<character>FRY</character>
 Leela!  You shouldn't be listening. 
 I-I don't want you to hear it 'til it's 
 done.
 
-LEELA
+<character>LEELA</character>
 But it's so beautiful.
 
-FRY
+<character>FRY</character>
 So's a peacock but you don't eat it 
 'til it's cooked. This has to be perfect. 
 I want you to hear exactly what I hear 
 when I think about you.
 
-LEELA
+<character>LEELA</character>
 Oh Fry. All this time you've had this 
 incredible gift and I never knew. I've 
 been a fool. A fully justified prudent 
 fool.  They're so cold.
 
-FRY
+<character>FRY</character>
 (shouting) No!
 
 [Planet Express: Kitchen. The next morning Bender wanders into 
 the kitchen humming with a towel wrapped around his waist. He 
 opens the fridge and screams. The Robot Devil leaps out of it.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Ah Bender, this is a surprise! For you. 
 Finding me in the refrigerator.
 
-BENDER
+<character>BENDER</character>
 True but at least I don't have the hiccups 
 anymore. What up?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Oh well it so happens I'm in the mood 
 to make a deal with you.
 
 [He puts his arms on Bender's shoulders but Bender pushes him 
 away.]
 
-BENDER
+<character>BENDER</character>
 Forget it, you can't tempt me.
 
 [He walks over and opens a cupboard.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 (tempting) Really? There's nothing you 
 want?
 
-BENDER
+<character>BENDER</character>
 Hm. I forgot you could tempt me with 
 things I want.  Well, I suppose I've 
 always wondered what it would be like 
@@ -566,28 +566,28 @@ to be more annoying.
 
 [The Robot Devil chuckles.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Nothing simpler! And all I ask in return 
 is you hands.  To replace these bony 
 hotdogs!
 
-BENDER
+<character>BENDER</character>
 Grabby and Squeezy? Never! I love these 
 guys!
 
 [The Robot Devil groans.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Is there anything else you would part 
 with?
 
-BENDER
+<character>BENDER</character>
 No, nothing ain't gonna happen.
 
 [Time Lapse. The Robot Devil screws a huge white airhorn into 
 Bender's nose slot.]
 
-BENDER
+<character>BENDER</character>
 Yes! With this built-in stadium airhorn 
 I can really annoy people. And all it 
 cost me was my crotchplate.
@@ -595,18 +595,18 @@ cost me was my crotchplate.
 [He bends over, puts his hand in his chest cabinet and wiggles 
 his hand between his legs.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 You certainly are a shrewd businessman 
 Bender.  Now find someone and give 'em 
 a good blast!
 
-BENDER
+<character>BENDER</character>
 Yeah, that'll teach the first person 
 I see a lesson!
 
 [He walks off.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Ah, my ridiculously circuitous plan 
 is one-quarter complete!
 
@@ -615,7 +615,7 @@ is one-quarter complete!
 [Cut to: Planet Express: Lounge. Amy is sat on the couch eating 
 a buggalo leg. Leela puts her handbag on her shoulder.]
 
-LEELA
+<character>LEELA</character>
 Well, Fry's opera premiere's tomorrow 
 night. I'm off to find a pair of formal 
 gloves that'll fit over my enormous 
@@ -628,37 +628,37 @@ She holds her ears to block out the tremendous noise. Bender
 stops and laughs. The Robot Devil peeks around the corner from 
 the meeting room.]
 
-BENDER
+<character>BENDER</character>
 Pretty annoying, huh Leela?
 
-LEELA
+<character>LEELA</character>
 (shouting) What? Are you talking? Oh 
 God I'm deaf!
 
-BENDER
+<character>BENDER</character>
 Oops. I'm so so sorry Leela. I just 
 wanted to annoy you.
 
-LEELA
+<character>LEELA</character>
 (shouting) What? Oh this is horrible. 
 I won't be able to hear Fry's opera.
 
 [She starts to cry. The Robot Devil stands at the end of the 
 corridor watching them.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Ah how delightfully ironic.
 
-BENDER
+<character>BENDER</character>
 It's not ironic, it's just mean. Take 
 this!
 
 [He blows the airhorn weakly.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Ooh! Out of aerosol? Also ironic!
 
-BENDER
+<character>BENDER</character>
 Oh yeah? Well bite my shiny metal - 
 (shouting) Oh nooo!
 
@@ -670,18 +670,18 @@ on an upper level and wait for flying booths to carry them off
 to the upper gallery. The entire Planet Express crew except Fry 
 sit a few rows back from the front wearing formal clothes.]
 
-LEELA
+<character>LEELA</character>
 Nobody tell Fry I'm deaf. If he found 
 out I couldn't hear his opera, it'd 
 break his heart.
 
-BENDER
+<character>BENDER</character>
 OK deafo.
 
 [A booth carrying Hedonismbot and his servants flies over the 
 stage.]
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 Courtesans and gentle fops. I bid you 
 welcome to my opera.  Let us cavort 
 like the Greeks of old. (sexfully) You 
@@ -691,12 +691,12 @@ know the ones I mean.
 the orchestra stops and a spotlight follows Fry as he walks across 
 the stage with his holophonor. The audience applauds and cheers.]
 
-LEELA
+<character>LEELA</character>
 Yay Fry!
 
 [Zoidberg leans forward to some people in front.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I watch TV with that guy!
 
 [Fry bows and sits down. He starts to play. The smoke forms an 
@@ -706,24 +706,24 @@ Orphanarium. The people are real actors with holographic costumes.
 A group of Holo-orphans watch as a Holo-Vogel steps out of the 
 building and sees holo-Leela in a basket.]
 
-HOLO-VOGEL
+<character>HOLO</character>-<character>VOGEL</character>
 (singing) Who is this one-eyed female 
 baby Moses?
 
 With courage in her female baby smile.
 
-HOLO-ORPHANS
+<character>HOLO</character>-<character>ORPHANS</character>
 (singing) A saviour from the stars,
 
 Or something stranger still.
 
-HOLO-LEELA
+<character>HOLO</character>-<character>LEELA</character>
 (singing) Or just some lonely filthy 
 starving child.
 
 [In the audience Leela leans to Amy.]
 
-LEELA
+<character>LEELA</character>
 Amy, Fry's looking at me. What am s'posed 
 to be feeling?  Ah!
 
@@ -734,7 +734,7 @@ Fry smiles and carries on playing.]
 in it's hands. Holo-Bender watches as Holo-Leela points a laser 
 at it.]
 
-HOLO-BENDER
+<character>HOLO</character>-<character>BENDER</character>
 (singing) Leela! Leela Leela save him!
 
 Save Fry, save Fry,
@@ -754,7 +754,7 @@ Goodbye!
 [He turns away but Godzilla slams his foot down and blocks his 
 path. In the audience Bender watches with great interest.]
 
-BENDER
+<character>BENDER</character>
 I don't recall ever fighting Godzilla 
 but that is so what I would have done.
 
@@ -763,82 +763,82 @@ patrons are gathered outside the auditorium. Calculon and Preacherbot
 talk while Florp laughs at one of Humorbot 5.0's jokes. Amy and 
 Hermes are at the bar.]
 
-AMY
+<character>AMY</character>
 One diet double Martini please.
 
-BARTENDER
+<character>BARTENDER</character>
 And for you sir?
 
-HERMES
+<character>HERMES</character>
 I'll just have a Shirley Hemple.
 
 [Tinny Tim wanders in with a newspaper, passing Leela who is 
 standing by the coat room door.]
 
-TINNY TIM
+<character>TINNY TIM</character>
 Extra! Extra! World's greatest opera 
 only half over!
 
 [Leela reads the headline.]
 
-LEELA
+<character>LEELA</character>
 Half over? Oh, I'd give anything to 
 hear the rest.
 
 [The coat door opens and Beelzebot is inside.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Anything?  Thank you sir.  Now, as I 
 was saying, anything? Because I can 
 give you new robotic ears!
 
 [He points at his ears.]
 
-LEELA
+<character>LEELA</character>
 What? You can give me new ears? Wait, 
 what seemingly reasonable thing do you 
 want in return?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Just your hands my dear.
 
-LEELA
+<character>LEELA</character>
 Whatever you said, forget it!
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Alright, just one hand.
 
-LEELA
+<character>LEELA</character>
 Just...my left hand? Um...uh...
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 Please take your seats for act two.
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 But I'm not done vomiting.
 
 [He laughs. Leela looks at the people behind her.]
 
-LEELA
-I can't stand it!  OK. You can have 
+<character>LEELA</character>
+I can't stand it!  <character>OK</character>. You can have 
 my hand.
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Wonderful!  Just sign here.  Calculon 
 old friend, I'm afraid I need your ears.
 
-CALCULON
+<character>CALCULON</character>
 Well I do owe you for giving me this 
 unholy (dramatically) acting talent!
 
 [The Robot Devil takes Calculon's ears off his head and puts 
 them into Leela's ears. She looks around and smiles.]
 
-LEELA
+<character>LEELA</character>
 I can hear! I can hear like a safecracker! 
 Hey, aren't you gonna take my hand?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 In good time, you go enjoy the opera.
 
 [Leela gives him a shifty look but runs back into the auditorium 
@@ -849,13 +849,13 @@ the rest of the crew and sits back in her seat. Fry plays the
 scene in Robot Hell where the Robot Devil decided who's hands 
 to give him. Holo-Fry sees Leela as a winged angel.]
 
-HOLO-FRY
+<character>HOLO</character>-<character>FRY</character>
 (singing) To win Leela's heart with 
 the holophonor's art,
 
 I need hands of transcendental quickness.
 
-HOLO-ROBOT DEVIL
+<character>HOLO</character>-<character>ROBOT DEVIL</character>
 (singing) Well I don't see any danger,
 
 In gambling with a stranger,
@@ -874,30 +874,30 @@ I'm stupider than you in every way!
 
 [The real Robot Devil jumps onto the stage.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 Stupider? Pah! This opera's as lousy 
 as it is brilliant!  Your lyrics lack 
 subtlety. You can't just have your characters 
 announce how they feel. That makes me 
 feel angry.
 
-FRY
+<character>FRY</character>
 Look, what do you want?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 (singing) I want my hands back.
 
 [He laughs menacingly and columns of flame explode behind him. 
 Fry stands up.]
 
-FRY
+<character>FRY</character>
 Never!
 
 (singing)A deal's a deal,
 
 Even with a dirty dealer.
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 (singing) Very well,
 
 Then I'll take what I want from Leela.
@@ -905,16 +905,16 @@ Then I'll take what I want from Leela.
 [The spotlight moves from the stage to Leela. Beelzebot extends 
 his arms and pulls her from her seat onto the stage.]
 
-LEELA
+<character>LEELA</character>
 Whoa!
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 (singing) Leela has promised me her 
 hand.
 
 [The audience gasps.]
 
-LEELA
+<character>LEELA</character>
 (singing) Fry, you do not understand.
 
 [The music slows down and the spotlight narrows as Leela walks 
@@ -937,15 +937,15 @@ Effective though just a bit garish,
 In return without shedding a tear I agreed that I'd give him 
 my hand...
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 (singing) ...In marriage!
 
 [Fry gasps.]
 
-LEELA
+<character>LEELA</character>
 What?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 (singing) You'd give me your hand in 
 marriage.
 
@@ -953,33 +953,33 @@ marriage.
 through some opera glasses, though are just as thick as his normal 
 ones.]
 
-HERMES
+<character>HERMES</character>
 (singing) Is this really happening or 
 just being staged?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (singing) It can't be real -
 
-AMY
+<character>AMY</character>
 (singing) Not if Leela is engaged!
 
-LEELA
+<character>LEELA</character>
 (singing) That isn't what I meant,
 
 That isn't what I signed.
 
 [The Robot Devil takes the contract out of his chest cabinet.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 (singing) You should have checked the 
 wording in the fine...  Print!
 
-LEELA
+<character>LEELA</character>
 (reading) I'll give you my hand...
 
 [In the audience Bender reads from a dictionary.]
 
-BENDER
+<character>BENDER</character>
 (singing) The use of words expressing 
 something other than their literal intention,
 
@@ -988,7 +988,7 @@ Now that is "irony!"
 [The Robot Devil pulls Preacherbot out of his seat and onto the 
 stage.]
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 (singing) I will marry her now and confine 
 her to hell,
 
@@ -1007,7 +1007,7 @@ Unless Fry you surrender my hands!
 [Fry looks at the hands on his wrists. The spotlight narrows 
 over him.]
 
-FRY
+<character>FRY</character>
 (singing) Destiny has cheated me by 
 forcing me to decide upon,
 
@@ -1027,31 +1027,31 @@ Then he probably won't want me dating her.
 [The audience applauds and cheers. Nixon sits next to Morbo and 
 wife.]
 
-NIXON
+<character>NIXON</character>
 Arooo!
 
 [Zapp the linguist sits on a balcony with a date.]
 
-ZAPP
+<character>ZAPP</character>
 Bray-vo! Enn-core!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (singing) I can't believe the devil 
 is so unforgiving.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 (singing) I can't believe everyone is 
 just ad-libbing!
 
 [Leela struggles to get out of Beelzebot's hold but he is holding 
 her too tightly. Fry gazes at his hands.]
 
-PREACHERBOT
+<character>PREACHERBOT</character>
 (singing) By the power vested in me,
 
 By the state of New New York -
 
-FRY
+<character>FRY</character>
 No!  Stop! Take my hands!
 
 (singing) You evil metal dork!
@@ -1060,7 +1060,7 @@ No!  Stop! Take my hands!
 out his cleaver and chops his hands off Fry's wrists. Leela gasps. 
 The lights dim.]
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 Surgery in an opera? How wonderfully 
 decadent and just as I was beginning 
 to lose interest.  The chocolate icing! 
@@ -1069,11 +1069,11 @@ Oh my!
 [The Robot Devil screws his hands back onto his wrists and Fry 
 looks at his own.]
 
-FRY
+<character>FRY</character>
 My hands. My horrible human hands.  
 And what did you do to my nails?
 
-ROBOT DEVIL
+<character>ROBOT DEVIL</character>
 I cleaned them. Now if you'll excuse 
 me it's my poker night and I feel lucky. 
 So it's back to hell for me. Come on 
@@ -1081,21 +1081,21 @@ Nixon!
 
 [He picks up Nixon's jar.]
 
-NIXON
+<character>NIXON</character>
 Huh?
 
 [They vanish in a flash of smoke and flame. The audience murmur 
 in confusion and don't notice the Robot Devil running out of 
 the auditorium behind them.]
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 Less reality, more fantasy. Resume the 
 opera.
 
-FRY
+<character>FRY</character>
 But I can't play anymore.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 (shouting) Yes you can. The beauty was 
 in your heart, not your hands.  The 
 music's bad and you should feel bad.
@@ -1103,17 +1103,17 @@ music's bad and you should feel bad.
 [The audience gets up and walks out, throwing paper at Fry along 
 the way.]
 
-FRY
+<character>FRY</character>
 Ah! Ooo, ah, whoa, hey!
 
 [Outside Metropolitan House Of Opera. The audience flock out 
 of the opera house. Tinny Tim has a new newspaper.]
 
-TINNY TIM
+<character>TINNY TIM</character>
 (shouting) Extra! Extra! Greatest opera 
 of all time sucks!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I'll take eight!
 
 [He hands Tinny Tim some money and picks up a pile of newspapers.]
@@ -1122,7 +1122,7 @@ I'll take eight!
 the empty auditorium. He puts his holophonor on the floor and 
 gets up to leave.]
 
-LEELA
+<character>LEELA</character>
 Please don't stop playing Fry. I wanna 
 hear how it ends.
 
@@ -1133,4 +1133,4 @@ cartoon-like image of him and Leela who turn to each other and
 take hold of one another's hand. They kiss, turn around and walk 
 away towards the horizon, never taking their eyes off each other.]
 
-THE END</xml>
+<character>THE END</character></xml>

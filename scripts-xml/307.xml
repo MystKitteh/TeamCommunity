@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 307
 
-<title>THE DAY THE EARTH STOOD STUPID</title>
+<title><character>THE DAY THE EARTH STOOD STUPID</character></title>
 
 <author>Jeff Westbrook & David X. Cohen</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -21,10 +21,10 @@ There are stalls selling cream, Soylent Chow, Kibbles 'n' Snouts
 and flea collars for giant fleas. Leela carries Nibbler and a 
 big purple bag over her shoulder.]
 
-AMY
+<character>AMY</character>
 Is Nibbler stoked for the big pet show?
 
-LEELA
+<character>LEELA</character>
 He ought to be with all the strict training 
 I've been putting him through.  Nibbler: 
 Roll over and you get a ham.  Roll over. 
@@ -33,14 +33,14 @@ Who wants a ham?
 
 [He takes it and swallows it whole. Farnsworth reads a pamphlet.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Zooka barooka! First prize is $500 and 
 a year's supply of dog food!
 
-BENDER
+<character>BENDER</character>
 "$500", you say?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 "Dog food", you say?
 
 [He licks his tendrils.]
@@ -48,7 +48,7 @@ ZOIDBERG
 [Time Lapse. The sheep herding trial has begun. A collie herds 
 four sheep into a pen and the staff watch from the bleachers.]
 
-FRY
+<character>FRY</character>
 Man, that's dog's gonna be hard to beat. 
 Look at him bring in the sheep! One 
 sheep, two sheep......three sheep.
@@ -56,7 +56,7 @@ sheep, two sheep......three sheep.
 [He falls asleep on Farnsworth's shoulder. Farnsworth carries 
 on eating his popcorn.]
 
-LEELA
+<character>LEELA</character>
 The dog's good, but our real competition 
 is the Hypno-Toad.  Your turn, Nibbler, 
 honey. Herd those sheep!
@@ -64,12 +64,12 @@ honey. Herd those sheep!
 [Nibbler scurries towards the bleating sheep and the crew eagerly 
 watch.]
 
-AMY
+<character>AMY</character>
 Come on, Nibbler!
 
 [They cringe as Nibbler eats the sheep. He coughs up the bells.]
 
-BENDER
+<character>BENDER</character>
 Ma'am, I have a late entry.  My hard-shelled 
 wooping terrier, Mr. Zoidberg.
 
@@ -79,29 +79,29 @@ woops and waves his claws in the air.]
 [Time Lapse. The crowds cheer for Zoidberg and Bender. Zoidberg 
 scurries through a tunnel with Bender whipping him as he goes.]
 
-BENDER
+<character>BENDER</character>
 Faster! Faster.
 
 [Zoidberg woops. He comes out of the tunnel, jumps on to a balance 
 beam and somersaults across it. Bender hits him again.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Ow!
 
-BENDER
+<character>BENDER</character>
 Suck in that gut! You wanna be spayed?
 
 [Time Lapse. Zoidberg stands on a table and a judge inspects 
 him. He looks in his mouth and then tickles his arm. Zoidberg 
 laughs.]
 
-BENDER
+<character>BENDER</character>
 Silence, you cur! Puff out that brisket!
 
 [Time Lapse. Zoidberg does a Spanish flamenco for the judges 
 in the talnt competition and Bender watches from ringside.]
 
-BENDER
+<character>BENDER</character>
 I should be weeping! I'm not weeping!
 
 [He chases Zoidberg and the judges look at each other and shrug.]
@@ -110,13 +110,13 @@ I should be weeping! I'm not weeping!
 the arena and pass Glab with a unicorn-cat. Fry sees what looks 
 like an invisible-dog-leash and laughs.]
 
-FRY
+<character>FRY</character>
 I love these things!
 
 [It's a real invisible dog and it bites Fry's ankle. He screams. 
 Nibbler is being inspected by the judge.]
 
-LEELA
+<character>LEELA</character>
 Shake paws, Nibbler. Come on, shake. 
 He might be a little hungry. Shake, 
 boy. Usually he's had more ham by now. 
@@ -130,26 +130,26 @@ cats jump on them, making the people scream.]
 
 [Time Lapse. The awards ceremony begins.]
 
-JUDGE #1
+<character>JUDGE #1</character>
 Third prize, a party-sized keg of guinea 
 pigs, goes to Dave Spiegel and his owner, 
 Fluffers.  Second prize, this lovely 
 afghan made from an Afghan, goes to 
 Bender and his wooping terrier.
 
-BENDER
+<character>BENDER</character>
 Second place?  That's a fancy word for 
 losing.  You didn't stick your landing!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Forgive me, my friend.
 
-BENDER
+<character>BENDER</character>
 Never!
 
 [He whips him again.]
 
-JUDGE #1
+<character>JUDGE #1</character>
 And before we announce the winner we 
 have a special award for a first-time 
 contestant: Miss Leela and her mystery 
@@ -157,10 +157,10 @@ pet, Nibbler!
 
 [Leela gasps. The crowd applauds.]
 
-LEELA
+<character>LEELA</character>
 Me? Award? Him? Me? Good?
 
-JUDGE #1
+<character>JUDGE #1</character>
 That's just the kind of eloquence you'd 
 expect from the owner of Dumbest Pet 
 in Show.  And the grand prize winner......the 
@@ -170,33 +170,33 @@ Hypno-Toad.  All glory to the Hypno-Toad.]
 the conference table. Nibbler is asleep in Leela's arms. She 
 sighs.]
 
-LEELA
+<character>LEELA</character>
 Maybe they're right. Maybe Nibbler is 
 dumb.
 
-FRY
+<character>FRY</character>
 Don't listen to them, Leela. People 
 said I was dumb, but I proved them.
 
 [Enter Farnsworth.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Good news, everyone. We were supposed 
 to make a delivery to the planet Tweenis 
 12 but it's been completely destroyed.
 
-LEELA
+<character>LEELA</character>
 Why is that good news?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 They paid in advance.
 
 [Comic twang. Bender bangs his chest.]
 
-BENDER
+<character>BENDER</character>
 Excuse me.
 
-HERMES
+<character>HERMES</character>
 This is mighty strange.  First, the 
 civilisation Space Rome collapsed, then 
 Don Martin 3 went caflooie and now Tweenis 
@@ -204,35 +204,35 @@ Don Martin 3 went caflooie and now Tweenis
 
 [The three holographic planets are replaced with red X's.]
 
-FRY
+<character>FRY</character>
 Looks like this planet is next in line.
 
-LEELA
+<character>LEELA</character>
 That's Earth.  The planet we live on.
 
-FRY
+<character>FRY</character>
 I'd hate to be those guys.
 
 [Nibbler starts sniffing. He jumps off Leela's lap and starts 
 whimpering.]
 
-HERMES
+<character>HERMES</character>
 What's got into him? He's twitching 
 like Zoidberg when someone mentions 
 the word "food".
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 What now?
 
 [Cut to: Outside Planet Express. Nibbler jumps out of a window.]
 
-LEELA
+<character>LEELA</character>
 (shouting) No! Nibbler, come back!
 
 [Alley. Night has fallen. Leela enters the alley carrying another 
 joint.]
 
-LEELA
+<character>LEELA</character>
 Too bad Nibbler's not around. I guess 
 I'll have to eat this raw, dripping 
 ham by myself.  Nibbler?  Nibbler, you're 
@@ -249,39 +249,39 @@ on the Planet Express building and turn it blue.]
 [Cut to: Planet Express: Lounge. Bender sits on the couch mumbling 
 and the room glows blue around him. Enter Fry.]
 
-FRY
+<character>FRY</character>
 Leela back yet?
 
-BENDER
+<character>BENDER</character>
 Fry, help me! My heart stopped beating!
 
-FRY
+<character>FRY</character>
 You don't have a heart; you're a robot.
 
-BENDER
+<character>BENDER</character>
 Sure...right. Robot!  Oh, Fry! My skin's 
 all dry and clanky.
 
-FRY
+<character>FRY</character>
 Well, yeah. Robots are made of metal.
 
-BENDER
+<character>BENDER</character>
 Am I a robot?
 
-FRY
+<character>FRY</character>
 Bender, if this is some kind of scam, 
 I don't get it. You already have my 
 power of attorney.
 
 [He walks off towards the meeting room.]
 
-BENDER
+<character>BENDER</character>
 Fry!  My skin!
 
 [Planet Express: Farnsworth's Lab. Farnsworth has his head between 
 the balls of a Newton's Cradle.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Ow. Ow. Ow.  I'm a genius. Ow. Ow.
 
 [Fry leaves without saying anything.]
@@ -290,15 +290,15 @@ Ow. Ow. Ow.  I'm a genius. Ow. Ow.
 examination table. He sticks one of his tendrils out and trys 
 to clack it with is claw. Enter Fry.]
 
-FRY
+<character>FRY</character>
 Dr. Zoidberg? Why is everyone acting 
 so weird?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Zoidy want balloon! Want balloon now! 
 Zoidy want go outside!
 
-FRY
+<character>FRY</character>
 (angry) I just let you back in!
 
 [Nibbler's Ship. The ship flies through the vacuum of space. 
@@ -306,7 +306,7 @@ The ship is so small that Leela is squashed into the back. The
 whole top section is a transparent dome. Part of Leela's ponytail 
 is caught in it and it blows in the wind outside.]
 
-LEELA
+<character>LEELA</character>
 This is unbelievable. I thought you 
 were a furry little moron. But here 
 you are flying an adorable spaceship. 
@@ -329,11 +329,11 @@ water on the floor. Fry closes his mouth and pushes his head
 forward.]
 
 [Cut to: Planet Express: Lounge. Bender, Zoidberg, Amy and Farnsworth 
-stare open-mouthed at the TV. The TV that isn't on. Fry sits 
+stare open-mouthed at the <character>TV</character>. The TV that isn't on. Fry sits 
 on the couch and turns it on. Morbo spins around in his chair 
 and Linda watches. He falls off and she laughs.]
 
-LINDA
+<character>LINDA</character>
 You fell!  Hi! Today, some bad things 
 happened. One bad things was a train 
 got crashed in New Jersey. Wanna see? 
@@ -343,56 +343,56 @@ voice) "I'm sending in more trains!"
 
 [A train crashes into the wreckage and commuters run onto it.]
 
-WOMAN
+<character>WOMAN</character>
 Go!
 
-MAN
+<character>MAN</character>
 Wait for me! Wait for me!
 
 [The picture returns to the studio.]
 
-MORBO
+<character>MORBO</character>
 Morbo can't understand his TelePrompTer. 
 He forgot how you say that letter that 
 looks like a man with a hat.
 
-LINDA
+<character>LINDA</character>
 It's a "T". It goes "tuh".
 
-MORBO
+<character>MORBO</character>
 Hello, little man. I will destroy you!
 
 [Fry turns the TV off.]
 
-FRY
+<character>FRY</character>
 Man, even the news monster is acting 
 strange. What are we gonna do?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Duh, I know! Let's play the lottery!
 
-AMY
+<character>AMY</character>
 No. Let's buy internet stock!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 On margin! Zoidy wanna buy on margin!
 
 [Hermes is wrapped in a towel on the other side of the room and 
 holds a piece of wood in front of his face.]
 
-HERMES
+<character>HERMES</character>
 Look at me! I'm invisible!
 
-FRY
+<character>FRY</character>
 Wait a minute! I know what's going on 
 here. You've all become idiots!
 
-BENDER
+<character>BENDER</character>
 Hey, let's all join the Reform Party!
 
 [Everyone cheers.]
 
-HERMES
+<character>HERMES</character>
 Oh, yeah!
 
 [They run out.]
@@ -408,17 +408,17 @@ obelisks with both alien languages carved onto them.]
 [Hall of Forever. Nine of Nibbler's race sit on raised chairs 
 in a dark chamber. Enter Nibbler and Leela.]
 
-KEN
+<character>KEN</character>
 Welcome back, Lord Nibbler, Ambassador 
 to Earth, homeworld of the pizza bagel.
 
 [Nibbler speaks plain English with a deep voice.]
 
-NIBBLER
+<character>NIBBLER</character>
 Thank you. I bear many receipts for 
 reimbursement.
 
-FIONA
+<character>FIONA</character>
 The four welcomes of friendship to you 
 as well, Leela. We shall manipulate 
 your mind so we appear to be speaking 
@@ -428,17 +428,17 @@ child.
 [She pulls the hood of her robe off her head. Her eyestalk has 
 a little orange bow tied around it.]
 
-LEELA
+<character>LEELA</character>
 I'm not afraid.
 
-FIONA
+<character>FIONA</character>
 Uh, good. Good.
 
-LEELA
+<character>LEELA</character>
 So, your real name is Lord Nibbler? 
 That's a coincidence.
 
-NIBBLER
+<character>NIBBLER</character>
 That name is for your sake. In the time 
 it would take to pronounce one letter 
 of my true name a trillion cosmoses 
@@ -447,35 +447,35 @@ into eternal night.
 
 [Leela laughs and pinches Nibbler's cheek.]
 
-LEELA
+<character>LEELA</character>
 Oh, you're all so cute!
 
-KEN
+<character>KEN</character>
 No, we are not.  We Nibblonians are 
 an ancient and powerful race. Behold. 
 When the universe was forged in the 
 crucible of the big bang, our mighty 
 race was already 17 years old.
 
-LEELA
+<character>LEELA</character>
 Aww!
 
 [Fiona growls. The hologram changes and shows a rocky planet 
 with a lightning storm overhead.]
 
-KEN
+<character>KEN</character>
 For the first millisecond of time, things 
-were OK. But then there arose a terrible 
+were <character>OK</character>. But then there arose a terrible 
 enemy: The Brain Spawn.  Ever since, 
 we have waged unceasing war against 
 these dreadful --
 
 [A Nibblonian chef opens a door into the chamber.]
 
-NIBBLONIAN CHEF
+<character>NIBBLONIAN CHEF</character>
 Lunch is ready.
 
-KEN
+<character>KEN</character>
 Then let the feast of a thousand hams 
 begin.
 
@@ -485,35 +485,35 @@ from inside and the Nibblonians burp.]
 [Cut to: Hall of Forever. Leela is sat on the floor tickling 
 Ken and Fiona like cats.]
 
-LEELA
+<character>LEELA</character>
 So why are these Brain Spawn attacking 
 Earth, Nibbler?
 
 [Above Nibbler is a hologram of the Brain Spawn flying around 
 New New York.]
 
-NIBBLER
+<character>NIBBLER</character>
 The Brain Spawn hate all consciousness. 
 The thoughts of others screech at them 
 like the forced laughs of a billion 
 art house movie patrons.
 
-KEN
+<character>KEN</character>
 Thus, they travel from world to world 
 making everyone stupid in order to wipe 
 out all thought in the universe.
 
-LEELA
+<character>LEELA</character>
 Wipe out all thought? My God! They're 
 like flying televisions.
 
-FIONA
+<character>FIONA</character>
 And even we are powerless to stop them, 
 fearsome though we are.
 
 [She purrs.]
 
-NIBBLER
+<character>NIBBLER</character>
 There is but one being that can resist 
 them. A child of destiny whose bizzare 
 brain wave pattern makes him immune 
@@ -522,7 +522,7 @@ hope of the universe.  The fate of your
 world - perhaps all worlds - rests in 
 his special mind.
 
-LEELA
+<character>LEELA</character>
 Now, when you say "special"...
 
 [Planet Express Balcony. Fry stands on the balcony looking at 
@@ -531,7 +531,7 @@ the sky and cars crash in the street. A man crashes his car into
 a lamppost, opens the dome and slumps over dead. Fry picks up 
 a bullhorn and talks into the wrong end.]
 
-FRY
+<character>FRY</character>
 Attention New New Yorkers. Stop acting 
 so stupid!
 
@@ -541,7 +541,7 @@ and falls over.]
 [Nibblonian Ship. The large circular ship orbits the Earth and 
 is flanked by lots of smaller ships.]
 
-KEN
+<character>KEN</character>
 Nibblonian fleet holding at perimeter 
 of moron zone, formerly known as "Earth".
 
@@ -550,55 +550,55 @@ from Star Trek, albeit a lot more pink. Ken, Fiona and Nibbler
 all sit on one big love-heart-shaped chair in the middle of the 
 room.]
 
-LEELA
+<character>LEELA</character>
 Why would Fry be immune to the flying 
 brains? Because he doesn't shower?
 
-FIONA
+<character>FIONA</character>
 The Brain Spawn suppress intelligence 
 by attacking the delta brain wave. Every 
 animal and robot in the universe generates 
 this wave, as do certain trees.
 
-NIBBLER
+<character>NIBBLER</character>
 Fry, however, does not.
 
-FIONA
+<character>FIONA</character>
 Somehow he has cobbled together a random 
 assortment of other brainwaves into 
 a working mind.
 
-LEELA
+<character>LEELA</character>
 Like a prom dress made from carpet remnants.
 
-NIBBLER
+<character>NIBBLER</character>
 Yes, like your prom dress.
 
-KEN
+<character>KEN</character>
 The Brain Spawn are commanded by a giant 
 evil brain with a gooey centre of pure 
 hate.
 
-FIONA
+<character>FIONA</character>
 Only Fry, with is superior, yet inferior 
 mind, can approach him. You must tell 
 him to disable it. We will do the rest.
 
-LEELA
+<character>LEELA</character>
 You can count on me.
 
-FIONA
+<character>FIONA</character>
 No we can't. Once on Earth, you will 
 be too stupid to remember the message.
 
 [Ken nods.]
 
-NIBBLER
+<character>NIBBLER</character>
 That's why we wrote it down for you.
 
 [He pins the note to the front of Leela's top.]
 
-KEN
+<character>KEN</character>
 We've also prepared a bag lunch and 
 some mittens.
 
@@ -608,51 +608,51 @@ of them, Fry has set up a classroom situation. He has written
 "Fry's Dumb School" on a blackboard and there is a cardboard 
 box in front of it.]
 
-FRY
+<character>FRY</character>
 Time to re-educate you duncebags. We'll 
 start with US presidents.  This is our 
 first president, George Washington. 
 Let's review. Who was our first president?
 
-AMY
+<character>AMY</character>
 Umm...
 
-BENDER
+<character>BENDER</character>
 A pickle jar?
 
-WASHINGTON
+<character>WASHINGTON</character>
 Thomas Jefferson?
 
 [There is a screeching sound from outside. Leela crashes through 
 the window in Nibbler's ship. It glides to a halt and she steps 
 out of the smoking wreckage.]
 
-FRY
+<character>FRY</character>
 Leela! I've been so worried. Are you 
 a bonehead?
 
-LEELA
-I...have to tell...must...important...something...
+<character>LEELA</character>
+<character>I</character>...have to tell...must...important...something...
 
-FRY
+<character>FRY</character>
 Whoa, whoa! Slow down. You're going 
 a mile a minute.
 
 [Leela sees the note on her top, takes it off and hands it to 
 him.]
 
-LEELA
+<character>LEELA</character>
 This! You for this!
 
-FRY
+<character>FRY</character>
 Thanks!
 
 [He blows hit nose on it, screws it up and throws it in the fire.]
 
-LEELA
+<character>LEELA</character>
 No!  Ow! Fire hot.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 The professy will help!  Fire indeed 
 hot!
 
@@ -660,30 +660,30 @@ hot!
 over the professor's arm. Arthur's head falls out too and lands 
 on the floor.]
 
-ARTHUR
+<character>ARTHUR</character>
 Oh! Chester A. Arthur fall down.
 
-LEELA
+<character>LEELA</character>
 Brain. Brain make people dumb.
 
-FRY
+<character>FRY</character>
 No, Leela. Brain make people smart.
 
 [He taps his head. Behind him, two Brain Spawn appear in the 
 broken window. Leela growls and turns him around. He sees the 
 brains and screams.]
 
-LEELA
+<character>LEELA</character>
 You go fight biggest brain of all.
 
-FRY
+<character>FRY</character>
 Even bigger than those? Holy nuts! Where 
 is it?
 
-LEELA
+<character>LEELA</character>
 I 'unno!
 
-FRY
+<character>FRY</character>
 Hm. A giant brain is basically a giant 
 nerd. And where would a giant nerd be? 
 The libary!
@@ -702,23 +702,23 @@ door ajar.]
 [Cut to: New New York Public Library: Ancient Literature. A huge 
 brain hovers over a table reading books.]
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 Pathetic human race. Arranging their 
 knowledge by category just made it easier 
 to absorb. Dewey, you fool: Your decimal 
 system has played right into my hands! 
 What do you want?
 
-FRY
+<character>FRY</character>
 I'm here to kick your ass.
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 Wishful thinking. We have long since 
 evolved beyond the need for asses.  
 Odd. My stupefaction field is having 
 no effect on your ability to think.
 
-FRY
+<character>FRY</character>
 That's right. And I think you'll find 
 that a little knowledge is a dangerous 
 thing!  OK, better think of a new plan. 
@@ -726,18 +726,18 @@ Come on, Fry, think!  Thinking...thinking...
 
 [There is a buzzing sound and the brain shivers.]
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 Oh! Stop that!
 
-FRY
+<character>FRY</character>
 Hey! Thinking hurts him. Maybe I can 
 think of a way to use that.  Aha! Prepare 
 to be thought at. Leela, give me a topic.
 
-LEELA
+<character>LEELA</character>
 Duh...
 
-FRY
+<character>FRY</character>
 Seriously, I can't think of anything. 
 Gotta find something to make me think. 
 (reading) Hardy Boys. (talking) Too 
@@ -748,7 +748,7 @@ Vanities!
 [He reads it and the buzzing returns. The brain sinks into the 
 corner of the room.]
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 No! It's unbearable!
 
 [Cut to: Outside New New York Public Library. The Brain Spawn 
@@ -756,27 +756,27 @@ outside drop like flies.]
 
 [Cut to: Nibblonian Ship. The Nibblonians watch this on a screen.]
 
-FIONA
+<character>FIONA</character>
 The brains are weakening.  Nibblonians 
 to Nibble stations. Prepare cuddle bug 
 for deployment in 40 nibblets.
 
 [Nibbler sighs.]
 
-NIBBLER
+<character>NIBBLER</character>
 Sometimes I fear we are cute.
 
-FIONA
+<character>FIONA</character>
 Oh, niggle-snoosh!
 
 [New New York Public Library: Ancient Literature. The Big Brains 
 purple glow has turned green. It groans as Fry carries on reading.]
 
-FRY
+<character>FRY</character>
 Take that! And that! This sentence I 
 don't understand but take this one!
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 You have not won yet.  Each book in 
 this room is a gateway to a mental realm 
 and I shall take you there and imprison 
@@ -784,48 +784,48 @@ you forever.
 
 [It envelopes a book and Fry and Leela.]
 
-LEELA
+<character>LEELA</character>
 Icky!
 
 [Cut to: Herman Melville's Moby Dick. Leela and Fry are on a 
 dinghy in the middle of the ocean.]
 
-FRY
+<character>FRY</character>
 Where are we?
 
 [They look around and see Captain Ahab and Queequeg on the boat 
 with them.]
 
-AHAB
+<character>AHAB</character>
 A gold doubloon to the man who first 
 spies the white whale.
 
 [The Big Brain rams the side of the boat from the water.]
 
-QUEEQUEG
+<character>QUEEQUEG</character>
 Big whale over there.
 
-AHAB
+<character>AHAB</character>
 I saw it first!
 
 [He pockets the gold and gives a shifty look. Fry is about to 
 harpoon the brain when Queequeg grabs his arm.]
 
-QUEEQUEG
+<character>QUEEQUEG</character>
 Wait! That no white whale. It grey, 
 pink-y whale!
 
-FRY
+<character>FRY</character>
 Queequeg, let go of me! I have to kill 
 it!
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 Farewell! You will all be trapped in 
 this dense, symbolist tome forever!
 
 [It dives.]
 
-FRY
+<character>FRY</character>
 Follow him! It's our only way out!
 
 [He dives in, followed by Ahab, Queequeg and Leela.]
@@ -838,26 +838,26 @@ book.]
 is painting the fence and the characters from Moby Dick are with 
 Fry and Leela.]
 
-FRY
+<character>FRY</character>
 Excuse me, have you seen a giant brain?
 
-TOM SAWYER
+<character>TOM SAWYER</character>
 Yep. I let him help me whitewash Aunt 
 Polly's fence.
 
 [He pushes open the gate, revealing the Brain wearing a straw 
 hate and painting the fence.]
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 Tom Sawyer, you tricked me. This is 
 less fun than previously indicated. 
 Let this corny slice of Americana be 
 your tomb for all eternity.
 
-TOM SAWYER
+<character>TOM SAWYER</character>
 Please, no!
 
-FRY
+<character>FRY</character>
 (shouting) Come on!
 
 [They chase the Brain.]
@@ -868,72 +868,72 @@ Brain picks up another book.]
 [Cut to: Jane Austen's Pride And Prejudice. Fry is at a staely 
 banquet.]
 
-WOMAN
+<character>WOMAN</character>
 Mr. Fry, Mama tells us you're quite 
 the oddity; a bachelor at your age.
 
-FRY
+<character>FRY</character>
 Tou think I'm an oddity? Wait'l you 
 see --
 
 [A door opens.]
 
-BUTLER
+<character>BUTLER</character>
 Presenting the most eligible landowner 
 in all Hertfordshire, Mr. Brainly.
 
 [Enter the smartly-dressed Brain.]
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 I'm a gigantic brain!
 
 [There is general murmuring from the people.]
 
-MAN #1
+<character>MAN #1</character>
 I say!
 
-MAN #2
+<character>MAN #2</character>
 Most ungentleman-like!
 
-WOMAN
+<character>WOMAN</character>
 Mr. Brainly, what news have you of the 
 London season?
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 Well...
 
 [Fry grabs Tom Sawyer's bucket.]
 
-FRY
+<character>FRY</character>
 Hey, Brain-y, think fast!
 
 [He throws the whitewash at it.]
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 I always think fast.
 
 [The whitewash hits it and it screams.]
 
-AHAB
+<character>AHAB</character>
 The whale! He be white now!
 
 [He and Queequeg throw harpoons at it and it screams. Ahab breaks 
 off his wooden leg and hits the Brain with it.]
 
-FRY
+<character>FRY</character>
 Leela, I've got an idea. Stay here with 
 Queequeg.
 
 [He jumps out of the window. Leela looks at Queequeg and twiddles 
 her hair.]
 
-LEELA
+<character>LEELA</character>
 Is there Mrs. Queequeg?
 
 [Cut to: New New York Public Library: Ancient Literature. Fry 
 pushes and sturggles and breaks free of the Brain's glow.]
 
-FRY
+<character>FRY</character>
 Yes! I'm free!  Alright, Brain. Get 
 ready for some electroshock treatment!
 
@@ -943,7 +943,7 @@ side of the room. He falls to the floor and it falls on him,
 crushing him. Leela is freed from the purple glow. She sees Fry 
 choking and screams.]
 
-LEELA
+<character>LEELA</character>
 Fry, don't die! Wake up!  (screaming) 
 Nooo!
 
@@ -951,7 +951,7 @@ Nooo!
 Leela is kneeling in the middle of the room. The Brain is still 
 laugh. She looks around and hears Fry's voice. He is writing.]
 
-FRY
+<character>FRY</character>
 Leela cried for her lost love as Fry 
 lay dead under the heavy bookcase. The 
 Big Brain laughed in triumph......Then, 
@@ -960,7 +960,7 @@ The end.  There!  Now he's trapped in
 a book I wrote: A crummy world of plot 
 holes and spelling errors.
 
-BIG BRAIN
+<character>BIG BRAIN</character>
 The Big Brain am winning again. I am 
 the greetest!  Now I am leaving Earth 
 for no rason!
@@ -970,7 +970,7 @@ for no rason!
 [Cut to: Outside New New York Public Library. The Nibblonians 
 watch and cheer.]
 
-NIBBLER
+<character>NIBBLER</character>
 The Big Brain is defeated. Let what 
 must be done be done.
 
@@ -979,11 +979,11 @@ must be done be done.
 [Cut to: New New York Public Library: Ancient Literature. Leela 
 shakes her head as her intelligence returns.]
 
-LEELA
+<character>LEELA</character>
 Me...feel...a bit better in cognitive 
 faculties.
 
-FRY
+<character>FRY</character>
 I did it!  And it's all thanks to the 
 books at my local library.
 
@@ -991,7 +991,7 @@ books at my local library.
 Hermes points to a chart showing the increase in employee sleep 
 during meetings.]
 
-NIBBLER
+<character>NIBBLER</character>
 (voice-over) And so life returned to 
 normal. Or as normal as it gets on this 
 primative dirtball inhabited by psychotic 
@@ -1000,7 +1000,7 @@ apes...
 [Planet Express: Lounge. Fry reads "Fry Tricks The Brain" to 
 Farnsworth who dismisses it.]
 
-NIBBLER
+<character>NIBBLER</character>
 (voice-over) ...Thanks to the effect 
 of the brain rays, the people of Earth 
 had no memory of what had transpired, 
@@ -1010,7 +1010,7 @@ or cared what he had to say...
 [Leela's Quarters. Leela lies on her bed stroking Nibbler, who 
 is back in his cape.]
 
-NIBBLER
+<character>NIBBLER</character>
 (voice-over) ...I, meanwhile, returned 
 to my post, ever vigilant, lest Earth 
 again come under Brain attack. And when 
@@ -1019,10 +1019,10 @@ us all.
 
 [Leela picks him up.]
 
-LEELA
+<character>LEELA</character>
 Time for a diapee change!
 
-NIBBLER
+<character>NIBBLER</character>
 (voice-over) End transmission.
 
-THE END</xml>
+<character>THE END</character></xml>

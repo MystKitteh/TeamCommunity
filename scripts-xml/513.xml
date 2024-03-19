@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 513
 
-<title>BEND HER</title>
+<title><character>BEND HER</character></title>
 
 <author>Mike Rowe</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -18,22 +18,22 @@ a hotplate. The crowds cheer.]
 [Cut to: Madison Cube Garden Stands. Farnsworth, Fry, Leela, 
 Amy, Bender and Zoidberg watch the games.]
 
-FRY
+<character>FRY</character>
 So who should I root for? America or 
 one of those countries I learned about 
 at the Food Court?
 
-AMY
+<character>AMY</character>
 How 'bout those guys?
 
 [On the track some people dressed in stripy jerseys and French 
 berrets and carrying loaves of long bread wave to the crowd.]
 
-LEELA
+<character>LEELA</character>
 No, they're from the Republic Of French 
 Stereotypes. Everybody hates them.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, let's go check on Hermes. All this 
 inspiring multi-culturalism is angrying 
 up my blood.  Sweden? I don't think 
@@ -44,49 +44,49 @@ so!
 [Madison Cube Garden Training Room. Hermes limbos under a limbo 
 stick.]
 
-HERMES
+<character>HERMES</character>
 Go on stick, touch me! Can't do it!
 
 [The limbo stick is about 5 and a half feet off the ground. The 
 four crew members and LaBarbara are gathered around.]
 
-LABARBARA
+<character>LABARBARA</character>
 Husband, you haven't been an Olympic 
 class limboer for 20 years! Quit lying 
 to your podgy self.
 
-LEELA
+<character>LEELA</character>
 It does seem like Jamaica will be able 
 to field a strong limbo team without 
 you.
 
-AMY
+<character>AMY</character>
 Yeah, isn't that basically all Jamaicans 
 do?
 
-HERMES
+<character>HERMES</character>
 Jamaicans have other interests. Which 
 is why the limbo team got detained at 
 the airport.
 
-LABARBARA
+<character>LABARBARA</character>
 That's when they begged my husband to 
 step in and make an ass out of himself.
 
-HERMES
+<character>HERMES</character>
 And I said I'd try my very best.
 
-FRY
+<character>FRY</character>
 But have they seen your...y'know...physique, 
 since the old days?
 
-HERMES
+<character>HERMES</character>
 I described it to them on the phone, 
 using a series of artful euphanisms.
 
 [Farnsworth holds a red and blue jumpsuit.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Don't worry, the fat pig will do fine 
 thanks to this flabbo-dynamic spandex 
 bodysuit I've designed.  It redistributes 
@@ -96,22 +96,22 @@ closer to his knees.
 [The bodysuit contracts around Hermes' waist and his flab equals 
 out underneath it.]
 
-HERMES
+<character>HERMES</character>
 Ooo, that's snug!  Oh, those haven't 
 descended in years.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Now that's a limboer's body!
 
 [Everyone cheers.]
 
-LABARBARA
+<character>LABARBARA</character>
 You're that fine Jamaican bacon!
 
 [Madison Cube Garden Stands. Bender and Zoidberg watch some competitors 
 warm up on the field. All is quiet between the two.]
 
-BENDER
+<character>BENDER</character>
 Shut up Zoidberg, the robot bending 
 events are starting!  Something tells 
 me I could easily beat those trained 
@@ -128,12 +128,12 @@ girders.]
 
 [Cut to: Madison Cube Garden Stands.]
 
-BENDER
+<character>BENDER</character>
 Wow, that guy must have to be like the 
 world's greatest bender. My dreams of 
 glory died before they began.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Welcome to my life!
 
 [He bursts into tears.]
@@ -143,24 +143,24 @@ Welcome to my life!
 [On the track the limboers warm up. A tall athlete takes his 
 lane next to Hermes'.]
 
-BARBADOS SLIM
+<character>BARBADOS SLIM</character>
 Hermes Conrad. Is that you inside that 
 dumpy little fat man?
 
 [Hermes gasps.]
 
-HERMES
+<character>HERMES</character>
 Barbados Slim! What are you doing here? 
 Last time I heard you were in Barbados.
 
-BARBADOS SLIM
+<character>BARBADOS SLIM</character>
 Yes and I'll be going back there with 
 a gold medal draped around my elegant 
 Carribean shoulders.
 
 [He laughs.]
 
-HERMES
+<character>HERMES</character>
 Your body may be as perfectly scultpted 
 as it was 20 years ago when you whupped 
 my fat ass every time we met......but 
@@ -168,23 +168,23 @@ today, I feel lucky.
 
 [The hood squashes his hair flat and then into a rounded point.]
 
-BARBADOS SLIM
+<character>BARBADOS SLIM</character>
 I see you're still able to limbo under 
 the bar of fashion sense!
 
 [He laughs.]
 
-HERMES
+<character>HERMES</character>
 That's it Barbados Slim, you've gone 
 one talk over the line!
 
-STARTER
+<character>STARTER</character>
 Limboers, on your marks, get rubbery......limbo!
 
 [He shoots the starter gun and the limboers run off down the 
 track and under the limbo sticks.]
 
-COMMENTATOR
+<character>COMMENTATOR</character>
 (voice-over) There they go, and Barbados 
 Slim takes an early lead. God I hope 
 he wins.  What's this? Hermes Conrad 
@@ -195,30 +195,30 @@ I say go to hell Barbados Slim!
 [Cut to: Madison Cube Garden Stands. The crew and LaBarbara watch 
 and cheer and hold up a banner reading "You The Mon."]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (shouting) Go bodysuit, go!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 (shouting) Go!
 
-BENDER
+<character>BENDER</character>
 (shouting) C'mon!
 
-LABARBARA
+<character>LABARBARA</character>
 (shouting) C'mon Hermes, beat that mahogany 
 god!
 
 [Cut to: Madison Cube Garden Track. Hermes closes in on Barbados 
 Slim as they approach the last limbo stick.]
 
-COMMENTATOR
+<character>COMMENTATOR</character>
 (voice-over) It's Barbados, then Conrad. 
 Conrad pulls ahead!  And Conrad is disqualified! 
 Barbados Slim, my hero, takes the gold!
 
 [LaBarbara runs to Hermes' side.]
 
-LABARBARA
+<character>LABARBARA</character>
 Aww, there there Hermes.  You did your 
 best! If I'd wanted a human Adonis for 
 a husband, I'd have stayed married to 
@@ -227,19 +227,19 @@ Barbados Slim.
 [Cut to: Madison Cube Garden Stands. Disappointed, the crew sit 
 down.]
 
-BENDER
+<character>BENDER</character>
 Well enough about Hermes, I couldn't 
 win a medal either. Even at bending 
 - the thing I was built to do. I'm so 
 embarassed. I wish everybody else was 
 dead.
 
-FEMALE ANNOUNCER
+<character>FEMALE ANNOUNCER</character>
 Up next, the Fembot bending competition.
 
 [On the field Fembots bend coathangers.]
 
-BENDER
+<character>BENDER</character>
 Fembots?  Methinks a clever Manbot suitably 
 disguised might win those events! But 
 the charade would require subtlety, 
@@ -249,16 +249,16 @@ nuance, grace.
 for Bender's entry form. He is dressed in a dress and a headscarf, 
 trying to look like a Fembot.]
 
-BENDER
+<character>BENDER</character>
 What do you mean I'm not registered? 
 My name is Coilette and I'm from, uh...Robonia! 
 Coilette's a chick's name!
 
-OFFICIAL
+<character>OFFICIAL</character>
 Yes but "Robonia" sounds like something 
 somebody made up on the spot.
 
-BENDER
+<character>BENDER</character>
 Ever been beaten up by a guy dressed 
 like a chick?
 
@@ -269,14 +269,14 @@ Duchy Of Robonia prepares for the competition. A whistle blows.
 Bender bends a bent girder. A man puts a protractor to it and 
 gives a thumbs up.]
 
-MALE ANNOUNCER
+<character>MALE ANNOUNCER</character>
 And it's straight! Coilette wins!
 
 [Time Lapse. Bender has now entered the javelin event. He runs 
 with the javelin, stops, bends it, throws it and watches it fly 
 across the field. It is the farthest thrown.]
 
-MALE ANNOUNCER
+<character>MALE ANNOUNCER</character>
 Another gold medal for the spunky maid 
 from Robonia.
 
@@ -285,14 +285,14 @@ stands at the end of a girder shaped diving board. The beeper
 beeps and he dives off the end, grabs the girder and bends it 
 as he falls.]
 
-MALE ANNOUNCER
+<character>MALE ANNOUNCER</character>
 A perfect bend and a flawless entry. 
 No splash at all!  Perfect scores, a 
 record five gold medals for Coilette!
 
 [Bender flips onto his feet and cheers.]
 
-BENDER
+<character>BENDER</character>
 I'm great! Everybody else sucks, except 
 that guy Bender, he's really somethin'!
 
@@ -303,27 +303,27 @@ that guy Bender, he's really somethin'!
 [Madison Cube Garden Tunnel. Farnsworth, Fry, Leela and Amy stand 
 around the still disguised Bender.]
 
-LEELA
+<character>LEELA</character>
 You actually thought they'd let you 
 walk away without an engine oil sex 
 check?
 
-BENDER
+<character>BENDER</character>
 (crying) Oh God, I'm not gonna get my 
 medals! They're all I have to remember 
 my Olympic career.  Wait, I've got it! 
 Professor, make a woman out of me!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh I think we should just stay friends.
 
 [He pats Bender's hand.]
 
-BENDER
+<character>BENDER</character>
 I don't need friends, I need a sex change 
 operation and give it to me now!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Bender a robot sex change is a complex 
 and dangerous procedure. Replacing your 
 testosteroil with Fembot lubricants 
@@ -331,17 +331,17 @@ can cause wild mood swings. And the
 effects may be irreversible. Well let's 
 get started!
 
-LEELA
+<character>LEELA</character>
 No, you can't!
 
-AMY
+<character>AMY</character>
 If you have even the slightest respect 
 for the dignity of women -
 
-BENDER
+<character>BENDER</character>
 Pfft.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I'm sorry ladies but I must do this. 
 Not for you, not for Bender, but for 
 the proud people of Robonia!
@@ -352,18 +352,18 @@ been impaled with five javelins and another has been impaled
 on a tennis racket. Bender holds up the side of the tent and 
 ushers Farnsworth, Fry and Leela inside. He gets impatient.]
 
-BENDER
+<character>BENDER</character>
 (whispering) C'mon!
 
 [Cut to: Robot Medical Tent. Bender lies down on an operating 
 table.]
 
-FRY
+<character>FRY</character>
 I can't watch this 'cause it's creepy 
 and wrong and sick. However I will watch 
 out of curiosity.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (shouting) Quiet! (talking) I'm about 
 to begin the process of reshaping Bender's 
 body into a tender delicate form.
@@ -374,7 +374,7 @@ is cast on the wall and Bender cries out in pain.]
 [Time Lapse. Farnsworth jacks Bender's head up. He puts a spanner 
 between Bender's legs.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (dramatically) Draining male oil.  Infusing 
 female oil.  Removing item.
 
@@ -383,7 +383,7 @@ antenna is snipped off.]
 
 [Robot Gender Testing. A robot and a Fembot wait for Coilette.]
 
-ROBOT
+<character>ROBOT</character>
 We can't wait for Coilette any longer 
 dammit. I have to get home to watch 
 The Zombie Osbournes.
@@ -391,7 +391,7 @@ The Zombie Osbournes.
 [A curtain draws back and Coilette walks out of the Robot Medical 
 Tent.]
 
-COILETTE
+<character>COILETTE</character>
 I'm ready for my test now boys.
 
 [The robots' jaws drop - off.]
@@ -402,7 +402,7 @@ your run of the mill ordinary trannybot. Brown hair, slim figure,
 alarming amount of lipstick. She sings the Robonian national 
 anthem.]
 
-COILETTE
+<character>COILETTE</character>
 (singing) Hail, hail Robonia, a land 
 I didn't make up!
 
@@ -411,41 +411,41 @@ I didn't make up!
 [Planet Express: Lounge. The crew watch Coilette cheering on 
 the podium. She does a victory dance and takes her top off.]
 
-COILETTE [ON TV]
+<character>COILETTE </character>[ON TV]
 Ooo yeah c'mon baby boom!
 
-COILETTE
+<character>COILETTE</character>
 Oh yeah baby c'mon! Work your can! That's 
 it shake it out!
 
-LEELA
+<character>LEELA</character>
 I don't know which I'm more, enraged 
 or disgusted!
 
-COILETTE
+<character>COILETTE</character>
 I'm just out there making us ladies 
 look good.
 
-AMY
+<character>AMY</character>
 Snuh-uh! You're making us look like 
 jerks in front of the other genders.
 
-FRY
+<character>FRY</character>
 But you're not really a lady anyway. 
 Right?
 
 [He puts a glass of water on the table.]
 
-COILETTE
+<character>COILETTE</character>
 Of course not.
 
 [She puts Fry's glass on a coaster.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Dear Lord, a coaster! The Femzoil must 
 be sacheting girlishly into your processor.
 
-COILETTE
+<character>COILETTE</character>
 Then change me back. My breasts are 
 keeping me awake at night anyway.  Hello...? 
 What...? A guest spot on Late Night 
@@ -453,7 +453,7 @@ With Humorbot 5.0...? I'd love to!
 My own limo...? No I don't have my own 
 limo. You'd better send one.  I need 
 a raincheck on that nad-swap Professor. 
-I'm going on TV. C'mon Fry help me pick 
+I'm going on <character>TV</character>. C'mon Fry help me pick 
 out a pantsuit!
 
 [Late Night With Humorbot 5.0 Studio. The studio looks like the 
@@ -461,11 +461,11 @@ studio for The Tonight Show With Jay Leno. The audience are all
 robots. Humorbot 5.0 speaks with his usual mechanical voice and 
 interviews a popular soap star.]
 
-HUMORBOT 5.0
+<character>HUMORBOT 5</character>.0
 So Calculon, do you want to set up this 
 clip from All My Circuits?
 
-CALCULON
+<character>CALCULON</character>
 No I think it's self-explanatory.
 
 [A screen comes up behind them and they turn to face it. On the 
@@ -474,12 +474,12 @@ performance.]
 
 [In the studio the audience applaud and stop instantly.]
 
-CALCULON
+<character>CALCULON</character>
 Funny story, the script called for me 
 to say "yes" but I gave it a little 
 twist.
 
-HUMOUBOT 5.0
+<character>HUMOUBOT 5</character>.0
 Anecdote accepted. Snappy comeback not 
 found. Please put your hands together 
 for my next guest. Winner of five Olympic 
@@ -487,7 +487,7 @@ medals - Coilette from Robonia.  So
 Coilette, many young Fembot's wish to 
 emulate you. Any advice for them?
 
-COILETTE
+<character>COILETTE</character>
 Yes Humorbot. If you ask me, women today 
 are too stuck up to go out and jiggle 
 their jello like everybody wants them 
@@ -499,86 +499,86 @@ that! C'mon! Work it out!
 
 [The audience cheers and Calculon is impressed.]
 
-CALCULON
+<character>CALCULON</character>
 Madam, I am one impressed celebrity.
 
-COILETTE
+<character>COILETTE</character>
 Oh I bet you say that to all the five 
 Olympic gold medal winning Fembots!
 
-CALCULON
+<character>CALCULON</character>
 (sexfully) From this day forward I shall 
 do so whenever possible.
 
-COILETTE
+<character>COILETTE</character>
 Golly...what?
 
-CALCULON
+<character>CALCULON</character>
 Coilette this may be presumtuous....
 
-COILETTE
+<character>COILETTE</character>
 That's my favourite kind of this!
 
-CALCULON
+<character>CALCULON</character>
 ...but I would be honoured if you would 
 join me for dinner sometime.
 
 [The audience hoot.]
 
-COILETTE
+<character>COILETTE</character>
 Calculon. You'd be fulfilling this naive 
 Robonian farmgirl's fantasy!
 
-CALCULON
+<character>CALCULON</character>
 Of course I would.
 
 [Planet Express: Locker Area. Coilette stands in front of a locker 
 admiring herself in a mirror. She is dressed in pink Fembot clothes. 
 The crew are gathered around.]
 
-COILETTE
+<character>COILETTE</character>
 This top makes me look fat. Is it trampy 
 to go on a first date nude?
 
-AMY
+<character>AMY</character>
 Yes.
 
-COILETTE
+<character>COILETTE</character>
 Perfect.
 
 [She takes the top off.]
 
-FRY
+<character>FRY</character>
 You gotta tell me. You're not actually 
 attracted to Calculon right? And if 
 you are don't tell me. Are you?
 
-COILETTE
+<character>COILETTE</character>
 Certainly not. But just once I'd like 
 to eat dinner with a celebrity who isn't 
 bound and gagged. Is that so much to 
 ask?
 
-LEELA
+<character>LEELA</character>
 Well I think you dating a Manbot is 
 a disgrace. And I refuse to be involved. 
 And you have way too much lipstick on.
 
 [Amy nods.]
 
-COILETTE
+<character>COILETTE</character>
 Are you kidding? I need more lipstick! 
 Much more!  Ooo yeah that's the stuff! 
 Men love it when you really glob it 
 on!
 
-LEELA
+<character>LEELA</character>
 No they don't.
 
-AMY
+<character>AMY</character>
 No way!
 
-COILETTE
+<character>COILETTE</character>
 Oh please. Every man wants a tramp! 
 No wonder you girls aren't married! 
 I tell you, men are so much better 
@@ -586,27 +586,27 @@ at being women.
 
 [She puts some earrings on using a nailgun.]
 
-FRY
+<character>FRY</character>
 But what if he wants to, I mean if he 
 tries to...uh...Barry White?
 
-COILETTE
+<character>COILETTE</character>
 I'll just tell him I needed commitment 
 first. That'll stick a potato in his 
 tailpipe!
 
-HERMES
+<character>HERMES</character>
 Good Lord man what kind of temporary 
 woman are you?
 
-COILETTE
+<character>COILETTE</character>
 Look, why don't all of you just back 
 off? Can't a girl enjoy herself without 
 being judged?
 
 [She takes her handbag, slams the locker door and storms off.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh dear. Her mood swings are getting 
 wilder. She's becoming a slave to her 
 emotions. Just like all women, particularly 
@@ -614,27 +614,27 @@ you Leela.
 
 [She slaps him.]
 
-LEELA
+<character>LEELA</character>
 I'm worried about him too Professor.
 
 [Elzar's Fine Cuisine. Tonight's special is leg of salmon. Coilette 
 chomps her way through a leg.]
 
-ELZAR
+<character>ELZAR</character>
 Hey ma'am, you sure can put it away! 
 You saved me a trip to the dump! Bam!
 
-CALCULON
+<character>CALCULON</character>
 I'd appreciate it if you didn't bam 
 the young lady.
 
-ELZAR
+<character>ELZAR</character>
 Well, I'd appreciate it if I did, so 
 I guess we're even.
 
 [He leaves.]
 
-CALCULON
+<character>CALCULON</character>
 You know Coilette, I've never before 
 met a woman as fascinating as I am. 
 You're such a sweet, soft Fembot. And 
@@ -643,18 +643,18 @@ And there it is. It's as if you understand
 the male mind better than I!  I've never 
 met anyone like you.
 
-COILETTE
+<character>COILETTE</character>
 Oh yes you have.
 
-CALCULON
+<character>CALCULON</character>
 Coilette. I'd like to spend some (whispering) 
 quality time with you.
 
-COILETTE
+<character>COILETTE</character>
 What? Ahh! Whoa, no way! Not gonna happen. 
 What kind of girl do you think I am?
 
-CALCULON
+<character>CALCULON</character>
 Have I mentioned that I own the world's 
 biggest and most elegant yacht?
 
@@ -671,10 +671,10 @@ Actor And Athlete Couples Illustrated magazine.]
 [Planet Express: Lounge. The crew feed scraps to a begging Zoidberg. 
 Enter Coilette.]
 
-COILETTE
+<character>COILETTE</character>
 Woo! I'm a trophy girlfriend!
 
-AMY
+<character>AMY</character>
 No kidding. These gifts have been coming 
 non-stop!  I think Calculon's falling 
 for you.
@@ -682,7 +682,7 @@ for you.
 [The puppies bark and Coilette throws her hat down and puts her 
 coat over the top of them.]
 
-COILETTE
+<character>COILETTE</character>
 Bah. Any day now he'll dump me for a 
 new wad of arm candy. And then I can 
 turn back into a guy and hock all this 
@@ -690,7 +690,7 @@ stuff! It's just a game.
 
 [Amy and Leela glare at him. Enter Calculon via the wall.]
 
-CALCULON
+<character>CALCULON</character>
 Coilette, I can't stop thinking about 
 you. I can't sleep at night - although 
 as a robot I don't do that anyway. But 
@@ -700,52 +700,52 @@ me?
 
 [Coilette looks up at the gobsmacked crew.]
 
-COILETTE
+<character>COILETTE</character>
 Oh Calculon, yes I will!
 
 [Calculon puts the ring on her finger. Amy nudges Leela.]
 
-AMY
+<character>AMY</character>
 (whispering) Maybe she's right about 
 the lipstick.
 
 [Time Lapse. Calculon is gone and Coilette is preparing to leave.]
 
-FRY
+<character>FRY</character>
 I'll miss you buddy. You've been like 
 a brother and then a sister to me. And 
 now you're getting married. I love you.
 
-COILETTE
+<character>COILETTE</character>
 The marriage is a scam.
 
-FRY
+<character>FRY</character>
 Cool. What's for dinner?
 
-LEELA
+<character>LEELA</character>
 What do you mean a scam?
 
-COILETTE
+<character>COILETTE</character>
 I marry Calculon, divorce him, take 
 half his money and turn back into a 
 guy. It's sort of a two-person pyramid 
 scheme.
 
-FRY
+<character>FRY</character>
 That's marriage alright!
 
-LEELA
+<character>LEELA</character>
 That is so unbelievably manipulative.
 
-COILETTE
+<character>COILETTE</character>
 Come on, you never went on a date with 
 a guy just 'cause you were hungry?
 
-LEELA
-Well I...uh...I thought I might like 
+<character>LEELA</character>
+Well <character>I</character>...uh...I thought I might like 
 him on a full stomach.
 
-COILETTE
+<character>COILETTE</character>
 Nice try sister. Now if you'll excuse 
 me, I need to meet with my wedding planner. 
 (shouting) Zoidberg.  (talking) Zoidypoo, 
@@ -753,7 +753,7 @@ please tell me frilly is in this year.
 
 [Zoidberg flips through a catalogue.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I saw a frilly cake in here you would 
 remember all your life. I know I will. 
 Late at night it haunts me with it's 
@@ -762,49 +762,49 @@ cake dammit!
 
 [Hot Air Balloon. Calculon and Coilette enjoy a day together.]
 
-CALCULON
+<character>CALCULON</character>
 I have something for you.
 
 [He hands her a remote control.]
 
-COILETTE
+<character>COILETTE</character>
 A remote control? You got me a TV?
 
-CALCULON
+<character>CALCULON</character>
 No my dearest, it's the remote control 
 to my heart! It symbolises the power 
 you have to sway my emotions.
 
-COILETTE
+<character>COILETTE</character>
 Will it work on my TV?
 
-CALCULON
+<character>CALCULON</character>
 We don't need TVs, we have each other! 
 Coilette if I weren't able to spend 
 my life with you I would leap from this 
 very balloon.
 
-COILETTE
+<character>COILETTE</character>
 Come on now - really?
 
-CALCULON
+<character>CALCULON</character>
 Yes! We were meant (dramatically) to 
 be!
 
-COILETTE
+<character>COILETTE</character>
 So...you really and truly love me?
 
-CALCULON
+<character>CALCULON</character>
 So much so that I'm prepared to give 
 up showbusiness itself to be with you!
 
 [Coilette gasps.]
 
-COILETTE
+<character>COILETTE</character>
 But, you always said you'd rather burn 
 down a convent than give up showbusiness.
 
-CALCULON
+<character>CALCULON</character>
 I always said many things. But now all 
 I want is a peaceful life and a quiet 
 villa overlooking a vineyard....with 
@@ -812,19 +812,19 @@ you.
 
 [Coilette starts to cry.]
 
-COILETTE
+<character>COILETTE</character>
 (crying) Would we have donkeys?
 
-CALCULON
+<character>CALCULON</character>
 All you can eat!
 
 [She hugs him.]
 
-COILETTE
+<character>COILETTE</character>
 (crying) Oh take me in your arms and 
 compress me. Compress me tight!
 
-CALCULON
+<character>CALCULON</character>
 Stop! Let us climb to the heavens that 
 the gods themselves might embrace!
 
@@ -834,42 +834,42 @@ climbs into the sky.]
 [Planet Express: Lounge. Coilette sits at the table crying. The 
 crew are sat around.]
 
-COILETTE
+<character>COILETTE</character>
 (crying) I just don't think I can go 
 through with this scam.
 
 [The crew gasp.]
 
-AMY
+<character>AMY</character>
 What?
 
-FRY
+<character>FRY</character>
 So now you do wanna marry him?
 
-COILETTE
+<character>COILETTE</character>
 (crying) No, I just don't wanna hurt 
 him, or humiliate him. Oh, curse this 
 woman's heart!
 
 [She cries more.]
 
-FRY
+<character>FRY</character>
 Eck!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You're falling into the final debilitating 
 stages of womanhood. You've waited too 
 long to switch back you dingbat!
 
-LEELA
+<character>LEELA</character>
 OK look. If I help you with this do 
 you promise to get out of my gender 
 and stay out?
 
-COILETTE
+<character>COILETTE</character>
 (crying) Uh-huh.
 
-LEELA
+<character>LEELA</character>
 Alright. Now there's no way to stop 
 this marriage without hurting Calculon. 
 But he's an actor. If there's one kind 
@@ -884,25 +884,25 @@ dressed in a hat and sleeveless jacket, Zoidberg is kitted out
 in medical scrubs and Leela wears a blonde wig and a dress. She 
 puts a sunglass over her eye.]
 
-LEELA
+<character>LEELA</character>
 (whispering) OK, is everyone ready?
 
-FRY
+<character>FRY</character>
 Yep.
 
-AMY
+<character>AMY</character>
 Uh-huh.
 
-HERMES
+<character>HERMES</character>
 Check!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Impassively.
 
 [They split and Zoidberg scuttles off and woops. At the front 
 the ceremony begins.]
 
-PREACHERBOT
+<character>PREACHERBOT</character>
 Dearly beloved actors and casting people 
 who may be looking for somebody to play 
 a preacher, I welcome you! The bride 
@@ -911,100 +911,100 @@ all pretend to be interested in.
 
 [Coilette and Calculon turn to each other.]
 
-COILETTE
+<character>COILETTE</character>
 Dearest Calculon. Forever is not enough 
 time to tell you of the many ways I 
 love you.
 
 [She faints theatrically. The crowd gasps.]
 
-HEDONISMBOT
+<character>HEDONISMBOT</character>
 Oh my!
 
-CALCULON
+<character>CALCULON</character>
 Is there a doctor in the -
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 I came as soon as I could.  It appears 
 to be a case of African Hydraulic Fever!
 
-CALCULON
+<character>CALCULON</character>
 Dear God! The very illness my TV character 
 caught in season two, when I was holding 
 out for more money! It's often fatal.
 
-COILETTE
+<character>COILETTE</character>
 Whatever happens, remember, the flame 
 of my eternal love will burn forever.
 
-CALCULON
+<character>CALCULON</character>
 Of course. But smoochiepups, I thought 
 one could only catch hydraulic fever 
 deep in the diamond mines of the Congo.
 
 [Leela calls out from the crowd.]
 
-LEELA
+<character>LEELA</character>
 Coilette! You she-devil!  You really 
 thought you could steal those diamonds 
 from me and Congo Jack?
 
 [Coilette stands up.]
 
-COILETTE
+<character>COILETTE</character>
 Those gems belong to the natives!
 
 [Leela kicks Coilette in the face and Amy restrains her.]
 
-CALCULON
+<character>CALCULON</character>
 Oh how cruel and melodramatic fate is. 
 (dramatically shouting) Whhhy?
 
-COILETTE
+<character>COILETTE</character>
 Calculon, my darling, your loud "why" 
 brought me partway back to life.  Congo 
 Jack!
 
-CALCULON
+<character>CALCULON</character>
 Another shocking twist!
 
 [Hermes plays some shocking twist music.]
 
-FRY
+<character>FRY</character>
 Yes. And I have a message for you from 
 Colonel Mitumba! He says this......is 
 from Congo Jack.
 
 [He throws the spear. It hits a flower pot.]
 
-COILETTE
+<character>COILETTE</character>
 Uh, um...
 
 [She takes it out of the flower pot and tucks it under her arm, 
 screams, and falls over.]
 
-CALCULON
+<character>CALCULON</character>
 No! Nooo! (dramamtically shouting) N-O-O-O!
 
-COILETTE
+<character>COILETTE</character>
 I won't leave you. Not until I'm sure 
 you understand the thing I said before. 
 About my eternal love for you burning......et 
 cetera.
 
-CALCULON
+<character>CALCULON</character>
 (crying) I do. I do.
 
-COILETTE
+<character>COILETTE</character>
 OK then.
 
 [She dies in a very dramatic and soapy way. At the back Zoidberg 
 eats what is left of the buffet.]
 
-ZOIDBERG [EATING]
+<character>ZOIDBERG </character>[<character>EATING</character>]
 I'm a doctor, she's dead.
 
-CALCULON
+<character>CALCULON</character>
 She lives no more. But let us all find 
 comfort knowing that she truly loved 
 me. To honour my pain, I shall star 
@@ -1014,17 +1014,17 @@ me. Not when they see Coilette: A Calculon
 Story.
 
 [Planet Express: Farnsworth's Lab. The crew watch Calculon's 
-film on TV. The Coilette character is lying dead with Calculon 
+film on <character>TV</character>. The Coilette character is lying dead with Calculon 
 at her side. In the background Preacherbot waves.]
 
-CALCULON [ON TV]
+<character>CALCULON </character>[ON TV]
 Coilette. Your death fills me wih sorrow, 
 (angry) anger, (fearful) fear, (normal) 
 every emotion an actor can display.
 
 [Farnsworth files away the last bit of hair from Coilette's head.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Turn off that crap-o-rama! One mistake 
 now and Bender will be trapped forever 
 between the already ill-defined robot 
@@ -1032,99 +1032,99 @@ sexes.
 
 [He chisels something between Coilette's legs.]
 
-COILETTE
+<character>COILETTE</character>
 Ow, oo, ow.
 
-FRY
+<character>FRY</character>
 Well Bender, I hope this has taught 
 you a lesson about changing your sex 
 to win five gold medals.
 
-COILETTE
+<character>COILETTE</character>
 It truly has. My romance with Calculon 
 has shown me a lot about myself.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Almost done.
 
-COILETTE
+<character>COILETTE</character>
 If only somehow, someway he and I could...
 
 [Bender's antenna springs up.]
 
-BENDER
+<character>BENDER</character>
 ...drive to Vegas, pick up some Flooziebots 
 and void their warranties all night 
 long!
 
 [He sits up and cheers.]
 
-FRY
+<character>FRY</character>
 Yay my buddy's home! And his respect 
 for women is back to normal.
 
-LEELA
+<character>LEELA</character>
 I kind of hope this whole experience 
 would have left you a little more open 
 to your sensitive side.
 
-BENDER
+<character>BENDER</character>
 Yeah you'd think but what you gonna 
 do?
 
 [He takes a puff from a cigar. On the TV it is raining and Calculon 
 holds Coilette in his arms..]
 
-CALCULON [ON TV]
+<character>CALCULON </character>[ON TV]
 Coilette, the skies themselves weep 
 upon the sweetest flower of all the 
 field.
 
-LEELA
+<character>LEELA</character>
 Aww!
 
-AMY
+<character>AMY</character>
 Aww!
 
-FRY
+<character>FRY</character>
 Eww!
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Gross.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Sentimental drivel-poop.
 
 [Zoidberg, Farnsworth and Hermes leave.]
 
-FRY
+<character>FRY</character>
 C'mon Bender let's go. This chick flick 
 is getting me all barfy.
 
-BENDER
+<character>BENDER</character>
 Yeah. Emotions are dumb and should be 
 hated.
 
 [Fry leaves and he starts out after him. He stops and looks at 
-the TV.]
+the <character>TV</character>.]
 
-CALCULON [ON TV]
+<character>CALCULON </character>[ON TV]
 Goodnight Coilette, my turtledove.
 
 [Bender's eyes well up with tears.]
 
-BENDER
+<character>BENDER</character>
 Goodnight Calculon.
 
 [Amy and Leela turn around.]
 
-LEELA
+<character>LEELA</character>
 What did you say?
 
-BENDER
+<character>BENDER</character>
 I said you two don't dress trampy enough. 
 I still got it!
 
 [He twangs his antenna.]
 
-THE END</xml>
+<character>THE END</character></xml>

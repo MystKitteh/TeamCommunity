@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 503
 
-<title>THE ROUTE OF ALL EVIL</title>
+<title><character>THE ROUTE OF ALL EVIL</character></title>
 
 <author>Dan Vebber</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -12,33 +12,33 @@ Robots Would Be Really Cool.]
 
 [7^11 Store. Fry, Bender and Leela peruse the beer fridge.]
 
-BENDER
+<character>BENDER</character>
 Ah beer! So many choices! And it makes 
 so little difference.
 
-FRY
+<character>FRY</character>
 How 'bout L�brau? It has dots on it.
 
-BENDER
+<character>BENDER</character>
 Overruled. The choice of champions is 
 Pabst Blue Robot!
 
-FRY
+<character>FRY</character>
 I can't drink that! The metal shavings 
 make my throat bloody.
 
-BENDER
+<character>BENDER</character>
 (mocking) Waah waah! Baby wants a Zima!
 
-LEELA
+<character>LEELA</character>
 Hey hey! We can all fight when we're 
 drunk. Now listen: Why don't we just 
 brew our own beer?
 
-BENDER
+<character>BENDER</character>
 You can brew your own beer?
 
-LEELA
+<character>LEELA</character>
 Sure, the kids at the orphanarium used 
 to do it all the time.
 
@@ -48,57 +48,57 @@ to do it all the time.
 and Hermes' son Dwight are there. Dwight has dreads and wears 
 a shirt made of the Jamaican flag.]
 
-HERMES
+<character>HERMES</character>
 Cursed bacteria of Liberia. My own son 
 suspended from boarding school.
 
-DWIGHT
+<character>DWIGHT</character>
 It's not my fault Dad.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 And you Cubert. I cloned you from one 
 of my warts and I can send you straight 
 back in there.
 
-CUBERT
+<character>CUBERT</character>
 Nuh-uh!
 
 [Enter Zoidberg.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 What's going on? Is this angry yelling 
 or busted hearing aid yelling?
 
-HERMES
+<character>HERMES</character>
 I'm afraid it's both.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (shouting) What?
 
-LABARBARA
+<character>LABARBARA</character>
 Now hold on, everyone cool your daiquiris! 
 Let's give the little vermin a chance 
 to explain themselves.
 
-DWIGHT
+<character>DWIGHT</character>
 It was self defence Mom. Just look at 
 the letter the Principal sent.  We were 
 in science class and we had just finished 
 building a minature black hole.
 
-CUBERT [ON TV]
+<character>CUBERT </character>[ON TV]
 That was easy.
 
 [Bret Blob, a horrible gelatinous blob, scoffs.]
 
-BRET [ON TV]
+<character>BRET </character>[ON TV]
 Pretty scrawny black hole. It must be 
 hungry.
 
-CUBERT [ON TV]
+<character>CUBERT </character>[ON TV]
 Duh! Black holes don't need food.
 
-BRET [ON TV]
+<character>BRET </character>[ON TV]
 Neither do nerds!
 
 [He picks up Cubert and Dwight's lunch boxes and throws them 
@@ -106,7 +106,7 @@ in the black hole. The black hole disappears.]
 
 [Bret laughs.]
 
-CUBERT [ON TV]
+<character>CUBERT </character>[ON TV]
 That's it Bret. You've compressed our 
 lunches to a singularity for the last 
 time! Salt him Dwight!
@@ -114,69 +114,69 @@ time! Salt him Dwight!
 [He and Dwight pick up some jars of salt and shake it over Bret. 
 He dissolves into a green puddle.]
 
-BRET [ON TV]
+<character>BRET </character>[ON TV]
 When I resolidify, I'm gonna put you 
 in a world of goop!
 
 [Cubert and Dwight scream.]
 
-CUBERT
+<character>CUBERT</character>
 See? That bully started it. We couldn't 
 fight back with brawn so we used our 
 brains!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I've warned you not to use those things!
 
 [Planet Express: Kitchen. Fry, Bender and Leela are starting 
 their beer.]
 
-LEELA
+<character>LEELA</character>
 Let's see. We've got our malt, our hops...we 
 just need a big disposable tub to mix 
 it in.
 
-BENDER
+<character>BENDER</character>
 Yo!
 
 [He leans back so his chest cabinet is horizontal. Fry and Leela 
 pour in the ingredients.]
 
-LEELA
+<character>LEELA</character>
 Now it needs to boil for a couple hours.
 
 [Bender hops onto the gas hob and turns it on. He whistles. Enter 
 Farnsworth, Hermes, Dwight and Cubert. Dwight is playing a computer 
 game.]
 
-HERMES
+<character>HERMES</character>
 Dwight, you remember the crew?
 
-DWIGHT
+<character>DWIGHT</character>
 (unenthusiastically) Eh...
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Crew, you remember Cubert?  Wonderful! 
 And I'm sure you won't mind being their 
 legal guardians for a month!
 
 [He and Hermes run out.]
 
-CUBERT
+<character>CUBERT</character>
 Well, well.  If it isn't my old friend 
 stretchpants......no pants and...He 
 looks at Fry.]...idiot!
 
-BENDER
+<character>BENDER</character>
 We're making beer! I'm the brewery.
 
-DWIGHT
+<character>DWIGHT</character>
 I heard alcohol makes you stupid.
 
-FRY
+<character>FRY</character>
 No I'm...doesn't.
 
-LEELA
+<character>LEELA</character>
 Actually Dwight you're right. Alcohol 
 is very very bad...for children. But 
 once you turn 21 it becomes very very 
@@ -184,42 +184,42 @@ good! So scram!
 
 [Dwight and Cubert walk out the room muttering.]
 
-DWIGHT
+<character>DWIGHT</character>
 Aw man!
 
-CUBERT
+<character>CUBERT</character>
 Stupid...
 
 [Cut to: Planet Express: Farnsworth's Lab. Farnsworth is fiddling 
 with a machine.]
 
-CUBERT
+<character>CUBERT</character>
 Hey Dad! What useless contraption are 
 you half-baking today?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Eh wha? Oh! This is my latest invention. 
 A device that lets anyone sound exactly 
 like me!
 
 [Cubert tries it out.]
 
-CUBERT
+<character>CUBERT</character>
 (Farnsworth's voice) Good news everyone! 
 I'm a horse's butt!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I am? That's not good news at all you 
 little...
 
 [He shakes his fist and Cubert screams in Farnsworth's voice 
 and runs away. Dwight looks at the machine.]
 
-DWIGHT
+<character>DWIGHT</character>
 What's this device's marketability? 
 Who's the target consumer?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 There is no target consumer! Only targets. 
 Targets that will tremble as their new 
 master hands down edicts in my glorious 
@@ -232,27 +232,27 @@ Hermes; (singing) Stamp it...file it...oh yeah! Send it overnight!
 
 [Enter Cubert and Dwight. Dwight sees a pile of papers.]
 
-DWIGHT
+<character>DWIGHT</character>
 Can I collate that?
 
-HERMES
+<character>HERMES</character>
 No!
 
-CUBERT
+<character>CUBERT</character>
 Can I shread these contracts?
 
-HERMES
+<character>HERMES</character>
 No!
 
 [Cubert shreads them anyway. Dwight picks something up.]
 
-DWIGHT
+<character>DWIGHT</character>
 Wow! A powerstamper!
 
 [He turns it on. It stamps objects around the room, including 
 Hermes' head.]
 
-HERMES
+<character>HERMES</character>
 Now look at all the work I gotta do! 
 Ow!
 
@@ -261,7 +261,7 @@ of Hermes' office laughing.]
 
 [Planet Express: Kitchen. Bender belches foam. Leela tastes it.]
 
-LEELA
+<character>LEELA</character>
 Mmm. The ingredients are cooked. And 
 they've picked up some of your natural 
 robot flavourings. Time to add the yeast.
@@ -269,28 +269,28 @@ robot flavourings. Time to add the yeast.
 [Fry takes Bender's antenna off and Leela puts a funnel in then 
 tips the yeast in.]
 
-BENDER
+<character>BENDER</character>
 Yeast? You mean I'll have a lifeform 
 growing inside me? (crying) It's so 
 beautiful.
 
 [He blows his nose. Leela wrist thing rings. She presses a button.]
 
-LEELA
+<character>LEELA</character>
 Talk to me.
 
 [Cut to: Planet Express: Attic Balcony. Dwight and Cubert are 
 sat with the machine that mimics Farnsworth's voice. It is Cubert 
 who is talking to Leela.]
 
-CUBERT
+<character>CUBERT</character>
 (Farnsworth's voice) Sorry I can't come 
 down to say goodbye, but I'm busy inventing 
 useless junk.
 
 [He passes the machine to Dwight.]
 
-DWIGHT
+<character>DWIGHT</character>
 (Farnsworth's voice) And I smell bad.
 
 [They laugh.]
@@ -304,71 +304,71 @@ Farnsworth and Hermes stand at the bottom of the steps with Cubert
 and Dwight. Cubert is playing on Dwight's game. Leela takes it 
 from him, squeezes it and breaks it.]
 
-CUBERT
+<character>CUBERT</character>
 Hey!
 
 [She grabs both of them by their shirts.]
 
-LEELA
+<character>LEELA</character>
 If you were my kids you'd get quite 
 a talking to...from your father......when 
 he got home from the senate.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh bother, what have they done now?
 
 [Bender rolls his sleeves up.]
 
-BENDER
+<character>BENDER</character>
 Those pork dumplings sent us on a fake 
 delivery.
 
-FRY
+<character>FRY</character>
 The address was on Dogdoo 8 but the 
 universe ends right after Dogdoo 7!
 
-HERMES
+<character>HERMES</character>
 Child man, is this true?
 
-DWIGHT
+<character>DWIGHT</character>
 Yeah, but why are you mad at us? Your 
 dummy brigade wasted a week on an obviously 
 fake mission!
 
 [Cubert points at Bender.]
 
-CUBERT
+<character>CUBERT</character>
 Plus, you're making bootleg beer inside 
 company property!
 
-BENDER
+<character>BENDER</character>
 (shouting) Lies! Lies and slander!
 
 [He belches foam.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Accusing gentle Bender of a misdeed? 
 That's the last straw! You boys have 
 been underfoot long enough!
 
-HERMES
+<character>HERMES</character>
 You jerked the words right outta my 
 mouth. We're their fathers and its high 
 time we acted like it.
 
 [Bender rubs his hands together with glee.]
 
-BENDER
+<character>BENDER</character>
 Ooo-hoo! Here comes violence!
 
 [Hermes clears his throat.]
 
-HERMES
+<character>HERMES</character>
 Get a job you lazy kids!
 
 [Dwight and Cubert gasp in horror. Bender is disappointed.]
 
-BENDER
+<character>BENDER</character>
 I guess if you want children beaten......you 
 have to do it yourself.
 
@@ -376,43 +376,43 @@ have to do it yourself.
 and put a white sheet over it. They lead Farnsworth and Hermes 
 to some chairs.]
 
-CUBERT
+<character>CUBERT</character>
 Come on Dad, shuffle faster!
 
-DWIGHT
+<character>DWIGHT</character>
 You don't wanna miss the unveiling of 
 our new company do you?
 
 [Hermes and Farnsworth sit down.]
 
-HERMES
+<character>HERMES</character>
 Company?  (mocking) How cute! What will 
 you be pedalling? Lemonade? Shoe shines? 
 Cootie insurance?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (mocking) Perhaps they've constructed 
 a teddybear hospital!
 
 [They laugh.]
 
-CUBERT
+<character>CUBERT</character>
 Actually, we're starting a competing 
 delivery company.
 
 [He pulls the sheet off to reveal a logo that says Awesome Express. 
 Hermes and Farnsworth look at each other and stand up.]
 
-HERMES
+<character>HERMES</character>
 Welcome to the world of business!
 
 [He and Farnsworth start kicking the logo.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Who's going to use a delivery service 
 with a kicked sign? Nobody that's who!
 
-DWIGHT
+<character>DWIGHT</character>
 But we already have a client signed 
 up! We're delivering the Daily Supernova.
 
@@ -420,24 +420,24 @@ up! We're delivering the Daily Supernova.
 To City: Grrrrr!. Beside it is a picture of a Godzilla-like creature. 
 Hermes chuckles.]
 
-HERMES
+<character>HERMES</character>
 So your delivery company is just a cute 
 harmless paper route?
 
 [Farnsworth wipes his brow.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Phew!
 
-DWIGHT
+<character>DWIGHT</character>
 No. Its a serious business.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (mocking) Yes its a tremendous responsibility 
 alright!  What if a paper were to land 
 in a puddle?
 
-HERMES
+<character>HERMES</character>
 (mocking) Civilisation as we know it 
 might get splashed!
 
@@ -446,12 +446,12 @@ might get splashed!
 [Planet Express: Balcony. Cubert and Dwight have set up a new 
 sign.]
 
-DWIGHT
+<character>DWIGHT</character>
 Why do they always treat us like dumb 
 kids? We're practically old enough to 
 find the Fox Network infantile!
 
-CUBERT
+<character>CUBERT</character>
 Ah we'll show 'em. All Awesome Express 
 needs is a sturdy interstellar delivery 
 craft!  Voila! You got a quarter?
@@ -460,13 +460,13 @@ craft!  Voila! You got a quarter?
 in an envelope with the quarter and puts the envelope in the 
 mailbox. It flies off down a message tube.]
 
-DWIGHT
+<character>DWIGHT</character>
 Man, that ad said to allow four to six 
 seconds for delivery.
 
 [Cubert snorts.]
 
-CUBERT
+<character>CUBERT</character>
 More like seven!
 
 [A mail tube shoots out of the box and knocks Cubert off his 
@@ -476,27 +476,27 @@ feet.]
 is a little bigger than usual and he looks pregnant. Enter Fry 
 and Leela.]
 
-BENDER
+<character>BENDER</character>
 I'm really starting to swell up with 
 beer. I must look ridiculous.
 
-FRY
+<character>FRY</character>
 No, you have a healthy glow.
 
 [Bender belches.]
 
-BENDER
+<character>BENDER</character>
 Oh my God! I just felt it ferment!
 
-LEELA
+<character>LEELA</character>
 Ooo! Let me feel.  Have you thought 
 about what to name it?
 
-BENDER
+<character>BENDER</character>
 I was thinking Benderbrau if it's an 
 ale, Botweiser if it's a lager.
 
-FRY
+<character>FRY</character>
 I hope it's a lager so I can take it 
 to a ball game.  Ooo! I felt that one!
 
@@ -504,65 +504,65 @@ to a ball game.  Ooo! I felt that one!
 Cubert finish putting together their hovercraft. They are wearing 
 spacesuits.]
 
-CUBERT
+<character>CUBERT</character>
 Uh, there's a crack in the hull here. 
 That could cause explosive decompression.
 
-DWIGHT
+<character>DWIGHT</character>
 Put a sticker on it.
 
 [He hands Cubert a sticker for Mom's Moron Oil For Dumb Robots. 
 Farnsworth and Hermes walk around the corner.]
 
-HERMES
+<character>HERMES</character>
 Off on your first delivery eh? You be 
 careful my little tinkler.  Remember 
 we used to call you that huh? Tinkler?
 
 [A Daily Supernova van pulls up. Sal throws out a bundle of papers.]
 
-SAL
+<character>SAL</character>
 Gets movin'! Those newspapers won'ts 
 deliver themselveses! Only the Sunday 
 edition can dos that.
 
 [He drives off.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Goodness there must be 50 papers in 
 that bundle! That's a big number, 50.
 
-CUBERT
+<character>CUBERT</character>
 Yeah if you're an idiot!
 
 [He and Dwight climb into the hovercraft. Dwight counts down.]
 
-DWIGHT
+<character>DWIGHT</character>
 3. 2. 1.
 
-CUBERT
+<character>CUBERT</character>
 All systems go.
 
-DWIGHT
+<character>DWIGHT</character>
 Blast off!
 
 [The hovercraft blasts off. It is pedal powered. Dwight and Cubert 
 pedal and it flies up into the sky.]
 
-HERMES
+<character>HERMES</character>
 (shouting) See you at din-din!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (shouting) I'm blowing you a kiss.
 
 [He blows it. Cubert "sees" it coming towards him and screams.]
 
-CUBERT
+<character>CUBERT</character>
 Take evasive action!
 
 [He and Dwight pedal around to avoid the kiss.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 (shouting) It's closing in! You can't 
 avoid it! It's a cheek-seeker. And...gotcha!
 
@@ -586,24 +586,24 @@ to Earth.]
 [Planet Express: Meeting Room. The crew are sat at the table. 
 Bender is knitting a beer bottle cover.]
 
-HERMES
+<character>HERMES</character>
 Business is down. So I filed papers 
 to have you all reclassified as slaves.
 
 [Enter Dwight and Cubert with a wheelbarrow with a big lump in 
 it covered by a sheet.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Well, well, well. If it isn't our little 
 muchkin moguls!
 
 [He tickles them.]
 
-HERMES
+<character>HERMES</character>
 What's the trouble men? Need some penny 
 rolls for your profits?
 
-CUBERT
+<character>CUBERT</character>
 Actually, thank's to Dwight's brilliant 
 accounting and my unaccountable brilliance......our 
 paper route now has over a million customers!
@@ -612,12 +612,12 @@ paper route now has over a million customers!
 be a huge pile of money. Hermes and Farnsworth stand gawping 
 at it, dumbstruck.]
 
-DWIGHT
+<character>DWIGHT</character>
 We're finally making more money than 
 you guys! Aren't you impressed now Pops? 
 Aren'tcha? Aren'tcha?
 
-HERMES
+<character>HERMES</character>
 Uh, in a small way yes. But you still 
 don't have your own building, your own 
 conference table or...or one of those 
@@ -625,7 +625,7 @@ things!
 
 [He points at Zoidberg.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Hello!
 
 [He waves.]
@@ -633,100 +633,100 @@ Hello!
 [Planet Express: Balcony. Dwight and Cubert lean against the 
 wall with their wheelbarrow.]
 
-DWIGHT
+<character>DWIGHT</character>
 Our Dads are never impressed, no matter 
 what we do.
 
-CUBERT
+<character>CUBERT</character>
 Maybe we should start a fire.
 
-DWIGHT
+<character>DWIGHT</character>
 If we really want to impress them we'll 
 have to crush them with strategy...Dwight 
 Lightning!
 
 [He pulls out a pad with "Dwight Lightning" written on the front.]
 
-CUBERT
+<character>CUBERT</character>
 Very well. But I get to name the next 
 strategy.
 
 [Planet Express: Lounge. Leela, Fry and Bender are sat watching 
 a TV programme.]
 
-ANNOUNCER [ON TV]
+<character>ANNOUNCER </character>[ON TV]
 This week on The Real World: The Sun.
 
-MAN [ON TV]
+<character>MAN </character>[ON TV]
 Argh! I'm burning to death!
 
 [Leela scoffs.]
 
-LEELA
+<character>LEELA</character>
 You know how much an apartment that 
 big would cost on the Sun?
 
 [Fry turns the TV off. Enter Farnsworth and Hermes.]
 
-HERMES
+<character>HERMES</character>
 People, as you know our young sons have 
 become great successes in the very same 
 field as us.
 
-FRY [SIMULTANEOUSLY]
+<character>FRY </character>[<character>SIMULTANEOUSLY</character>]
 That's great!
 
-HERMES
+<character>HERMES</character>
 Naturally, we're humiliated.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 That's why we need you, our loyal crew, 
 to make Planet Express 800% more profitable.
 
 [Hermes sets up a chart.]
 
-HERMES
+<character>HERMES</character>
 We'll start by slashing salaries. And 
 this time I mean really slash.
 
-LEELA
+<character>LEELA</character>
 Uh guys, I don't know how to tell you 
 this. So I'll just let Fry blurt it 
 out thoughtlessly.
 
-FRY
+<character>FRY</character>
 We don't work for you anymore!
 
 [Hermes gasps.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 What?
 
-LEELA
+<character>LEELA</character>
 Dwight and Cubert made us a better offer. 
 We're paperboys now.
 
 [Enter Cubert and Dwight.]
 
-CUBERT
+<character>CUBERT</character>
 Incoming! We got papers to stuff team! 
 Hup two hup two!
 
 [The Awesome Express team get up.]
 
-FRY
+<character>FRY</character>
 Yes sir!
 
-BENDER
+<character>BENDER</character>
 On our way!
 
-LEELA
+<character>LEELA</character>
 We're on it Mr Farnsworth!
 
 [Planet Express: Meeting Room. Farnsworth and Hermes address 
 the crew.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Folks, the situation is grim but we 
 shall prevail, thanks to you, our crack 
 team of loyal dregs!
@@ -734,95 +734,95 @@ team of loyal dregs!
 [Scruffy sits with his feet on the table, Amy puts make up on 
 and Zoidberg sits, listening. Hermes looks at Scruffy.]
 
-HERMES
+<character>HERMES</character>
 I don't even know who this guy is!
 
-SCRUFFY
+<character>SCRUFFY</character>
 I'm Scruffy, the janitor.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Yes, of course you are. Now we've got 
 to buckle down and save Planet Express.
 
-SCRUFFY
+<character>SCRUFFY</character>
 I'm on break.
 
 [He picks up a bag of Potato Chips and slowly munches them.]
 
 [Enter the Awesome Express crew.]
 
-CUBERT
+<character>CUBERT</character>
 Sorry to interrupt this "whirlwind of 
 activity" but we have an announcement.
 
 [Dwight walks over to Hermes.]
 
-DWIGHT
+<character>DWIGHT</character>
 I direct your attention to these forms, 
 which I'm presently engaged in handing 
 to you.
 
 [Hermes takes the forms and reads them.]
 
-HERMES
+<character>HERMES</character>
 Sweet guineapig of Winnipeg! They've 
 taken over our company!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Balderdash! I never agreed to that!
 
-DWIGHT
+<character>DWIGHT</character>
 No. But you did declare yourself dead 
 three years ago as a tax dodge.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Tax dodge nothing! You take one nap 
 in a ditch in the park and they start 
 declaring you this and that.
 
-CUBERT
+<character>CUBERT</character>
 Either way I technically inherit your 
 building and your spaceship. Which mean 
 Planet Express is now......Awesome Express!
 
 [Hermes and Farnsworth gasp.]
 
-HERMES
+<character>HERMES</character>
 (angry) You rotten kids! (nicely) Will 
 you be hiring?
 
-DWIGHT
+<character>DWIGHT</character>
 No.
 
-HERMES
+<character>HERMES</character>
 (angry) You rotten kids!
 
 [Awesome Express: Hangar. Leela sprays the ship red. Bender and 
 Fry finish loading the papers onto the cargo bay lift.]
 
-FRY
+<character>FRY</character>
 There. One million papers. Folded and 
 loaded!
 
 [Cubert jet packs up to Leela with something in his hands.]
 
-CUBERT
+<character>CUBERT</character>
 Hey Leela, help me apply these flame 
 decals I got in my cereal. They'll make 
 the ship go faster.
 
-LEELA
+<character>LEELA</character>
 And what's your scientific basis for 
 thinking that?
 
-CUBERT
+<character>CUBERT</character>
 I'm 12.
 
 [Cut to: Outside Awesome Express. Hermes and Farnsworth walk 
 across the street, carrying boxes of their stuff. The ship blasts 
 off and they watch. Farnsworth sighs.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Did I ever tell you how I used to own 
 that ship?
 
@@ -831,7 +831,7 @@ that ship?
 [Cut to: Street. They walk past a dumpster. Zoidberg pops out 
 of it and watches Farnsworth and Hermes walk by sadly.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 There but for the grace of God.
 
 [He dives back in and gobbles up some scraps.]
@@ -840,7 +840,7 @@ There but for the grace of God.
 watching All My Circuits. Bender sings to his bump to the tune 
 of Hush Little Baby.]
 
-BENDER
+<character>BENDER</character>
 (singing) Hush little brewsky don't 
 you leak. Daddy wants to drink for at 
 least a week.  Oh my God! I think it's 
@@ -848,7 +848,7 @@ time!
 
 [Leela runs in.]
 
-FRY
+<character>FRY</character>
 Hurry Leela, get some coasters and cold 
 mugs.
 
@@ -856,28 +856,28 @@ mugs.
 his head on Leela's lap. Fry puts the beer in bottles. Bender 
 cries in pain.]
 
-FRY
+<character>FRY</character>
 Push Bender push!
 
-LEELA
+<character>LEELA</character>
 You're doing great!
 
 [Bender cries again.]
 
-BENDER
+<character>BENDER</character>
 It feels like I'm trying to push a water 
 bed out of me.
 
-FRY
+<character>FRY</character>
 Almost there. Just two more bottles.
 
-BENDER
+<character>BENDER</character>
 Is it OK? I can't hear anything.
 
 [The last of the beer drains from Bender. Fry holds a bottle 
 up.]
 
-FRY
+<character>FRY</character>
 It's an ale! 5 gallons, 6 ounces!
 
 [He slaps a Benderbrau label on the bottle then hands the crate 
@@ -885,30 +885,30 @@ of beer to Bender who hugs it.]
 
 [Enter Dwight and Cubert.]
 
-DWIGHT
+<character>DWIGHT</character>
 Hey, what's goin' on? This is a delivery 
 company not a delivery room!
 
-CUBERT
+<character>CUBERT</character>
 We just busted our bums delivering a 
 million newspapers and this is how you 
 greet us? With a bunch of frosty cold 
 beers?
 
-FRY
+<character>FRY</character>
 Hey wait a second. How did you deliver 
 a million papers in one hour?
 
-CUBERT
+<character>CUBERT</character>
 Uh...we just did OK? 'Cause we're awesome! 
 Yeah!
 
-DWIGHT
+<character>DWIGHT</character>
 Yeah awesome!
 
 [The phone rings. Leela answers.]
 
-LEELA
+<character>LEELA</character>
 Hello, Awesome Express, the rude, crude 
 delivery dudes! How may I direct your 
 call?...What's that?...You haven't gotten 
@@ -919,80 +919,80 @@ your paper?...In how long?...
 [The Conrads' Dining Room. LaBarbara, Hermes and Farnsworth sit 
 at the table eating. Farnsworth holds up his empty plate.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Uh, might a homeless old man have a 
 touch more beef bourguignon? And another 
 tequila slammer?  Please?
 
-LABARBARA
+<character>LABARBARA</character>
 Don't you sweet talk me you wrinkly 
 old tube sack!
 
 [Hermes holds up his glass.]
 
-HERMES
+<character>HERMES</character>
 Might I have one too wife?
 
-LABARBARA
+<character>LABARBARA</character>
 Ah you're both pathetic, being jealous 
 of your own offspring. Now you should 
 be happy they became successes, instead 
 of following in your footstamps.
 
-HERMES
+<character>HERMES</character>
 Oh it's true. But they grow up so fast. 
 We just wanted a few more years of being 
 better than them.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 They're so stinking talented they don't 
 even need their fathers anymore.
 
 [He and Hermes hug and cry. Cubert and Dwight run in and run 
 into their father's arms.]
 
-CUBERT
+<character>CUBERT</character>
 Dad! We screwed up!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You did? Tough luck suckers!
 
-DWIGHT
+<character>DWIGHT</character>
 Please, help us Pops. We agreed to deliver 
 way more papers than we can handle.
 
-CUBERT
+<character>CUBERT</character>
 (crying) But we couldn't handle them 
 so we started dumping the extras in 
 a crater on the Moon.
 
 [He cries more.]
 
-DWIGHT
+<character>DWIGHT</character>
 (crying) And now everyone's yelling 
 at us about our missing papers!
 
-CUBERT
+<character>CUBERT</character>
 (crying) And now we don't know what 
 to do!
 
 [Hermes and Farnsworth laugh very loudly then sigh. They put 
 their sons on their laps.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Why did you boys do all this?
 
-DWIGHT
+<character>DWIGHT</character>
 (crying) We just wanted you to be proud 
 of us.
 
-HERMES
+<character>HERMES</character>
 Proud of you? You ruined us with sleazy 
 business practices and a complete disregard 
 for human decency. But, of course we're 
 proud of you.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Damn right we are! Now come on. Let's 
 go do a little Father/Son weaseling 
 out of this.
@@ -1008,7 +1008,7 @@ and a gun pops out.]
 [Ship's Torpedo Room. Hermes is sat behind the gun with the papers 
 scattered around the room.]
 
-HERMES
+<character>HERMES</character>
 OK boys, let me show you how a paper 
 man does it.
 
@@ -1018,15 +1018,15 @@ man does it.
 and one hits the little prince from the novel of the same name. 
 He tumbles away into the void of space.]
 
-BOY
+<character>BOY</character>
 Au revoir!!
 
 [Cut to: Ship's Torpedo Room.]
 
-DWIGHT
+<character>DWIGHT</character>
 Can I use the gun Dad?
 
-HERMES
+<character>HERMES</character>
 Aw what kind of father would I be if 
 I said no?
 
@@ -1036,88 +1036,88 @@ I said no?
 
 [Cut to: Ship's Torpedo Room.]
 
-DWIGHT
+<character>DWIGHT</character>
 Only one house to go. We did it!
 
 [He, Cubert, Hermes and Farnsworth cheer. The screen beeps and 
 displays the Blob house. Inside Bret Blob lifts weights.]
 
-DWIGHT
+<character>DWIGHT</character>
 Run away! That bully Bret Blob lives 
 there!
 
-CUBERT
+<character>CUBERT</character>
 He's ugly, mean, stupid, stink, mucus! 
 And last week...we sort of...broke his 
 window.
 
-HERMES
+<character>HERMES</character>
 Alright, alright. What do we do when 
 we break somebody's window?
 
-DWIGHT
+<character>DWIGHT</character>
 (sheepish) Pay for it?
 
 [Hermes laughs.]
 
-HERMES
+<character>HERMES</character>
 Heavens no! We apologise! With nice 
 cheap words!
 
 [Outside Blob House. Hermes rings the doorbell. Bret answers.]
 
-BRET
+<character>BRET</character>
 I thought I heard the doorbell but I 
 see it was the dorkbell!
 
 [He laughs. Cubert and Dwight laugh nervously.]
 
-DWIGHT
+<character>DWIGHT</character>
 Man, we had it coming Bret!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Now now, no need to give us the business. 
 We'd like a word with you daddy.
 
-BRET
+<character>BRET</character>
 Whatever. (shouting) Daaad!
 
-HERMES
+<character>HERMES</character>
 Don't worry boys. I'm sure his father 
 is a perfectly normal reasonable man.
 
 [Horrible Gelatinous Blob comes out of the door with his tentacles 
 waving.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Mr Blob, our sons have come to apologise 
 for damaging your window. They've learned 
 their lesson and they want to make amends.
 
-CUBERT
+<character>CUBERT</character>
 (ashamed) Sorry sir.
 
-DWIGHT
+<character>DWIGHT</character>
 (ashamed) Yeah, sorry.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Now see here. We assured our sons that 
 you'd accept their apology.
 
 [He laughs. Farnsoworth and Hermes move their sons aside.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No one gives my son that option!
 
 [He and Hermes roll up their sleeves.]
 
-HERMES
+<character>HERMES</character>
 Bring it on Jello-pop!
 
-CUBERT
+<character>CUBERT</character>
 Yeah go Dad!
 
-DWIGHT
+<character>DWIGHT</character>
 Show 'em who's boss!  Get 'em...Pops!
 
 [Horrible Gelatinous Blob eats Hermes and Farnsworth.]
@@ -1125,15 +1125,15 @@ Show 'em who's boss!  Get 'em...Pops!
 [Taco Bellevue Hospital. Farnsworth and Hermes are in a room 
 in body casts and traction.]
 
-CUBERT
+<character>CUBERT</character>
 That was incredible! You are the bravest 
 dads in the entire trauma centre!
 
-DWIGHT
+<character>DWIGHT</character>
 You guys almost had him...until he digested 
 you.
 
-HERMES
+<character>HERMES</character>
 Aww, you're good kids.  If I could feel 
 anything right now, it would be pride. 
 I was wrong! I can still feel pain!
@@ -1142,35 +1142,35 @@ I was wrong! I can still feel pain!
 pushes Bret in. Horrible Gelatinous Blob is carrying flowers. 
 Hermes screams.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 He's coming to finish the job. Someone 
 toss me out the window!
 
 [Hermes and Farnsworth mull it over.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I suppose.
 
 [Enter Bender with a crate of Benderbrau.]
 
-BENDER
+<character>BENDER</character>
 Hey chumps! I heard you were on the 
 ass end of an ass kicking so I figured 
 you could use a couple of these babys!
 
 [He hands Farnsworth and Hermes a bottle each.]
 
-HERMES
+<character>HERMES</character>
 Oh why not! Might as well live it up 
 as long as I 've got this catheter in 
 me!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Uh, won't join us Mr Blob?
 
 [Bender hands him a bottle.]
 
-HERMES
+<character>HERMES</character>
 This is what makes life worth clinging 
 to. Three fathers, enjoying a day out 
 with their sons.
@@ -1178,7 +1178,7 @@ with their sons.
 [Hermes, Farnsworth, Bender and Horrible Gelatinous Blob clink 
 their bottles.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 It would seem we've taught our boys 
 a lesson about life: Man or Blob, it's 
 whats inside that counts.
@@ -1186,4 +1186,4 @@ whats inside that counts.
 [They drink their beer. Cubert and Dwight struggle and whimper. 
 Bret has eaten them.]
 
-THE END</xml>
+<character>THE END</character></xml>

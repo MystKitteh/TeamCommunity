@@ -1,9 +1,9 @@
 <xml>
-<episodeInfo>FUTURAMA
+<episodeInfo><character>FUTURAMA</character>
 
 Episode 102 
 
-<title>THE SERIES HAS LANDED</title>
+<title><character>THE SERIES HAS LANDED</character></title>
 
 <author>Ken Keeler</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -12,31 +12,31 @@ Episode 102
 a big green table facing a big screen which Farnsworth stands 
 in front of.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 As new employees I'd like your opinion 
 on our commercial. I paid to have it 
 air during the Superbowl.
 
-FRY
+<character>FRY</character>
 Wow!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Not on the same channel, of course.
 
-[He puts a tiny video into the VCR and the commercial appears 
+[He puts a tiny video into the <character>VCR</character> and the commercial appears 
 on the screen. A man is sat in his office and a huge green horrible 
 gelatinous blob with three eyes is in front of him.]
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 Interplanetary deliveries - what a 
 headache!
 
-MAN
+<character>MAN</character>
 Uh... (shouting) I'm not Evans!
 
 [Horrible Gelatinous Blob turns to the camera.]
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 When those other companies aren't brave 
 or foolhardy enough to go, trust Planet 
 Express for reliable, on time delivery.
@@ -47,30 +47,30 @@ A man runs across an ice world with a parcel while at the same
 time being bombed. He delivers the parcel and is snatched by 
 a gigantic vulture. Back in the office Evans lifts up a parcel.]
 
-EVANS
+<character>EVANS</character>
 Here's your package, Mr. Horrible Gelatinous 
 Blob.
 
 [He eats Evans anyway.]
 
-EVANS
+<character>EVANS</character>
 Thank you, sir!
 
 [The Planet Express logo - a simplified picture of the ship flying 
 across a white circle with "Planet Express" written around it 
 - appears on the screen.]
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 Planet Express: Our crew is replaceable. 
 Your package isn't.
 
 [The bird is still carrying the man and squawks. The commercial 
 ends.]
 
-FRY
+<character>FRY</character>
 Are there really giant birds like that?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 No, no! That was all just special effects! 
 Now let's have breakfast. I hope everyone 
 likes eggs.
@@ -90,30 +90,30 @@ to "Sorry, We're Open".]
 and Leela are sat around the table. Fry pours some cereal into 
 a bowl, Bender relaxes and Leela looks at a clipboard.]
 
-FRY
+<character>FRY</character>
 I'm never going to get used to the 31st 
 century.  Caffinated bacon? Baconated 
 grapefruit? Admiral Crunch?
 
-LEELA
+<character>LEELA</character>
 Well, if you don't like that try some 
 Archduke Chocula.
 
 [She holds up a box of the cereal. Enter the Jamaican man with 
 a large crate.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Ah, Hermes! Crew, meet Hermes Conrad. 
 He manages my delivery business, pays 
 the bills, notifies next of kin, what 
 have you.
 
-HERMES
+<character>HERMES</character>
 Someone come and dropped this package 
 through the slot last night. Now which 
 one of you is the captain?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, my! I haven't picked a new captain 
 yet. It's always so hard to choose.
 
@@ -125,7 +125,7 @@ dribbles down his chin.]
 and belches a flame. He looks at Leela. She has already signed 
 Hermes' clipboard and she salutes to him.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Hmm, you!
 
 [He points at her. Fry groans.]
@@ -133,32 +133,32 @@ Hmm, you!
 [Planet Express: Hermes' Office. Hermes sits at his desk facing 
 Leela. He slides a sheet of paper to her.]
 
-HERMES
+<character>HERMES</character>
 OK, Captain, this is just a standard 
 legal release protecting Planet Express 
 from lawsuits in the event of the unforeseen.
 
 [He hands Leela a piece of paper.]
 
-LEELA
+<character>LEELA</character>
 (reading) Death by airlock failure.
 
-HERMES
+<character>HERMES</character>
 Mmm.
 
-LEELA
+<character>LEELA</character>
 (reading) Death by brain parasite.
 
-HERMES
+<character>HERMES</character>
 Yeah.
 
-LEELA
+<character>LEELA</character>
 (reading) Death by sonic diarrhoea?
 
-HERMES
+<character>HERMES</character>
 (chuckling) Oh, you don't want that!
 
-LEELA
+<character>LEELA</character>
 Look, I don't know about any of your 
 previous captains but I intend to do 
 as little dying as possible.
@@ -166,13 +166,13 @@ as little dying as possible.
 [She puts the form on the desk and Hermes chuckles again. He 
 slides it back to her.]
 
-HERMES
+<character>HERMES</character>
 Sign the paper!
 
 [Planet Express: Corridor. Farnsworth and Fry stand next to a 
 door.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Now Fry, before you go into space you'll 
 need to see our staff doctor. I should 
 warn you though, he's a little unusual. 
@@ -183,41 +183,41 @@ alien creature is sat in his chair with is feet on the desk.
 Behind him is a chart of a human's internal organs - pinned to 
 the wall upside down.]
 
-FRY
+<character>FRY</character>
 Hi -- eurgh!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Dr. Zoidberg, this is Fry, the new delivery 
 boy. He needs a physical.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Excellent, excellent!
 
 [He clacks his claws. Fry is not so sure.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You'll be fine.
 
 [He turns to leave but looks back with a worried look on his 
 face.]
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Now open your mouth and let's have a 
 look at that brain.  No no no no no 
 not that mouth!
 
-FRY
+<character>FRY</character>
 I only have one.
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Really?
 
 [He takes a small card out of his pocket and looks at it.]
 
-FRY
+<character>FRY</character>
 Uh, is there a human doctor around?
 
-ZOIDBERG
+<character>ZOIDBERG</character>
 Young lady, I'm an expert on humans. 
 Now pick a mouth, open it and say... 
 What? My mother was a saint! Get out!
@@ -226,38 +226,38 @@ What? My mother was a saint! Get out!
 head from his body. With them is Leela and a young Asian woman 
 wearing a pink jumpsuit.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Dear Lord, Bender, you're filthy.
 
-BENDER
+<character>BENDER</character>
 Yeah, like you don't have crap in your 
 neck!
 
 [Farnsworth puts Bender's head down on a table and turns to the 
 girl.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Amy, why don't you give his body a going 
 over with the cleaning pick?
 
-AMY
-OK. Does it hurt when I go like this?
+<character>AMY</character>
+<character>OK</character>. Does it hurt when I go like this?
 
 [She pokes Bender's neck but hits Leela in the eye instead.]
 
-LEELA
+<character>LEELA</character>
 Ow!
 
-BENDER
+<character>BENDER</character>
 A little.
 
 [Enter Fry.]
 
-FRY
+<character>FRY</character>
 Well, the doctor says I'm as healthy 
 as a crab. Can I go into space now?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 As soon as we finish cleaning Bender. 
 Oh, and Fry, this is our intern, Amy 
 Wong. She's an engineering student of 
@@ -265,28 +265,28 @@ mine. (whispering) I like having her
 around because she's the same blood 
 type as me.
 
-AMY
+<character>AMY</character>
 Hey! You're the unfrozen guy! From the 
 20th century, right?
 
-FRY
+<character>FRY</character>
 (chuffed) Last time I checked.
 
-LEELA
+<character>LEELA</character>
 Hang on. Amy Wong? Of the Mars Wongs?
 
-AMY
+<character>AMY</character>
 Look. We're not as rich as everybody 
 says.
 
-LEELA
+<character>LEELA</character>
 Uh-huh! What sorority do you belong 
 to?
 
-AMY
+<character>AMY</character>
 (ashamed) Kappa Kappa Wong.
 
-BENDER
+<character>BENDER</character>
 Hey, rich girl. Look over here! It's 
 me, Bender. I'm being entertaining. 
 (singing) La la la look at my head. 
@@ -294,45 +294,45 @@ It's all painted look at my head! I
 got a big old head, hey! Ho! (talking) 
 Alright, show's over, I'm tired.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Ah, to be young again. And also a robot! 
 Now as I recall you youngsters have 
 a package to deliver.
 
-FRY
+<character>FRY</character>
 Finally! Come on Bender, let's mosey!
 
 [He picks up Bender's head and throws it to his body. It misses 
 the catch and Bender's head falls on the floor.]
 
-BENDER
+<character>BENDER</character>
 Nice catch, idiot!
 
 [Planet Express: Hangar. The crate is being loaded into the ships 
 cargo bay on a magnetic winch. It is addressed to Luna Park.]
 
-FRY
+<character>FRY</character>
 So where are we going anyway?
 
-LEELA
+<character>LEELA</character>
 Nowhere special. The moon.
 
-FRY
+<character>FRY</character>
 The moon? The moon moon? Wow! I'm gonna 
 be a famous hero just like Neil Armstrong 
 and those other brave guys no one ever 
 heard of!
 
-AMY
+<character>AMY</character>
 Oh, I love stuff like the moon! Can 
 I come, Leela?
 
-LEELA
+<character>LEELA</character>
 Well...I guess so. Just be careful. 
 I'd like to hold off any major screwups 
 until at least my second day as captain.
 
-FANSWORTH
+<character>FANSWORTH</character>
 Nothing will go wrong.  (whispering) 
 If something goes wrong bring back the 
 blood.
@@ -349,16 +349,16 @@ position.]
 
 [Cut to: Ships Cockpit. Fry scoots his chair over to Leela.]
 
-FRY
+<character>FRY</character>
 Can I do the countdown?
 
-LEELA
+<character>LEELA</character>
 Huh? Oh sure, knock yourself out.
 
-FRY
+<character>FRY</character>
 Ten......nine --
 
-LEELA
+<character>LEELA</character>
 OK we're here!
 
 Fry; (awestruck) Eightsevensixfivefourthreetwooneblastoff!
@@ -371,72 +371,72 @@ a dome on the surface.]
 [Cut to: Ships Cockpit. Leela takes the keys out of the ignition 
 and Fry gets out of his seat and heads for the door.]
 
-FRY
+<character>FRY</character>
 Hurry up, I wanna see the moon!
 
-LEELA
+<character>LEELA</character>
 Relax, its open till 9.
 
 [Cut to: Outside Ship. Fry stands on the bottom step.]
 
-FRY
+<character>FRY</character>
 That's one small step for Fry --
 
-MAN
+<character>MAN</character>
 And one giant line for admission!
 
 [The man is standing in a long queue for the Luna Park, a huge 
 Disneyland-like place with moon-themed rides.]
 
-FRY
+<character>FRY</character>
 Wow!  Um, can I have cuts?
 
-MAN
+<character>MAN</character>
 Hmm -- No!
 
 [Cut to: Ships Cockpit. Fry runs in.]
 
-FRY
+<character>FRY</character>
 You're not gonna believe this but they 
 landed an amusement park on the moon!
 
-AMY
+<character>AMY</character>
 Guh! It's the happiest place orbiting 
 Earth.
 
-FRY
+<character>FRY</character>
 Lets go, already!
 
 [They walk towards the door but Leela is blocking it.]
 
-LEELA
+<character>LEELA</character>
 Fry, we have a crate to deliver.
 
-FRY
+<character>FRY</character>
 Let's just dump it in the sewer and 
 say we delivered it.
 
-BENDER
+<character>BENDER</character>
 Too much work. Lets burn it and say 
 we dumped it in the sewer.
 
-LEELA
+<character>LEELA</character>
 OK, if everyone's finished being stupid 
 --
 
-FRY
+<character>FRY</character>
 I had more but you go ahead.
 
-LEELA
+<character>LEELA</character>
 We'll deliver that crate like professionals 
 and then we'll go home.
 
-FRY
+<character>FRY</character>
 But I've never been to the moon before.
 
 [Leela sighs.]
 
-LEELA
+<character>LEELA</character>
 Alright. We'll deliver that crate like 
 professionals...and then we'll go ride 
 the bumper cars.  Amy, why don't you 
@@ -445,29 +445,29 @@ lock up when you're done. Just be careful.
 
 [She hands the keys to Amy.]
 
-AMY
+<character>AMY</character>
 Aye, aye, Captain! I mean only one eye. 
 I mean, yes, sir, um, ma'am!
 
 [Ships Cargo Bay. Fry stands next to the crate by the open bomb 
 bay doors while Amy stands at the magnetic winch control station.]
 
-AMY
+<character>AMY</character>
 Clear?
 
-FRY
+<character>FRY</character>
 Clear!
 
-AMY
+<character>AMY</character>
 Ready to hoist?
 
-FRY
+<character>FRY</character>
 Ready!
 
 [Amy presses a button and the winch drops and hits her on the 
 head.]
 
-AMY
+<character>AMY</character>
 Ow!
 
 [The magnetic forces pull the keys out of her pocket. She tries 
@@ -477,80 +477,80 @@ winch and through a hole in the crate.]
 [Outside Luna Park Receiving Depot. Fry wheels the crate towards 
 the room on a trolley. Amy follows.]
 
-FRY
+<character>FRY</character>
 My first space delivery.
 
 [Cut to: Luna Park Receiving Depot. A lazy man named Sal is sat 
 at a desk with his feet up. Enter Fry.]
 
-FRY
+<character>FRY</character>
 Uh, greetings, Moon Man, we come in 
 peace. I am Fry from the planet Earth.
 
-SAL
+<character>SAL</character>
 Wise guy, huh? If I wasn't so lazy I'd 
 punch you in the stomach.
 
-FRY
+<character>FRY</character>
 But you are lazy, right?
 
-SAL
+<character>SAL</character>
 Oh, don't get me started.
 
-[Luna Park: Moon Street USA. The crew walk past a band of bandbots 
+[Luna Park: Moon Street <character>USA</character>. The crew walk past a band of bandbots 
 that are shaped like musical instruments, past a Moonvenirs stall. 
 Bender stops and takes a bottle out of his chest cabinet and 
 a mascot with a huge flat moon shaped head runs up behind him.]
 
-CRATER FACE
+<character>CRATER FACE</character>
 Hi, I'm Crater Face! Welcome to Luna 
 Park. I'll have to confiscate your alcohol, 
 sir.
 
-BENDER
+<character>BENDER</character>
 Better mascots than you have tried.
 
 [He finishes the bottle and jabs it in Crater Face's eye making 
 it look like a scene from A Trip To The Moon. He leaves..]
 
-CRATER FACE
+<character>CRATER FACE</character>
 At least I still have my self respect!
 
 [He chuckles to himself then cries.]
 
 [Time Lapse. At a souvenir stall they merchandise such as "I'm 
 With Stupid On The Moon" t-shirts, "My Other Car Is A Porsche 
-- On The Moon" bumper stickers and "What Part Of MOON Don't You 
+- On The Moon" bumper stickers and "What Part Of <character>MOON</character> Don't You 
 Understand?" fridge magnets. Leela scoffs.]
 
-LEELA
+<character>LEELA</character>
 Who buys this trash?
 
-BENDER
+<character>BENDER</character>
 Idiots who need gifts for other idiots.
 
 [Fry emerges from around the corner wearing one of the t-shirts 
 and carrying magnets.]
 
-FRY
+<character>FRY</character>
 Hey, I got you guys refrigerator magnets.
 
 [He puts one on Bender's head causing Bender's pupils to dilate 
 and an electrical surge in his head. He starts waving his arms 
 around in a panic.]
 
-BENDER
+<character>BENDER</character>
 Get it off! Get it off! Get it -- uh 
 oh!  (singing) How many roads must a 
 man walk down, before you... (talking) 
 Keep those things off of me! Magnets 
 screw up my inhibition unit!
 
-FRY
+<character>FRY</character>
 So you flip out and start acting like 
 some crazy folk singer?
 
-BENDER
+<character>BENDER</character>
 Yes. I guess a robot would have to be 
 crazy to wanna be a folk singer.
 
@@ -560,7 +560,7 @@ crazy to wanna be a folk singer.
 through an It's A Small World After All-like ride passing by 
 robotic whalers.]
 
-WHALERBOTS
+<character>WHALERBOTS</character>
 (singing) We're whalers on the moon,
 
 We carry a harpoon,
@@ -571,48 +571,48 @@ And sing our whaling tune!
 
 [A Whalerbot tilting on a barrel waves to Bender.]
 
-WHALERBOT
+<character>WHALERBOT</character>
 Bender, hey, Bender! Over here!
 
 [Bender covers his face and turns away.]
 
-BENDER
+<character>BENDER</character>
 Oh, jeez, I went to high school with 
 that guy!
 
 [Luna Park: Goophy Gopher Revue. The audience sit patiently for 
 the show to begin.]
 
-ANNOUNCER
+<character>ANNOUNCER</character>
 Monsanto presents: The Goophy Gopher 
 Revue!
 
 [On a small stage several robotic gophers pop out of crater-shaped 
 holes.]
 
-GOPHER #1
+<character>GOPHER #1</character>
 Why does a moon rock taste better than 
 an Earth rock?
 
-GOPHER #2
+<character>GOPHER #2</character>
 Because it's a little meteor!
 
 [The gophers laugh.]
 
-FRY
+<character>FRY</character>
 This is weak!
 
-GOPHER #1
+<character>GOPHER #1</character>
 Address all complaints to the Monsanto 
 Corporation.
 
 [Luna Park. The crew get some candy floss from an Orlon Candy 
 stall and carry on walking around the park. Fry looks unhappy.]
 
-LEELA
+<character>LEELA</character>
 What's wrong, Fry?
 
-FRY
+<character>FRY</character>
 I don't know. This place is great and 
 all but its just so artificial. The 
 gravity, the air, the gophers. You might 
@@ -621,55 +621,55 @@ I came to see! I wanna go out there
 and jump around like an astronaut. Screw 
 this phoney stuff!
 
-LEELA
+<character>LEELA</character>
 But the phoney stuff is what's fun. 
 It's boring out there.
 
-BENDER
+<character>BENDER</character>
 Yeah! You're the kind of guy who visits 
 Jerusalem and doesn't want to see the 
 Sexeteria!
 
-LEELA
+<character>LEELA</character>
 Maybe I should take Fry on the Luna 
 Rover ride. You get to wear a space 
 suit and drive around on the surface. 
 And the line's short because it's educational.
 
-FRY
+<character>FRY</character>
 I don't care how educational it is. 
 Let's do it!
 
 [He runs off with Leela. Bender raises his bottle.]
 
-BENDER
+<character>BENDER</character>
 (shouting) Next year in Jerusalem!
 
 [Luna Park: Destination Moon. Fry and Leela sit in a moon buggy 
 wearing orange spacesuits.]
 
-FRY
+<character>FRY</character>
 Finally! Get ready for some serious 
 moon action.
 
 [They go through some doors.]
 
-NARRATOR
+<character>NARRATOR</character>
 (voice-over) The story of lunar exploration 
 started with one man. A man with a dream.
 
 [The ride continues to a room with animatronic versions of the 
 leads from The Honeymooners.]
 
-RALPH KRAMDENBOT
+<character>RALPH KRAMDENBOT</character>
 One of these days, Alice. Bang! Zoom! 
 Straight to the moon!
 
-LEELA
+<character>LEELA</character>
 Wow, I never realised the first astronauts 
 were so fat!
 
-FRY
+<character>FRY</character>
 That's not an astronaut, it's a TV comedian. 
 And he was just using space travel as 
 a metaphor for beating his wife.
@@ -678,13 +678,13 @@ a metaphor for beating his wife.
 virtual version of Virtual Skeeball. She just sits in a chair 
 wearing a VR helmet.]
 
-AMY
+<character>AMY</character>
 Wow! I could swear I was really playing 
 virtual skeeball!  Hm?
 
 [She takes the helmet off.]
 
-BENDER
+<character>BENDER</character>
 Look, it's that crate we were gonna 
 throw in the sewer.
 
@@ -692,19 +692,19 @@ throw in the sewer.
 using a robot arm around his waist. They watch as the ship keys 
 fall out of the crate and into the machine. Amy gasps.]
 
-AMY
+<character>AMY</character>
 The keys to the ship!  They must have 
 fallen into the crate! Leela's gonna 
 kill me!
 
-BENDER
+<character>BENDER</character>
 Nah. She'll probably make me do it.
 
-AMY
+<character>AMY</character>
 Mister? Could you please get those keys 
 out for me?
 
-SAL
+<character>SAL</character>
 What do I look like? A guy who's not 
 lazy?
 
@@ -715,14 +715,14 @@ but drops them on the way back up and she curses in Chinese.]
 lunar terrain, boxed in with poorly constructed walls with stars 
 painted on them.]
 
-NARRATOR
+<character>NARRATOR</character>
 (voice-over) No one knows where, when 
 or how Man first landed on the moon...
 
-FRY
+<character>FRY</character>
 I do.
 
-NARRATOR
+<character>NARRATOR</character>
 (voice-over) ...but our fungineers think 
 it might have happened something like 
 this:
@@ -730,95 +730,95 @@ this:
 [A prop of a lunar landing module opens up and Whalerbots file 
 out of it.]
 
-WHALERBOTS
+<character>WHALERBOTS</character>
 (singing) We're whalers on the moon,
 
 [Goophy Gophers pop up from craters.]
 
-GOPHERS
+<character>GOPHERS</character>
 (singing) We carry a harpoon,
 
-LEELA
+<character>LEELA</character>
 (singing) ...and sing a whaling tune. 
 We're whalers on the moon...
 
-FRY
+<character>FRY</character>
 That's not how it happened.
 
-LEELA
+<character>LEELA</character>
 Oh, really? I don't see you with a fungineering 
 degree! p>
 
-FRY
+<character>FRY</character>
 This is stupid. I'm taking this thing 
 out to the real moon.
 
-LEELA
+<character>LEELA</character>
 Fry, no. This is my first mission and 
 I'm not gonna let us get in any trouble. 
 Besides, the car's on a track.
 
-FRY
+<character>FRY</character>
 Not for long!
 
 [He grabs a harpoon, throws it in front of the buggy and derails 
 it. It drives over a whalerbot and out onto the open lunar surface.]
 
-WHALERBOT
+<character>WHALERBOT</character>
 Ooh aah! I died doin' what I loved.
 
 [Cut to: Lunar Surface. Fry drives the car around grinning.]
 
-LEELA
+<character>LEELA</character>
 OK, you're on the surface. Now I'll 
 give you 10 minutes. Then you'll get 
 bored, turn around and apologise for 
 being such a jerk. Agreed?
 
-FRY
+<character>FRY</character>
 Agreed.  Yee-haw! Woo! Yeah! Crank up 
 the radio!
 
 [He turns the radio on.]
 
-WHALERBOTS
+<character>WHALERBOTS</character>
 We're whalers on the -
 
 [He turns it off straight away.]
 
 [Time Lapse. Fry drives around another crater.]
 
-FRY
+<character>FRY</character>
 Yee-haw!
 
-LEELA
+<character>LEELA</character>
 Time's up. Make a U-turn at the next 
 crater.
 
-FRY
+<character>FRY</character>
 No not yet. How 'bout we go look for 
 the original moon landing site?
 
-LEELA
+<character>LEELA</character>
 That's crazy! It's been lost for centuries!
 
-FRY
+<character>FRY</character>
 Well I'm feelin' lucky!  Uh... I'm ready 
 to go back now.
 
 [Time Lapse.]
 
-FRY
+<character>FRY</character>
 We're gonna die! It's every man for 
 himself!  Help me, Leela!  You did it! 
 We're safe!
 
-LEELA
+<character>LEELA</character>
 No. Now we're gonna die.
 
 [The gauge on the oxygen canister reads nearly empty.]
 
-FRY
+<character>FRY</character>
 It's every man for himself.
 
 [He tries to run off but chokes himself on the oxygen pipe from 
@@ -827,24 +827,24 @@ his helmet.]
 [Luna Park: Arcade. Amy is still trying to get the keys but the 
 claw drops them again. Enter Bender with a small doll.]
 
-BENDER
+<character>BENDER</character>
 Hey, look what I won from a tourist's 
 pocket!
 
-AMY
+<character>AMY</character>
 Shut up. You're distracting me.
 
-BENDER
+<character>BENDER</character>
 Come on, it's just like making love. 
 Y'know: Left, down, rotate 62 degrees, 
 engage rotor.
 
-AMY
+<character>AMY</character>
 I know how to make love!
 
 [The claw drops the keys again. Amy sighs.]
 
-BENDER
+<character>BENDER</character>
 Here, let me do it.  Ah, lousy arm. 
 Must be rigged!  That's her, officers! 
 Uh, that's the woman who programmed 
@@ -856,7 +856,7 @@ Moon Patrol chase him.]
 [Cut to: Outside Lunar Park Dome. The Moon Patrol officers throw 
 Bender outside the dome and close the doors behind him.]
 
-BENDER
+<character>BENDER</character>
 Yeah, well, I'm gonna go build my own 
 theme park, with blackjack and hookers. 
 In fact, forget the park!
@@ -864,7 +864,7 @@ In fact, forget the park!
 [Lunar Surface. An exhausted Fry and Leela continue their journey 
 back to the park.]
 
-FRY
+<character>FRY</character>
 (gasping) I'm sorry, Leela, I can't 
 go on any further. Just leave me to 
 die in that barn over there.
@@ -874,91 +874,91 @@ die in that barn over there.
 [Cut to: Farmyard. Fry and Leela run in and take off their space 
 helmets, panting.]
 
-LEELA
+<character>LEELA</character>
 Thank God!
 
 [Behind them a gun cocks. They turn around and see a farmer. 
 He has a buck tooth and a cap that says "The Moon Shall Rise 
 Again".]
 
-FARMER
+<character>FARMER</character>
 Trespassers, eh?
 
-FRY
+<character>FRY</character>
 No, sir. We're amusement park patrons.
 
-FARMER
+<character>FARMER</character>
 Ooh, that's a wicked sinful place. Tilt-a-whirl's 
 OK, but the rest is mighty wicked.
 
-LEELA
+<character>LEELA</character>
 Our car broke down and we're out of 
 oxygen. Can we borrow some?
 
-FARMER
+<character>FARMER</character>
 Huh, borry? Looky here, city girl, oxygen 
 don't grow on trees. You'll have to 
 earn it doing chores on my hydroponic 
 farm. You can go back to your precious 
 theme park at sun up.
 
-FRY
+<character>FRY</character>
 I guess we could do chores for a few 
 hours.
 
-LEELA
+<character>LEELA</character>
 Fry, night lasts two weeks on the moon.
 
-FARMER
+<character>FARMER</character>
 Yup. Drops down to -173!
 
-FRY
+<character>FRY</character>
 Fahrenheit or Celsius?
 
-FARMER
+<character>FARMER</character>
 First one, then th'other. And them spacesuits 
 ain't a-heated so you ain�t goin' nowhere 
 til sunrise. You can sleep in the barn. 
 Just don't be a-touchin' my three beautiful 
 robot daughters. Y'hear?
 
-FRY
+<character>FRY</character>
 Robot daughters?
 
 [He points to his robot daughters outside the house.]
 
-FARMER
+<character>FARMER</character>
 This here is Lulabelle 7.
 
-LULABELLE 7
+<character>LULABELLE 7</character>
 Yoo-hoo!
 
-FARMER
+<character>FARMER</character>
 Daisy-Mae 128K.
 
-DAISY-MAE 128K
+<character>DAISY</character>-<character>MAE 128K</character>
 Yoo-hoo!
 
-FARMER
+<character>FARMER</character>
 And the Crushinator.
 
 [The Crushinator is a huge pink thing with tracks instead of 
 legs.]
 
-CRUSHINATOR
+<character>CRUSHINATOR</character>
 (mechanical voice) Yoo-hoo.
 
-FRY
+<character>FRY</character>
 Whoa!
 
 [Barn. Fry and Leela are milking some cows.]
 
-LEELA
+<character>LEELA</character>
 I told you to turn around and go back 
 to the park. But oh, no, the park was 
 too phoney. We had to see the real moon.
 
-FRY
+<character>FRY</character>
 And it was great! We got to see craters 
 and rocks and that one incredible rock 
 that looked like a crater and, and these 
@@ -967,14 +967,14 @@ fellas.
 [He pats the cow, which isn't a cow but some sort of insect-bovine 
 creature called a buggalo.]
 
-LEELA
+<character>LEELA</character>
 Fry, face it. The moon is a dump. It's 
 a boring dried up wasteland. And the 
 only reason anybody ever comes here 
 is for the tacky little amusement park. 
 Can't you just accept that?
 
-FRY
+<character>FRY</character>
 I guess I can't.
 
 [They hear a shot from outside. They look through the transparent 
@@ -983,7 +983,7 @@ barn doors and see Bender running out of the farmhouse.]
 [Cut to: Farmyard. The farmer chases him out of the house waving 
 his rifle.]
 
-FARMER
+<character>FARMER</character>
 I'll learn ye to sleep with my robot 
 daughters!
 
@@ -992,17 +992,17 @@ daughters!
 [Cut to: Barn. He leans against the transparent door. Outside 
 the farmer reloads his gun.]
 
-BENDER
+<character>BENDER</character>
 He'll never find me in here.
 
-LEELA
+<character>LEELA</character>
 Bender?
 
-FRY
+<character>FRY</character>
 Oh, Bender. You didn't touch the Crushinator, 
 did you?
 
-BENDER
+<character>BENDER</character>
 Of course not. A lady that fine you 
 gotta romance first.
 
@@ -1018,12 +1018,12 @@ The farmer, in a spacesuit but with his cap sat on top, Lulabelle
 7 and Daisy-Mae 128K run after them. The farmer fires a shot 
 at them and misses.]
 
-FARMER
+<character>FARMER</character>
 Oh, no you don't! C'mere Crushinator.
 
 [Crushinator drives out of the farm and pulls up beside him.]
 
-CRUSHINATOR
+<character>CRUSHINATOR</character>
 (mechanical voice) Yes, Pa.
 
 [She transforms into a car. The farmer and his other two daughters 
@@ -1032,10 +1032,10 @@ crew around past craters and through ravines. The farmer takes
 a shot at the crew and narrowly misses them. The crew round a 
 corner and find their way blocked by a rock bridge.]
 
-FRY
+<character>FRY</character>
 It's too low.
 
-LEELA
+<character>LEELA</character>
 Hang on. Hang on. Jump.  Hold on to 
 your helmet!
 
@@ -1044,33 +1044,33 @@ and land safely on the other side. They all cheer and then a
 wheel falls off the buggy. The Crushintor approaches the other 
 side and stops. The farmer climbs out and slams the door.]
 
-FARMER
+<character>FARMER</character>
 God darn, it Crushinator, jump!
 
-CRUSHINATOR
+<character>CRUSHINATOR</character>
 (mechanical voice) No, Pa. I love him.
 
 [The farmer takes his hat off and jumps on it, groaning. Leela 
 looks at the broken wheel and Fry sees a huge shadow approaching.]
 
-FRY
+<character>FRY</character>
 Hey, cool! Dark side of the moon!
 
 [Leela gasps.]
 
-LEELA
+<character>LEELA</character>
 Nightfall's coming.  Hurry, before we 
 freeze.
 
 [The flee from the shadow.]
 
-BENDER
+<character>BENDER</character>
 What do you mean "we", mammal?
 
 [Cut to: Planet Express: Farnsworth's Lab. He watches the crew 
 through a telescope.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, dear! I really ought to do something. 
 But I am already in my pyjamas.
 
@@ -1078,30 +1078,30 @@ But I am already in my pyjamas.
 
 [Cut to: Lunar Surface. Fry and Leela are panting.]
 
-LEELA
+<character>LEELA</character>
 We can't outrun it forever.
 
 [Fry sees something.]
 
-FRY
+<character>FRY</character>
 Over there! Look! It's the moon landing 
 site! We found it!
 
 [They run towards it. Leela climbs the ladder and pushes over 
 the hatch.]
 
-LEELA
+<character>LEELA</character>
 Quick, get in.
 
 [Fry sees the American flag.]
 
-FRY
-It's that flag from MTV! And Neil Armstrong's 
+<character>FRY</character>
+It's that flag from <character>MTV</character>! And Neil Armstrong's 
 footprint!  Hey! My foot's bigger! Leela, 
 isn't this the greatest thing you've 
 ever seen?
 
-LEELA
+<character>LEELA</character>
 Fry, look around. It's just a crummy 
 plastic flag and a dead man's tracks 
 in the dust.  Now get in here before 
@@ -1113,7 +1113,7 @@ you freeze.
 
 [Cut to: Lunar Surface. She closes the door just as Bender arrives.]
 
-BENDER
+<character>BENDER</character>
 Oh, no room for Bender, huh? Fine! I'll 
 go build my own lunar lander, with blackjack 
 and hookers. In fact, forget the lunar 
@@ -1124,22 +1124,22 @@ the whole thing.
 
 [Apollo 11 Lander. Leela reads the oxygen gauge.]
 
-LEELA
+<character>LEELA</character>
 Well if the oxygen holds out we might 
 live long enough to starve to death.
 
-FRY
+<character>FRY</character>
 Look, Leela, I'm sorry. I never should 
 have dragged you out here.
 
-LEELA
+<character>LEELA</character>
 That's right, you shouldn't have. I 
 still don't get what the big attraction 
 is.
 
 [Fry sighs.]
 
-FRY
+<character>FRY</character>
 I never told anybody this but a thousand 
 years ago I used to look up at the moon 
 and dream about being an astronaut. 
@@ -1148,10 +1148,10 @@ physical endurance. Plus I threw up
 a lot and nobody liked spending a week 
 with me.
 
-LEELA
+<character>LEELA</character>
 A week would be a little much.
 
-FRY
+<character>FRY</character>
 The moon was like this awesome, romantic, 
 mysterious thing, hanging up there in 
 the sky where you could never reach 
@@ -1163,7 +1163,7 @@ my eyes, the way I used to.
 
 [Leela looks through a window. She sees the Earth.]
 
-LEELA
+<character>LEELA</character>
 Fry, look. It really is beautiful. I 
 don't know why I never noticed before.
 
@@ -1172,7 +1172,7 @@ don't know why I never noticed before.
 [Cut to: Lunar Surface. The farmer is chasing him in a weird 
 thing with spikes.]
 
-FARMER
+<character>FARMER</character>
 Had to come back for the Crushinator, 
 eh, robot? Well I got you this time.
 
@@ -1181,10 +1181,10 @@ in above them. The magnetic winch lowers towards Bender.]
 
 [Cut to: Apollo 11 Lander.]
 
-FRY
+<character>FRY</character>
 It's Amy! We're saved!
 
-LEELA
+<character>LEELA</character>
 Amy? Where'd she learn to operate the 
 controls like that?
 
@@ -1194,7 +1194,7 @@ toys from the game are piled up in the corner.]
 
 [Cut to: Lunar Surface. The winch is getting closer to Bender.]
 
-BENDER
+<character>BENDER</character>
 Not the magnet! No! No! Nooo --  Uh-oh!
 
 [Cut to: Ships Cockpit. Amy cheers.]
@@ -1202,7 +1202,7 @@ Not the magnet! No! No! Nooo --  Uh-oh!
 [Cut to: Lunar Surface. Bender kicks his legs and waves his arms 
 around as he flies away from the farmer attached to the winch.]
 
-BENDER
+<character>BENDER</character>
 (singing) She'll be comin' round the 
 mountain when she comes,
 
@@ -1220,14 +1220,14 @@ She'll be comin' --
 The farmer watches the ship fly away and takes off his space 
 helmet and jumps on it.]
 
-FARMER
+<character>FARMER</character>
 Aww, dang it!
 
 [He starts to choke then collapses. He reaches over to the helmet 
 and puts it back on and breathes. Bender, still attached to the 
 side of the lander, carries on singing.]
 
-BENDER
+<character>BENDER</character>
 (singing) She'll be riding six white 
 horses when she comes,
 
@@ -1237,16 +1237,16 @@ She'll be riding six white horses when she comes -
 
 (singing) She'll be riding six white horses...
 
-LEELA
+<character>LEELA</character>
 So, Fry, was the real moon anything 
 like the moon you used to dream about?
 
-FRY
+<character>FRY</character>
 Well, close enough!
 
-THE END
+<character>THE END</character>
 
-BENDER
+<character>BENDER</character>
 Well I'll shoot her with my ray gun 
 when she comes,
 

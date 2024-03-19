@@ -1,8 +1,8 @@
-<xml><episodeInfo>FUTURAMA
+<xml><episodeInfo><character>FUTURAMA</character>
 
 Episode 101 
 
-"SPACE PILOT 3000"
+"<character>SPACE PILOT 3000</character>"
 
 <author>David X. Cohen & Matt Groening</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
@@ -10,7 +10,7 @@ Episode 101
 [Over the caption December 31st 1999 a crude spaceship flies 
 through space, cruising over and under planets and a man speaks.]
 
-MAN
+<character>MAN</character>
 (voice-over) Space. It seems to go on 
 and on forever. But then you get to 
 the end and the gorilla starts throwing 
@@ -26,16 +26,16 @@ distinct forks at the front. There is a little kid standing next
 to him. The game is against the wall in a pizzeria called Panucci's 
 Pizza.]
 
-FRY
+<character>FRY</character>
 And that's how you play the game!
 
-KID
+<character>KID</character>
 You stink, loser!
 
 [Mr Panucci, a middle-aged balding man wearing a vest, leans 
 over the counter with a pizza box.]
 
-PANUCCI
+<character>PANUCCI</character>
 Hey, Fry. Pizza goin' out! C'mon!!
 
 [Fry sighs, takes the pizza from him and walks out.]
@@ -43,16 +43,16 @@ Hey, Fry. Pizza goin' out! C'mon!!
 [New York Street. Fry cycles past people enjoying their New Millennium 
 Eve. A cab pulls up and he sees his girlfriend inside.]
 
-FRY
+<character>FRY</character>
 Michelle, baby! Where you going?
 
-MICHELLE
+<character>MICHELLE</character>
 It's not working out, Fry.   I put your 
 stuff out on the sidewalk!
 
 [Time Lapse. Fry is still on his bike getting more and more depressed.]
 
-FRY
+<character>FRY</character>
 I hate my life I hate my life I hate 
 my life.
 
@@ -60,7 +60,7 @@ my life.
 and locks up his bike. A man sneaks up behind him, cuts the chain 
 and steals his bike.]
 
-BIKE THIEF
+<character>BIKE THIEF</character>
 Happy new year!
 
 [Applied Cryogenics. Fry steps out of the elevator on the 64th 
@@ -75,7 +75,7 @@ in the middle of the room. Fry wipes some condensation from a
 window on one of the pods, revealing the face of an inanimate 
 man inside. He turns around.]
 
-FRY
+<character>FRY</character>
 Hello? Pizza delivery for......Icy Wiener?! 
 Aw, crud! I always thought at this point 
 in my life I'd be the one making the 
@@ -87,53 +87,53 @@ millennium.
 [Cut to: Time Square. Crowds have gathered for the countdown. 
 10 appears on a huge screen.]
 
-CROWD
+<character>CROWD</character>
 Ten!
 
 [Cut to: Paris. A screen on the Eiffel Tower displays 9.]
 
-CROWD
+<character>CROWD</character>
 Neuf!
 
-[Cut to: Vatican City. The Pope holds up a sign with "VIII" on 
+[Cut to: Vatican City. The Pope holds up a sign with "<character>VIII</character>" on 
 it.]
 
-CROWD
+<character>CROWD</character>
 Otto!
 
 [Cut to: Egypt. Egyptians crowd around the pyramids.]
 
-CROWD
+<character>CROWD</character>
 Sabaa!
 
 [Cut to: Athens. People are gathered around the Parthelon.]
 
-CROWD
+<character>CROWD</character>
 Eksi!
 
 [Cut to: Great Wall Of China.]
 
-CROWD
+<character>CROWD</character>
 Wu!
 
 [Cut to: Taj Mahal.]
 
-CROWD
+<character>CROWD</character>
 Chaar!
 
 [Cut to: African Village.]
 
-CROWD
+<character>CROWD</character>
 Thathu!
 
 [Cut to: Tokyo. A screen displays 2.]
 
-CROWD
+<character>CROWD</character>
 Wu!
 
 [From space the whole planet sees in the new millennium.]
 
-CROWD
+<character>CROWD</character>
 One!
 
 [Cut to: Cryogenics Lab. Fry unenthusiastically blows a party 
@@ -144,7 +144,7 @@ desk. The chair tips back and Fry falls off it and rolls backwards
 into cryogenic freezer number 40. The dial on the machine automatically 
 sets itself for 1000 years.]
 
-FRY
+<character>FRY</character>
 What the?
 
 [He looks around and screams. In a flash he is frozen in time.]
@@ -157,7 +157,7 @@ later and the door opens. Fry is unfrozen. Initially disorientated,
 he stumbles around and notices something to his right. He presses 
 his face against a large window and stares in awe.]
 
-FRY
+<character>FRY</character>
 My God! It's the future. My parents, 
 my co-workers, my girlfriend. I'll never 
 see any of them again. Yahoo!
@@ -167,7 +167,7 @@ see any of them again. Yahoo!
 [Cryogenics Lab. Fry is still looking out of the window. The 
 door opens and two shadows walk in.]
 
-MAN
+<character>MAN</character>
 (dramatically) Welcome to the world 
 of tomorrow!
 
@@ -176,11 +176,11 @@ both wearing white lab coats. The dramatic one is called Terry.
 He is a blonde Caucasian with large glasses. The other is called 
 Lou, a black haired Asian.]
 
-LOU
+<character>LOU</character>
 Why do you always have to say it that 
 way?
 
-TERRY
+<character>TERRY</character>
 Haven't you ever heard of a little thing 
 called showmanship?  (dramatically) 
 Come, your destiny awaits!
@@ -188,80 +188,80 @@ Come, your destiny awaits!
 [Applied Cryogenics Corridor. The technicians leave Fry outside 
 the Fate Assignment Officer's office.]
 
-LOU
+<character>LOU</character>
 Have a nice future.
 
 [The door slides open.]
 
-FRY
+<character>FRY</character>
 Cool! Just like in Star Trek!  Ow!
 
 [Cut to: Fate Assignment Officer's Office. A woman wearing a 
 black uniform stands with her back to Fry looking at a clipboard. 
 She has purple hair held up in a ponytail.]
 
-WOMAN
+<character>WOMAN</character>
 Good afternoon, sir.  Name?
 
-FRY
+<character>FRY</character>
 Uh, Fry.
 
-WOMAN
+<character>WOMAN</character>
 I'm Leela. Now it's New Year's Eve so 
 I'd like to decide your fate quickly 
 and get out of here.
 
-FRY
+<character>FRY</character>
 Can I ask you a question?
 
-LEELA
+<character>LEELA</character>
 As long as it's not about my eye.
 
-FRY
+<character>FRY</character>
 Uh...
 
-LEELA
+<character>LEELA</character>
 Is it about my eye?
 
-FRY
+<character>FRY</character>
 Sort of.
 
 [Leela sighs.]
 
-LEELA
+<character>LEELA</character>
 Just ask the question.
 
-FRY
+<character>FRY</character>
 What's with the eye?
 
-LEELA
+<character>LEELA</character>
 I'm an alien, alright? Now let's drop 
 the subject.
 
-FRY
+<character>FRY</character>
 Cool, an alien! Has your race taken 
 over the Earth?
 
-LEELA
+<character>LEELA</character>
 No, I just work here.
 
 [Fry looks out the window. A passing blimp wishes people a Happy 
 New Year 3000. Leela follows his gaze.]
 
-FRY
+<character>FRY</character>
 Wait a minute! Is that blimp accurate?
 
-LEELA
+<character>LEELA</character>
 Yep. It's December 31st 2999.
 
-FRY
+<character>FRY</character>
 My God, a million years!
 
-LEELA
+<character>LEELA</character>
 I'm sure this must be very upsetting 
 for you.
 
-FRY
+<character>FRY</character>
 Y'know, I guess it should be but actually 
 I'm glad. I had nothing to live for 
 in my old life. I was broke, I had a 
@@ -269,7 +269,7 @@ humiliating job and I was beginning
 to suspect my girlfriend might be cheating 
 on me.
 
-LEELA
+<character>LEELA</character>
 Well, at least here you'll be treated 
 with dignity. Now strip naked and get 
 on the probulator.
@@ -281,71 +281,71 @@ on and presses a button. Fry squeaks.]
 [Time Lapse. Leela tears off a printout and reads it while Fry 
 starts to get dressed.]
 
-LEELA
-Interesting. Your DNA test shows one 
+<character>LEELA</character>
+Interesting. Your <character>DNA</character> test shows one 
 living relative. He's your great great 
 great great great great great...
 
 [Time Lapse. Fry is now fully dressed.]
 
-LEELA
+<character>LEELA</character>
 ...great great great great great nephew.
 
-FRY
+<character>FRY</character>
 That's great! What's the little guy's 
 name?
 
-LEELA
+<character>LEELA</character>
 Professor Hubert Farnsworth.
 
 [She turns the page over to show Fry the photo. Farnsworth is 
 an old bald man who wears thick glasses.]
 
-FRY
+<character>FRY</character>
 Eurgh!
 
 [Fate Assignment Officer's Office. Leela types something on a 
 computer.]
 
-FRY
+<character>FRY</character>
 Y'know, I'm the luckiest guy in the 
 whole future. I've been given a second 
 chance and this time I'm not going to 
 be a total loser.  What's that?
 
-LEELA
+<character>LEELA</character>
 Your permanent career assignment.
 
 [She turns the screen around to show him his career. "Career: 
 Delivery Boy" is all that is written on the screen.]
 
-FRY
+<character>FRY</character>
 Delivery boy? No! Not again! Please! 
 Anything else!
 
 [He grabs Leela's hand.]
 
-LEELA
+<character>LEELA</character>
 Take your hands off me! You've been 
 assigned the job you're best at just 
 like everyone else.
 
-FRY
+<character>FRY</character>
 What if I refuse?
 
-LEELA
+<character>LEELA</character>
 Then you'll be fired...
 
-FRY
+<character>FRY</character>
 Fine!
 
-LEELA
+<character>LEELA</character>
 ...out of a cannon into the Sun!
 
-FRY
+<character>FRY</character>
 But I don't like being a delivery boy.
 
-LEELA
+<character>LEELA</character>
 Well that's tough! Lots of people don't 
 like their jobs but we do them anyway. 
 You gotta do what you gotta do! Now 
@@ -355,7 +355,7 @@ label you as a delivery boy.
 
 [She picks up an implant gun. It has two huge spikes on the end.]
 
-FRY
+<character>FRY</character>
 Keep that thing away from me!
 
 [He gets up and runs out of the room.]
@@ -366,7 +366,7 @@ into another room.]
 [Cut to: Cryogenics Lab. Leela runs in after Fry and he dodges 
 the implant gun.]
 
-LEELA
+<character>LEELA</character>
 Hold still, damnit. I don't have good 
 depth perception!  You've got until 
 the count of five to let me out of here. 
@@ -374,14 +374,14 @@ One...
 
 [In a flash she is frozen.]
 
-FRY
+<character>FRY</character>
 See you in a thousand years!  You owe 
 me one.
 
 [New New York Street. Fry runs out of the building and looks 
 in awe at the sights around him.]
 
-FRY
+<character>FRY</character>
 Whoa!
 
 [Spaceships take off, there are traffic jams in the sky and billboards 
@@ -391,12 +391,12 @@ and sees people flying through a green tube overhead. He walks
 around a corner and finds an entrance to the tube. A pedestrian 
 steps in.]
 
-MAN #1
-JFK Jr. Airport.
+<character>MAN #1</character>
+<character>JFK</character> Jr. Airport.
 
 [The man is sucked up into the tube.]
 
-FRY
+<character>FRY</character>
 Cool!  Um. Cross Town Express?
 
 [The tube sucks him up and he screams as he flies through it. 
@@ -405,27 +405,27 @@ across the city, past the Statue of Liberty, underwater and finally
 out the other end smack into a building. A man looks up from 
 his newspaper.]
 
-MAN #2
+<character>MAN #2</character>
 Pft! Tourist!
 
 [Time Lapse. A hover-car flies over a line of traffic on the 
 road and a police car chases it. Fry walks around a corner and 
 sees a line of people outside a small grey booth.]
 
-FRY
+<character>FRY</character>
 Hey! A phone booth! I can call my nephew. 
 Wow, a real live robot! Or is that 
 some kind of cheesy New Year's costume?
 
-ROBOT
+<character>ROBOT</character>
 Bite my shiny metal ass.
 
 [Fry looks around at the robot's ass.]
 
-FRY
+<character>FRY</character>
 It doesn't look so shiny to me.
 
-ROBOT
+<character>ROBOT</character>
 Shinier than yours, meatbag!
 
 [Fry steps into the phone booth. He overlooks the important sign 
@@ -435,51 +435,51 @@ actually a suicide booth.]
 [Cut to: Suicide Booth. Fry presses a button and nothing happens. 
 The robot steps in behind him.]
 
-ROBOT
+<character>ROBOT</character>
 Listen, buddy, I'm in a hurry here. 
 Let's try for a twofer!
 
 [He puts a coin on a string in the slot then pulls it out again 
 and chuckles. A pleasant woman's voice speaks.]
 
-BOOTH VOICE
+<character>BOOTH VOICE</character>
 Please select mode of death: "Quick 
 And Painless" or "Slow And Horrible".
 
-FRY
+<character>FRY</character>
 Yeah, I'd like to place a collect call.
 
-BOOTH VOICE
+<character>BOOTH VOICE</character>
 You have selected: "Slow And Horrible".
 
-ROBOT
+<character>ROBOT</character>
 Great choice!  Bring it on, baby!
 
 [Fry screams.]
 
 [Time Lapse. The robot is getting impatient.]
 
-ROBOT
+<character>ROBOT</character>
 C'mon, c'mon! Kill me already! By the 
 way, my name's Bender!
 
 [He holds out his hand.]
 
-FRY
+<character>FRY</character>
 Help! What's happening?
 
 [The sharp things lunge at them. Fry pushes Bender to the side 
 of the booth. The sharp things stab and twist at the air and 
 finally return to behind the hatch.]
 
-BOOTH VOICE
+<character>BOOTH VOICE</character>
 You are now dead. Thank you for using 
 Stop-N-Drop, America's favourite suicide 
 booth since 2008.
 
 [Cut to: New New York Street. Fry runs out gasping.]
 
-BENDER
+<character>BENDER</character>
 Lousy stinking rip-off!  Well I didn't 
 have anything else planned for today. 
 Let's go get drunk!
@@ -487,29 +487,29 @@ Let's go get drunk!
 [Cryogenics Lab. The timer on Leela's chamber runs out. The door 
 opens and she defrosts.]
 
-LEELA
+<character>LEELA</character>
 ...two, three -- Hey!
 
-TERRY
+<character>TERRY</character>
 (dramatically) Welcome to the world 
 of tomorrow!
 
-LEELA
+<character>LEELA</character>
 Shut up, Terry.
 
 [Ipgee's Office. Leela's boss sits behind a large desk and she 
 stands in front of it.]
 
-IPGEE
+<character>IPGEE</character>
 This is unacceptable, Leela. You must 
 find this Mr. Fry and install his chip.
 
-LEELA
+<character>LEELA</character>
 Look, he's just a nobody who doesn't 
 want to be a delivery boy. I'd really 
 rather not force it on him.
 
-IPGEE
+<character>IPGEE</character>
 Well that's your job, whether you like 
 it or not and it's my job to make you 
 do your job whether I like it or not 
@@ -519,62 +519,62 @@ work!  Life is good!
 [O'Zorgnax's Pub. Fry and Bender are sat at the bar. Bender drinks 
 a bottle of Olde Fortran malt liquor.]
 
-FRY
+<character>FRY</character>
 Why would a robot need to drink?
 
-BENDER
+<character>BENDER</character>
 I don't need to drink, I can quit anytime 
 I want!  So they made you a delivery 
 boy, huh? Man, that's as bad as my job.
 
-FRY
+<character>FRY</character>
 Really? What do you do Bender?
 
-BENDER
+<character>BENDER</character>
 I'm a bender. I bend girders, that's 
 all I'm programmed to do.
 
-FRY
+<character>FRY</character>
 You any good at it?
 
-BENDER
+<character>BENDER</character>
 You kidding? I was a star! I could bend 
 a girder to any angle: 30 degrees, 32 
 degrees, you name it! (unsure) 31. (normal) 
 But I couldn't go on living once I found 
 out what the girders were for.
 
-FRY
+<character>FRY</character>
 What?
 
-BENDER
+<character>BENDER</character>
 Suicide booths!  Well, Fry, it was a 
 pleasure meeting you, I'm gonna go kill 
 myself.
 
 [He gets up.]
 
-FRY
+<character>FRY</character>
 Wait! You're the only friend I have!
 
-BENDER
+<character>BENDER</character>
 You really want a robot for a friend?
 
-FRY
+<character>FRY</character>
 Yeah, ever since I was six.
 
-BENDER
-Well, OK. But I don't want people thinking 
+<character>BENDER</character>
+Well, <character>OK</character>. But I don't want people thinking 
 we're robo-sexuals, so if anyone asks, 
 you're my debugger.
 
 [Fry looks out the window and sees Leela.]
 
-FRY
+<character>FRY</character>
 Oh, no, it's the Cyclops!  Don't look! 
 Don't look!
 
-BENDER
+<character>BENDER</character>
 I'm not looking!
 
 [His eyes zoom in to Leela.]
@@ -583,18 +583,18 @@ I'm not looking!
 The man points to him inside the pub. Fry and Bender run off. 
 Leela talks into her wrist communicator.]
 
-LEELA
+<character>LEELA</character>
 This is officer 1B-DI requesting back-up.
 
-[The cops, Smitty the human and URL the robot, are standing right 
+[The cops, Smitty the human and <character>URL</character> the robot, are standing right 
 behind Leela. Smitty replies in his wrist communicator.]
 
-SMITTY
+<character>SMITTY</character>
 We'll be there in five minutes.
 
 [Outside Head Museum. Bender stops Fry outside the building.]
 
-BENDER
+<character>BENDER</character>
 We can hide in here, it's free on Tuesdays.
 
 [He runs up the steps dragging Fry behind him.]
@@ -603,115 +603,115 @@ We can hide in here, it's free on Tuesdays.
 shelves. Leonard Nimoy's head in a jar is on a platform in the 
 middle of one of the rooms.]
 
-NIMOY
+<character>NIMOY</character>
 Welcome to the Head Museum. I'm Leonard 
 Nimoy.
 
-FRY
+<character>FRY</character>
 Spock? Hey! Do the thing!
 
 [He does the Vulcan salute from Star Trek. Nimoy chuckles.]
 
-NIMOY
+<character>NIMOY</character>
 I don't do that anymore.
 
-FRY
+<character>FRY</character>
 This is unbelievable! What do you heads 
 do all day?
 
-NIMOY
+<character>NIMOY</character>
 We share our wisdom with those who seek 
 it. It's a life of quiet dignity.
 
 [Enter a woman.]
 
-WOMAN
+<character>WOMAN</character>
 Feeding time!
 
 [She shakes a box of what looks like fish food over the jar. 
 Nimoy eats what comes out.]
 
 [The door opens and Fry turns around. Enter Leela, Smitty and 
-URL.]
+<character>URL</character>.]
 
-LEELA
+<character>LEELA</character>
 Hmm.
 
 [She looks around and sees Fry and Bender hiding behind a shelf 
 in amongst other assorted heads.]
 
-LEELA
+<character>LEELA</character>
 I'm sorry, Fry, but I have to install 
 your career chip.
 
-FRY
+<character>FRY</character>
 Yeah, well, if you're sorry why are 
 you doing it?
 
-LEELA
+<character>LEELA</character>
 It's my job. You gotta do what you gotta 
 do!
 
 [Fry backs away and hits a shelf with the heads of US presidents 
 on it.]
 
-LEELA
+<character>LEELA</character>
 Watch it!
 
 [Richard Nixon's head falls off. The jar smashes.]
 
-NIXON
+<character>NIXON</character>
 That's it! You just made my list!
 
 [He jumps up and starts biting Fry's arm.]
 
-FRY
+<character>FRY</character>
 Ow! Stoppit! Down boy! Bad president!
 
 [Bender tries to pull Nixon's head off.]
 
-SMITTY
+<character>SMITTY</character>
 Alright, buddy, step away from the head!
 
 [Fry and Bender put their hands up.]
 
-URL
+<character>URL</character>
 I'm gonna get 24th century on his ass!
 
 [They turn on their lightsabers and start to hit Fry.]
 
-LEELA
+<character>LEELA</character>
 Please, officers, there's no need to 
 use force.
 
-URL
+<character>URL</character>
 Let us handle this, weirdy.
 
 [He hits Bender.]
 
-LEELA
+<character>LEELA</character>
 Oh, come on, he's just a poor kid from 
 the Stupid Ages.
 
-SMITTY
+<character>SMITTY</character>
 Keep your big nose out of this, eyeball!
 
-LEELA
+<character>LEELA</character>
 No-one makes fun of my nose.
 
-[She kicks Smitty and URL. Fry and Bender run off and hide in 
+[She kicks Smitty and <character>URL</character>. Fry and Bender run off and hide in 
 a room.]
 
-URL
+<character>URL</character>
 Damn!
 
-LEELA
+<character>LEELA</character>
 You guys were totally out of control.
 
-SMITTY
+<character>SMITTY</character>
 It's our job. We're peace officers.
 
-URL
+<character>URL</character>
 Yeah, you know the law: You gotta do 
 what you gotta do.
 
@@ -719,57 +719,57 @@ what you gotta do.
 
 [Head Museum Hall Of Criminals. Bender locks the door.]
 
-BENDER
+<character>BENDER</character>
 Oh, we're trapped!
 
 [Fry looks to the end of the room. There is a window with bars 
 across it.]
 
-FRY
+<character>FRY</character>
 Wait a second. You're a bender, right? 
 We can get out of here if you just bend 
 the bars.
 
-BENDER
+<character>BENDER</character>
 Dream on, skin tube. I'm only programmed 
 to bend for constructive purposes. What 
 do I look like, a de-bender?
 
-FRY
+<character>FRY</character>
 Who cares what you're programmed for. 
 If someone programmed you to jump off 
 a bridge would you do it?
 
-BENDER
+<character>BENDER</character>
 I'll have to check my program...yep.
 
-LEELA
+<character>LEELA</character>
 Open up!
 
-FRY
+<character>FRY</character>
 C'mon, Bender! It's up to you to make 
 your own decisions in life. That's what 
 separates people and robots from animals...and 
 animal robots.
 
-BENDER
+<character>BENDER</character>
 You're full of crap, Fry!  You make 
 a persuasive argument, Fry.
 
 [He starts to bend the bars.]
 
-FRY
+<character>FRY</character>
 Come on, Bender! You can do it.
 
-BENDER
-Can't...I...can't...do...it!
+<character>BENDER</character>
+Can't...<character>I</character>...can't...do...it!
 
 [The bars bend and break off completely.]
 
-FRY
+<character>FRY</character>
 Yes!
 
-BENDER
+<character>BENDER</character>
 You were right, Fry! From now on I'm 
 going to bend what I want, when I want, 
 who I want! I'm unstoppable!
@@ -777,7 +777,7 @@ who I want! I'm unstoppable!
 [His arms fall off but he manages to somehow reattach them without 
 any help.]
 
-FRY
+<character>FRY</character>
 I don't know how you did that.
 
 [Leela kicks the door open. Fry and Bender dive out through the 
@@ -787,16 +787,16 @@ window.]
 bars back so Leela can't climb through. He runs after Fry and 
 Leela reaches out through the bars.]
 
-LEELA
+<character>LEELA</character>
 Wait!
 
-BENDER
+<character>BENDER</character>
 (shouting) No, thanks.
 
 [Cut to: Alley. Fry and Bender stop at a dead end. There is a 
 drain below them with a grate over the top.]
 
-BENDER
+<character>BENDER</character>
 Looks like one of us will have to bend 
 this grate.
 
@@ -810,26 +810,26 @@ from Beneath The Planet Of The Apes. Collapsed buildings and
 rubble litter the streets and holes in the roof let in a few 
 shafts of light, giving the place and eerie atmosphere.]
 
-FRY
+<character>FRY</character>
 Good Lord! What is this?
 
-BENDER
+<character>BENDER</character>
 It's the decaying ruins of Old New York. 
 Welcome home, pal!
 
 [Time Lapse. Fry and Bender walk down an old ruined street.]
 
-FRY
+<character>FRY</character>
 Its my old neighbourhood. Man, this 
 brings back a lot of memories.
 
-BENDER
+<character>BENDER</character>
 Keep 'em to yourself, pops.
 
 [Cut to: Ruins of Rockefeller Center Skating Rink. Fry leans 
 over a wall.]
 
-FRY
+<character>FRY</character>
 This is where I brought my girlfriend 
 on our very first date.
 
@@ -838,76 +838,76 @@ on our very first date.
 [Flashback ends. The ice is gone, replaced with murky green waters 
 inhabited by a green tentacled creature.]
 
-FRY
+<character>FRY</character>
 My God! She's gone. Everyone I ever 
 knew or cared about is gone.
 
-BENDER
+<character>BENDER</character>
 Wait! There's someone you know!
 
 [He points at Leela, standing with her implant gun.]
 
-FRY
+<character>FRY</character>
 Oh, can't you leave me alone? I'm miserable 
 enough already.
 
-LEELA
+<character>LEELA</character>
 Look, I know it's not much consolation 
 but I understand how you feel.
 
-FRY
+<character>FRY</character>
 No, you don't. I've got no home, no 
 family...
 
 [Bender leans in behind him.]
 
-BENDER
+<character>BENDER</character>
 No friends.
 
-FRY
+<character>FRY</character>
 ...My whole world is gone. You can't 
 possibly understand what it feels like 
 to be so alone.
 
-LEELA
+<character>LEELA</character>
 I understand. I'm the only one-eyed 
 alien on this whole planet. My parents 
 abandoned me here as a baby and I don't 
 even know what galaxy they were from. 
 I know how it feels to be alone.
 
-FRY
+<character>FRY</character>
 Look, Leela, I don't understand this 
 world but you obviously do, so I give 
 up. If you really think I should be 
 a delivery boy, I'll do it.  Your chip. 
 What are you doing?
 
-LEELA
+<character>LEELA</character>
 Quitting.
 
-FRY
+<character>FRY</character>
 Why?
 
-LEELA
+<character>LEELA</character>
 Because I've always wanted to. I just 
 never realised it before I met you.
 
 [She puts her hand on his and smiles. Bender puts his hand on 
 top.]
 
-FRY
+<character>FRY</character>
 What is the matter with you?
 
 [Bender quickly takes his hand off.]
 
-BENDER
+<character>BENDER</character>
 I just wanted to be part of the moment.
 
-LEELA
+<character>LEELA</character>
 Hey, he stole my ring!
 
-BENDER
+<character>BENDER</character>
 Sorry.  Well, that solves the mystery 
 of the missing ring. This calls for 
 a drink.
@@ -915,12 +915,12 @@ a drink.
 [He reaches into his chest cabinet and pulls out three bottles 
 of beer...and drinks them all himself.]
 
-LEELA
+<character>LEELA</character>
 I don't wanna spoil the party but we're 
 all job deserters now. We're unemployed 
 and we have nowhere to go.
 
-FRY
+<character>FRY</character>
 Correction. We're unemployed but we 
 have a doddering old relative to mooch 
 off of.
@@ -931,7 +931,7 @@ off of.
 asleep in his chair. The TV is on and Dick Clark's head presents 
 and a programme.]
 
-CLARK [ON TV]
+<character>CLARK </character>[ON TV]
 Hello, I'm Dick Clark's head. Welcome 
 to a special year 3000 edition of New 
 Year's Rockin' Eve!
@@ -942,36 +942,36 @@ wakes up.]
 [Cut to: Outside Planet Express. Farnsworth opens the door to 
 Fry, Bender and Leela.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Who are you?
 
-FRY
+<character>FRY</character>
 I'm your dear old Uncle Fry.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I don't have an Uncle Fry.
 
-BENDER
+<character>BENDER</character>
 You do now!
 
 [He pushes Farnsworth back inside.]
 
 [Planet Express: Farnsworth's Lounge. Farnsworth and Fry are 
-hooked up to a DNA machine. It dings and a red light flashes.]
+hooked up to a <character>DNA</character> machine. It dings and a red light flashes.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 By God, I am your nephew! This is absolutely 
 incredible!
 
-BENDER
+<character>BENDER</character>
 Can we have some money?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, my, no.
 
 [Cut to: Planet Express: Farnsworth's Lab. The four walk in.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Let me show you around. That's my lab 
 table and this is my work-stool. And 
 over there is my intergalactic spaceship! 
@@ -981,22 +981,22 @@ of wire.
 [He opens a drawer but Fry is more interested in what's in the 
 hangar.]
 
-FRY
+<character>FRY</character>
 Whoa! A real live spaceship!
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I designed it myself. Let me show you 
 some of the different lengths of wire 
 I used.
 
-SMITTY
+<character>SMITTY</character>
 Attention, job deserters! Come out 
 with your hands up. We have you partially 
 surrounded.
 
 [Leela gasps.]
 
-FRY
+<character>FRY</character>
 No!
 
 [Bender literally shits a brick.]
@@ -1004,18 +1004,18 @@ No!
 [Cut to: Outside Planet Express. Smitty holds Nixon's head in 
 a jar. The glass is cracked and taped in places.]
 
-NIXON
+<character>NIXON</character>
 Get those bums!
 
 [Cut to: Planet Express: Farnsworth's Lab.]
 
-BENDER
+<character>BENDER</character>
 Well, we're boned!
 
-LEELA
+<character>LEELA</character>
 Can't we get away in the ship?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 I suppose it is technically possible. 
 Though I am already in my pyjamas.
 
@@ -1025,17 +1025,17 @@ under his arm.]
 [Cut to: Ships Cockpit. Fry runs in and sit in a seat in front 
 of a control panel.]
 
-FRY
+<character>FRY</character>
 I'll get us out of here.
 
 [He presses a few buttons and pulls a lever. A little hatch opens 
 in the control panel, a paper cup come down and the machine fills 
 it with coffee.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Can anyone drive stick?
 
-LEELA
+<character>LEELA</character>
 I can. As long as I don't have to parallel 
 park.
 
@@ -1047,10 +1047,10 @@ of machinery lifts the ship to a 45-degree angle. The entire
 hangar roof retracts so it is open for the ship.]
 
 [Cut to: Outside Planet Express. There are now many peace officers 
-all armed with laser rifles stationed outside. URL sees the roof 
+all armed with laser rifles stationed outside. <character>URL</character> sees the roof 
 open.]
 
-URL
+<character>URL</character>
 If they try to take off, give 'em an 
 ass-ful of laser.
 
@@ -1058,55 +1058,55 @@ ass-ful of laser.
 
 [Cut to: Ships Cockpit.]
 
-LEELA
+<character>LEELA</character>
 Prepare for lift-off. Ten.
 
 [Cut to: Time Square.]
 
-CROWD
+<character>CROWD</character>
 Nine!
 
 [Cut to: Egypt. The future pyramids now rotate in mid air.]
 
-CROWD
+<character>CROWD</character>
 Amania!
 
 [Cut to: Paris.]
 
-CROWD
+<character>CROWD</character>
 Seven!
 
 [Cut to: Alien Ship.]
 
-ALIENS
+<character>ALIENS</character>
 (in alien) Six.
 
 [Cut to: Cryogenics Lab. Lou sits in an open pod and Terry raises 
 a glass.]
 
-TERRY
+<character>TERRY</character>
 (dramatically) Five!
 
 [Cut to: Head Museum. Leonard Nimoy is wearing a party hat.]
 
-NIMOY
+<character>NIMOY</character>
 Four.
 
 [Cut to: Ships Cockpit. Fry, Bender and Farnsworth are sat on 
 a couch at the front of the cockpit.]
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Three.
 
-BENDER
+<character>BENDER</character>
 Two.
 
 [He is so tense that he rips the arms off the couch.]
 
-LEELA
+<character>LEELA</character>
 One!
 
-FRY
+<character>FRY</character>
 Blast-off!
 
 [Cut to: Outside Planet Express. The ship takes off.]
@@ -1117,12 +1117,12 @@ the moon and the ship flies between the fireworks.]
 
 [Cut to: Outside Planet Express.]
 
-NIXON
+<character>NIXON</character>
 Fire! Fire!
 
 [The peace officers fire their laser gun randomly into the air.]
 
-SMITTY
+<character>SMITTY</character>
 I can't see nothing. Pretty though!
 
 [The altitude of the ship increases and laser bolts narrowly 
@@ -1132,33 +1132,33 @@ miss it.]
 flies through the atmosphere and heads through the solar system. 
 Everyone cheers.]
 
-FRY
+<character>FRY</character>
 So I guess without jobs, we'll be fugitives 
 forever.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Not necessarily. Are you three, by any 
 chance, interested in becoming my new 
 spaceship crew?
 
-BENDER
+<character>BENDER</character>
 New crew? W-What happened to the old 
 crew?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Of those poor sons of -- but that's 
 not important. The important thing is 
 I need a new crew. Anyone interested?
 
-FRY
+<character>FRY</character>
 Yes! Yes! That's exactly the job I've 
 always wanted!
 
-LEELA
+<character>LEELA</character>
 Thanks for the offer, Professor, but 
 we don't have the proper career chips.
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Oh, that won't be a problem. As luck 
 would have it I saved the chips from 
 my previous crew.
@@ -1166,36 +1166,36 @@ my previous crew.
 [He empties the career chips out of an envelope marked "Contents 
 Of Space Wasps Stomach".]
 
-FRY
+<character>FRY</character>
 This is awesome! Are we gonna fly through 
 space fighting monsters and teaching 
 alien women to lurve?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 If by that you mean "transporting cargo" 
 then yes. It's a little home business 
 I started to fund my research.
 
-FRY
+<character>FRY</character>
 Cool! What's my job gonna be?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 You will be responsible for ensuring 
 that the cargo reaches its destination.
 
 [The smile fades from Fry's face.]
 
-FRY
+<character>FRY</character>
 So, I'm gonna be a delivery boy?
 
-FARNSWORTH
+<character>FARNSWORTH</character>
 Exactly!
 
 [Fry thinks for a moment but doesn't seem to mind.]
 
-FRY
+<character>FRY</character>
 Alright! I'm a delivery boy!
 
 [He waves his hands in the air and the ship flies on.]
 
-THE END</xml>
+<character>THE END</character></xml>
