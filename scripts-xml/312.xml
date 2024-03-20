@@ -223,7 +223,7 @@ most heinous of crimes: Theft of money!</speak>
 
 <info>Time Lapse. The surveillance camera is in the witness box.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 As the surveillance camera for the bank 
 what all the judge was a-jawing about, 
 could ya'll tell us what you done seen 
@@ -236,14 +236,14 @@ fuzzy, but it went exactly like this:</speak>
 <info>It projects a black and white picture of Fry and Bender taking 
 the money from Roberto. The court gasps.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Your Honour, I move that I be disbarred 
 for introducing this evidence against 
 my own clients.</speak>
 
 <info>Time Lapse. Fry is in the witness box.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Mr. Fry, do you recognise the robot 
 a-huggin' on you in this here hologram?</speak>
 
@@ -294,7 +294,7 @@ Ah, the 67th Amendment.</speak>
 
 <info>The Hyper-Chicken leans into Bender.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 I may be a simple country Hyper-Chicken 
 but I know when we're finger-licked. 
 Whattya say we plead insanity?</speak>
@@ -303,7 +303,7 @@ Whattya say we plead insanity?</speak>
 A few months in an insane asylum? I 
 could do that standing on my head.</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 If you start now, it might help our 
 case.</speak>
 
@@ -313,7 +313,7 @@ case.</speak>
 Counselor, what evidence do you offer 
 to support this new plea of insanity?</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Well, for one, they done hired me to 
 represent them.</speak>
 
@@ -405,7 +405,7 @@ ball for a head and a casing that looks like a white coat. He
 speaks in a robotic voice. Fry falls through a hatch in the ceiling 
 and lands in the floor. He hauls himself up.</info>
 
-<speak who="DR">. <character>PERCEPTRON</character>
+<speak who="DR PERCEPTRON">
 Greetings. I am Dr. Perceptron. Let 
 me give you something to help you relax.</speak>
 
@@ -416,7 +416,7 @@ Look! There's been a terrible mistake.
 I'm a human being. See?  I'm all squishy 
 and flabby. Also, I complain a lot.</speak>
 
-<speak who="DR">. <character>PERCEPTRON</character>
+<speak who="DR PERCEPTRON">
 Yes, you do. You need to relax more. 
 Terrific. Now, consider the following: 
 You were admitted to this robot asylum. 
@@ -507,7 +507,7 @@ Sure. They don't believe I'm a human
 either. Name's Unit 2013. C'mon. Lemme 
 introduce you around.  Fry, meet Norm. 
 How's it going, pal? Still picking up 
-transmissions from the <character>CIA</character> on your teeth?</speak>
+transmissions from the CIA on your teeth?</speak>
 
 <speak who="NORM">
 They just won't stop!</speak>
@@ -516,7 +516,7 @@ They just won't stop!</speak>
 dishes on them.</info>
 
 <speak who="WOMAN">
-The <character>CIA</character> cafeteria menu for the week 
+The CIA cafeteria menu for the week 
 of May 15th is as follows: Monday, shepherd's 
 pie. Tu--</speak>
 
@@ -676,14 +676,14 @@ is it now?</speak>
 
 <info>The door opens. Nurse Ratchet and Dr. Perceptron are outside.</info>
 
-<speak who="DR">. <character>PERCEPTRON</character>
+<speak who="DR PERCEPTRON">
 You are being released.</speak>
 
 <speak who="FRY">
 Finally! Sweet justice! Sweet, juicy 
 justice!</speak>
 
-<speak who="DR">. <character>PERCEPTRON</character>
+<speak who="DR PERCEPTRON">
 Not you. Him.</speak>
 
 <info>He points at Malfunctioning Eddie.</info>
@@ -698,7 +698,7 @@ I barely exploded at all.</speak>
 
 <info>He and Perceptron roll away.</info>
 
-<speak who="DR">. <character>PERCEPTRON</character>
+<speak who="DR PERCEPTRON">
 We can control that with medication.</speak>
 
 <speak who="NURSE RATCHET">
@@ -765,7 +765,7 @@ a robot!</speak>
 <info>Hal Institute: Dr. Perceptron's Office. The other Planet Express 
 staff are there.</info>
 
-<speak who="DR">. <character>PERCEPTRON</character>
+<speak who="DR PERCEPTRON">
 In answer to your question, Hermes, 
 yes, your friend is cured.</speak>
 
@@ -781,7 +781,7 @@ Thank God!</speak>
 <info>The door opens and Fry walks in with an emotionless look on 
 his face.</info>
 
-<speak who="DR">. <character>PERCEPTRON</character>
+<speak who="DR PERCEPTRON">
 You'll notice he no longer suffers delusions 
 of humanity.</speak>
 
@@ -1137,7 +1137,7 @@ and ten. Guess it and you die first.
 Go!</speak>
 
 <speak who="BENDER">
-Um ... <character>OK</character>. Fixty ... six ... ish?</speak>
+Um ... OK. Fixty ... six ... ish?</speak>
 
 <speak who="ROBERTO">
 56? 56? Oh, man! Now that's all I can 
@@ -1282,5 +1282,5 @@ of a human.  What?</speak>
 
 <info>THE END</info>
 
-<character>BENDER</character>
+BENDER
 <info>(over credits)</info> What?</xml>

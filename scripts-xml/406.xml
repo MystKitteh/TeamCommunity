@@ -394,7 +394,7 @@ I'm OK then.</speak>
 
 <speak who="MRS WONG">
 Storm dying down. Leo, check if buggalo 
-herd is <character>OK</character>.</speak>
+herd is OK.</speak>
 
 <info>Cut to: The Wongs' Porch. Mr. Wong opens the door and looks 
 across at the cattle. A tornado sweeps across the ranch, taking 
@@ -422,7 +422,7 @@ We ruined!</speak>
 <info>They push him away.</info>
 
 <speak who="AMY">
-Don't worry, Daddy. It'll be <character>OK</character>.</speak>
+Don't worry, Daddy. It'll be OK.</speak>
 
 <speak who="MR WONG">
 Oh, really? Who gonna save us?  One-eye? 
@@ -447,7 +447,7 @@ Wong family so rich and powerful. Oh,
 Inez, with them stolen, we ruined!</speak>
 
 <speak who="MRS WONG">
-<character>OK</character>. I want a divorce.</speak>
+OK. I want a divorce.</speak>
 
 <info>Zoidberg is dressed golf clothes.</info>
 
@@ -531,7 +531,7 @@ rustlers to ... catch!</speak>
 <info>Mars Surface. Kif, Leela and Fry ride ahead while Bender sits 
 on a wagon playing a banjo and singing a Bonanza-like tune.</info>
 
-<speak who="BENDER"><info>(<character>SINGING</character>)</info>
+<speak who="BENDER"><info>(SINGING)</info>
 We've got a right to pick a little fight 
 with rustlers,
 

@@ -78,10 +78,10 @@ Werrrnstrom!</speak>
 
 <info>They start to "fight."</info>
 
-<speak who="FARNSWORTH">'S <character>KILLBOT</character>
+<speak who="FARNSWORTH">'S KILLBOT
 Such senseless aggression.</speak>
 
-<speak who="WERNSTROM">'S <character>KILLBOT</character>
+<speak who="WERNSTROM">'S KILLBOT
 C'mon, lets go for a peddleboat ride.</speak>
 
 <info>Roboticon Robot Toys Stand. Bender bats around the bottle on 
@@ -325,7 +325,7 @@ trouble of throwing me away.</speak>
 
 <speak who="AMY">
 Spleesh! Mell out Bender. Come watch 
-some <character>TV</character>.</speak>
+some TV.</speak>
 
 <info>Bender struggles inside the bin.</info>
 
@@ -693,12 +693,12 @@ of form and function.  But not for long!</speak>
 <info>Time Lapse. Night has fallen. Banging sounds come from inside 
 a beach hut and Bender screams in pain.</info>
 
-<speak who="BENDER"><info><character>FROM HUT</character></info>
+<speak who="BENDER"><info>FROM HUT</info>
 Oh, ow that hurt, oh...</speak>
 
 <info>Time Lapse. Morning breaks.</info>
 
-<speak who="WATERBOT"><info><character>FROM HUT</character></info>
+<speak who="WATERBOT"><info>FROM HUT</info>
 The downgrade is complete!</speak>
 
 <info>The hut's door opens and Bender walks out. Except for his eyes 
@@ -994,7 +994,7 @@ But I destroyed the technology of the
 world. I ran on the beach and felt the 
 sand between my foot cups.</speak>
 
-<speak who="UPGRADER"><info><character>SHRUGGING</character></info>
+<speak who="UPGRADER"><info>SHRUGGING</info>
 Everyone experiences the upgrade differently.</speak>
 
 <speak who="BENDER">

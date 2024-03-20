@@ -151,11 +151,11 @@ Bender quick! Waggle something!</speak>
 
 <info>As Bender talks Fry and Leela make their escape.</info>
 
-<speak who="BENDER"><info>(IN <character>BEE</character>)</info>
+<speak who="BENDER"><info>(IN BEE)</info>
 Hello fellow bees. How's the abdomen? 
 Swollen with nectar I trust?</speak>
 
-<speak who="BEE"><info>(IN <character>BEE</character>)</info>
+<speak who="BEE"><info>(IN BEE)</info>
 Duh!</speak>
 
 <info>Time Lapse. The crew get closer to the centre of the hive.</info>
@@ -178,12 +178,12 @@ There's the black box!</speak>
 
 <info>She picks it up and plays it.</info>
 
-<speak who="MAN"><info>ON <character>TAPE</character></info>
+<speak who="MAN"><info>ON TAPE</info>
 Captain, the bees have us surrounded! 
 Oh the Professor was right, we're not 
 as good as his old crew!</speak>
 
-<speak who="CAPTAIN"><info>ON <character>TAPE</character></info>
+<speak who="CAPTAIN"><info>ON TAPE</info>
 Well I aim to prove him wrong! It'll 
 take more than a few deadly deadly bees 
 to -  Oh Lord!</speak>
@@ -241,17 +241,17 @@ and we'll go.</speak>
 
 <info>She dips a jar into the jelly.</info>
 
-<speak who="BENDER"><info>(IN <character>BEE</character>)</info>
+<speak who="BENDER"><info>(IN BEE)</info>
 Pick up the pace lady! I'm sick of shaking 
 my booty for these fat jerks!  I didn't 
 mean you're all fat. Just fatso there.</speak>
 
 <info>He points at a fat bee.</info>
 
-<speak who="BEES"><info>(IN <character>BEE</character>)</info>
+<speak who="BEES"><info>(IN BEE)</info>
 He insulted our fat queen!</speak>
 
-<speak who="QUEEN"><info>(IN <character>BEE</character>)</info>
+<speak who="QUEEN"><info>(IN BEE)</info>
 You try keeping your figure after 10,000 
 kids!</speak>
 
@@ -332,7 +332,7 @@ me Fry! Fry?  He's...he's dead.</speak>
 
 <info>She and Bender kneel beside him.</info>
 
-<speak who="BENDER"><info>(<character>CRYING</character>)</info>
+<speak who="BENDER"><info>(CRYING)</info>
 Who will make Bender waffles just the 
 way he likes them now?</speak>
 
@@ -340,7 +340,7 @@ way he likes them now?</speak>
 He is in an open casket. Mourners that include Leo and Inez Wong 
 and two Trisolians pay their respects to him. Leela cries.</info>
 
-<speak who="LEELA"><info>(<character>CRYING</character>)</info>
+<speak who="LEELA"><info>(CRYING)</info>
 It was all my fault! He died because 
 of me!</speak>
 
@@ -424,14 +424,14 @@ so.</speak>
 
 <info>He cries and hugs Farnsworth. Terry does his swooshy coat thing.</info>
 
-<speak who="TERRY"><info>(<character>DRAMATICALLY</character>)</info>
+<speak who="TERRY"><info>(DRAMATICALLY)</info>
 Farewell from the world of tomorrow!</speak>
 
 <info>Leela's Bedroom. She tickles Nibbler and wipes her eye with 
 half a hanky. She puts the other half on her bedside table and 
 sees the jar of honey.</info>
 
-<speak who="LEELA"><info>(<character>CRYING</character>)</info>
+<speak who="LEELA"><info>(CRYING)</info>
 They say a spoonful of space honey helps 
 ease the pain.  It's good.  I feel funny. 
 Haha funny!</speak>
@@ -706,7 +706,7 @@ Here, work it off.</speak>
 
 <info>He hands the squeezy stress toy and she squeezes it.</info>
 
-<speak who="LEELA"><info><character>SQUEEZING</character></info>
+<speak who="LEELA"><info>SQUEEZING</info>
 I am not under stress dammit!</speak>
 
 <info>The toy explodes.</info>
@@ -738,7 +738,7 @@ help you sleep, but three spoonfuls,
 you'll go into a sleep and never wake 
 up! Never!</speak>
 
-<speak who="BENDER"><info>(<character>AMY</character>'S <character>VOICE</character>)</info>
+<speak who="BENDER"><info>(AMY'S VOICE)</info>
 Never!</speak>
 
 <info>Leela gasps.</info>
@@ -763,7 +763,7 @@ the gizmometer.</info>
 <speak who="FARNSWORTH">
 Incredible! According to the gizmometer, 
 Fry touched the royal jelly in the space 
-hive, leaving an imprint of his <character>DNA </character>
+hive, leaving an imprint of his DNA 
 and brainwaves. Then, when it spilled 
 on the couch, it recombined with trace 
 amounts of Fry's hair and skin -</speak>
@@ -839,27 +839,27 @@ In every life we have some trouble.</speak>
 <speak who="BENDER">
 But when you worry you make it double.</speak>
 
-<speak who="FARNSWORTH"><info>(<character>SINGING</character>)</info>
+<speak who="FARNSWORTH"><info>(SINGING)</info>
 The landlord says your rent is late...</speak>
 
-<speak who="HERMES"><info>(<character>SINGING</character>)</info>
+<speak who="HERMES"><info>(SINGING)</info>
 He might have to litigate.</speak>
 
-<speak who="BENDER"><info>(<character>SINGING</character>)</info>
+<speak who="BENDER"><info>(SINGING)</info>
 But don't worry!</speak>
 
 <info>He opens his chest cabinet and a bee flies out and stings Farnsworth's 
 head.</info>
 
-<speak who="BEE"><info>(<character>SINGING</character>)</info>
+<speak who="BEE"><info>(SINGING)</info>
 Bee...</speak>
 
-<speak who="FARNSWORTH"><info>(<character>SINGING</character>)</info>
+<speak who="FARNSWORTH"><info>(SINGING)</info>
 ...happy!</speak>
 
 <info>His head explodes and the meeting room goes dark.</info>
 
-<speak who="ZOIDBERG"><info>(<character>SINGING</character>)</info>
+<speak who="ZOIDBERG"><info>(SINGING)</info>
 Ain't got no cash,
 
 Ain't got no style,
@@ -870,21 +870,21 @@ But does Zoidberg worry?
 
 </speak><info>The bee stings him.</info>
 
-<speak who="BEE"><info>(<character>SINGING</character>)</info>
+<speak who="BEE"><info>(SINGING)</info>
 Bee...</speak>
 
-<speak who="ZOIDBERG"><info>(<character>SINGING</character>)</info>
+<speak who="ZOIDBERG"><info>(SINGING)</info>
 ...happy!</speak>
 
 <info>He explodes. Hermes holds Amy and skates around as the bee flies 
 alongside.</info>
 
-<speak who="HERMES"><info>(<character>SINGING</character>)</info>
+<speak who="HERMES"><info>(SINGING)</info>
 Don't worry now Amy!</speak>
 
 <info>The bee stings him and he explodes.</info>
 
-<speak who="AMY"><info>(<character>SINGING</character>)</info>
+<speak who="AMY"><info>(SINGING)</info>
 OK! I'm happy!</speak>
 
 <info>The bee stings her and she explodes.</info>
@@ -892,15 +892,15 @@ OK! I'm happy!</speak>
 <info>Streamers and glitter falls around the table and Bender dances 
 on it.</info>
 
-<speak who="BENDER"><info>(<character>SINGING</character>)</info>
+<speak who="BENDER"><info>(SINGING)</info>
 Take us home Bender! Don't worry!</speak>
 
-<speak who="BEE"><info>(<character>SINGING</character>)</info>
+<speak who="BEE"><info>(SINGING)</info>
 Bee...</speak>
 
 <info>It stings him.</info>
 
-<speak who="BENDER"><info>(<character>SINGING</character>)</info>
+<speak who="BENDER"><info>(SINGING)</info>
 ...happy!</speak>
 
 <info>He explodes in a rather nice display of fireworks. The smoke 
@@ -964,46 +964,46 @@ Here goes. Goodbye waking world.</speak>
 <info>The spoon moves towards her mouth. Fry's photo suddenly starts 
 talking.</info>
 
-<speak who="FRY">'S <character>PHOTO</character>
+<speak who="FRY">'S PHOTO
 Leela! No!  Listen to me, you don't 
 want to lie in bed like a vegetable 
 and do nothing the rest of your life. 
 I've tried it. Bedsores hurt!</speak>
 
-<speak who="LEELA"><info>(<character>CRYING</character>)</info>
+<speak who="LEELA"><info>(CRYING)</info>
 Then what am I s'posed to do?</speak>
 
-<speak who="FRY">'S <character>PHOTO</character>
+<speak who="FRY">'S PHOTO
 Fight it!</speak>
 
-<speak who="LEELA"><info>(<character>CRYING</character>)</info>
+<speak who="LEELA"><info>(CRYING)</info>
 I can't!</speak>
 
-<speak who="FRY">'S <character>PHOTO</character>
+<speak who="FRY">'S PHOTO
 You can! The Leela I know doesn't give 
 up this easily.</speak>
 
 <speak who="LEELA">
-<character>OK</character>. I'll try.  Go away!</speak>
+OK. I'll try.  Go away!</speak>
 
 <info>She throws the jar at it. The jar and the bee break and the 
 one bee becomes a swarm. Leela picks up Fry's photo and holds 
 it tightly.</info>
 
-<speak who="FRY">'S <character>PHOTO</character>
+<speak who="FRY">'S PHOTO
 I don't know if you can hear me Leela 
 but there's something I wanna tell you. 
 I love you.</speak>
 
-<speak who="LEELA"><info>(<character>CRYING</character>)</info>
+<speak who="LEELA"><info>(CRYING)</info>
 I'm so scared Fry I don't know what 
 to do.</speak>
 
-<speak who="FRY">'S <character>PHOTO</character>
+<speak who="FRY">'S PHOTO
 Just wake up Leela. Please. Just wake 
 up.</speak>
 
-<speak who="LEELA"><info>(<character>CRYING</character>)</info>
+<speak who="LEELA"><info>(CRYING)</info>
 I don't understand what you mean!</speak>
 
 <info>She hugs the photo.</info>
@@ -1011,7 +1011,7 @@ I don't understand what you mean!</speak>
 <info>Cut to: Hospital Room. Leela is in a bed and Fry is sat at her 
 side. His jacket is draped around her and she is in a coma.</info>
 
-<speak who="FRY"><info>(<character>CRYING</character>)</info>
+<speak who="FRY"><info>(CRYING)</info>
 Just wake up. Please. Just wake up Leela.</speak>
 
 <info>Her eyelid flutters and opens. She looks around.</info>

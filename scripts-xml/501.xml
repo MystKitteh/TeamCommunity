@@ -57,7 +57,7 @@ table sweating. Farnsworth is attaching an old filmstrip to Bender.</info>
 Perhaps this movie will help us take 
 our minds off the heat.</speak>
 
-<speak who="BENDER"><info>(<character>JITTERY</character>)</info>
+<speak who="BENDER"><info>(JITTERY)</info>
 Focuuus!</speak>
 
 <info>The movie is projected onto a screen with the title "Global 
@@ -68,15 +68,15 @@ cream shop with a cone. It melts before she can take a lick.
 She cries. A man laughs. The regular filmstrip narrator walks 
 into the frame.</info>
 
-<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN MOVIE</info>
 You're probably wondering why your ice 
 cream went away. Well Suzie, the culprit 
 isn't foreigners, it's global warming!</speak>
 
-<speak who="SUZIE"><info>IN <character>MOVIE</character></info>
+<speak who="SUZIE"><info>IN MOVIE</info>
 Gwobal wappa?</speak>
 
-<speak who="MAN"><info>IN <character>MOVIE</character>.</info>
+<speak who="MAN"><info>IN MOVIE.</info>
 Uh, yeah! Meet Mr Sunbeam. He comes 
 all the way from the sun to visit Earth.</speak>
 
@@ -85,23 +85,23 @@ It walks from the sun to Earth and raises its hat.</info>
 
 <info>He walks away from the Earth but is stopped by gas things.</info>
 
-<speak who="GAS"><info>IN <character>MOVIE</character></info>
+<speak who="GAS"><info>IN MOVIE</info>
 Not so fast Sunbeam! We're Greenhouse 
 Gases! You ain't going nowhere!</speak>
 
 <info>More gases arrive and they beat up Mr Sunbeam.</info>
 
-<speak who="MAN"><info>IN <character>MOVIE</character></info>
+<speak who="MAN"><info>IN MOVIE</info>
 Pretty soon Earth is chock full of sunbeams......their 
 rotting corpses heating our atmosphere.</speak>
 
 <info>The gases laugh and the scene changes to a classroom.</info>
 
-<speak who="SUZIE"><info>IN <character>MOVIE</character></info>
+<speak who="SUZIE"><info>IN MOVIE</info>
 How do we get wid of the gweenhouse 
 grasses?</speak>
 
-<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN MOVIE</info>
 Fortunately our handsomest politicians 
 came up with a cheap, last minute way 
 to combat global warming. Ever since 
@@ -111,17 +111,17 @@ ocean every now and then.</speak>
 <info>The movie cuts to a shot of a giant ice cube being dropped into 
 the ocean.</info>
 
-<speak who="SUZIE"><info>IN <character>MOVIE</character></info>
+<speak who="SUZIE"><info>IN MOVIE</info>
 Just like Daddy puts in his drink every 
 morning! <info>(sadly)</info> And then he gets mad.</speak>
 
-<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN MOVIE</info>
 Of course, since the greenhouse gases 
 are still building up, it takes more 
 and more ice each time.  Thus solving 
 the problem once and for all.</speak>
 
-<speak who="SUZIE"><info>IN <character>MOVIE</character></info>
+<speak who="SUZIE"><info>IN MOVIE</info>
 But...</speak>
 
 <info>The movie quickly ends with the caption "The End."</info>
@@ -133,7 +133,7 @@ who are supposed to deliver it.  Hello?</speak>
 
 <info>Nixon's head appears on the screen.</info>
 
-<speak who="NIXON"><info>ON <character>SCREEN</character></info>
+<speak who="NIXON"><info>ON SCREEN</info>
 President Nixon here.  I'm hiring you 
 losers to deliver the ice. And hurry 
 up! I'm sweating like J. Edgar Hoover 
@@ -239,13 +239,13 @@ homes in Holland.</speak>
 
 <info>A turtle rolls onto the back of its shell and can't get up.</info>
 
-<speak who="BENDER"><info>(<character>CRYING</character>)</info>
+<speak who="BENDER"><info>(CRYING)</info>
 That poor turtle!</speak>
 
 <speak who="FRY">
 Bender? Are you crying?</speak>
 
-<speak who="BENDER"><info>(<character>CRYING</character>)</info>
+<speak who="BENDER"><info>(CRYING)</info>
 Uh no! Never!</speak>
 
 <info>He wipes his eyes with windscreen wipers.</info>
@@ -611,7 +611,7 @@ on Jupiter. Peace out ya'll!</speak>
 
 <info>His jar sprouts rockets and he blasts off.</info>
 
-<speak who="AUDIENCE"><info>(<character>CHANTING</character>)</info>
+<speak who="AUDIENCE"><info>(CHANTING)</info>
 Destroy all robots! Destroy all robots!</speak>
 
 <speak who="AMY">
@@ -639,7 +639,7 @@ Ah ha!</speak>
 <speak who="LEELA">
 Gotcha!</speak>
 
-<speak who="BENDER"><info><character>FROM INSIDE</character></info>
+<speak who="BENDER"><info>FROM INSIDE</info>
 Let me go! I don't even want the stupid 
 beer!  Yes! You tried to trick me into 
 coming out of my chest. But who has 
@@ -653,7 +653,7 @@ Ooo, it's a party. Apparently.</speak>
 
 <info>Nixon's head appears in the card.</info>
 
-<speak who="NIXON"><info>IN <character>CARD</character></info>
+<speak who="NIXON"><info>IN CARD</info>
 Do you like to party? To boogie down? 
 Well I'm throwing an all night beach 
 raver for my robot pals. It all goes 
@@ -777,10 +777,10 @@ What??</speak>
 
 <info>There is bedlam with the robots.</info>
 
-<speak who="ROBOT #1"><info>(<character>SHOUTING</character>)</info>
+<speak who="ROBOT #1"><info>(SHOUTING)</info>
 We're gonna die!</speak>
 
-<speak who="ROBOT #2"><info>(<character>SHOUTING</character>)</info>
+<speak who="ROBOT #2"><info>(SHOUTING)</info>
 Nixon's not bringing the smokes!</speak>
 
 <info>Bender takes control.</info>

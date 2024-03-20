@@ -503,7 +503,7 @@ with his arms up trying to hide his face from the cameras. Bender
 sighs and turns away from the TV and holds the cell bars. The 
 Hyper-Chicken lawyer paces around on the other side.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Son, as your lawyer I declare y'all 
 are in a 12-piece bucket o' trouble. 
 But I done struck you a deal; Five hours 
@@ -514,7 +514,7 @@ ole mess you caused.</speak>
 Five hours? Aw man! Couldn't you have 
 just gotten me the death penalty?</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 I'd have done better but it's plum hard 
 pleadin' a case while awaitin' trial 
 for that there incompetance!</speak>

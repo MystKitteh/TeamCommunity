@@ -142,7 +142,7 @@ called The Bender!</speak>
 
 <info>Everyone stops skating.</info>
 
-<speak who="ROLLER">-<character>SKATER</character>
+<speak who="ROLLERSKATER">
 Yo hotwheels, this circle's about free 
 expression, not fascist moves!</speak>
 
@@ -747,7 +747,7 @@ drawn at best. It indicates that, we
 are "here" and our next Pharaoh is over 
 there near some...tents.</speak>
 
-<speak who="BENDER"><info><character>FROM REEDS</character></info>
+<speak who="BENDER"><info>FROM REEDS</info>
 Those are waves jackass, it's supposed 
 to be a river!</speak>
 
@@ -914,7 +914,7 @@ died!</speak>
 <speak who="LEELA">
 Good riddance.</speak>
 
-<speak who="BENDER"><info><character>FROM TOMB</character></info>
+<speak who="BENDER"><info>FROM TOMB</info>
 What about my servants?</speak>
 
 <speak who="PRIEST">
@@ -1075,15 +1075,15 @@ Helmsman...</speak>
 
 <info>Cut to: Outside Ship.</info>
 
-<speak who="BENDER"><info><character>FROM SHIP</character></info>
+<speak who="BENDER"><info>FROM SHIP</info>
 ...set course for Earth!</speak>
 
 <info>The ship flies towards a planet and he laughs insanely.</info>
 
-<speak who="LEELA"><info><character>FROM SHIP</character></info>
+<speak who="LEELA"><info>FROM SHIP</info>
 That's not Earth.</speak>
 
-<speak who="BENDER"><info><character>FROM SHIP</character></info>
+<speak who="BENDER"><info>FROM SHIP</info>
 Oh.</speak>
 
 <info>The ship zooms away from the planet.</info>

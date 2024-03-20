@@ -110,16 +110,16 @@ Man, these guys rock harder than ever!</speak>
 
 <info>The Beastie Boys sing Sabotage.</info>
 
-<speak who="MIKE"><info>(<character>SINGING</character>)</info>
+<speak who="MIKE"><info>(SINGING)</info>
 Oh my...</speak>
 
-<speak who="MCA"><info>(<character>SINGING</character>)</info>
+<speak who="MCA"><info>(SINGING)</info>
 ...it's a mirage...</speak>
 
-<speak who="AD ROCK"><info>(<character>SINGING</character>)</info>
+<speak who="AD ROCK"><info>(SINGING)</info>
 ...tellin' you all it's a...</speak>
 
-<speak who="AD ROCK"><info>(<character>SINGING</character>)</info>
+<speak who="AD ROCK"><info>(SINGING)</info>
 Sabotage, yeah!</speak>
 
 <speak who="MIKE">
@@ -168,7 +168,7 @@ a couple of blank tapes?</speak>
 
 <info>Fender turns his volume down and turns to Bender.</info>
 
-<speak who="FENDER"><info>(<character>WHISPERING</character>)</info>
+<speak who="FENDER"><info>(WHISPERING)</info>
 Hey, Bender, why don't we ditch these 
 organ sacks and hit the real party?</speak>
 
@@ -400,7 +400,7 @@ line. You almost killed us.</speak>
 And you made me feel like a jerk for 
 trusting you. Just like when my friend 
 Richie swore he wasn't taking drugs 
-and then he sold me my mom's <character>VCR</character> and 
+and then he sold me my mom's VCR and 
 then later I found out he was taking 
 drugs. You make me ashamed to be your 
 friend.</speak>

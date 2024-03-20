@@ -291,7 +291,7 @@ Yesh he would.</speak>
 Sorry everyone but need I remind you? 
 Blood is thicker than water.</speak>
 
-<speak who="ZOIDBERG"><info><character>WRITING</character></info>
+<speak who="ZOIDBERG"><info>WRITING</info>
 Blood...thicker...water.</speak>
 
 <info>Planet Express: Corridor. On the lab door is a sign reading 
@@ -654,7 +654,7 @@ on the window.</info>
 watch Farnsworth's message on a hologram communicator similar 
 to the one in A New Hope.</info>
 
-<speak who="HOLO">-<character>FARNSWORTH</character>
+<speak who="HOLOFARNSWORTH">
 And now that I've nothing to live for, 
 I've alerted the Sunset Squad robots 
 to take me away.</speak>
@@ -670,7 +670,7 @@ Oh no!</speak>
 <speak who="ZOIDBERG">
 Oh.</speak>
 
-<speak who="HOLO">-<character>FARNSWORTH</character>
+<speak who="HOLOFARNSWORTH">
 I know you're all very upset, especially 
 Bender.</speak>
 
@@ -680,7 +680,7 @@ for you!</speak>
 
 <info>He laughs.</info>
 
-<speak who="HOLO">-<character>FARNSWORTH</character>
+<speak who="HOLOFARNSWORTH">
 I'm sure that Bender has just made a 
 cutting remark but he doesn't know I 
 taped over his soap operas to record 
@@ -796,7 +796,7 @@ so perfect I almost forgot I was looking
 at an idiot!</speak>
 
 <speak who="LEELA">
-Now they may ask for a <character>DNA</character> sample.</speak>
+Now they may ask for a DNA sample.</speak>
 
 <info>Fry pulls his trousers higher.</info>
 
@@ -805,7 +805,7 @@ I'd like to see them find it!</speak>
 
 <speak who="CUBERT">
 This is impossible, we don't even hae 
-a sample of the Professor's <character>DNA</character>.</speak>
+a sample of the Professor's DNA.</speak>
 
 <speak who="BENDER">
 I think I know where to get some.</speak>
@@ -867,7 +867,7 @@ on their lawns.</speak>
 <speak who="BARRIERBOT #2">
 There's no denying that. But we'll still 
 need to verify his identidity with a 
-<character>DNA</character> sample.</speak>
+DNA sample.</speak>
 
 <info>Bender holds up a jar labelled "Tissue Sample." The jar is filled 
 with Cubert's blood.</info>
@@ -895,7 +895,7 @@ Did you hump just say something?</speak>
 Uh....I-I've got talking hump syndrome.</speak>
 
 <speak who="BARRIERBOT #1">
-Ah, <character>THS</character>.</speak>
+Ah, THS.</speak>
 
 <info>Bender drops some of Cubert's blood into a machine and it dings 
 and displays "Hubert J. Farnsworth."</info>

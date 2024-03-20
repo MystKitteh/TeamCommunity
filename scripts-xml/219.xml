@@ -225,7 +225,7 @@ Who is he, I'll kill him!</speak>
 
 <info>A cut-out of Mom talks with Mom's voice.</info>
 
-<speak who="MOM CUT">-<character>OUT</character>
+<speak who="MOM CUT">-OUT
 Who's my favourite robot?</speak>
 
 <info>Bender turns part of the cut-out around. It is a mirror. He 
@@ -234,7 +234,7 @@ sees his reflection and gasps.</info>
 <speak who="BENDER">
 It's me! No one else look in this mirror!</speak>
 
-<speak who="MOM CUT">-<character>OUT</character>
+<speak who="MOM CUT">-OUT
 I love each and every robot most of 
 all.</speak>
 
@@ -409,7 +409,7 @@ Yes, please.</speak>
 <info>(aggressive)</info> Out of cream!</speak>
 
 <speak who="FRY">
-Oh, uh, <character>OK</character>.</speak>
+Oh, uh, OK.</speak>
 
 <speak who="COFFEE MACHINE">
 Would you like sugar in your coffee?</speak>

@@ -133,12 +133,12 @@ stands behind the counter.</info>
 <speak who="FRY">
 I'll take a small Slurm.</speak>
 
-<speak who="REFRESHMENT">-<character>BOT</character>
+<speak who="REFRESHMENTBOT">
 For only 25 cents less, you can get 
 a super-small.</speak>
 
 <speak who="FRY">
-Uh, <character>OK</character>.  Oh, man!</speak>
+Uh, OK.  Oh, man!</speak>
 
 <speak who="BENDER">
 Hey, gimmie a large diet malt liquor 
@@ -167,7 +167,7 @@ Week In The Universe.</speak>
 <info>The guys from Mystery Science Theater 3000 are sat at the other 
 end of the row.</info>
 
-<speak who="CROW T">. <character>ROBOT</character>
+<speak who="CROW T">. ROBOT
 Shh! Don't talk during the movie.</speak>
 
 <speak who="ANNOUNCER">

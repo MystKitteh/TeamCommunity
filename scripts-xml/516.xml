@@ -706,18 +706,18 @@ Orphanarium. The people are real actors with holographic costumes.
 A group of Holo-orphans watch as a Holo-Vogel steps out of the 
 building and sees holo-Leela in a basket.</info>
 
-<speak who="HOLO">-<character>VOGEL</character>
+<speak who="HOLOVOGEL">
 <info>(singing)</info> Who is this one-eyed female 
 baby Moses?
 
 With courage in her female baby smile.
 
-</speak><speak who="HOLO">-<character>ORPHANS</character>
+</speak><speak who="HOLOORPHANS">
 <info>(singing)</info> A saviour from the stars,
 
 Or something stranger still.
 
-</speak><speak who="HOLO">-<character>LEELA</character>
+</speak><speak who="HOLOLEELA">
 <info>(singing)</info> Or just some lonely filthy 
 starving child.</speak>
 
@@ -734,7 +734,7 @@ Fry smiles and carries on playing.</info>
 in it's hands. Holo-Bender watches as Holo-Leela points a laser 
 at it.</info>
 
-<speak who="HOLO">-<character>BENDER</character>
+<speak who="HOLOBENDER">
 <info>(singing)</info> Leela! Leela Leela save him!
 
 Save Fry, save Fry,
@@ -820,7 +820,7 @@ But I'm not done vomiting.</speak>
 <info>He laughs. Leela looks at the people behind her.</info>
 
 <speak who="LEELA">
-I can't stand it!  <character>OK</character>. You can have 
+I can't stand it!  OK. You can have 
 my hand.</speak>
 
 <speak who="ROBOT DEVIL">
@@ -849,13 +849,13 @@ the rest of the crew and sits back in her seat. Fry plays the
 scene in Robot Hell where the Robot Devil decided who's hands 
 to give him. Holo-Fry sees Leela as a winged angel.</info>
 
-<speak who="HOLO">-<character>FRY</character>
+<speak who="HOLOFRY">
 <info>(singing)</info> To win Leela's heart with 
 the holophonor's art,
 
 I need hands of transcendental quickness.
 
-</speak><speak who="HOLO">-<character>ROBOT DEVIL</character>
+</speak><speak who="HOLO ROBOT DEVIL">
 <info>(singing)</info> Well I don't see any danger,
 
 In gambling with a stranger,

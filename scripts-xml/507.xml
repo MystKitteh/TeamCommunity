@@ -60,7 +60,7 @@ and causes huge tailbacks.</info>
 
 <info>Randy pulls up alongside him.</info>
 
-<speak who="RANDY"><info><character>FROM HIS CAR</character></info>
+<speak who="RANDY"><info>FROM HIS CAR</info>
 Hey grandpa, move your wrinkly old kiester!</speak>
 
 <info>He drives away. Farnsworth takes a little time to react.</info>
@@ -560,7 +560,7 @@ Oh so this is the famous Fry! What is
 he like the biggest loser on the surface 
 so he has to hang out in the sewer?</speak>
 
-<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+<speak who="FRY"><info>(WHISPERING)</info>
 They're onto me.</speak>
 
 <speak who="LEELA">
@@ -652,8 +652,8 @@ appears.</info>
 <speak who="FARNSWORTH">
 It seems the Youthasizer tar was saturated 
 with time-altering chronitons. A thin 
-layer is still stuck to our <character>DNA</character> as well 
-as Bender's Robot <character>DNA</character> or "<character>RNA</character>."</speak>
+layer is still stuck to our DNA as well 
+as Bender's Robot DNA or "RNA."</speak>
 
 <speak who="BENDER">
 Question.</speak>
@@ -712,7 +712,7 @@ It is. I know it is.</speak>
 I'll miss you Leela. I'll come ack and 
 visit when I'm all grown up.</speak>
 
-<speak who="LEELA"><info>(<character>WHISPERING</character>)</info>
+<speak who="LEELA"><info>(WHISPERING)</info>
 Bring beer.</speak>
 
 <speak who="MORRIS">
@@ -804,7 +804,7 @@ They jump up and down on the bed.</info>
 
 <speak who="LEELA">
 OK, quiet time. I know, everyone pretend 
-to <character>THING TO CHECK</character> your tongue and I'll 
+to THING TO CHECK your tongue and I'll 
 read you a story.</speak>
 
 <info>Zoidberg is on the floor and has turned into a spiky thing.</info>
@@ -826,7 +826,7 @@ I wanna hear a space story!</speak>
 <info>He holds up a book called A Child's Garden Of Space Legends.</info>
 
 <speak who="LEELA">
-It's kind of a baby book. But <character>OK</character>. Let's 
+It's kind of a baby book. But OK. Let's 
 see. Snow White Dwarf And The Seven 
 Red Dwarves, Charlotte's Tholian Web, 
 The Fountain Of Aging.</speak>
@@ -840,7 +840,7 @@ on the videophone.</info>
 The Fountain Of Aging? Hmm, it is just 
 a legend. Still, they called the Tooth 
 Fairy a legend and now it's head of 
-the <character>FBI</character>.</speak>
+the FBI.</speak>
 
 <info>Turanga House: Living Room. Farnsworth - now de-aged even more 
 - knocks on the door. Morris answers.</info>

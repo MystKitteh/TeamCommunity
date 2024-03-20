@@ -20,14 +20,14 @@ being <info>(Gruff Alien Voice)</info> connected
 
 <info>Leela's parents, Morris and Munda, appear on the screen.</info>
 
-<speak who="MUNDA"><info>ON <character>SCREEN</character></info>
+<speak who="MUNDA"><info>ON SCREEN</info>
 Look Morris, it's Leela calling.</speak>
 
 <speak who="LEELA">
 Hi Mom, hi Dad! Ready for your big trip 
 to the surface?</speak>
 
-<speak who="MORRIS"><info>ON <character>SCREEN</character></info>
+<speak who="MORRIS"><info>ON SCREEN</info>
 We're excited honey but we don't wanna 
 embarrass you. I mean your mother and 
 I are basically monsters.</speak>
@@ -35,7 +35,7 @@ I are basically monsters.</speak>
 <speak who="LEELA">
 Dad, relax. You are being so mutant!</speak>
 
-<speak who="MUNDA"><info>ON <character>SCREEN</character></info>
+<speak who="MUNDA"><info>ON SCREEN</info>
 I found this adorable little bag to 
 wear over my head.  And it was on sale!</speak>
 
@@ -266,7 +266,7 @@ Check.</speak>
 Yes sir!  Ability to command a loyalty 
 of sea creatures?</speak>
 
-<speak who="FRY"><info>(<character>SHOUTING</character>)</info>
+<speak who="FRY"><info>(SHOUTING)</info>
 Hey Zoidberg, get in here!</speak>
 
 <speak who="LEELA">
@@ -343,7 +343,7 @@ at each other.</info>
 <info>Planet Express: Roof. The trio, in their superhero garb, stand 
 on the roof looking across New New York.</info>
 
-<speak who="LEELA"><info>(<character>SHOUTING</character>)</info>
+<speak who="LEELA"><info>(SHOUTING)</info>
 Listen up New New York! There's a new 
 group of superheros in town! And we're 
 -</speak>
@@ -469,7 +469,7 @@ Ta-da!</speak>
 <info>Street. A crook is put into the back of a police van. Crowds 
 cheer the New Justice Team.</info>
 
-<speak who="WOMAN"><info>(<character>SEXFULLY</character>)</info>
+<speak who="WOMAN"><info>(SEXFULLY)</info>
 Captain Yesterday, I find your skintight 
 highwaters incredibly sexy! Let's get 
 together sometime!</speak>
@@ -556,7 +556,7 @@ on fire!</speak>
 <info>She leaves.</info>
 
 <speak who="BENDER">
-Uh, as for me, I'm late for my <character>LSAT</character>'s.</speak>
+Uh, as for me, I'm late for my LSAT's.</speak>
 
 <info>He leaves.</info>
 
@@ -600,7 +600,7 @@ away!</speak>
 <info>She and Fry runs out with Bender gasping and puffing behind 
 them.</info>
 
-<speak who="BENDER"><info>(<character>GASPING</character>)</info>
+<speak who="BENDER"><info>(GASPING)</info>
 Hold the elevator!</speak>
 
 <info>Planet Express: Restroom. Leela addresses an envelope to her 
@@ -676,7 +676,7 @@ hit the deck!</speak>
 <speak who="ZOOKEEPER">
 Ah, superheroes! Or should I say superzeroes!</speak>
 
-<speak who="FRY"><info>(<character>SADLY</character>)</info>
+<speak who="FRY"><info>(SADLY)</info>
 That was uncalled for.</speak>
 
 <speak who="ZOOKEEPER">
@@ -801,7 +801,7 @@ Tomb!</speak>
 <info>Turanga House. Leela is with her parents.</info>
 
 <speak who="MORRIS">
-Sweetie, it's <character>OK</character>. You don't have to 
+Sweetie, it's OK. You don't have to 
 apologise for standing us up on the 
 only visit to the surface we'll ever 
 have.</speak>
@@ -917,7 +917,7 @@ identities?</speak>
 
 <info>He claps and a parrot lands on his shoulder.</info>
 
-<speak who="PARROT"><info>ON <character>SCREEN</character></info>
+<speak who="PARROT"><info>ON SCREEN</info>
 Leela told her parents. Leela's parents 
 blabbed.</speak>
 
@@ -927,7 +927,7 @@ blabbed.</speak>
 Leela, is the person that parrot is 
 mimicking telling the truth by proxy?</speak>
 
-<speak who="LEELA"><info>(<character>SADLY</character>)</info>
+<speak who="LEELA"><info>(SADLY)</info>
 Yes. My parents were so hurt, I couldn't 
 help it! <info>(angry)</info> But I distinctly told 
 them not to tell anyone.</speak>
@@ -943,7 +943,7 @@ Leela's parents. Leela gasps.</info>
 <speak who="LEELA">
 Mom! Dad!</speak>
 
-<speak who="MUNDA"><info>ON <character>SCREEN</character></info>
+<speak who="MUNDA"><info>ON SCREEN</info>
 Leela please forgive us! Especially 
 your father who's the one who told thank 
 you very much Morris.</speak>
@@ -951,11 +951,11 @@ you very much Morris.</speak>
 <speak who="LEELA">
 Are you alright? Has he hurt you?</speak>
 
-<speak who="MORRIS"><info>ON <character>SCREEN</character></info>
+<speak who="MORRIS"><info>ON SCREEN</info>
 No but my allergies are going nuts. 
 Oh God!</speak>
 
-<speak who="MUNDA"><info>ON <character>SCREEN</character></info>
+<speak who="MUNDA"><info>ON SCREEN</info>
 Every couch and table has animal fur 
 all over it. He lets them climb on everything!</speak>
 
@@ -964,7 +964,7 @@ Alright Zookeeper, what do you want?</speak>
 
 <info>He laughs.</info>
 
-<speak who="MUNDA"><info>ON <character>SCREEN</character></info>
+<speak who="MUNDA"><info>ON SCREEN</info>
 Save us Leela! I mean...if you don't 
 have anything better to do.</speak>
 
@@ -1130,7 +1130,7 @@ that we are.</speak>
 But you could call a little more often.</speak>
 
 <speak who="LEELA">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <speak who="MUNDA">
 And would it kill you to use some mouthwash?</speak>

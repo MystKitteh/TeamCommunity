@@ -600,7 +600,7 @@ are as intelligent as you or me.</speak>
 
 <info>A smartly-dressed man pushes him aside.</info>
 
-<speak who="SMARTLY">-<character>DRESSED MAN</character>
+<speak who="SMARTLY DRESSED MAN">
 You maybe!</speak>
 
 <info>The door Fry cuffed himself to is a revolving door. The door 
@@ -628,7 +628,7 @@ TV to watch Datenight, presented by Linda.</info>
 <speak who="LINDA">
 Tonight on Datenight: Popplers. Eating 
 them. Is it alright to? We have with 
-us the <character>CEO</character> of Fishy Joe's, Mr. "Fishy" 
+us the CEO of Fishy Joe's, Mr. "Fishy" 
 Joseph Gillman......Noted anti-eating 
 activist, Free Waterfall Jr......And 
 the discoverer of Popplers, Captain 
@@ -831,7 +831,7 @@ so shall you be eaten by us!</speak>
 We will begin with the firemen, then 
 the math teachers, and so on in that 
 fashion until everyone is eaten.  Transmission 
-over!  Well, that went <character>OK</character>. I tell you, 
+over!  Well, that went OK. I tell you, 
 when you know you can't scratch, that's 
 when you really have to, huh?  Oh, yeah, 
 oh, that feels a lot better. What? It's 
@@ -1365,10 +1365,10 @@ Not this one. He blew all his money
 on instant lottery tickets.</speak>
 
 <speak who="FRY">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <speak who="LEELA">
-Oh, <character>OK</character>.</speak>
+Oh, OK.</speak>
 
 <speak who="AMY">
 That's different.</speak>

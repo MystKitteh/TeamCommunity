@@ -43,13 +43,13 @@ is no mission. I am the mission!</speak>
 
 <info>The ship lands behind him and Bender and Leela walk out.</info>
 
-<speak who="LEELA"><info>(<character>SHOUTING</character>)</info>
+<speak who="LEELA"><info>(SHOUTING)</info>
 We're back from the mission!</speak>
 
 <speak who="FRY">
 Wh-what? You went without me?</speak>
 
-<speak who="BENDER"><info>(<character>SHOUTING</character>)</info>
+<speak who="BENDER"><info>(SHOUTING)</info>
 You were looking up curse words in the 
 dictionary. It seemed like a better 
 use of your time.</speak>
@@ -147,7 +147,7 @@ You have the power! Name it an I'm there,
 you the man!</speak>
 
 <speak who="FRY">
-Um, <character>OK</character>. Let's go bowling.</speak>
+Um, OK. Let's go bowling.</speak>
 
 <speak who="BENDER">
 Nah.</speak>
@@ -511,7 +511,7 @@ Aah! Brains!</speak>
 
 <info>Ken appears on Fry's arm communicator.</info>
 
-<speak who="KEN"><info>ON <character>SCREEN</character></info>
+<speak who="KEN"><info>ON SCREEN</info>
 Fear not Mighty One, your missing brainwave 
 makes you invisible to them. So long 
 as you avoid intense thinking.</speak>
@@ -519,7 +519,7 @@ as you avoid intense thinking.</speak>
 <speak who="FRY">
 Sorry, what? I wasn't paying attention.</speak>
 
-<speak who="KEN"><info>ON <character>SCREEN</character></info>
+<speak who="KEN"><info>ON SCREEN</info>
 That is most wise.</speak>
 
 <speak who="FRY">
@@ -527,7 +527,7 @@ Who?</speak>
 
 <info>Cut to: Outside Infosphere.</info>
 
-<speak who="KEN"><info>ON <character>SCREEN</character></info>
+<speak who="KEN"><info>ON SCREEN</info>
 In a few seconds the brains will finish 
 scanning the last bits of information 
 in the universe.</speak>
@@ -536,7 +536,7 @@ in the universe.</speak>
 
 <info>The scanning ends and the Infosphere initiates a self-scan.</info>
 
-<speak who="KEN"><info>ON <character>SCREEN</character></info>
+<speak who="KEN"><info>ON SCREEN</info>
 Now the Infosphere will open it's protective 
 crust so as to scan itself, completing 
 it's thousand year task.</speak>
@@ -545,7 +545,7 @@ it's thousand year task.</speak>
 to rotate around the Infosphere, scanning as it goes and making 
 a noise like a connecting modem.</info>
 
-<speak who="FIONA"><info>ON <character>SCREEN</character></info>
+<speak who="FIONA"><info>ON SCREEN</info>
 This is your one chance to enter the 
 sphere! Scoot! Scoot now!</speak>
 
@@ -560,12 +560,12 @@ computer console.</info>
 I'm at the input console. I'm a little 
 nervous and I've got brain in my buttcrack.</speak>
 
-<speak who="NIBBLER"><info>ON <character>SCREEN</character></info>
+<speak who="NIBBLER"><info>ON SCREEN</info>
 Roger.</speak>
 
 <info>Fry attaches the bomb to the console.</info>
 
-<speak who="KEN"><info>ON <character>SCREEN</character></info>
+<speak who="KEN"><info>ON SCREEN</info>
 Once you press the detonator, you will 
 have 60 seconds for an exciting escape.</speak>
 
@@ -575,7 +575,7 @@ have 60 seconds for an exciting escape.</speak>
 Hey wait, this brain knows everything 
 about everything right?</speak>
 
-<speak who="KEN"><info>ON <character>SCREEN</character></info>
+<speak who="KEN"><info>ON SCREEN</info>
 It will soon. That's why you're supposed 
 to be setting off a bomb.</speak>
 
@@ -591,7 +591,7 @@ Correct. Toad mucus.</speak>
 <info>On the console screen is a video clip of a postman squeezing 
 a toad so it's mucus drips into a bucket.</info>
 
-<speak who="KEN"><info>ON <character>SCREEN</character></info>
+<speak who="KEN"><info>ON SCREEN</info>
 There's no time for this. Activate the 
 bomb.</speak>
 
@@ -668,7 +668,7 @@ over evil!</speak>
 
 <info>The Nibblonians cheer.</info>
 
-<speak who="KEN"><info>ON <character>SCREEN</character></info>
+<speak who="KEN"><info>ON SCREEN</info>
 Exactly!</speak>
 
 <speak who="GIANT BRAIN">
@@ -680,7 +680,7 @@ the night of December 31st 1999.</speak>
 <speak who="FRY">
 The day I got frozen? What about it?</speak>
 
-<speak who="NIBBLER"><info>ON <character>SCREEN</character></info>
+<speak who="NIBBLER"><info>ON SCREEN</info>
 No! Don't ask about that! It, it would 
 be uh...boring!</speak>
 
@@ -705,7 +705,7 @@ Earth you fat idiot! Hurry up!</speak>
 
 <info>On the console's screen Fry walks into the cryogenics lab.</info>
 
-<speak who="FRY"><info>ON <character>SCREEN</character></info>
+<speak who="FRY"><info>ON SCREEN</info>
 Hello? Pizza delivery for uh...I. C. 
 Wiener? Aw crud!</speak>
 
@@ -717,7 +717,7 @@ Aw, Nibbler's there. Wait! What?!</speak>
 to lose his balance and the chair tips back. Fry rolls back into 
 the cryo-freezer.</info>
 
-<speak who="FRY"><info>ON <character>SCREEN</character></info>
+<speak who="FRY"><info>ON SCREEN</info>
 What the?</speak>
 
 <info>He panics. The cryo-freezer freezes him in a flash.</info>
@@ -733,18 +733,18 @@ Detonation in T-15 seconds.</speak>
 You little runts froze me! You took 
 away my life!</speak>
 
-<speak who="NIBBLER"><info>ON <character>SCREEN</character></info>
+<speak who="NIBBLER"><info>ON SCREEN</info>
 We can explain!</speak>
 
 <speak who="FRY">
 No you can't. Shut your adorable trap!</speak>
 
-<speak who="NIBBLER"><info>ON <character>SCREEN</character></info>
+<speak who="NIBBLER"><info>ON SCREEN</info>
 We had no choice. You were the only 
 one who could help us. What is one life 
 weighed against the entire universe?</speak>
 
-<speak who="FRY"><info>(<character>CRYING</character>)</info>
+<speak who="FRY"><info>(CRYING)</info>
 But it was my life.</speak>
 
 <speak who="COMPUTER VOICE">
@@ -921,13 +921,13 @@ makes a phonecall to Panucci's Pizza.</info>
 I hereby place and order for one cheese 
 pizza.</speak>
 
-<speak who="PANUCCI"><info>ON <character>PHONE</character></info>
+<speak who="PANUCCI"><info>ON PHONE</info>
 One pie, nothing good on it. Name?</speak>
 
 <speak who="NIBBLER">
 I-period C-period Wiener.</speak>
 
-<speak who="PANUCCI"><info>ON <character>PHONE</character></info>
+<speak who="PANUCCI"><info>ON PHONE</info>
 Uh, talk a little louder. It's sounds 
 like you got some kind of tiny head 
 on you or something.</speak>
@@ -989,7 +989,7 @@ We were afraid you would refuse.</speak>
 <speak who="FUTURE FRY">
 Of course not, I love the future.</speak>
 
-<speak who="NIBBLER"><info>(<character>CHOKING</character>)</info>
+<speak who="NIBBLER"><info>(CHOKING)</info>
 Then why are you choking me right now?</speak>
 
 <speak who="FUTURE FRY">
@@ -1122,6 +1122,6 @@ in the universe.</speak>
 
 <info>THE END</info>
 
-<character>FRY </character><info>(<character>OVER CREDITS</character>)</info>
+FRY <info>(OVER CREDITS)</info>
 Yes!
 </xml>

@@ -22,7 +22,7 @@ another door.</info>
 
 <speak who="FARNSWORTH">
 Good news everyone! Several years ago 
-I tried to log on to <character>AOL</character>, and it just 
+I tried to log on to AOL, and it just 
 went through! Wheee! We're online!</speak>
 
 <info>Planet Express: Farnsworth's Lab. The crew climb into what looks 
@@ -150,7 +150,7 @@ Yeah.</speak>
 down a menu and selects a sexy nurse disguise. He taps a man 
 on the shoulder.</info>
 
-<speak who="BENDER"><info>(<character>SEXFULLY</character>)</info>
+<speak who="BENDER"><info>(SEXFULLY)</info>
 Hi, I'm a naughty nurse and I really 
 need someone to talk to. 9.95 a minute.</speak>
 
@@ -199,7 +199,7 @@ Well, thanks to the internet, I'm bored
 with sex. Is there a place on the web 
 that panders to my lust for violence?</speak>
 
-<speak who="BENDER"><info>(<character>SARCASTIC</character>)</info>
+<speak who="BENDER"><info>(SARCASTIC)</info>
 Is the space pope reptilian?</speak>
 
 <info>Outside Death Factory III. The crew walk towards a colluseum-like 
@@ -212,7 +212,7 @@ a type of game played entirely on video.</speak>
 <speak who="LEELA">
 We call it a "video game."</speak>
 
-<speak who="FRY"><info>(<character>SARCASTIC</character>)</info>
+<speak who="FRY"><info>(SARCASTIC)</info>
 Uh, "video game" you say? Well golly 
 gee, you mighty spacemen of the future 
 will have to show me how it works.</speak>
@@ -311,7 +311,7 @@ Leela, you've got mail.  It's not spam!</speak>
 <speak who="LEELA">
 Huh?  It's him!</speak>
 
-<speak who="CYCLOPS"><info>ON <character>SCREEN</character></info>
+<speak who="CYCLOPS"><info>ON SCREEN</info>
 To: Leela. Subject: Hello. I am Alkazar. 
 Fortunately I wrote down your screenname 
 before I was dispatched by that oaffish 
@@ -320,7 +320,7 @@ moron.</speak>
 <speak who="FRY">
 Kicked your ass!</speak>
 
-<speak who="ALKAZAR"><info>ON <character>SCREEN</character></info>
+<speak who="ALKAZAR"><info>ON SCREEN</info>
 Leela we have much to discuss. Please 
 come join me on the planet of your birth. 
 Co-ordinates follow.</speak>
@@ -516,7 +516,7 @@ Please, is it bout the fate of our people?
 Because I'm very interested in that.</speak>
 
 <speak who="ALKAZAR">
-Well <character>OK</character>. But it's chilly and you're 
+Well OK. But it's chilly and you're 
 going to be all wet from the tears. 
 Let's go into my chamber.</speak>
 
@@ -528,14 +528,14 @@ Alkazar tells the story.</info>
 <info>Flashback. Cyclops City is a thriving community with families, 
 fountains and buskers.</info>
 
-<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
+<speak who="ALKAZAR"><info>(VOICE OVER)</info>
 It wasn't long ago. Our people were 
 happy and prosperous...</speak>
 
 <info>The flashback cuts to a dark planet with rocky terrain and lots 
 of large molehills.</info>
 
-<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
+<speak who="ALKAZAR"><info>(VOICE OVER)</info>
 ...but the eyeless mole people of Subterra 
 3 grew jealous of our visual proness. 
 They fired missile in all directions 
@@ -544,7 +544,7 @@ hoping to hit Cyclopia.</speak>
 <info>A mole man presses a button and several hundred missiles are 
 launched from the planet.</info>
 
-<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
+<speak who="ALKAZAR"><info>(VOICE OVER)</info>
 Unfortunately, one of the 40 planets 
 hit, was ours.</speak>
 
@@ -569,7 +569,7 @@ the impact...</speak>
 
 <info>Flashback. In a Cyclopian hospital a doctor delivers a baby.</info>
 
-<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
+<speak who="ALKAZAR"><info>(VOICE OVER)</info>
 Our smartest scientists managed to save 
 one baby</speak>
 
@@ -584,7 +584,7 @@ have been me!</speak>
 
 <info>Flashback. Cyclops City is in flames.</info>
 
-<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
+<speak who="ALKAZAR"><info>(VOICE OVER)</info>
 Fortunately I was employed as a pool 
 cleaner at the time and when I emerged 
 from retrieving a dead possum, I found 
@@ -631,7 +631,7 @@ would you.</speak>
 <info>He puts his head back on the pillow.</info>
 
 <speak who="LEELA">
-Uh, sure <character>OK</character>. What do you take with that?</speak>
+Uh, sure OK. What do you take with that?</speak>
 
 <speak who="ALKAZAR">
 Pancakes and sausage. Kitchen's in the 
@@ -838,7 +838,7 @@ centuries of Cyclops destiny depend
 on the answer to one question......Leela, 
 will you marry me?</speak>
 
-<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+<speak who="FRY"><info>(WHISPERING)</info>
 No! No!</speak>
 
 <speak who="LEELA">
@@ -940,7 +940,7 @@ I love taking things!</speak>
 Comes The Bride and Farnsworth walks Leela up the aisle. Zoidberg 
 wipes his eyes.</info>
 
-<speak who="ZOIDBERG"><info>(<character>CRYING</character>)</info>
+<speak who="ZOIDBERG"><info>(CRYING)</info>
 That pig over there is wearing the same 
 sandals as me.</speak>
 
@@ -1100,7 +1100,7 @@ thing in my position?</speak>
 
 <info>Bender cries.</info>
 
-<speak who="BENDER"><info>(<character>CRYING</character>)</info>
+<speak who="BENDER"><info>(CRYING)</info>
 He's a saint!</speak>
 
 <speak who="LEELA">

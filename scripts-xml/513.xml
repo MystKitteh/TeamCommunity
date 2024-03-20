@@ -453,7 +453,7 @@ With Humorbot 5.0...? I'd love to!
 My own limo...? No I don't have my own 
 limo. You'd better send one.  I need 
 a raincheck on that nad-swap Professor. 
-I'm going on <character>TV</character>. C'mon Fry help me pick 
+I'm going on TV. C'mon Fry help me pick 
 out a pantsuit!</speak>
 
 <info>Late Night With Humorbot 5.0 Studio. The studio looks like the 
@@ -1001,7 +1001,7 @@ OK then.</speak>
 <info>She dies in a very dramatic and soapy way. At the back Zoidberg 
 eats what is left of the buffet.</info>
 
-<speak who="ZOIDBERG"><info><character>EATING</character></info>
+<speak who="ZOIDBERG"><info>EATING</info>
 I'm a doctor, she's dead.</speak>
 
 <speak who="CALCULON">

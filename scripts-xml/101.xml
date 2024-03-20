@@ -282,7 +282,7 @@ on and presses a button. Fry squeaks.</info>
 starts to get dressed.</info>
 
 <speak who="LEELA">
-Interesting. Your <character>DNA</character> test shows one 
+Interesting. Your DNA test shows one 
 living relative. He's your great great 
 great great great great great...</speak>
 
@@ -392,7 +392,7 @@ around a corner and finds an entrance to the tube. A pedestrian
 steps in.</info>
 
 <speak who="MAN #1">
-<character>JFK</character> Jr. Airport.</speak>
+JFK Jr. Airport.</speak>
 
 <info>The man is sucked up into the tube.</info>
 
@@ -564,7 +564,7 @@ You really want a robot for a friend?</speak>
 Yeah, ever since I was six.</speak>
 
 <speak who="BENDER">
-Well, <character>OK</character>. But I don't want people thinking 
+Well, OK. But I don't want people thinking 
 we're robo-sexuals, so if anyone asks, 
 you're my debugger.</speak>
 

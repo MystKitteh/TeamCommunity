@@ -259,7 +259,7 @@ Hey, I'm taking my new car out for a
 spin to Mercury. Anybody wanna come?</speak>
 
 <speak who="FRY">
-Yeah, <character>OK</character>. What's the weather like?</speak>
+Yeah, OK. What's the weather like?</speak>
 
 <speak who="AMY">
 The usual: Boiling lead, oceans of lava.</speak>
@@ -1202,7 +1202,7 @@ noblemen convened...</speak>
 
 <info>Fry and Leela look at each other.</info>
 
-<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+<speak who="FRY"><info>(WHISPERING)</info>
 Thank you.</speak>
 
 <info>They smile.</info>

@@ -30,7 +30,7 @@ from Kif a couple hours ago.</speak>
 <speak who="AMY">
 My Kiffie called?  Kif?</speak>
 
-<speak who="KIF"><info>ON <character>SCREEN</character></info>
+<speak who="KIF"><info>ON SCREEN</info>
 Ooo Amy you're back. Another hour and 
 I would have thought about hanging up.</speak>
 
@@ -38,19 +38,19 @@ I would have thought about hanging up.</speak>
 Why didn't you just leave a message 
 sweetie?</speak>
 
-<speak who="KIF"><info>ON <character>SCREEN</character></info>
+<speak who="KIF"><info>ON SCREEN</info>
 Well um, I've left hundreds of messages 
 with your answering machine but you 
 never seem to...</speak>
 
-<speak who="AMY"><info>(<character>SHOUTING</character>)</info>
+<speak who="AMY"><info>(SHOUTING)</info>
 Bender!</speak>
 
 <speak who="BENDER">
 Not my fault if you don't check me! 
 Messages erased.</speak>
 
-<speak who="KIF"><info>ON <character>SCREEN</character></info>
+<speak who="KIF"><info>ON SCREEN</info>
 Oh dearest, this long distance relationship 
 is too much to bear......when even an 
 inch seperates us I quiver with misery. 
@@ -61,14 +61,14 @@ a billion light years.</speak>
 
 <info>Cut to: Nimbus Communication Room.</info>
 
-<speak who="AMY"><info>ON <character>SCREEN</character></info>
+<speak who="AMY"><info>ON SCREEN</info>
 Kif, don't cry, or you'll get a tummy 
 ache.</speak>
 
 <info>Cut to: Planet Express: Lounge. On the screen Zapp walks up 
 behind Kif.</info>
 
-<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
+<speak who="ZAPP"><info>ON SCREEN</info>
 Lieutenant, some things came off me 
 and clogged the drain so if you could......oh 
 ho! What's this?</speak>
@@ -80,7 +80,7 @@ on Leela.</info>
 Well well well! Do my eyes believe me 
 or is that my bosomy swan, Leela?</speak>
 
-<speak who="LEELA"><info>ON <character>SCREEN</character></info>
+<speak who="LEELA"><info>ON SCREEN</info>
 Say again. You're breaking up!</speak>
 
 <info>She throws the book she is reading at the screen.</info>
@@ -136,7 +136,7 @@ Amy climbs out of it.</info>
 <info>Cut to: Ship's Cockpit. Amy sneaks past a snoring Bender, sits 
 in the pilot's seat and takes control of the ship.</info>
 
-<speak who="AMY"><info>(<character>WHISPERING</character>)</info>
+<speak who="AMY"><info>(WHISPERING)</info>
 Here I come Kif!</speak>
 
 <info>She turns the ship around and laughs.</info>
@@ -244,7 +244,7 @@ already!</speak>
 
 <speak who="KIF">
 Yes. I prgorammed it in for you! 4 million 
-lines of <character>BASIC</character>! And, if this isn't the 
+lines of BASIC! And, if this isn't the 
 life you want, how 'bout this? Run program 
 Kif-2!</speak>
 
@@ -401,7 +401,7 @@ Oh joy!</speak>
 <speak who="KIF">
 Amy, isn't it wonderful? I'm pregnant!</speak>
 
-<speak who="AMY"><info>(<character>UNSURE</character>)</info>
+<speak who="AMY"><info>(UNSURE)</info>
 Yes it's...great. A great miracle.</speak>
 
 <speak who="LEELA">
@@ -438,7 +438,7 @@ genetic material. I held Amy's hand
 and voila.</speak>
 
 <speak who="BENDER">
-Oh <character>OK</character>. but that better be all there 
+Oh OK. but that better be all there 
 is!</speak>
 
 <speak who="KIF">
@@ -502,9 +502,9 @@ Even I laughed at me when I built this
 alien cross species genetic analyser 
 but I guess I showed myself! Subjects, 
 please enter the chamber.  Now to take 
-a <character>DNA</character> sample.  When I pull this switch 
+a DNA sample.  When I pull this switch 
 the maternifuge will spin at 10,000 
-<character>RPM</character>, seperating out everyone who isn't 
+RPM, seperating out everyone who isn't 
 the mother....father...whatever.</speak>
 
 <info>He pulls the switch and the maternifuge starts spinning. Everyone 
@@ -562,7 +562,7 @@ this? <info>(crying)</info> Stop testing our love!</speak>
 
 <speak who="KIF">
 Please captain. I thank Leela for the 
-<character>DNA</character> she gave me but in my species, the 
+DNA she gave me but in my species, the 
 true parent is the one that inspired 
 the initial feeling of love. We call 
 that person the smizmar. And my smizmar 
@@ -716,7 +716,7 @@ That's so beautiful!</speak>
 
 <info>He dries his tears with a mouth flap.</info>
 
-<speak who="AMY"><info>(<character>CRYING</character>)</info>
+<speak who="AMY"><info>(CRYING)</info>
 Yes, yes it's......no! I can't do this!</speak>
 
 <info>She runs out of the room crying. Everyone gasps.</info>
@@ -755,7 +755,7 @@ swamp I was born.</speak>
 
 <speak who="LEELA">
 If it's so dangerous I'd better go with 
-you. A gal has to protect her <character>DNA</character>.</speak>
+you. A gal has to protect her DNA.</speak>
 
 <speak who="KIF">
 No Leela. Tradition demands that I make 
@@ -862,7 +862,7 @@ then drink.</speak>
 <speak who="KIF">
 Amy.</speak>
 
-<speak who="AMY"><info>(<character>SHOUTING</character>)</info>
+<speak who="AMY"><info>(SHOUTING)</info>
 Kif!</speak>
 
 <info>Everyone looks up and gasps. Amy flies towards the swamp on 
@@ -959,7 +959,7 @@ Way to go squishy!</speak>
 <info>The tadpoles swim away.</info>
 
 <speak who="LEELA">
-There goes my <character>DNA</character>. What a disgusting 
+There goes my DNA. What a disgusting 
 and beautiful process.</speak>
 
 <speak who="FRY">

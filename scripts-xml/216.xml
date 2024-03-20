@@ -105,7 +105,7 @@ who owns her own harpoon.</speak>
 Harpoon, my ass!</speak>
 
 <speak who="LEELA">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <info>And she does. He screams in pain and jumps into the water. Hermes 
 looks at five buckets.</info>
@@ -1130,6 +1130,6 @@ Hey! I'm trying to sleep in here!</speak>
 
 <info>THE END</info>
 
-<character>DONOVAN</character>
+DONOVAN
 <info>(over credits)</info> Hail Atlanta!
 </xml>

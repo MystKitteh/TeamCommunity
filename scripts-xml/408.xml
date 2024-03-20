@@ -31,7 +31,7 @@ balls at it causing dents along the hull.</info>
 
 <info>Cut to: Ship's Cockpit. A pirate appears on the screen.</info>
 
-<speak who="PIRATE"><info>ON <character>SCREEN</character></info>
+<speak who="PIRATE"><info>ON SCREEN</info>
 Avast mateys!</speak>
 
 <info>Cut to: Pirate Ship. The pirate has three parrots along his 
@@ -115,7 +115,7 @@ Damn you Fry and Lee......la!</speak>
 <info>The pirate ship starts to spin widly out of control. The pirate 
 looks through the window sadly.</info>
 
-<speak who="PIRATE"><info><character>FROM SHIP</character></info>
+<speak who="PIRATE"><info>FROM SHIP</info>
 Too late do I realise that my children 
 are my only real treasures.</speak>
 
@@ -246,7 +246,7 @@ Poor? Oh crap.</speak>
 on the asteroid. On the porch of Malachi's home his wife cross-stiches 
 something and his children play.</info>
 
-<speak who="MALACHI">'S <character>WIFE</character>
+<speak who="MALACHI">'S WIFE
 What art thou doing Malachi Jr?</speak>
 
 <info>Malachi Jr hugs a big pot.</info>
@@ -316,7 +316,7 @@ No that's I don't -</speak>
 Who wants to go to an amusement park?</speak>
 
 <speak who="FRY">
-Well, I guess that sounds <character>OK</character>.</speak>
+Well, I guess that sounds OK.</speak>
 
 <speak who="HELPER">
 Have a good time. Hey, I hear your friend 
@@ -371,7 +371,7 @@ and run out of its way. The tidal wave washes through the village
 and sweeps away Malachi Jr. He grabs hold of a branch. The villagers 
 gasp.</info>
 
-<speak who="MALACHI">'S <character>WIFE</character>
+<speak who="MALACHI">'S WIFE
 Malachi Jr, no!</speak>
 
 <speak who="MALACHI JR">
@@ -657,7 +657,7 @@ I must leave you now for I am not holy
 enough to enter.</speak>
 
 <speak who="FRY">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <info>He bleches and spits. He and Leela walk towards an old wood 
 and rope bridge.</info>
@@ -897,7 +897,7 @@ Bender? Bender?</speak>
 <speak who="FRY">
 Hello? Has anyone out there seen Bender?</speak>
 
-<speak who="LRRR"><info>ON <character>SPEAKER</character></info>
+<speak who="LRRR"><info>ON SPEAKER</info>
 No, quit asking.</speak>
 
 <speak who="LEELA">

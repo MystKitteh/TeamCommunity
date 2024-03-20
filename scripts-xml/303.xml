@@ -16,7 +16,7 @@ a crackling radio noise.</info>
 
 <speak who="FRY">
 Giant Space Robot, this is Captain Fry 
-of the <character>USS</character> Planet Express Ship; We come 
+of the USS Planet Express Ship; We come 
 in peace.</speak>
 
 <speak who="BENDER">
@@ -315,7 +315,7 @@ Oh, here's a cryogenic counsellor! Do
 you like Mondays?</speak>
 
 <speak who="FRY">
-They're <character>OK</character>.</speak>
+They're OK.</speak>
 
 <speak who="IPGEE">
 Then we'll have to redecorate your office. 
@@ -524,7 +524,7 @@ The weasel?</speak>
 Hey, listen, skippy. I was supposed 
 to be unfrozen in Hollywood for the 
 thousandth anniversary screening of 
-Jury Duty <character>II</character>. How come I'm not there?</speak>
+Jury Duty II. How come I'm not there?</speak>
 
 <speak who="FRY">
 I woke you up early so we could hang 
@@ -979,7 +979,7 @@ your hole and you can't do nothing about
 it.</speak>
 
 <speak who="MICHELLE">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <speak who="FRY">
 Mighty sir, we have nowhere to go. Could 
@@ -1033,7 +1033,7 @@ you up.</speak>
 <speak who="KID #1">
 Yeah, I'll bet he could.</speak>
 
-<speak who="BUTCH">'S <character>GIRLFRIEND</character>
+<speak who="BUTCH">'S GIRLFRIEND
 He's got arm hair.</speak>
 
 <speak who="BUTCH">
@@ -1072,7 +1072,7 @@ wrong.</speak>
 <speak who="FRY">
 <info>(sadly)</info> Beth said that?</speak>
 
-<speak who="BUTCH">'S <character>GIRLFRIEND</character>
+<speak who="BUTCH">'S GIRLFRIEND
 <info>(in Hebrew)</info> One, two, three.</speak>
 
 <info>Butch flies down the ramp, dragging Fry with him. They tug back 
@@ -1106,13 +1106,13 @@ Hand it over, you giant idiot.</speak>
 
 <info>An armoured car pulls up and honks its horn.</info>
 
-<speak who="BUTCH">'S <character>GIRLFRIEND</character>
+<speak who="BUTCH">'S GIRLFRIEND
 Hey, Butch, your mom's here.</speak>
 
 <speak who="BUTCH">
 Aw, man.</speak>
 
-<speak who="BUTCH">'S <character>MOM</character>
+<speak who="BUTCH">'S MOM
 Come on, kids. You're late for Hebrew 
 school.</speak>
 
@@ -1121,7 +1121,7 @@ school.</speak>
 <speak who="OROWHEAT">
 I don't wanna go.</speak>
 
-<speak who="BUTCH">'S <character>GIRLFRIEND</character>
+<speak who="BUTCH">'S GIRLFRIEND
 Every Monday and Wednesday's the same 
 thing.</speak>
 

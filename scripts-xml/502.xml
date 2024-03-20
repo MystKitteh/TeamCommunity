@@ -106,13 +106,13 @@ sausages, Old Mr Patelli, and that's
 <info>Street. The dog sits in an alley scratching itself. It sees 
 Fry across the street delivering a pizza. Fry buzzes a buzzer.</info>
 
-<speak who="VOICE"><info>ON <character>BUZZER</character>.</info>
+<speak who="VOICE"><info>ON BUZZER.</info>
 Yes?</speak>
 
 <speak who="FRY">
 Pizza delivery for Mr......Seymour Asses.</speak>
 
-<speak who="VOICE"><info>ON <character>BUZZER</character>.</info>
+<speak who="VOICE"><info>ON BUZZER.</info>
 There's no one by that name here...or 
 anywhere. I hope that in time you'll 
 realise what an idiot you've been.</speak>
@@ -203,7 +203,7 @@ You're right.  I'll give it a shot!</speak>
 
 <info>Street. Fry is outside the museum holding a sign and a megaphone.</info>
 
-<speak who="CROWD"><info>(<character>CHANTING</character>)</info>
+<speak who="CROWD"><info>(CHANTING)</info>
 What do you want?</speak>
 
 <speak who="CROWD">
@@ -217,14 +217,14 @@ Yaaay!</speak>
 <speak who="LEELA">
 It says this part of The Hustle implores 
 the Gods to grant a favour. Usually 
-a Trans-<character>AM</character>.</speak>
+a Trans-AM.</speak>
 
 <info>Flashback - July 1998 The Summer Of "I Still Know What You Did 
 Last Summer."</info>
 
 <info>Street. Fry cycles down the street towards Panucci's singing.</info>
 
-<speak who="FRY"><info>(<character>SINGING</character>)</info>
+<speak who="FRY"><info>(SINGING)</info>
 I'm walking on sunshine! Ooo-oo-ooh! 
 I'm walking on sunshine! Ooo-oo-ooh! 
 At a boy Seymour! Right here waiting 
@@ -408,7 +408,7 @@ from Human Mode to Dog Mode.</speak>
 <info>He turns a switch around to a picture of a dog. It is like a 
 child's toy.</info>
 
-<speak who="WOMAN">'S <character>VOICE</character>
+<speak who="WOMAN">'S VOICE
 The dog says </speak>
 
 <speak who="FARNSWORTH">
@@ -541,7 +541,7 @@ says "Bender" on it.  Ow!</speak>
 <info>The Frys' House. Mr Fry is on the phone but can only hear Fry's 
 answerphone message.</info>
 
-<speak who="FRY"><info>ON <character>ANSWERPHONE</character></info>
+<speak who="FRY"><info>ON ANSWERPHONE</info>
 This is Fry. If you're calling about 
 the used towels for sale, they're still 
 available for $45 each.</speak>
@@ -570,7 +570,7 @@ Philip?</speak>
 I'm tellin' you the Y2K computer's got 
 him. We'll face burnin' roads, rivers 
 explodin' and calculators transformed 
-into <character>SCUD</character> missiles. There's nothing 
+into SCUD missiles. There's nothing 
 we can do.  What's that Seymour? You 
 walking on sunshine?</speak>
 
@@ -617,7 +617,7 @@ Well could you do it some place else?
 I'm setting up Seymour's doggy bed.</speak>
 
 <speak who="LEELA">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <info>She drags Amy out of Fry's way. Fry kicks the mat out of the 
 way and puts Seymour's bed on the floor next to the couch. Enter 
@@ -628,7 +628,7 @@ Heel boy, heel! Oh hello Fry, I guess
 I didn't notice you there. I'm having 
 such fun with my new best friend Robo-Puppy.</speak>
 
-<speak who="FRY"><info>(<character>NOT CARING</character>)</info>
+<speak who="FRY"><info>(NOT CARING)</info>
 That's nice.</speak>
 
 <speak who="BENDER">
@@ -637,7 +637,7 @@ can walk him. Of course, after he goes
 you have to refill the canisters. C'mere 
 boy! Pet, pet, pet.</speak>
 
-<speak who="ROBO">-<character>PUPPY</character>
+<speak who="ROBOPUPPY">
 Robo-Puppy receiving petting.</speak>
 
 <speak who="AMY">
@@ -649,7 +649,7 @@ Jealous? Hah!  Not while I have the
 love of Robo-Puppy here. Robo-Puppy, 
 lick my cheek.</speak>
 
-<speak who="ROBO">-<character>PUPPY</character>
+<speak who="ROBOPUPPY">
 Robo-Puppy preparing to lick cheek. 
 Robo-Puppy commencing cheek licking. 
 Licking in progress. Licking complete.</speak>
@@ -666,7 +666,7 @@ Ah there, perfect!</speak>
 <info>A fanfare sound sounds and a huge hologram of Farnsworth's head 
 appears in the room.</info>
 
-<speak who="HOLO">-<character>FARNSWORTH</character>
+<speak who="HOLOFARNSWORTH">
 Good news everyone! The Clone-O-Mat 
 is ready!</speak>
 
@@ -685,7 +685,7 @@ Finally!</speak>
 
 <info>Bender growls.</info>
 
-<speak who="ROBO">-<character>PUPPY</character>
+<speak who="ROBOPUPPY">
 Robo-Puppy commencing two hour yipping 
 session.  Robo-Puppy mistreatment alert! 
 Robo-Puppy mistreatment alert!</speak>

@@ -41,7 +41,7 @@ particular domicile.</speak>
 
 <info>The alien's wife walks in.</info>
 
-<speak who="ALIEN">'S <character>WIFE </character><info>ON TV</info>
+<speak who="ALIEN">'S WIFE <info>ON TV</info>
 You get that  camera out of my house!</speak>
 
 <speak who="SMITTY"><info>ON TV</info>
@@ -51,7 +51,7 @@ the lamp.</speak>
 <info>The alien smashes the lamp.</info>
 
 <speak who="ALIEN"><info>ON TV</info>
-<character>OK</character>. OK, I'm co-operating.</speak>
+OK. OK, I'm co-operating.</speak>
 
 <speak who="SMITTY"><info>ON TV</info>
 That's it, now put up your hands.</speak>
@@ -777,13 +777,13 @@ Wait, I don't like the sound of that.
 Let's just go alphabetically.</speak>
 
 <speak who="LEELA">
-<character>OK</character>. First Bender, then Flexo, then Fry.</speak>
+OK. First Bender, then Flexo, then Fry.</speak>
 
 <speak who="FRY">
 Wait, let's go by rank.</speak>
 
 <speak who="LEELA">
-<character>OK</character>. First Bender, then Flexo, then Fry.</speak>
+OK. First Bender, then Flexo, then Fry.</speak>
 
 <speak who="FRY">
 Flexo outranks me?</speak>

@@ -31,7 +31,7 @@ Ohh!</speak>
 <speak who="AMY">
 There he is!</speak>
 
-<speak who="HATTIE"><info>(<character>SHOUTING</character>)</info>
+<speak who="HATTIE"><info>(SHOUTING)</info>
 Take it off!</speak>
 
 <speak who="FARNSWORTH">
@@ -51,7 +51,7 @@ Express Inc.'s latest fiscal year.</speak>
 <info>The stockholders applaud and a film comes on showing the Planet 
 Express ship flying over some water away from a sunset.</info>
 
-<speak who="NARRATOR"><info>IN <character>FILM</character></info>
+<speak who="NARRATOR"><info>IN FILM</info>
 Planet Express is on the move. For this 
 young, hip delivery compnay, tomorrow 
 is today and today is yesterday. You 
@@ -102,7 +102,7 @@ he wasn't our Messiah.</speak>
 still going on. The Planet Express ship soars into space with 
 fireworks trailing behind it.</info>
 
-<speak who="NARRATOR"><info>IN <character>FILM</character></info>
+<speak who="NARRATOR"><info>IN FILM</info>
 And so our company flames onwards. Planet 
 Express: Limitless potential, boundless 
 horizons, the unstoppable juggernaut 
@@ -136,7 +136,7 @@ Worthless.</speak>
 
 <info>The stockholders gasp.</info>
 
-<speak who="BENDER"><info>(<character>SHOUTING</character>)</info>
+<speak who="BENDER"><info>(SHOUTING)</info>
 I'll kill you!</speak>
 
 <speak who="HATTIE">
@@ -332,7 +332,7 @@ to 50,000.</info>
 <speak who="HERMES">
 Then we have a tie. And in the event 
 of a tie the Professor, as the current 
-<character>CEO</character> remains -</speak>
+CEO remains -</speak>
 
 <speak who="HATTIE">
 I demand the floor. I may only have 
@@ -377,7 +377,7 @@ shepherd of this herd of sharks and
 I am gonna lead you to the top of this 
 industry of...of...</speak>
 
-<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+<speak who="FRY"><info>(WHISPERING)</info>
 Package delivery.</speak>
 
 <speak who="THAT GUY">
@@ -693,7 +693,7 @@ the big picture!"</speak>
 
 <info>Mom coughs from behind Fry and he and That Guy look up.</info>
 
-<speak who="FRY"><info>(<character>WEAKLY</character>)</info>
+<speak who="FRY"><info>(WEAKLY)</info>
 What a pleasant surprise!</speak>
 
 <speak who="MOM">
@@ -735,7 +735,7 @@ You've changed Fry.</speak>
 What? I haven't changed.  Suz? Have 
 I changed?</speak>
 
-<speak who="SUZ"><info>ON <character>INTERCOM</character></info>
+<speak who="SUZ"><info>ON INTERCOM</info>
 No sir Mr Fry.</speak>
 
 <speak who="FRY">
@@ -760,7 +760,7 @@ That Guy understands that.</speak>
 
 <info>That Guy appears on a screen.</info>
 
-<speak who="THAT GUY"><info>ON <character>SCREEN</character></info>
+<speak who="THAT GUY"><info>ON SCREEN</info>
 Everyone's fired and we're out of business.</speak>
 
 <info>Everyone gasps.</info>
@@ -771,12 +771,12 @@ Oh no.</speak>
 <speak who="HERMES">
 How?</speak>
 
-<speak who="THAT GUY"><info>ON <character>SCREEN</character></info>
+<speak who="THAT GUY"><info>ON SCREEN</info>
 I'm gonna sell Planet Express to Mom 
 so she can gut the company and eliminate 
 us as competitors.</speak>
 
-<speak who="MOM"><info>ON <character>SCREEN</character></info>
+<speak who="MOM"><info>ON SCREEN</info>
 Don't let the door hit you on your way 
 out. 'Cause I don't want ass prints 
 on my new door!</speak>
@@ -808,7 +808,7 @@ Yeah.</speak>
 <info>He slams Hermes' door shut and chuckles. Amy clears out her 
 locker and puts her stuff in a box a man is holding for her.</info>
 
-<speak who="AMY"><info>(<character>CRYING</character>)</info>
+<speak who="AMY"><info>(CRYING)</info>
 It's so sad, where will I go? What will 
 I do?</speak>
 
@@ -816,7 +816,7 @@ I do?</speak>
 You have Mrs Darlinghaven's cotillion 
 at 7 ma'am.</speak>
 
-<speak who="AMY"><info>(<character>CRYING</character>)</info>
+<speak who="AMY"><info>(CRYING)</info>
 Oh. That'll be fun.</speak>
 
 <info>Planet Express: Fry's Office. Fry sighs and presses the intercom 
@@ -826,7 +826,7 @@ button.</info>
 Ms Johnson, you've never lied to me. 
 Am I still a good person?</speak>
 
-<speak who="SUZ"><info>ON <character>INTERCOM</character></info>
+<speak who="SUZ"><info>ON INTERCOM</info>
 I don't know sir. I'm a program built 
 into the intercom.</speak>
 
@@ -835,7 +835,7 @@ I've got to redeem myself. Somehow,
 sometime, for some reason. I'll block 
 this takeover!</speak>
 
-<speak who="SUZ"><info>ON <character>INTERCOM</character></info>
+<speak who="SUZ"><info>ON INTERCOM</info>
 Mr Fry, your 2 o'clock magician is here.</speak>
 
 <speak who="FRY">
@@ -940,7 +940,7 @@ Um...uh... Uh, the ballot was confusing.</speak>
 How about a hand recount?</speak>
 
 <speak who="IGNER">
-<character>OK</character>.  Ow!</speak>
+OK.  Ow!</speak>
 
 <speak who="MOM">
 The takeover of Planet Express is approved.</speak>
@@ -1010,7 +1010,7 @@ You had to drag spines into this!</speak>
 <info>He cries. Fry appears on the overhead monitors. He clears his 
 throat.</info>
 
-<speak who="FRY"><info>ON <character>SCREEN</character></info>
+<speak who="FRY"><info>ON SCREEN</info>
 As vice chairman of Planet Express I'd 
 like to say a few words. There comes 
 a time for every man who becomes rich 
@@ -1150,7 +1150,7 @@ Shut your fat mouth!</speak>
 
 <info>The crew walk out muttering.</info>
 
-<speak who="FRY"><info>(<character>SHOUTING</character>)</info>
+<speak who="FRY"><info>(SHOUTING)</info>
 See you guys Monday!</speak>
 
 <info>THE END</info>

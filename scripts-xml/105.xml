@@ -216,7 +216,7 @@ It's...my...new pager.</speak>
 <info>He takes his pager out of his lab coat and turns it on. A holographic 
 image of Hermes appears in front of him.</info>
 
-<speak who="HOLO">-<character>HERMES</character>
+<speak who="HOLOHERMES">
 This is Hermes. A package just came 
 in. Everyone is to return to the office 
 immediately.  Get away, you filthy bird! 
@@ -229,7 +229,7 @@ I'm sorry, wha?</speak>
 <info>Holo-Hermes screams. The bird takes off with him and carries 
 him towards the roof.</info>
 
-<speak who="HOLO">-<character>HERMES</character>
+<speak who="HOLOHERMES">
 <info>(shouting)</info> See you at the office!</speak>
 
 <info>Planet Express: Meeting Room. The staff are sat around the table.</info>
@@ -420,7 +420,7 @@ or three minutes to think about it.</speak>
 things.</info>
 
 <speak who="LEELA">
-<character>OK</character>. If we're going to save Bender, we've 
+OK. If we're going to save Bender, we've 
 got to look and act exactly like robots.</speak>
 
 <speak who="FRY">
@@ -682,7 +682,7 @@ God help us!</speak>
 out.</info>
 
 <speak who="LEELA">
-<character>OK</character>. Keep an eye out for Bender.</speak>
+OK. Keep an eye out for Bender.</speak>
 
 <speak who="ROBOT #1">
 So, what did you think of the movie?</speak>

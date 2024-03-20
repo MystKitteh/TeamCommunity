@@ -863,7 +863,7 @@ Persei 8!</speak>
 <info>Time Lapse. Lrrr and Nd-Nd are still eating and Fry is still 
 in his cage. A guard is sat by a tree.</info>
 
-<speak who="LRRR"><info><character>EATING</character></info>
+<speak who="LRRR"><info>EATING</info>
 Mmm, this jerked chicken is good! I 
 think I'll have Fry's lower horn jerked.</speak>
 
@@ -1052,7 +1052,7 @@ The opening titles play.</info>
 lab a mad scientist pours stuff from one bottle to another.</info>
 
 <speak who="SCIENTIST"><info>ON TV</info>
-I have combined the <character>DNA</character> of the world's 
+I have combined the DNA of the world's 
 most evil animals, to make the most 
 evil creature of them all.</speak>
 

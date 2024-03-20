@@ -13,7 +13,7 @@ Episode 217
 a picture of Neptunian chef Elzar and "Elzar Live! Now Taping." 
 Smartly dressed people walk through the VIP Entrance and Fry, 
 Bender and Leela walk through the P Entrance, which is just a 
-normal door right next to the <character>VIP</character> Entrance.</info>
+normal door right next to the VIP Entrance.</info>
 
 <info>Cut to: Mmm TV Studio. At the back of the room people sit in 
 bleachers. Fry, Bender and Leela take a seat at a table near 
@@ -138,7 +138,7 @@ Tell me doctor, how's my cyst?</speak>
 
 <info>The doctor is a near dead ringer for Gidget the Taco Bell chihuahua.</info>
 
-<speak who="HATTIE">'S <character>DOCTOR</character>
+<speak who="HATTIE">'S DOCTOR
 Grande.</speak>
 
 <info>Taco Bellevue Hospital Eye Clinic. While a doctor examines Leela's 
@@ -150,7 +150,7 @@ I bet I've lost more patients than he's
 even treated.</speak>
 
 <speak who="DOCTOR">
-<character>OK</character>. What does this look like?</speak>
+OK. What does this look like?</speak>
 
 <info>He holds up a picture of a blob to Leela.</info>
 
@@ -278,7 +278,7 @@ tiny edible crown!</speak>
 <speak who="AMY">
 What's it made of?</speak>
 
-<speak who="ZOIDBERG"><info><character>EATING</character></info>
+<speak who="ZOIDBERG"><info>EATING</info>
 Wood!</speak>
 
 <info>Bender eats his food. Whatever it is it's burning. Fry has a 
@@ -877,7 +877,7 @@ eat our blastoff sundaes.</speak>
 <info>Cut to: Fry and Bender's Quarters. Bender isn't inside. Instead 
 he has hooked up a tape-reel machine to play over and over.</info>
 
-<speak who="FRY"><info><character>FROM OUTSIDE</character></info>
+<speak who="FRY"><info>FROM OUTSIDE</info>
 OK you stay in bed. I'll eat yours.</speak>
 
 <info>The tape rewinds.</info>
@@ -1026,7 +1026,7 @@ seat.</info>
 <info>Cut to: Ship's Laser Turret. Leela takes control of the ship 
 and it jerks sideways. She crackles onto a screen.</info>
 
-<speak who="LEELA"><info>ON <character>SCREEN</character></info>
+<speak who="LEELA"><info>ON SCREEN</info>
 I'm back at the wheel Fry. Everything's 
 under control.</speak>
 

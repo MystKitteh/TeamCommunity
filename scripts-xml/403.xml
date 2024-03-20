@@ -97,7 +97,7 @@ moved. I'm not getting good reception
 on it though. Maybe if I wiggle it around 
 a little.</speak>
 
-<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+<speak who="FRY"><info>(WHISPERING)</info>
 Bender no! You'll make God cry.</speak>
 
 <speak who="BENDER">
@@ -127,7 +127,7 @@ be a show off.</speak>
 Whoa, you look a lot better than you 
 used to for some reason.</speak>
 
-<speak who="AMY"><info>(<character>SEXFULLY</character>)</info>
+<speak who="AMY"><info>(SEXFULLY)</info>
 You're not so bad yourself big boy.</speak>
 
 <info>She kisses him.</info>
@@ -205,7 +205,7 @@ committee. Bender?</speak>
 
 <info>Cut to: Street. Bender runs down the street cheering.</info>
 
-<speak who="BENDER"><info>(<character>SHOUTING</character>)</info>
+<speak who="BENDER"><info>(SHOUTING)</info>
 Goodbye moderation!</speak>
 
 <info>What If? Bar. Bender dances with two girls to Conga still with 
@@ -233,7 +233,7 @@ of regular, uh...</speak>
 
 <info>He wipes his brow. Fry pokes his head out from behind a curtain.</info>
 
-<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+<speak who="FRY"><info>(WHISPERING)</info>
 Psst, we found him!</speak>
 
 <speak who="FARNSWORTH">
@@ -298,7 +298,7 @@ Young man, you have opened our minds
 and swayed our hearts. Let us therefore 
 -</speak>
 
-<speak who="BENDER"><info>(<character>SHOUTING</character>)</info>
+<speak who="BENDER"><info>(SHOUTING)</info>
 Party!</speak>
 
 <info>Zoidberg puts Conga on a jukebox and warbles. Enter Fry with 
@@ -450,7 +450,7 @@ key to enter. The man holds up the blue key and the door opens.</info>
 You'll be meeting with General Colin 
 Pac-man.</speak>
 
-<speak who="PAC">-<character>MAN</character>
+<speak who="PACMAN">
 Wakka wakka wakka wakka. Lets get down 
 to business. What can you tell us about 
 the Nintendians?</speak>
@@ -463,14 +463,14 @@ my opinion.</speak>
 
 <info>A building outside explodes. Everyone gasps.</info>
 
-<speak who="PAC">-<character>MAN</character>
+<speak who="PACMAN">
 Quickly, to the escape tunnels!</speak>
 
 <info>Everyone runs off wakka-wakka-ing.</info>
 
 <info>Cut to: Pac-man Screen.</info>
 
-<speak who="PAC">-<character>MAN</character>
+<speak who="PACMAN">
 This way damn it!</speak>
 
 <info>Zoidberg eats the pellet thingies.</info>
@@ -502,7 +502,7 @@ Its OK, I had another guy!</speak>
 <info>What If? Outside Planet Express. Everyone comes out of the end 
 of the escape tunnel and are very tired.</info>
 
-<speak who="PAC">-<character>MAN</character>
+<speak who="PACMAN">
 Wakka...wakka wa...</speak>
 
 <info>Zoidberg coughs up five pellets, a pixelated cherry, a pixelated 
@@ -557,14 +557,14 @@ He's a madman! A madman!!</speak>
 
 <info>Fry fires up through the shield and destroys several more ships.</info>
 
-<speak who="PAC">-<character>MAN</character>
+<speak who="PACMAN">
 It's working. Victory is ensured! My 
 retirement tomorrow will be all the 
 sweeter!  I'm hit! So cold!</speak>
 
 <info>He folds over and dies. Enter Ms Pac-man crying.</info>
 
-MS <speak who="PAC">-<character>MAN </character><info>(<character>CRYING</character>)</info>
+MS <speak who="PAC">-MAN <info>(CRYING)</info>
 No - wakka wakka!</speak>
 
 <speak who="FRY">
@@ -590,7 +590,7 @@ One ship is left only.</speak>
 <speak who="LEELA">
 Come on Fry get it!</speak>
 
-<speak who="FRY"><info><character>SWEATING</character></info>
+<speak who="FRY"><info>SWEATING</info>
 It's moving too fast. Oh I could never 
 get the last one. My brother always 
 got it for me!</speak>
@@ -759,7 +759,7 @@ Well...its hard to find shoes that fit
 me. So anyway, who are you people? Haven't 
 I seen you in some copyrighted movie?</speak>
 
-<speak who="GLURMO"><info>(<character>SINGING</character>)</info>
+<speak who="GLURMO"><info>(SINGING)</info>
 We resemble but are legally distinct 
 from the lollipop guild, the lollipop 
 -</speak>
@@ -839,7 +839,7 @@ enough of it. Need some from whatshisname.</speak>
 The TV picture goes funny and she hits the TV repeatedly.</info>
 
 <speak who="MOM">
-Damn this <character>DSL</character>!  Fly my stupids! Fly 
+Damn this DSL!  Fly my stupids! Fly 
 out and get them!</speak>
 
 <speak who="IGNER">
@@ -922,13 +922,13 @@ the puddle of Mom.</info>
 green building which looks like the Planet Express building and 
 everyone gets out. Leela knocks on the door. Hermes opens a peephole.</info>
 
-<speak who="HERMES"><info><character>FROM INSIDE</character></info>
+<speak who="HERMES"><info>FROM INSIDE</info>
 Yes?</speak>
 
 <speak who="LEELA">
 We're here to see the Professor.</speak>
 
-<speak who="HERMES"><info><character>FROM INSIDE</character></info>
+<speak who="HERMES"><info>FROM INSIDE</info>
 No one sees the mighty Professor.</speak>
 
 <speak who="LEELA">

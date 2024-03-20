@@ -275,7 +275,7 @@ witness.</speak>
 perched on his beak. He stands up and speaks with a strong Southern 
 American accent.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Your Honour, I'm just a simple Hyper-Chicken 
 from a backwoods asteroid but if it 
 please the court I reckon I'll call 
@@ -286,7 +286,7 @@ the entire jury.</speak>
 <speak who="GLAB">
 I'm going to allow this.</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Members of the jury ...  ... did y'all 
 happen to catch a gander at who blew 
 up that there DOOP headquarters?</speak>
@@ -303,7 +303,7 @@ there.</speak>
 <speak who="SMALL GLURMO #1">
 <info>(simultaneously)</info> That one.</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 And are y'all gonna vote to convict 
 him?</speak>
 
@@ -320,7 +320,7 @@ it.</speak>
 The jury is instructed to disregard 
 its own testimony.</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Your Honour, the prosecution rests.</speak>
 
 <info>He clucks and covers his face with his wing.</info>
@@ -344,7 +344,7 @@ I'm going to allow this.</speak>
 
 <info>Time Lapse. Leela is sat in the witness box.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Now, Miss Leela, on the date in question, 
 were you or were you not wearing a hoop 
 skirt?</speak>
@@ -1075,7 +1075,7 @@ Leela save me ... and yourself, I guess
 ... and my banjo.  And Fry.</speak>
 
 <speak who="LEELA">
-OK, <character>OK</character>. We have one chance. Are you 
+OK, OK. We have one chance. Are you 
 willing to do what I say as captain?</speak>
 
 <speak who="FRY">

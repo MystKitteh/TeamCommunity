@@ -25,7 +25,7 @@ it for the rest of his life! Hey Fry
 could you go make some popcorn?</speak>
 
 <speak who="FRY">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <info>He leaves.</info>
 
@@ -313,7 +313,7 @@ What is your purpose here?</speak>
 
 <info>Zoidberg wakes up.</info>
 
-<speak who="ZOIDBERG"><info>(<character>DROWSY</character>)</info>
+<speak who="ZOIDBERG"><info>(DROWSY)</info>
 Alright officer I'll move along.</speak>
 
 <speak who="MAN">
@@ -331,7 +331,7 @@ sprays onto him some boots, some trousers and a shirt.</info>
 <info>Airbase. Fry walks around the base looking around at all the 
 activity going on.</info>
 
-<speak who="SERGEANT"><info>(<character>SHOUTING</character>)</info>
+<speak who="SERGEANT"><info>(SHOUTING)</info>
 Enos!  Private, I want that toilet bowl 
 so clean I could eat off it! Cos I intend 
 to!</speak>
@@ -365,7 +365,7 @@ Fry! Stop interfering with history!
 I don't wanna have to memorise a lot 
 of new kings when I get back!</speak>
 
-<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+<speak who="FRY"><info>(WHISPERING)</info>
 I had no choice. I was about to not 
 exist. I could feel myself fading away, 
 like Greg Kinnear.</speak>
@@ -386,7 +386,7 @@ gonna be alright Dad!</speak>
 <speak who="ENOS">
 Well gadzooks I'd better ask Sarge.</speak>
 
-<speak who="FRY"><info>(<character>SHOUTING</character>)</info>
+<speak who="FRY"><info>(SHOUTING)</info>
 No time! Run! Run to safety!</speak>
 
 <info>Cut to: Bombing Range <info>(Formerly Minefield)</info>. Fry and Enos run 
@@ -586,7 +586,7 @@ coleslaw.</speak>
 <speak who="MILDRED">
 Pardon?</speak>
 
-<speak who="LEELA"><info>(<character>WHISPERING</character>)</info>
+<speak who="LEELA"><info>(WHISPERING)</info>
 It's the 20th century Professor.</speak>
 
 <speak who="FARNSWORTH">
@@ -658,7 +658,7 @@ any better, his body was vapourised
 so there's no chance of him coming back 
 as a zombie.</speak>
 
-<speak who="MILDRED"><info>(<character>CRYING</character>)</info>
+<speak who="MILDRED"><info>(CRYING)</info>
 I'm not worried about that.</speak>
 
 <speak who="FRY">
@@ -705,7 +705,7 @@ the fake moon landing set.</speak>
 
 <speak who="TRUMAN">
 Then we'll really have to land on the 
-moon. Invent <character>NASA</character> and tell them to get 
+moon. Invent NASA and tell them to get 
 off their fanny's!</speak>
 
 <info>Room. Zoidberg is tied to a chair. Truman sits opposite him 
@@ -731,7 +731,7 @@ Are you coming onto me?</speak>
 <speak who="TRUMAN">
 Hot crackers I take exception to that!</speak>
 
-<speak who="ZOIDBERG"><info>(<character>SEXFULLY</character>)</info>
+<speak who="ZOIDBERG"><info>(SEXFULLY)</info>
 I'm not hearing a no.</speak>
 
 <info>Truman stand up.</info>
@@ -748,7 +748,7 @@ Hooray!</speak>
 
 <info>Mildred's House. She pours a drink for her and Fry.</info>
 
-<speak who="MILDRED"><info>(<character>CRYING</character>)</info>
+<speak who="MILDRED"><info>(CRYING)</info>
 Every little thing reminds me of Enos.</speak>
 
 <info>She looks at a picture of a mushroom cloud and cries more.</info>
@@ -785,7 +785,7 @@ really be my grandm -</speak>
 Fry is still asleep. Farnsworth, Leela and Bender peer through 
 the window and are disgusted.</info>
 
-<speak who="LEELA"><info><character>FROM OUTSIDE</character></info>
+<speak who="LEELA"><info>FROM OUTSIDE</info>
 Eurgh!</speak>
 
 <info>Leela taps on the glass and Fry wakes up, drowsy.</info>
@@ -880,7 +880,7 @@ at a water tower. The conspiracy photographer holds his camera
 up.</info>
 
 <speak who="CONSPIRACY NUTTER">
-<character>UFO</character>! <character>UFO</character>!</speak>
+UFO! UFO!</speak>
 
 <info>The ship turns around and he takes a photo. The developed photo 
 turns into the famed picture of the Lock Ness Monster.</info>
@@ -930,10 +930,10 @@ opens and the magnetic winch comes out and grabs the radar dish.
 It rips off the roof of the building. Inside the Sergeant is 
 eating his lunch from the toilet.</info>
 
-<speak who="SERGEANT"><info>(<character>SHOUTING</character>)</info>
+<speak who="SERGEANT"><info>(SHOUTING)</info>
 Enos!</speak>
 
-<speak who="FRY"><info><character>FROM SHIP</character></info>
+<speak who="FRY"><info>FROM SHIP</info>
 He's dead, sorry.</speak>
 
 <info>The ship flies away. Planes shoot at it. The ship flies into 
@@ -969,7 +969,7 @@ at some popcorn. The room turns blue.</info>
 
 <info>Cut to: Outside Ship.</info>
 
-<speak who="FRY"><info><character>FROM INSIDE</character></info>
+<speak who="FRY"><info>FROM INSIDE</info>
 Bendeeeeer!</speak>
 
 <info>The ship vanishes into the timehole.</info>
@@ -1007,7 +1007,7 @@ No.  Wait!</speak>
 
 <info>Leela slams her spade into the ground and it hits Bender's head.</info>
 
-<speak who="BENDER"><info><character>FROM GROUND</character></info>
+<speak who="BENDER"><info>FROM GROUND</info>
 Ow! Stupid junk!</speak>
 
 <speak who="FRY">

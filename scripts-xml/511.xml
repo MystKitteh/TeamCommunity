@@ -63,7 +63,7 @@ live like a rich man!</speak>
 
 <info>He kisses the $300. Nixon squirms on it.</info>
 
-<speak who="NIXON"><info>ON <character>BILL</character></info>
+<speak who="NIXON"><info>ON BILL</info>
 Hey, cut it out! Go away! Get away from 
 me!</speak>
 
@@ -79,19 +79,19 @@ one cup of coffee please.</speak>
 <info>He puts the $300 into the machine and it takes $3 off, leaving 
 him with $297.</info>
 
-<speak who="NIXON"><info>ON <character>BILL</character></info>
+<speak who="NIXON"><info>ON BILL</info>
 Smells good!</speak>
 
 <info>Fry takes a sip of the coffee. His first. Zapp appears on the 
 screen.</info>
 
-<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
+<speak who="ZAPP"><info>ON SCREEN</info>
 Leela? Are you there?</speak>
 
 <speak who="LEELA">
 No.</speak>
 
-<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
+<speak who="ZAPP"><info>ON SCREEN</info>
 Oh yes you are! I'm hereby inviting 
 you and your oddball co-workers to a 
 special reception to display the national 
@@ -101,16 +101,16 @@ Show them my medal Kif.</speak>
 
 <info>Kif points at a medal on Zapp's chest.</info>
 
-<speak who="KIF"><info>ON <character>SCREEN</character></info>
+<speak who="KIF"><info>ON SCREEN</info>
 He rented it with his tax refund.</speak>
 
-<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
+<speak who="ZAPP"><info>ON SCREEN</info>
 So Leela, will you have the pleasure.</speak>
 
 <speak who="LEELA">
 What little there is to be had.</speak>
 
-<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
+<speak who="ZAPP"><info>ON SCREEN</info>
 Tomorrow night at eight them. Smoochies!</speak>
 
 <info>He kisses the screen.</info>
@@ -139,7 +139,7 @@ rent this peddle plane with your tax
 rebate. We're like two dandelion seeds 
 wafting on the breeze.</speak>
 
-<speak who="KIF"><info>(<character>GASPING</character>)</info>
+<speak who="KIF"><info>(GASPING)</info>
 Yes...seeds...wafting.</speak>
 
 <speak who="AMY">
@@ -234,7 +234,7 @@ Babylon's bells! I tallyed almost 300
 bananas on this entertainment product. 
 Now you put 'em on and have fun!</speak>
 
-<speak who="DWIGHT"><info>(<character>SHOUTING</character>)</info>
+<speak who="DWIGHT"><info>(SHOUTING)</info>
 I don't wanna.</speak>
 
 <speak who="HERMES">
@@ -325,7 +325,7 @@ Whale please.</speak>
 
 <info>Peddle Plane. Amy and Kif fly over the Aquarium.</info>
 
-<speak who="KIF"><info>(<character>GASPING</character>)</info>
+<speak who="KIF"><info>(GASPING)</info>
 Amy, I-I also spent some of my tax rebate 
 on a gift for you.</speak>
 
@@ -362,7 +362,7 @@ over people's heads. They scream. The peddle plane flies over
 Mushu's tank. Kif wipes his brow and breathes a sigh of relief. 
 Amy leans over backwards again and waves.</info>
 
-<speak who="AMY"><info>(<character>SHOUTING</character>)</info>
+<speak who="AMY"><info>(SHOUTING)</info>
 Bye Fry and Leela!</speak>
 
 <info>The peddle plane tilts sideways and the watch starts to slide 
@@ -384,7 +384,7 @@ Hear about what? Tell us!</speak>
 <speak who="AMY">
 Don't feel sad my little tadpole.</speak>
 
-<speak who="KIF"><info>(<character>CRYING</character>)</info>
+<speak who="KIF"><info>(CRYING)</info>
 I'm trying not to. But my gift to you 
 is in the belly of a whale.</speak>
 
@@ -517,7 +517,7 @@ to even make jambolaya!</speak>
 <info>He pours the fish into a dumpster and leaves. The dumpster lid 
 swings open and Leela and Amy climb out with the fish in a net.</info>
 
-<speak who="AMY"><info>(<character>WHISPERING</character>)</info>
+<speak who="AMY"><info>(WHISPERING)</info>
 So far so good. Where's Kif?</speak>
 
 <info>Behind them Kif groans as he is dragged along inside the net.</info>
@@ -525,7 +525,7 @@ So far so good. Where's Kif?</speak>
 <info>Guadalajara Brown Drip Gourment Coffee. Fry is jittery as he 
 has an early morning cup of coffee. He drinks his 51st cup.</info>
 
-<speak who="FRY"><info>(<character>SHOUTING</character>)</info>
+<speak who="FRY"><info>(SHOUTING)</info>
 This isn't Yemeni! It's Sulowesi!  And 
 the cup's shaking I don't want my coffee 
 shaking!</speak>
@@ -692,7 +692,7 @@ Now that's walkin' around money!</speak>
 
 <info>She blows her nose on her $300.</info>
 
-<speak who="NIXON"><info>ON <character>BILL</character></info>
+<speak who="NIXON"><info>ON BILL</info>
 What? Hey! Wait! Arooo!</speak>
 
 <info>Zoidberg looks on sadly. Over on the other side of the room 
@@ -710,7 +710,7 @@ class people.</speak>
 <info>Bender blows smoke in his face and he coughs. Elsewhere Amy 
 and Scruffy talk.</info>
 
-<speak who="AMY"><info>(<character>CRYING</character>)</info>
+<speak who="AMY"><info>(CRYING)</info>
 I've never been sad at a party before. 
 I wonder if my mind is thinking about 
 Kif being in jail.</speak>
@@ -719,7 +719,7 @@ Kif being in jail.</speak>
 Jail's not so bad. You can make sangria 
 in the terlet! Course its shank or beshanked.</speak>
 
-<speak who="AMY"><info>(<character>CRYING</character>)</info>
+<speak who="AMY"><info>(CRYING)</info>
 Of course.</speak>
 
 <info>Commander Riker Prison. Kif paces around in his cell still covered 
@@ -745,7 +745,7 @@ Precious ambergris?</speak>
 <info>The whale biologist sighs and presses a button on his belt. 
 A holographic image of Roseanne appears.</info>
 
-<speak who="HOLO">-<character>ROSEANNE</character>
+<speak who="HOLOROSEANNE">
 Ambergris. Noun. A grease-like product 
 of the sperm whale's digestive tract 
 that is used as a base in the finest 
@@ -849,7 +849,7 @@ I do! Kiss me Kif!</speak>
 <info>Cut to: Outside Silk Surplus Reception. Zoidberg walks out through 
 the fire exit and sits on a dustbin.</info>
 
-<speak who="ZOIDBERG"><info>(<character>CRYING</character>)</info>
+<speak who="ZOIDBERG"><info>(CRYING)</info>
 Oh what a foolish squid I've been. I'm 
 not rich! I can't even buy one measley 
 masterpiece!</speak>
@@ -885,7 +885,7 @@ our spiders.</speak>
 then gasps as Hermes and Dwight enter via the window, still walking 
 around on the bamboo boots.</info>
 
-<speak who="HERMES"><info>(<character>SHOUTING</character>)</info>
+<speak who="HERMES"><info>(SHOUTING)</info>
 Don't mind us!</speak>
 
 <info>The start to go off balance and one of the bamboo legs knocks 

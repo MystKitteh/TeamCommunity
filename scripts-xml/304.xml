@@ -17,17 +17,17 @@ stop and flies through the airlock.</info>
 
 <info>Cut to: Greasy Sue's Truck Stop Forecourt. The ship lands.</info>
 
-<speak who="MAN #1"><info>ON <character>RADIO</character></info>
+<speak who="MAN #1"><info>ON RADIO</info>
 Breaker breaker, this is the Duck. Uh, 
 you wanna back off them hogs?</speak>
 
 <info>Time Lapse. Leela gets the Dark Matter fuel pump and starts 
 pumping it into the ship.</info>
 
-<speak who="MAN #1"><info>ON <character>RADIO</character></info>
+<speak who="MAN #1"><info>ON RADIO</info>
 Ten-four, five miles or so.</speak>
 
-<speak who="MAN #2"><info>ON <character>RADIO</character></info>
+<speak who="MAN #2"><info>ON RADIO</info>
 Ten, roger!</speak>
 
 <speak who="LEELA">
@@ -125,7 +125,7 @@ She's got more meat than a cow!  Ow!</speak>
 
 <info>The truckers laugh.</info>
 
-<speak who="SAL"><info>(<character>LAUGHING</character>)</info>
+<speak who="SAL"><info>(LAUGHING)</info>
 More meat than a cow!</speak>
 
 <info>Planet Express: Lounge. Fry and Bender sit on the couch.</info>
@@ -386,7 +386,7 @@ so he doesn't notice what we're up to.</speak>
 <info>Leela is still her normal size though from the droids' point 
 of view she is huge.</info>
 
-<speak who="LEELA"><info>(<character>ECHOING</character>)</info>
+<speak who="LEELA"><info>(ECHOING)</info>
 Can do!</speak>
 
 <info>She salutes.</info>
@@ -405,7 +405,7 @@ at something.</info>
 <speak who="LEELA">
 Look! A starling!</speak>
 
-<speak who="FRY"><info><character>LOOKING AWAY</character></info>
+<speak who="FRY"><info>LOOKING AWAY</info>
 Really?</speak>
 
 <info>Leela blows the Planet Express ship through a tube like a blow 
@@ -417,7 +417,7 @@ Around it, earwax drips from the walls of the ear.</info>
 <info>Cut to: Miniature Ship's Cockpit. The Amy-droid pilots the ship 
 while the other droids stand around.</info>
 
-<speak who="AMY"><info>(<character>WHISPERING</character>)</info>
+<speak who="AMY"><info>(WHISPERING)</info>
 OK Professor.</speak>
 
 <info>Cut to: Planet Express: Lounge. Fry turns to Leela.</info>
@@ -458,11 +458,11 @@ as a flash.</info>
 <info>Cut to: Fry's Brain. Hermes and Farnsworth look out of the ship 
 through the window.</info>
 
-<speak who="HERMES"><info><character>FROM SHIP</character></info>
+<speak who="HERMES"><info>FROM SHIP</info>
 What are those worms doing to Fry's 
 brain?</speak>
 
-<speak who="HERMES"><info><character>FROM SHIP</character></info>
+<speak who="HERMES"><info>FROM SHIP</info>
 My God! Soon he'll be smarter than Cher!</speak>
 
 <info>Street. Fry picks some flowers from a stall.</info>
@@ -584,7 +584,7 @@ scrubbing the valve.</info>
 <info>Fry's Muscles. The ship glides past some worms who are working 
 Fry's muscles while listening to music.</info>
 
-<speak who="AMY"><info><character>FROM SHIP</character></info>
+<speak who="AMY"><info>FROM SHIP</info>
 Look! They're jazzercising Fry's muscles!</speak>
 
 <info>Cut to: Miniature Ship's Cockpit.</info>
@@ -646,13 +646,13 @@ thrown around.</info>
 through the hole but it closes around it. The worm's ammo pushes 
 it through.</info>
 
-<speak who="BENDER"><info><character>FROM SHIP</character></info>
+<speak who="BENDER"><info>FROM SHIP</info>
 Hooray!</speak>
 
-<speak who="ZOIDBERG"><info><character>FROM SHIP</character></info>
+<speak who="ZOIDBERG"><info>FROM SHIP</info>
 Hooray!</speak>
 
-<speak who="HERMES"><info><character>FROM SHIP</character></info>
+<speak who="HERMES"><info>FROM SHIP</info>
 We made it!</speak>
 
 <info>The momentum from the worm ships' engines propels them towards 
@@ -838,7 +838,7 @@ the pile of droid parts on the floor.</info>
 on the floor in their net suits. Then take off their helmets.</info>
 
 <speak who="AMY">
-I'm <character>OK</character>.</speak>
+I'm OK.</speak>
 
 <speak who="FARNSWORTH">
 Leela you ignorant dope! Now the worms 
@@ -870,7 +870,7 @@ ever repay you for saving them?</speak>
 
 <info>Leela trails her finger around the table.</info>
 
-<speak who="LEELA"><info>(<character>SEXFULLY</character>)</info>
+<speak who="LEELA"><info>(SEXFULLY)</info>
 I'll think of something.</speak>
 
 <info>The gaze into each others eyes. Bender rubs his chin.</info>

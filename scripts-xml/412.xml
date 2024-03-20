@@ -657,7 +657,7 @@ captain maroon on Ceti Alpha V?</speak>
 
 <info>Shatner leaps up.</info>
 
-<speak who="SHATNER"><info>(<character>SHOUTING</character>)</info>
+<speak who="SHATNER"><info>(SHOUTING)</info>
 Khaaan!</speak>
 
 <info>Fry buzzes.</info>
@@ -710,7 +710,7 @@ ruined.</speak>
 We'll go wait in the ship.</speak>
 
 <speak who="MELLLVAR">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <speak who="FRY">
 Not 'til I get my 600 quatloos!</speak>
@@ -1085,13 +1085,13 @@ way?</speak>
 <info>A bigger pink energy cloud wearing ugly glasses appears next 
 to Melllvar.</info>
 
-<speak who="MELLLVAR">'S <character>MOTHER</character>
+<speak who="MELLLVAR">'S MOTHER
 Melllvar! Dinner time!</speak>
 
 <speak who="MELLLVAR">
 Aw, but Mom, I'm playing with my collectables!</speak>
 
-<speak who="MELLLVAR">'S <character>MOTHER</character>
+<speak who="MELLLVAR">'S MOTHER
 Now!</speak>
 
 <info>Melllvar groans and disappears.</info>
@@ -1100,7 +1100,7 @@ Now!</speak>
 All this time we thought he was a powerful 
 super-being, yet he was just a child.</speak>
 
-<speak who="MELLLVARS">'S <character>MOTHER</character>
+<speak who="MELLLVARS">'S MOTHER
 He's not a child, he's 34!</speak>
 
 <info>She disappears.</info>

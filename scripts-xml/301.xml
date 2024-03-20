@@ -26,7 +26,7 @@ Notify his survivors.</speak>
 
 <speak who="BENDER">
 <info>(singing)</info> B-E-N-D-E-R! Be-ender!  B-E-N-D-E-R! 
-Be-ender! Sayin' B-E-N-D-<character>ERRR</character>...</speak>
+Be-ender! Sayin' B-E-N-D-ERRR...</speak>
 
 <info>Enter Hermes. He picks up a remote control and mutes Bender. 
 Bender carries on dancing, unaware.</info>
@@ -232,7 +232,7 @@ around a corner and gasps.</info>
 <speak who="BENDER">
 Uncle Vladimir!</speak>
 
-<speak who="VLADIMIR">-<character>GHOST</character>
+<speak who="VLADIMIRGHOST">
 Come, Bender. You'll like being dead!</speak>
 
 <speak who="BENDER">

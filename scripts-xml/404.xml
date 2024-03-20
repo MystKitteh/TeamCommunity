@@ -48,7 +48,7 @@ controversial artworks.</speak>
 <info>He leaves. The door closes on him and cuts his head off. It 
 lands on the floor and rolls a little.</info>
 
-<speak who="SHIP"><info>(<character>SARCASTICALLY</character>)</info>
+<speak who="SHIP"><info>(SARCASTICALLY)</info>
 Oops! Sorry!</speak>
 
 <info>He chuckles.</info>
@@ -162,7 +162,7 @@ love fluff!</speak>
 <info>In the Lovey Forest, bears are picked up and put onto a conveyor 
 belt where they are delivered to the Bear "Hospital".</info>
 
-<speak who="AMY"><info>(<character>UNSURE</character>)</info>
+<speak who="AMY"><info>(UNSURE)</info>
 Oh cute!</speak>
 
 <info>Romanticorp Factory Romance Acceleration Lab.</info>
@@ -327,7 +327,7 @@ Maybe we hit a space cow.</speak>
 <speak who="BENDER">
 Coochie coochie!</speak>
 
-<speak who="SHIP"><info>(<character>GIGGLING</character>)</info>
+<speak who="SHIP"><info>(GIGGLING)</info>
 Stop it! You're mussing up my trajectory!</speak>
 
 <speak who="BENDER">
@@ -335,7 +335,7 @@ You know you love it sugar-engine!</speak>
 
 <info>He presses some buttons.</info>
 
-<speak who="SHIP"><info>(<character>GIGGLING</character>)</info>
+<speak who="SHIP"><info>(GIGGLING)</info>
 No!</speak>
 
 <info>She laughs. Enter Fry and Leela.</info>
@@ -389,7 +389,7 @@ to urges far more shocking.</speak>
 dates the ship. First he sits on one of the tail fins with a 
 picnic set up. The sheet blows in the breeze of space.</info>
 
-<speak who="BENDER"><info>(<character>SINGING</character>)</info>
+<speak who="BENDER"><info>(SINGING)</info>
 Daisy, Daisy, give me your answer do. 
 I'm half crazy all for the love of 
 you.  It won't be a stylish marriage......I 
@@ -488,7 +488,7 @@ spaceship robot. Look I'll tell him
 you stopped by OK?</speak>
 
 <speak who="SHIP">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <info>Fry closes the window and walks back to his bed. Almost immediately 
 the windowbell goes off again. He walks over and opens the window. 
@@ -528,7 +528,7 @@ No baby never!</speak>
 
 <info>He turns around. His eyes are fully zoomed.</info>
 
-<speak who="SHIP"><info>(<character>CRYING</character>)</info>
+<speak who="SHIP"><info>(CRYING)</info>
 Bender! Don't lie! I saw you at Elzar's 
 with those two ladys of the evening. 
 Explain that!</speak>
@@ -644,7 +644,7 @@ I am Lrrr of the planet Omicron Persei
 <info>A picture slips from the wall. He puts it back. Leela reads 
 from a piece of paper.</info>
 
-<speak who="LEELA"><info>(<character>READING</character>)</info>
+<speak who="LEELA"><info>(READING)</info>
 Esteemed potentates of Omicron Persei 
 8, please accept these 20 billion candy 
 hearts as proof that Earth loves you. 
@@ -667,7 +667,7 @@ Surely it says "love"?</speak>
 <speak who="ND-ND">
 No, "wuv." With an Earth "w." Behold!</speak>
 
-<speak who="LRRR"><info>(<character>SHOUTING</character>)</info>
+<speak who="LRRR"><info>(SHOUTING)</info>
 This concept of wuv confuses and infuriates 
 us!</speak>
 
@@ -690,7 +690,7 @@ not be the best time...but...well...I
 really like you and whatever but...I 
 think we should just be friends.</speak>
 
-<speak who="SHIP"><info>(<character>SCREAMING</character>)</info>
+<speak who="SHIP"><info>(SCREAMING)</info>
 Nooo!</speak>
 
 <info>Cut to: Outside Ship. She jerks to a stop.</info>
@@ -711,7 +711,7 @@ Well, it was a spectacular battle but
 there doesn't seem to be any permanent 
 damage.</speak>
 
-<speak who="SHIP"><info>(<character>CRYING</character>)</info>
+<speak who="SHIP"><info>(CRYING)</info>
 No damage? What about my feelings?</speak>
 
 <speak who="LEELA">
@@ -721,7 +721,7 @@ this just as hard as you are.</speak>
 <info>Cut to: Fry and Bender's Quarters. They are both lying in their 
 hammocks.</info>
 
-<speak who="BENDER"><info>(<character>SINGING</character>)</info>
+<speak who="BENDER"><info>(SINGING)</info>
 Bender is great oh Bender is great. 
 Bender Bender Bender!</speak>
 
@@ -745,7 +745,7 @@ with Sean that was totally mutual its
 that happiness can only come from within 
 you.</speak>
 
-<speak who="SHIP"><info>(<character>CRYING</character>)</info>
+<speak who="SHIP"><info>(CRYING)</info>
 But Bender is within me! There must 
 be some way to make him love me again.</speak>
 
@@ -763,7 +763,7 @@ I know something that can.</speak>
 The ship is heading straight towards a huge quasar. She wrestles 
 with the controls but they won't move.</info>
 
-<speak who="LEELA"><info>(<character>UNSURE</character>)</info>
+<speak who="LEELA"><info>(UNSURE)</info>
 Uh sweetie? You see that giant quasar 
 we're heading into? You might wanna 
 scooch a few parsecs to the left.</speak>
@@ -980,7 +980,7 @@ Um, Leela?</speak>
 Fry! I'll read your candy later! When 
 we're not dead!  What was that?</speak>
 
-<speak who="FRY"><info>(<character>SUFFOCATING</character>)</info>
+<speak who="FRY"><info>(SUFFOCATING)</info>
 Oh nothing.</speak>
 
 <info>Cut to: Ship's Mind. Ship is still chasing Bender. He comes 
@@ -990,7 +990,7 @@ to a dead end on the motherboard.</info>
 We're gonna love being each other you 
 sexy ion!</speak>
 
-<speak who="BENDER"><info>(<character>SCREAMING</character>)</info>
+<speak who="BENDER"><info>(SCREAMING)</info>
 Nooo!</speak>
 
 <info>She moves towards him.</info>
@@ -1005,7 +1005,7 @@ gave me your oxygen? Oh no! Breathe
 Fry breathe!  You leave me breathless! 
 Happy Valentine's Day Fry!</speak>
 
-<speak who="FRY"><info>(<character>GASPING</character>)</info>
+<speak who="FRY"><info>(GASPING)</info>
 Happy Valentine's day.</speak>
 
 <info>Ship's Cockpit. Bender has separated from the ship. He wakes 

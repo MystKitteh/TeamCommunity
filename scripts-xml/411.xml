@@ -223,7 +223,7 @@ all your precious science!</speak>
 a bucket of filthy water and wrings it out into some glasses. 
 He opens the door a little way and hears Fry talking.</info>
 
-<speak who="FRY"><info><character>FROM LOUNGE</character></info>
+<speak who="FRY"><info>FROM LOUNGE</info>
 Man, I don't wanna hurt Bender's feelings...</speak>
 
 <info>Cut to: Planet Express: Lounge.</info>
@@ -522,7 +522,7 @@ What's that...? Well hang on, I'll look.</speak>
 <info>He turns around and gasps. The bottle and ship are in pieces. 
 He drops the phone.</info>
 
-<speak who="RICARDO"><info>ON <character>PHONE</character></info>
+<speak who="RICARDO"><info>ON PHONE</info>
 Ola? Professor? Qu� pasa?</speak>
 
 <info>Planet Express: Accusing Parlour. There is a storm outside. 
@@ -1010,7 +1010,7 @@ to Spargle's magic liquid.</speak>
 
 <speak who="LEELA">
 Yes, we were there. And we just finished 
-watching it on <character>TV</character>.</speak>
+watching it on TV.</speak>
 
 <speak who="FARNSWORTH">
 Hmm. Let me see that vial Bender.  Good 
@@ -1030,7 +1030,7 @@ your best.</speak>
 
 <speak who="FARNSWORTH">
 Yes, ordinary water. Laced with nothing 
-more than a few spoonfuls of <character>LSD</character>.</speak>
+more than a few spoonfuls of LSD.</speak>
 
 <info>Bender takes the vial.</info>
 

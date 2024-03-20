@@ -287,7 +287,7 @@ the roof. It lands in the Planet Express hangar.</info>
 "Xmas Decorations" and cuts the tape with his claw. Bender rocks 
 back and forth in a chair with Nibbler on his lap.</info>
 
-<speak who="BENDER"><info>(<character>SINGING</character>)</info>
+<speak who="BENDER"><info>(SINGING)</info>
 Xmas tree oh Xmas tree! Bah boo bee 
 boo bah bee boh.</speak>
 
@@ -728,7 +728,7 @@ you happy. I mean, I miss my family
 but you never even had a family.</speak>
 
 <speak who="LEELA">
-It's <character>OK</character>. You're lonely and I'm lonely. 
+It's OK. You're lonely and I'm lonely. 
 But together we're lonely together.</speak>
 
 <info>They hold hands.</info>
@@ -1079,28 +1079,28 @@ up and sing!</speak>
 
 <info>They gather around a piano.</info>
 
-<speak who="AMY"><info>(<character>SINGING</character>)</info>
+<speak who="AMY"><info>(SINGING)</info>
 He knows when you are sleeping.</speak>
 
-<speak who="FARNSWORTH"><info>(<character>SINGING</character>)</info>
+<speak who="FARNSWORTH"><info>(SINGING)</info>
 He knows when you're on the can.</speak>
 
-<speak who="LEELA"><info>(<character>SINGING</character>)</info>
+<speak who="LEELA"><info>(SINGING)</info>
 He'll hunt you down and blast your ass 
 from here to Pakistan.</speak>
 
-<speak who="ZOIDBERG"><info>(<character>SINGING</character>)</info>
+<speak who="ZOIDBERG"><info>(SINGING)</info>
 Oh.</speak>
 
-<speak who="HERMES"><info>(<character>SINGING</character>)</info>
+<speak who="HERMES"><info>(SINGING)</info>
 You'd better not breathe, You'd better 
 not move.</speak>
 
-<speak who="BENDER"><info>(<character>SINGING</character>)</info>
+<speak who="BENDER"><info>(SINGING)</info>
 You're better off dead, I'm telling 
 you, dude.</speak>
 
-<speak who="FRY"><info>(<character>SINGING</character>)</info>
+<speak who="FRY"><info>(SINGING)</info>
 Santa Claus is gunning you down!</speak>
 
 <info>Everyone cheers. Farnsworth takes off his lab coat, exposing 
@@ -1114,6 +1114,6 @@ Merry Xmas, everyone!</speak>
 <info>Closing Credits. A version of We Wish You A Merry Christmas 
 plays. Santa and his reindeer fly by.</info>
 
-<character>SANTA</character>
+SANTA
 I'll be back. Back when you least expect 
 it: Next Xmas! Ho ho ho!</xml>

@@ -801,7 +801,7 @@ There he is again!</speak>
 <info>Time Lapse. The Hyper-Chicken Lawyer questions the witness, 
 a little girl.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Now, Pramala, I know it's scary in that 
 there witness box but t'ain't no need 
 to fear me.  I'm sorry, I thought you 
@@ -830,7 +830,7 @@ Quit badgering the witness!</speak>
 
 <info>The Hyper-Chicken jumps up.</info>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Badger? Where?</speak>
 
 <info>He clucks around in a mad panic. Whitey bangs his gavel.</info>

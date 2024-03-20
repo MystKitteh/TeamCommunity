@@ -408,7 +408,7 @@ Where are we ever going to find a lawyer
 to take his case?</speak>
 
 <speak who="LEELA">
-I'll ask the head of the <character>ACLU</character>. Once 
+I'll ask the head of the ACLU. Once 
 he's done singing.</speak>
 
 <speak who="MAN">
@@ -465,7 +465,7 @@ Planet Express staff sit in the front row.</info>
 <speak who="FRY">
 You OK there in the embassy, Zoidberg?</speak>
 
-<speak who="HOLO">-<character>ZOIDBERG</character>
+<speak who="HOLOZOIDBERG">
 No. There's no coaco marshmallows and 
 every night the rats eat a little more 
 of my foot.</speak>
@@ -481,18 +481,18 @@ justices.</speak>
 Counsel, you may address the court on 
 behalf of Earth, if you're ready.</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 I was hatched ready! Honourable judge 
 heads, yonder crawdad done ate up our 
 flag.</speak>
 
 <info>He points at Zoidberg.</info>
 
-<speak who="HOLO">-<character>ZOIDBERG</character>
+<speak who="HOLOZOIDBERG">
 I was doing freedom of speech. Earth's 
 most sacred right.</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Your Honour, freedom of speech applies 
 to what comes out of a mouth. Not what 
 goes in.</speak>
@@ -500,7 +500,7 @@ goes in.</speak>
 <speak who="O'CONNOR">
 Can counsel cite precedent?</speak>
 
-<speak who="HYPER">-<character>CHICKEN</character>
+<speak who="HYPERCHICKEN">
 Uh, yes darlin', I can. In "State Of 
 Alabama vs. Giant Space Iguana", chewin' 
 the corners off the constitution was 
@@ -515,7 +515,7 @@ He shut you up, O'Connor.</speak>
 Mr. Waterfall, you may now present arguments 
 on behalf of Dr. Zoidberg.</speak>
 
-<speak who="HOLO">-<character>ZOIDBERG</character>
+<speak who="HOLOZOIDBERG">
 Oh, God, I'm nervous. Two of my three 
 hearts are having attacks.</speak>
 
@@ -567,14 +567,14 @@ Six to three? I beat the spread!</speak>
 The court orders an immediate public 
 apology.</speak>
 
-<speak who="HOLO">-<character>ZOIDBERG</character>
+<speak who="HOLOZOIDBERG">
 Apology accepted. Just don't let it 
 happen again.</speak>
 
 <speak who="HERMES">
 She means you, you turkey of the sea!</speak>
 
-<speak who="HOLO">-<character>ZOIDBERG</character>
+<speak who="HOLOZOIDBERG">
 Me? Apologise? Never! I came to this 
 planet to learn the meaning of freedom. 
 But I say it's you who should get a 
@@ -585,7 +585,7 @@ my freedom.</speak>
 <speak who="MYRTLE FU">
 You are hereby sentenced to death.</speak>
 
-<speak who="HOLO">-<character>ZOIDBERG</character>
+<speak who="HOLOZOIDBERG">
 Wait, let me finish!</speak>
 
 <info>The court gasps.</info>

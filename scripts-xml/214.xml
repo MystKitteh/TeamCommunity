@@ -107,7 +107,7 @@ over a year late for work at this point.</speak>
 
 <info>Enter Terry and Lou in their lab coats.</info>
 
-<speak who="TERRY"><info>(<character>DRAMATICALLY</character>)</info>
+<speak who="TERRY"><info>(DRAMATICALLY)</info>
 Let the games begin!</speak>
 
 <info>Planet Express: Lounge. The poker players are sat around the 
@@ -300,33 +300,33 @@ This way please.</speak>
 
 <info>Cut to: Planet Express: Hermes' Office.</info>
 
-<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+<speak who="FRY"><info>(WHISPERING)</info>
 Jeez Hermes, you seem awfully calm about 
 this.</speak>
 
-<speak who="HERMES"><info>(<character>WHISPERING</character>)</info>
+<speak who="HERMES"><info>(WHISPERING)</info>
 Don't worry. I have a plan.</speak>
 
 <info>Planet Express: Attic Balcony. Hermes stands on the railings 
 around the balcony.</info>
 
-<speak who="HERMES"><info>(<character>SHOUTING</character>)</info>
+<speak who="HERMES"><info>(SHOUTING)</info>
 I'm going to jump!</speak>
 
 <info>The crew look up from street level.</info>
 
-<speak who="AMY"><info>(<character>SHOUTING</character>)</info>
+<speak who="AMY"><info>(SHOUTING)</info>
 No!</speak>
 
-<speak who="ZOIDBERG"><info>(<character>SHOUTING</character>)</info>
+<speak who="ZOIDBERG"><info>(SHOUTING)</info>
 No!</speak>
 
-<speak who="BENDER"><info>(<character>SHOUTING</character>)</info>
+<speak who="BENDER"><info>(SHOUTING)</info>
 Do a flip!</speak>
 
 <info>Cut to: Outside Planet Express.</info>
 
-<speak who="LEELA"><info>(<character>SHOUTING</character>)</info>
+<speak who="LEELA"><info>(SHOUTING)</info>
 Don't do it Hermes! You have so much 
 to live for!</speak>
 
@@ -336,7 +336,7 @@ Farnsworth <info>(shouting)</info> ...Other people need it you know.
 
 <info>At street level LaBarbara's car screeches to a stop.</info>
 
-<speak who="LABARBARA"><info>(<character>SHOUTING</character>)</info>
+<speak who="LABARBARA"><info>(SHOUTING)</info>
 Husband! Nooo!</speak>
 
 <info>Cut to: Outside Planet Express.</info>
@@ -353,12 +353,12 @@ time. I'm not worthy to stamp a form.
 So I'll stamp the pavement with my flabby 
 body.</speak>
 
-<speak who="MORGAN"><info>(<character>SHOUTING</character>)</info>
+<speak who="MORGAN"><info>(SHOUTING)</info>
 Bureaucrat Conrad...!</speak>
 
 <info>Cut to: Outside Planet Express.</info>
 
-<speak who="MORGAN"><info>(<character>SHOUTING</character>)</info>
+<speak who="MORGAN"><info>(SHOUTING)</info>
 ...If you complete your death transaction 
 with out filing a suicide and/or falling 
 accident permit, you will be posthumously 
@@ -417,7 +417,7 @@ did it take twice as long as scheduled?</speak>
 <speak who="LEELA">
 Fry got his head stuck in a crater.</speak>
 
-<speak who="FRY"><info>(<character>ASHAMED</character>)</info>
+<speak who="FRY"><info>(ASHAMED)</info>
 I thought it would fit.</speak>
 
 <info>Morgan scribbles something down on a piece of paper.</info>
@@ -441,7 +441,7 @@ You really think you can explain how
 you left port without a full compliment 
 of olives? I think not.</speak>
 
-<speak who="LEELA"><info>(<character>QUIETLY</character>)</info>
+<speak who="LEELA"><info>(QUIETLY)</info>
 What is this, high school?</speak>
 
 <speak who="MORGAN">
@@ -466,7 +466,7 @@ The zipper. It should be at the bottom.</speak>
 locker. On the shelf is a nut. She picks it up and shakes her 
 head.</info>
 
-<speak who="BENDER"><info>(<character>ASHAMED</character>)</info>
+<speak who="BENDER"><info>(ASHAMED)</info>
 Hey, sometimes a guy gets lonely.</speak>
 
 <info>Morgan closes his locker and opens Fry's. Loads of empty cans 
@@ -507,7 +507,7 @@ I'm surrounded by neat freaks everyday.
 There's nothing kinkier to me than a 
 filthy slop-jock like you!</speak>
 
-<speak who="FRY"><info>(<character>BASHFUL</character>)</info>
+<speak who="FRY"><info>(BASHFUL)</info>
 Oh stop!</speak>
 
 <info>She kisses him again then moves away and puts her glasses back 
@@ -690,7 +690,7 @@ For I was blind but now I see!</speak>
 
 <info>Outside Planet Express.</info>
 
-<speak who="BENDER"><info><character>FROM INSIDE</character></info>
+<speak who="BENDER"><info>FROM INSIDE</info>
 The cat's out of the bag now!</speak>
 
 <info>Cut to: Planet Express: Fry's Office. Bender leans back in a 
@@ -893,10 +893,10 @@ Oh you want Central Filing.</speak>
 <info>The grateful crew walk on.</info>
 
 <speak who="LEELA">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <speak who="FRY">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <speak who="AMY">
 OK thanks.</speak>
@@ -904,7 +904,7 @@ OK thanks.</speak>
 <speak who="FARNSWORTH">
 Wonderful.</speak>
 
-<speak who="GRADE 41"><info>(<character>SCREAMING</character>)</info>
+<speak who="GRADE 41"><info>(SCREAMING)</info>
 Nooo!</speak>
 
 <info>He eventually hits the pile of boxes and they wobble.</info>
@@ -1090,20 +1090,20 @@ To get into my 10th birthday party.
 <info>He scoops up some red tubes, slides down a tube and drops them 
 into some filing cabinets. LaBarbara pop up from one of them.</info>
 
-<speak who="LABARBARA"><info>(<character>SINGING</character>)</info>
+<speak who="LABARBARA"><info>(SINGING)</info>
 But something changed when my man turn 
 pro.</speak>
 
-<speak who="HERMES"><info>(<character>SINGING</character>)</info>
+<speak who="HERMES"><info>(SINGING)</info>
 I was sortin' but I wasn't smilin'.</speak>
 
 <info>He throws a tube to LaBarbara and she catches it.</info>
 
-<speak who="LABARBARA"><info>(<character>SINGING</character>)</info>
+<speak who="LABARBARA"><info>(SINGING)</info>
 He forgot that it's not about badges 
 and ranks.</speak>
 
-<speak who="HERMES"><info>(<character>SINGING</character>)</info>
+<speak who="HERMES"><info>(SINGING)</info>
 It's supposed to be about the filing! 
 People!</speak>
 
@@ -1132,14 +1132,14 @@ You gotta do what you love,
 Even if it's not a good idea! <info>He slides down the pile and throws 
 the red tubes around the crew like a knife thrower.</info> Zoidberg!
 
-<speak who="ZOIDBERG"><info>(<character>SINGING</character>)</info>
+<speak who="ZOIDBERG"><info>(SINGING)</info>
 They said I probably shouldn't be a 
 surgeon.</speak>
 
-<speak who="FARNSWORTH"><info>(<character>SINGING</character>)</info>
+<speak who="FARNSWORTH"><info>(SINGING)</info>
 They poo-pooed my electric frankfurter.</speak>
 
-<speak who="LEELA"><info>(<character>SINGING</character>)</info>
+<speak who="LEELA"><info>(SINGING)</info>
 They said I probably shouldn't fly with 
 just one eye.</speak>
 
@@ -1149,21 +1149,21 @@ just one eye.</speak>
 red tubes flying off in a different direction. Hermes rips off 
 his shirt revealing a grooby Jamaican shirt underneath.</info>
 
-<speak who="HERMES"><info>(<character>SINGING</character>)</info>
+<speak who="HERMES"><info>(SINGING)</info>
 Everybody sing Jamaica!</speak>
 
 <info>He limbos under the flying tubes.</info>
 
-<speak who="EVERYBODY"><info>(<character>SINGING</character>)</info>
+<speak who="EVERYBODY"><info>(SINGING)</info>
 Jamaica!</speak>
 
 <speak who="HERMES">
 Just the bureaucrats, Jamaica!</speak>
 
-<speak who="BUREACRATS"><info>(<character>SINGING</character>)</info>
+<speak who="BUREACRATS"><info>(SINGING)</info>
 Jamaica!</speak>
 
-<speak who="HERMES"><info>(<character>SINGING</character>)</info>
+<speak who="HERMES"><info>(SINGING)</info>
 The grade 19s!</speak>
 
 <info>Morgan looks around and reluctantly joins in.</info>
@@ -1173,7 +1173,7 @@ Jamaica.</speak>
 
 <info>Hermes starts a conga line with the bureaucrats.</info>
 
-<speak who="HERMES"><info>(<character>SINGING</character>)</info>
+<speak who="HERMES"><info>(SINGING)</info>
 Sing me home!
 
 When push comes to shove,

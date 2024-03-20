@@ -122,7 +122,7 @@ Dad? Do I have a birthday?</speak>
 Hmm, you didn't have a birth so technically, 
 no.  Oh, don't feel bad. We can celebrate 
 the day I extracted you from the cloning 
-tank. Or the day I scraped that <character>DNA </character>
+tank. Or the day I scraped that DNA 
 from that growth on my back.</speak>
 
 <speak who="CUBERT">
@@ -377,7 +377,7 @@ of the table where the casting director and Calculon are sat.</info>
 In this scene, you've just found out 
 your real father is Calculon's fourth 
 evil identical septuplet, Sleazy Martinez. 
-<character>OK</character>...take us there!</speak>
+OK...take us there!</speak>
 
 <info>The robot looks at his script.</info>
 
@@ -745,7 +745,7 @@ Tim sit on the floor all watching TV.</info>
 OK OK OK, get ready for this part.</speak>
 
 <speak who="ZOIDBERG">
-Quiet robot, Bender's on <character>TV</character>.</speak>
+Quiet robot, Bender's on TV.</speak>
 
 <info>On the TV Calculon and Monique enter a cabin covered in snow.</info>
 
@@ -813,7 +813,7 @@ model.</speak>
 <speak who="LEELA">
 As unclean as it makes me feel, I agree 
 with Bender. Kids don't turn rotten 
-just from watching <character>TV</character>.</speak>
+just from watching TV.</speak>
 
 <speak who="FRY">
 Yeah. Give a little credit to our public 
@@ -865,7 +865,7 @@ TV gave us the idea.</speak>
 sneak towards Fry and Bender's apartment with a sack.</info>
 
 <speak who="CUBERT">
-<character>OK</character>. It's crime time.</speak>
+OK. It's crime time.</speak>
 
 <info>He, Dwight and Tinny Tim put on some crude Bender face masks. 
 Cubert opens the apartment door and they sneak in.</info>
@@ -935,7 +935,7 @@ Dwight and Cubert and the machine beeps rapidly and the needle
 goes right around to maximum. A huge thumbs up pops out the side 
 of the machine.</info>
 
-<speak who="COOL">-O-<character>METER</character>
+<speak who="COOL">-O-METER
 Oh yeah!</speak>
 
 <speak who="FARNSWORTH">
@@ -1286,5 +1286,5 @@ Scary Door!</speak>
 <speak who="LEELA">
 Blernsmen at Blernsball!</speak>
 
-<character>BENDER</character>
+BENDER
 Futurama!</xml>

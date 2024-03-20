@@ -19,7 +19,7 @@ snoring as the room shakes and bits of ceiling fall on him.</info>
 Plaster is still falling from the ceiling and the building is 
 still shaking.</info>
 
-<speak who="FRY"><info>(<character>SHOUTING</character>)</info>
+<speak who="FRY"><info>(SHOUTING)</info>
 I know you've rejected me a lot before 
 but frankly I wasn't sure we were right 
 for each other either, but now I am! 
@@ -29,11 +29,11 @@ So how 'bout a date tonight?</speak>
 <info>(shouting)</info>: Sorry I think I, um, I think 
 I left my toaster on.</speak>
 
-<speak who="FRY"><info>(<character>SHOUTING</character>)</info>
+<speak who="FRY"><info>(SHOUTING)</info>
 C'mon Leela, what's the real reason 
 you won't go out with me?</speak>
 
-<speak who="LEELA"><info>(<character>SHOUTING</character>)</info>
+<speak who="LEELA"><info>(SHOUTING)</info>
 Look, I'm embarrassed to admit this 
 but you forced me to. I can't go out 
 tonight because ......I have sweaty 
@@ -149,7 +149,7 @@ me.</speak>
 <info>Planet Express: Basement. Bender removes the hatch from a superheated 
 steam pipe and climbs in. Fry follows.</info>
 
-<speak who="FRY"><info><character>FROM VENT</character></info>
+<speak who="FRY"><info>FROM VENT</info>
 Ow it's hot! The butter in my pocket 
 is melting!</speak>
 
@@ -204,7 +204,7 @@ The person who gave up her whole evening
 to watch it. A whole evening of TV gone. 
 What a mockery of justice it is that 
 I can't take even a little tiny peek! 
-I need coffee.  <character>OK</character>. Heads I look, tails 
+I need coffee.  OK. Heads I look, tails 
 I don't.  Oh yeah! Heads! I mean - alright 
 then!  No. I have a duty not to look. 
 But then again, I promised the coin 
@@ -351,7 +351,7 @@ what. The important thing is - yah!</speak>
 <info>She kicks the laser out of Leela 1's hand. Leela 1 leans back 
 to Farnsworth 1.</info>
 
-<speak who="LEELA 1"><info>(<character>WHISPERING</character>)</info>
+<speak who="LEELA 1"><info>(WHISPERING)</info>
 We're exactly the same. I know all her 
 moves. Therefore, I've got the upper 
 hand.</speak>
@@ -540,7 +540,7 @@ Oh man, you never heard such excuses!
 But, like a dope, I believed her. Looking 
 back on it now it's kinda funny!</speak>
 
-<speak who="FRY"><info>(<character>SARCASTIC</character>)</info>
+<speak who="FRY"><info>(SARCASTIC)</info>
 It sure is, right Leela? Funny. Ha ha 
 ha ha!</speak>
 
@@ -630,7 +630,7 @@ appalling failure!</speak>
 
 <info>Zoidberg cries too.</info>
 
-<speak who="ZOIDBERG"><info>(<character>CRYING</character>)</info>
+<speak who="ZOIDBERG"><info>(CRYING)</info>
 Me too! A big fat one.</speak>
 
 <speak who="ZOIDBERG 1">
@@ -744,7 +744,7 @@ The box says no.</speak>
 
 <info>Universe 1 Farnsworth's Lab.</info>
 
-<speak who="HERMES 1"><info>(<character>CRYING</character>)</info>
+<speak who="HERMES 1"><info>(CRYING)</info>
 If I know parallel Hermes, he's at the 
 sun by now.</speak>
 
@@ -777,7 +777,7 @@ and pokes his head inside it.</info>
 <speak who="FRY 1">
 Well? Is that your universe in there?</speak>
 
-<speak who="FRY"><info><character>FROM BOX</character></info>
+<speak who="FRY"><info>FROM BOX</info>
 Nope. Too cold.</speak>
 
 <info>He pulls his head out. It is frozen in a block of ice. Farnsworth 
@@ -877,7 +877,7 @@ Uh, access denied.</speak>
 <info>Fry 31's head explodes.</info>
 
 <info>Universe XVII. The Professor's lab resembles an ancient Greek 
-study and Farnsworth <character>XVII</character> is hard at work writing something on 
+study and Farnsworth XVII is hard at work writing something on 
 a blackboard. Enter the Bender's behind him.</info>
 
 <speak who="BENDER 1">
@@ -972,7 +972,7 @@ Hermes don't press that button!</speak>
 <info>Hermes thinks about it for a while.</info>
 
 <speak who="HERMES">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <info>Planet Express: Meeting Room. The crew all say goodbye to their 
 parallel selves.</info>

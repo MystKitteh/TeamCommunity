@@ -229,7 +229,7 @@ that's what happened.</speak>
 <info>He pulls an iron bar out of his chest cabinet.</info>
 
 <speak who="FRY">
-<character>OK</character>.</speak>
+OK.</speak>
 
 <speak who="LEELA">
 Wait, hold on. It is actually possible 
@@ -508,13 +508,13 @@ film.</speak>
 
 <speak who="FARNSWORTH">
 It's just lucky I keep a copy in the 
-<character>VCR</character> at all times!</speak>
+VCR at all times!</speak>
 
 <info>He presses a button and a film title appears on the screen: 
 I Dated A Robot!. In the movie a couple sit in a caf� and stare 
 into each other's eyes. A narrator walks into the scene.</info>
 
-<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN MOVIE</info>
 Ordinary human dating. It's enjoyable 
 and it serves an important purpose. 
 But when a human dates an artificial 
@@ -524,42 +524,42 @@ And that leads to...tragedy.</speak>
 <info>The woman behind him turns into a blank robot and the man downloads 
 a celebrity onto it.</info>
 
-<speak who="BILLY"><info>IN <character>MOVIE</character></info>
+<speak who="BILLY"><info>IN MOVIE</info>
 Neato! A Marylin Monroebot!</speak>
 
-<speak who="MONROEBOT"><info>IN <character>MOVIE</character></info>
+<speak who="MONROEBOT"><info>IN MOVIE</info>
 Ooo! You're a real dreamboat (mechanical 
 voice) Billy Everyteen!</speak>
 
-<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN MOVIE</info>
 Harmless fun? Let's see what happens 
 next!</speak>
 
 <info>The scene cuts to Billy's bedroom. He is kissing the Monroebot. 
 Enter his mother.</info>
 
-<speak who="BILLY"><info>IN <character>MOVIE</character></info>
+<speak who="BILLY"><info>IN MOVIE</info>
 No thank Mom, I'd rather make out with 
 my Monroebot.</speak>
 
 <info>Enter his dad.</info>
 
-<speak who="BILLY"><info>IN <character>MOVIE</character></info>
+<speak who="BILLY"><info>IN MOVIE</info>
 No thanks dad, I'd rather make out with 
 my Monroebot.</speak>
 
 <info>Enter his girlfriend, Mavis, from the caf�.</info>
 
-<speak who="MAVIS"><info>IN <character>MOVIE</character></info>
+<speak who="MAVIS"><info>IN MOVIE</info>
 Billy, do you want to come over tonight? 
 We can make out together.</speak>
 
-<speak who="BILLY"><info>IN <character>MOVIE</character></info>
+<speak who="BILLY"><info>IN MOVIE</info>
 Gee Mavis, your house is across the 
 street, that's an awfully long way to 
 go for making out.</speak>
 
-<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN MOVIE</info>
 Did you notice what went wrong in that 
 scene? Ordinarily Billy would work hard 
 to make money from his paper route then 
@@ -583,12 +583,12 @@ future. Where is Billy?</speak>
 man but he is still with his Monroebot and still making out with 
 her.</info>
 
-<speak who="BILLY"><info>IN <character>MOVIE</character></info>
+<speak who="BILLY"><info>IN MOVIE</info>
 Farewell!</speak>
 
 <info>He dies.</info>
 
-<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN MOVIE</info>
 The next day Billy's planet was destroyed 
 by aliens.  Have you guessed the name 
 of Billy's planet? It was Earth. Don't 
@@ -674,7 +674,7 @@ nothing wrong!</speak>
 <info>Lucy Liu suddenly cries out from behind a door marked Authorized 
 Personnel Only.</info>
 
-<speak who="LIU"><info><character>FROM ROOM</character></info>
+<speak who="LIU"><info>FROM ROOM</info>
 Help! I'm being held prisoner!</speak>
 
 <speak who="ZOIDBERG">
@@ -876,16 +876,16 @@ It has a vampire and an explosion!</speak>
 It's amazing the way you (mechanical 
 voice) notice two things.</speak>
 
-<speak who="ALEX"><info>IN <character>MOVIE</character></info>
+<speak who="ALEX"><info>IN MOVIE</info>
 No! Don't open that coffin! It's ticking!</speak>
 
-<speak who="NATALIE"><info>IN <character>MOVIE</character></info>
+<speak who="NATALIE"><info>IN MOVIE</info>
 I have to Alex. That coffin's not going 
 to open itself!</speak>
 
 <info>The coffin opens itself. A vampire sits up.</info>
 
-<speak who="VAMPIRE"><info>IN <character>MOVIE</character></info>
+<speak who="VAMPIRE"><info>IN MOVIE</info>
 Bleurgh!</speak>
 
 <info>He explodes. Fry and Liubot are making out again. Enter Bender, 
@@ -916,11 +916,11 @@ the city. Is yours acting normally?</speak>
 <speak who="FRY">
 Let me see.  Yep. Why do you ask?</speak>
 
-<speak who="ALEX"><info>IN <character>MOVIE</character></info>
+<speak who="ALEX"><info>IN MOVIE</info>
 Mr Mayor, if you want to see a real 
 vampire look in the mirror!</speak>
 
-<speak who="MAYOR"><info>IN <character>MOVIE</character></info>
+<speak who="MAYOR"><info>IN MOVIE</info>
 I can't! I'm a vampire!</speak>
 
 <info>Enter the Liubots via the screen. The audience screams. The 
@@ -934,7 +934,7 @@ Why?</speak>
 And Nappster says illegal copies never 
 hurt anybody.</speak>
 
-<speak who="FRY"><info>(<character>SHOUTING</character>)</info>
+<speak who="FRY"><info>(SHOUTING)</info>
 Quick, this way!</speak>
 
 <info>They all run to the projector room. The Liubots follow.</info>

@@ -12,7 +12,7 @@ Episode 203
 
 <info>Cut to: WNYW Corridor. Fry hums as he walks through the corridor 
 carrying a pizza box and a six pack of beer. He opens a door 
-marked "<character>WNYW</character> Control Room". Next to the door an "On Air" sign 
+marked "WNYW Control Room". Next to the door an "On Air" sign 
 is lit up.</info>
 
 <info>Cut to: WNYW Control Room. He walks through the door. In the 
@@ -171,13 +171,13 @@ stay here.</speak>
 
 <speak who="LEELA">
 Fry, you're wasting your life sitting 
-in front of that <character>TV</character>. You need to get 
+in front of that TV. You need to get 
 out and see the real world.</speak>
 
 <info>She walks between him and the TV. Fry peers around her.</info>
 
 <speak who="FRY">
-But this is <character>HDTV</character>. It's got better resolution 
+But this is HDTV. It's got better resolution 
 than the real world!</speak>
 
 <info>Leela sighs.</info>
@@ -875,7 +875,7 @@ Wait, I know her.</speak>
 
 <speak who="LEELA">
 You do not, you big fat liar. You don't 
-know anyone. All you do is watch <character>TV</character>.</speak>
+know anyone. All you do is watch TV.</speak>
 
 <speak who="FRY">
 That's where I know her from. She's 
@@ -1156,7 +1156,7 @@ Married? Jenny can't get married.</speak>
 Why not? It's clever, it's unexpected.</speak>
 
 <speak who="FRY">
-But that's not why people watch <character>TV</character>. 
+But that's not why people watch TV. 
 Clever things make people feel stupid, 
 and unexpected things make them feel 
 scared.</speak>
