@@ -12,17 +12,17 @@ chess. The pieces are holograms and include an Omicronian, a
 Trisolian, a Horrible Gelatinous Blob, one of Kif's people and 
 one of Zoidberg's people.</info>
 
-<character>FRY</character>
-Hmm. Horsey to pointy guy six.  Check.
+<speak who="FRY">
+Hmm. Horsey to pointy guy six.  Check.</speak>
 
-<character>BENDER</character>
-Hmm. Get him, boys!
+<speak who="BENDER">
+Hmm. Get him, boys!</speak>
 
 <info>Fry screams as Bender's pieces leap off the board and knock 
 him to the floor and beat him up.</info>
 
-<character>FRY</character>
-(hoarse) Good move.
+<speak who="FRY">
+(hoarse) Good move.</speak>
 
 <info>Opening Credits. Caption: Not Y3K Compliant.</info>
 
@@ -30,181 +30,181 @@ him to the floor and beat him up.</info>
 and Leela leans against the wall reading Cosmopolitan. The door 
 opens.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Good news, everyone.  We have a mission 
 to further the noble cause of intergalactic 
-peace.
+peace.</speak>
 
-<character>BENDER</character>
-Nope. Watching cartoons.
+<speak who="BENDER">
+Nope. Watching cartoons.</speak>
 
-<character>FRY</character>
-Sorry.
+<speak who="FRY">
+Sorry.</speak>
 
 <info>Leela tips them off the couch.</info>
 
-<character>LEELA</character>
-What's the mission?
+<speak who="LEELA">
+What's the mission?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 It's a delivery for the Democratic Order 
-Of Planets.
+Of Planets.</speak>
 
 <info>He points at the label on the package that says "DOOP." Fry 
 looks at it.</info>
 
-<character>FRY</character>
-DOOP? What's that?
+<speak who="FRY">
+DOOP? What's that?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 It's similar to the United Nations from 
-your time, Fry.
+your time, Fry.</speak>
 
-<character>FRY</character>
-Uh...
+<speak who="FRY">
+Uh...</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Or like the Federation from your Star 
-Trek programme.
+Trek programme.</speak>
 
-<character>FRY</character>
-(getting it) Oh!
+<speak who="FRY">
+(getting it) Oh!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Tonight is the ribbon-cutting for the 
-DOOP's new headquarters.
+DOOP's new headquarters.</speak>
 
-<character>LEELA</character>
-What are we delivering?
+<speak who="LEELA">
+What are we delivering?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Something without which no ribbon-cutting 
 ceremony could proceed. The ceremonial 
-oversized scissors.
+oversized scissors.</speak>
 
 <info>He takes them out of the box and Leela takes them from him.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We'll get them there as quickly as we 
-can.
+can.</speak>
 
-<character>FARNSWORTH</character>
-Alright, but don't run with them.
+<speak who="FARNSWORTH">
+Alright, but don't run with them.</speak>
 
-<info>The Planet Express ship flies towards the ultra-modern new <character>DOOP </character>
+<info>The Planet Express ship flies towards the ultra-modern new DOOP
 space station located in the Neutral Zone and docks.</info>
 
 <info>New DOOP Headquarters. The crew walk into the huge reception 
 area.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wow! There's a million aliens. I've 
 never seen anything so mind blowing. 
-Ooh, a reception table with muffins!
+Ooh, a reception table with muffins!</speak>
 
 <info>He runs across the room. Glab, one of Kif's people, stands at 
 a podium. A grey man dressed in grey and an orange DOOP sash 
 stands behind her.</info>
 
-<character>GLAB</character>
+<speak who="GLAB">
 Ladies and gentlemen, welcome to the 
 ribbon-cutting ceremony of the DOOP's 
 magnificent new headquarters. A fitting 
 home for an organisation that has fostered 
 peace throughout the universe. Even 
 between the Insectoids and the Space 
-Lizards.
+Lizards.</speak>
 
 <info>A spotlight falls on a Space Lizard who is eating an Insectoid. 
 He spits out the Insectoid and shakes it's hand. Everyone applauds. 
 At the bar Fry picks at a muffin and chats up someone.</info>
 
-<character>FRY</character>
-So, what's it like on planet Amazonia?
+<speak who="FRY">
+So, what's it like on planet Amazonia?</speak>
 
 <info>The woman is a huge ten-foot tall Neanderthal wearing leopard-skin 
 and carrying a club.</info>
 
-<character>AMAZONIAN</character>
-Big rats there. Me crush with club.
+<speak who="AMAZONIAN">
+Big rats there. Me crush with club.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That's so interesting. Maybe we could 
-get to know each other over a coffee.
+get to know each other over a coffee.</speak>
 
-<character>GLAB</character>
+<speak who="GLAB">
 I can think of no better place for this 
 centre of diplomacy than here in orbit 
 around the Neutral Planet.  What are 
 your thoughts on this momentous occasion, 
-Your Neutralness?
+Your Neutralness?</speak>
 
-<character>NEUTRAL PRESIDENT</character>
+<speak who="NEUTRAL PRESIDENT">
 I have no strong feelings one way or 
-the other.
+the other.</speak>
 
 <info>Everyone cheers, except one man.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 I hate these filthy Neutrals, Kif. With 
 enemies you know where they stand but 
 with Neutrals, who knows? It sickens 
 me.  Halt.  Why, Leela. I do believe 
-we've met.
+we've met.</speak>
 
-<character>BENDER</character>
-(whispering) He means you guys did it.
+<speak who="BENDER">
+(whispering) He means you guys did it.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 If you don't mind, we're here to deliver 
-the scissors for the ribbon-cutting.
+the scissors for the ribbon-cutting.</speak>
 
-<character>ZAPP</character>
-Then you're under arrest.
+<speak who="ZAPP">
+Then you're under arrest.</speak>
 
 <info>He snatches the scissors away.</info>
 
-<character>LEELA</character>
-What for?
+<speak who="LEELA">
+What for?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 How do I know these scissors aren't 
-part of some Neutral plot?
+part of some Neutral plot?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 But they're not even sharp. Who could 
-I possibly hurt with them?
+I possibly hurt with them?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 The Yarn People of Nylar 4?  So, a plan 
 to assassinate a weird-looking alien 
-with scissors. How very Neutral of you.
+with scissors. How very Neutral of you.</speak>
 
-<character>LEELA</character>
-What?
+<speak who="LEELA">
+What?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 It was almost the perfect crime, but 
 you forgot one thing: Rock crushes scissors 
 ... but paper covers rock ... and scissors 
 cut paper. Kif, we have a conundrum. 
 Search them for paper, and bring me 
-a rock.
+a rock.</speak>
 
-<character>KIF</character>
-Why?
+<speak who="KIF">
+Why?</speak>
 
 <info>Zapp stares at Leela.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 So beautiful, yet so neutral.  Drag 
-them to the ship.
+them to the ship.</speak>
 
-<character>GLAB</character>
+<speak who="GLAB">
 And now, to cut the ribbon, the legendary 
 DOOP captain who just returned from 
 a triumphant carpet-bombing of Eden 
-7, Zapp Brannigan.
+7, Zapp Brannigan.</speak>
 
 <info>Everyone applauds and looks around in confusion. Zapp has gone.</info>
 
@@ -212,31 +212,31 @@ a triumphant carpet-bombing of Eden
 Leela, Fry and Bender are handcuffed on the deserted bridge. 
 Zapp paces around.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 What makes a man turn neutral? Lust 
 for gold? Power? Or were you just born 
-with a heart full of neutrality?
+with a heart full of neutrality?</speak>
 
 <info>Kif points at the reception area on the viewscreen.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 Um, sir, you're supposed to be cutting 
-the ribbon right now.
+the ribbon right now.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 No matter. I'll simply cut it from here 
-with the ships laser.
+with the ships laser.</speak>
 
 <info>He presses a button and a console comes out of the floor. Outside 
 the ship a huge laser appears from a hatch.</info>
 
-<character>KIF</character>
-Sir, I don't think that's wise.
+<speak who="KIF">
+Sir, I don't think that's wise.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Kif, if there's one thing I don't need 
 it's your I-don't-think-that's-wise 
-attitude.
+attitude.</speak>
 
 <info>He grabs a handle on the console and moves it through Stun, 
 Kill and Hyperdeath �. He presses the "Fire" button and shoots 
@@ -251,206 +251,206 @@ off into space with everyone still screaming.</info>
 
 <info>Cut to: Nimbus Bridge.</info>
 
-<character>ZAPP</character>
-Whoopsie-daisy.
+<speak who="ZAPP">
+Whoopsie-daisy.</speak>
 
 <info>Former DOOP Headquarters. The building in Weehauken, New Jersey, 
 is a ruin with boarded up windows and cracks in the walls. The 
 DOOP representitives are gathered for Zapp's trial, which Glab 
 precides. She bangs her gavel.</info>
 
-<character>GLAB</character>
+<speak who="GLAB">
 Zapp Brannigan, you stand accused of 
 blowing up DOOP headquarters. How do 
-you plead?
+you plead?</speak>
 
-<character>ZAPP</character>
-Absolutely 99% not guilty.
+<speak who="ZAPP">
+Absolutely 99% not guilty.</speak>
 
-<character>GLAB</character>
+<speak who="GLAB">
 Then the prosecutor will call his first 
-witness.
+witness.</speak>
 
 <info>The prosecutor is a giant, green, chicken with tiny glasses 
 perched on his beak. He stands up and speaks with a strong Southern 
 American accent.</info>
 
-<character>HYPER</character>-<character>CHICKEN</character>
+<speak who="HYPER">-<character>CHICKEN</character>
 Your Honour, I'm just a simple Hyper-Chicken 
 from a backwoods asteroid but if it 
 please the court I reckon I'll call 
-the entire jury.
+the entire jury.</speak>
 
 <info>Everyone gasps and murmurs.</info>
 
-<character>GLAB</character>
-I'm going to allow this.
+<speak who="GLAB">
+I'm going to allow this.</speak>
 
-<character>HYPER</character>-<character>CHICKEN</character>
+<speak who="HYPER">-<character>CHICKEN</character>
 Members of the jury ...  ... did y'all 
 happen to catch a gander at who blew 
-up that there DOOP headquarters?
+up that there DOOP headquarters?</speak>
 
 <info>They point at Zapp.</info>
 
-<character>JUROR #1</character>
+<speak who="JUROR #1">
 (simultaneously) That's the guy, right 
-there.
+there.</speak>
 
-<character>JUROR #2</character>
-(simultaneously) Oh, yeah, right there.
+<speak who="JUROR #2">
+(simultaneously) Oh, yeah, right there.</speak>
 
-<character>SMALL GLURMO #1</character>
-(simultaneously) That one.
+<speak who="SMALL GLURMO #1">
+(simultaneously) That one.</speak>
 
-<character>HYPER</character>-<character>CHICKEN</character>
+<speak who="HYPER">-<character>CHICKEN</character>
 And are y'all gonna vote to convict 
-him?
+him?</speak>
 
-<character>NEPTUNIAN</character>
+<speak who="NEPTUNIAN">
 (simultaneously) You'd better believe 
-it.
+it.</speak>
 
-<character>JUROR #1</character>
-(simultaneously) You bet.
+<speak who="JUROR #1">
+(simultaneously) You bet.</speak>
 
 <info>Glab bangs her gavel.</info>
 
-<character>GLAB</character>
+<speak who="GLAB">
 The jury is instructed to disregard 
-its own testimony.
+its own testimony.</speak>
 
-<character>HYPER</character>-<character>CHICKEN</character>
-Your Honour, the prosecution rests.
+<speak who="HYPER">-<character>CHICKEN</character>
+Your Honour, the prosecution rests.</speak>
 
 <info>He clucks and covers his face with his wing.</info>
 
-<character>GLAB</character>
+<speak who="GLAB">
 The evidence against Zapp Brannigan 
 is strong. However, in light of his 
 years of service, and the incompetence 
 of this hillbilly prosecutor, I'm afraid 
-I must dismiss all charges.
+I must dismiss all charges.</speak>
 
 <info>The crowd murmurs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Dismiss all charges? Your Honour, I 
 know the case is closed and you've rendered 
-your verdict, but I wanna testify.
+your verdict, but I wanna testify.</speak>
 
-<character>GLAB</character>
-I'm going to allow this.
+<speak who="GLAB">
+I'm going to allow this.</speak>
 
 <info>Time Lapse. Leela is sat in the witness box.</info>
 
-<character>HYPER</character>-<character>CHICKEN</character>
+<speak who="HYPER">-<character>CHICKEN</character>
 Now, Miss Leela, on the date in question, 
 were you or were you not wearing a hoop 
-skirt?
+skirt?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's a stupid question. What matters 
 is Zapp Brannigan is the sorriest captain 
 I've ever seen, and I saw the idiot 
 blow up DOOP headquarters with my own 
-eye.
+eye.</speak>
 
 <info>The crowd gasps. Zapp stands up.</info>
 
-<character>ZAPP</character>
-I'd like to cross-examine the witness.
+<speak who="ZAPP">
+I'd like to cross-examine the witness.</speak>
 
-<character>GLAB</character>
-I'm going to allow this.
+<speak who="GLAB">
+I'm going to allow this.</speak>
 
 <info>Zapp paces past Leela.</info>
 
-<character>ZAPP</character>
-We've met before have we not?
+<speak who="ZAPP">
+We've met before have we not?</speak>
 
-<character>LEELA</character>
-(reluctantly) Yes.
+<speak who="LEELA">
+(reluctantly) Yes.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 And on that occasion, did you have sex 
 with someone? May I remind you you are 
-still under oath.
+still under oath.</speak>
 
 <info>Leela sighs.</info>
 
-<character>LEELA</character>
-(reluctantly) Yes.
+<speak who="LEELA">
+(reluctantly) Yes.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Please point out the person in this 
 courtroom you had sex with.  And his 
-name is?
+name is?</speak>
 
-<character>LEELA</character>
-Zapp Brannigan.
+<speak who="LEELA">
+Zapp Brannigan.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 The very same Zapp Brannigan who did 
 not blow up DOOP headquarters. I rest 
-my case.
+my case.</speak>
 
-<character>GLAB</character>
+<speak who="GLAB">
 Ladies and gentlemen of the jury, you 
-may begin your deliberations.
+may begin your deliberations.</speak>
 
 <info>The jury files out through one door and returns immediately 
 through another. Small Glurmo #1 is the foreman.</info>
 
-<character>SMALL GLURMO #1</character>
+<speak who="SMALL GLURMO #1">
 Your Honour, we have reached a verdict. 
-We find the defendant ... guilty.
+We find the defendant ... guilty.</speak>
 
 <info>Leela hoots.</info>
 
-<character>GLAB</character>
+<speak who="GLAB">
 Zapp Brannigan, you are hereby stripped 
 of your rank as captain and dismissed 
-from the DOOP.
+from the DOOP.</speak>
 
 <info>Zapp cries as he turns and walks towards the door. He stops 
 before he reaches it and turns to the court.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 I'd like to make one final statement. 
 Kif c'mere and hold up the flag.  And 
 wave it a little for God's sakes. My 
 friends, you can take away a man's title 
 and his uniform but you can never take 
 away his integrity or his honour. Plus 
-it was mostly Kif's fault.
+it was mostly Kif's fault.</speak>
 
 <info>Kif drops the flag.</info>
 
-<character>KIF</character>
-What?
+<speak who="KIF">
+What?</speak>
 
-<character>GLAB</character>
+<speak who="GLAB">
 Kif Kroker, you are also stripped of 
-your rank and dishonourably discharged.
+your rank and dishonourably discharged.</speak>
 
 <info>Kif stammers and sighs.</info>
 
 <info>Outside Former DOOP Headquarters. Zapp and Kif emerge from the 
 building in civilian clothes.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 One day a man has everything, the next 
 day he blows up a $400 billion space 
 station and the next day he has nothing. 
-It makes you think.
+It makes you think.</speak>
 
-<character>KIF</character>
-No, it doesn't.
+<speak who="KIF">
+No, it doesn't.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Come, Kif, it's time to begin our life 
-as civilians.  That's an order, soldier.
+as civilians.  That's an order, soldier.</speak>
 
 <info>Kif reluctantly follows.</info>
 
@@ -466,29 +466,29 @@ him into the car. The door closes and it speeds off.</info>
 
 <info>Planet Express: Hangar. Fry and Bender wash the ship.</info>
 
-<character>FRY</character>
-Hey, Bender?
+<speak who="FRY">
+Hey, Bender?</speak>
 
-<character>BENDER</character>
-Yeah?
+<speak who="BENDER">
+Yeah?</speak>
 
 <info>Fry squirts him with the hose and he giggles and throws his 
 sponge at Fry, who ducks. The sponge flies over his head and 
 hits Leela in the face.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Alright, this is the third hose fight 
 I've broken up today and the second 
 one using actual hoses. Now move your 
 lazy asses and start scrubbing the ship 
-like I ordered you to.
+like I ordered you to.</speak>
 
-<character>FRY</character>
-You don't have to get so mad, Leela.
+<speak who="FRY">
+You don't have to get so mad, Leela.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah, Fry already wiped off some of 
-the dirt with his finger.
+the dirt with his finger.</speak>
 
 <info>He points at a doodle Fry has done of Leela and speech bubble 
 with "Yak Yak Yak" in it. Leela growls. The doorbell rings and 
@@ -497,115 +497,115 @@ she goes to answer.</info>
 <info>Cut to: Planet Express: Entrance. She opens the door to a down-and-out 
 Zapp and Kif.</info>
 
-<character>LEELA</character>
-Zapp?
+<speak who="LEELA">
+Zapp?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Leela, I didn't know where else to turn. 
 You're the only woman who ever loved 
-me.
+me.</speak>
 
-<character>LEELA</character>
-I never loved you.
+<speak who="LEELA">
+I never loved you.</speak>
 
-<character>ZAPP</character>
-I mean physically.
+<speak who="ZAPP">
+I mean physically.</speak>
 
-<character>LEELA</character>
-What do you want?
+<speak who="LEELA">
+What do you want?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Just let me work for a little food. 
 Perhaps I could paint a fence, or service 
-you sexually, or mop the floors.
+you sexually, or mop the floors.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You don't know how to do any of those 
-things.
+things.</speak>
 
-<character>ZAPP</character>
-Kif might.
+<speak who="ZAPP">
+Kif might.</speak>
 
 <info>Leela prepares to press the slam button when Farnsworth turns 
 up.</info>
 
-<character>FARNSWORTH</character>
-Leela, who are you talking to?
+<speak who="FARNSWORTH">
+Leela, who are you talking to?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Just a broken-down hobo who's hit rock-bottom. 
-And his commanding officer.
+And his commanding officer.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Why, you're that disgraced starship 
 captain.  Having him on staff will distract 
 people from our horrendous safety record. 
-Come in.
+Come in.</speak>
 
 <info>Planet Express: Meeting Room. Zapp and Kif join the crew around 
 the big table.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I'd like everyone to meet our new employees. 
-(whispering) Which ones are new?
+(whispering) Which ones are new?</speak>
 
-<character>HERMES</character>
-The green dude and the fat man.
+<speak who="HERMES">
+The green dude and the fat man.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Hmm, I could swear I've never seen that 
-robot before either.
+robot before either.</speak>
 
-<character>BENDER</character>
-I'm Bender. You know? The lovable rascal.
+<speak who="BENDER">
+I'm Bender. You know? The lovable rascal.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh, yes, yes. My good friend, of course. 
 Anyway, whoever you all are, I have 
 good news. You'll be making a delivery 
 to Stumbos 4, a planet with such high 
 gravity you'll most likely be crushed 
-under the weight of your own hair. Enjoy.
+under the weight of your own hair. Enjoy.</speak>
 
 <info>The ship flies towards the green planet.</info>
 
 <info>Cut to: Ships Cargo Bay. Zapp peers around the doorway and watches 
 Leela pilot the ship. He turns away and the door closes.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 So, this Leela. I know she's a very 
 sensuous woman but what manner of captain 
-is she?
+is she?</speak>
 
-<character>FRY</character>
-She's really strict.
+<speak who="FRY">
+She's really strict.</speak>
 
-<character>BENDER</character>
-And mean.
+<speak who="BENDER">
+And mean.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 I see. Does she by any chance give the 
-crewmembers spankings?
+crewmembers spankings?</speak>
 
-<character>FRY</character>
-No, she just makes us do work and stuff.
+<speak who="FRY">
+No, she just makes us do work and stuff.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Good, good. But should she ever institute 
 some sort of bare-bottom spanking policy 
 let me go in your place. I won't have 
-my comrades harmed.
+my comrades harmed.</speak>
 
-<character>BENDER</character>
-Hey, this guy's alright!
+<speak who="BENDER">
+Hey, this guy's alright!</speak>
 
 <info>He takes some bottles of L�brau out of his chest cabinet and 
 passes them around.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Here's to us poor schmoes working for 
 the man. Even if he is a hot, sexy, 
-female man.
+female man.</speak>
 
 <info>They guzzle down the beers.</info>
 
@@ -613,23 +613,23 @@ female man.
 
 <info>Cut to: Ships Cockpit. Kif stands next to Leela.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 I've computed out landing co-ordinates, 
-Captain.
+Captain.</speak>
 
-<character>LEELA</character>
-Thanks, Kif. Very nice work.
+<speak who="LEELA">
+Thanks, Kif. Very nice work.</speak>
 
 <info>Kif sighs then stops.</info>
 
-<character>KIF</character>
-Wait, what?
+<speak who="KIF">
+Wait, what?</speak>
 
-<character>LEELA</character>
-I said "very nice work".
+<speak who="LEELA">
+I said "very nice work".</speak>
 
-<character>KIF</character>
-This is the happiest day of my life.
+<speak who="KIF">
+This is the happiest day of my life.</speak>
 
 <info>He hugs her.</info>
 
@@ -639,45 +639,45 @@ and groans under the immense gravity.</info>
 <info>Cut to: Ships Cargo Bay. Leela has assembled Fry, Bender and 
 Zapp and holds a clipboard.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 OK, crew, listen up. Your job is to 
-delivery these 40 pillows to that hotel.
+delivery these 40 pillows to that hotel.</speak>
 
 <info>She points through the window at a hotel on a hill. Bender holds 
 a pillow.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 They're not very heavy but you don't 
-hear me not complaining.
+hear me not complaining.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 They're not heavy in here because we 
 have an anti-grav pump. But once you 
 get out on the surface the gravity will 
-be very intense.
+be very intense.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, no prob', this lead apron'll protect 
-me.
+me.</speak>
 
 <info>Leela rips it off him.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I don't want any screw-ups. Use the 
 hover-dolly and just deliver one pillow 
-at a time.
+at a time.</speak>
 
 <info>She leaves.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, here's an idea, let's deliver all 
-the pillows at once.
+the pillows at once.</speak>
 
-<character>FRY</character>
-Yeah!
+<speak who="FRY">
+Yeah!</speak>
 
-<character>ZAPP</character>
-That's using the old noodle!
+<speak who="ZAPP">
+That's using the old noodle!</speak>
 
 <info>Stumbos 4 Surface. The ships cargo lift comes down and Zapp 
 pushes the hover-dolly off it with all the pillows on it. The 
@@ -685,146 +685,146 @@ three are hit by the enormous gravity. Bender struggles to stay
 upright but his legs are crushed under him. Fry tries as well 
 but his legs buckle. Zapp struggles too.</info>
 
-<character>ZAPP</character>
-Come on, girdle. Hold!
+<speak who="ZAPP">
+Come on, girdle. Hold!</speak>
 
 <info>His girdle breaks and his huge flabby gut spills out from under 
 his sweatshirt. He groans. So does the hover-dolly. Then it breaks.</info>
 
-<character>BENDER</character>
-Uh-oh.
+<speak who="BENDER">
+Uh-oh.</speak>
 
 <info>Leela and Kif walk down the ships steps. Her hair is pushed 
 flat and Kif is squished.</info>
 
-<character>LEELA</character>
-What the hell happened?
+<speak who="LEELA">
+What the hell happened?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Some breaking occured, the dolly was 
-involved, that's about all we know.
+involved, that's about all we know.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I told you dumb apes not to overload 
 it. Each of those pillows weighs 150lbs 
-here.
+here.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Alright, don't get your panties in a 
-knot. We'll just use the back-up dolly.
+knot. We'll just use the back-up dolly.</speak>
 
-<character>BENDER</character>
-I'll start loading up the pillows.
+<speak who="BENDER">
+I'll start loading up the pillows.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No way, Jack. You disobeyed an order, 
 so now you have to deliver all 40 pillows 
-by hand.
+by hand.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Let me ask you a serious question, Leela: 
 Does the company that made your bra 
 make a girdle as well? I ask because 
-a friend of mine--
+a friend of mine--</speak>
 
-<character>LEELA</character>
-Just get to work.
+<speak who="LEELA">
+Just get to work.</speak>
 
 <info>Time Lapse. Fry, Zapp and Bender drag the pillows across the 
 surface, leaving huge furrows in the ground.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (mocking) I'm Leela, get to work, neh 
-neh neh.
+neh neh.</speak>
 
-<character>FRY</character>
-I agree.
+<speak who="FRY">
+I agree.</speak>
 
 <info>Ships Cockpit. Leela looks bored stiff listening to Kif.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 The point is, it's just so humiliating 
 working for that man. Once, he actually 
 ordered me to ... shave his armpits 
-while he was in the bathtub. So, I said--
+while he was in the bathtub. So, I said--</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Y'know, why don't we talk about something 
-besides Zapp for a while?
+besides Zapp for a while?</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Oh, alright. Um ... well ... how 'bout 
 then, um...OK, well, there he was in 
-the tub, alright?
+the tub, alright?</speak>
 
 <info>Leela sighs.</info>
 
 <info>Stumbos 4 Surface. Zapp, Fry and Bender continue the delivery. 
 They struggle and stop. Thunder cracks above.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Ah, some good old high-gravity rain. 
-That'll cool us off.
+That'll cool us off.</speak>
 
 <info>He holds his tongue out and the heavy rain knocks him to the 
 ground. They crawl under a rock out of the rain.</info>
 
-<character>BENDER</character>
-This is all Leela's fault.
+<speak who="BENDER">
+This is all Leela's fault.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah. If she had let us use the back-up 
 dolly, we could have broken it, given 
-up and gone home by now.
+up and gone home by now.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Y'know boys, a good captain needs many 
 skills, such as boldness, daring and 
 a velour uniform. And I'm not convinced 
-Leela has any of those things.
+Leela has any of those things.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Ah, Leela's not that bad. I just wish 
-she didn't make us work so much.
+she didn't make us work so much.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Back when I was captain all I asked 
 from my men was their complete loyalty. 
 If I had that, then for all I cared 
 they could sit around the whole day 
-drinking beer in their underpants.
+drinking beer in their underpants.</speak>
 
-<character>BENDER</character>
-Beer?
+<speak who="BENDER">
+Beer?</speak>
 
-<character>FRY</character>
-Underpants?
+<speak who="FRY">
+Underpants?</speak>
 
 <info>He and Bender look at each other and grin.</info>
 
 <info>Ships Cockpit.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 But now, Zapp's not captain anymore. 
 I'm free!  Oh, you hear that? I'm actually 
-laughing!
+laughing!</speak>
 
 <info>Enter Zapp, Fry and Bender.</info>
 
-<character>FRY</character>
-This is a mutiny.
+<speak who="FRY">
+This is a mutiny.</speak>
 
 <info>Kif sighs.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You're outta here, lady. Zapp's the 
-new captain.
+new captain.</speak>
 
 <info>Zapp handcuffs Leela. Fry already has his shirt off and raises 
 a beer.</info>
 
-<character>FRY</character>
-All hail the new captain.
+<speak who="FRY">
+All hail the new captain.</speak>
 
 <info>He unzips his trousers and lets them fall down.</info>
 
@@ -832,122 +832,122 @@ All hail the new captain.
 
 <info>Cut to: Ships Cockpit. Zapp is sat in the pilot's seat.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Leela, you might be a formidible do-er 
 of the nasty but I am forced to relieve 
-you of your post.
+you of your post.</speak>
 
-<character>LEELA</character>
-On what grounds, you slobbering oaf?
+<speak who="LEELA">
+On what grounds, you slobbering oaf?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Failure to prevent a mutiny. Throw her 
-in the brig.
+in the brig.</speak>
 
-<character>FRY</character>
-We don't have a brig.
+<speak who="FRY">
+We don't have a brig.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Then throw her in the laundry room, 
 which will hereafter be referred to 
-as "the brig".
+as "the brig".</speak>
 
 <info>Ships Laundry Room. Bender and Fry lead Leela inside.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You really don't want me to be captain 
-anymore?
+anymore?</speak>
 
-<character>BENDER</character>
-You got it, genius.
+<speak who="BENDER">
+You got it, genius.</speak>
 
-<character>LEELA</character>
-But, didn't I do a good job?
+<speak who="LEELA">
+But, didn't I do a good job?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You were mean and you yelled and you 
-made us do all that work.
+made us do all that work.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Sometimes a captain needs to do those 
 things. Besides I, I thought we were 
-friends.
+friends.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah, well, you shouldn't have been 
-such a mean captain then.
+such a mean captain then.</speak>
 
 <info>He turns and leaves.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Don't worry, Leela, soon we'll be able 
-to look back on this and laugh.
+to look back on this and laugh.</speak>
 
 <info>He walks out, looks back and laughs insanely.</info>
 
 <info>Cut to: Ships Cockpit. Fry and Bender return. Zapp is wearing 
 his DOOP uniform.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Back in my old uniform, and it nearly 
 still fits. Even after all that fattening 
-hobo cuisine.
+hobo cuisine.</speak>
 
 <info>Kif, back in his uniform too, holds up Zapp's other clothes.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 What shall I do with your civilian clothes, 
-sir?
+sir?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Take them to the laundry-brig.  So, 
-do I have your loyalty, men?
+do I have your loyalty, men?</speak>
 
-<character>BENDER</character>
-To the ends of the universe.
+<speak who="BENDER">
+To the ends of the universe.</speak>
 
-<character>FRY</character>
-Ten hundred percent!
+<speak who="FRY">
+Ten hundred percent!</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 That's not nearly loyal enough. I order 
 you to sit around and drink beer until 
-you're as loyal as Kif here.
+you're as loyal as Kif here.</speak>
 
 <info>He hands them some beers and Kif returns.</info>
 
-<character>BENDER</character>
-Yes, sir, sir!
+<speak who="BENDER">
+Yes, sir, sir!</speak>
 
-<character>KIF</character>
-Um, may I have a beer, sir?
+<speak who="KIF">
+Um, may I have a beer, sir?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 No. You're loyal enough already. Meanwhile, 
 I have a plan. We will single-handedly 
-attack our archenemy the Neutral Planet.
+attack our archenemy the Neutral Planet.</speak>
 
-<character>KIF</character>
-Oh, jeez.
+<speak who="KIF">
+Oh, jeez.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Once the neutral war machine lies in 
 ruins, I'll be a hero again and the 
-DOOP will reinstate me as captain.
+DOOP will reinstate me as captain.</speak>
 
-<character>KIF</character>
-But, sir, that plan makes no sense.
+<speak who="KIF">
+But, sir, that plan makes no sense.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Maybe not to you, Kif, but if I recall 
 correctly, you were court-martialed 
-in disgrace.
+in disgrace.</speak>
 
-<character>FRY</character>
-Ooh, burn!
+<speak who="FRY">
+Ooh, burn!</speak>
 
-<character>BENDER</character>
-Nailed you, buddy!
+<speak who="BENDER">
+Nailed you, buddy!</speak>
 
 <info>They clink their bottles.</info>
 
@@ -957,29 +957,29 @@ Planet.</info>
 <info>Cut to: Ships Cockpit. Zapp is in the pilot's seat and Fry and 
 Bender man their stations.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Prepare to continue the epic struggle 
-between good and neutral.
+between good and neutral.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 This is awesome! We're gonna be like 
 pow-pow-pow, and they're gonna be like 
 ...  ... and then we'll have pancakes 
-to celebrate and I'll be like...
+to celebrate and I'll be like...</speak>
 
 <info>He makes pancake-eating noises.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Precisely. Now, in the name of all that 
 is good and honourable, we'll call the 
 Neutral President with a message of 
-peace, then blast him.
+peace, then blast him.</speak>
 
-<character>BENDER</character>
-Yes sir, sirdy-sir-sir-sir!
+<speak who="BENDER">
+Yes sir, sirdy-sir-sir-sir!</speak>
 
-<character>ZAPP</character>
-Fly the white flag of war.
+<speak who="ZAPP">
+Fly the white flag of war.</speak>
 
 <info>The white flag is hoisted on a flagpole atop the ships laser 
 turret.</info>
@@ -990,75 +990,75 @@ office is quite small and decorated with various shades of grey.
 He sits at his desk and an aide stands next to him. Zapp is on 
 a huge wall screen.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 This is Zapp Brannigan of the good 
 ship ... Planet Express Ship. I come 
-swinging the olive branch of peace.
+swinging the olive branch of peace.</speak>
 
-<character>NEUTRAL PRESIDENT</character>
-All I know is my gut says maybe.
+<speak who="NEUTRAL PRESIDENT">
+All I know is my gut says maybe.</speak>
 
 <info>Cut to: Ships Cockpit. Zapp turns the communication screen off.</info>
 
-<character>BENDER</character>
-What now, chief?
+<speak who="BENDER">
+What now, chief?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Now we crash the ship into their headquarters, 
 killing them in a hellish firestorm 
-from which no living thing can escape.
+from which no living thing can escape.</speak>
 
-<character>FRY</character>
-Good, good, then what?
+<speak who="FRY">
+Good, good, then what?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Then your mission is complete. I, meanwhile, 
 will have ejected to safety, wearing 
-the only spacesuit on board.
+the only spacesuit on board.</speak>
 
 <info>Fry and Bender cheer and high-five.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait a second. Is this plan gonna kill 
-us?
+us?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Of course. What do you think I meant 
 by "loyalty"? Now help me into the only 
 spacesuit. It looks a bit sweaty in 
 there so you may need to apply baby 
-powder.
+powder.</speak>
 
 <info>Ships Laundry Room. Leela, still handcuffed, folds some sheets 
 while Kif pours some washing powder into a cup. Fry and Bender 
 run in.</info>
 
-<character>FRY</character>
-Leela, we want you to be captain again.
+<speak who="FRY">
+Leela, we want you to be captain again.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Let me guess. He cancelled naptime? 
 He ran out of beer?  So he's about 
-to kill us?
+to kill us?</speak>
 
 <info>They nod.</info>
 
 <info>Ships Cockpit. Zapp is now wearing the spacesuit. Enter Leela, 
 Kif, Fry and Bender.</info>
 
-<character>FRY</character>
-We want Leela to be captain again.
+<speak who="FRY">
+We want Leela to be captain again.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 So it's mutiny is it? I never thought 
 I'd see the day. Come, Kif, let's eject. 
 I found a children's spacesuit you can 
-wear.
+wear.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 To be honest, sir, I'd rather stay here 
 with Captain Leela. She actually listens 
-to what I have to--
+to what I have to--</speak>
 
 <info>Leela shoves the helmet on his head and Zapp puts the suit on 
 him which is decorated with stars and planets. He picks him up 
@@ -1066,67 +1066,67 @@ using a handle on the back and Kif kicks and mumbles before finally
 sighing. They leave the room and fly away from the ship. Leela 
 wrestles with the wheel.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, no! He's disabled the steering. 
-We're gonna crash!
+We're gonna crash!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Leela save me ... and yourself, I guess 
-... and my banjo.  And Fry.
+... and my banjo.  And Fry.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 OK, <character>OK</character>. We have one chance. Are you 
-willing to do what I say as captain?
+willing to do what I say as captain?</speak>
 
-<character>FRY</character>
-Absolutely.
+<speak who="FRY">
+Absolutely.</speak>
 
-<character>LEELA</character>
-Even if I make you work hard?
+<speak who="LEELA">
+Even if I make you work hard?</speak>
 
-<character>BENDER</character>
-As your God is my witness.
+<speak who="BENDER">
+As your God is my witness.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Then go get the hover-dolly you didn't 
 break and load all the dark matter into 
-the left engine.
+the left engine.</speak>
 
-<character>BENDER</character>
-Oh, man, that crap's heavy.
+<speak who="BENDER">
+Oh, man, that crap's heavy.</speak>
 
-<character>FRY</character>
-And warm.
+<speak who="FRY">
+And warm.</speak>
 
-<character>LEELA</character>
-Just do it.
+<speak who="LEELA">
+Just do it.</speak>
 
 <info>The ship streaks through the planet's atmosphere and starts 
 to burn up.</info>
 
 <info>Cut to: Neutral Capitol. An alarm dings and the aide runs in.</info>
 
-<character>NEUTRAL PRESIDENT</character>
-If I don't survive, tell my wife, "Hello".
+<speak who="NEUTRAL PRESIDENT">
+If I don't survive, tell my wife, "Hello".</speak>
 
 <info>Ships Cockpit. Leela turns on the communication screen.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hurry! I don't wanna die at the age 
-of 25.
+of 25.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Honey, unless we hit a time warp, I 
-wouldn't worry about it.
+wouldn't worry about it.</speak>
 
 <info>Cut to: Ships Engine Room. Fry and Bender pull the dolly towards 
 the left engine.</info>
 
-<character>FRY</character>
-It's too low.
+<speak who="FRY">
+It's too low.</speak>
 
-<character>BENDER</character>
-Quick.
+<speak who="BENDER">
+Quick.</speak>
 
 <info>He lies underneath the dolly and Fry works him like a car jack, 
 tipping the pellets into the fire.</info>
@@ -1136,101 +1136,101 @@ away from the planet.</info>
 
 <info>Ships Cockpit.</info>
 
-<character>LEELA</character>
-You did it! You actually did it!
+<speak who="LEELA">
+You did it! You actually did it!</speak>
 
 <info>Fry and Bender cheer and high-five.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 And no one will have to punish anyone 
-for the mutiny.
+for the mutiny.</speak>
 
 <info>Former DOOP Headquarters. Everyone is back in the courtroom 
 again.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 And so, when Captain Leela panicked, 
 perhaps distracted by female troubles, 
 my quick thinking allowed me to do whatever 
-I did to save the day.
+I did to save the day.</speak>
 
-<character>GLAB</character>
+<speak who="GLAB">
 Captain Leela, is this rambling story 
-of magic and heroism true?
+of magic and heroism true?</speak>
 
-<character>LEELA</character>
-Well, actually--
+<speak who="LEELA">
+Well, actually--</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 (whispering) That a girl! If they don't 
-take him back we can keep him as captain.
+take him back we can keep him as captain.</speak>
 
 <info>Zapp winks at Leela and click-clicks. She stands up.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Your Honour, it's all true: My female 
 incompetence, Zapp's cat-like reflexes, 
 the stuff that made no sense, all of 
-it.
+it.</speak>
 
 <info>The crowd gasps.</info>
 
-<character>GLAB</character>
+<speak who="GLAB">
 In that case, Zapp Brannigan, I hereby 
-restore your rank and parking privileges.
+restore your rank and parking privileges.</speak>
 
 <info>She bangs her gavel and the crowd cheers. Fry hugs Bender and 
 high-fives Leela.</info>
 
-<character>FARNSWORTH</character>
-Oh, foo!
+<speak who="FARNSWORTH">
+Oh, foo!</speak>
 
-<character>ZAPP</character>
-Come, Kif, we've got work to do.
+<speak who="ZAPP">
+Come, Kif, we've got work to do.</speak>
 
 <info>He mimes shaving his armpits and tosses Kif the razor. Kif sighs 
 and turns to Leela.</info>
 
-<character>KIF</character>
-I-I'll call and tell you about it.
+<speak who="KIF">
+I-I'll call and tell you about it.</speak>
 
 <info>She sighs.</info>
 
 <info>Planet Express: Hangar. Leela looks over the railings and watches 
 Fry and Bender scrub the ship.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela, I just want you to know that 
 even though you're mean, you're the 
-best captain ever.
+best captain ever.</speak>
 
 <info>Leela smiles.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah, you're one dynamite lady. Can 
-we have a week off?
+we have a week off?</speak>
 
-<character>LEELA</character>
-No.
+<speak who="LEELA">
+No.</speak>
 
-<character>FRY</character>
-Please?
+<speak who="FRY">
+Please?</speak>
 
-<character>BENDER</character>
-Come on, Captain.
+<speak who="BENDER">
+Come on, Captain.</speak>
 
-<character>LEELA</character>
-Oh, alright.
+<speak who="LEELA">
+Oh, alright.</speak>
 
 <info>Farnsworth passes behind her.</info>
 
-<character>FARNSWORTH</character>
-No time off.
+<speak who="FARNSWORTH">
+No time off.</speak>
 
-<character>FRY</character>
-Aw, man.
+<speak who="FRY">
+Aw, man.</speak>
 
-<character>LEELA</character>
-Let's mutiny!
+<speak who="LEELA">
+Let's mutiny!</speak>
 
 <info>THE END</info></xml>

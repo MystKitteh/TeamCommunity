@@ -13,9 +13,9 @@ Episode 309
 Leela perches on the end of it. Fry tears open a pack of Styro-Pak 
 Cookies.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, I know those cookies are fresh-a-licious 
-but they produce an awful lot of trash.
+but they produce an awful lot of trash.</speak>
 
 <info>Fry takes out a small pack marked "Top," opens it, takes something 
 out and puts it in a weird looking machine. He throws the packet 
@@ -27,135 +27,135 @@ sections and makes a cream filled cookie. He pulls it apart a
 licks out the cream from the middle. Bender sprays his antenna 
 with something and slicks it back.</info>
 
-<character>BENDER</character>
-Ah!
+<speak who="BENDER">
+Ah!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 And Bender, that aerosol head spray 
-makes your head smell nice...
+makes your head smell nice...</speak>
 
-<character>BENDER</character>
-Thank you.
+<speak who="BENDER">
+Thank you.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 ...but it's doing long-term damage to 
-the planet.
+the planet.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 So? It's not like it's the only one 
-we've got!
+we've got!</speak>
 
 <info>Enter Farnsworth.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Good news everyone! I'm sending you 
-on an extremely controversial mission!
+on an extremely controversial mission!</speak>
 
-<character>FRY</character>
-Controversial?
+<speak who="FRY">
+Controversial?</speak>
 
-<character>FARNSWORTH</character>
-Oh my no.
+<speak who="FARNSWORTH">
+Oh my no.</speak>
 
 <info>Planet Express: Meeting Room. The lights are dimmed and there 
 is a hologram in the middle of the table of the Planet Express 
 ship docking with a tanker.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 For this highly controversial mission, 
 you'll be towing the Juan Valdez, an 
 orbitting supertanker full of rich Columbian 
-dark matter.
+dark matter.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Dark matter oil? What if we hit something? 
-The tanker could leak!
+The tanker could leak!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Impossible!  The tanker has 6000 hulls. 
 So, unlike me, it's entirely leak-proof! 
 Now, once you've hauled the tanker 
-past the protestors -
+past the protestors -</speak>
 
-<character>LEELA</character>
-Protestors?
+<speak who="LEELA">
+Protestors?</speak>
 
-<character>FARNSWORTH</character>
-Correct. 6000 hulls.
+<speak who="FARNSWORTH">
+Correct. 6000 hulls.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Why do we have to fly within three feet 
-of this penguin preserve on Pluto?
+of this penguin preserve on Pluto?</speak>
 
-<character>FARNSWORTH</character>
-(whispering) To avoid the tollbooth.
+<speak who="FARNSWORTH">
+(whispering) To avoid the tollbooth.</speak>
 
 <info>Planet Express: Hangar. Leela is wearing her green jacket and 
 Farnsworth points at something on the ship to Bender. Fry walks 
 down the steps with an empty trolley.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Alright, she's all restocked with emergency 
-jam. Let's get going.
+jam. Let's get going.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 At the risk of sounding negative: No! 
 Look Professor, I can't participate 
-in this mission.
+in this mission.</speak>
 
-<character>FARNSWORTH</character>
-What are you yapping about?
+<speak who="FARNSWORTH">
+What are you yapping about?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 This time it's your reckless disregard 
 for the environment. In fact, I'm gonna 
-go join those protestors.
+go join those protestors.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 This is an outrage. I demand that you 
-hand over your captain's jacket.
+hand over your captain's jacket.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 This is my normal jacket. I've had it 
-for 10 years.
+for 10 years.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I said hand it over!  Well Fry, or should 
 I say Captain Fry?  No I shouldn't. 
-Because Bender is the new captain!
+Because Bender is the new captain!</speak>
 
-<character>FRY</character>
-Bender?
+<speak who="FRY">
+Bender?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 That's right. Being a captain is about 
 intuition and heart. A good captain 
 can't have either one. That's why cold, 
-logical Bender is perfect for the job.
+logical Bender is perfect for the job.</speak>
 
-<character>BENDER</character>
-Well, I do think of human life as expendable.
+<speak who="BENDER">
+Well, I do think of human life as expendable.</speak>
 
 <info>Ship's Cockpit. Bender sits in the pilot's seat and Zoidberg 
 mans a console.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 No fair. Leela was training me to be 
 captain. She even let me sit in her 
-lap and steer - in this comic I drew.
+lap and steer - in this comic I drew.</speak>
 
 <info>He pulls out a piece of paper. Zoidberg turns around.</info>
 
-<character>ZOIDBERG</character>
-Ooo, the new one's out!
+<speak who="ZOIDBERG">
+Ooo, the new one's out!</speak>
 
 <info>He takes it.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Fry, the title of captain may inflate 
 the human ego, but it's beneath the 
 notice of my mighty robo-logic!  Now 
-look spry men! We launch at six bells!
+look spry men! We launch at six bells!</speak>
 
 <info>He takes a bell out of his chest cabinet and rings it six times.</info>
 
@@ -170,7 +170,7 @@ are gathered on the deck. Preparing for a speech is Free Waterfall
 Sr, father of Free Waterfall Jr who led the campaign against 
 eating Popplers in The Problem With Popplers.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Greetings Econauts. I'm Free Waterfall 
 Sr, founder of Penguins Unlimited.  
 Whoa! No, no! No applause. Every time 
@@ -180,134 +180,134 @@ fungus. Just show your approval with
 a mould-friendly thumbs up!  Please 
 hold your thumbs until the end. Now 
 folks, its time to stop that tanker 
-with a non-violent human circle.
+with a non-violent human circle.</speak>
 
 <info>Leela stands up.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Why do we have to resort to non-violence? 
-Can't we just kick their asses?
+Can't we just kick their asses?</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Now little lady, those people's asses 
-are living things too!
+are living things too!</speak>
 
 <info>The Planet Express ship beeps as it back up and docks with the 
 Juan Valdez, using a tow bar.</info>
 
 <info>Cut to: Ship's Cockpit.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aye! We're hitched up tighter than Davy 
-Jones' U-Haul! At ease men!
+Jones' U-Haul! At ease men!</speak>
 
 <info>Fry swats a fly on his arm while lying back with his feet up.</info>
 
-<character>FRY</character>
-I am at ease.
+<speak who="FRY">
+I am at ease.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Mr Fry. I like to give my first mate 
 an informal nickname. From now on, you 
-will be known as...Wiggles!
+will be known as...Wiggles!</speak>
 
 <info>He wiggles his fingers.</info>
 
-<character>WIGGLES</character>
+<speak who="WIGGLES">
 The hell I will! Have you even read 
-the captain's handbook?
+the captain's handbook?</speak>
 
 <info>He holds up the Captain's Handbook - Now With Pop-up Sextant. 
 Bender takes it and flips through it quickly.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I have now. And what's Peter Parrot's 
-first rule of captaining?
+first rule of captaining?</speak>
 
-<character>WIGGLES</character>
+<speak who="WIGGLES">
 Always respect the chain-o-command - 
-captain.
+captain.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Correct Wiggles. You've just earned 
-an invitation to the captain's table.
+an invitation to the captain's table.</speak>
 
 <info>He leaves and Zoidberg leans over the back of his chair.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 (whispering) The captain's table! What 
-an honour!
+an honour!</speak>
 
 <info>Peace Ring. Hundreds of protestors have surrounded the tanker 
 in a human circle.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Our peace ring has 'em trapped like 
-a tiger in a washing machine!
+a tiger in a washing machine!</speak>
 
 <info>The Planet Express ship's engine starts to flare up.</info>
 
-<character>LEELA</character>
-Get ready!
+<speak who="LEELA">
+Get ready!</speak>
 
-<character>PROTESTOR #1</character>
-Look out!
+<speak who="PROTESTOR #1">
+Look out!</speak>
 
-<character>PROTESTOR #2</character>
-Hold on!
+<speak who="PROTESTOR #2">
+Hold on!</speak>
 
-<character>WATERFALL SR</character>
-Here they come.
+<speak who="WATERFALL SR">
+Here they come.</speak>
 
 <info>The ship rises up from the middle of the peace ring and tows 
 the tanker over the top of the protestors. It flies away.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 When you were planning this peace ring, 
 didn't you realise spaceships can move 
-in three dimensions?
+in three dimensions?</speak>
 
-<character>WATERFALL SR</character>
-No I did not.
+<speak who="WATERFALL SR">
+No I did not.</speak>
 
 <info>The protestors' ships fly into Pluto space and pass a sign saying 
 Pluto - Last Restroom Before Proxima Centauri.</info>
 
-<info>Outside Penguins Unlimited <character>HQ</character>. The protestors walk towards the 
+<info>Outside Penguins Unlimited HQ. The protestors walk towards the 
 building on the icy Pluto surface.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Folks, that tanker gave us the slip 
 but we'll stop 'em here on Pluto! If 
 you're cold, rub your bodies with permafrost. 
 It's nature's long johns.  If rubbing 
 frozen dirt in your crotch is wrong, 
-hey I don't wanna be right!
+hey I don't wanna be right!</speak>
 
-<info>Penguins Unlimited <character>HQ</character>. Enter the protestors. The building is 
+<info>Penguins Unlimited HQ. Enter the protestors. The building is 
 a huge glass dome. In the middle of the room are holes in the 
 ground with bars around them. Waterfall shows Leela what is inside.</info>
 
-<character>WATERFALL SR</character>
-This here is our penguin preserve.
+<speak who="WATERFALL SR">
+This here is our penguin preserve.</speak>
 
 <info>In the holes baby penguins cheep.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Aww they're so cute! They're like if 
-puppies and kittens could have babies!
+puppies and kittens could have babies!</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 We use hand puppets around young uns 
-to simulate a natural environment.
+to simulate a natural environment.</speak>
 
 <info>In the hole a man's arm with a penguin puppet over his hand 
 appears from under the floor. The beak opens and the man feeds 
 the baby penguins little fish. They grab his hand and start biting 
 it and one steals his watch. He screams.</info>
 
-<character>LEELA</character>
-That's adorable.
+<speak who="LEELA">
+That's adorable.</speak>
 
 <info>The man screams louder.</info>
 
@@ -319,76 +319,76 @@ private dining room and uses the table tennis table to eat off.
 He and Fry are in the middle of a pasta meal and he is in the 
 middle of a speech.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 ...But I suppose it's this medal I'm 
 most proud of Wiggles. I won it for 
 saving the children of Earth from a 
 giant kangaroo. It was on the Australian 
-news, you probably didn't see it.
+news, you probably didn't see it.</speak>
 
 <info>Zoidberg, sitting at the other end of the table across the net, 
 claps.</info>
 
-<character>ZOIDBERG</character>
-Brilliant!
+<speak who="ZOIDBERG">
+Brilliant!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Would you cram a sock in it Bender? 
 Those aren't even medals! They're bottlecaps 
-and pepperoni slices.
+and pepperoni slices.</speak>
 
 <info>Bender rings a bell and Zoidberg refills his glass.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Thank you steward. Wiggles? Weren't 
 you about to propose a toast to your 
-gallant captain?
+gallant captain?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Fine, I've got a toast. To Captain Bender! 
 He's the best......at being a big jerk 
 and his big ugly face is as dumb as 
-a butt.
+a butt.</speak>
 
-<character>BENDER</character>
-Eh, I've heard better.
+<speak who="BENDER">
+Eh, I've heard better.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 If I were in charge I wouldn't treat 
 you like this. You're nothing but a 
-big blowhard.
+big blowhard.</speak>
 
 <info>He knocks Bender's bell off the table. Bender stands up.</info>
 
-<character>BENDER</character>
-Sir, you forget yourself! Shut up!
+<speak who="BENDER">
+Sir, you forget yourself! Shut up!</speak>
 
 <info>He knocks Fry's plate off the table it hits the wall and slides 
 down to the floor. Zoidberg looks at it and dives to the floor 
 and starts eating what's left of Fry's food.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Being captain is obviously more important 
-to you than being my friend. I'm going.
+to you than being my friend. I'm going.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Going? But, a captain can't drink without 
-his first mate!
+his first mate!</speak>
 
 <info>Fry leaves. Zoidberg peeps over the edge of the table.</info>
 
-<character>ZOIDBERG</character>
-You can drink with me maybe?
+<speak who="ZOIDBERG">
+You can drink with me maybe?</speak>
 
-<character>BENDER</character>
-I don't feel like drinking.
+<speak who="BENDER">
+I don't feel like drinking.</speak>
 
 <info>He takes off his hat and starts to walk out.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Then if you'll excuse me I see some 
 ravioli that only has two shoeprints 
-on it.  Three.
+on it.  Three.</speak>
 
 <info>The ship and tanker flies past Neptune, Urectum and Charon and 
 heads for Pluto.</info>
@@ -398,25 +398,25 @@ in five o'clock rust. He lies back in the pilot's seat and looks
 like he is about to slide of as he wildly steers the ship singing 
 an olde sea shanty.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (soberly singing) Oh Greenland is a 
 barren land, a land that bears no green. 
 Where there's ice and snow and the whale 
-fishies blow and the -
+fishies blow and the -</speak>
 
 <info>Enter Zoidberg with a bottle of Olde Fortran Liquor.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Captain please, have some liquor. You 
-robots need alcohol to function.
+robots need alcohol to function.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Gah! I once knew a guy...you look like 
 him. But he wasn't either.  I'm a good 
-captain.
+captain.</speak>
 
-<character>ZOIDBERG</character>
-Please sir, I love you like a father!
+<speak who="ZOIDBERG">
+Please sir, I love you like a father!</speak>
 
 <info>Bender grabs the wheel and steers the ship sharply starboard, 
 knocking Zoidberg off balance. He screams as he falls.</info>
@@ -425,18 +425,18 @@ knocking Zoidberg off balance. He screams as he falls.</info>
 Hooto Don't Pollute Pluto!", "Preserve Our Useless Wasteland" 
 and "Free Chilly Willy."</info>
 
-<character>PROTESTOR #3</character>
+<speak who="PROTESTOR #3">
 Here they come, oh I hope they read 
-my sign!
+my sign!</speak>
 
 <info>He holds up the sign that reads "Go Away Tanker!" The ship and 
 tanker fly over the planet surface upside-down.</info>
 
-<character>LEELA</character>
-Bender's flying too low! And he's upside-down!
+<speak who="LEELA">
+Bender's flying too low! And he's upside-down!</speak>
 
-<character>PROTESTOR #3</character>
-He must be talking on a cell phone!
+<speak who="PROTESTOR #3">
+He must be talking on a cell phone!</speak>
 
 <info>The tanker hits an iceberg and it scrapes a huge hole along 
 the hull releasing a torrent of dark matter oil.</info>
@@ -445,22 +445,22 @@ the hull releasing a torrent of dark matter oil.</info>
 the message "Danger" repeatedly flashes on the screens. Bender 
 snores loudly. Enter Fry and Zoidberg.</info>
 
-<character>FRY</character>
-What's happening?
+<speak who="FRY">
+What's happening?</speak>
 
 <info>Zoidberg turns on another screen that displays the extent of 
 the damage to the tanker. There is a huge gash most of the way 
 along it's hull. A gauge at one side of the screen drops as the 
 dark matter levels go down.</info>
 
-<character>ZOIDBERG</character>
-All 6000 hulls have been breached!
+<speak who="ZOIDBERG">
+All 6000 hulls have been breached!</speak>
 
 <info>Fry falls to his knees.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh the fools! If only they'd built it 
-with 6001 hulls! When will they learn?
+with 6001 hulls! When will they learn?</speak>
 
 <info>Cut to: Pluto Surface. The leaking tanker speeds towards the 
 screaming protestors and a tidal wave of dark matter oil washes 
@@ -471,12 +471,12 @@ and the others.</info>
 <info>Prison Cell. On the TV in the corner Morbo and Linda present 
 a news report under the headline "Tanked!"</info>
 
-<character>LINDA </character><info>ON TV</info>
+<speak who="LINDA"><info>ON TV</info>
 Continuing our coverage of a tragic 
 - but far away - story. The crisis on 
 Pluto worsens as dark matter spreads 
 throughout the penguin habitat. The 
-images are truly horrific.
+images are truly horrific.</speak>
 
 <info>The picture changes to oil-covered penguins. One coughs and 
 two others slip on the oil with crazy sound effects added. The 
@@ -484,18 +484,18 @@ caption on the screen reads "Sound Effects Added To Lessen Tragedy."
 Another penguin repeatedly slips over with boingy sounds to go 
 with it. Leela is interviewed.</info>
 
-<character>LEELA </character><info>ON TV</info>
+<speak who="LEELA"><info>ON TV</info>
 I don't think any of those poor, oil-drenched 
-penguins feel.
+penguins feel.</speak>
 
 <info>She slips over with added sound effects. The scene returns to 
 the studio and Morbo laughs.</info>
 
-<character>MORBO </character><info>ON TV</info>
+<speak who="MORBO"><info>ON TV</info>
 Oily humanoid!  At the time of the crash, 
 the tanker captain had an alcohol level 
 of .08 percent - well below the legal 
-limit for robots.
+limit for robots.</speak>
 
 <info>A picture of Bender appears in the corner of the screen in a 
 pose remiscent of Captain Joseph Hazelwood of the Exxon Valdez, 
@@ -503,31 +503,31 @@ with his arms up trying to hide his face from the cameras. Bender
 sighs and turns away from the TV and holds the cell bars. The 
 Hyper-Chicken lawyer paces around on the other side.</info>
 
-<character>HYPER</character>-<character>CHICKEN</character>
+<speak who="HYPER">-<character>CHICKEN</character>
 Son, as your lawyer I declare y'all 
 are in a 12-piece bucket o' trouble. 
 But I done struck you a deal; Five hours 
 of community service cleanin' up that 
-ole mess you caused.
+ole mess you caused.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Five hours? Aw man! Couldn't you have 
-just gotten me the death penalty?
+just gotten me the death penalty?</speak>
 
-<character>HYPER</character>-<character>CHICKEN</character>
+<speak who="HYPER">-<character>CHICKEN</character>
 I'd have done better but it's plum hard 
 pleadin' a case while awaitin' trial 
-for that there incompetance!
+for that there incompetance!</speak>
 
 <info>He grabs hold of the bars. It is he who is in prison rather 
 than Bender.</info>
 
-<character>BENDER</character>
-Yeah, uh, good luck with that.
+<speak who="BENDER">
+Yeah, uh, good luck with that.</speak>
 
 <info>He walks out.</info>
 
-<info>Pluto Surface. Bender scrubs the penguins while Smitty and <character>URL </character>
+<info>Pluto Surface. Bender scrubs the penguins while Smitty and URL 
 watch him.</info>
 
 <info>Cut to: Penguins Unlimited Shelter. The activists clean the 
@@ -536,134 +536,134 @@ them dry with a towel and Leela blow dries them. She puts one
 down on the ground, licks her finger and rubs it's cheek like 
 a mother.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Now you stay away from those puffin 
-twins.
+twins.</speak>
 
 <info>She sends it on it's way. Waterfall gives some more survival 
 tips to people.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Good way to avoid frostbite folks: Put 
 your hands between your buttocks.  That's 
-nature's pocket.
+nature's pocket.</speak>
 
-<character>LEELA</character>
-Uh...I think I'll go check on Bender.
+<speak who="LEELA">
+Uh...I think I'll go check on Bender.</speak>
 
-<character>WATERFALL SR</character>
-Watch that he doesn't pick your pocket.
+<speak who="WATERFALL SR">
+Watch that he doesn't pick your pocket.</speak>
 
 <info>Cut to: Pluto Surface. Bender holds a penguin over his head 
 and wrings the oil into his mouth.</info>
 
-<character>BENDER</character>
-Ah, can't beat fresh squeezed!
+<speak who="BENDER">
+Ah, can't beat fresh squeezed!</speak>
 
 <info>Enter Leela.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender, can you at least pretend you're 
 being punished?  And clean the black 
-parts too.
+parts too.</speak>
 
-<info>She walks off. Bender mocks her. Smitty and <character>URL</character> look at some 
+<info>She walks off. Bender mocks her. Smitty and URL look at some 
 penguins.</info>
 
-<character>SMITTY</character>
+<speak who="SMITTY">
 Are they black with white feathers or 
-white with black feathers?
+white with black feathers?</speak>
 
-<character>URL</character>
-It don't matter baby, they're all beautiful!
+<speak who="URL">
+It don't matter baby, they're all beautiful!</speak>
 
 <info>They hug.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yo, screws, more Tegrin over here?  
-Oh ho, what's this?
+Oh ho, what's this?</speak>
 
 <info>He ducks behind an ice rock, pulls a tuxedo out of his chest 
 cabinet and puts it on. He lowers his legs to penguin height 
 and wanders over to the flock of penguins and cackles evily. 
-Smitty and <character>URL</character> stop hugging and look around. Bender is gone.</info>
+Smitty and URL stop hugging and look around. Bender is gone.</info>
 
-<character>URL</character>
-Aww man, he got away!
+<speak who="URL">
+Aww man, he got away!</speak>
 
-<character>SMITTY</character>
-I guess this is why chief says no hugging.
+<speak who="SMITTY">
+I guess this is why chief says no hugging.</speak>
 
 <info>Time Lapse. The Penguins Unlimited group heads for the Penguins 
-Unlimited <character>HQ</character>.</info>
+Unlimited HQ.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Good work everyone. I suggest you all 
 go get some sleep. Me, well I'm gonna 
 stay up all night singing songs about 
-penguins in a fine piercing tenor.
+penguins in a fine piercing tenor.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Has anyone seen Bender? (shouting) Bender? 
-Here robot robot robot.
+Here robot robot robot.</speak>
 
 <info>Penguins Unlimited HQ Rec Room. Fry and Zoidberg play on a games 
 console. Enter Leela.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hey, why weren't you Kong donkeys outside 
-cleaning up?
+cleaning up?</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 They sent us inside for doing an unsatisfactory 
-job.  (sadly) And eating penguin eggs.
+job.  (sadly) And eating penguin eggs.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You ate most of them. So, where's Captain 
 Bender? Off catastrophising some other 
-planet?
+planet?</speak>
 
 <info>He chuckles. Zoidberg slaps him.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Dammit Fry! He may have done wrong, 
-but he's still your captain.
+but he's still your captain.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm worried about him. He didn't come 
-back with the group.
+back with the group.</speak>
 
-<character>FRY</character>
-He didn't?
+<speak who="FRY">
+He didn't?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No. And with windchill it's 20 degrees 
 below absolute zero. I'd better go find 
-him.
+him.</speak>
 
 <info>She pulls her hood over her head and starts to leave. Fry grabs 
 her shoulder.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait. Let me. Bender and I have our 
 disagreements, but we're still friends 
 and I'm gonna show him what that means. 
-To the ship.
+To the ship.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Why don't you just walk? He was only 
-about 20 yards from here.
+about 20 yards from here.</speak>
 
-<character>FRY</character>
-Madam, I am in command now.
+<speak who="FRY">
+Madam, I am in command now.</speak>
 
 <info>He walks out and Zoidberg follows him.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Such a man. I'd follow him to hell and 
-back I would.
+back I would.</speak>
 
-<info>Outside Penguins Unlimited <character>HQ</character>. The ship takes off and reverses 
+<info>Outside Penguins Unlimited HQ. The ship takes off and reverses 
 away from the building.</info>
 
 <info>Pluto Surface. Night has fallen and the penguins and Bender 
@@ -671,9 +671,9 @@ are asleep. Bender snores. The penguins suddenly wake up and
 start walking. Bender, still asleep, walks with them. He wakes 
 up and starts panicking.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What the?  What's this water made of? 
-Ice? Forget this!
+Ice? Forget this!</speak>
 
 <info>He swims away but a killer whale grabs hold of him � la R2-D2 
 in The Empire Strikes Back and starts throwing him around, diving 
@@ -686,31 +686,31 @@ system starts scanning local lifeforms. The penguins. He resets
 to penguin mode and starts loading penguin language. Tasks: 1) 
 Acquire Food. 2) Frolic. He stands up and looks around.</info>
 
-<character>PENGUIN #1</character>
-(in penguin) Full of fish?
+<speak who="PENGUIN #1">
+(in penguin) Full of fish?</speak>
 
-<character>BENDER</character>
-(in penguin) Not entirely.
+<speak who="BENDER">
+(in penguin) Not entirely.</speak>
 
-<character>PENGUIN #1</character>
-(in penguin) Then let's fish.
+<speak who="PENGUIN #1">
+(in penguin) Then let's fish.</speak>
 
 <info>The penguins and Bender head back towards the lake.</info>
 
 <info>Ship's Cockpit. Fry flys the ship through space and Zoidberg 
 look anxiously through the window.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Captain, I don't think we're on Pluto 
 any longer. In fact, we may have left 
-space as we know it.
+space as we know it.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Then where are we? You said you knew 
-how to navigate.
+how to navigate.</speak>
 
-<character>ZOIDBERG</character>
-(shouting) Stop yelling at me!
+<speak who="ZOIDBERG">
+(shouting) Stop yelling at me!</speak>
 
 <info>He bursts into tears.</info>
 
@@ -739,141 +739,141 @@ of one penguin, followed by an arrow, followed by lots of penguins.
 Free Waterfall Sr stands at a podium in front of the board. Hippies 
 are on seats around the room.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Folks it's worse than we thought. Seems 
 dark matter is nature's sex drug. It's 
 like a perverted trail mix of penguin 
 estrogen, penguin Viagra and Spanish 
-penguin fly. Why, it's making them ultra-fertile.
+penguin fly. Why, it's making them ultra-fertile.</speak>
 
-<character>LEELA</character>
-How ultra?
+<speak who="LEELA">
+How ultra?</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Well your garden variety penguin lays 
 one egg a year. Since the spill our 
 penguins have been laying six eggs every 
 15 minutes.  Also the eggs hatch in 
 only 12 hours.  Also the males are laying 
-eggs.
+eggs.</speak>
 
 <info>The hippies gasp again. A man faints and a doctor rushes to 
 him.</info>
 
-<character>DOCTOR</character>
-This man is over-gasped.
+<speak who="DOCTOR">
+This man is over-gasped.</speak>
 
 <info>He and another hippy carry the man out.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 If the birds keep multiplying soon there'll 
 be too many to count.  Before long they'll 
 exhaust their food supply and starve 
-to death.
+to death.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh if only we hadn't flown penguins 
 to Pluto and dumped oil on them, this 
 might never have happened. Can't we 
-stop them from multiplying?
+stop them from multiplying?</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Yes I reckon it is our responsibility. 
-And thankfully we have a plan.
+And thankfully we have a plan.</speak>
 
-<character>LEELA</character>
-What is it? We'll do anything.
+<speak who="LEELA">
+What is it? We'll do anything.</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Everyone grab your guns. I declare penguin 
-hunting season officially open.
+hunting season officially open.</speak>
 
 <info>He pulls out a gun and cocks it and so do the other hippies. 
 Leela looks around in horror.</info>
 
-<info>Outside Penguins Unlimited <character>HQ</character>. The penguins have multiplied 
+<info>Outside Penguins Unlimited HQ. The penguins have multiplied 
 so much that most of the once ice-covered landscape outside the 
 building is now filled with a sea of penguins.</info>
 
 <info>Cut to: Penguins Unlimited HQ Rec Room. The hippies clean out 
 their guns while Leela protests the penguins' innocence.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You can't shoot penguins. Isn't there 
-some way to prevent them from breeding?
+some way to prevent them from breeding?</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Cold showers don't work on Antarctic 
 creatures. Now surely you agree that 
 a quick semi-painless death is a darn 
-sight better than weeks of starvation.
+sight better than weeks of starvation.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well...I suppose...but...I mean...I 
 joined Penguins Unlimited to love penguins, 
-not to hunt them.
+not to hunt them.</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 This time the two are one and the same! 
 Now are you with us or are you gonna 
-let innocent penguins suffer?
+let innocent penguins suffer?</speak>
 
 <info>He pulls back a curtain. Outside the penguins are squashed up 
 the window like those healthy people in the Star Trek episode 
 Wink Of An Eye. Leela takes a step back.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 (crying) Oh God it's inhuman! It's like 
-Hong Kong! I'll do it!
+Hong Kong! I'll do it!</speak>
 
-<info>Outside Penguins Unlimited <character>HQ</character>. Leela is holding a gun.</info>
+<info>Outside Penguins Unlimited HQ. Leela is holding a gun.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 That's a good old fashioned gun. Simple 
-point-and-click interface. Rifle check!
+point-and-click interface. Rifle check!</speak>
 
 <info>The hunters cock their guns and laugh.</info>
 
-<character>HUNTER #1</character>
-Oh yeah!
+<speak who="HUNTER #1">
+Oh yeah!</speak>
 
-<character>HUNTER #2</character>
-Wee doggy!
+<speak who="HUNTER #2">
+Wee doggy!</speak>
 
-<character>LEELA</character>
-Hey, you're enjoying this.
+<speak who="LEELA">
+Hey, you're enjoying this.</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Look nobody enjoys shooting penguins. 
 But if you have to shoot penguins, well 
-you might as well enjoy it.
+you might as well enjoy it.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm sorry but if it's fun in any way 
-it's not environmentalism.
+it's not environmentalism.</speak>
 
-<character>WATERFALL SR</character>
-Oh really? How 'bout blowing up dams?
+<speak who="WATERFALL SR">
+Oh really? How 'bout blowing up dams?</speak>
 
-<character>LEELA</character>
-Yeah...that is fun.
+<speak who="LEELA">
+Yeah...that is fun.</speak>
 
 <info>He cocks his gun.</info>
 
-<character>WATERFALL SR</character>
-Let's conservate!
+<speak who="WATERFALL SR">
+Let's conservate!</speak>
 
 <info>Outside Ship. The ship glides through space...with a giant space-squid 
 holding onto it. Fry screams.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 (shouting; from ship) It's been an honour 
-to serve under you sir!
+to serve under you sir!</speak>
 
 <info>Pluto Surface. Leela walks over the icy surface with her gun. 
 She crawls to a ledge and sees a flock of penguins.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Alright, this is for their own good. 
 Don't leave orphans. Gotta kill entire 
 families.  But they're so cute. No! 
@@ -882,200 +882,200 @@ a little butler. I...I can't look.
 (crying) Oh no! What have I done?  Oh 
 you poor little guy! I'm so sorry I 
 - Bender?  What's going on? Were you 
-hiding out with these little guys?
+hiding out with these little guys?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Of course not. Filthy ice rats. Scat! 
 Shoo!  Gah! What are you doing? Get 
-away!
+away!</speak>
 
-<character>LEELA</character>
-Aww, they love you!
+<speak who="LEELA">
+Aww, they love you!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well I don't love them.  Aww!  I don't 
 know why but when I look down at their 
 little faces, it makes me wanna puke! 
-In a good way!
+In a good way!</speak>
 
 <info>They hear some guns firing and turn around and see the hunters.</info>
 
-<character>PENGUINS</character>
+<speak who="PENGUINS">
 (in penguin) Stand still. It's our only 
-hope.
+hope.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (in penguin) That's Puffin talk. Now 
-follow me!
+follow me!</speak>
 
 <info>He runs away and they follow. Leela turns to the hunters.</info>
 
-<character>LEELA</character>
-Stop! Stop shooting! It's me, Leela.
+<speak who="LEELA">
+Stop! Stop shooting! It's me, Leela.</speak>
 
 <info>A hunter shoots off a bit of her hood.</info>
 
-<character>HUNTER #2</character>
-Sorry.
+<speak who="HUNTER #2">
+Sorry.</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Why aren't you firing randomly into 
 those birds little lady? Don't you wanna 
-help 'em?
+help 'em?</speak>
 
-<character>LEELA</character>
-Not this way.
+<speak who="LEELA">
+Not this way.</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 What? Why you're not a tree-hugging 
-kook at all!
+kook at all!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look, I don't know if shooting penguins 
 will help the environment or not. But 
 I do know that the decision shouldn't 
 be in the hands of people who just wanna 
-kill for fun.
+kill for fun.</speak>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 Leela, you may just be farming some 
 free-range truth there.  On the other 
 hand we just made up 200 pounds of batter 
 for penguin tempura. OK boys, it's them 
-or us!
+or us!</speak>
 
 <info>They cock their guns.</info>
 
-<character>LEELA</character>
-No!
+<speak who="LEELA">
+No!</speak>
 
 <info>They get ready to shoot but the penguins are gone.</info>
 
-<character>WATERFALL SR</character>
-Hey where'd they - ?
+<speak who="WATERFALL SR">
+Hey where'd they - ?</speak>
 
-<character>BENDER</character>
-(shouting) Attack!
+<speak who="BENDER">
+(shouting) Attack!</speak>
 
 <info>He and the penguins are standing on a ledge behind the hunters. 
 They slide down the ledge head first towards the hunters. Leela 
 dives out of the way and the penguins swarm at the hunters.</info>
 
-<character>HUNTER #1</character>
-Whoa!
+<speak who="HUNTER #1">
+Whoa!</speak>
 
-<character>HUNTER #2</character>
-Ow!
+<speak who="HUNTER #2">
+Ow!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (in penguin) We will fight them on the 
-beaches! We will fight them on the glaciers!
+beaches! We will fight them on the glaciers!</speak>
 
 <info>Some penguins catch up with Waterfall and he falls over. They 
 engulf him and start to eat him.</info>
 
-<character>WATERFALL SR</character>
+<speak who="WATERFALL SR">
 (shouting) Make sure they use every 
-part of my body!
+part of my body!</speak>
 
 <info>Waterfall's father - a man with a silly hat, a big beard and 
 braces - shakes his fist at the penguins.</info>
 
-<character>OLD MAN WATERFALL</character>
-(shouting) I'll avenge your death son!
+<speak who="OLD MAN WATERFALL">
+(shouting) I'll avenge your death son!</speak>
 
 <info>Leela and Bender watch the penguin feast.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 They used to be such peaceful birds. 
-I suppose this was your doing.
+I suppose this was your doing.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yep. It's like I taught 'em. If it ain't 
 black and white - peck scratch and bite! 
 Now to take off my tuxedo.  Guys, it's 
-me! Your lovable dictator! Uh-oh!
+me! Your lovable dictator! Uh-oh!</speak>
 
 <info>The penguins start to chase them. One pecks Bender's shiny metal 
 ass. They come to the top of an ice hill and peer over the other 
 side. It is very steep.</info>
 
-<character>LEELA</character>
-Oh, if only we had a toboggan.
+<speak who="LEELA">
+Oh, if only we had a toboggan.</speak>
 
 <info>She looks Bender up and down.</info>
 
 <info>Time Lapse. They both slide down the mountain.</info>
 
-<character>BENDER</character>
-Faster! Faster!
+<speak who="BENDER">
+Faster! Faster!</speak>
 
 <info>Leela - the toboggan - slides down the hillside faster. They 
 slide onto a piece of ice jutting out into the water. Bender 
 stomps across it and cracks it and it floats away from the land. 
 The penguins watch them float away.</info>
 
-<character>LEELA</character>
-Phew!
+<speak who="LEELA">
+Phew!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh phew!  Oh right they can swim. It's 
-all coming back to me now.
+all coming back to me now.</speak>
 
 <info>The penguins climb onto the ice block and Bender and Leela back 
 away to the other side. The penguins surround them. The Planet 
 Express ship flies overhead.</info>
 
-<character>LEELA</character>
-It's Fry!
+<speak who="LEELA">
+It's Fry!</speak>
 
-<character>BENDER</character>
-Wiggles?
+<speak who="BENDER">
+Wiggles?</speak>
 
 <info>Fry lands the ship on the other side of the ice block. It's 
 weight tips the ice back and the penguins slide down it. The 
 whale appears on the other side and the penguins slide into it's 
 mouth � la Orca.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, at least it'll help reduce their 
-population.
+population.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah, life is hilariously cruel.  Permission 
-to come aboard Wiggles?
+to come aboard Wiggles?</speak>
 
 <info>Fry pulls him up onto the lift.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Granted. We can't take off without our 
-captain.
+captain.</speak>
 
 <info>He takes off Bender's hat and gives it to him. Leela coughs. 
 She is still hanging on to the edge of the ice block.</info>
 
-<character>BENDER</character>
-Oh, and bring my toboggan.
+<speak who="BENDER">
+Oh, and bring my toboggan.</speak>
 
 <info>Ship's Cockpit. Fry flies the ship away from Pluto.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 So Leela, were you able to help the 
-penguins?
+penguins?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well sure. I mean...not really...I mean...nature 
 will work itself out. It can't screw 
 things up any worse than we did trying 
-to fix things right?
+to fix things right?</speak>
 
-<character>FRY</character>
-(mumbling) I 'unno.
+<speak who="FRY">
+(mumbling) I 'unno.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ah, quit your worrying. Thanks to my 
 shining influence those stupid birds'll 
-do just fine.
+do just fine.</speak>
 
 <info>Cut to: Pluto Surface. The shadows of two penguins creep over 
 two abandoned guns. They pick the guns up, point them at each 

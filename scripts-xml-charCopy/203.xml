@@ -7,105 +7,105 @@ Episode 203
 <author>Ken Keeler</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-<info>A view of the <character>WNYW</character> television building in New York. The caption 
+<info>A view of the WNYW television building in New York. The caption 
 "Earth: 1999" appears on the bottom of the screen.</info>
 
-<info>Cut to: <character>WNYW</character> Corridor. Fry hums as he walks through the corridor 
+<info>Cut to: WNYW Corridor. Fry hums as he walks through the corridor 
 carrying a pizza box and a six pack of beer. He opens a door 
 marked "<character>WNYW</character> Control Room". Next to the door an "On Air" sign 
 is lit up.</info>
 
-<info>Cut to: <character>WNYW</character> Control Room. He walks through the door. In the 
+<info>Cut to: WNYW Control Room. He walks through the door. In the 
 room is a technician surrounded by broadcasting equipment.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Pizza delivery! Wow, so this is a real 
-TV station, huh?
+TV station, huh?</speak>
 
-<character>TECHNICIAN</character>
-Well, it's a Fox affiliate.
+<speak who="TECHNICIAN">
+Well, it's a Fox affiliate.</speak>
 
-<character>FRY</character>
-What are you showing right now?
+<speak who="FRY">
+What are you showing right now?</speak>
 
 <info>The technician presses a button and a show's title appears on 
 some screens.</info>
 
-<character>TECHNICIAN</character>
+<speak who="TECHNICIAN">
 Single Female Lawyer. It's the season 
-finale. Wanna watch?
+finale. Wanna watch?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Ah, I dunno. That's a chick show. I 
 prefer programmes of the genre "world's 
-blankiest blank".
+blankiest blank".</speak>
 
-<character>TECHNICIAN</character>
+<speak who="TECHNICIAN">
 She is wearing the world's shortiest 
-skirt.
+skirt.</speak>
 
-<character>FRY</character>
-I'm in!
+<speak who="FRY">
+I'm in!</speak>
 
 <info>He sits down and the technician tosses him a can of L�brau. 
 On the screen is a judge and the single female lawyer, who bears 
 an uncanny resemblance to Calista Flockhart. In fact the entire 
 show is pretty much Ally McBeal.</info>
 
-<character>JUDGE</character>
+<speak who="JUDGE">
 Counselor, I remind you that it's unethical 
 to sleep with your client. If you really 
 care about the outcome of the case, 
-you should sleep with me.
+you should sleep with me.</speak>
 
-<character>SINGLE FEMALE LAWYER</character>
+<speak who="SINGLE FEMALE LAWYER">
 Your Honour, it's bad enough to proposition 
 a single female lawyer in court, but 
-this is a unisex bathroom.
+this is a unisex bathroom.</speak>
 
-<character>JUDGE</character>
-Overruled, counselor!
+<speak who="JUDGE">
+Overruled, counselor!</speak>
 
 <info>He grabs her and they kiss. A cubicle door opens and a stenographer 
 appears with a machine.</info>
 
-<character>STENOGRAPHER</character>
-Could you repeat that last part?
+<speak who="STENOGRAPHER">
+Could you repeat that last part?</speak>
 
 <info>Fry yawns and stretches and knocks over a can of beer. The equipment 
 fizzles, crackles and the screens turn to static.</info>
 
-<character>TECHNICIAN</character>
+<speak who="TECHNICIAN">
 Oh, my God! You've knocked Fox of the 
-air!
+air!</speak>
 
-<character>FRY</character>
-Pfft! Like anyone on Earth cares.
+<speak who="FRY">
+Pfft! Like anyone on Earth cares.</speak>
 
-<info>In a pullback sequence lifted from Contact the <character>WNYW</character> transmitter 
+<info>In a pullback sequence lifted from Contact the WNYW transmitter 
 transmits the signal through the clouds, away from Earth, and 
 out of the solar system to a planet called Omicron Persei 8 which 
 intercepts the signal 1000 years later.</info>
 
 <info>Cut to: Omicronian Living Room. Two huge green aliens, Lrrr 
-and Nd-Nd, watch Single Female Lawyer on their small oval <character>TV</character>.</info>
+and Nd-Nd, watch Single Female Lawyer on their small oval TV.</info>
 
-<character>STENOGRAPHER</character>
-Could you repeat that last par--
+<speak who="STENOGRAPHER">
+Could you repeat that last par--</speak>
 
 <info>The picture cuts to static. Lrrr hits the TV with his fist.</info>
 
-<character>LRRR</character>
+<speak who="LRRR">
 This is an outrage! I demand to know 
 what happened to the plucky lawyer and 
-her compellingly short garment.
+her compellingly short garment.</speak>
 
 <info>The static on the TV changes to the Fox logo.</info>
 
-<character>FOX ANNOUNCER</character>
+<speak who="FOX ANNOUNCER">
 Due to technical difficulties, we now 
 bring you eight animated shows in a 
-row.
+row.</speak>
 
 <info>Lrrr growls and vaporises the TV with a laser.</info>
 
@@ -115,31 +115,31 @@ row.
 Fry is holding a can of Slurm and Bender a can of beer. Enter 
 Hermes.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 What in the name of Bob Marley's ghost? 
-Get to work, you lazy boat bag!
+Get to work, you lazy boat bag!</speak>
 
 <info>He rolls up the paper and hits Bender with it.</info>
 
-<character>BENDER</character>
-Ow!
+<speak who="BENDER">
+Ow!</speak>
 
 <info>Fry chuckles. Hermes hits him.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Ow! Hey, quit it, Hermes. It's Labor 
-Day.
+Day.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Labor Day? That phoney-baloney holiday 
 crammed down our throats by fat-cat 
-union gangsters?
+union gangsters?</speak>
 
-<character>FRY</character>
-That's the one.
+<speak who="FRY">
+That's the one.</speak>
 
-<character>HERMES</character>
-Hot damn, a day off!
+<speak who="HERMES">
+Hot damn, a day off!</speak>
 
 <info>He takes off his jacket and shirt and sits between Fry and Bender. 
 Bender hands him a beer. Enter the rest of the crew wearing and 
@@ -151,46 +151,46 @@ the navel and is carrying a picnic bag; Farnsworth is carrying
 a red parasol and wearing 3/4 length shorts, though he is still 
 wearing his lab coat and slippers.</info>
 
-<character>LEELA</character>
-Who's up for one last summer beach trip?
+<speak who="LEELA">
+Who's up for one last summer beach trip?</speak>
 
 <info>Bender and Hermes leap up.</info>
 
-<character>BENDER</character>
-Aw, yeah!
+<speak who="BENDER">
+Aw, yeah!</speak>
 
-<character>HERMES</character>
-Ready Freddy!
+<speak who="HERMES">
+Ready Freddy!</speak>
 
 <info>He unzips his trousers and they fall around his ankles revealing 
 his swimming trunks underneath. Fry stays on the couch.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 (unenthusiastic) Eh, I think I'll just 
-stay here.
+stay here.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, you're wasting your life sitting 
 in front of that <character>TV</character>. You need to get 
-out and see the real world.
+out and see the real world.</speak>
 
-<info>She walks between him and the <character>TV</character>. Fry peers around her.</info>
+<info>She walks between him and the TV. Fry peers around her.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 But this is <character>HDTV</character>. It's got better resolution 
-than the real world!
+than the real world!</speak>
 
 <info>Leela sighs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Everyone's too polite to say anything 
-but you're covered with bed sores.
+but you're covered with bed sores.</speak>
 
-<character>FRY</character>
-Not covered!
+<speak who="FRY">
+Not covered!</speak>
 
-<character>LEELA</character>
-Just get in the car.
+<speak who="LEELA">
+Just get in the car.</speak>
 
 <info>Car. Leela drives the crew across the desert in a dark blue 
 convertible. With her in the front are Farnsworth and Fry. Fry 
@@ -201,28 +201,28 @@ three of them.</info>
 <info>Monument Beach Car Park. Leela parks in the packed car park 
 and the crew get out.</info>
 
-<character>FARNSWORTH</character>
-Ah, here we are: Monument Beach!
+<speak who="FARNSWORTH">
+Ah, here we are: Monument Beach!</speak>
 
 <info>Fry gazes at the beach. People climb the Sphinx of Giza and 
 alongside it is St Peter's Tower, the White House, Randy's Donuts, 
 the Heads of Easter Island, the Leaning Tower of Pisa and Mount 
 Rushmore.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait, Mount Rushmore and the Leaning 
 Tower of Pisa? I didn't know they were 
-both in New York!
+both in New York!</speak>
 
 <info>Leela unpacks some things from the boot.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 They are now. In the 2600's New Yorkers 
 elected a super-villain governor, and 
-he stole most of the world's monuments.
+he stole most of the world's monuments.</speak>
 
-<character>BENDER</character>
-Truly a great man. Look at him up there.
+<speak who="BENDER">
+Truly a great man. Look at him up there.</speak>
 
 <info>He looks up at the super-villain and whistles. The governor's 
 head has been carved into the mountain next to the other presidents' 
@@ -235,13 +235,13 @@ butter and rubs it across his head and groans. Hermes walks across
 in front of Zoidberg, Amy and Leela with a metal detector. It 
 beeps rapidly.</info>
 
-<character>HERMES</character>
-Aha!  Found you!
+<speak who="HERMES">
+Aha!  Found you!</speak>
 
 <info>Bender's head pops up from the sand.</info>
 
-<character>BENDER</character>
-OK, now you go hide.  Nice knowin' you.
+<speak who="BENDER">
+OK, now you go hide.  Nice knowin' you.</speak>
 
 <info>He runs to a sunbed, picks up a drink and closes his eyes.</info>
 
@@ -252,143 +252,143 @@ He groans. The ball lands on Zoidberg's claw and bursts. He frowns
 and throws it into a pile of at least 20 other burst balls. Farnsworth 
 stands up.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Come on, Zoidberg, I passed it right 
-to you.
+to you.</speak>
 
 <info>Zoidberg scoffs.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 I've had it with this game! I'm going 
-for a scuttle!
+for a scuttle!</speak>
 
 <info>He crouches down and scuttles into the water.</info>
 
 <info>Time Lapse. Leela is back on her sunbed and Bender is on his.</info>
 
-<character>BENDER</character>
-OK, everyone, come and get it!
+<speak who="BENDER">
+OK, everyone, come and get it!</speak>
 
 <info>He opens his door. He has turned his chest cabinet into a grill 
 and there are four cooked burgers on a wire rack. He takes one 
 out and puts it in a bun and hands it to Fry. Fry takes a bite.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Ah, just like my dad used to make ... 
-until McDonald's fired him.
+until McDonald's fired him.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Bite my red-hot glowing ass.  Wait a 
 minute. Red-hot glowing ass?  (calmly) 
 I'll be right back!  Ow ow ow ow ow 
-ow ow ow ow!  Aw, yeah!
+ow ow ow ow!  Aw, yeah!</speak>
 
 <info>Amy, Leela and Fry eat their burgers while Farnsworth sleeps. 
 Nibbler watches, licking his lips. Amy's burger slips out of 
 the roll and onto her chest. Nibbler leaps up.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 No, Nibbler!  (whispering) Psst, Professor, 
-I need another bikini.
+I need another bikini.</speak>
 
 <info>Farnsworth wakes up.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Eh ... wha?  Oh, oh, OK, I think there's 
-one can left.  Oh, my.
+one can left.  Oh, my.</speak>
 
 <info>She sprays the straps on her back and turns around.</info>
 
-<character>AMY</character>
-There. How do I look?
+<speak who="AMY">
+There. How do I look?</speak>
 
 <info>Farnsworth wiggles his glasses.</info>
 
-<character>FARNSWORTH</character>
-Like a cheap French harlot.
+<speak who="FARNSWORTH">
+Like a cheap French harlot.</speak>
 
-<character>AMY</character>
-French?!
+<speak who="AMY">
+French?!</speak>
 
 <info>Time Lapse. Fry finishes sculpting a sandcastle. A blonde guy 
 stands over him and kicks the sandcastle in his face. Leela gasps 
 and Fry spits the sand out. The guy turns to Leela.</info>
 
-<character>BULLY</character>
+<speak who="BULLY">
 Say, doll-face, how'd you like to make 
-time with a real man?
+time with a real man?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No. I'm not attracted to bullies. No 
 matter how big and ...  ... handsome 
-they are.
+they are.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 It's OK, Leela, go ahead. I got a lot 
-of work to do.
+of work to do.</speak>
 
-<character>BULLY</character>
+<speak who="BULLY">
 Uh, sir, you don't understand. I'm a 
 professional beach bully. I pretend 
 to steal your girl, you punch me, I 
 go down, she swoons, you slip me 50 
-bucks.
+bucks.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 50 bucks?! Not even if she was my girlfriend. 
-You take her.
+You take her.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry! Although I suppose we could go 
-for a walk along the beach.
+for a walk along the beach.</speak>
 
-<character>BULLY</character>
-Uh, no thanks, ma'am, I'm actually gay.
+<speak who="BULLY">
+Uh, no thanks, ma'am, I'm actually gay.</speak>
 
 <info>He runs off and Leela sighs.</info>
 
 <info>Seabed. Zoidberg scuttles around the water and happens upon 
 a pile of eight fish skeletons. He starts slurping them.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Uh-oh.  Help! Help!  Bender, you gotta 
 spring me. I'll never survive in here; 
-I'm too pretty!
+I'm too pretty!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Alright, alright, I'll bust you out. 
-Cheese it!
+Cheese it!</speak>
 
 <info>Then run off.</info>
 
 <info>Monument Beach. Fry finishes reconstructing his sandcastle.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Voila. The greatest sandcastle ever 
 built. This is the kind of castle King 
 Arthur would have lived in -- If he 
-were a fiddler crab.
+were a fiddler crab.</speak>
 
 <info>Leela and Farnsworth gather round.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's very nice. We should get a picture 
-before the tide comes in.
+before the tide comes in.</speak>
 
 <info>Amy, Zoidberg and Bender arrive.</info>
 
-<character>FRY</character>
-Ooh, yeah. Anyone have a camera?
+<speak who="FRY">
+Ooh, yeah. Anyone have a camera?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Right here, buddy.  Wait, I wanna be 
 in the picture too.  Pretend you're 
-happy.
+happy.</speak>
 
 <info>They smile.</info>
 
-<character>ZOIDBERG</character>
-Yay!
+<speak who="ZOIDBERG">
+Yay!</speak>
 
 <info>The smiles fade when a huge shadow creeps over them. The camera 
 goes off as the crew look up and see a huge grey alien saucer 
@@ -397,21 +397,21 @@ watches as it stops above the White House. The middle opens up
 and it blows up the White House � la Independence Day. Everyone 
 screams.</info>
 
-<character>LEELA</character>
-Oh, my God!
+<speak who="LEELA">
+Oh, my God!</speak>
 
 <info>Hermes pokes his head up through the sand.</info>
 
-<character>HERMES</character>
-What in Babylon?
+<speak who="HERMES">
+What in Babylon?</speak>
 
 <info>People flee as a fleet of saucers reduce the monuments to rubble 
 and knock over the Leaning Tower of Pisa. A smaller saucer flies 
 past the staff and destroys Fry's sandcastle. Fry falls to his 
 knees and scoops up the sand.</info>
 
-<character>FRY</character>
-(screaming) Nooo!
+<speak who="FRY">
+(screaming) Nooo!</speak>
 
 <info>Car. The crew return to New New York with alien saucers chasing 
 them.</info>
@@ -419,61 +419,61 @@ them.</info>
 <info>Outside Planet Express. The car does a 180-degree skid outside 
 the building and the crew run inside.</info>
 
-<character>HERMES</character>
-Faster!
+<speak who="HERMES">
+Faster!</speak>
 
 <info>A saucer blows up the car.</info>
 
 <info>Cut to: Planet Express: Lounge. Fry peeps through the blinds 
 and turns to the rest.</info>
 
-<character>FRY</character>
-We're all gonna die, aren't we?
+<speak who="FRY">
+We're all gonna die, aren't we?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh, I should think so. Although last 
 time aliens invaded all they did was 
 force the most intelligent of us to 
 pair off and mate continuously. (chuffed) 
-Oh, yes!
+Oh, yes!</speak>
 
 <info>He sprays his throat. Bender turns on the TV to the news. Linda 
 presents with a smile.</info>
 
-<character>LINDA</character>
+<speak who="LINDA">
 Once again, today's winning lotto number 
 was 4. In other news, alien saucers 
 continue to rain destruction upon Earth. 
 We now go live to an emergency address 
-by Earth President McNeal.
+by Earth President McNeal.</speak>
 
 <info>A picture in the corner fills the screen. McNeal, a middle-aged 
 man with brown hair and a croaky voice, addresses people from 
 different nations. A "President McNeal" caption is on the bottom 
 of the screen.</info>
 
-<character>MCNEAL</character>
+<speak who="MCNEAL">
 Ladies and gentlemen, our course is 
 clear. The time has come to knuckle 
 under. To get down on all fours and 
 really lick boot. Give our alien masters 
-whatever they want a--
+whatever they want a--</speak>
 
 <info>The TV cuts to static briefly then changes to Lrrr. His is now 
 wearing a big red cape and is surrounded by several other Omicronians. 
 He speaks into an old-fashioned microphone.</info>
 
-<character>LRRR</character>
+<speak who="LRRR">
 People of Earth, I am Lrrr of the planet 
 Omicron Persei 8.  Is this thing on? 
 Now then: We want the one you call 
 "McNeal". Give us McNeal or we will 
 lay waste to your cities with our anti-monument 
-laser. We demand McNeal!
+laser. We demand McNeal!</speak>
 
 <info>The picture cuts out then back to a totally flabbergasted McNeal.</info>
 
-<character>MCNEAL</character>
+<speak who="MCNEAL">
 Uh, as I was saying ...  ... mankind 
 would sooner perish than kowtow to outrageous 
 alien demands for this McNeal ... whoever 
@@ -481,65 +481,65 @@ he is. Am I right?  And now, the man
 who will lead us in our proud struggle 
 for freedom, fresh from his bloody triumph 
 over the pacifists of the Gandhi Nebula, 
-25-star General Zapp Brannigan!
+25-star General Zapp Brannigan!</speak>
 
 <info>He steps aside and Zapp takes the podium. The people cheer and 
 applaud.</info>
 
-<character>MAN</character>
-Yeah!
+<speak who="MAN">
+Yeah!</speak>
 
 <info>Fry applauds and Leela groans.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, look, Leela, it's that idiotic 
-windbag you slept with.
+windbag you slept with.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 The Earth is under attack. Can't we 
-just forget about that?
+just forget about that?</speak>
 
-<character>BENDER</character>
-Evidently not.
+<speak who="BENDER">
+Evidently not.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Call me cocky, but if there's an alien 
 out there I can't kill, I haven't met 
 him and killed him yet. But I can't 
 go it alone.  That's why I'm ordering 
 every available ship to report for duty. 
 Anyone without a ship should secure 
-a weapon and fire wildly into the air.
+a weapon and fire wildly into the air.</speak>
 
 <info>Leela stands up.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, you heard the windbag: We've been 
-drafted. Everyone into the ship.
+drafted. Everyone into the ship.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Whoa, whoa, whoa, whoa, hold on. I refuse 
-to fight. I'm a conscientious objector.
+to fight. I'm a conscientious objector.</speak>
 
-<character>FRY</character>
-A what?
+<speak who="FRY">
+A what?</speak>
 
-<character>BENDER</character>
-You know, a coward.
+<speak who="BENDER">
+You know, a coward.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Since this is an emergency all robots 
 will now have their patriotism circuits 
-activated.
+activated.</speak>
 
 <info>He holds up a remote control, points it at the camera and presses 
 the button. Bender's antenna top flashes red and beeps and he 
 stands up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 It is every robot's duty to give his 
 life for the good of humanity.  Oh, 
-crap!
+crap!</speak>
 
 <info>A fleet of ships, including a yellow school bus and the Planet 
 Express ship, fly away from Earth towards the hangar bay of the 
@@ -549,63 +549,63 @@ orbiting Nimbus.</info>
 recruits a briefing. He walks down the ranks with Kif at his 
 side.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 We're all from different cultures here. 
 Some of you are white, some of you are 
 black.  You're brown.  And you're silver. 
 But I don't care if your skin's red 
 or tan or Chinese. You're all going 
 to have to learn to die together.  Am 
-I right, soldier?
+I right, soldier?</speak>
 
-<character>BENDER</character>
-Well actually I--  Sir, yes sir! Sir!
+<speak who="BENDER">
+Well actually I--  Sir, yes sir! Sir!</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Remember, our mission is simple: Destroy 
-all aliens!
+all aliens!</speak>
 
 <info>Kif raises his hand.</info>
 
-<character>KIF</character>
-Um, uh, not me, sir.
+<speak who="KIF">
+Um, uh, not me, sir.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Oh, yes, right. Nobody destroy Kif ... 
 (quietly) unless you have to.  (talking) 
 Oh ho ho! The luscious Captain Leela. 
 This is turning into one very sex-ay 
 struggle for the future of the human 
-race!
+race!</speak>
 
-<character>LEELA</character>
-Thanks, but I'm not technically human.
+<speak who="LEELA">
+Thanks, but I'm not technically human.</speak>
 
-<character>ZAPP</character>
-Right, right. Nobody destroy Leela either.
+<speak who="ZAPP">
+Right, right. Nobody destroy Leela either.</speak>
 
 <info>Nimbus Crew Bunkroom. The recruits are assembled around the 
 beds.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 The key to victory is discipline, and 
 that means a well-made bed. You will 
 practise until you can make your bed 
-in your sleep.
+in your sleep.</speak>
 
-<character>FRY</character>
-You mean while I'm sleeping in it?
+<speak who="FRY">
+You mean while I'm sleeping in it?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 You won't have time for sleeping, soldier. 
 Not with all the bed-making you'll be 
-doing.
+doing.</speak>
 
 <info>Nimbus Briefing Room. The recruits are dressed in DOOP uniforms 
 and Zapp briefs them � la the briefing in Star Wars. He points 
 at a display of an Omicronian saucer.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 The alien mothership is in orbit here. 
 If we can hit that bullseye the rest 
 of the dominoes will fall like a house 
@@ -614,36 +614,36 @@ great plans, my strategy is so simple
 an idiot could have devised it. On my 
 command all ships will line up and file 
 directly into the alien death cannons, 
-clogging them with wreckage.
+clogging them with wreckage.</speak>
 
 <info>Fry raises his hand.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 W-Wouldn't it make more sense to send 
-the robots in first a--
+the robots in first a--</speak>
 
 <info>Bender starts to choke him � la Homer Simpson to Bart in The 
 Simpsons. His antenna flashes again and he stops choking Fry 
 and salutes.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Sir, I volunteer for a suicide mission. 
-Aw, cut it out!
+Aw, cut it out!</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 You're a brave robot, son. But when 
 I'm in command every mission's a suicide 
 mission. Which reminds me.  Leela, perhaps 
 before we head into battle you'd like 
 to make love to me, in case one of us 
-doesn't come back.
+doesn't come back.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Maybe we should wait 'til afterwards, 
-in case neither of us comes back.
+in case neither of us comes back.</speak>
 
-<character>ZAPP</character>
-Here's hoping.
+<speak who="ZAPP">
+Here's hoping.</speak>
 
 <info>He salutes by tapping his heart, saluting from his head and 
 blowing a kiss.</info>
@@ -654,19 +654,19 @@ blowing a kiss.</info>
 <info>Cut to: Ships Laser Turret. Fry is at the controls wearing a 
 helmet that looks like Luke Skywalker's.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm gonna be a science-fiction hero, 
 just like Uhura, or Captain Janeway, 
-or Xena!
+or Xena!</speak>
 
 <info>Leela is on a small screen.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, this isn't TV, it's real life. 
-Can't you tell the difference?
+Can't you tell the difference?</speak>
 
-<character>FRY</character>
-Sure, I just like TV better.
+<speak who="FRY">
+Sure, I just like TV better.</speak>
 
 <info>He makes gunfire noises.</info>
 
@@ -679,21 +679,21 @@ another laser beam.</info>
 beep and smoke pours from the ceiling. She brushes the hair out 
 of her eye and looks across the room.</info>
 
-<character>LEELA</character>
-Bender, damage report.
+<speak who="LEELA">
+Bender, damage report.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 The auxiliary power's out, and they 
-spilled my cocktail.
+spilled my cocktail.</speak>
 
 <info>He looks at the tipped over glass lying on the computer and 
 the olive rolls off the edge.</info>
 
 <info>Cut to: Ships Laser Turret. Fry narrows his eyes.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Alright, scumwads. This one's for Bender's 
-cocktail!
+cocktail!</speak>
 
 <info>The Planet Express ship flies straight towards the saucer and 
 Fry lets rip with 12 blasts from the laser. Leela turns the ship 
@@ -706,22 +706,22 @@ and cheers.</info>
 
 <info>Cut to: Ships Cockpit. Leela stands up and waves her arms around.</info>
 
-<character>LEELA</character>
-We did it! We won!
+<speak who="LEELA">
+We did it! We won!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (sadly) Yeah, but it'll never bring 
 back my martini.  (normal) Well, who 
-wants a martini?
+wants a martini?</speak>
 
 <info>He takes a cocktail mixer out and shakes it.</info>
 
 <info>Time Lapse. Fry, Leela and Bender chink their glasses and raise 
 a toast. The communication screen comes down from the ceiling.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Good work, everyone. The mothership 
-is destroyed.
+is destroyed.</speak>
 
 <info>Through the window they see several white dots filling the starfield.</info>
 
@@ -731,19 +731,19 @@ the Nimbus.</info>
 
 <info>Cut to: Nimbus Briefing Room.</info>
 
-<character>ZAPP</character>
-What the hell is that thing?
+<speak who="ZAPP">
+What the hell is that thing?</speak>
 
-<character>KIF</character>
-It appears to be the mothership.
+<speak who="KIF">
+It appears to be the mothership.</speak>
 
-<character>ZAPP</character>
-Then what did we just blow up?
+<speak who="ZAPP">
+Then what did we just blow up?</speak>
 
 <info>Kif checks the screen beside him.</info>
 
-<character>KIF</character>
-The Hubble Telescope.
+<speak who="KIF">
+The Hubble Telescope.</speak>
 
 <info>The battle continues. The real mothership destroys more ships 
 and a Slurm lorry.</info>
@@ -751,15 +751,15 @@ and a Slurm lorry.</info>
 <info>Cut to: Nimbus Briefing Room. Zapp and Kif watch the battle 
 on screen.</info>
 
-<character>ZAPP</character>
-(shouting) Stop exploding, you cowards!
+<speak who="ZAPP">
+(shouting) Stop exploding, you cowards!</speak>
 
 <info>Cut to: Ships Cockpit. Leela drops her martini glass.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 This is hopeless.  If we're gonna get 
 blown to bits, we might as well do it 
-in the comfort of our own home.
+in the comfort of our own home.</speak>
 
 <info>She pulls a lever on the seat.</info>
 
@@ -771,32 +771,32 @@ and Bender. The woman is blonde and has two eyes; the man has
 brown hair that is combed down and he wears a green jacket; the 
 robot is very crude and clunky.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 You'll be the captain, you'll be the 
 delivery boy, and you'll be the alcoholic, 
 foul-mouthed--  Oh, God, you're alive. 
 I mean, thank God you're alive!  Sorry, 
 check back in three days, a week at 
-the most.
+the most.</speak>
 
-<info>They leave and Lrrr crackles onto the <character>TV</character>.</info>
+<info>They leave and Lrrr crackles onto the TV.</info>
 
-<character>LRRR</character>
-We want McNeal! Stop stalling!
+<speak who="LRRR">
+We want McNeal! Stop stalling!</speak>
 
 <info>The scene changes to the news studio.</info>
 
-<character>LINDA</character>
-And now a rebuttal from President McNeal.
+<speak who="LINDA">
+And now a rebuttal from President McNeal.</speak>
 
 <info>McNeal addresses the same people as before. Zapp is back with 
 them.</info>
 
-<character>MCNEAL</character>
+<speak who="MCNEAL">
 The people of Earth remain united in 
 my refusal to hand over myself. Total 
 annihalation is a small price to pay 
-compared with--
+compared with--</speak>
 
 <info>Zapp steps forward and puts a sack over McNeal. As he drags 
 him away the people applaud and a man kicks the sack.</info>
@@ -805,173 +805,173 @@ him away the people applaud and a man kicks the sack.</info>
 the back of the building and there is a door at ground level. 
 Zapp puts the sack down, knocks and runs a few feet back.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 (shouting) Here he is! Come and get 
-him!
+him!</speak>
 
 <info>The door opens and Lrrr and Nd-Nd are standing behind it. McNeal 
 wriggles out of the sack and gasps.</info>
 
-<character>LRRR</character>
-You are not McNeal.
+<speak who="LRRR">
+You are not McNeal.</speak>
 
-<character>ZAPP</character>
-(simultaneously) Huh?
+<speak who="ZAPP">
+(simultaneously) Huh?</speak>
 
-<character>MCNEAL</character>
-(simultaneously) Huh?
+<speak who="MCNEAL">
+(simultaneously) Huh?</speak>
 
 ND-ND
 You are not the one we want.
 
-<character>MCNEAL</character>
+<speak who="MCNEAL">
 Oh, thank you. Thank you, glorious 
-masters! I--
+masters! I--</speak>
 
 <info>Lrrr whips out a laser and vaporises McNeal. He crumbles into 
 a pile of smoking dust. Zapp squeals and takes a step back.</info>
 
-<character>LRRR</character>
-Give us McNeal!
+<speak who="LRRR">
+Give us McNeal!</speak>
 
-<character>ZAPP</character>
-That was McNeal.
+<speak who="ZAPP">
+That was McNeal.</speak>
 
 ND-ND
 No, McNeal: The single female lawyer.
 
-<character>LRRR</character>
-She wears miniskirts and is promiscuous.
+<speak who="LRRR">
+She wears miniskirts and is promiscuous.</speak>
 
 <info>Zapp rubs his chin.</info>
 
-<character>ZAPP</character>
-(sexfully) Really?
+<speak who="ZAPP">
+(sexfully) Really?</speak>
 
-<info>Cut to: Planet Express: Lounge. The staff are watching on <character>TV</character>.</info>
+<info>Cut to: Planet Express: Lounge. The staff are watching on TV.</info>
 
-<character>FRY</character>
-Miniskirts? That sounds familiar.
+<speak who="FRY">
+Miniskirts? That sounds familiar.</speak>
 
 <info>Cut to: Outside Capitol Building.</info>
 
-<character>LRRR</character>
+<speak who="LRRR">
 Surely you know McNeal. She is an unmarried 
 human female struggling to succeed in 
-a human male's world.
+a human male's world.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Maybe that's just her excuse for being 
-incompetent.
+incompetent.</speak>
 
-<character>LRRR</character>
+<speak who="LRRR">
 (shouting) Silence! (talking) We will 
 accept no more decoys.  This is the 
-McNeal.
+McNeal.</speak>
 
 <info>Cut to: Planet Express: Lounge. Fry stares at the headshot.</info>
 
-<character>FRY</character>
-Wait, I know her.
+<speak who="FRY">
+Wait, I know her.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You do not, you big fat liar. You don't 
-know anyone. All you do is watch <character>TV</character>.
+know anyone. All you do is watch <character>TV</character>.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That's where I know her from. She's 
 Jenny McNeal. She was a character on 
 a TV show back in the 20th century, 
-Single Female Lawyer.
+Single Female Lawyer.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well if they're hoping to see a TV show 
 that hasn't existed for a thousand years, 
-pfft, they are royally boned.
+pfft, they are royally boned.</speak>
 
-<character>LRRR</character>
+<speak who="LRRR">
 We will raise your planet's temperature 
 by one million degrees a day, for five 
 days, unless we see McNeal at 9pm tomorrow 
--- 8 central!
+-- 8 central!</speak>
 
 <info>The staff gasp.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 (disappointed) I'm beginning to think 
-there'll be no forced mating at all.
+there'll be no forced mating at all.</speak>
 
 <info>Lrrr and Nd-Nd's saucer hovers above New New York.</info>
 
 <info>Cut to: Planet Express: Meeting Room. The entire staff are assembled 
 around the table. Leela paces around.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 They're going to destroy the entire 
 Earth if they don't see some stupid 
-TV show about some bimbo lawyer?
+TV show about some bimbo lawyer?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 It's crazy! How could they even know 
-about a show from a thousand years ago?
+about a show from a thousand years ago?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Well, Omicron Persei 8 is about a thousand 
 light years away. So the electro-magnetic 
 waves would just recently have gotten 
-there. You see--
+there. You see--</speak>
 
-<character>FRY</character>
-Magic. Got it.
+<speak who="FRY">
+Magic. Got it.</speak>
 
 <info>Amy types "single female lawyer" into a search engine and a 
 page pops up.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Check this out: Back in 1999 the season 
 finale of Single Female Lawyer was interrupted 
 by technical problems. Apparently some 
-zidiot spilled Coke on the transmitter.
+zidiot spilled Coke on the transmitter.</speak>
 
-<character>FRY</character>
-Beer -- I would think.
+<speak who="FRY">
+Beer -- I would think.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 They must just wanna see that episode. 
-Let's find a tape and give it to 'em.
+Let's find a tape and give it to 'em.</speak>
 
 <info>Amy searches some more.</info>
 
-<character>AMY</character>
-There aren't any copies left.
+<speak who="AMY">
+There aren't any copies left.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No, there wouldn't be. Most videotapes 
 from that era were damaged in 2443 during 
-the Second Coming of Jesus.
+the Second Coming of Jesus.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Y'know, I saw the first 30 seconds of 
 that episode. If I could make up an 
-ending, maybe we could act it out ourselves.
+ending, maybe we could act it out ourselves.</speak>
 
-<character>ZOIDBERG</character>
-I could make the costumes.
+<speak who="ZOIDBERG">
+I could make the costumes.</speak>
 
 <info>He cuts some material with his claw.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I have an old five-megawatt broadcasting 
-tower in the attic.
+tower in the attic.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (dramatically) And I, I could be an 
-acting coach!
+acting coach!</speak>
 
 <info>He whizzes his hand around.</info>
 
-<character>FRY</character>
-Let's put on a show.
+<speak who="FRY">
+Let's put on a show.</speak>
 
 <info>Planet Express: Hangar. The ship has been moved to make way 
 for a courtroom set. Hermes and Farnsworth makes some last minute 
@@ -979,20 +979,20 @@ perfections to the set, Bender arranges things on the defendant's
 table and Zoidberg wheels a clothes rail loaded with frilly things 
 past Fry, Leela and Amy. Fry is sat on a chair with the script.</info>
 
-<character>FRY</character>
-OK, Leela, you'll be starring as Jenny--
+<speak who="FRY">
+OK, Leela, you'll be starring as Jenny--</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Uh-uh, forget it. A: I'm camera shy, 
 and B: I get tongue tied in front of 
-an audience armed with death rays.
+an audience armed with death rays.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Plus, you don't really have the thighs 
-for a miniskirt.
+for a miniskirt.</speak>
 
-<character>LEELA</character>
-Gimme the script.
+<speak who="LEELA">
+Gimme the script.</speak>
 
 <info>She snatches it from Fry.</info>
 
@@ -1005,30 +1005,30 @@ the roof and jabs an aerial into it.</info>
 <info>Planet Express: Hangar. On the courtroom set Fry calls for his 
 cast.</info>
 
-<character>FRY</character>
-Places, everyone.
+<speak who="FRY">
+Places, everyone.</speak>
 
 <info>Amy puts the finishing touches to Leela's make-up. She is dressed 
 in a green suit and high heels.</info>
 
-<character>AMY</character>
-OK ... all set!
+<speak who="AMY">
+OK ... all set!</speak>
 
 <info>Leela turns around. Amy has attached a googly eye to the side 
 of Leela's face. She flicks the pupil and it rolls around.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Lights!  Camera one!  Camera two!  Camera 
-three!
+three!</speak>
 
 <info>Something whirrs in Bender's head but nothing else moves.</info>
 
 <info>Omicronian Saucer. Lrrr and Nd-Nd sit in recliners in front 
 of a TV screen with six other Omicronians sat around them.</info>
 
-<character>LRRR</character>
+<speak who="LRRR">
 Prepare the water cooler, that we may 
-gather around it later and discuss things.
+gather around it later and discuss things.</speak>
 
 <info>He pulls the recliner lever and flicks the TV on. Bender holds 
 up a crude sign with "Single Female Lawyer" written on it and 
@@ -1043,8 +1043,8 @@ Wearing sexy miniskirts...
 
 <info>Cut to: Planet Express: Hangar.</info>
 
-<character>BENDER</character>
-(singing) ...And being self-reliant.
+<speak who="BENDER">
+(singing) ...And being self-reliant.</speak>
 
 (talking) Hey I'm pretty good!
 
@@ -1052,33 +1052,33 @@ Wearing sexy miniskirts...
 the judge, Zoidberg is the prosecutor and Leela is the defendant. 
 Farnsworth and Leela are holding their scripts.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Uh, (reading) Jenny McNeal, you are 
 charged with jury-tampering in last 
 week's case ...  ... on account of your 
 hot, naked affair with the foreman. 
-How do you plead?
+How do you plead?</speak>
 
 <info>Leela stands up and looks at her script.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Your Honour, I move for a mistrial, 
 on the grounds that I'm also having 
 a hot, naked affair with the foreman 
-of this jury.
+of this jury.</speak>
 
 <info>Amy and Hermes sit in the jury box with 10 cardboard people. 
 Hermes waves.</info>
 
-<character>HERMES</character>
-(sexfully) I'll see you during the recess!
+<speak who="HERMES">
+(sexfully) I'll see you during the recess!</speak>
 
 <info>Cut to: Omicronian Saucer.</info>
 
-<character>LRRR</character>
+<speak who="LRRR">
 If McNeal wishes to be taken seriously 
 why does she not simply tear the judge's 
-head off?
+head off?</speak>
 
 ND-ND
 It is true what they say; "Women are 
@@ -1087,174 +1087,174 @@ Omicron Persei 9".
 
 <info>Cut to: Planet Express: Hangar.</info>
 
-<character>FARNSWORTH</character>
-(reading) Your witness, Prosecutor Ramirez.
+<speak who="FARNSWORTH">
+(reading) Your witness, Prosecutor Ramirez.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Gracias.  Single Female Lawyer, where 
-were you on the night of August 23rd?
+were you on the night of August 23rd?</speak>
 
-<character>LEELA</character>
-Sleeping with you.
+<speak who="LEELA">
+Sleeping with you.</speak>
 
-<character>ZOIDBERG</character>
-Aha!
+<speak who="ZOIDBERG">
+Aha!</speak>
 
 <info>He jabs his claw in her fake eye and pulls it off her face. 
 He sniffs it and eats it. Leela leafs through the script in a 
 panic.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Uh, g-- uh, getting back to the, uh, 
 matter, uh-uh, if it please the court 
 ... (whispering) Fry, there's nothing 
 else here. You only wrote two pages 
-of dialogue.
+of dialogue.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, it took an hour to write. I thought 
-it would take an hour to read.
+it would take an hour to read.</speak>
 
 <info>Leela sighs.</info>
 
-<character>LEELA</character>
-What are we supposed to do now?
+<speak who="LEELA">
+What are we supposed to do now?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I don't know, I don't know. Just say 
 anything. As long as it's compelling, 
-mesmerising, a tour de force.
+mesmerising, a tour de force.</speak>
 
-<character>LEELA</character>
-Uh...
+<speak who="LEELA">
+Uh...</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 (reading) What say you, Single Female 
-Lawyer?
+Lawyer?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I say ... I'm giving up the law.  And 
 I'm giving up being single. Your Honour, 
-will you marry me?
+will you marry me?</speak>
 
 <info>Amy and Hermes gasp. Bender makes dramatic incidental music 
 noises. Fry buries his face in his hands.</info>
 
-<character>FRY</character>
-No, no! Go to commercial!
+<speak who="FRY">
+No, no! Go to commercial!</speak>
 
 <info>Bender puts the Single Female Lawyer card in front of the camera.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 We'll be back after this word from Crazy 
-Bender's Discount Stereo.
+Bender's Discount Stereo.</speak>
 
 <info>He retracts his eye.</info>
 
-<character>FRY</character>
-Married? Jenny can't get married.
+<speak who="FRY">
+Married? Jenny can't get married.</speak>
 
-<character>LEELA</character>
-Why not? It's clever, it's unexpected.
+<speak who="LEELA">
+Why not? It's clever, it's unexpected.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But that's not why people watch <character>TV</character>. 
 Clever things make people feel stupid, 
 and unexpected things make them feel 
-scared.
+scared.</speak>
 
 <info>Lrrr crackles onto the screen.</info>
 
-<character>LRRR </character><info>ON TV</info>
+<speak who="LRRR"><info>ON TV</info>
 Attention, McNeal. Your unexpected marriage 
 plan scares us. You stole our hearts 
 as a single female lawyer, and so shall 
-you remain -- or else!
+you remain -- or else!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You see? TV audiences don't want anything 
 original. They wanna see the same thing 
-they've seen a thousand times before.
+they've seen a thousand times before.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (� la Arnold Jackson) Whatchoo talkin' 
-'bout, Fry?
+'bout, Fry?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Trust me on this. While other people 
 were out living their lives, I wasted 
 mine watching TV, because deep down 
 I knew it might one day help me save 
 the world. Plus, I would have lost my 
 Workman's Comp if I hadd gone outside. 
-Now just read these cue cards.
+Now just read these cue cards.</speak>
 
 <info>He scrawls something on some big cards with a black marker.</info>
 
 <info>Time Lapse. The cast take their places. Fry holds up the cue 
 cards.</info>
 
-<character>FRY</character>
-And action!
+<speak who="FRY">
+And action!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 (reading) Miss McNeal, I'm afraid I 
 must decline your offer of marriage. 
 For, you see, I'm dying. Cough, then 
-fall over dead.
+fall over dead.</speak>
 
 <info>He smiles and just stares ahead.</info>
 
-<character>ZOIDBERG</character>
-(reading; unmoved) My God, he's dead.
+<speak who="ZOIDBERG">
+(reading; unmoved) My God, he's dead.</speak>
 
 <info>Farnsworth checks his pulse.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 (reading) I will now make my closing 
 statement. With my fianc� deceased ... 
 ... I hereby return to my single female 
 lawyer career. No matter what any man 
-says.
+says.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 We find the defendant vulnerable yet 
-spunky!
+spunky!</speak>
 
-<character>ZOIDBERG</character>
-(cheering) Hooray!
+<speak who="ZOIDBERG">
+(cheering) Hooray!</speak>
 
-<character>AMY</character>
-(cheering) Hooray!
+<speak who="AMY">
+(cheering) Hooray!</speak>
 
-<character>FRY</character>
-And ... cut!
+<speak who="FRY">
+And ... cut!</speak>
 
-<character>BENDER</character>
-(singing) Single Female Lawyer,
+<speak who="BENDER">
+(singing) Single Female Lawyer,</speak>
 
 Having lot's of sex--
 
 (talking) Huh?
 
-<info>Lrrr cuts onto the <character>TV</character>. Nd-Nd drinks from the water cooler behind 
+<info>Lrrr cuts onto the TV. Nd-Nd drinks from the water cooler behind 
 him.</info>
 
-<character>LRRR </character><info>ON TV</info>
+<speak who="LRRR"><info>ON TV</info>
 Attention, McNeal. We are reasonably 
 satisfied with the events we have seen. 
 Overall I would rate it a C+, OK, not 
 great.  As a result, we will not destroy 
 your planet. But neither will we provide 
-you with our recipe for immortality.
+you with our recipe for immortality.</speak>
 
-<character>FRY</character>
-Way to overact ,Zoidberg!
+<speak who="FRY">
+Way to overact ,Zoidberg!</speak>
 
-<character>LRRR </character><info>ON TV</info>
+<speak who="LRRR"><info>ON TV</info>
 And now we must return to our planet, 
 to catch the end of a thousand-year-old 
-Leno monologue.
+Leno monologue.</speak>
 
 <info>He sweeps his cape over him and runs offscreen.</info>
 
@@ -1264,14 +1264,14 @@ Arab and a clown hugs a nun.</info>
 
 <info>Cut to: Planet Express: Lounge. The crew watch and cheer.</info>
 
-<character>BENDER</character>
-You did it, Fry!
+<speak who="BENDER">
+You did it, Fry!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yep.  It was just a matter of knowing 
 the secret of all TV shows; At the end 
 of the episode, everything's always 
-right back to normal.
+right back to normal.</speak>
 
 <info>Pullback: New New York is a burning ruin. There is a crashed 
 ship in the river and the flaming arm of the Statue Of Liberty 

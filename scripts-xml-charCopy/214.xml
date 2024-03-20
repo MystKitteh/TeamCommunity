@@ -13,7 +13,7 @@ Episode 214
 <info>Planet Express: Hermes' Office. Hermes takes a form out of the 
 in-tray.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Finally, the last form of the day. Welcome 
 to stampy-town. Population - five!  
 And now for the finishing touch.  Ah, 
@@ -22,38 +22,38 @@ of Manila! A letter from the Central
 Bureaucracy!  (reading) Attention Hermes 
 Conrad, you are about to recieve a letter 
 from the Central Bureaucracy.  My God! 
-It's from the Central Bureaucracy!
+It's from the Central Bureaucracy!</speak>
 
 <info>Planet Express: Lounge. Fry and Bender sit on the couch with 
-their feet up watching <character>TV</character>. Enter Leela.</info>
+their feet up watching TV. Enter Leela.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm having a poker game tonight with 
 some friends from my old cryogenics 
-job. You guys interested?
+job. You guys interested?</speak>
 
-<character>BENDER</character>
-I don't know. I only gamble with chumps.
+<speak who="BENDER">
+I don't know. I only gamble with chumps.</speak>
 
-<character>FRY</character>
-I'll play.
+<speak who="FRY">
+I'll play.</speak>
 
-<character>BENDER</character>
-I'm in.
+<speak who="BENDER">
+I'm in.</speak>
 
 <info>Enter Zoidberg.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Leela, Fry, robot. No matter what it 
-is you're doing tonight, I'm available.
+is you're doing tonight, I'm available.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We're playing poker. but I'm warning 
-you, my friends are serious players.
+you, my friends are serious players.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Bah, big shots. I say let the dice do 
-the talking.
+the talking.</speak>
 
 <info>Time Lapse. A green card table has been set up in the middle 
 of the room. Leela rips open a packet of Crudit�s and pours a 
@@ -61,178 +61,178 @@ powder onto the table. She adds water and a plant grows from
 the powder and drops things like fruit and pretzels onto a tray. 
 Enter Hermes humming.</info>
 
-<character>FRY</character>
-Wow, you look happy. Is someone fired?
+<speak who="FRY">
+Wow, you look happy. Is someone fired?</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Better. The Central Bureaucracy is conducting 
 an inspection tomorrow. I'll finally 
 be promoted to grade 35, the 35th highest 
-grade there is.
+grade there is.</speak>
 
 <info>He starts to walk out the other door.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hermes, wait! We're having a poker party. 
 Stay and whip off a batch of your famous 
-jerk dip.
+jerk dip.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Sorry. I spent all day putting my office 
 in order. Now I got to go home and relax 
 the traditional Jamaican way - a glass 
-of warm milk and good night sleep.
+of warm milk and good night sleep.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Jamaican? I thought you were some kinda 
-outer space potato man.
+outer space potato man.</speak>
 
 <info>The doorbell rings.</info>
 
-<character>LEELA</character>
-Ah that must be my old boss.
+<speak who="LEELA">
+Ah that must be my old boss.</speak>
 
 <info>Planet Express: Entrance. Leela opens the door. Enter Ipgee 
 in his cryogenics uniform.</info>
 
-<character>IPGEE</character>
-Hello Leela, you're fired.
+<speak who="IPGEE">
+Hello Leela, you're fired.</speak>
 
-<character>LEELA</character>
-I know.
+<speak who="LEELA">
+I know.</speak>
 
-<character>IPGEE</character>
+<speak who="IPGEE">
 I'm sorry but it's just that you're 
-over a year late for work at this point.
+over a year late for work at this point.</speak>
 
 <info>Enter Terry and Lou in their lab coats.</info>
 
-<character>TERRY </character>(<character>DRAMATICALLY</character>)
-Let the games begin!
+<speak who="TERRY">(<character>DRAMATICALLY</character>)
+Let the games begin!</speak>
 
 <info>Planet Express: Lounge. The poker players are sat around the 
 table.</info>
 
-<character>IPGEE</character>
+<speak who="IPGEE">
 So I told Leela, "Your request for a 
 date is most flattering but I must decline." 
 These office romances never work out. 
 Afterall, that is how I met my horrible 
-wife.
+wife.</speak>
 
 <info>Everyone except Leela laughs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 But you never wore your ring. I didn't 
-know you had a wife.
+know you had a wife.</speak>
 
-<character>IPGEE</character>
+<speak who="IPGEE">
 And my wife doesn't know I have a job. 
 I keep my personal and professional 
-lives serparate.
+lives serparate.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 C'mon, let's deal. You'll have plenty 
-of time to talk when you're poor.
+of time to talk when you're poor.</speak>
 
 <info>He puts on some shades.</info>
 
-<character>FRY</character>
-What's with the specs Bender?
+<speak who="FRY">
+What's with the specs Bender?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 They're my lucky shades. I stole them 
 off some lucky guy while his lucky seeing 
-eye dog was taking a whiz.
+eye dog was taking a whiz.</speak>
 
 <info>He takes the deck from Ipgee, puts them in his mouth, shuffles 
 them and deals them by spitting them out around the table.</info>
 
-<character>FRY</character>
-Hey!
+<speak who="FRY">
+Hey!</speak>
 
 <info>Four of his cards are stuck in an apple he is holding. Bender 
 spits one more card at him and it cuts off the fork in his hair. 
 Zoidberg fumbles with the hand he is dealt.</info>
 
-<character>ZOIDBERG</character>
-I can't spell anything with these cards.
+<speak who="ZOIDBERG">
+I can't spell anything with these cards.</speak>
 
 <info>Time Lapse. The game continues and Zoidberg has lost the shirt 
 off his back. Bender on the other hand enjoys a winning streak 
 as he wears Zoidberg's shirt and has a few piles of chips in 
 front of him. He hums.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Finally, I have a good claw. See?  Three 
 human females, a number and a king giving 
-himself brain surgery.
+himself brain surgery.</speak>
 
 <info>Fry tuts.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 It doesn't matter how many human females 
-you have, Bender's on a hot streak.
+you have, Bender's on a hot streak.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Uh, what can I say? Must be my lucky 
 shades!  Nothing, nothing, crap, crap, 
-garbage.  Read 'em and leak saltwater!
+garbage.  Read 'em and leak saltwater!</speak>
 
-<character>FRY</character>
-Oh man!
+<speak who="FRY">
+Oh man!</speak>
 
-<character>TERRY</character>
-My baby's milk money!
+<speak who="TERRY">
+My baby's milk money!</speak>
 
 <info>Bender takes his winnings and chuckles.</info>
 
-<character>IPGEE</character>
+<speak who="IPGEE">
 Oh I am broke. What will I tell my horrible 
-wife?
+wife?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 If I were you I'd be more worried about 
 that tapeworm going to town on your 
-intestines.
+intestines.</speak>
 
 <info>He starts to shuffle the pack again.</info>
 
-<character>IPGEE</character>
-Let me see those glasses.
+<speak who="IPGEE">
+Let me see those glasses.</speak>
 
 <info>Bender chokes on the cards and spits them out. Terry and Lou 
 stand up.</info>
 
-<character>BENDER</character>
-Um...uh...
+<speak who="BENDER">
+Um...uh...</speak>
 
 <info>Ipgee takes the glasses and looks through them.</info>
 
-<character>IPGEE</character>
-Oh my various gods! X-Ray specs!
+<speak who="IPGEE">
+Oh my various gods! X-Ray specs!</speak>
 
 <info>Bender scoops up his winnings and starts backing away from the 
 cryogenisists.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Guys, I swear those are prescription. 
 I need them for reading stuff - on the 
-other side of stuff.
+other side of stuff.</speak>
 
 <info>He walks back towards the door and backs into Zoidberg.</info>
 
-<character>LOU</character>
-Cheater!
+<speak who="LOU">
+Cheater!</speak>
 
-<character>IPGEE</character>
-Get him!
+<speak who="IPGEE">
+Get him!</speak>
 
-<character>TERRY</character>
-Break his neck!
+<speak who="TERRY">
+Break his neck!</speak>
 
-<character>ZOIDBERG</character>
-No don't hurt him! He's my best friend!
+<speak who="ZOIDBERG">
+No don't hurt him! He's my best friend!</speak>
 
 <info>Bender pushes him over and legs it.</info>
 
@@ -247,88 +247,88 @@ building, changes the sign from "Closed" to "Opening Soon" to
 <info>Cut to: Planet Express: Corridor. Hermes walks towards his office 
 and opens the door. Files and papers fall out.</info>
 
-<character>HERMES</character>
-Great cow of Moscow!
+<speak who="HERMES">
+Great cow of Moscow!</speak>
 
 <info>Cut to: Planet Express: Hermes' Office. The room is a wreck. 
 Electrical things sizzle, filing cabinets are overturned and 
 papers are littered around the room. Bender is in pieces. His 
 head pops out of his body.</info>
 
-<character>BENDER</character>
-Uh, it was ghosts! Big ones! And a tornado!
+<speak who="BENDER">
+Uh, it was ghosts! Big ones! And a tornado!</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Oh! I'll never pass inspection now! 
 They'll bust me lower than a limbo stick 
 - at carnival time.  (crying) And that's 
-as low as limbo sticks get.
+as low as limbo sticks get.</speak>
 
 <info>Fry puts his hand on Hermes' shoulder.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Aw hey c'mon don't worry. We'll watch 
-you clean up.
+you clean up.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 It's too late. The inspector will be 
-here in exactly one second.
+here in exactly one second.</speak>
 
 <info>Cut to: Planet Express: Corridor. The door opens and a woman 
 wearing a dark green suit walks in. Her hair is in a tight bun 
 and she wears glasses.</info>
 
-<character>HERMES</character>
-Who the hell are you?
+<speak who="HERMES">
+Who the hell are you?</speak>
 
-<character>MORGAN</character>
-Morgan Proctor, bureaucrat grade 19.
+<speak who="MORGAN">
+Morgan Proctor, bureaucrat grade 19.</speak>
 
-<character>HERMES</character>
-Hermes Conrad, bureaucrat grade 36.
+<speak who="HERMES">
+Hermes Conrad, bureaucrat grade 36.</speak>
 
 <info>They exchange papers and stamp them.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Enough friendly banter. Shall we begin 
-the inspection?
+the inspection?</speak>
 
-<character>HERMES</character>
-This way please.
+<speak who="HERMES">
+This way please.</speak>
 
 <info>He ushers her into his office.</info>
 
 <info>Cut to: Planet Express: Hermes' Office.</info>
 
-<character>FRY </character>(<character>WHISPERING</character>)
+<speak who="FRY">(<character>WHISPERING</character>)
 Jeez Hermes, you seem awfully calm about 
-this.
+this.</speak>
 
-<character>HERMES </character>(<character>WHISPERING</character>)
-Don't worry. I have a plan.
+<speak who="HERMES">(<character>WHISPERING</character>)
+Don't worry. I have a plan.</speak>
 
 <info>Planet Express: Attic Balcony. Hermes stands on the railings 
 around the balcony.</info>
 
-<character>HERMES </character>(<character>SHOUTING</character>)
-I'm going to jump!
+<speak who="HERMES">(<character>SHOUTING</character>)
+I'm going to jump!</speak>
 
 <info>The crew look up from street level.</info>
 
-<character>AMY </character>(<character>SHOUTING</character>)
-No!
+<speak who="AMY">(<character>SHOUTING</character>)
+No!</speak>
 
-<character>ZOIDBERG </character>(<character>SHOUTING</character>)
-No!
+<speak who="ZOIDBERG">(<character>SHOUTING</character>)
+No!</speak>
 
-<character>BENDER </character>(<character>SHOUTING</character>)
-Do a flip!
+<speak who="BENDER">(<character>SHOUTING</character>)
+Do a flip!</speak>
 
 <info>Cut to: Outside Planet Express.</info>
 
-<character>LEELA </character>(<character>SHOUTING</character>)
+<speak who="LEELA">(<character>SHOUTING</character>)
 Don't do it Hermes! You have so much 
-to live for!
+to live for!</speak>
 
 <info>Cut to: Planet Express: Attic Balcony.</info>
 
@@ -336,190 +336,190 @@ Farnsworth (shouting) ...Other people need it you know.
 
 <info>At street level LaBarbara's car screeches to a stop.</info>
 
-<character>LABARBARA </character>(<character>SHOUTING</character>)
-Husband! Nooo!
+<speak who="LABARBARA">(<character>SHOUTING</character>)
+Husband! Nooo!</speak>
 
 <info>Cut to: Outside Planet Express.</info>
 
-<character>HERMES</character>
-Outta my way wife...!
+<speak who="HERMES">
+Outta my way wife...!</speak>
 
 <info>Cut to: Planet Express: Attic Balcony.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 ...I wasn't cut out to be a bureaucrat 
 anyway. I'm only anal 78.36% of the 
 time. I'm not worthy to stamp a form. 
 So I'll stamp the pavement with my flabby 
-body.
+body.</speak>
 
-<character>MORGAN </character>(<character>SHOUTING</character>)
-Bureaucrat Conrad...!
+<speak who="MORGAN">(<character>SHOUTING</character>)
+Bureaucrat Conrad...!</speak>
 
 <info>Cut to: Outside Planet Express.</info>
 
-<character>MORGAN </character>(<character>SHOUTING</character>)
+<speak who="MORGAN">(<character>SHOUTING</character>)
 ...If you complete your death transaction 
 with out filing a suicide and/or falling 
 accident permit, you will be posthumously 
-demoted.
+demoted.</speak>
 
 <info>Cut to: Planet Express: Attic Balcony.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Life. Death. Either way I'm demoted 
-to a tiny cubicle.
+to a tiny cubicle.</speak>
 
 <info>Planet Express: Meeting Room. Hermes sits at the table shaking.</info>
 
-<character>HERMES</character>
-Sweet something of...of someplace.
+<speak who="HERMES">
+Sweet something of...of someplace.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 As your superior I hereby relieve you 
-of duty. Consider yourself on paid vacation.
+of duty. Consider yourself on paid vacation.</speak>
 
-<character>HERMES</character>
-Oh! The ultimate penalty.
+<speak who="HERMES">
+Oh! The ultimate penalty.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 I recommend the health cure on Spa 5, 
-the sauna planet. Here, read.
+the sauna planet. Here, read.</speak>
 
 <info>He hands a leaflet to LaBarbara.</info>
 
-<character>LABARBARA</character>
-Spa 5? Is it good?
+<speak who="LABARBARA">
+Spa 5? Is it good?</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Oh, it's wonderful! I don't know anything 
 about it but they send me a bucket of 
-krill for every patient I send.
+krill for every patient I send.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Naturally I'll have to assign a bureaucrat 
 to fill in for Hermes while he's away. 
-I assign me, I accept, welcome aboard.
+I assign me, I accept, welcome aboard.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Then it's settled. Hermes will relax 
-and Zoidberg will eat! Hurrah!
+and Zoidberg will eat! Hurrah!</speak>
 
 <info>Planet Express: Morgan's Office. Morgan changes Hermes' name 
 thing so it has her name on it. Fry, Leela and Bender are with 
 her.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 I've been reviewing your corporate records. 
 Regarding last Monday's delivery, why 
-did it take twice as long as scheduled?
+did it take twice as long as scheduled?</speak>
 
-<character>LEELA</character>
-Fry got his head stuck in a crater.
+<speak who="LEELA">
+Fry got his head stuck in a crater.</speak>
 
-<character>FRY </character>(<character>ASHAMED</character>)
-I thought it would fit.
+<speak who="FRY">(<character>ASHAMED</character>)
+I thought it would fit.</speak>
 
 <info>Morgan scribbles something down on a piece of paper.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 And during this period of head-crater 
-interaction, what were you doing?
+interaction, what were you doing?</speak>
 
 <info>She points at Bender.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Martini drinking contests with the autopilot. 
 I would've had him this time but we 
-ran out of olives.
+ran out of olives.</speak>
 
-<character>LEELA</character>
-I can explain.
+<speak who="LEELA">
+I can explain.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 You really think you can explain how 
 you left port without a full compliment 
-of olives? I think not.
+of olives? I think not.</speak>
 
-<character>LEELA </character>(<character>QUIETLY</character>)
-What is this, high school?
+<speak who="LEELA">(<character>QUIETLY</character>)
+What is this, high school?</speak>
 
-<character>MORGAN</character>
-Locker check!
+<speak who="MORGAN">
+Locker check!</speak>
 
 <info>Planet Express: Locker Room. Morgan opens Leela's locker. There 
 is a small purple bag on the top shelf and Leela's green jacket 
 is hanging in the bottom. The zip is halfway up the coat. Or 
 halfway down. Depends how you view life.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Why isn't this jacket in alphabetical 
-order?
+order?</speak>
 
-<character>LEELA</character>
-What?
+<speak who="LEELA">
+What?</speak>
 
-<character>MORGAN</character>
-The zipper. It should be at the bottom.
+<speak who="MORGAN">
+The zipper. It should be at the bottom.</speak>
 
 <info>She pulls it down and closes the locker. She opens Bender's 
 locker. On the shelf is a nut. She picks it up and shakes her 
 head.</info>
 
-<character>BENDER </character>(<character>ASHAMED</character>)
-Hey, sometimes a guy gets lonely.
+<speak who="BENDER">(<character>ASHAMED</character>)
+Hey, sometimes a guy gets lonely.</speak>
 
 <info>Morgan closes his locker and opens Fry's. Loads of empty cans 
 fall out and Slurm dribbles over them. Some socks and a blernsball 
 cap fall out too and flies buzz around the pile of rubbish. Morgan 
 steps back and looks horrified.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 I - I've never seen anything like this. 
-Why is there yoghurt in this cap?
+Why is there yoghurt in this cap?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh, I can explain that. See, it used 
 to be milk and, well, time makes fools 
-of us all.
+of us all.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 You are all dismissed. Fry, I will speak 
-to you alone.
+to you alone.</speak>
 
 <info>Fry gasps as Bender and Leela walk out and Morgan locks the 
 door.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh wait, this is the other Fry's locker. 
-I'm Phry with a "Ph."
+I'm Phry with a "Ph."</speak>
 
 <info>Fry gasps and pushes Morgan away.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 What the hell's going on? I thought 
-you were anti-dirty not pro-dirty.
+you were anti-dirty not pro-dirty.</speak>
 
 <info>She pushes him against the lockers.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 I'm surrounded by neat freaks everyday. 
 There's nothing kinkier to me than a 
-filthy slop-jock like you!
+filthy slop-jock like you!</speak>
 
-<character>FRY </character>(<character>BASHFUL</character>)
-Oh stop!
+<speak who="FRY">(<character>BASHFUL</character>)
+Oh stop!</speak>
 
 <info>She kisses him again then moves away and puts her glasses back 
 on.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Now listen you filthy pig. No-one can 
 know about us. If anyone asks I'll deny 
-it.
+it.</speak>
 
-<character>FRY</character>
-Just like very other girl I've dated.
+<speak who="FRY">
+Just like very other girl I've dated.</speak>
 
 <info>Outside Spa 5 Fitness Camp. From outside the building looks 
 like a pleasant fitness spa with nice trees and a sunny sky. 
@@ -532,16 +532,16 @@ healthy chip away at the walls of the mines. LaBarbara peddles
 on a bike which powers a conveyor belt and carries away everything 
 the miners chip off the walls.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Curse that Dr Zoidberg! If I get out 
 of here, he'll be looking down the business 
-end of a shrimp fork!
+end of a shrimp fork!</speak>
 
 <info>An Australian guy dressed in a vest and a hat turns around.</info>
 
-<character>AUSTRALIAN GUY</character>
+<speak who="AUSTRALIAN GUY">
 Give him one for me too mate. I don't 
-know why I go to him.
+know why I go to him.</speak>
 
 <info>A laser bolt flies past the two and hits the mine wall.</info>
 
@@ -550,66 +550,66 @@ know why I go to him.
 <info>Planet Express: Meeting Room. Morgan, Farnsworth, Leela, Fry 
 and Bender are sat around the table.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 ...and for those six and a half reasons, 
-I am demoting Leela to co-pilot.
+I am demoting Leela to co-pilot.</speak>
 
-<character>LEELA</character>
-Co-pilot? Under who?
+<speak who="LEELA">
+Co-pilot? Under who?</speak>
 
-<character>MORGAN</character>
-The autopilot.
+<speak who="MORGAN">
+The autopilot.</speak>
 
-<character>LEELA</character>
-That drunk?!
+<speak who="LEELA">
+That drunk?!</speak>
 
 <info>Bender laughs.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Mr Bender you are now in charge of co-ordinating 
-the Professor's bodily functions.
+the Professor's bodily functions.</speak>
 
 <info>Bender suddenly stops laughing.</info>
 
-<character>FARNSWORTH</character>
-That's a full time job.
+<speak who="FARNSWORTH">
+That's a full time job.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 And Fry, as for you, I am promoting 
 you to executive delivery boy. You will 
 no longer go on deliveries and you will 
-have your own office next to mine.
+have your own office next to mine.</speak>
 
-<character>FRY</character>
-All right!
+<speak who="FRY">
+All right!</speak>
 
 <info>He stands up and looks at Leela for a high five. She doesn't 
 respond. He turns to Bender. He doesnt respond either.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Mr Bender would you high five him so 
 we can continue this meeting?  And on 
-the rebound?  Meeting adjourned.
+the rebound?  Meeting adjourned.</speak>
 
 <info>Planet Express: Fry's Office. Fry has his feet up on his desk 
 and drinks a can of Slurm. He burps and wipes his mouth with 
 his tie.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 I can't figure why she's so nice to 
-you Fry.
+you Fry.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 She's a hateful monster this Morgan. 
 She scolded and hit me. I tell you she's 
-risking my friendship with her.
+risking my friendship with her.</speak>
 
 <info>Enter Bender covered in mud and twigs.</info>
 
-<character>LEELA</character>
-Bender, what happened to you?
+<speak who="LEELA">
+Bender, what happened to you?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Morgan made me walk the Professor. There 
 we were in the park when suddenly some 
 old lady says I stole her purse. I chucked 
@@ -618,46 +618,46 @@ coming. So had to hit her with this
 purse I found. Ah, the point is it's 
 Morgan's fault. That pencil pushing 
 scazwag.  Why if she were here I'd - 
-Uh oh is she behind me?
+Uh oh is she behind me?</speak>
 
 <info>He feels behind his head.</info>
 
-<character>MORGAN</character>
-No. I'm in front of you!
+<speak who="MORGAN">
+No. I'm in front of you!</speak>
 
 <info>Bender squeals.</info>
 
 <info>Robot Arms Apartments Corridor. The doorbell rings and Fry answers 
 it. Morgan is there.</info>
 
-<character>FRY</character>
-Morgan? It's 3am.
+<speak who="FRY">
+Morgan? It's 3am.</speak>
 
 <info>Cut to: Fry and Bender's Apartment.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 I know. A skunk knocked over my garbage 
 and suddenly all I could think of was 
 you.  My God, it's so...repulsive.  
-So uh, this is where you eat?
+So uh, this is where you eat?</speak>
 
-<character>FRY</character>
-Eat and sleep.
+<speak who="FRY">
+Eat and sleep.</speak>
 
 <info>He pulls the sheet away.</info>
 
-<character>MORGAN</character>
-Oh Fry!
+<speak who="MORGAN">
+Oh Fry!</speak>
 
 <info>She kisses him and pushes him onto the bed.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh wait, Bender's my rooommate. He could 
-be back any second.
+be back any second.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Not likely. I ordered him to flush out 
-the Professor's earwax.
+the Professor's earwax.</speak>
 
 <info>She takes off her glasses, pulls her hair out of the bun and 
 starts unbuttoning her suit.</info>
@@ -667,167 +667,167 @@ apartment holding something and walks in.</info>
 
 <info>Cut to: Fry and Bender's Apartment.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey Fry, I made you a candle with - 
 What the?  Oh now I see! Now I get 
 it. Now the pieces are falling into 
 place. The office, the promotion, that 
 dwarf in my book club who steals my 
 opinions.  It's all coming together 
-now!
+now!</speak>
 
 <info>Outside Robot Arms Apartments. Morgan zooms off in a taxi.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I must say this opens my eyes! Another 
-case closed my dear Watson.
+case closed my dear Watson.</speak>
 
-<character>FRY</character>
-Morgan, come back! He's stuck in a loop!
+<speak who="FRY">
+Morgan, come back! He's stuck in a loop!</speak>
 
-<character>BENDER</character>
-For I was blind but now I see!
+<speak who="BENDER">
+For I was blind but now I see!</speak>
 
 <info>Outside Planet Express.</info>
 
-<character>BENDER </character><info><character>FROM INSIDE</character></info>
-The cat's out of the bag now!
+<speak who="BENDER"><info><character>FROM INSIDE</character></info>
+The cat's out of the bag now!</speak>
 
 <info>Cut to: Planet Express: Fry's Office. Bender leans back in a 
 chair with a cigar in his mouth.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Mr Bender about last night. that was 
-just a...a misunderstanding.
+just a...a misunderstanding.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh you didn't understand? Well let me 
 explain. You......were having sex with 
-you.
+you.</speak>
 
 <info>He points at Morgan.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 No. You see, a bureaucrat of my rank 
-isn't supposed to fraternize.
+isn't supposed to fraternize.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 That's what makes it so juicy. Its the 
 forbidden fruit angle everybody loves. 
 First I'll say "You'll never guess who 
 saw Fry and Morgan doing it!" and they'll 
 say "Who Bender, who?" and I'll say 
-"It was lovable......old Bender."
+"It was lovable......old Bender."</speak>
 
 <info>Morgan has put something in the back of his neck. A 3.5" disk 
 comes out of the back of Bender's head and Morgan takes it.</info>
 
-<character>FRY</character>
-Hey, what did you do to him?
+<speak who="FRY">
+Hey, what did you do to him?</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 I downloaded his brain. Everything that 
 is Bender is right here. His mind, his 
-memories, his in-your-face interface.
+memories, his in-your-face interface.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But, but...Bender need brain...for...smart 
 making!  What did you do now? Stop doing 
-things!
+things!</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 I sent the disk to be filed at the Central 
 Bureaucracy. I did what I had to do 
-Fry. He was a bad robot.
+Fry. He was a bad robot.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 No, he was a bad friend. I want him 
-back right now.
+back right now.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Then you should have filed a request 
-20 years ago.
+20 years ago.</speak>
 
 <info>Fry growls.</info>
 
-<character>FRY</character>
-I'm sick of you and your bureaucracy.
+<speak who="FRY">
+I'm sick of you and your bureaucracy.</speak>
 
 <info>He slides everything off his desk. Morgan grins.</info>
 
-<character>MORGAN</character>
-Dirty boy! Dirty boy!
+<speak who="MORGAN">
+Dirty boy! Dirty boy!</speak>
 
 <info>She dives on him.</info>
 
 <info>Time Lapse. Morgan is gone and the rest of the crew are there.</info>
 
-<character>LEELA</character>
-You and Morgan were having an affair?
+<speak who="LEELA">
+You and Morgan were having an affair?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I couldn't help it. She loved me because 
 of the part of me that's a slob and 
 I loved her because of the part of me 
-that's desperate.
+that's desperate.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Poor Bender. Without his brain he's 
 become all quiet and helpful. We've 
 got to go to the Central Bureaucracy 
-and get that disk back!
+and get that disk back!</speak>
 
-<character>AMY</character>
-Yeah!
+<speak who="AMY">
+Yeah!</speak>
 
-<character>FARNSWORTH</character>
-Oh yes we must, yes.
+<speak who="FARNSWORTH">
+Oh yes we must, yes.</speak>
 
 <info>There is a long pause.</info>
 
-<character>AMY</character>
-Why?
+<speak who="AMY">
+Why?</speak>
 
 <info>Everyone looks around trying to think.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, those arguments aside, we're still 
-going.
+going.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 You can't just waltz into the Central 
 Bureaucracy. It's a tangled web of red 
 tape and regulations. I've never been 
 but a friend of mine went completely 
-mad trying to find the washroom there.
+mad trying to find the washroom there.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Then we'll need a guide. Someone who's 
-been there before.
+been there before.</speak>
 
-<character>FARNSWORTH</character>
-Oh I've been there. Lot's of times!
+<speak who="FARNSWORTH">
+Oh I've been there. Lot's of times!</speak>
 
 <info>He laughs insanely.</info>
 
 <info>Spa 5 Fitness Camp. Hermes watches the Australian guy pushing 
 a mining cart.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Look at that. The carts go out full 
 but they come in empty. It's criminally 
-inefficient.
+inefficient.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 But don't you see? They could increase 
 efficiency 4% if they used the empty 
-carts to haul in heavy mining machinery.
+carts to haul in heavy mining machinery.</speak>
 
 <info>He pulls a chain and a huge drill head falls into Australian 
 Guy's cart. He grumbles.</info>
 
-<character>AUSTRALIAN GUY</character>
-Oh Lord!
+<speak who="AUSTRALIAN GUY">
+Oh Lord!</speak>
 
 <info>Hermes smiles.</info>
 
@@ -837,38 +837,38 @@ on it. The queue to get in snakes back for miles. Fry, Leela,
 Farnsworth, Amy and Bender join the end of it behind an old man 
 with a Methusala-like beard.</info>
 
-<character>FRY</character>
-Man, how long is this gonna take?
+<speak who="FRY">
+Man, how long is this gonna take?</speak>
 
-<character>OLD MAN</character>
-I'm still waiting on my birth certificate.
+<speak who="OLD MAN">
+I'm still waiting on my birth certificate.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Well it doesn't look like I'll make 
 it inside with the rest of you. Uh but 
-good luck. Just leave me where I drop.
+good luck. Just leave me where I drop.</speak>
 
 <info>The queue moves backwards.</info>
 
-<character>OLD MAN</character>
-Oh great, someone had a baby!
+<speak who="OLD MAN">
+Oh great, someone had a baby!</speak>
 
-<character>LEELA</character>
-Come on, I have a better idea.
+<speak who="LEELA">
+Come on, I have a better idea.</speak>
 
 <info>Time Lapse. The crew are right outside the building now. Leela 
 talks to a grade 53 bureaucrat.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Excuse me? We're from the Planet Express 
 delivery company. We're here to deliver 
-a robot.
+a robot.</speak>
 
 <info>The bureaucrat laughs.</info>
 
-<character>GRADE 53</character>
+<speak who="GRADE 53">
 Looks like we've got a new office cut 
-up!
+up!</speak>
 
 <info>He opens a door and the crew walk inside.</info>
 
@@ -876,65 +876,65 @@ up!
 with thousands of filing cabinets and message tubes snake around 
 overhead with red tubes flying through them. A bureaucrat screams.</info>
 
-<character>GRADE 41</character>
+<speak who="GRADE 41">
 Look out, look out! I'm going to crash 
 my slow-mobile! I had to swerve to avoid 
-you.
+you.</speak>
 
 <info>He slowly heads for a pile of boxes.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 While you're crashing, could you tell 
-us where all these canisters end up?
+us where all these canisters end up?</speak>
 
-<character>GRADE 41</character>
-Oh you want Central Filing.
+<speak who="GRADE 41">
+Oh you want Central Filing.</speak>
 
 <info>The grateful crew walk on.</info>
 
-<character>LEELA</character>
-<character>OK</character>.
+<speak who="LEELA">
+<character>OK</character>.</speak>
 
-<character>FRY</character>
-<character>OK</character>.
+<speak who="FRY">
+<character>OK</character>.</speak>
 
-<character>AMY</character>
-OK thanks.
+<speak who="AMY">
+OK thanks.</speak>
 
-<character>FARNSWORTH</character>
-Wonderful.
+<speak who="FARNSWORTH">
+Wonderful.</speak>
 
-<character>GRADE 41 </character>(<character>SCREAMING</character>)
-Nooo!
+<speak who="GRADE 41">(<character>SCREAMING</character>)
+Nooo!</speak>
 
 <info>He eventually hits the pile of boxes and they wobble.</info>
 
 <info>Time Lapse. The crew ask a grade 20 for directions.</info>
 
-<character>GRADE 20</character>
+<speak who="GRADE 20">
 Central Filing? Of course I know where 
-that is. I'm a grade 20.
+that is. I'm a grade 20.</speak>
 
-<character>LEELA</character>
-Where is it?
+<speak who="LEELA">
+Where is it?</speak>
 
-<character>GRADE 20</character>
+<speak who="GRADE 20">
 I can't tell you. What do I look like? 
-A grade 16?
+A grade 16?</speak>
 
 <info>A red tube lands next to Leela. She sighs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We're getting nowhere slowly. Here, 
 I'll address this to the Central Filing 
 room.  Then we'll track it using my 
-wrist-lojack-amater.
+wrist-lojack-amater.</speak>
 
 <info>She sends the tube away and points her wrist thing around.</info>
 
-<character>WRIST THING</character>
+<speak who="WRIST THING">
 Cold. Cold. Warmer. Hot hot hot hot 
-hot hot.
+hot hot.</speak>
 
 <info>Time Lapse. The crew run through a dark corridor following the 
 message tube. A huge metal door in front of them starts to close. 
@@ -947,15 +947,15 @@ and starts shooting blue lights from the things on it's head.
 The crew walk out and the Behold - another bureaucrat shouts 
 after them.</info>
 
-<character>GRADE 11</character>
+<speak who="GRADE 11">
 Please don't tell my supervisor I was 
-sleeping.
+sleeping.</speak>
 
 <info>Outside Central Filing. The crew stop outside the door.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 This is it. We'll just run in, grab 
-Bender's disk and run out. Got it?
+Bender's disk and run out. Got it?</speak>
 
 <info>The crew nod in agreement. Leela opens the door and everyone 
 gasps.</info>
@@ -965,108 +965,108 @@ middle of the room and there are tens of thousands of red tubes
 in a huge pile. The room towers so high into the air that there 
 is a bi-plane flying around the clouds near the ceiling.</info>
 
-<character>FRY</character>
-We'll never find that disk will we Bender?
+<speak who="FRY">
+We'll never find that disk will we Bender?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You're right. Nothing is over so long 
-as there's one thin ray of hope.
+as there's one thin ray of hope.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Lost something?  I should have known 
 you'd come here rather than follow proper 
 procedure. And I did know. And that's 
-why I came here.
+why I came here.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Listen Morgan, We're through, you're 
 an evil heartless woman and I never 
 wanna see you again. However would you 
 help us get Bender back for old times 
-sake?
+sake?</speak>
 
 <info>Morgan points at the pile of red tubes.</info>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 I'm afraid he's lost in the master in 
 pile. And it would take some sort of 
 giant mechanical atomic powered sorting 
-machine to find him.
+machine to find him.</speak>
 
-<character>HERMES</character>
-You rang?
+<speak who="HERMES">
+You rang?</speak>
 
 <info>On another level of Central Filing Hermes and LaBarbara spin 
 around in a swivel chair.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Dammit Hermes, just jump already. Stop 
-hogging that healthy liver.
+hogging that healthy liver.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 No, I want to live. Organising that 
 forced labour spa rekindled my lifelong 
-love of bureaucracy.
+love of bureaucracy.</speak>
 
-<character>LABARBARA</character>
+<speak who="LABARBARA">
 My Hermes got that hellhole running 
 so efficiently that all the physical 
 labour is now done by a single Australian 
-man.
+man.</speak>
 
-<character>LEELA</character>
-But how did you know we were here?
+<speak who="LEELA">
+But how did you know we were here?</speak>
 
-<character>HERMES</character>
-Dr Zoidberg brought us.
+<speak who="HERMES">
+Dr Zoidberg brought us.</speak>
 
-<character>ZOIDBERG</character>
-It was me, I'm the hero!
+<speak who="ZOIDBERG">
+It was me, I'm the hero!</speak>
 
 <info>The bi-plane flies past Zoidberg and stops next to the crew. 
 The wings are a desk and behind it a small man sits.</info>
 
-<character>NUMBER 1</character>.0
+<speak who="NUMBER 1">.0
 Request for explanantion of incident 
-meeting?
+meeting?</speak>
 
 <info>The bureaucrats gasp and duck behind their desks. Morgan gasps.</info>
 
-<character>MORGAN</character>
-Number 1.0.
+<speak who="MORGAN">
+Number 1.0.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Number 1.0, I hereby petition you for 
 an emergency sort-and-file, under regulation 
-2 point -
+2 point -</speak>
 
 <info>Number 1.0 waggles his finger at Hermes.</info>
 
-<character>NUMBER 1</character>.0
+<speak who="NUMBER 1">.0
 Don't quote me regulations. I co-chaired 
 the committee that reviewed the recommendation 
 to revise the colour of the book that 
-regulation's in. We kept it grey.
+regulation's in. We kept it grey.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Sir please, I must located the disk 
-with my friend's brain on it.
+with my friend's brain on it.</speak>
 
-<character>NUMBER 1</character>.0
+<speak who="NUMBER 1">.0
 Very well. But your bureaucratic licence 
 will be revoked if you fail to sort 
 the master in pile by closing time. 
-1pm.
+1pm.</speak>
 
 <info>Leela looks up at a clock. It is 12:56pm.</info>
 
-<character>LEELA</character>
-That's only four minutes from now.
+<speak who="LEELA">
+That's only four minutes from now.</speak>
 
 <info>Hermes takes off his jacket.</info>
 
-<character>HERMES</character>
-Requisition me a beat.
+<speak who="HERMES">
+Requisition me a beat.</speak>
 
 <info>Number 1.0 turns on some music and Hermes slides down a tube 
 into the in pile.</info>
@@ -1090,22 +1090,22 @@ To get into my 10th birthday party.
 <info>He scoops up some red tubes, slides down a tube and drops them 
 into some filing cabinets. LaBarbara pop up from one of them.</info>
 
-<character>LABARBARA </character>(<character>SINGING</character>)
+<speak who="LABARBARA">(<character>SINGING</character>)
 But something changed when my man turn 
-pro.
+pro.</speak>
 
-<character>HERMES </character>(<character>SINGING</character>)
-I was sortin' but I wasn't smilin'.
+<speak who="HERMES">(<character>SINGING</character>)
+I was sortin' but I wasn't smilin'.</speak>
 
 <info>He throws a tube to LaBarbara and she catches it.</info>
 
-<character>LABARBARA </character>(<character>SINGING</character>)
+<speak who="LABARBARA">(<character>SINGING</character>)
 He forgot that it's not about badges 
-and ranks.
+and ranks.</speak>
 
-<character>HERMES </character>(<character>SINGING</character>)
+<speak who="HERMES">(<character>SINGING</character>)
 It's supposed to be about the filing! 
-People!
+People!</speak>
 
 <info>He jumps onto Number 1.0's desk and starts juggling the tubes.</info>
 
@@ -1132,16 +1132,16 @@ You gotta do what you love,
 Even if it's not a good idea! <info>He slides down the pile and throws 
 the red tubes around the crew like a knife thrower.</info> Zoidberg!
 
-<character>ZOIDBERG </character>(<character>SINGING</character>)
+<speak who="ZOIDBERG">(<character>SINGING</character>)
 They said I probably shouldn't be a 
-surgeon.
+surgeon.</speak>
 
-<character>FARNSWORTH </character>(<character>SINGING</character>)
-They poo-pooed my electric frankfurter.
+<speak who="FARNSWORTH">(<character>SINGING</character>)
+They poo-pooed my electric frankfurter.</speak>
 
-<character>LEELA </character>(<character>SINGING</character>)
+<speak who="LEELA">(<character>SINGING</character>)
 They said I probably shouldn't fly with 
-just one eye.
+just one eye.</speak>
 
 <info>A tube hits her in the eye.</info>
 
@@ -1149,32 +1149,32 @@ just one eye.
 red tubes flying off in a different direction. Hermes rips off 
 his shirt revealing a grooby Jamaican shirt underneath.</info>
 
-<character>HERMES </character>(<character>SINGING</character>)
-Everybody sing Jamaica!
+<speak who="HERMES">(<character>SINGING</character>)
+Everybody sing Jamaica!</speak>
 
 <info>He limbos under the flying tubes.</info>
 
-<character>EVERYBODY </character>(<character>SINGING</character>)
-Jamaica!
+<speak who="EVERYBODY">(<character>SINGING</character>)
+Jamaica!</speak>
 
-<character>HERMES</character>
-Just the bureaucrats, Jamaica!
+<speak who="HERMES">
+Just the bureaucrats, Jamaica!</speak>
 
-<character>BUREACRATS </character>(<character>SINGING</character>)
-Jamaica!
+<speak who="BUREACRATS">(<character>SINGING</character>)
+Jamaica!</speak>
 
-<character>HERMES </character>(<character>SINGING</character>)
-The grade 19s!
+<speak who="HERMES">(<character>SINGING</character>)
+The grade 19s!</speak>
 
 <info>Morgan looks around and reluctantly joins in.</info>
 
-<character>MORGAN</character>
-Jamaica.
+<speak who="MORGAN">
+Jamaica.</speak>
 
 <info>Hermes starts a conga line with the bureaucrats.</info>
 
-<character>HERMES </character>(<character>SINGING</character>)
-Sing me home!
+<speak who="HERMES">(<character>SINGING</character>)
+Sing me home!</speak>
 
 When push comes to shove,
 
@@ -1185,95 +1185,95 @@ Even if it's not a good idea!
 <info>He picks up a red tube, takes Bender's disk out of it and throws 
 it into Bender's head. Bender's personality reactivates.</info>
 
-<character>BENDER</character>
-I'm Bender baby, please insert liquor!
+<speak who="BENDER">
+I'm Bender baby, please insert liquor!</speak>
 
 <info>The crew cheer Hermes.</info>
 
-<character>FRY</character>
-Yeah!
+<speak who="FRY">
+Yeah!</speak>
 
-<character>HERMES</character>
-Congratulations.
+<speak who="HERMES">
+Congratulations.</speak>
 
-<character>NUMBER 1</character>.0
+<speak who="NUMBER 1">.0
 Congratulations indeed but you finshed 
 with one second to spare so I'm demoting 
 you. A good bureaucrat never finishes 
-early.
+early.</speak>
 
 <info>He changes Hermes' badge from 36 to 38.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 That's OK Hermes. At least we have you 
-back.
+back.</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 Not yet you don't. I'm still acting 
 bureaucrat of Planet Express. And I 
 have some changes to make. First, Fry, 
-you're fired. Second -
+you're fired. Second -</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Not so fast! When I was sortin' I came 
 upon a certain document filed by one 
 Morgan Proctor.  Form B: Notification 
-Of Romantic Entanglement.
+Of Romantic Entanglement.</speak>
 
-<character>FRY</character>
-That's right, she fraternized me!
+<speak who="FRY">
+That's right, she fraternized me!</speak>
 
-<character>MORGAN</character>
+<speak who="MORGAN">
 That form isn't about you. It refers 
 to my high school prom date. It was 
 a regulation date that ended in regulation 
-disappointment.
+disappointment.</speak>
 
-<character>HERMES</character>
-Yes but you only stamped it four times!
+<speak who="HERMES">
+Yes but you only stamped it four times!</speak>
 
 <info>He slaps the paper down on Number 1.0's desk and the bureaucrats 
 gasp. Morgan is horrifed and steps away from the desk.</info>
 
-<character>MORGAN</character>
-No! No! I was young and reckless.
+<speak who="MORGAN">
+No! No! I was young and reckless.</speak>
 
 <info>Number 1.0 looks at the form.</info>
 
-<character>NUMBER 1</character>.0
+<speak who="NUMBER 1">.0
 Bureaucrat Conrad you are technically 
 correct - the best kind of correct. 
 I hereby promote you to grade 37.  And 
 as for you. (shouting) Guards!  (talking) 
 Bring me the forms I need to fill out 
-to have her taken away!
+to have her taken away!</speak>
 
 <info>He takes off in his desk and flies away.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Well, it looks like I'll be needing 
 my heroic bureaucrat back. At severely 
-reduced pay of course.
+reduced pay of course.</speak>
 
 <info>The crew cheer.</info>
 
-<character>LABARBARA</character>
-It's better than nothing!
+<speak who="LABARBARA">
+It's better than nothing!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 What about me? Can I come back at severely 
-reduced pay?
+reduced pay?</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 You got it mon! In fact, severely reduced 
 pay all around!  Come on wife, let's 
-blow this joint!
+blow this joint!</speak>
 
 <info>She jumps on and they kiss and hover off somewhere.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Now it's time for my song! (singing) 
 When I was two there was a tidal wave 
-in -
+in -</speak>
 
 <info>THE END</info></xml>

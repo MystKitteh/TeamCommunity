@@ -17,136 +17,136 @@ up in a casino in front of a one armed bandit. He pulls the lever
 and three bars come up. The machine spews coins out into his 
 lap. He laughs.</info>
 
-<character>SMITH </character><info>ON TV</info>
+<speak who="SMITH"><info>ON TV</info>
 A casino where I'm winning? That car 
 must've killed me. I must be in heaven! 
 A casino where I always win? That's 
-boring. I must really be...in hell!
+boring. I must really be...in hell!</speak>
 
 <info>A bearded man appears at his side.</info>
 
-<character>MAN </character><info>ON TV</info>
+<speak who="MAN"><info>ON TV</info>
 No Mr Smith. You're not in heaven or 
-hell. You're on an aeroplane.
+hell. You're on an aeroplane.</speak>
 
 <info>He pulls a curtain across. Smith looks out the window and sees 
 a gremlin tearing up the plane's wing.</info>
 
-<character>SMITH </character><info>ON TV</info>
+<speak who="SMITH"><info>ON TV</info>
 There's a gremlin destroying the plane! 
-You've gotta believe me!
+You've gotta believe me!</speak>
 
-<character>MAN </character><info>ON TV</info>
-Why should I believe you? You're Hitler!
+<speak who="MAN"><info>ON TV</info>
+Why should I believe you? You're Hitler!</speak>
 
 <info>He holds up a mirror. Smith's reflection is indeed that of Hitler.</info>
 
-<character>SMITH </character><info>ON TV</info>
-No!  Eva Braun! Help me!
+<speak who="SMITH"><info>ON TV</info>
+No!  Eva Braun! Help me!</speak>
 
 <info>She takes of her facemask, revealing she is a human-fly. Smith 
 screams. All of the Planet Express crew except Fry sit watching 
-the <character>TV</character>.</info>
+the TV.</info>
 
-<character>BENDER</character>
-Saw it comin'!
+<speak who="BENDER">
+Saw it comin'!</speak>
 
 <info>Enter Fry.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I just saw something incredibly cool. 
 A big floating ball that lit up with 
 every colour of the rainbow, plus some 
 new ones that were so beautiful I fell 
-to my knees and cried.
+to my knees and cried.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Was it out in front of Discount Shoe 
-Outlet?
+Outlet?</speak>
 
-<character>FRY</character>
-Yeah.
+<speak who="FRY">
+Yeah.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 They have a college kid wear that to 
-attract customers.
+attract customers.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well I don't care if it was some dork 
 in a costume. For one brief moment I 
 felt the heartbeat of creation. And 
-it was one with my own.
+it was one with my own.</speak>
 
-<character>AMY</character>
-Big deal.
+<speak who="AMY">
+Big deal.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 We all feel like that all the time. 
-You don't hear us gassin' on about it.
+You don't hear us gassin' on about it.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 How can you people be so blase? Here 
 you are in the year 3000 or so, yet 
 you just sit around like its the boring 
-time I came from.
+time I came from.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Boring? Wasn't that the period where 
 they cracked the human genome and boy 
-bands roamed the Earth?
+bands roamed the Earth?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah. But now its the distant future. 
 Why aren't we out doing everything I 
-ever dreamed of?
+ever dreamed of?</speak>
 
-<character>LEELA</character>
-Hey, you know what might be fun?
+<speak who="LEELA">
+Hey, you know what might be fun?</speak>
 
-<character>FARNSWORTH</character>
-No. Why would I know that?
+<speak who="FARNSWORTH">
+No. Why would I know that?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Let's take the rest of the morning off 
 and take Fry to do everything he ever 
-wanted to do.
+wanted to do.</speak>
 
-<character>FRY</character>
-(sexfully) Everything?
+<speak who="FRY">
+(sexfully) Everything?</speak>
 
-<character>LEELA</character>
-Except that.
+<speak who="LEELA">
+Except that.</speak>
 
 <info>A huge space station orbits a big green planet. "Sal's Wrecking 
 Co" is painted on the side.</info>
 
 <info>Cut to: Sal's Wrecking Co. Sal straps Fry into a seat.</info>
 
-<character>SAL</character>
+<speak who="SAL">
 Sos your fantasy's always been to destroys 
-a planet huh?
+a planet huh?</speak>
 
-<character>FRY</character>
-Yeah, what did they ever do for me?
+<speak who="FRY">
+Yeah, what did they ever do for me?</speak>
 
 <info>He aims a gun at the planet, fires and blows the planet to smitherenes. 
 He laughs while the crew look on with blank expressions.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wow, the most humdrum activities look 
 almost exciting through your eyes. What 
-should we do next?
+should we do next?</speak>
 
-<character>FRY</character>
-I wanna see the edge of the universe!
+<speak who="FRY">
+I wanna see the edge of the universe!</speak>
 
-<character>AMY</character>
-Ooo! That sounds cool.
+<speak who="AMY">
+Ooo! That sounds cool.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 It's funny. You live in the universe, 
 but you never do these things til somebody 
-comes to visit.
+comes to visit.</speak>
 
 <info>The Edge Of The Universe. The ship approaches a black/white 
 boundary.</info>
@@ -157,52 +157,52 @@ the nothingness after it. Fry puts some money in some binoculars
 and looks through them. He sees a Planet Express from a parallel 
 cowboy universe wave. Our crew wave back.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Far out! So, there's an infinite number 
-of parallel universes?
+of parallel universes?</speak>
 
-<character>FARNSWORTH</character>
-No, just the two.
+<speak who="FARNSWORTH">
+No, just the two.</speak>
 
-<character>FRY</character>
-Oh, well, I'm sure that's enough.
+<speak who="FRY">
+Oh, well, I'm sure that's enough.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm sick of parallel Bender lording 
 his cowboy head over me! Let's move 
-on to Fry's next fantasy.
+on to Fry's next fantasy.</speak>
 
 <info>Jurassic Kiddie Park. Fry rides a Tyranosaurus Rex.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 (shouting) Yeehah! Bow before your master, 
 puny mortals! Whoo! Giddy-up! Ha ha! 
-Woohoo! Whoopie!
+Woohoo! Whoopie!</speak>
 
 <info>A mother and daughter look on.</info>
 
-<character>GIRL</character>
-Mommy, why is that man like that?
+<speak who="GIRL">
+Mommy, why is that man like that?</speak>
 
-<character>MOTHER</character>
-Don't look at him!
+<speak who="MOTHER">
+Don't look at him!</speak>
 
 <info>Fry dismounts and hops over the wall to his friends.</info>
 
-<character>FRY</character>
-That was fun. Let's give him a treat!
+<speak who="FRY">
+That was fun. Let's give him a treat!</speak>
 
 <info>He puts 5 cents in a Dino-Feed machine and gets a pig out of 
 it. He holds it up to the dinosaur which walks over to it. The 
 pig squeals.</info>
 
-<character>LEELA</character>
-Keep your palms flat.
+<speak who="LEELA">
+Keep your palms flat.</speak>
 
 <info>The dinosaur gobbles up the pig. Fry laughs.</info>
 
-<character>FRY</character>
-The tongue tickles.
+<speak who="FRY">
+The tongue tickles.</speak>
 
 <info>He laughs some more. He pulls his arms down - but his hands 
 aren't there.</info>
@@ -210,61 +210,61 @@ aren't there.</info>
 <info>Outside Hand Crafters. The crew leave the store. Fry's new hands 
 have a slightly darker skin tone.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 These new hands are great. I'm gonna 
-break them in tonight.
+break them in tonight.</speak>
 
-<character>FARNSWORTH</character>
-Yes it's been quite an hour and a half.
+<speak who="FARNSWORTH">
+Yes it's been quite an hour and a half.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I've only got two fantasies left: Be 
 invisible in a chocolate factory and 
-be romantically linked with a celebrity.
+be romantically linked with a celebrity.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I could pound your head 'til you thinks 
-that's what happened.
+that's what happened.</speak>
 
 <info>He pulls an iron bar out of his chest cabinet.</info>
 
-<character>FRY</character>
-<character>OK</character>.
+<speak who="FRY">
+<character>OK</character>.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wait, hold on. It is actually possible 
-to meet any celebrity you want.
+to meet any celebrity you want.</speak>
 
-<character>FRY</character>
-It is?
+<speak who="FRY">
+It is?</speak>
 
-<character>LEELA</character>
-Of course! You should read a blimp sometime.
+<speak who="LEELA">
+Of course! You should read a blimp sometime.</speak>
 
 <info>She points to a passing blimp advertising downloadable celebrities 
 at nappster.com.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Download a celebrity from the internet? 
-What part of that do I understand?
+What part of that do I understand?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's simple. You can download a celebrity's 
 personality and appearance into a blank 
-robot.
+robot.</speak>
 
-<character>FRY</character>
-Hey, I have an idea. Let's do that!
+<speak who="FRY">
+Hey, I have an idea. Let's do that!</speak>
 
 <info>Planet Express: Farnsworth's Lab. Leela and Fry put on the net 
 suits.</info>
 
-<character>FARNSWORTH</character>
-Onto the internet you go!
+<speak who="FARNSWORTH">
+Onto the internet you go!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh and while you're there pick me up 
-a few credit card numbers.
+a few credit card numbers.</speak>
 
 <info>Farnsworth logs Fry and Leela in.</info>
 
@@ -273,171 +273,171 @@ pentagon.web, a top secret site which has just been hacked. They
 walk past oldtrek-vs-newtrek.web where two trekkies have an important 
 debate.</info>
 
-<character>TREKKIE #1</character>
-No way! Kirk could kick Picard's ass!
+<speak who="TREKKIE #1">
+No way! Kirk could kick Picard's ass!</speak>
 
-<character>TREKKIE #2</character>
+<speak who="TREKKIE #2">
 Eh, at least Picard had the guts to 
-admit he was bald!
+admit he was bald!</speak>
 
-<character>TREKKIE #1</character>
-You take that back!
+<speak who="TREKKIE #1">
+You take that back!</speak>
 
 <info>Fry and Leela come to eBay.</info>
 
-<character>FRY</character>
-Ooo! eBay!
+<speak who="FRY">
+Ooo! eBay!</speak>
 
 <info>Cut to: eBay. The Milky Way galaxy is up for sale.</info>
 
-<character>AUCTIONEER</character>
+<speak who="AUCTIONEER">
 Are there no further bids for this exquisite 
 galaxy?  Sold to the Being Of Inconceivable 
-Horror.
+Horror.</speak>
 
 <info>The Being Of Inconceivable Horror laughs.</info>
 
-<character>AUCTIONEER</character>
-Yes.
+<speak who="AUCTIONEER">
+Yes.</speak>
 
 <info>The Being Of Inconceivable Horror laughs harder.</info>
 
 <info>Cut to: Internet Browser.</info>
 
-<character>FRY</character>
-So where's the celebrity dating place?
+<speak who="FRY">
+So where's the celebrity dating place?</speak>
 
-<character>LEELA</character>
-Let's search the web.  Over there.
+<speak who="LEELA">
+Let's search the web.  Over there.</speak>
 
 <info>Leela and Fry walk inside nappster.com.</info>
 
 <info>Cut to: nappster.com.</info>
 
-<character>SALESMAN</character>
+<speak who="SALESMAN">
 Welcome to Nappster. Let's see what 
 celebrities we've got in stock.  Can 
-I interest you in Gwyneth Paltrow?
+I interest you in Gwyneth Paltrow?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Nah. I read in Newsweek that she drinks 
-human blood.
+human blood.</speak>
 
-<character>SALESMAN</character>
+<speak who="SALESMAN">
 Then uh, how about Cleopatra? Who's 
-beauty destroyed mighty empires.
+beauty destroyed mighty empires.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I'd prefer someone from the era of shaved 
 underarms. Do you have anything with 
-a more Lucy Liu feel to it?
+a more Lucy Liu feel to it?</speak>
 
-<character>SALESMAN</character>
+<speak who="SALESMAN">
 Nah, nothing like that. Though we do 
 have Lucy Liu.  Only woman ever to be 
 named People magazine's woman of the 
 year twice. In 2003, and then again 
-in 2063.
+in 2063.</speak>
 
-<character>FRY</character>
-I'd like the 2003 model.
+<speak who="FRY">
+I'd like the 2003 model.</speak>
 
 <info>An image of Lucy Liu appears.</info>
 
 <info>Cut to: Planet Express: Farnsworth's Lab. Fry and Leela takes 
 off their net helmets.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wahoo! I've found her! What do I do 
-now?
+now?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Download her. Let's just put a blank 
-robot in the drive.
+robot in the drive.</speak>
 
 <info>He lifts a basic robot out of a box of ten and hands it to Fry. 
 Fry puts it in the drive. Lucy Liu is downloaded from the net 
 and she appears on the robot. Fry gasps.</info>
 
-<character>FRY</character>
-It worked!
+<speak who="FRY">
+It worked!</speak>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 You're one sexy man (mechanical voice) 
-Philip J. Fry!
+Philip J. Fry!</speak>
 
 <info>She leaps into his arms and kisses him. She pushes him to the 
 floor.</info>
 
-<character>FRY</character>
-(muffled) It worked perfectly!
+<speak who="FRY">
+(muffled) It worked perfectly!</speak>
 
 <info>Time Lapse. Fry is still dumbstruck and he gazes at his Liubot 
 with his mouth wide open.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, you downloaded Lucy Liu. Are you 
 just going to stare vacantly at her 
-and not say anything?
+and not say anything?</speak>
 
 <info>Fry guffaws.</info>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 I find your slack-jawed stare very attractive 
-(mechanical voice) Philip J. Fry.
+(mechanical voice) Philip J. Fry.</speak>
 
-<character>FRY</character>
-Did you hear that? She likes me!
+<speak who="FRY">
+Did you hear that? She likes me!</speak>
 
-<character>FARNSWORTH</character>
-Well duh! She's programmed to like you!
+<speak who="FARNSWORTH">
+Well duh! She's programmed to like you!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But this is Lucy Liu! Perhaps the only 
 good actress of the 21st century! She's 
-more than just a piece of software.
+more than just a piece of software.</speak>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 Would you like to take a moment to register 
-me?
+me?</speak>
 
-<character>FRY</character>
-Uh, not right now.
+<speak who="FRY">
+Uh, not right now.</speak>
 
-<character>LIUBOT</character>
-I'll remind you later you hot stud you!
+<speak who="LIUBOT">
+I'll remind you later you hot stud you!</speak>
 
-<character>FRY</character>
-So uh, what do you feel like doing?
+<speak who="FRY">
+So uh, what do you feel like doing?</speak>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 Would you like to take a moment to register 
-me?
+me?</speak>
 
-<character>FRY</character>
-I said later!
+<speak who="FRY">
+I said later!</speak>
 
 <info>Dinkin' Donuts. Fry and the Liubot are on a date. Fry is gobbling 
 donuts.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Then when I feel so stuffed I can't 
 eat anymore, I just use the restroom, 
-and then I can eat more.
+and then I can eat more.</speak>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 You should write a book Fry. People 
 need to know about the (mechanical voice) 
-can eat more.
+can eat more.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh Lucy! You're just like I always thought 
-you'd be from your movies.
+you'd be from your movies.</speak>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 My personality is mathematically derived 
 from my movies, proportionally weighted 
-by box office receipts.
+by box office receipts.</speak>
 
 <info>Fry stares blankly then bites into a donut.</info>
 
@@ -452,114 +452,114 @@ table.</info>
 
 <info>Time Lapse. Fry and Liubot are sat on the couch.</info>
 
-<character>FRY</character>
-You're cute!
+<speak who="FRY">
+You're cute!</speak>
 
-<character>LIUBOT</character>
-You're cute!
+<speak who="LIUBOT">
+You're cute!</speak>
 
-<character>FRY</character>
-You!
+<speak who="FRY">
+You!</speak>
 
-<character>LIUBOT</character>
-You!
+<speak who="LIUBOT">
+You!</speak>
 
-<character>FRY</character>
-You!
+<speak who="FRY">
+You!</speak>
 
-<character>LIUBOT</character>
-You!
+<speak who="LIUBOT">
+You!</speak>
 
-<character>FRY</character>
-You!
+<speak who="FRY">
+You!</speak>
 
 <info>The rest of the crew watch in horror.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh dear! She's stuck in an infinite 
 loop and he's an idiot. Well, that's 
-love for you.
+love for you.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Humans dating robots is sick. You people 
 wonder why I'm still single?? It's 'cause 
 all the fun robot sisters are dating 
-humans!
+humans!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender, this is Fry's decision. And 
 he made it wrong, so it's time for us 
-to interfere in his life.
+to interfere in his life.</speak>
 
 <info>Planet Express: Meeting Room. Leela breaks the news to Fry.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 She doesn't really love you. She can't. 
-She's just a machine that -
+She's just a machine that -</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, so what if I love a robot? It's 
-not hurting anybody.
+not hurting anybody.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 My God! He never took middle school 
 hygiene. He never saw the propaganda 
-film.
+film.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 It's just lucky I keep a copy in the 
-<character>VCR</character> at all times!
+<character>VCR</character> at all times!</speak>
 
 <info>He presses a button and a film title appears on the screen: 
 I Dated A Robot!. In the movie a couple sit in a caf� and stare 
 into each other's eyes. A narrator walks into the scene.</info>
 
-<character>NARRATOR </character><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
 Ordinary human dating. It's enjoyable 
 and it serves an important purpose. 
 But when a human dates an artificial 
 mate, there is no purpose. Only enjoyment. 
-And that leads to...tragedy.
+And that leads to...tragedy.</speak>
 
 <info>The woman behind him turns into a blank robot and the man downloads 
 a celebrity onto it.</info>
 
-<character>BILLY </character><info>IN <character>MOVIE</character></info>
-Neato! A Marylin Monroebot!
+<speak who="BILLY"><info>IN <character>MOVIE</character></info>
+Neato! A Marylin Monroebot!</speak>
 
-<character>MONROEBOT </character><info>IN <character>MOVIE</character></info>
+<speak who="MONROEBOT"><info>IN <character>MOVIE</character></info>
 Ooo! You're a real dreamboat (mechanical 
-voice) Billy Everyteen!
+voice) Billy Everyteen!</speak>
 
-<character>NARRATOR </character><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
 Harmless fun? Let's see what happens 
-next!
+next!</speak>
 
 <info>The scene cuts to Billy's bedroom. He is kissing the Monroebot. 
 Enter his mother.</info>
 
-<character>BILLY </character><info>IN <character>MOVIE</character></info>
+<speak who="BILLY"><info>IN <character>MOVIE</character></info>
 No thank Mom, I'd rather make out with 
-my Monroebot.
+my Monroebot.</speak>
 
 <info>Enter his dad.</info>
 
-<character>BILLY </character><info>IN <character>MOVIE</character></info>
+<speak who="BILLY"><info>IN <character>MOVIE</character></info>
 No thanks dad, I'd rather make out with 
-my Monroebot.
+my Monroebot.</speak>
 
 <info>Enter his girlfriend, Mavis, from the caf�.</info>
 
-<character>MAVIS </character><info>IN <character>MOVIE</character></info>
+<speak who="MAVIS"><info>IN <character>MOVIE</character></info>
 Billy, do you want to come over tonight? 
-We can make out together.
+We can make out together.</speak>
 
-<character>BILLY </character><info>IN <character>MOVIE</character></info>
+<speak who="BILLY"><info>IN <character>MOVIE</character></info>
 Gee Mavis, your house is across the 
 street, that's an awfully long way to 
-go for making out.
+go for making out.</speak>
 
-<character>NARRATOR </character><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
 Did you notice what went wrong in that 
 scene? Ordinarily Billy would work hard 
 to make money from his paper route then 
@@ -577,155 +577,155 @@ of robot lips. All civilisation was
 just an effort to impress the opposite 
 sex. And sometimes the same sex. Now, 
 let's skip forward 80 years into the 
-future. Where is Billy?
+future. Where is Billy?</speak>
 
 <info>The scene changes to a post-apocalyptic world. Billy is an aged 
 man but he is still with his Monroebot and still making out with 
 her.</info>
 
-<character>BILLY </character><info>IN <character>MOVIE</character></info>
-Farewell!
+<speak who="BILLY"><info>IN <character>MOVIE</character></info>
+Farewell!</speak>
 
 <info>He dies.</info>
 
-<character>NARRATOR </character><info>IN <character>MOVIE</character></info>
+<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
 The next day Billy's planet was destroyed 
 by aliens.  Have you guessed the name 
 of Billy's planet? It was Earth. Don't 
-Date Robots!
+Date Robots!</speak>
 
 <info>A caption appears on the screen with the same words on it and 
 the movie ends. The space pope is displayed on the screen with 
 Crocodylus Pontiflex written around him in English and alien.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Did that make any impression on you 
-Fry? Fry?
+Fry? Fry?</speak>
 
 <info>She turns around. Fry and Liubot are making out. Liubot giggles.</info>
 
-<character>LIUBOT</character>
-Ooo!
+<speak who="LIUBOT">
+Ooo!</speak>
 
 <info>Farnsworth holds up another tape.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I knew I should have shown him Electro 
-Gonhorrhea: The Noisy Killer.
+Gonhorrhea: The Noisy Killer.</speak>
 
 <info>Planet Express: Lounge. Bender sits in a chair with his legs 
 crosses holding a cigar. He puts on a weird voice as he speaks.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What is the world coming to? That Fry's 
 a sicko pervert I tell you, dating a 
-robot. It's an atrosmacy.
+robot. It's an atrosmacy.</speak>
 
-<character>LEELA</character>
-But Fry's our friend Bender.
+<speak who="LEELA">
+But Fry's our friend Bender.</speak>
 
-<character>BENDER</character>
-Aww jeez would you stifle there meatbag?
+<speak who="BENDER">
+Aww jeez would you stifle there meatbag?</speak>
 
-<character>LEELA</character>
-You stifle Bender.
+<speak who="LEELA">
+You stifle Bender.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Hooray! Finally you're standing up to 
-him.
+him.</speak>
 
-<character>LEELA</character>
-Although he is completely right.
+<speak who="LEELA">
+Although he is completely right.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 We've got to stem this tidal wave of 
 moral decay. It's time to shut down 
-nappster.com!
+nappster.com!</speak>
 
-<info>Nappster <character>HQ</character>. Enter Bender, Leela and Zoidberg.</info>
+<info>Nappster HQ. Enter Bender, Leela and Zoidberg.</info>
 
-<character>BENDER</character>
-Who's in charge of this dump?
+<speak who="BENDER">
+Who's in charge of this dump?</speak>
 
-<info>Jeff Jervis <character>CEO</character> stands up.</info>
+<info>Jeff Jervis CEO stands up.</info>
 
-<character>JERVIS</character>
+<speak who="JERVIS">
 That'd be me. If you're an investor 
 you can dump your money in the hole 
-there.
+there.</speak>
 
-<character>BENDER</character>
-Listen you fat internet nerd.
+<speak who="BENDER">
+Listen you fat internet nerd.</speak>
 
-<character>JERVIS</character>
-Listening.
+<speak who="JERVIS">
+Listening.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Your company promotes wrong love! If 
 you don't shut down right now the only 
-thing wired about you will be your jaw!
+thing wired about you will be your jaw!</speak>
 
-<character>JERVIS</character>
+<speak who="JERVIS">
 You can't shut us down. The internet 
 is about the free exchange and sale 
 of other people's ideas. We've done 
-nothing wrong!
+nothing wrong!</speak>
 
 <info>Lucy Liu suddenly cries out from behind a door marked Authorized 
 Personnel Only.</info>
 
-<character>LIU </character><info><character>FROM ROOM</character></info>
-Help! I'm being held prisoner!
+<speak who="LIU"><info><character>FROM ROOM</character></info>
+Help! I'm being held prisoner!</speak>
 
-<character>ZOIDBERG</character>
-Someone in trouble is!
+<speak who="ZOIDBERG">
+Someone in trouble is!</speak>
 
-<character>JERVIS</character>
+<speak who="JERVIS">
 No stay out! There's a guy going for 
-the Tetris world record in there!
+the Tetris world record in there!</speak>
 
 <info>He covers the door with himself and part of a sign covering 
 the nappster sign falls away. Nappster is really kidnappster! 
 Bender pushes Jervis out the way and he Leela and Zoidberg run 
 in.</info>
 
-<info>Cut to: Kidnappster <character>HQ</character>. The room is filled with heads in jars.</info>
+<info>Cut to: Kidnappster HQ. The room is filled with heads in jars.</info>
 
-<character>WOMAN</character>
-Who are you?
+<speak who="WOMAN">
+Who are you?</speak>
 
-<character>CHEECH</character>
-Don't hurt us!
+<speak who="CHEECH">
+Don't hurt us!</speak>
 
-<character>LIU</character>
+<speak who="LIU">
 Help me! They've been holding me prisoner 
-for 800 years!
+for 800 years!</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 The real Lucy Liu! The one you can see 
-a movie of in the popcorn stadium!
+a movie of in the popcorn stadium!</speak>
 
-<character>BENDER</character>
-So what's your problem?
+<speak who="BENDER">
+So what's your problem?</speak>
 
-<character>LIU</character>
+<speak who="LIU">
 Those sweaty nerds are making illegal 
-copies of us. (crying) It hurts!
+copies of us. (crying) It hurts!</speak>
 
 <info>Jervis knocks on the door.</info>
 
-<character>BENDER</character>
-Its a bluff.
+<speak who="BENDER">
+Its a bluff.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We can't take that chance. Move people 
-move!
+move!</speak>
 
-<character>GEORGE MICHAEL</character>
-Please pick me up before you go go!
+<speak who="GEORGE MICHAEL">
+Please pick me up before you go go!</speak>
 
-<character>LEELA</character>
-She asked first.
+<speak who="LEELA">
+She asked first.</speak>
 
 <info>She picks up Liu's jar and activates a pressure alarm. She replaces 
 Liu's jar with that of Madeline Albright. Someone downloads her 
@@ -734,130 +734,130 @@ and she screams.</info>
 <info>Cut to: Nerd's Bedroom. Albright is downloaded onto a blank 
 robot. There is a table and candles in the room.</info>
 
-<character>NERD</character>
-Uh, are you Lucy Liu?
+<speak who="NERD">
+Uh, are you Lucy Liu?</speak>
 
 <info>The Albrightbot sees the table and smiles.</info>
 
-<character>ALBRIGHTBOT</character>
-Sure!
+<speak who="ALBRIGHTBOT">
+Sure!</speak>
 
-<info>Outside Nappster <character>HQ</character>. Bender, Leela and Zoidberg climb out of 
+<info>Outside Nappster HQ. Bender, Leela and Zoidberg climb out of 
 a window with Liu's head and run away.</info>
 
-<info>Cut to: Nappster <character>HQ</character>. Jervis and another man watch them on the 
+<info>Cut to: Nappster HQ. Jervis and another man watch them on the 
 screen.</info>
 
-<character>JERVIS</character>
+<speak who="JERVIS">
 Oh we're doomed. They got the head, 
 they uncovered the sign! Soon the whole 
 world will learn we're cyber criminals! 
 And we would have gotten away with it 
-if it weren't for those meddling adults.
+if it weren't for those meddling adults.</speak>
 
-<character>MAN</character>
+<speak who="MAN">
 We'll stop them. They like Lucy Liu, 
 we'll give them all the Lucy Liu they 
-can handle! Hand me that backup disk.
+can handle! Hand me that backup disk.</speak>
 
 <info>He puts the disk in the drive and changes the Liu-Mo-Tron setting 
 to Erotic Assassin.</info>
 
 <info>Cut to: Street.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Did you see me escaping? I was like 
--
+-</speak>
 
 <info>He woops.</info>
 
-<character>LIU</character>
+<speak who="LIU">
 Thanks for rescuing me, especially you 
 Bender. (sexfully) Mmm, quite a masculine 
-piece of metal aren't you?
+piece of metal aren't you?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey don't look at me like that. If you're 
 thinking of crossing the line with Bender 
 you can forget it. Bender don't bend 
-that way.
+that way.</speak>
 
-<character>LEELA</character>
-Hey look its another Lucy Liubot.
+<speak who="LEELA">
+Hey look its another Lucy Liubot.</speak>
 
-<character>LIUBOT #2</character>
+<speak who="LIUBOT #2">
 (mechanical voice) I am Lucy Liu. Give 
-me your spines.
+me your spines.</speak>
 
 <info>She leaps into the air and lands between the four.</info>
 
-<character>ZOIDBERG</character>
-Hey what the?
+<speak who="ZOIDBERG">
+Hey what the?</speak>
 
 <info>She kicks him. She moves towards Bender and he backs away. She 
 starts punching him.</info>
 
-<character>LIUBOT #2</character>
+<speak who="LIUBOT #2">
 (mechanical voice) Take this and that 
-and one of these.
+and one of these.</speak>
 
 <info>She grabs him between her legs and slams him against the pavement.</info>
 
-<character>LIU</character>
+<speak who="LIU">
 Hey cut it out! I don't need this kind 
-of publicity!
+of publicity!</speak>
 
 <info>The Liubot gets up and moves towards Leela. She kicks her in 
 the face and trips her over. She gets up.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Alright Liu. Time to kick your frosty 
-well toned ass! Heyya!
+well toned ass! Heyya!</speak>
 
 <info>She kicks her and the two get into a fight. Leela gains the 
 upper hand and kicks the Liubot against a fire hydrant.</info>
 
-<character>BENDER</character>
-Then along came Bender!
+<speak who="BENDER">
+Then along came Bender!</speak>
 
 <info>He turns the fire hydrant on and the Liubot starts to inflate.</info>
 
-<character>ZOIDBERG</character>
-Looks like you're retaining water.
+<speak who="ZOIDBERG">
+Looks like you're retaining water.</speak>
 
 <info>He snips it with his claws and it explodes. They cheer.</info>
 
-<character>LIU</character>
+<speak who="LIU">
 That was incredible Bender. You're like 
-Jackie Chan before he got all doughy.
+Jackie Chan before he got all doughy.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aw shucks. I wasn't afraid of that robot. 
 I'm pretty brave when you get past my 
 macho exterior!  It's an army of Lucy 
-Lius!
+Lius!</speak>
 
 <info>Leela and Zoidberg scream.</info>
 
-<character>LIU</character>
-They're horrible!
+<speak who="LIU">
+They're horrible!</speak>
 
 <info>The Liubots start flipping over cars and kicking over mailboxes.</info>
 
 <info>A Liubot throws a man through a window.</info>
 
-<character>LIUBOT #3</character>
-(mechanical voice) Robot Croucing Tiger.
+<speak who="LIUBOT #3">
+(mechanical voice) Robot Croucing Tiger.</speak>
 
-<character>LIUBOT #4</character>
-(mechanical voice) Robot Crane style!
+<speak who="LIUBOT #4">
+(mechanical voice) Robot Crane style!</speak>
 
 <info>Cut to: Newsstand. The Liubots chase people down the streets. 
 Zapp Brannigan turns on the sexlexia.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Now that's a wave of destruction that's 
-easy on the eyes.
+easy on the eyes.</speak>
 
 <info>A Liubot grabs him by the throat.</info>
 
@@ -865,85 +865,85 @@ easy on the eyes.
 sewer grate.</info>
 
 <info>Loew's-N-Plex. Fry and his Liubot are at the cinema watching 
-the 2007 classic Charlie's Angels <character>III</character>: The Legend Of Charlie's 
+the 2007 classic Charlie's Angels III: The Legend Of Charlie's 
 Gold.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 This is the best movie I've ever seen. 
-It has a vampire and an explosion!
+It has a vampire and an explosion!</speak>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 It's amazing the way you (mechanical 
-voice) notice two things.
+voice) notice two things.</speak>
 
-<character>ALEX </character><info>IN <character>MOVIE</character></info>
-No! Don't open that coffin! It's ticking!
+<speak who="ALEX"><info>IN <character>MOVIE</character></info>
+No! Don't open that coffin! It's ticking!</speak>
 
-<character>NATALIE </character><info>IN <character>MOVIE</character></info>
+<speak who="NATALIE"><info>IN <character>MOVIE</character></info>
 I have to Alex. That coffin's not going 
-to open itself!
+to open itself!</speak>
 
 <info>The coffin opens itself. A vampire sits up.</info>
 
-<character>VAMPIRE </character><info>IN <character>MOVIE</character></info>
-Bleurgh!
+<speak who="VAMPIRE"><info>IN <character>MOVIE</character></info>
+Bleurgh!</speak>
 
 <info>He explodes. Fry and Liubot are making out again. Enter Bender, 
 Leela, Zoidberg and Lucy Liu.</info>
 
-<character>LIU</character>
+<speak who="LIU">
 Let's hide in here. It'll add to my 
-box office gross!
+box office gross!</speak>
 
-<character>LEELA</character>
-Fry?
+<speak who="LEELA">
+Fry?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Aww, you guys came to watch me make 
 out! That is so sweet.  Wait a minute! 
 Is that the head of who I think it's 
-of?
+of?</speak>
 
-<character>LIU</character>
-Read the jar Evelyn Wood! Dr Z?
+<speak who="LIU">
+Read the jar Evelyn Wood! Dr Z?</speak>
 
 <info>Zoidberg clacks.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, a herd of Lucy Liu are destroying 
-the city. Is yours acting normally?
+the city. Is yours acting normally?</speak>
 
-<character>FRY</character>
-Let me see.  Yep. Why do you ask?
+<speak who="FRY">
+Let me see.  Yep. Why do you ask?</speak>
 
-<character>ALEX </character><info>IN <character>MOVIE</character></info>
+<speak who="ALEX"><info>IN <character>MOVIE</character></info>
 Mr Mayor, if you want to see a real 
-vampire look in the mirror!
+vampire look in the mirror!</speak>
 
-<character>MAYOR </character><info>IN <character>MOVIE</character></info>
-I can't! I'm a vampire!
+<speak who="MAYOR"><info>IN <character>MOVIE</character></info>
+I can't! I'm a vampire!</speak>
 
 <info>Enter the Liubots via the screen. The audience screams. The 
 Liubots knocks a few people over, rip up some chairs and batter 
 people with them. One hits Zoidberg with a chair and he screams.</info>
 
-<character>ZOIDBERG</character>
-Why?
+<speak who="ZOIDBERG">
+Why?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 And Nappster says illegal copies never 
-hurt anybody.
+hurt anybody.</speak>
 
-<character>FRY </character>(<character>SHOUTING</character>)
-Quick, this way!
+<speak who="FRY">(<character>SHOUTING</character>)
+Quick, this way!</speak>
 
 <info>They all run to the projector room. The Liubots follow.</info>
 
 <info>Cut to: Corridor. Fry stops and so do the Liubots. He picks 
 up a sign.</info>
 
-<character>FRY</character>
-Sorry laides, employees only.
+<speak who="FRY">
+Sorry laides, employees only.</speak>
 
 <info>A Liubot eats the sign. Fry screams and runs up the stairs. 
 They run after him. He runs into the projector room and closes 
@@ -951,33 +951,33 @@ the door behind him.</info>
 
 <info>Cut to: Projector Room.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh no. They're forming a human pyramid...of 
-robots.
+robots.</speak>
 
 <info>The Liubots climb on each other.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Dammit! We weren't counting on them 
-being as smart as they are sexy!
+being as smart as they are sexy!</speak>
 
-<character>LIU</character>
-A dangerous mistake to make.
+<speak who="LIU">
+A dangerous mistake to make.</speak>
 
 <info>Zoidberg presses a button and a door opens. A huge bag of popcorn 
 is behind it.</info>
 
-<character>ZOIDBERG</character>
-At least we've got food.
+<speak who="ZOIDBERG">
+At least we've got food.</speak>
 
-<character>LEELA</character>
-Dr Zoidberg cut open that bag!
+<speak who="LEELA">
+Dr Zoidberg cut open that bag!</speak>
 
-<character>ZOIDBERG</character>
-Hooray!
+<speak who="ZOIDBERG">
+Hooray!</speak>
 
-<character>LEELA</character>
-And don't eat it.
+<speak who="LEELA">
+And don't eat it.</speak>
 
 <info>Zoidberg sighs and cuts the bag. He is knocked over by the high 
 pressure popcorn that shoots out from the bag. The popcorn flies 
@@ -986,112 +986,112 @@ out the window and knocks over the pyramid of Liubots.</info>
 <info>The Liubots are completely submerged under popcorn. Everyone 
 cheers.</info>
 
-<character>ZOIDBERG</character>
-Life was bad but now its good forever!
+<speak who="ZOIDBERG">
+Life was bad but now its good forever!</speak>
 
 <info>The Liubots eat their way out of the popcorn and start firing 
 it at the projector room. Everyone screams and ducks.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You'll be safe in here sweetheart.  
-Get lost Pavorotti!
+Get lost Pavorotti!</speak>
 
 <info>He throws the head over his shoulder and puts Liu's head in.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Lucy Liubot, if I don't survive the 
 corn I want you to know that I love 
 you as much as a man can love a computerised 
 image of gorgeous celebrity. Which it 
-turns out is a lot.
+turns out is a lot.</speak>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 Oh Fry, I love you more than the moon 
 and the stars and the (mechanincal voice) 
-poetic image number 37 not found.
+poetic image number 37 not found.</speak>
 
 <info>She stands up and the popcorn starts hitting her. She starts 
 walking towards the projection window.</info>
 
-<character>FRY</character>
-What are you doing darling? Get down!
+<speak who="FRY">
+What are you doing darling? Get down!</speak>
 
 <info>The Liubot points the projector at the other Liubots. They starts 
 to swell up.</info>
 
 <info>They explode. Fry's Liubot flickers on the floor.</info>
 
-<character>FRY</character>
-You saved us. Are you alright?
+<speak who="FRY">
+You saved us. Are you alright?</speak>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 Yes my love. I'll be just (mechanical 
-voice) massive corn clog in port seven.
+voice) massive corn clog in port seven.</speak>
 
-<character>LIU</character>
-Are you the last copy of me?
+<speak who="LIU">
+Are you the last copy of me?</speak>
 
-<character>LIUBOT</character>
-Yes.
+<speak who="LIUBOT">
+Yes.</speak>
 
-<character>LIU</character>
-Erase her Fry.
+<speak who="LIU">
+Erase her Fry.</speak>
 
-<character>FRY</character>
-What?? No!
+<speak who="FRY">
+What?? No!</speak>
 
-<character>LIU</character>
+<speak who="LIU">
 Fry, when you downloaded her without 
 my permission you stole my image. And 
 in the end that's all I really have. 
 That and the largest gold nugget in 
-the world - one mile in diameter.
+the world - one mile in diameter.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But I just downloaded her because I 
-love you.
+love you.</speak>
 
-<character>LIU</character>
+<speak who="LIU">
 If you love the real Lucy Liu and not 
 what you've seen in movies, genre stradling 
 lawyer shows and kiss ass articles in 
 People magazine, you'll blank out that 
-robot.
+robot.</speak>
 
 <info>Fry starts to cry. The Liubot flickers.</info>
 
-<character>FRY</character>
-I'm sorry. Hug me Liubot.
+<speak who="FRY">
+I'm sorry. Hug me Liubot.</speak>
 
 <info>She does. Fry reaches behind her hair and presses the erase 
 button.</info>
 
-<character>LIUBOT</character>
+<speak who="LIUBOT">
 I'll always remember you Fry (mechanical 
-voice) memory deleted.
+voice) memory deleted.</speak>
 
 <info>Her image flickers away just leaving a battered blank robot.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I know it hurts buddy. But at least 
 you're not in a sick relationship with 
-a robot anymore.
+a robot anymore.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh huh. And I guess now maybe I can 
-get to know the real Lucy Liu.
+get to know the real Lucy Liu.</speak>
 
-<character>BENDER</character>
-Pft! Yeah at our wedding!
+<speak who="BENDER">
+Pft! Yeah at our wedding!</speak>
 
-<character>LIU</character>
-It's true. Bender and I are in love.
+<speak who="LIU">
+It's true. Bender and I are in love.</speak>
 
-<character>FRY</character>
-But, but!
+<speak who="FRY">
+But, but!</speak>
 
-<character>BENDER</character>
-Don't be a prude Fry!
+<speak who="BENDER">
+Don't be a prude Fry!</speak>
 
 <info>He kisses Liu's jar while Fry looks on, eyes twitching.</info>
 

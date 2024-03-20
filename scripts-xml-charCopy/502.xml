@@ -14,90 +14,90 @@ Knuckle Co.</info>
 in front of a mirror wearing a magician's outfit. Fry wears a 
 snazzy leotard. Bender speaks into the mirror.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ahem! For my next trick, notice I have 
 nothing up my sleeves......and nothing 
 in my head.  So if my lovely assistant 
 will kindly supply me with an ordinary, 
 non-fake pitcher of milk......behold 
 the milk has vanished! Exiled, perhaps, 
-to another dimension!
+to another dimension!</speak>
 
 <info>He bows to his "audience." As he bows milk drips out from his 
 chest cabinet. Fry applauds.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Amazing! That's why they call you "Bender 
-The Magnificent"!
+The Magnificent"!</speak>
 
-<character>BENDER</character>
-No it isn't!
+<speak who="BENDER">
+No it isn't!</speak>
 
 <info>He throws the newspaper across the room into a bin. Fry sees 
 the headline: Archeologists Discover "Slice Of Old New York"</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Whoa! They discovered an intact, 20th 
 Century pizzeria! Just like the one 
-I used to work at!
+I used to work at!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Interesting. No wait the other thing 
-- tedious!
+- tedious!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Lets go check it out. You can see how 
-I lived before I met you.
+I lived before I met you.</speak>
 
-<character>BENDER</character>
-You lived before you met me?
+<speak who="BENDER">
+You lived before you met me?</speak>
 
-<character>FRY</character>
-Sure. Lots of people did.
+<speak who="FRY">
+Sure. Lots of people did.</speak>
 
-<character>BENDER</character>
-Really?
+<speak who="BENDER">
+Really?</speak>
 
 <info>Museum. Fry and Bender walk down a corridor to the exhibit. 
 Bender hums.</info>
 
 <info>Cut to: Museum: Pizzeria.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Truly, they were as Gods who build this 
-place!
+place!</speak>
 
 <info>A tour group enters.</info>
 
-<character>TOUR GUIDE</character>
+<speak who="TOUR GUIDE">
 Next, we come to the splendidly preserved 
 wooden pizza paddle.  Scientists theorise 
 it was used to gently discipline the 
-delivery boy.
+delivery boy.</speak>
 
 <info>Fry crouches next to the robot delivery boy and fiddles around 
 with his hair so it looks like his robot counterpart's. He notices 
 a menu on the wall. A menu which says "Panucci's Pizza."</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait a second! This is Panucci's! I 
 used to work in this exact pizzeria! 
 And for your information lady, this 
 was not just used to paddle my butt, 
 it was also used to move pizzas and 
-crush rats.
+crush rats.</speak>
 
-<character>TOUR GUIDE</character>
+<speak who="TOUR GUIDE">
 I don't know where you get your facts 
 sir but I am a volunteer housewife with 
 45 minutes of orientation and a harlequin 
-romance about archeologists!
+romance about archeologists!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Don't wave your fancy degrees at me. 
 I recognise all this stuff.  Petrified 
 sausages, Old Mr Patelli, and that's 
--
+-</speak>
 
 <info>He gasps. There is a dog shaped black thing in the display case.</info>
 
@@ -106,25 +106,25 @@ sausages, Old Mr Patelli, and that's
 <info>Street. The dog sits in an alley scratching itself. It sees 
 Fry across the street delivering a pizza. Fry buzzes a buzzer.</info>
 
-<character>VOICE </character><info>ON <character>BUZZER</character>.</info>
-Yes?
+<speak who="VOICE"><info>ON <character>BUZZER</character>.</info>
+Yes?</speak>
 
-<character>FRY</character>
-Pizza delivery for Mr......Seymour Asses.
+<speak who="FRY">
+Pizza delivery for Mr......Seymour Asses.</speak>
 
-<character>VOICE </character><info>ON <character>BUZZER</character>.</info>
+<speak who="VOICE"><info>ON <character>BUZZER</character>.</info>
 There's no one by that name here...or 
 anywhere. I hope that in time you'll 
-realise what an idiot you've been.
+realise what an idiot you've been.</speak>
 
-<character>FRY</character>
-I wouldn't count on it.
+<speak who="FRY">
+I wouldn't count on it.</speak>
 
 <info>Cut to: Alley. Fry sits leaning against a wall. He opens the 
 pizza box and takes out a slice and starts to eat it. The dog 
 crawls out from behind a dumpster and whines. Fry sees him.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Aww. Poor little guy. You look like 
 you haven't eaten in a month. Here......but 
 if Mr Panucci asks, your name is Seynour 
@@ -135,7 +135,7 @@ other.  People think you're a dumb mutt
 who smells bad, can't find a girlfriend 
 and has a crummy job. But you're keepin' 
 it real and call no man "Mister."  Well 
-goodbye.  Live long and prosper.
+goodbye.  Live long and prosper.</speak>
 
 <info>He rides away. Seymour watches.</info>
 
@@ -143,226 +143,226 @@ goodbye.  Live long and prosper.
 
 <info>Flashback ends. Bender reacts to the petrified dog.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yuck! That's the least appetising calzone 
-I've ever seen!
+I've ever seen!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 No! That's my dog in there! It's an 
-outrage I say!
+outrage I say!</speak>
 
 <info>He grabs Bender's foot, smashes the display case and takes Seymour. 
 Bender hops around holding his foot.</info>
 
-<character>BENDER</character>
-Ow ow ow!
+<speak who="BENDER">
+Ow ow ow!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm taking him home and I'd like to 
-see anyone try and stop me.  Uh-oh!
+see anyone try and stop me.  Uh-oh!</speak>
 
 <info>Cut to: Street. The security guards literally throw Fry out 
 of the building. He bounces down the steps.</info>
 
-<character>FRY</character>
-Ow, oo ow, oo ah!
+<speak who="FRY">
+Ow, oo ow, oo ah!</speak>
 
 <info>Planet Express: Meeting Room.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 ...And then he was ejected by the guards. 
-Needless to say, I was mortified.
+Needless to say, I was mortified.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well it's not right to make my dead 
 pet an exhibit. That's like digging 
 up Lassie and putting her on display 
-in the Louvre.
+in the Louvre.</speak>
 
-<character>AMY</character>
-Lassie is on display in the Louvre.
+<speak who="AMY">
+Lassie is on display in the Louvre.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I know, I was deliberately describing 
-a similar situation.
+a similar situation.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Why don't you try protesting? Like those 
 native Martians. Always whining that 
 people don't treat their ancestor's 
-bones with respect.
+bones with respect.</speak>
 
 <info>He takes a slurp from a mug which look suspiciously like a Martian 
 skull.</info>
 
-<character>BENDER</character>
-Nah, protesting never works.
+<speak who="BENDER">
+Nah, protesting never works.</speak>
 
-<character>FRY</character>
-You're right.  I'll give it a shot!
+<speak who="FRY">
+You're right.  I'll give it a shot!</speak>
 
 <info>Street. Fry is outside the museum holding a sign and a megaphone.</info>
 
-<character>CROWD </character>(<character>CHANTING</character>)
-What do you want?
+<speak who="CROWD">(<character>CHANTING</character>)
+What do you want?</speak>
 
-<character>CROWD</character>
-(chanting) When do you want it?
+<speak who="CROWD">
+(chanting) When do you want it?</speak>
 
-<character>CROWD</character>
-Yaaay!
+<speak who="CROWD">
+Yaaay!</speak>
 
 <info>He turns on a tape dances to the Hustle. Leela reads a book.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It says this part of The Hustle implores 
 the Gods to grant a favour. Usually 
-a Trans-<character>AM</character>.
+a Trans-<character>AM</character>.</speak>
 
 <info>Flashback - July 1998 The Summer Of "I Still Know What You Did 
 Last Summer."</info>
 
 <info>Street. Fry cycles down the street towards Panucci's singing.</info>
 
-<character>FRY </character>(<character>SINGING</character>)
+<speak who="FRY">(<character>SINGING</character>)
 I'm walking on sunshine! Ooo-oo-ooh! 
 I'm walking on sunshine! Ooo-oo-ooh! 
 At a boy Seymour! Right here waiting 
 for me as always! Just like that huge 
-mushroom in my shower!
+mushroom in my shower!</speak>
 
 <info>He goes inside. Seymour follows through the dog flap.</info>
 
 <info>Cut to: Panucci's Pizza.</info>
 
-<character>PANUCCI</character>
+<speak who="PANUCCI">
 Hey there's our little mascot!  Aww 
 you been swimming in the sewer again? 
-You little rascal!  Fry, cleanup!
+You little rascal!  Fry, cleanup!</speak>
 
-<character>FRY</character>
-Seymour, cleanup!  Good dog!
+<speak who="FRY">
+Seymour, cleanup!  Good dog!</speak>
 
-<character>PANUCCI</character>
-That's a good Seymour!
+<speak who="PANUCCI">
+That's a good Seymour!</speak>
 
 <info>A boy is playing an arcade game when he notices something is 
 wrong with his pizza.</info>
 
-<character>BOY</character>
-Yo! There's dog fur on my slice!
+<speak who="BOY">
+Yo! There's dog fur on my slice!</speak>
 
-<character>PANUCCI</character>
-Nah, that's vermicelli! No fur in here!
+<speak who="PANUCCI">
+Nah, that's vermicelli! No fur in here!</speak>
 
 <info>He sneezes into the dough and continues rubbing it. Seymour 
 swims around in the tomato.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 He's so cute! He can do two things at 
 one time: Eat and swim. Ooo - three 
-things.
+things.</speak>
 
 <info>Flashback ends. Fry is still dancing. It is raining. The music 
 is getting muffled.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, its been three days. You can't 
 keep boogie-ing like this. You'll come 
-down with a fever of some sort.
+down with a fever of some sort.</speak>
 
 <info>Two men - Ben Beeler and his associate Ray - walk out of the 
 museum. Beeler introduces himself.</info>
 
-<character>BEELER</character>
+<speak who="BEELER">
 Mr. Fry? I'm Dr Ben Beeler, the paleontologist 
 who discovered your dog, or as some 
-call it, the Beeler-saurus.
+call it, the Beeler-saurus.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 So do I get Seymour back? Are you caving 
-to political pressure?
+to political pressure?</speak>
 
-<character>BEELER</character>
+<speak who="BEELER">
 No we're sorry but there's just too 
 much that fossil can teach us about 
-dogs from your time.
+dogs from your time.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 His name was Seymour. He was once intimate 
 with the leg of a wandering saxaphonist. 
 He had wet dog smell, even when dry. 
 And he was not above chasing the number 
-29 bus.
+29 bus.</speak>
 
-<character>RAY</character>
-The 29? Interesting.
+<speak who="RAY">
+The 29? Interesting.</speak>
 
-<character>BEELER</character>
-That's all I needed, Ray?
+<speak who="BEELER">
+That's all I needed, Ray?</speak>
 
-<character>RAY</character>
-I'm good.
+<speak who="RAY">
+I'm good.</speak>
 
-<character>BEELER</character>
-OK then, here's your dog back.
+<speak who="BEELER">
+OK then, here's your dog back.</speak>
 
 <info>He takes Seymour's black fossil out of his briefcase and hands 
 it to Fry. He hugs him and chuckles.</info>
 
-<character>FRY</character>
-Seymour!
+<speak who="FRY">
+Seymour!</speak>
 
 <info>Planet Express: Lounge. Bender the Magnificent has sawn Dr Zoidberg 
 in half. Although his feet look oddly human.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Lady and Gentleman! How 'bout a hand 
-for my temporary replacement assistant?
+for my temporary replacement assistant?</speak>
 
 <info>Scruffy and Leela applaud. Zoidberg jumps out of one half of 
 the box. He is wearing Fry's leotard.</info>
 
-<character>ZOIDBERG</character>
-I was all in this part! Its magic!
+<speak who="ZOIDBERG">
+I was all in this part! Its magic!</speak>
 
 <info>Bender beats him with his wand as he speaks.</info>
 
-<character>BENDER</character>
-You are not fit to wear Fry's leotard!
+<speak who="BENDER">
+You are not fit to wear Fry's leotard!</speak>
 
-<character>ZOIDBERG</character>
-Stop!
+<speak who="ZOIDBERG">
+Stop!</speak>
 
 <info>Enter Farnsworth, Fry and Seymour.</info>
 
-<character>FRY</character>
-Good news everyone!
+<speak who="FRY">
+Good news everyone!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hooray, he's back! He's looking for 
 a garbage can to put that dog in! Here 
-you go buddy!
+you go buddy!</speak>
 
 <info>He holds up a waste basket.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No, actually we've discovered Fry's 
 dog was fast-fossilised, preserving 
-it's cellular structure!
+it's cellular structure!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Which means...we can clone it! Seymour 
-will live again!
+will live again!</speak>
 
 <info>Leela gasps.</info>
 
-<character>ZOIDBERG</character>
-A little land mammal!
+<speak who="ZOIDBERG">
+A little land mammal!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Can you believe it Bender? I'm going 
-to have my best friend back!
+to have my best friend back!</speak>
 
 <info>Bender turns away and starts to cry. His tears turn into balloons, 
 he cries doves and his antenna sprouts flowers.</info>
@@ -370,67 +370,67 @@ he cries doves and his antenna sprouts flowers.</info>
 <info>Planet Express: Attic. Farnsworth has set up his cloning machine. 
 The crew look on. Enter annoying moron Cubert.</info>
 
-<character>CUBERT</character>
-Why the idiot convention?
+<speak who="CUBERT">
+Why the idiot convention?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Ah Cubert, my precious babe. I'm going 
 to attempt to clone Fry's dog. Using 
 the very same apparatus I used to clone 
 you!  Ooo look, there's a smidge of 
 toe still in here.  You see, beneath 
 the fossil's crunchy, mineral shell, 
-there's still a creamy core of dog nougat!
+there's still a creamy core of dog nougat!</speak>
 
 <info>On the screen an arrow points to a yellow blob inside Seymour.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 So will Seymour remember how to sing 
-Walking On Sunshine?
+Walking On Sunshine?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Amazingly yes. In cases of rapid fossilisation, 
 I can press this brain scan button, 
 retrieving Seymour's memories at the 
-precise instant of doggy death!
+precise instant of doggy death!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm gonna get my puppy back! In your 
-face, Grim Reaper!
+face, Grim Reaper!</speak>
 
-<character>BENDER</character>
-Crappy ineffective Reaper!
+<speak who="BENDER">
+Crappy ineffective Reaper!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I just need to reset the Clone-O-Mat 
-from Human Mode to Dog Mode.
+from Human Mode to Dog Mode.</speak>
 
 <info>He turns a switch around to a picture of a dog. It is like a 
 child's toy.</info>
 
-<character>WOMAN</character>'S <character>VOICE</character>
-The dog says 
+<speak who="WOMAN">'S <character>VOICE</character>
+The dog says </speak>
 
-<character>FARNSWORTH</character>
-Uh-oh, this may take a while.
+<speak who="FARNSWORTH">
+Uh-oh, this may take a while.</speak>
 
 <info>He bashes the switch.</info>
 
 <info>Flashback - December 31 1999. Fry is "teaching" a kid to play 
 an arcade game at Panucci's.</info>
 
-<character>KID</character>
-You stink loser!
+<speak who="KID">
+You stink loser!</speak>
 
 <info>Panucci leans over the counter with the pizza.</info>
 
-<character>PANUCCI</character>
-Hey, Fry. Pizza goin' out. C'mon!
+<speak who="PANUCCI">
+Hey, Fry. Pizza goin' out. C'mon!</speak>
 
-<character>FRY</character>
-But I'm celebrating New Years Eve.
+<speak who="FRY">
+But I'm celebrating New Years Eve.</speak>
 
-<character>PANUCCI</character>
+<speak who="PANUCCI">
 Like you got squat to celebrate! You're 
 a delivery boy this millenium and you'll 
 be a delivery boy next millenium!  What's 
@@ -438,14 +438,14 @@ with Seymour? Its like he don't want
 you to go. Or he thinks your pants is 
 too short or somethin'. Which is crazy 
 'cause frankly you look fabulous. Now 
-get goin'!!
+get goin'!!</speak>
 
 <info>Street. Fry unlocks his bike. Seymour put his paw on the wheel 
 so Fry can't go anywhere.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I won't be gone long Seymour. Just wait 
-here 'til I come back.
+here 'til I come back.</speak>
 
 <info>He rides off. Seymour sits, waiting.</info>
 
@@ -459,12 +459,12 @@ around the room and a desk and a chair in the middle of the room.
 Fry wipes some condesnsation from a window on one of the pods, 
 revealing the face of an inanimate man inside.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hello? Pizza delivery for......Icy Wiener?! 
 Aw crud! I always thought at this point 
 in my life I'd be the one making the 
 crank calls!  Here's to another lousy 
-Millenium.  What the?
+Millenium.  What the?</speak>
 
 <info>He looks around and screams. In a flash he is frozen in time.</info>
 
@@ -474,127 +474,127 @@ Millenium.  What the?
 Fry unloads dog food into the cupboards. Enter Bender who notices 
 a dog collar on the side.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 A dog collar for me?  You shouldn't 
-have!
+have!</speak>
 
-<character>FRY</character>
-That's for Seymour.
+<speak who="FRY">
+That's for Seymour.</speak>
 
 <info>Bender takes it off.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh.  Say why'd you get me a subscription 
 to the Daily Growl? That's not a reputable 
-journal of opinion.
+journal of opinion.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh that's also for Seymour. I'm getting 
-everything ready for when he's cloned.
+everything ready for when he's cloned.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Are you on the jump Fry? Why are you 
 wasting time on a creature of inferior 
-intelligence?
+intelligence?</speak>
 
-<character>FRY</character>
-Hey he was smart. He could fetch.
+<speak who="FRY">
+Hey he was smart. He could fetch.</speak>
 
-<character>BENDER</character>
-I can fetch.
+<speak who="BENDER">
+I can fetch.</speak>
 
 <info>He runs out then back in again carrying an Easter Island Head.</info>
 
-<character>FRY</character>
-He could dig up bones.
+<speak who="FRY">
+He could dig up bones.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hello? Charlamange?  Plus, I'll bet 
 he couldn't create a laser show with 
-his head.
+his head.</speak>
 
 <info>The lights go out and Bender creates a laser show with his head. 
 Grooby music plays.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Look Bender, this has nothing to do 
-with you.
+with you.</speak>
 
-<character>BENDER</character>
-That's impossible!
+<speak who="BENDER">
+That's impossible!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Now if you'll excuse me I'm working 
-on Seymour's doghouse.
+on Seymour's doghouse.</speak>
 
 <info>He points to a kennel and holds a sign saying "Seymour" ready 
 to nail it on. Bender walks out.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 No one ever asks if Bender would like 
 to live in a tiny little house. Not 
 that I would. A tiny little house that 
-says "Bender" on it.  Ow!
+says "Bender" on it.  Ow!</speak>
 
 <info>Flashback - January 1st 2000. </info>
 
 <info>The Frys' House. Mr Fry is on the phone but can only hear Fry's 
 answerphone message.</info>
 
-<character>FRY </character><info>ON <character>ANSWERPHONE</character></info>
+<speak who="FRY"><info>ON <character>ANSWERPHONE</character></info>
 This is Fry. If you're calling about 
 the used towels for sale, they're still 
-available for $45 each.
+available for $45 each.</speak>
 
 <info>The answerphone beeps.</info>
 
-MR <character>FRY</character>
+MR <speak who="FRY">
 Phil, it's your father. Where are you? 
 You're holding up New Years brunch. 
-Your brother can't wait any longer.
+Your brother can't wait any longer.</speak>
 
 <info>Yancy picks up a sandwich.</info>
 
-<character>YANCY</character>
+<speak who="YANCY">
 Hello first baloney of the new millenium! 
-Ah here he comes. That's him and Seymour.
+Ah here he comes. That's him and Seymour.</speak>
 
 <info>Mr Fry opens the door and Seymour runs in barking.</info>
 
-<character>MRS FRY</character>
+<speak who="MRS FRY">
 Well that's odd. Seymour's here but 
 -  - Go! Go! Touchdown!! But where's 
-Philip?
+Philip?</speak>
 
-MR <character>FRY</character>
+MR <speak who="FRY">
 I'm tellin' you the Y2K computer's got 
 him. We'll face burnin' roads, rivers 
 explodin' and calculators transformed 
 into <character>SCUD</character> missiles. There's nothing 
 we can do.  What's that Seymour? You 
-walking on sunshine?
+walking on sunshine?</speak>
 
 <info>He runs over to the door and scratches it.</info>
 
-<character>YANCY</character>
+<speak who="YANCY">
 He's trying to tell us something. Maybe 
-he can lead us to Philip.
+he can lead us to Philip.</speak>
 
 <info>Cut to: Outside The Frys' House. Seymour runs out the front 
 door.</info>
 
-<character>YANCY</character>
-Should we follow him?
+<speak who="YANCY">
+Should we follow him?</speak>
 
-MR <character>FRY</character>
-To our deaths? Negatory.
+MR <speak who="FRY">
+To our deaths? Negatory.</speak>
 
 <info>Cut to: The Frys' House.</info>
 
-MR <character>FRY</character>
+MR <speak who="FRY">
 It's the Y2K tryin' to lure us into 
 an ambush. And I ain't buyin' it. Pass 
-the baloney.
+the baloney.</speak>
 
 <info>He eats a sandwich.</info>
 
@@ -603,103 +603,103 @@ the baloney.
 <info>Planet Express: Lounge. Leela and Amy wrestle while Fry stands 
 at the side holding Seymour. Leela pins Amy down.</info>
 
-<character>FRY</character>
-Are you two gonna be done soon?
+<speak who="FRY">
+Are you two gonna be done soon?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Sorry, but we need to practice hand 
 to hand combat in case an enemy knocks 
 the laser gun out of our hands and they 
-slide waaay across the room.
+slide waaay across the room.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well could you do it some place else? 
-I'm setting up Seymour's doggy bed.
+I'm setting up Seymour's doggy bed.</speak>
 
-<character>LEELA</character>
-<character>OK</character>.
+<speak who="LEELA">
+<character>OK</character>.</speak>
 
 <info>She drags Amy out of Fry's way. Fry kicks the mat out of the 
 way and puts Seymour's bed on the floor next to the couch. Enter 
 Bender and a Robo-Puppy.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Heel boy, heel! Oh hello Fry, I guess 
 I didn't notice you there. I'm having 
-such fun with my new best friend Robo-Puppy.
+such fun with my new best friend Robo-Puppy.</speak>
 
-<character>FRY </character>(<character>NOT CARING</character>)
-That's nice.
+<speak who="FRY">(<character>NOT CARING</character>)
+That's nice.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I was just out walking him. Yes. You 
 can walk him. Of course, after he goes 
 you have to refill the canisters. C'mere 
-boy! Pet, pet, pet.
+boy! Pet, pet, pet.</speak>
 
-<character>ROBO</character>-<character>PUPPY</character>
-Robo-Puppy receiving petting.
+<speak who="ROBO">-<character>PUPPY</character>
+Robo-Puppy receiving petting.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Bender, are you jealous of Fry's puppy? 
-That's so adorable!
+That's so adorable!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Jealous? Hah!  Not while I have the 
 love of Robo-Puppy here. Robo-Puppy, 
-lick my cheek.
+lick my cheek.</speak>
 
-<character>ROBO</character>-<character>PUPPY</character>
+<speak who="ROBO">-<character>PUPPY</character>
 Robo-Puppy preparing to lick cheek. 
 Robo-Puppy commencing cheek licking. 
-Licking in progress. Licking complete.
+Licking in progress. Licking complete.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Robo-Puppy truly is robots best friend! 
-Eh?
+Eh?</speak>
 
 <info>Fry finishes the bed.</info>
 
-<character>FRY</character>
-Ah there, perfect!
+<speak who="FRY">
+Ah there, perfect!</speak>
 
 <info>A fanfare sound sounds and a huge hologram of Farnsworth's head 
 appears in the room.</info>
 
-<character>HOLO</character>-<character>FARNSWORTH</character>
+<speak who="HOLO">-<character>FARNSWORTH</character>
 Good news everyone! The Clone-O-Mat 
-is ready!
+is ready!</speak>
 
 <info>The hologram disappears.</info>
 
-<character>LEELA</character>
-Woohoo!
+<speak who="LEELA">
+Woohoo!</speak>
 
-<character>AMY</character>
-Yay!
+<speak who="AMY">
+Yay!</speak>
 
 <info>Leela slams Amy down.</info>
 
-<character>FRY</character>
-Finally!
+<speak who="FRY">
+Finally!</speak>
 
 <info>Bender growls.</info>
 
-<character>ROBO</character>-<character>PUPPY</character>
+<speak who="ROBO">-<character>PUPPY</character>
 Robo-Puppy commencing two hour yipping 
 session.  Robo-Puppy mistreatment alert! 
-Robo-Puppy mistreatment alert!
+Robo-Puppy mistreatment alert!</speak>
 
 <info>Planet Express: Attic. The crew are standing in front of the 
 Clone-O-Mat. The roof is open.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Behold once more the mighty Clone-O-Mat! 
 Requiring such vast amounts of electricity 
 that we must harness the elemental power 
 of nature itself!  I speak of course...of 
 molten lava! Deep within the Earth's 
-core. To the sub-basement!
+core. To the sub-basement!</speak>
 
 <info>He pulls a lever and the Clone-O-Mat, crew and all go down.</info>
 
@@ -707,64 +707,64 @@ core. To the sub-basement!
 platform down. It topples but he rights it. Farnsworth steps 
 off.</info>
 
-<character>FRY</character>
-Come on boy! Come back to life!
+<speak who="FRY">
+Come on boy! Come back to life!</speak>
 
-<info>He pulls a chain and Seymour's <character>DNA</character> begins to be extracted. Enter 
+<info>He pulls a chain and Seymour's DNA begins to be extracted. Enter 
 Bender The Magnificent.</info>
 
-<character>BENDER</character>
-Fry c'mon, the talent show!
+<speak who="BENDER">
+Fry c'mon, the talent show!</speak>
 
-<character>FRY</character>
-What? I'm in the middle of something.
+<speak who="FRY">
+What? I'm in the middle of something.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 But, if we don't perform, in what sense 
-do we have an act?
+do we have an act?</speak>
 
-<character>FRY</character>
-Bender, enough! Leave me alone!
+<speak who="FRY">
+Bender, enough! Leave me alone!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 So that's how it is huh? I thought you 
 were my friend. But if you love your 
 dog so much then maybe you'd rather 
-play fetch!
+play fetch!</speak>
 
 <info>He picks up Seymour and throws him into the molten lava.</info>
 
-<character>LEELA</character>
-No!
+<speak who="LEELA">
+No!</speak>
 
-<character>ZOIDBERG</character>
-Oh!
+<speak who="ZOIDBERG">
+Oh!</speak>
 
 <info>Seymour sinks. Fry gasps. Bender laughs and hugs Fry.</info>
 
-<character>BENDER</character>
-Now I'm all you got!
+<speak who="BENDER">
+Now I'm all you got!</speak>
 
 <info>Time Lapse. Fry starts weakly hitting Bender.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I hate you! I hate you! You evil metal 
-man!  Ow!
+man!  Ow!</speak>
 
 <info>He falls to the floor and curls up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 So anyway your dog is melted. Now we're 
-friends again.
+friends again.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Not necessarily. For the dog may yet 
-survive.
+survive.</speak>
 
-<character>FRY</character>
-May yet? Really?
+<speak who="FRY">
+May yet? Really?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Indeed. You see, that fossil was made 
 of dolomite. The tough black mineral 
 that won't cop out when there's heat 
@@ -775,29 +775,29 @@ at room temperature. I just wanted to
 get rid of it. But had it been made 
 of that righteous mineral dolomite, 
 there's a slim chance it might have 
-survived.
+survived.</speak>
 
-<character>FRY</character>
-So Seymour might still exist?
+<speak who="FRY">
+So Seymour might still exist?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Perhaps. For a few minutes. It's dolomite 
-baby!
+baby!</speak>
 
-<character>FRY</character>
-Then I'm goin' in after him.
+<speak who="FRY">
+Then I'm goin' in after him.</speak>
 
 <info>He takes his jacket off and rips off his shirt. He pulls off 
 his trousers and runs for the lava.</info>
 
-<character>AMY</character>
-No!
+<speak who="AMY">
+No!</speak>
 
-<character>ZOIDBERG</character>
-Stop!
+<speak who="ZOIDBERG">
+Stop!</speak>
 
-<character>FRY</character>
-He'd come after me.
+<speak who="FRY">
+He'd come after me.</speak>
 
 <info>Flashback - January 1st 2000.</info>
 
@@ -819,52 +819,52 @@ Pizza box. Seymour runs inside.</info>
 <info>Flashback ends. Fry takes a dive for the lava. Leela and Amy 
 push him to the ground.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Acting like a moron won't bring your 
-dog back.
+dog back.</speak>
 
-<character>FRY</character>
-Then all hope is lost.  Goodbye Seymour.
+<speak who="FRY">
+Then all hope is lost.  Goodbye Seymour.</speak>
 
 <info>He cries.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Please stop crying Fry. Here.  I assumed 
 you were just pretending to love the 
 dog. To toy with my emotions. Oh what 
-have I done?
+have I done?</speak>
 
 <info>He starts to cry.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 You didn't do anything. Don't beat yourself 
-up.
+up.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Fry, I'm sorry. I should have understood 
 how someone can love an inferior creature. 
 Because I love you. Not in the way of 
 the Ancient Greeks, but in the way a 
 robot loves a human, a human loves a 
 dog and occassionally, a gorilla loves 
-a kitty.  I'm goin' in!
+a kitty.  I'm goin' in!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I'm a professor! Why isn't anyone listening 
 to me? You can't go in because you'll 
 melt. The fossil only has a chance because 
-it's made of dolomite!
+it's made of dolomite!</speak>
 
-<character>BENDER</character>
-I'm 40% dolomite!
+<speak who="BENDER">
+I'm 40% dolomite!</speak>
 
 <info>He bags his chest and dives in. His hat and cape float on the 
 surface. Everyone gasps.</info>
 
 <info>Cut to: Lava.</info>
 
-<character>BENDER</character>
-Oh it's hot, it's very hot!
+<speak who="BENDER">
+Oh it's hot, it's very hot!</speak>
 
 <info>His casing starts to come apart.</info>
 
@@ -874,120 +874,120 @@ Oh it's hot, it's very hot!
 A man fixes a radiator and a cryogenisist sits at his desk nursing 
 a hangover.</info>
 
-<character>CRYOGENISIST</character>
+<speak who="CRYOGENISIST">
 Ugh, I am one hungover cryogenisist! 
 Just throw that mutt in the freezer 
-until his owners get here!
+until his owners get here!</speak>
 
-<character>MAN</character>
+<speak who="MAN">
 You can't solve all your problems by 
-freezing them boss.
+freezing them boss.</speak>
 
-<character>CRYOGENISIST</character>
-I think you're forgetting our motto.
+<speak who="CRYOGENISIST">
+I think you're forgetting our motto.</speak>
 
 <info>He points at a sign that reads "You Can Solve All Your Problems 
 By Freezing Them!" Underneath in a cryo-tube is a woman with 
 a rolling pin and an apron. Probably the man's wife. Enter Mr 
 and Mrs Fry.</info>
 
-MR <character>FRY</character>
+MR <speak who="FRY">
 Are you the cryogenisist who called 
-about our son's dog?
+about our son's dog?</speak>
 
-<character>CRYOGENISIST</character>
+<speak who="CRYOGENISIST">
 Oh you must be the Fry's. Yeah he's 
-right over there.
+right over there.</speak>
 
 <info>He points to Seymour who is still yelping at Fry's freezer.</info>
 
-<character>MRS FRY</character>
+<speak who="MRS FRY">
 Sorry we're late, we all got sick from 
-eating bad baloney!
+eating bad baloney!</speak>
 
-MR <character>FRY</character>
-Y2K!
+MR <speak who="FRY">
+Y2K!</speak>
 
 <info>Mr and Mrs Fry stand by Fry's freezer but they can't see him 
 inside.</info>
 
-<character>MRS FRY</character>
-What's he so worked up about?
+<speak who="MRS FRY">
+What's he so worked up about?</speak>
 
-MR <character>FRY</character>
+MR <speak who="FRY">
 He's just upset because our boy's missing. 
 C'mon you overgrown rat. Lead us to 
-Philip.
+Philip.</speak>
 
 <info>Seymour struggles to go back to Fry but Mr Fry drags him out.</info>
 
 <info>Flashback ends. Bender still hasn't returned to the surface.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender's been down there too long. I'm 
-going in after him.
+going in after him.</speak>
 
 <info>She starts to rip off her wrestling suit.</info>
 
-<character>FARNSWORTH</character>
-Professor! Lava! Hot!
+<speak who="FARNSWORTH">
+Professor! Lava! Hot!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 This is all my fault. I let my best 
 friend risk his life just to get my 
-dead dog back.  Bender!!
+dead dog back.  Bender!!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And that is why they call me Bender 
 The Magnificent!  Hey where'd everybody 
-go?
+go?</speak>
 
 <info>Time Lapse.</info>
 
-<character>BENDER</character>
-OK! Let's clone us some dog!
+<speak who="BENDER">
+OK! Let's clone us some dog!</speak>
 
-<character>FRY</character>
-Yeah!
+<speak who="FRY">
+Yeah!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Very well. Let this abomination unto 
 the Lord begin!  Interesting. It seems 
 Seymour died at the ripe old age of 
-15.
+15.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 15? You mean he lived for 12 more years 
-after I got frozen?
+after I got frozen?</speak>
 
-<character>FARNSWORTH</character>
-Indeed.
+<speak who="FARNSWORTH">
+Indeed.</speak>
 
-<character>FRY</character>
-Stop the cloning.
+<speak who="FRY">
+Stop the cloning.</speak>
 
 <info>He picks up a spanner and hits the Clone-O-Mat with it.</info>
 
-<character>FARNSWORTH</character>
-Oh sure! Smash the smart guy's machine!
+<speak who="FARNSWORTH">
+Oh sure! Smash the smart guy's machine!</speak>
 
-<character>BENDER</character>
-Fry, what's wrong?
+<speak who="BENDER">
+Fry, what's wrong?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Think about it. Seymour lived a full 
 life after I was gone. He probably added 
-new songs to his repertoire.
+new songs to his repertoire.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 But that's a good thing. Walking On 
-Sunshine sucks noodles!
+Sunshine sucks noodles!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I had Seymour 'til he was three. That's 
 when I knew him and that's when I loved 
 him.  I'll never forget him. But he 
-forgot me a long long time ago.
+forgot me a long long time ago.</speak>
 
 <info>He kisses Seymour and walks away.</info>
 

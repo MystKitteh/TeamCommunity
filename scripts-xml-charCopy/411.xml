@@ -10,54 +10,54 @@ Episode 411
 <info>Opening Credits. Caption: If Accidentally Watched, Induce Vomitting.</info>
 
 <info>Planet Express: Kitchen. Bender watches Good Morning Earth on 
-<character>TV</character>. A graphic of the sun peeking over the Earth appears on the 
+TV. A graphic of the sun peeking over the Earth appears on the 
 screen then it changes to Morbo and Linda in the regular Good 
 Morning Earth studio.</info>
 
-<character>MORBO </character><info>ON TV</info>
+<speak who="MORBO"><info>ON TV</info>
 Welcome back. Our next guest has been 
 teaching the world to cook for over 
 20 years. But apparently my uh, wife 
-hasn't been listening.
+hasn't been listening.</speak>
 
 <info>A laughter track is heard and Linda chuckles.</info>
 
-<character>LINDA </character><info>ON TV</info>
-Oh funny!
+<speak who="LINDA"><info>ON TV</info>
+Oh funny!</speak>
 
-<character>ELZAR </character><info>ON TV</info>
+<speak who="ELZAR"><info>ON TV</info>
 Morbo I'm gonna whip you up a nice, 
 unnameable horror from beyond - with 
-mango chutney.
+mango chutney.</speak>
 
 <info>He lifts a pot onto a hob. Morbo looks inside. Radiation flares 
 out of the pot and X-rays his head.</info>
 
-<character>MORBO </character><info>ON TV</info>
+<speak who="MORBO"><info>ON TV</info>
 Pathetic humans! Prepare to write down 
-the recipe!
+the recipe!</speak>
 
 <info>Bender hums as he stirs a pot of...something. Enter Fry.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, uh, what's with all the pots and 
-pans? You building a wife?
+pans? You building a wife?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Part of one. Meantime I'm cooking up 
-a tasty Sunday brunch for my best friends!
+a tasty Sunday brunch for my best friends!</speak>
 
 <info>He takes a chicken out of his chest cabinet and swallows it. 
 Shredding, whirring sounds come from inside him and he spits 
 out the chicken's skeleton. He dusts it off and puts it in a 
 frying pan.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Brunch. Right. I'd better warn - tell 
-- warntell the others!
+- warntell the others!</speak>
 
-<character>BENDER</character>
-Okey-dokey!
+<speak who="BENDER">
+Okey-dokey!</speak>
 
 <info>Fry leaves and Bender covers the chicken with a whole tub of 
 Motron's Salt. He opens another tub and adds an extra pinch of 
@@ -67,155 +67,155 @@ it.</info>
 are gathered around Farnsworth's lab table looking at a ship 
 in a bottle.</info>
 
-<character>HERMES</character>
-Ooo!
+<speak who="HERMES">
+Ooo!</speak>
 
-<character>LEELA</character>
-Nice!
+<speak who="LEELA">
+Nice!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Yes, it's a perfect scale model of the 
 universe's largest bottle. I put a tiny 
 spaceship inside to keep it from being 
-boring.
+boring.</speak>
 
-<character>ZOIDBERG</character>
-Ohh!
+<speak who="ZOIDBERG">
+Ohh!</speak>
 
 <info>He reaches out to the bottle.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Get -!  For the last time Zoidberg look 
-with your eyes not with your claws!
+with your eyes not with your claws!</speak>
 
 <info>He puts the bottle back on the table. Enter Fry.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Brace yourselves. Bender is making us 
-brunch.
+brunch.</speak>
 
 <info>Everyone gasps.</info>
 
-<character>ZOIDBERG</character>
-Oh boy!
+<speak who="ZOIDBERG">
+Oh boy!</speak>
 
-<character>FARNSWORTH</character>
-Oh God! My tract!
+<speak who="FARNSWORTH">
+Oh God! My tract!</speak>
 
 <info>He clutches his stomach.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 He's so proud of his awful cooking. 
-If we don't eat it he'll be crushed.
+If we don't eat it he'll be crushed.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Alright don't panic. If we can get to 
 the ship, we can fly north and hide 
-under the polar icecaps for a few weeks.
+under the polar icecaps for a few weeks.</speak>
 
-<character>FRY</character>
-Hurry!
+<speak who="FRY">
+Hurry!</speak>
 
-<character>FARNSWORTH</character>
-Good idea!
+<speak who="FARNSWORTH">
+Good idea!</speak>
 
-<character>ZOIDBERG</character>
-What's the hold-up?
+<speak who="ZOIDBERG">
+What's the hold-up?</speak>
 
 <info>They make for the door. It opens and Bender is standing there 
 stirring a bowl of slop.</info>
 
-<character>BENDER</character>
-Fleeing somewhere?
+<speak who="BENDER">
+Fleeing somewhere?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh, with you blocking the only escape 
-route? Don't be silly!
+route? Don't be silly!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 In that case brunch is served! Let's 
-go, move it out, stop crying Leela!
+go, move it out, stop crying Leela!</speak>
 
 <info>They all file out and Leela carries on crying. Farnsworth pokes 
 his head through the doorway.</info>
 
-<character>FARNSWORTH</character>
-Zoidberg, are you coming?
+<speak who="FARNSWORTH">
+Zoidberg, are you coming?</speak>
 
 <info>Zoidberg stops reaching for the bottle.</info>
 
-<character>ZOIDBERG</character>
-Sure. Me.
+<speak who="ZOIDBERG">
+Sure. Me.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Because I don't want you touching that 
-thing.
+thing.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 I know that.  Surrender your mysteries 
 to Zoidberg!  Oh no! Professor will 
 hit me. But if Zoidberg fixes it, then 
-perhaps gifts!  Ow, what? Ohh!
+perhaps gifts!  Ow, what? Ohh!</speak>
 
 <info>Planet Express: Lounge. The crew are sat around the table and 
 Bender dishes up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Today, I've personalised each of your 
 meals. For example, Amy, you're cute, 
 so I baked you a pony.  Come on! Eat! 
-I slaved all day over a filthy stove!
+I slaved all day over a filthy stove!</speak>
 
 <info>He walks into the kitchen.</info>
 
-<character>HERMES</character>
-This is terrible!
+<speak who="HERMES">
+This is terrible!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Good thing I secretly installed this 
-wormhole in the table!
+wormhole in the table!</speak>
 
 <info>He presses a button and the wormhole opens in the middle of 
 the table and scrapes his food - a human heart and some guts 
 - into it.</info>
 
-<character>AMY</character>
-Where does the other end come out?
+<speak who="AMY">
+Where does the other end come out?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 You know I'm not quite sure.  Oh dear 
-me!
+me!</speak>
 
 <info>He takes a cloth out of his lab coat and puts his hand in the 
 wormhole and wipes the food from off his head. Enter Bender humming. 
 His antenna pop-ups and dings like a microwave. He takes something 
 green out of his chest cabinet.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 The pie is ready. You guys like swarms 
-of things right?
+of things right?</speak>
 
 <info>Things crawl around underneath the pie crust. Enter Zoidberg 
 wearing a uncharacteristic long coat. The lab equipment pokes 
 out from the coat and there is a cuckoo clock behind his head.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Casual hello, it's me Zoidberg, act 
 naturally.  Ow! Ouch! Get off of me! 
-Stop!
+Stop!</speak>
 
-<character>LEELA</character>
-How interesting Dr Zoidberg. Do go on.
+<speak who="LEELA">
+How interesting Dr Zoidberg. Do go on.</speak>
 
 <info>She scrapes her food into a plant and sits down. Bender doesn't 
 notice. He walks back towards the kitchen, humming. He notices 
 the dead plant.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey check out the palm tree! It only 
 gets sick when I cook brunch! How's 
 that for a coincidence Professor? With 
-all your precious science!
+all your precious science!</speak>
 
 <info>He walks through the door.</info>
 
@@ -223,18 +223,18 @@ all your precious science!
 a bucket of filthy water and wrings it out into some glasses. 
 He opens the door a little way and hears Fry talking.</info>
 
-<character>FRY </character><info><character>FROM LOUNGE</character></info>
-Man, I don't wanna hurt Bender's feelings...
+<speak who="FRY"><info><character>FROM LOUNGE</character></info>
+Man, I don't wanna hurt Bender's feelings...</speak>
 
 <info>Cut to: Planet Express: Lounge.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 ...but this food actually tastes better 
-as vomit!
+as vomit!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's unbearable! How much do you think 
-it would cost to get my tongue removed?
+it would cost to get my tongue removed?</speak>
 
 <info>Bender is standing in the doorway crying. He drops the tray 
 of glasses and runs back into the kitchen. Whatever was in the 
@@ -248,8 +248,8 @@ on the latter paper. He looks at the checklist. "I Am Committing
 Suicide," "I Am Getting A Tattoo" and "I Am Running Away." He 
 ticks the last one.</info>
 
-<character>BENDER</character>
-(crying) And this time I mean it!
+<speak who="BENDER">
+(crying) And this time I mean it!</speak>
 
 <info>He ticks "And This Time I Mean It."</info>
 
@@ -259,66 +259,66 @@ and squeaking rats run out of it.</info>
 
 <info>Street. Bender walks down the street still crying.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aw, who am I kidding? It was stupid 
 of me to ever dream of becoming a chef. 
 I don't have what it takes and nothing 
 can change that.  Then it's settled! 
-Elzar will teach me to cook!
+Elzar will teach me to cook!</speak>
 
 <info>Elzar's Kitchen.</info>
 
-<character>ELZAR</character>
-Absolutely not.
+<speak who="ELZAR">
+Absolutely not.</speak>
 
 <info>Bender has his arms wrapped around Elzar's legs.</info>
 
-<character>BENDER</character>
-But I watch your show. You owe me!
+<speak who="BENDER">
+But I watch your show. You owe me!</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 I owe you nothing! For starter's your 
 antenna's in my crotch. Also I hate 
-you. Finally, you can't cook for squat.
+you. Finally, you can't cook for squat.</speak>
 
 <info>Bender cries then suddenly stops.</info>
 
-<character>BENDER</character>
-What was the first one again?
+<speak who="BENDER">
+What was the first one again?</speak>
 
-<character>ELZAR</character>
-I hate you.
+<speak who="ELZAR">
+I hate you.</speak>
 
-<character>BENDER</character>
-I thought that was number two.
+<speak who="BENDER">
+I thought that was number two.</speak>
 
-<character>ELZAR</character>
-I knocked it up a notch. Bam!
+<speak who="ELZAR">
+I knocked it up a notch. Bam!</speak>
 
 <info>He points to the door.</info>
 
 <info>Planet Express: Farnsworth's Lab. Zoidberg looks at the broken 
 bottle.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Aw, I'll never recombobulate this ship! 
 When the Professor finds out, he'll 
 tear me a new cloaca!  Wait! What would 
-the robot do?  Frame someone.
+the robot do?  Frame someone.</speak>
 
 <info>Enter Fry.</info>
 
-<character>FRY</character>
-What up?
+<speak who="FRY">
+What up?</speak>
 
 <info>Zoidberg laughs insanely.</info>
 
 <info>Planet Express: Bathroom. Fry is in the shower with his back 
 to the door. Enter Zoidberg.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 (singing) I'm walking on sunshine!  
-La la la la sunshine!
+La la la la sunshine!</speak>
 
 <info>Zoidberg replaces Fry's T-shirt with one that says "I Hate Bottles" 
 and eats the original.</info>
@@ -326,32 +326,32 @@ and eats the original.</info>
 <info>New New York Rooftops. Bender sits on some pipes. He has 5 o'clock 
 rust.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (crying) It's over! My dream of being 
 a chef is deadder than the cat I'm sitting 
-on!
+on!</speak>
 
 <info>Two hobos stand next to him.</info>
 
-<character>HOBO</character>
+<speak who="HOBO">
 Gus old chum, let's give a friendly 
-welcome to this new robo.
+welcome to this new robo.</speak>
 
 <info>Bender rolls up his sleeves.</info>
 
-<character>BENDER</character>
-What did you call me?
+<speak who="BENDER">
+What did you call me?</speak>
 
-<character>GUS</character>
-A robo. You know? A robot-hobo.
+<speak who="GUS">
+A robo. You know? A robot-hobo.</speak>
 
-<character>BENDER</character>
-Oh OK I thought you said "romo."
+<speak who="BENDER">
+Oh OK I thought you said "romo."</speak>
 
-<character>HOBO</character>
+<speak who="HOBO">
 No offence intended my filthy friend. 
 In fact, why not join us and ride the 
-space rails?
+space rails?</speak>
 
 <info>Space Train. The train heads down a space track carrying trucks 
 from such companies as Baltimore &amp; Orion, Starlight Express and 
@@ -359,13 +359,13 @@ Wrath-Of-Conrail. The train heads towards a small planet with
 a giant prism sticking out of it. A truck door opens. The hobos 
 are wearing spacesuits and Bender is with them.</info>
 
-<character>GUS</character>
+<speak who="GUS">
 Get ready. We's gonna jump off at that 
-switching prism up ahead.
+switching prism up ahead.</speak>
 
-<character>HOBO</character>
+<speak who="HOBO">
 We're going nearly the speed of light 
-so uh, roll when you land.
+so uh, roll when you land.</speak>
 
 <info>They jump and the train hits the prism and each truck flies 
 off in a different direction.</info>
@@ -373,132 +373,132 @@ off in a different direction.</info>
 <info>Cut to: Planet Surface. The hobos roll when they land and Bender 
 lands on his head.</info>
 
-<character>BENDER</character>
-Ow.
+<speak who="BENDER">
+Ow.</speak>
 
 <info>Bumbase Alpha. Hobos and Robos warm themselves around fires.</info>
 
-<character>GUS</character>
+<speak who="GUS">
 Welcome to Bumbase Alpha, the biggest 
-hobo jungle in the quadrant.
+hobo jungle in the quadrant.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I've seen bigger. Oh wait I'm thinking 
 of Eugene Oregon.  Wait. A pie with 
-hobo-lifting aroma? Who baked it?
+hobo-lifting aroma? Who baked it?</speak>
 
-<character>GUS</character>
+<speak who="GUS">
 Helmut Spargle. He used to be the greatest 
-chef.
+chef.</speak>
 
-<character>HOBO</character>
+<speak who="HOBO">
 His restaurant was so high toned, the 
 only way to get reservations was to 
 create a parallel universe where you 
-already had reservations.
+already had reservations.</speak>
 
-<character>GUS</character>
+<speak who="GUS">
 Yep. I once ate there back when I what 
-was a senator.
+was a senator.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yo Spargle, if you're such a great cook, 
-how'd you end up in this dump?
+how'd you end up in this dump?</speak>
 
 <info>Spargle is a small, bald man with a German accent. He sighs.</info>
 
-<character>SPARGLE</character>
-Ages ago I was the host of a TV show...
+<speak who="SPARGLE">
+Ages ago I was the host of a TV show...</speak>
 
 <info>Flashback. A younger Helmut Spargle cooks in a studio kitchen.</info>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 (voice-over) ...Down Home Country Kitchen 
 Mit Helmut Spargle. But one day the 
 extreme soda company that sponsored 
-the show decided it was too old fashioned.
+the show decided it was too old fashioned.</speak>
 
 <info>A man dressed in a Jammin Orange Blast can suit walks in.</info>
 
-<character>MAN</character>
+<speak who="MAN">
 Spargle, you're fired! We need a chef 
 who can attract today's younger extreme 
-cooking show viewer.
+cooking show viewer.</speak>
 
 <info>Enter a younger Elzar.</info>
 
-<character>SPARGLE</character>
-Elzar!
+<speak who="SPARGLE">
+Elzar!</speak>
 
-<character>ELZAR</character>
-Get lost old man! Bam!
+<speak who="ELZAR">
+Get lost old man! Bam!</speak>
 
 <info>Spargle's souffl� collapses.</info>
 
-<character>SPARGLE</character>
-Mein souffl�!
+<speak who="SPARGLE">
+Mein souffl�!</speak>
 
 <info>Flashback ends.</info>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 Elzar had been seduced by the dark side 
 of cooking. Cilantro, mango slasa, raspberry 
-vinaigrette!
+vinaigrette!</speak>
 
-<character>BENDER</character>
-That twizzler!
+<speak who="BENDER">
+That twizzler!</speak>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 As for me, I went temporarily insane 
 and vound up here - making pies out 
-of shoes.
+of shoes.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 My story's a lot like yours only more 
 interesting 'cause it involves robots. 
 That jerk Elzar ruined my dream of being 
-a chef too.
+a chef too.</speak>
 
 <info>He eats a piece of Spargle's pie.</info>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 Interesting. You wish to become a cook, 
 but as a robot you have no sense of 
-taste.
+taste.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 It's so unfair! I have eight other senses 
 but I'd trade them all, even smission, 
-to be able to taste.
+to be able to taste.</speak>
 
 <info>He takes the pie out of his chest cabinet.</info>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 You don't understand. Without the distraction 
 of taste, your mind is free to touch 
 the Zen of pure flavour. You could become 
-the greatest chef ever.
+the greatest chef ever.</speak>
 
-<character>BENDER</character>
-I could?
+<speak who="BENDER">
+I could?</speak>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 Yes. Just as Beethoven was a great composer 
-because he was deaf!
+because he was deaf!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Or like how Rembrandt was blind and 
-had wooden hands!
+had wooden hands!</speak>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 Bender, hear me well, I shall train 
 you. But first you must forget everything 
-you know about cooking.
+you know about cooking.</speak>
 
 <info>Bender presses a button on his body and he beeps.</info>
 
-<character>BENDER</character>
-Done.
+<speak who="BENDER">
+Done.</speak>
 
 <info>Montage Bender trains as a chef to Joe Esposito's You're The 
 Best � la The Karate Kid. First he learns to peel hover potatoes 
@@ -515,15 +515,15 @@ The hobos and robos applaud.</info>
 <info>Planet Express: Farnsworth's Lab. Farnsworth chats to a Spanish 
 friend on the phone.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 That's right Ricardo, a ship in a bottle...! 
-What's that...? Well hang on, I'll look.
+What's that...? Well hang on, I'll look.</speak>
 
 <info>He turns around and gasps. The bottle and ship are in pieces. 
 He drops the phone.</info>
 
-<character>RICARDO </character><info>ON <character>PHONE</character></info>
-Ola? Professor? Qu� pasa?
+<speak who="RICARDO"><info>ON <character>PHONE</character></info>
+Ola? Professor? Qu� pasa?</speak>
 
 <info>Planet Express: Accusing Parlour. There is a storm outside. 
 It is ten to midnight in the accusing parlour and Farnsworth, 
@@ -532,65 +532,65 @@ the room. Fry sits with his arms crossed and is not wearing his
 jacket. Farnsworth paces in front of the fire with a flipchart 
 to the side of him.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I've gathered you all here in the accusing 
 parlour because one of you is a miniature 
-ship wrecker!
+ship wrecker!</speak>
 
 <info>Zoidberg gasps.</info>
 
-<character>ZOIDBERG</character>
-I'm acting astonished.
+<speak who="ZOIDBERG">
+I'm acting astonished.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Certain clues suggest the culprit is 
 none other than our own...Philip J. 
-Fry!
+Fry!</speak>
 
 <info>Everyone gasps. Fry uncrosses his arms revealing his "I Hate 
 Bottles" T-shirt underneath.</info>
 
-<character>FRY</character>
-What?!
+<speak who="FRY">
+What?!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh it was a brilliant scheme but you 
 made one fatal mistake...leaving this 
-confession note.
+confession note.</speak>
 
 <info>He holds up a piece of paper with "Fry Confesses" written on 
 it. On the bottom of the paper "From The Desk Of Dr John Zoidberg, 
 M.D." is printed.</info>
 
-<character>ZOIDBERG</character>
-Fry you scoundrel!
+<speak who="ZOIDBERG">
+Fry you scoundrel!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, I don't remember any of that but 
 I don't have the wherewithal to defend 
-myself.
+myself.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Then I have no choice but to charge 
 you the full cost of the materials. 
-$10.
+$10.</speak>
 
 <info>Zoidberg gasps. Fry takes $10 out of his wallet.</info>
 
-<character>FRY</character>
-There you go.
+<speak who="FRY">
+There you go.</speak>
 
 <info>Zoidberg hears violin strains and puts his claws to his head.</info>
 
-<character>ZOIDBERG</character>
-(shouting) What have I done?!
+<speak who="ZOIDBERG">
+(shouting) What have I done?!</speak>
 
 <info>Bumbase Alpha. Spargle is seated at a table with hobos and robos 
 gathered around. Bender walks out of a hut carrying a tray with 
 a cover on it. He hums and puts the tray on the table in front 
 of Spargle.</info>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 Your training is complete, little dessert 
 spoon. Now, just as the man who wishes 
 to be world chess champion must win 
@@ -598,121 +598,121 @@ at least one game of chess so must you
 serve at least one edible meal. (whispering) 
 Succeed and I shall reveal to you the 
 age old secret (whispering more) of 
-perfect flavour.
+perfect flavour.</speak>
 
 <info>The crowd gasps.</info>
 
-<character>GUS</character>
-Ooh yeah!
+<speak who="GUS">
+Ooh yeah!</speak>
 
-<character>BENDER</character>
-Slop's on!
+<speak who="BENDER">
+Slop's on!</speak>
 
 <info>He lifts the lid. It certainly is slop.</info>
 
-<character>GUS</character>
-Fine lookin' eats!
+<speak who="GUS">
+Fine lookin' eats!</speak>
 
 <info>Spargle takes a bite and Bender looks on with anticipation. 
 Spargle chews and the crowd stares. Spargle swallows.</info>
 
-<character>SPARGLE</character>
-It is...acceptable.
+<speak who="SPARGLE">
+It is...acceptable.</speak>
 
 <info>The hobos cheer.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yahoo! Another thing I'm great at! Wait. 
-Why'd you stop eating master?
+Why'd you stop eating master?</speak>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 (hoarse) Because...my stomach is about 
-to explode.
+to explode.</speak>
 
 <info>The crowd gasps.</info>
 
-<character>BENDER</character>
-What? My dinner killed you? Oh man!
+<speak who="BENDER">
+What? My dinner killed you? Oh man!</speak>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 (hoarse) Oh it hurts. But don't lose 
 confidence. The important thing is that 
 you defeat Elzar after I am gone.  And 
-using this, you cannot fail.
+using this, you cannot fail.</speak>
 
 <info>Bender takes it.</info>
 
-<character>BENDER</character>
-A diamond vial of Mrs Dash?
+<speak who="BENDER">
+A diamond vial of Mrs Dash?</speak>
 
-<character>SPARGLE</character>
+<speak who="SPARGLE">
 (hoarse) No, it is the essence of pure 
 flavour. A few drops will cause the 
 inner perfection of any dinner to blossom 
-forth.  Oh! There goes my...life.
+forth.  Oh! There goes my...life.</speak>
 
 <info>He dies and falls face first into the plate of slop. The crowd 
 gasps.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'll avenge you master. I swear, in 
 the presence of these drunken bums, 
-that I shall defeat Elzar!
+that I shall defeat Elzar!</speak>
 
-<character>GUS</character>
+<speak who="GUS">
 Oh I'm not drunk, I'm mentally ill! 
-But I like what what you said!
+But I like what what you said!</speak>
 
 <info>Elzar's Fine Cuisine. Bender meets his opponent.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Elzar, I'm a walking pile of your unfinished 
-business!
+business!</speak>
 
-<character>ELZAR</character>
-Why you -
+<speak who="ELZAR">
+Why you -</speak>
 
 <info>Bender knocks a spice weasel off Hattie's table and turns to 
 Elzar.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Helmut Spargle has a message for you. 
-He says (hoarse) "Ooo, I'm dead!"
+He says (hoarse) "Ooo, I'm dead!"</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Spargle huh? What he do, bland himself 
-to death?
+to death?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 No. He was eating some food I made and 
 by a crazy coincidence his stomach exploded. 
-Now I'm here to avenge him.
+Now I'm here to avenge him.</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 OK but it seems like you're the one 
-who killed him.
+who killed him.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Maybe so but you are his sworn enemy. 
-I challenge you to a battle of the chefs.
+I challenge you to a battle of the chefs.</speak>
 
 <info>He screws of his hand and smacks Elzar with it. The customers 
 gasp.</info>
 
-<character>CUSTOMER</character>
-Scandalous!
+<speak who="CUSTOMER">
+Scandalous!</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Very well. We'll meet on the ancient 
 televised battleground of Kitchen Coliseum! 
 Whosever meal is best will claim the 
-title of Iron Cook.
+title of Iron Cook.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Iron Cook eh? I can't lose. I'm 30% 
 iron!  You're going down! Uh, also I 
 had a reservation for one, under "Dr 
-Bender."
+Bender."</speak>
 
 <info>The Planet Express ship crosses the city and lands outside the 
 Kitchen Coliseum: Home Of The Kitchen University Wildcats.</info>
@@ -721,329 +721,329 @@ Kitchen Coliseum: Home Of The Kitchen University Wildcats.</info>
 of the studio and huge pictures of Elzar and Bender in chef gear. 
 The room is darkened.</info>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 Please welcome the superintendant of 
 Kitchen Coliseum...Chairman Koji!  No 
 robot chef has ever competed here but 
 today one has barged his way in to challege 
-for the title of...
+for the title of...</speak>
 
 <info>Birds fly out from under Koji's cloak.</info>
 
-<character>KOJI</character>
-...Iron Cookuru!
+<speak who="KOJI">
+...Iron Cookuru!</speak>
 
 <info>Bender and Elzar rise from the under the floor in front of their 
 pictures. The crowd cheers. Fry and the rest of the Planet Express 
 crew watch from the seats.</info>
 
-<character>FRY</character>
-(shouting) Yeah you show 'em!
+<speak who="FRY">
+(shouting) Yeah you show 'em!</speak>
 
 <info>In the main part of the studio Hiroki sits with several celebrities 
 at a long table.</info>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 Let's meet today's celebrity judges: 
 Captain of the Harlem Globetrotters, 
-Ethan Bubblegum Tate!
+Ethan Bubblegum Tate!</speak>
 
-<character>TATE</character>
-Konnichiwa brother!
+<speak who="TATE">
+Konnichiwa brother!</speak>
 
-<character>HIROKI</character>
-TV anchor-monster Morbo!
+<speak who="HIROKI">
+TV anchor-monster Morbo!</speak>
 
-<character>MORBO</character>
-Greetings pathetic host!
+<speak who="MORBO">
+Greetings pathetic host!</speak>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 And a woman who ended a thousand year 
 war with her apple dandies, Martha Stewart's 
-head!
+head!</speak>
 
-<character>STEWART</character>
-The secret is fresh pork.
+<speak who="STEWART">
+The secret is fresh pork.</speak>
 
 <info>Time Lapse.</info>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 And now, chairman Koji will present 
 the theme ingredient to be used in every 
-dish today.
+dish today.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (quietly) If it's chicken: chicken � 
 la king. If it's fish: fish � la king. 
-If it's turkey: fish � la king!
+If it's turkey: fish � la king!</speak>
 
 <info>Koji pulls a sheet off the ingredient.</info>
 
-<character>KOJI</character>
-Soylent Greuu!
+<speak who="KOJI">
+Soylent Greuu!</speak>
 
 <info>The camera faces the soylent green and the caption "Soylent 
 Green" appears.</info>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 Soylent Green, a classic ingredient 
 of gourment cooking. And the battle 
-is on.  Aki, what's Elzar making?
+is on.  Aki, what's Elzar making?</speak>
 
-<character>AKI</character>
+<speak who="AKI">
 Well Hiroki-san, when I asked him he 
 asked what business it was of mine and 
-conjectured that my mother was a prostitute.
+conjectured that my mother was a prostitute.</speak>
 
-<character>STEWART</character>
+<speak who="STEWART">
 In the English countryside many prostitutes 
-decorate their rooms with festive gourds.
+decorate their rooms with festive gourds.</speak>
 
 <info>Time Lapse. Bender rolls some dough with his hands.</info>
 
-<character>FEMALE ANNOUNCER</character>
-30 minutes to go.
+<speak who="FEMALE ANNOUNCER">
+30 minutes to go.</speak>
 
 <info>Bender sits on the dough and starts rolling it.</info>
 
-<character>HIROKI</character>
-Look at Bender roll that dough!
+<speak who="HIROKI">
+Look at Bender roll that dough!</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 I've never seen such confident, powerful 
-strokes of the ass!
+strokes of the ass!</speak>
 
-<character>STEWART</character>
-You've never seen mine!
+<speak who="STEWART">
+You've never seen mine!</speak>
 
-<character>TATE</character>
-(sexfully) No I haven't!
+<speak who="TATE">
+(sexfully) No I haven't!</speak>
 
 <info>Morbo gives him a weird look.</info>
 
 <info>Time Lapse.</info>
 
-<character>FEMALE ANNOUNCER</character>
-Fifteen minutes remaining.
+<speak who="FEMALE ANNOUNCER">
+Fifteen minutes remaining.</speak>
 
 <info>Elzar gives a signal and Sal rolls a hovercrane into the studio 
 carrying a huge model built from soylent green.</info>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 The iron cook is bringing in his signature 
 creation, a working pastry replica of 
-downtown Venice.]
+downtown Venice.]</speak>
 
 <info>A cameraman points a camera at the model and a shrimp rows a 
 gondola down the canal singing La Donna E Mobile. In the audience 
 a man walks around with a box strapped to his front with $10.00 
 written in it.</info>
 
-<character>MAN</character>
+<speak who="MAN">
 Commemorative turkey basters, get your 
-commemorative turkey basters.
+commemorative turkey basters.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yo, hook me up. My turkey is dry and 
 I've tried everything.  Oh right. Never 
-mind.
+mind.</speak>
 
 <info>Zoidberg hears the violin strains again and puts his claws to 
 his head.</info>
 
-<character>ZOIDBERG</character>
-Oh the guilt! The unbearable guilt!
+<speak who="ZOIDBERG">
+Oh the guilt! The unbearable guilt!</speak>
 
-<character>FEMALE ANNOUNCER</character>
-Fifteen seconds.
+<speak who="FEMALE ANNOUNCER">
+Fifteen seconds.</speak>
 
 <info>Elzar arranges his food on the plates and man wheels in a rack 
 of spice weasels. Elzar selects one.</info>
 
-<character>ELZAR</character>
-Bam!
+<speak who="ELZAR">
+Bam!</speak>
 
 <info>He takes the spice weasel off the rack and gives his food a 
 blast with it.</info>
 
-<character>FEMALE ANNOUNCER</character>
-Ten seconds.
+<speak who="FEMALE ANNOUNCER">
+Ten seconds.</speak>
 
 <info>Bender hammers his food and arranges it on a tray. He looks 
 at it and then takes out Spargle's vial.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Master Spargle. If you can hear me up 
 there in that ditch where I left you, 
-this is for you.
+this is for you.</speak>
 
 <info>He pours some flavour onto the food and a gong sounds.</info>
 
-<character>KOJI</character>
-Time, uperuu!
+<speak who="KOJI">
+Time, uperuu!</speak>
 
 <info>Time Lapse. A "Tasting" caption appears on the screen.</info>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 The iron cook Neptunian has gone all 
 out to please the judges. He's even 
 garnished the salad with $100 bills. 
-Let's see what they think.
+Let's see what they think.</speak>
 
 <info>Elzar puts plates of food in front of Tate and Morbo and scrapes 
 some into Stewart's jar.</info>
 
-<character>TATE</character>
-Mmm, soylent green is my kind of people!
+<speak who="TATE">
+Mmm, soylent green is my kind of people!</speak>
 
 <info>He eats some more. Morbo sucks up his soylent spaghetti.</info>
 
-<character>MORBO</character>
+<speak who="MORBO">
 Scrumptious. Morbo will store this in 
-his sack for future digestion.
+his sack for future digestion.</speak>
 
-<character>STEWART</character>
+<speak who="STEWART">
 I'm swimming in my own soylent waste. 
-It's a good thing.
+It's a good thing.</speak>
 
 <info>The gong sounds again.</info>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 Next, up, challenger Bender. A student 
 of the legendary Hemut Spargle, Bender 
 is some sort of wonderful mechanical 
-man.
+man.</speak>
 
 <info>Bender puts the plates in from of Tate and Morbo who don't react 
 too well. He scrapes some into Stewart's jar and she completely 
 disappears under it.</info>
 
-<character>STEWART</character>
-Ooo...delicious!
+<speak who="STEWART">
+Ooo...delicious!</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 This food looks kind of funky, but it 
-tastes kind of funkay!
+tastes kind of funkay!</speak>
 
-<character>MORBO</character>
+<speak who="MORBO">
 The challenger's ugly food has shown 
 us that even hideous things can be sweet 
-on the inside.
+on the inside.</speak>
 
 <info>He starts crying. Tate hugs him and pats his back.</info>
 
 <info>Time Lapse. The caption "Judgement" appears on the screen.</info>
 
-<character>HIROKI</character>
+<speak who="HIROKI">
 And now, judgement. The winner will 
 become the new iron cook, the loser 
 is doomed to scrub.  Who's confection 
 achieves perfection? Who's foodstuff 
-will be the good stuff?
+will be the good stuff?</speak>
 
 <info>Leela crosses her fingers.</info>
 
-<character>KOJI</character>
-Challengeruu Benderuu!
+<speak who="KOJI">
+Challengeruu Benderuu!</speak>
 
 <info>Everyone applauds.</info>
 
-<character>FRY</character>
-Yay!
+<speak who="FRY">
+Yay!</speak>
 
-<character>FARNSWORTH</character>
-That's my robot! I own him!
+<speak who="FARNSWORTH">
+That's my robot! I own him!</speak>
 
-<character>BENDER</character>
-You honour me chairman Koji.
+<speak who="BENDER">
+You honour me chairman Koji.</speak>
 
-<character>KOJI</character>
-Domo arigato, Mr Roboto.
+<speak who="KOJI">
+Domo arigato, Mr Roboto.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Chairman-san, I came here with one goal. 
 To humiliate Elzar in a large stadium. 
-I believe I'e done that.
+I believe I'e done that.</speak>
 
 <info>On the other side of the studio Elzar scrubs the pots and pans.</info>
 
-<character>ELZAR</character>
-No question.
+<speak who="ELZAR">
+No question.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 But the true Zen of flavour is not found 
 in a coliseum. It is found in a small 
 kitchen, with friends. That is why I 
 decline the title of Iron Cook and accept 
 only the lesser title of Zinc Saucier 
 which I just made up. Also it comes 
-with double prize money.
+with double prize money.</speak>
 
 <info>Everyone cheers. But Zoidberg is not in his seat. He runs onto 
 the platform next to Bender and Koji.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Wait! Everyone must know. I broke the 
 Professor's bottled ship.  And what 
 is worse, I framed my dearest friend 
 Fry! (crying) I can never repay him 
 his ten dollars. So I must take the 
 only honourable path. what the killing 
-myself.  Here I go already.  Huh?
+myself.  Here I go already.  Huh?</speak>
 
-<character>KOJI</character>
-Oh! That sword cost 5000 dolluu!
+<speak who="KOJI">
+Oh! That sword cost 5000 dolluu!</speak>
 
 <info>Zoidberg drops the sword.</info>
 
-<character>ZOIDBERG</character>
-Fry did it!
+<speak who="ZOIDBERG">
+Fry did it!</speak>
 
 <info>He runs away, wooping.</info>
 
 <info>Cut to: Planet Express: Lounge. The crew watch the whole show 
-on <character>TV</character>. Bender turns it off.</info>
+on TV. Bender turns it off.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And that's how I defeated Elzar - thanks 
-to Spargle's magic liquid.
+to Spargle's magic liquid.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Yes, we were there. And we just finished 
-watching it on <character>TV</character>.
+watching it on <character>TV</character>.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Hmm. Let me see that vial Bender.  Good 
 Lord! According to the spectrolizer, 
 Spargle's magic ingredient was...water. 
-Ordinary water!
+Ordinary water!</speak>
 
 <info>Everyone gasps.</info>
 
-<character>HERMES</character>
-No!
+<speak who="HERMES">
+No!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Ah, so the real gift Spargle gave you 
 was confidence. The confidence to be 
-your best.
+your best.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Yes, ordinary water. Laced with nothing 
-more than a few spoonfuls of <character>LSD</character>.
+more than a few spoonfuls of <character>LSD</character>.</speak>
 
 <info>Bender takes the vial.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 The important thing is, by my standards, 
 I won fair and square. Now, who wants 
-brunch? Cooked with plenty of..."confidence"?
+brunch? Cooked with plenty of..."confidence"?</speak>
 
-<character>LEELA</character>
-I'm in!
+<speak who="LEELA">
+I'm in!</speak>
 
-<character>FARNSWORTH</character>
-I do!
+<speak who="FARNSWORTH">
+I do!</speak>
 
 <info>They all cheer and the episode plays out with a riff from Cream's 
 Sunshine Of Your Love.</info>

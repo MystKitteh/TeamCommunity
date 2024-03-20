@@ -12,106 +12,106 @@ Episode 511
 <info>Planet Express: Meeting Room. The crew watch a television news 
 program.</info>
 
-<character>ANNOUNCER </character><info>ON TV</info>
+<speak who="ANNOUNCER"><info>ON TV</info>
 This week in the universe... Dateline 
 Turantulon 6: The brave warriors of 
 Earth under the command of General Major 
 Weeblo Zapp Brannigan have achieved 
 victory over the spider homeworld.  
 And to the victor belong the spoils 
-- one trillion dollars in silken treasure.
+- one trillion dollars in silken treasure.</speak>
 
 <info>Zapp strokes a silk suit.</info>
 
-<character>ZAPP </character><info>ON TV</info>
-Mmm!
+<speak who="ZAPP"><info>ON TV</info>
+Mmm!</speak>
 
 <info>The scene changes to Nixon outside a building making an announcement.</info>
 
-<character>NIXON </character><info>ON TV</info>
+<speak who="NIXON"><info>ON TV</info>
 My fellow Earthicans. After meeting 
 with top voodoo economists, I have decided 
 to refund our silk surplus to you, the 
 taxpayers. That's right! I've sent you 
 each 300 buckeroos in the form of a 
 tricky dick fun bill. Knock yourselves 
-out!
+out!</speak>
 
 <info>The programs ends and the crew cheer.</info>
 
-<character>AMY</character>
-I'm slightly richer!
+<speak who="AMY">
+I'm slightly richer!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What to do what to do? One $300 hookerbot 
-or 300 $1 hookerbots?
+or 300 $1 hookerbots?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm going to swim with the whale! They're 
-the gentle giants of the deep.
+the gentle giants of the deep.</speak>
 
-<character>FARNSWORTH</character>
-I'm well aware of that.
+<speak who="FARNSWORTH">
+I'm well aware of that.</speak>
 
-<character>SCRUFFY</character>
+<speak who="SCRUFFY">
 Scruffy's gonna get himself one of them 
-$300 haircuts. This ones lost it's pizazz!
+$300 haircuts. This ones lost it's pizazz!</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 A fortune it is! At last, Zoidberg will 
-live like a rich man!
+live like a rich man!</speak>
 
 <info>He kisses the $300. Nixon squirms on it.</info>
 
-<character>NIXON </character><info>ON <character>BILL</character></info>
+<speak who="NIXON"><info>ON <character>BILL</character></info>
 Hey, cut it out! Go away! Get away from 
-me!
+me!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Shmeesh! It's just 300 bucks, what is 
-that, like a hundred cups of coffee?
+that, like a hundred cups of coffee?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That's it! I'm getting a hundred cups 
 of coffee! Starting now.  Coffee machine, 
-one cup of coffee please.
+one cup of coffee please.</speak>
 
 <info>He puts the $300 into the machine and it takes $3 off, leaving 
 him with $297.</info>
 
-<character>NIXON </character><info>ON <character>BILL</character></info>
-Smells good!
+<speak who="NIXON"><info>ON <character>BILL</character></info>
+Smells good!</speak>
 
 <info>Fry takes a sip of the coffee. His first. Zapp appears on the 
 screen.</info>
 
-<character>ZAPP </character><info>ON <character>SCREEN</character></info>
-Leela? Are you there?
+<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
+Leela? Are you there?</speak>
 
-<character>LEELA</character>
-No.
+<speak who="LEELA">
+No.</speak>
 
-<character>ZAPP </character><info>ON <character>SCREEN</character></info>
+<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
 Oh yes you are! I'm hereby inviting 
 you and your oddball co-workers to a 
 special reception to display the national 
 silk surplus. I believe you know the 
 heroic space stallion who captured it. 
-Show them my medal Kif.
+Show them my medal Kif.</speak>
 
 <info>Kif points at a medal on Zapp's chest.</info>
 
-<character>KIF </character><info>ON <character>SCREEN</character></info>
-He rented it with his tax refund.
+<speak who="KIF"><info>ON <character>SCREEN</character></info>
+He rented it with his tax refund.</speak>
 
-<character>ZAPP </character><info>ON <character>SCREEN</character></info>
-So Leela, will you have the pleasure.
+<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
+So Leela, will you have the pleasure.</speak>
 
-<character>LEELA</character>
-What little there is to be had.
+<speak who="LEELA">
+What little there is to be had.</speak>
 
-<character>ZAPP </character><info>ON <character>SCREEN</character></info>
-Tomorrow night at eight them. Smoochies!
+<speak who="ZAPP"><info>ON <character>SCREEN</character></info>
+Tomorrow night at eight them. Smoochies!</speak>
 
 <info>He kisses the screen.</info>
 
@@ -119,61 +119,61 @@ Tomorrow night at eight them. Smoochies!
 changes it's name to 299.99c Store and a crack addict wanders 
 out of an alley kissing his money.</info>
 
-<character>CRACK ADDICT</character>
-No cheap crack houses for me no more!
+<speak who="CRACK ADDICT">
+No cheap crack houses for me no more!</speak>
 
 <info>Cut to: Outside Crack Mansion. The crack addict hands a man 
 his $300.</info>
 
-<character>MAN</character>
+<speak who="MAN">
 Very good sir. Shall I pre-warm sir's 
-crack pipe?
+crack pipe?</speak>
 
 <info>Above the crack mansion a peddle-plane flies over.</info>
 
 <info>Cut to: Peddle Plane. Amy and Kif are riding it. Kif is struggling.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Oh Kif, it was so romantic of you to 
 rent this peddle plane with your tax 
 rebate. We're like two dandelion seeds 
-wafting on the breeze.
+wafting on the breeze.</speak>
 
-<character>KIF </character>(<character>GASPING</character>)
-Yes...seeds...wafting.
+<speak who="KIF">(<character>GASPING</character>)
+Yes...seeds...wafting.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 I almost feel kinda shallow for blowing 
-my rebate on this cool talking tattoo!
+my rebate on this cool talking tattoo!</speak>
 
-<character>TATTOO</character>
+<speak who="TATTOO">
 Hey Gordon Gecko! I cost as much as 
-this whole crummy date!
+this whole crummy date!</speak>
 
-<character>AMY</character>
-Shut up!  Ow!
+<speak who="AMY">
+Shut up!  Ow!</speak>
 
 <info>Geneworks. Farnsworth talks to a woman at a desk.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 As a man it has become too much of a 
 chore for me to clean out my wrinkles 
 each day. Is it true that stem cells 
-may fight the aging process?
+may fight the aging process?</speak>
 
-<character>GENEWORKS WOMAN</character>
+<speak who="GENEWORKS WOMAN">
 Well yes, in the same way an infant 
-may fight Muhammed Ali! But -
+may fight Muhammed Ali! But -</speak>
 
-<character>FARNSWORTH</character>
-One pound of stem cells please.
+<speak who="FARNSWORTH">
+One pound of stem cells please.</speak>
 
 <info>He slaps his $300 on the desk and the woman gives him a tub 
 of stem cells.</info>
 
-<character>GENEWORKS WOMAN</character>
+<speak who="GENEWORKS WOMAN">
 Of course any age reversing effects 
-will be purely temporary.
+will be purely temporary.</speak>
 
 <info>She gags and turns away as Farnsworth slaps the stem cell cream 
 on his face.</info>
@@ -183,67 +183,67 @@ within. He looks at some Dutch Butts for $1.99 but is more excited
 by the Royal Kooparillo for $300. He looks across at a cigar 
 in a glass case, Le Grand Cigar, $10,000.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Say buddy, why's this grand cigar so 
-pricy?
+pricy?</speak>
 
-<character>CLERK</character>
+<speak who="CLERK">
 Well, as you can see, it's wrapper is 
 a piece of the original US constitution. 
 It was hand rolled by Queen Elizabeth 
 during her wild years and was buried 
 with George Burns until graverobbing 
 space mushrooms - uh, well you know 
-the rest.
+the rest.</speak>
 
-<character>BENDER</character>
-Give me 300 bucks worth!
+<speak who="BENDER">
+Give me 300 bucks worth!</speak>
 
-<character>CLERK</character>
-No can do.
+<speak who="CLERK">
+No can do.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh alright, I'll just take these $300 
-burglars tools then.
+burglars tools then.</speak>
 
-<character>CLERK</character>
-Very good sir.
+<speak who="CLERK">
+Very good sir.</speak>
 
-<character>BENDER</character>
-So uh, what time d'you close tonight?
+<speak who="BENDER">
+So uh, what time d'you close tonight?</speak>
 
 <info>Outside The Conrads' House. Dwight sits on the steps and smiles 
 as Hermes arrives with a box behind his back.</info>
 
-<character>DWIGHT</character>
-Hey pops! Did that tax rebate come?
+<speak who="DWIGHT">
+Hey pops! Did that tax rebate come?</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Came and went! You're now the proud 
 owner of Bamboo Boogie Boots!  With 
 a warning label this big you know they 
-gotta be fun!
+gotta be fun!</speak>
 
-<character>DWIGHT</character>
+<speak who="DWIGHT">
 But pops, I don't wanna have fun, I 
 wanna be like you. Boring but prudently 
-invested.
+invested.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Babylon's bells! I tallyed almost 300 
 bananas on this entertainment product. 
-Now you put 'em on and have fun!
+Now you put 'em on and have fun!</speak>
 
-<character>DWIGHT </character>(<character>SHOUTING</character>)
-I don't wanna.
+<speak who="DWIGHT">(<character>SHOUTING</character>)
+I don't wanna.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Well then I'm gonna put 'em on and make 
 you watch me have fun!  See? Fun! Fun! 
-Dwight! Help me!
+Dwight! Help me!</speak>
 
-<character>DWIGHT</character>
-I'll save you pops!
+<speak who="DWIGHT">
+I'll save you pops!</speak>
 
 <info>He climbs the bamboo and hangs on to Hermes' feet. Hermes starts 
 to lose his balance and he stumbles down the road still wearing 
@@ -253,106 +253,106 @@ the boots. Cars swerves to avoid him and honk their horns.</info>
 younger. He sees a group of younger people standing around a 
 car listening to loud music.</info>
 
-<character>FARNSWORTH</character>
-Hey! Turn that damn music......up!
+<speak who="FARNSWORTH">
+Hey! Turn that damn music......up!</speak>
 
 <info>Hermes and Dwight stumble past on the bamboo boots.</info>
 
-<character>HERMES</character>
-Isn't this fun?
+<speak who="HERMES">
+Isn't this fun?</speak>
 
-<character>DWIGHT</character>
-No! I wish I had two mommies!
+<speak who="DWIGHT">
+No! I wish I had two mommies!</speak>
 
 <info>They walks past a jewellery shop called Diamonds Are Forever.</info>
 
 <info>Diamonds Are Forever. Randy hands a cushion with jewellery on 
 it to Zoidberg.</info>
 
-<character>RANDY</character>
-Try these, um, sir.
+<speak who="RANDY">
+Try these, um, sir.</speak>
 
 <info>Zoidberg puts the rings on his mouth flaps and looks at himself 
 in the mirror.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 I ask for rich guy stuff and you give 
-me shiny pebbles? Bah! I bid you adieu!
+me shiny pebbles? Bah! I bid you adieu!</speak>
 
 <info>He shakes the rings off and they hit Randy on the head.</info>
 
-<character>RANDY</character>
-Ow!
+<speak who="RANDY">
+Ow!</speak>
 
 <info>Zoidberg looks scared, woops and scuttles out.</info>
 
 <info>Brooklyn Aquarium: Whale Tank. Leela is at a stand next to a 
 whale tank.</info>
 
-<character>LEELA</character>
-I'd like a pass to swim with Mushu please.
+<speak who="LEELA">
+I'd like a pass to swim with Mushu please.</speak>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 Well you asked the right guy! I'm the 
 whale biologist! Though personally I 
 hate whales. (whispering) Espeically 
-Mushu.
+Mushu.</speak>
 
-<character>LEELA</character>
-Then why'd you become a whale biologist?
+<speak who="LEELA">
+Then why'd you become a whale biologist?</speak>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 I don't know you well enough to get 
 into that. $300 please.  Noon tomorrow. 
 If you're late you only get to tread 
-water in the scallop tank.
+water in the scallop tank.</speak>
 
 <info>Leela takes her pass and leaves.</info>
 
 <info>Cut to: Brooklyn Aquarium: Starfishbucks Coffee. Fry waits in 
 line for a cup of coffee.</info>
 
-<character>FRY</character>
-Uh, I'll have a coffee.
+<speak who="FRY">
+Uh, I'll have a coffee.</speak>
 
-<character>MAN</character>
-Guppy, trout, mermaid or -
+<speak who="MAN">
+Guppy, trout, mermaid or -</speak>
 
-<character>FRY</character>
-Whale please.
+<speak who="FRY">
+Whale please.</speak>
 
 <info>The man pours the coffee and Fry drinks it.</info>
 
 <info>Peddle Plane. Amy and Kif fly over the Aquarium.</info>
 
-<character>KIF </character>(<character>GASPING</character>)
+<speak who="KIF">(<character>GASPING</character>)
 Amy, I-I also spent some of my tax rebate 
-on a gift for you.
+on a gift for you.</speak>
 
-<character>AMY</character>
-Oh Kiffie!
+<speak who="AMY">
+Oh Kiffie!</speak>
 
 <info>She opens the box. It is a watch with two faces.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 It shows the time wherever we both are. 
 And it's powered by love! Also you have 
-to wind it.
+to wind it.</speak>
 
-<character>TATTOO</character>
-Ohh! Somebody won big at Skeeball!
+<speak who="TATTOO">
+Ohh! Somebody won big at Skeeball!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 You shut up! I love it Kif. I'll use 
 it whenever I wanna know what time it 
 is.  Ooo! It's Fry and Leela! (shouting) 
-Hi Fry and Leela!
+Hi Fry and Leela!</speak>
 
 <info>The paddle plane lurches forward and starts falling. Kif screams.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 Oh! Keep peddling! Oh for the love of 
-God keep peddling!
+God keep peddling!</speak>
 
 <info>Cut to: Fry and Leela. Leela screams and Fry gurgles his coffee.</info>
 
@@ -362,113 +362,113 @@ over people's heads. They scream. The peddle plane flies over
 Mushu's tank. Kif wipes his brow and breathes a sigh of relief. 
 Amy leans over backwards again and waves.</info>
 
-<character>AMY </character>(<character>SHOUTING</character>)
-Bye Fry and Leela!
+<speak who="AMY">(<character>SHOUTING</character>)
+Bye Fry and Leela!</speak>
 
 <info>The peddle plane tilts sideways and the watch starts to slide 
 of the front of it. Kif panics. The watch slips off and he sighs. 
 Mushu leaps up out of the water and eats the watch. The crowd 
 applauds.</info>
 
-<character>TATTOO</character>
+<speak who="TATTOO">
 Oh I can't wait until the tattoos on 
-Amy's butt hear about this!
+Amy's butt hear about this!</speak>
 
-<character>BUTT TATTOOS</character>
-Hear about what? Tell us!
+<speak who="BUTT TATTOOS">
+Hear about what? Tell us!</speak>
 
 <info>A horse tattoo neighs.</info>
 
 <info>Planet Express: Meeting Room. Kif cries.</info>
 
-<character>AMY</character>
-Don't feel sad my little tadpole.
+<speak who="AMY">
+Don't feel sad my little tadpole.</speak>
 
-<character>KIF </character>(<character>CRYING</character>)
+<speak who="KIF">(<character>CRYING</character>)
 I'm trying not to. But my gift to you 
-is in the belly of a whale.
+is in the belly of a whale.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Say, this reminds me of that time I 
-ate that other watch Kif gave you!
+ate that other watch Kif gave you!</speak>
 
-<character>AMY</character>
-Hey, it is kinda like that!
+<speak who="AMY">
+Hey, it is kinda like that!</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 To induce vomitting, that was the solution! 
 Everywhere it went!  What a Valentine's 
-Day that was!
+Day that was!</speak>
 
 <info>Leela looks at her Mushu pass.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hmm, this may seem like a huge coincidence 
 but I happen to have it in with that 
-whale!
+whale!</speak>
 
-<character>SCRUFFY</character>
+<speak who="SCRUFFY">
 Scruffy's formulated a plan. But you'll 
 need a ready source of nausiatin' rotten 
-fish.
+fish.</speak>
 
 <info>Elzar's Fine Cuisine. In the restaurant Fry, Leela, Kif and 
 Amy sit around a table with a huge fish in the middle. Enter 
 Elzar.</info>
 
-<character>ELZAR</character>
-Freshen your coffee sir?
+<speak who="ELZAR">
+Freshen your coffee sir?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah yeah yeah keep it comin' put the 
-pot down get away!
+pot down get away!</speak>
 
 <info>He drinks the coffee. His 31st cup. Leela gets up and goes somewhere. 
 Elsewhere in the restaurant Farnsworth is having dinner with 
 the woman from earlier.</info>
 
-<character>WOMAN</character>
+<speak who="WOMAN">
 You're so young in spirit! Its hard 
-to believe you're as old as 25.
+to believe you're as old as 25.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 The key is to grab life by the hojos! 
 Live every day like it might be your 
-last!
+last!</speak>
 
-<character>ELZAR</character>
-What'll it be kids?
+<speak who="ELZAR">
+What'll it be kids?</speak>
 
-<character>FARNSWORTH</character>
-One bowl of mild verena.
+<speak who="FARNSWORTH">
+One bowl of mild verena.</speak>
 
 <info>Cut to: Elzar's Kitchen. Enter Leela. She opens the fresh fish 
 freezer door and looks inside.</info>
 
-<character>LEELA</character>
-Pay dirt!  Heyya!
+<speak who="LEELA">
+Pay dirt!  Heyya!</speak>
 
 <info>Cut to: Restaurant. Leela casually strolls out of the kitchen 
 whistling. And sits down. Elzar serves food to Zoidberg.</info>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Here you go big spender: Foie gras and 
-caviar!
+caviar!</speak>
 
 <info>Zoidberg sniffs the food.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Goose liver? Fish eggs?  Pah! Where's 
-the goose? Where's the fish?
+the goose? Where's the fish?</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Hey, that's what rich people eat. The 
-garbage parts of the food.
+garbage parts of the food.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 I ate garbage yesterday and it didn't 
 cost me $300! I'm not paying.  Farewell 
-good sir!
+good sir!</speak>
 
 <info>He leaves with a very upper-class scuttle and woop.</info>
 
@@ -483,25 +483,25 @@ out of his chest cavity and cuts through the glass with it then
 throws the diamond in the bin. He reaches in and takes out the 
 cigar.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Le Grand Cigar! She's mine! And with 
-absolutely no consequences!
+absolutely no consequences!</speak>
 
 <info>He evily cackles and raises himself out of the room. In the 
 corner a security camera watches him. The signal goes along a 
 wire, down a dark tunnel, through the sewers where El Chupanibre 
 terrorises the leg mutant, up a pole and through a dark hole.</info>
 
-<info>Cut to: Police Station. Smitty watches what's going on on <character>URL</character>'s 
+<info>Cut to: Police Station. Smitty watches what's going on on URL's 
 chest.</info>
 
-<character>SMITTY</character>
-You see that?
+<speak who="SMITTY">
+You see that?</speak>
 
-<character>URL</character>
+<speak who="URL">
 Grand theft tobacco. Sounds like we 
 should get off our fat cop asses and 
-ride!
+ride!</speak>
 
 <info>The siren comes out of his head.</info>
 
@@ -510,90 +510,90 @@ are still walking around on the bamboo boots but now they are
 asleep. Elzar comes out the back door of the restaurant with 
 a crate of fish.</info>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Pee-yew! This fish is slightly too rotten 
-to even make jambolaya!
+to even make jambolaya!</speak>
 
 <info>He pours the fish into a dumpster and leaves. The dumpster lid 
 swings open and Leela and Amy climb out with the fish in a net.</info>
 
-<character>AMY </character>(<character>WHISPERING</character>)
-So far so good. Where's Kif?
+<speak who="AMY">(<character>WHISPERING</character>)
+So far so good. Where's Kif?</speak>
 
 <info>Behind them Kif groans as he is dragged along inside the net.</info>
 
 <info>Guadalajara Brown Drip Gourment Coffee. Fry is jittery as he 
 has an early morning cup of coffee. He drinks his 51st cup.</info>
 
-<character>FRY </character>(<character>SHOUTING</character>)
+<speak who="FRY">(<character>SHOUTING</character>)
 This isn't Yemeni! It's Sulowesi!  And 
 the cup's shaking I don't want my coffee 
-shaking!
+shaking!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You seem a tad wound up buddy. And your 
 face is greasy! Real greasy. You been 
-up all night?
+up all night?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Of course I've been up all night! Not 
 because of caffine it was insomnia I 
 couldn't stop thinking about coffee 
-I need a nap.  Coffee time!
+I need a nap.  Coffee time!</speak>
 
 <info>He gulps down his 52nd cup. Bender gets out his cigar and sniffs 
 it.</info>
 
-<character>BENDER</character>
-Ah! Mighty fine smokable!
+<speak who="BENDER">
+Ah! Mighty fine smokable!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Fancy cigar why don't you smoke it already? 
-Puff puff go go go go go!
+Puff puff go go go go go!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Nah, you can't blow smoke from such 
 a majestic stogy in just anyone's face. 
 I'm saving it for the fancy pants at 
 Zapp Brannigan's black tie reception. 
-You comin'?
+You comin'?</speak>
 
 <info>Fry nods jitterily.</info>
 
 <info>Brooklyn Aquarium: Whale Tank. Leela is kitted out in a swimming 
 costume and flippers. The rotten fish is packed into her costume.</info>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 And the fifth reason whales kill is 
-for the sheer fun of it.
+for the sheer fun of it.</speak>
 
-<character>LEELA</character>
-Anything else?
+<speak who="LEELA">
+Anything else?</speak>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 Yeah. You're lumpy and you smell awful. 
 Hey, I calls 'em like I sees 'em! I'm 
-a whale biologist.
+a whale biologist.</speak>
 
 <info>Leela turns to the tank.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 OK Mushu, its feeding time!  Oh crud, 
-he ate my suit!
+he ate my suit!</speak>
 
-<character>WHALE BIOLOGIST</character>
-The suit was ugly - whale biologist!
+<speak who="WHALE BIOLOGIST">
+The suit was ugly - whale biologist!</speak>
 
 <info>Golf Club. Zoidberg swings at the ball but repeatedly misses.</info>
 
-<character>CADDY</character>
-Perhaps if you tightened your grip sir?
+<speak who="CADDY">
+Perhaps if you tightened your grip sir?</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Ah. Thank you golf slave!  Bah! Rich 
 pople wouldn't waste their time on this 
 nonsense! Plus, these eggs are gritty 
-and tasteless!
+and tasteless!</speak>
 
 <info>He spits out three golf balls and whacks them with the half 
 club.</info>
@@ -601,56 +601,56 @@ club.</info>
 <info>Cut to: Picnic Site. Farnsworth and the woman are kissing. One 
 of Zoidberg's balls hits Farnsworth on the head.</info>
 
-<character>FARNSWORTH</character>
-Ow! Not so rough!
+<speak who="FARNSWORTH">
+Ow! Not so rough!</speak>
 
 <info>Brooklyn Aquarium: Whale Tank. The show has started and the 
 stands are full of people. Kif, Amy and Bender are already there. 
 Leela arrives wrapped in the Please Do Not Feed The Whale sign 
 and gives the thumbs up. The orphans sit in front of them.</info>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 Ladies and gentlemen, presenting Mushu! 
 The educated whale who thinks he's better 
-than you!
+than you!</speak>
 
 <info>The crowd cheers.</info>
 
-<character>AMY</character>
-C'mon Mushu! Barf! Barf like a freshman!
+<speak who="AMY">
+C'mon Mushu! Barf! Barf like a freshman!</speak>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 And now ignorant whale lovers, we'll 
 see who's boss as I make Mushu jump 
 through this hoop. Jump Mushu!  Who 
-wants a fish?
+wants a fish?</speak>
 
 <info>Mushu throws up and the crowd gasps.</info>
 
-<character>LITTLE ORPHAN</character>
-Mushu is sick!
+<speak who="LITTLE ORPHAN">
+Mushu is sick!</speak>
 
-<info>Smity and <character>URL</character> stand aghast as Bender sneaks out behind them.</info>
+<info>Smity and URL stand aghast as Bender sneaks out behind them.</info>
 
-<character>URL</character>
-It just keep comin' and comin'!
+<speak who="URL">
+It just keep comin' and comin'!</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Wait, that chunk, its the watch!  I 
 got it Amy! I got it! The plan went 
-off without a -
+off without a -</speak>
 
-<character>WHALE BIOLOGIST</character>
-He's got Aquarium property! Stop him!
+<speak who="WHALE BIOLOGIST">
+He's got Aquarium property! Stop him!</speak>
 
-<character>URL</character>
+<speak who="URL">
 Better do what he says. He's a whale 
-biologist!
+biologist!</speak>
 
 <info>He lifts Kif out of the water.</info>
 
-<character>SMITTY</character>
-You're under arrest you squishy punk!
+<speak who="SMITTY">
+You're under arrest you squishy punk!</speak>
 
 <info>Smitty puts the cuffs on Kif and he drops the watch. He sighs. 
 Mushu sicks up Leela's swimming costume.</info>
@@ -662,259 +662,259 @@ fall over.</info>
 <info>Cut to: Silk Surplus Reception. Zapp tells his story to Mom 
 and her sons and Mayor Poopenmeyer.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 The Spiderians, though weak and woman-like 
 on the battlefield, are masters of the 
 textile arts. Taste like king crab by 
 the way. Crazy bugs actually wove this 
 tapestry of my heroic conquest while 
-I was still killing them!
+I was still killing them!</speak>
 
 <info>Zoidberg scratches the tapestry and sniffs it.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 What? It's not even scratch and sniff? 
 But if rich people think it's good, 
-I'll buy it!  One art please!
+I'll buy it!  One art please!</speak>
 
 <info>Mom laughs.</info>
 
-<character>MOM</character>
+<speak who="MOM">
 What a clever impersonation of a stupid 
 poor person! How much is that placemat 
-actually worth Brannigan?
+actually worth Brannigan?</speak>
 
-<character>ZAPP</character>
-Exactly $1 billion!
+<speak who="ZAPP">
+Exactly $1 billion!</speak>
 
-<character>MOM</character>
-Now that's walkin' around money!
+<speak who="MOM">
+Now that's walkin' around money!</speak>
 
 <info>She blows her nose on her $300.</info>
 
-<character>NIXON </character><info>ON <character>BILL</character></info>
-What? Hey! Wait! Arooo!
+<speak who="NIXON"><info>ON <character>BILL</character></info>
+What? Hey! Wait! Arooo!</speak>
 
 <info>Zoidberg looks on sadly. Over on the other side of the room 
 an even jitterier Fry just about manages to pour himself another 
 cup of coffee. He drinks his 99th cup. Bender "enjoys" a conversation 
 with Judge Whitey.</info>
 
-<character>WHITEY</character>
+<speak who="WHITEY">
 So I said to Kitty "The only way to 
 keep the butler from running away is 
 to cut off his foot!"  Yes, it reminds 
 me of a joke I heard about upper-middle 
-class people.
+class people.</speak>
 
 <info>Bender blows smoke in his face and he coughs. Elsewhere Amy 
 and Scruffy talk.</info>
 
-<character>AMY </character>(<character>CRYING</character>)
+<speak who="AMY">(<character>CRYING</character>)
 I've never been sad at a party before. 
 I wonder if my mind is thinking about 
-Kif being in jail.
+Kif being in jail.</speak>
 
-<character>SCRUFFY</character>
+<speak who="SCRUFFY">
 Jail's not so bad. You can make sangria 
-in the terlet! Course its shank or beshanked.
+in the terlet! Course its shank or beshanked.</speak>
 
-<character>AMY </character>(<character>CRYING</character>)
-Of course.
+<speak who="AMY">(<character>CRYING</character>)
+Of course.</speak>
 
 <info>Commander Riker Prison. Kif paces around in his cell still covered 
 in the whale sick.</info>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 Look, just give back the property and 
-we'll drop the charges.
+we'll drop the charges.</speak>
 
-<character>KIF</character>
-Fine, have the watch. It's broken anyway.
+<speak who="KIF">
+Fine, have the watch. It's broken anyway.</speak>
 
 <info>He throws the watch but a forcefield stops it from going through 
 the bars and it bounces back and hits him on the head.</info>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 I don't want your watch. You're covered 
-in precious ambergris.
+in precious ambergris.</speak>
 
-<character>KIF</character>
-Precious ambergris?
+<speak who="KIF">
+Precious ambergris?</speak>
 
 <info>The whale biologist sighs and presses a button on his belt. 
 A holographic image of Roseanne appears.</info>
 
-<character>HOLO</character>-<character>ROSEANNE</character>
+<speak who="HOLO">-<character>ROSEANNE</character>
 Ambergris. Noun. A grease-like product 
 of the sperm whale's digestive tract 
 that is used as a base in the finest 
 perfumes. This has been Roseanne, your 
-guide to the world of facts.
+guide to the world of facts.</speak>
 
 <info>The holo-encyclopedia shuts off.</info>
 
-<character>WHALE BIOLOGIST</character>
+<speak who="WHALE BIOLOGIST">
 You heard Roseanne. Scrape off the priceless 
-ambergris and I'll let you go!
+ambergris and I'll let you go!</speak>
 
-<character>KIF</character>
-Or better yet I'll simply shed my skin!
+<speak who="KIF">
+Or better yet I'll simply shed my skin!</speak>
 
 <info>He struggles as he takes it off.</info>
 
 <info>Silk Surplus Reception. Morbo's wife fiddles with his bow tie.</info>
 
-<character>MORBO</character>
+<speak who="MORBO">
 Stop it! Stop it! It's fine! I will 
-destroy you!
+destroy you!</speak>
 
 <info>Bender walks past and blows smoke in their faces. They cough. 
 Underneath a giant spider dress Farnsworth and his girlfriend 
 make out. A bell tolls.</info>
 
-<character>FARNSWORTH</character>
-Wha?  Uh, gotta go, uh fight club!
+<speak who="FARNSWORTH">
+Wha?  Uh, gotta go, uh fight club!</speak>
 
 <info>He runs out from underneath the dress and covers his face. His 
 girlfriend follows.</info>
 
-<character>WOMAN</character>
-What's happening Hubie?
+<speak who="WOMAN">
+What's happening Hubie?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I'm afraid the face you fell in love 
 with was actually just a blob of living 
-gunk I bought with my tax refund.
+gunk I bought with my tax refund.</speak>
 
 <info>The stem cells slide away.</info>
 
-<character>WOMAN</character>
+<speak who="WOMAN">
 Well as long as we're being honest, 
 I also spent my tax refund on a crazy 
-treatment.
+treatment.</speak>
 
 <info>She pulls a plug out of her belly button and she swells up. 
 She is really a huge fat woman.</info>
 
-<character>FARNSWORTH</character>
-That certainly is honest.
+<speak who="FARNSWORTH">
+That certainly is honest.</speak>
 
-<character>WOMAN</character>
+<speak who="WOMAN">
 It better for us both to just be ourselves. 
-You, wrinkled as a prune.
+You, wrinkled as a prune.</speak>
 
-<character>FARNSWORTH</character>
-You, fat as the Queen of Seacows.
+<speak who="FARNSWORTH">
+You, fat as the Queen of Seacows.</speak>
 
-<character>WOMAN</character>
-I love you!
+<speak who="WOMAN">
+I love you!</speak>
 
 <info>They kiss and she falls on him.</info>
 
-<character>FARNSWORTH</character>
-Oh my!
+<speak who="FARNSWORTH">
+Oh my!</speak>
 
 <info>On the other side of the room Leela is now talking to Whitey 
 and Kif is reunited with Amy.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 So you see the putrid waxy substance 
-I was coated with was -
+I was coated with was -</speak>
 
-<character>AMY</character>
-Not precious ambergris?
+<speak who="AMY">
+Not precious ambergris?</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Yes! And I managed to sneak some out 
 in a usual place! Ta-da!  Using that, 
 I'll make you a perfume of lilac and 
-jasmine and frankenberry!
+jasmine and frankenberry!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Oh Kif, it's so romantic I can't even 
-wait! I'm gonna wear it right now!
+wait! I'm gonna wear it right now!</speak>
 
 <info>She puts some on. Her tattoo splutters. Everyone else chokes 
 at he stench.</info>
 
-<character>MOM</character>
-Who smells like freaking porpus hork?
+<speak who="MOM">
+Who smells like freaking porpus hork?</speak>
 
-<character>AMY</character>
-I do! Kiss me Kif!
+<speak who="AMY">
+I do! Kiss me Kif!</speak>
 
 <info>They kiss. Zoidberg slinks out sadly.</info>
 
 <info>Cut to: Outside Silk Surplus Reception. Zoidberg walks out through 
 the fire exit and sits on a dustbin.</info>
 
-<character>ZOIDBERG </character>(<character>CRYING</character>)
+<speak who="ZOIDBERG">(<character>CRYING</character>)
 Oh what a foolish squid I've been. I'm 
 not rich! I can't even buy one measley 
-masterpiece!
+masterpiece!</speak>
 
 <info>He cries. The hobos approach him.</info>
 
-<character>HOBO #1</character>
+<speak who="HOBO #1">
 Pardon us gent. Might a couple of hungry 
 hungry hobos take a feed from that aluminium 
-snack box?
+snack box?</speak>
 
 <info>Zoidberg gets off the bin and the hobos rummage through it.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 So now I'm in the gutter? Surrounded 
 by bums who eat garbage. Money brought 
-me no happiness. Bupkiss!
+me no happiness. Bupkiss!</speak>
 
-<character>HOBO #2</character>
+<speak who="HOBO #2">
 Ooo this boot's got a little pudding 
-at the bottom!
+at the bottom!</speak>
 
 <info>He licks it off.</info>
 
 <info>Silk Surplus Reception. Bender and Leela talk to Ben Beeler.</info>
 
-<character>BEELER</character>
+<speak who="BEELER">
 Interestingly, the Spiderians are more 
 closely related to our elephants than 
-our spiders.
+our spiders.</speak>
 
 <info>Bender blows smoke inhis face and he coughs. Bender chuckles 
 then gasps as Hermes and Dwight enter via the window, still walking 
 around on the bamboo boots.</info>
 
-<character>HERMES </character>(<character>SHOUTING</character>)
-Don't mind us!
+<speak who="HERMES">(<character>SHOUTING</character>)
+Don't mind us!</speak>
 
 <info>The start to go off balance and one of the bamboo legs knocks 
 Bender's cigar out of his hand. It spins through the air and 
 sets fire to the tapestry. Other things catch on fire too.</info>
 
-<character>NIXON</character>
-The loot! The loot! The loot is on fire!
+<speak who="NIXON">
+The loot! The loot! The loot is on fire!</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Leela! My precious rock tub! I'll save 
-you!
+you!</speak>
 
 <info>He runs towards her but gets caught in a Spiderian web.</info>
 
-<character>KIF</character>
-Everyone! To the fire door!
+<speak who="KIF">
+Everyone! To the fire door!</speak>
 
-<character>LEELA</character>
-It's on fire!
+<speak who="LEELA">
+It's on fire!</speak>
 
-<character>FARNSWORTH</character>
-We're trapped my sweet hippopotamus!
+<speak who="FARNSWORTH">
+We're trapped my sweet hippopotamus!</speak>
 
 <info>Amid the chaos Fry still finds time for a drink.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Coffee coffee coffee coffee coffee coffee 
-coffee coffee coffee coffee!
+coffee coffee coffee coffee!</speak>
 
 <info>He drinks the rest of the jug and his heartbeat rapidly increases. 
 It's his hundredth cup. He enters a slowed down bullet-time world 
@@ -934,84 +934,84 @@ out the flames.</info>
 <info>Cut to: Outside Silk Surplus Reception. Everyone looks around, 
 wondering where they are.</info>
 
-<character>DWIGHT</character>
-Where are we pops?
+<speak who="DWIGHT">
+Where are we pops?</speak>
 
-<character>WOMAN</character>
-What happened to the food?
+<speak who="WOMAN">
+What happened to the food?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I think we were saved by a mysterious 
-orange blur.
+orange blur.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Welcome one and all. I finally figured 
 out how money could make me happy! By 
 using it to buy my hungry friends a 
-feast!
+feast!</speak>
 
 <info>Behind him the hobos cheer.</info>
 
-<character>HOBO #2</character>
+<speak who="HOBO #2">
 Everyone join us. Oysters rockafeller 
-here has provided genuine turkey dogs!
+here has provided genuine turkey dogs!</speak>
 
-<character>WHITEY</character>
+<speak who="WHITEY">
 Heck, you're never too rich to enjoy 
-a free turkey dog!
+a free turkey dog!</speak>
 
 <info>The rich people cheer.</info>
 
-<character>WOMAN</character>
-I'll take four!
+<speak who="WOMAN">
+I'll take four!</speak>
 
-<character>LEELA</character>
-Me too!
+<speak who="LEELA">
+Me too!</speak>
 
-<character>MOM</character>
-Oh what the hell!
+<speak who="MOM">
+Oh what the hell!</speak>
 
 <info>Everyone sits down and eats. Zoidberg puts a pack of Gobble 
 Wieners on a barbecue.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Here Dwight, $299 and 99 cents. You 
-invest this penny like you want it.
+invest this penny like you want it.</speak>
 
-<character>DWIGHT</character>
+<speak who="DWIGHT">
 Thanks Dad. I'm gonna take this and 
-buy five shares of amazon.com!
+buy five shares of amazon.com!</speak>
 
-<character>HERMES</character>
-A risk taker? That's my boy!
+<speak who="HERMES">
+A risk taker? That's my boy!</speak>
 
 <info>Poopenmeyer walks out of the building carrying Nixon's head.</info>
 
-<character>NIXON</character>
+<speak who="NIXON">
 The entire surplus has gone! What a 
 muguvern I've been! Why did I have to 
-issue that crooked tax rebate?
+issue that crooked tax rebate?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 At least we got a few mildly interesting 
-stories out of it.
+stories out of it.</speak>
 
-<character>FARNSWORTH</character>
-Oh my yes!
+<speak who="FARNSWORTH">
+Oh my yes!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Speaking of which, my story kinda peetered 
-out without me learning a lesson!
+out without me learning a lesson!</speak>
 
-<info>He laughs. Enter Smitty and <character>URL</character>.</info>
+<info>He laughs. Enter Smitty and URL.</info>
 
-<character>SMITTY</character>
-There he is!
+<speak who="SMITTY">
+There he is!</speak>
 
 <info>Bender panics. They grab him and bash him with their lightsabers.</info>
 
-<character>BENDER</character>
-All right! Closure!
+<speak who="BENDER">
+All right! Closure!</speak>
 
 <info>THE END</info>
 </xml>

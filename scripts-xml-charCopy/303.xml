@@ -14,34 +14,34 @@ Fry and Bender are messing around in the cockpit. Fry flies a
 scale model of the ship around and makes whoosh-y noises, then 
 a crackling radio noise.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Giant Space Robot, this is Captain Fry 
 of the <character>USS</character> Planet Express Ship; We come 
-in peace.
+in peace.</speak>
 
-<character>BENDER</character>
-Tough luck!
+<speak who="BENDER">
+Tough luck!</speak>
 
 <info>He takes a hammer out of his chest cabinet and knocks the ship 
 out of Fry's hands. It lands on the floor and Bender smashes 
 it to bits. He and Fry laugh.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, we destroyed the toy spaceship. 
-Now what are we gonna do?
+Now what are we gonna do?</speak>
 
-<character>BENDER</character>
-Hey, look! The keys to the real spaceship.
+<speak who="BENDER">
+Hey, look! The keys to the real spaceship.</speak>
 
 <info>Fry sees the keys in the ignition and turns to Bender.</info>
 
-<character>FRY</character>
-Do you think we should?
+<speak who="FRY">
+Do you think we should?</speak>
 
 <info>Bender stands up.</info>
 
-<character>BENDER</character>
-(firmly) Yes, I do.
+<speak who="BENDER">
+(firmly) Yes, I do.</speak>
 
 <info>Cut to: Planet Express: Kitchen. At the conference table Zoidberg 
 reads a book, Hermes sits with an iMac in front of him and Amy 
@@ -49,20 +49,20 @@ eats something with chopsticks. In the kitchen, Leela finishes
 washing a "Universe's #1 Space Pilot" mug and puts it next to 
 Fry's "Universe's #4307697 Delivery Boy" mug.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Leela, have you seen the keys to the 
-spaceship?
+spaceship?</speak>
 
-<character>LEELA</character>
-I must've left them onboard.
+<speak who="LEELA">
+I must've left them onboard.</speak>
 
-<character>FARNSWORTH</character>
-Eh, wha'? I mean, what?
+<speak who="FARNSWORTH">
+Eh, wha'? I mean, what?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Relax. The ship's not going anywhere. 
 I anchored it with the unbreakable diamond 
-tether.
+tether.</speak>
 
 <info>The ship begins to rumble and slowly rises into the air. Leela 
 and Farnsworth gasp.</info>
@@ -72,16 +72,16 @@ to run out as the ship gets higher.</info>
 
 <info>Cut to: Planet Express: Meeting Room.</info>
 
-<character>AMY</character>
-Oh, no!
+<speak who="AMY">
+Oh, no!</speak>
 
 <info>She talks in Martian.</info>
 
-<character>HERMES</character>
-Sweet ghost of Babylon.
+<speak who="HERMES">
+Sweet ghost of Babylon.</speak>
 
-<character>ZOIDBERG</character>
-This isn't good for Zoidberg!
+<speak who="ZOIDBERG">
+This isn't good for Zoidberg!</speak>
 
 <info>Cut to: Outside Planet Express. The ship emerges from the hangar 
 and flies away. The tether tightens and the ship struggles, eventually 
@@ -89,11 +89,11 @@ ripping the building from it's foundations.</info>
 
 <info>Cut to: Ship's Cockpit.</info>
 
-<character>FRY</character>
-Woo, yeah!
+<speak who="FRY">
+Woo, yeah!</speak>
 
-<character>BENDER</character>
-Woo-hoo!
+<speak who="BENDER">
+Woo-hoo!</speak>
 
 <info>They laugh.</info>
 
@@ -114,26 +114,26 @@ and the Mongols ride over it, wielding swords.</info>
 <info>Cut to: Ship's Cockpit. Fry sits with his feet on a console 
 while Bender literally flies by the seat of his pants.</info>
 
-<character>BENDER</character>
-Hey, Fry, I'm steering with my ass!
+<speak who="BENDER">
+Hey, Fry, I'm steering with my ass!</speak>
 
-<character>FRY</character>
-That's the best thing I ever saw!
+<speak who="FRY">
+That's the best thing I ever saw!</speak>
 
 <info>Pisa. The ship knocks the Leaning Tower upright and the locals 
 shout angrily at them and wave their fists.</info>
 
-<character>ITALIAN #1</character>
-You stink!
+<speak who="ITALIAN #1">
+You stink!</speak>
 
 <info>The building hits it and knocks it at an angle again and the 
 Italians cheer.</info>
 
-<character>ITALIAN #1</character>
-Alright, yeah!
+<speak who="ITALIAN #1">
+Alright, yeah!</speak>
 
-<character>ITALIAN #2</character>
-We like you a lot!
+<speak who="ITALIAN #2">
+We like you a lot!</speak>
 
 <info>The Leaning Tower topples and crushes some of them.</info>
 
@@ -144,43 +144,43 @@ foundations and landing in the hangar.</info>
 <info>Cut to: Planet Express: Hangar. The place is a tip. Fry and 
 Bender walk down the ship's steps, laughing.</info>
 
-<character>FRY</character>
-That was great!
+<speak who="FRY">
+That was great!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And no one suspects a thing!  Whoa! 
-And that's how we learned our lesson!
+And that's how we learned our lesson!</speak>
 
 <info>Fry hides behind him and nods.</info>
 
 <info>Time Lapse. Farnsworth berates them.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 You've gone too far this time - all 
-three of you!
+three of you!</speak>
 
-<character>LEELA</character>
-What did I do?
+<speak who="LEELA">
+What did I do?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 You left the keys in the ignition. I 
 mean, look at those two. Wasn't it obvious 
-what would happen?
+what would happen?</speak>
 
-<character>FRY</character>
-Yeah, Leela.
+<speak who="FRY">
+Yeah, Leela.</speak>
 
-<character>BENDER</character>
-We're all very disappointed in you.
+<speak who="BENDER">
+We're all very disappointed in you.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I should fire you three right now, but 
-I'm just not that cold-hearted.
+I'm just not that cold-hearted.</speak>
 
 <info>He whispers something to Hermes.</info>
 
-<character>HERMES</character>
-You're all fired.
+<speak who="HERMES">
+You're all fired.</speak>
 
 <info>The others' jaws drop.</info>
 
@@ -188,186 +188,186 @@ You're all fired.
 the main door. Zoidberg, Amy, Hermes and Farnsworth watch them 
 go.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Goodbye, friends. I'll miss you.  Good 
 riddance to them. Now Zoidberg is the 
-popular one!
+popular one!</speak>
 
-<character>FARNSWORTH</character>
-Yes, yes! Let's all talk to Zoidberg.
+<speak who="FARNSWORTH">
+Yes, yes! Let's all talk to Zoidberg.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Hey, Dr. Zoidberg, I've been thinking. 
-Do you think we could go out?
+Do you think we could go out?</speak>
 
-<character>FARNSWORTH</character>
-So, Zoidberg. What's new?
+<speak who="FARNSWORTH">
+So, Zoidberg. What's new?</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Tell me, Zoidberg: Is it carapace or 
-carapass?
+carapass?</speak>
 
-<character>ZOIDBERG</character>
-Oh, you know...!
+<speak who="ZOIDBERG">
+Oh, you know...!</speak>
 
 <info>Park. The jobless Fry, Leela and Bender sit on a bench.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 What are we supposed to do for money? 
 All I've got is my frequent taffy eater's 
 card, my first moustache......and this 
 picture of me and my old girlfriend, 
 Michelle, and that ski instructor she 
-was just friends with.
+was just friends with.</speak>
 
 <info>In the photo the ski instructor has his arm around Michelle 
 while Fry leans into the photo, waving. Bender unscrews his head 
 and holds it out like a bucket to a passing man.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Pardon me, brother. Care to donate to 
-the Anti-Mugging-You Fund?  Ow!
+the Anti-Mugging-You Fund?  Ow!</speak>
 
 <info>She puts his head back on.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We don't need to beg, Bender. For God's 
-sake, we're not veterans!
+sake, we're not veterans!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, what do you suggest? A daring 
 daylight robbery of Fort Knox on elephant-back? 
-That's the dumbest thing I ever heard!
+That's the dumbest thing I ever heard!</speak>
 
-<character>LEELA</character>
-No, we can get jobs.
+<speak who="LEELA">
+No, we can get jobs.</speak>
 
-<character>BENDER</character>
-But we just had jobs!
+<speak who="BENDER">
+But we just had jobs!</speak>
 
 <info>Leela opens her backpack.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fortunately, I still have our old career 
-chips.
+chips.</speak>
 
-<character>FRY</character>
-Our what?
+<speak who="FRY">
+Our what?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Career chips.  You remember? They assign 
 you the job you're best at.  I tried 
 to give you one and you ran away.  It's 
-how we met!
+how we met!</speak>
 
-<character>FRY</character>
-And then what happened?
+<speak who="FRY">
+And then what happened?</speak>
 
 <info>She sighs.</info>
 
-<character>LEELA</character>
-Just give me your hand.
+<speak who="LEELA">
+Just give me your hand.</speak>
 
 <info>She clips him with her implant gun.</info>
 
-<character>FRY</character>
-Ow!
+<speak who="FRY">
+Ow!</speak>
 
-<character>LEELA</character>
-Baby!  Ow!
+<speak who="LEELA">
+Baby!  Ow!</speak>
 
 <info>Applied Cryogenics: Ipgee's Office. Leela reapplies to the company 
 with the motto "It Seems To Work OK" at exactly 3pm. Fry and 
 Bender are with her.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'd like to reapply for my old job: 
 Counselling defrostees and assigning 
-them careers.
+them careers.</speak>
 
-<character>IPGEE</character>
+<speak who="IPGEE">
 Oh, I was hoping you would come back! 
 I even saved your poster of a chimp 
-expressing your distaste for Mondays.
+expressing your distaste for Mondays.</speak>
 
 <info>He takes the poster out of his drawer. It has a picture of a 
 monkey wearing a tie on it. Above, "I Hate Mondays" is written.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Monday Monkey lives for the weekend, 
-sir.
+sir.</speak>
 
-<character>IPGEE</character>
+<speak who="IPGEE">
 Just put your hand under the scanner 
 so I can verify your career chip.  Calcutta, 
-we have a problem.
+we have a problem.</speak>
 
 <info>"Career: Delivery Boy" is on the screen.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Delivery boy? I must have mixed up the 
-chips. It's a simple mis -
+chips. It's a simple mis -</speak>
 
 <info>Ipgee scans Fry's chip.</info>
 
-<character>IPGEE</character>
+<speak who="IPGEE">
 Oh, here's a cryogenic counsellor! Do 
-you like Mondays?
+you like Mondays?</speak>
 
-<character>FRY</character>
-They're <character>OK</character>.
+<speak who="FRY">
+They're <character>OK</character>.</speak>
 
-<character>IPGEE</character>
+<speak who="IPGEE">
 Then we'll have to redecorate your office. 
 How do you feel about it helping to 
 be crazy to work here but not being 
-necessary?
+necessary?</speak>
 
-<character>BENDER</character>
-Hey, let's see what it says about me.
+<speak who="BENDER">
+Hey, let's see what it says about me.</speak>
 
 <info>He takes a severed human arm out of his chest cabinet and Ipgee 
 scans it. "Prime Minister Of Norway" appears on the screen.</info>
 
-<character>IPGEE</character>
-Welcome aboard, sir.
+<speak who="IPGEE">
+Welcome aboard, sir.</speak>
 
 <info>Applied Cryogenics: Freezer Room. Terry scrapes some condensation 
 from the front of an active freezer tube. Fry is wearing a blue 
 uniform and he and Bender are both wearing white coats.</info>
 
-<character>TERRY</character>
+<speak who="TERRY">
 Remember, when the tube opens, say...(dramatically)..."Welcome 
-to the world of tomorrow!"
+to the world of tomorrow!"</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, I was frozen. I think I know what 
 people wanna hear when they first wake 
-up.  Bathroom's that way.
+up.  Bathroom's that way.</speak>
 
 <info>The man pushes him out the way and runs.</info>
 
 <info>Applied Cryogenics: Probulator Room. The man is lying naked 
 on the table. Hovering above him are some sharp instruments.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 So, while you're on the Probulator, 
-tell me, what brings you to the future?
+tell me, what brings you to the future?</speak>
 
-<character>MAN</character>
+<speak who="MAN">
 Oh, well, I wanted to meet Shakespeare 
-and I figured that time was cyclical.
+and I figured that time was cyclical.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Nope. Straight line.  Ah, the Probulator's 
-done.
+done.</speak>
 
-<character>MAN</character>
-That wasn't so bad.
+<speak who="MAN">
+That wasn't so bad.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh, wait, it hasn't started yet.  OK, 
-it's about to start.
+it's about to start.</speak>
 
 <info>It dings and the man screams some more.</info>
 
@@ -375,342 +375,342 @@ it's about to start.
 man walk out, rubbing his eyes. Bender runs towards him wearing 
 a giant fly's head and a cape.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Welcome to the future, human slave. 
 Ah, relax, chum. I'm not really a giant 
 fly!  I'm a horrible robot!  Kill all 
-humans!
+humans!</speak>
 
 <info>The old man clutches his chest.</info>
 
-<character>TERRY</character>
-Dear God! He's having a heart attack!
+<speak who="TERRY">
+Dear God! He's having a heart attack!</speak>
 
 <info>Bender pushes the old man into the freezer, turns the dial and 
 freezer him.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ah, they'll probably find a cure for 
-that in the future.
+that in the future.</speak>
 
-<character>TERRY</character>
-We have a cure for it now!
+<speak who="TERRY">
+We have a cure for it now!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, good. Then you won't mind if I use 
-this.
+this.</speak>
 
 <info>He puts a gorilla mask on.</info>
 
 <info>Time Lapse. Fry is frozen in a freezer. It pings, unfreezes 
 him and opens the door. He yawns and stretches.</info>
 
-<character>FRY</character>
-Nothing like a power nap.
+<speak who="FRY">
+Nothing like a power nap.</speak>
 
 <info>He pours himself a coffee and opens the old man's tube. There 
 are pizza boxes, milk cartons, beers and cans of Slurm stacked 
 around him. Fry pours some milk in his coffee. The old man unfreezes.</info>
 
-<character>OLD MAN</character>
-Oh, flies! Flies and gorillas!
+<speak who="OLD MAN">
+Oh, flies! Flies and gorillas!</speak>
 
 <info>Fry hands him the milk and closes the door. The old man freezes 
 again. The door to the Probulator room opens and Bender walks 
 out.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Stay beautiful, doll-face!  That Probulator 
 sure knows how to please a man. So, 
-what's for lunch?
+what's for lunch?</speak>
 
-<character>FRY</character>
-I ordered a pizza.
+<speak who="FRY">
+I ordered a pizza.</speak>
 
 <info>The door opens and Leela walks in, wearing delivery girl garb. 
 Her cap has a slice of pizza stuck in it.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Pizza delivery for...I.C. Wiener.  Yeah, 
-very funny. Now cough up the $12.95.
+very funny. Now cough up the $12.95.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Sorry, but if it's not here in half 
-an hour, it's free.
+an hour, it's free.</speak>
 
-<character>LEELA</character>
-It's only been 23 minutes.
+<speak who="LEELA">
+It's only been 23 minutes.</speak>
 
-<character>FRY</character>
-Well, uh, I've got 33 minutes.
+<speak who="FRY">
+Well, uh, I've got 33 minutes.</speak>
 
 <info>Leela puts the pizza box on the table and presses a button. 
 The doodle of a hef starts to talk.</info>
 
-<character>CHEF</character>
+<speak who="CHEF">
 It's only been-a 23 minutes, you dumb-a 
 canolli. You got a problem, we can take 
-it outside.
+it outside.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 OK, I'll fight the box. I think I can 
-take him.
+take him.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, just pay me. I still owe 30 bucks 
-on this uniform.
+on this uniform.</speak>
 
-<character>CHEF</character>
-35, you stupid meatball.
+<speak who="CHEF">
+35, you stupid meatball.</speak>
 
 <info>Time Lapse. Bender and Fry walk past the freezers, looking at 
 a clipboard.</info>
 
-<character>BENDER</character>
-Who should be unfreeze next?
+<speak who="BENDER">
+Who should be unfreeze next?</speak>
 
 <info>They look at a commando-type who is holding a gun and pulling 
 a pin from a grenade.</info>
 
-<character>FRY</character>
-No.  No!  Oh, my God! It's Pauly Shore!
+<speak who="FRY">
+No.  No!  Oh, my God! It's Pauly Shore!</speak>
 
-<character>BENDER</character>
-Alright!
+<speak who="BENDER">
+Alright!</speak>
 
 <info>He puts his gorilla mask on.</info>
 
 <info>Applied Cryogenics: Probulator Room. Pauly Shore is lying on 
 the table.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Mr. Shore, I loved you in Bio-Dome. 
 You sure caused some trouble in that 
-bubble!
+bubble!</speak>
 
-<character>SHORE</character>
+<speak who="SHORE">
 Rest assured, if it rhymes, I can cause 
-trouble in it.
+trouble in it.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, now that you're in the future, 
-you can go live in an actual bio-dome!
+you can go live in an actual bio-dome!</speak>
 
-<character>SHORE</character>
+<speak who="SHORE">
 An unattractive prospect. While researching 
 for the role, I ran computer simulations 
 demonstrating, incontravertably, that 
 the whole bio-enclosure concept is fundamentally 
 flawed. Be it expressed via dome, sphere, 
 cube or even a stately tetrahedron, 
-buuuddy!
+buuuddy!</speak>
 
 <info>He smacks his lips. Fry stares blankly at him.</info>
 
-<character>FRY</character>
-Oh.  How did you wind up getting frozen?
+<speak who="FRY">
+Oh.  How did you wind up getting frozen?</speak>
 
-<character>SHORE</character>
+<speak who="SHORE">
 Well, while filming Encino Man my intellectual 
 curiosity re: cryogenics was peaked, 
-and I resolved to freeze the weasel.
+and I resolved to freeze the weasel.</speak>
 
-<character>FRY</character>
-The weasel?
+<speak who="FRY">
+The weasel?</speak>
 
 <info>He laughs.</info>
 
-<character>SHORE</character>
+<speak who="SHORE">
 Hey, listen, skippy. I was supposed 
 to be unfrozen in Hollywood for the 
 thousandth anniversary screening of 
-Jury Duty <character>II</character>. How come I'm not there?
+Jury Duty <character>II</character>. How come I'm not there?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I woke you up early so we could hang 
-out and do stuff.
+out and do stuff.</speak>
 
-<character>SHORE</character>
-Like what?
+<speak who="SHORE">
+Like what?</speak>
 
 <info>Fry turns the Probulator on and Shore screams.</info>
 
 <info>Applied Cryogenics: Freezer Room.</info>
 
-<character>FRY</character>
-I love this job.
+<speak who="FRY">
+I love this job.</speak>
 
 <info>Bender is wearing a sheet over his head and looks like a cartoon 
 ghost.</info>
 
-<character>BENDER</character>
-Me too.
+<speak who="BENDER">
+Me too.</speak>
 
 <info>A freezer pings.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Showtime! (hoarse) I'll pretend to be 
-dying of space plague.
+dying of space plague.</speak>
 
 <info>The freezer opens and Fry gasps.</info>
 
-<character>BENDER</character>
-Boo?
+<speak who="BENDER">
+Boo?</speak>
 
 <info>The condensation clears and the woman inside the freezer wakes 
 up.</info>
 
-<character>FRY</character>
-Michelle!
+<speak who="FRY">
+Michelle!</speak>
 
 <info>Bender looks at the photo inside Fry's wallet.</info>
 
-<character>BENDER</character>
-Oh, my God!
+<speak who="BENDER">
+Oh, my God!</speak>
 
 <info>He steals some cash and hands the wallet back to Fry.</info>
 
-<character>MICHELLE</character>
-Fry? Is it really you?
+<speak who="MICHELLE">
+Fry? Is it really you?</speak>
 
-<character>FRY</character>
-I don't know. Is it really you?
+<speak who="FRY">
+I don't know. Is it really you?</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 What do you mean you don't know? Are 
-you you or not?
+you you or not?</speak>
 
-<character>FRY</character>
-Who wants to know?
+<speak who="FRY">
+Who wants to know?</speak>
 
-<character>MICHELLE</character>
-Oh, Fry, it is you!
+<speak who="MICHELLE">
+Oh, Fry, it is you!</speak>
 
 <info>She hugs him and they kiss. Bender makes scary ghostie noises.</info>
 
 <info>Time Lapse. Fry and Michelle are sat down.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I don't get it, Michelle. The last time 
 I saw you, you were doing great. You 
 had just dumped me and you were well 
 on your way to getting you life back 
-on track. Why'd you freeze yourself?
+on track. Why'd you freeze yourself?</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 Oh, Fry. After you left, things took 
-a turn for the worse. I got married.
+a turn for the worse. I got married.</speak>
 
-<character>FRY</character>
-I'm sorry.
+<speak who="FRY">
+I'm sorry.</speak>
 
 <info>Flashback. At Michelle's wedding, her new husband slips a ring 
 onto her finger and they kiss.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 (voice-over) His name was Charles. He 
 attended a law school so prestigious, 
 the basketball team was coached by Ruth 
 Bader Ginsberg.  I put him through law 
 school by working as a dog walker for 
-antisocial dogs.
+antisocial dogs.</speak>
 
 <info>Flashback ends.</info>
 
-<character>FRY</character>
-Sorry.
+<speak who="FRY">
+Sorry.</speak>
 
 <info>Flashback. The scene moves to Charles's graduation.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 (voice-over) But soon after Charles 
-graduated, our marriage ran into difficulties.
+graduated, our marriage ran into difficulties.</speak>
 
 <info>Charles throws his hat into the air and Michelle catches it 
 and sees him kissing another woman.</info>
 
 <info>Flashback ends.</info>
 
-<character>FRY</character>
-Uh, sorry.
+<speak who="FRY">
+Uh, sorry.</speak>
 
 <info>Flashback. Michelle walks the streets alone at night.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 (voice-over) Desperately depressed, 
 I turned to the one thing that could 
 lessen my pain: A carnival. Unfortunately, 
 a corn dog bone got lodged in the control 
 panel of the Spizzler, and I had to 
-ride it for eight hours.
+ride it for eight hours.</speak>
 
-<character>FRY</character>
-(voice-over) Sorry.
+<speak who="FRY">
+(voice-over) Sorry.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 (voice-over) But it did give me a chance 
-to think...
+to think...</speak>
 
 <info>Flashback ends.</info>
 
-<character>FRY</character>
-I'm sorry.
+<speak who="FRY">
+I'm sorry.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 ...and I remembered the last time I 
-was truly happy; When I was with you.
+was truly happy; When I was with you.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Aww. So you froze yourself to come look 
-for me?
+for me?</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 No, I did it to get a fresh start. I 
 didn't know what had happened to you 
 - no one did. The police were going 
 to conduct a search but your parents 
-felt it was a waste of taxpayer money.
+felt it was a waste of taxpayer money.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That's the same reason they kept me 
 out of school. So, no one even cared 
-that I was gone?
+that I was gone?</speak>
 
-<character>MICHELLE</character>
-Not really. Except for one person.
+<speak who="MICHELLE">
+Not really. Except for one person.</speak>
 
 <info>She puts her hand on his and they move closer.</info>
 
-<character>FRY</character>
-Who was it?
+<speak who="FRY">
+Who was it?</speak>
 
 <info>New New York City Streets. Fry and Michelle fly a hover-scooter 
 over the city.</info>
 
-<character>MICHELLE</character>
-Everything is so different.
+<speak who="MICHELLE">
+Everything is so different.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Not everything. There's still a roach 
-problem.
+problem.</speak>
 
 <info>A giant roach flies beside them and Fry sprays it.</info>
 
-<character>MICHELLE</character>
-Ew!
+<speak who="MICHELLE">
+Ew!</speak>
 
 <info>Museum Of Really Modern Art. The artwork is on the stomachs 
 of lots of fat men. Michelle and Fry look at a painting on Sal.</info>
 
-<character>MICHELLE</character>
-Eurgh.
+<speak who="MICHELLE">
+Eurgh.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Nowadays, people aren't interested in 
-art that's not tattooed on fat guys.
+art that's not tattooed on fat guys.</speak>
 
-<character>SAL</character>
-I'm on loan from the Louvre.
+<speak who="SAL">
+I'm on loan from the Louvre.</speak>
 
 <info>Park. Fry and Michelle sit in a horse-drawn carriage. The cab 
 man whips the horse and a giant bug whips him. He screams and 
@@ -719,196 +719,196 @@ Michelle whimpers.</info>
 <info>Planet Express: Meeting Room. Outside the building, repair work 
 is being done. Inside, Leela and Bender meet with Farnsworth.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Please, professor. Give us our jobs 
-back. We deserve another chance.
+back. We deserve another chance.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah, and if you won't give me another 
 chance, perhaps you'd give one to......Og, 
-gorilla emperor of Earth!
+gorilla emperor of Earth!</speak>
 
 <info>The ship lands in the hangar.</info>
 
-<character>FARNSWORTH</character>
-I'm sorry, Og, but I've got a new crew.
+<speak who="FARNSWORTH">
+I'm sorry, Og, but I've got a new crew.</speak>
 
 <info>Cut to: Planet Express: Hangar. Farnsworth leans over the railings 
 and Hermes, Amy and Zoidberg get off the ship.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 So, how was delivery to Fantasy Planet, 
-where everyone's fantasies come to life?
+where everyone's fantasies come to life?</speak>
 
-<character>AMY</character>
-Great!
+<speak who="AMY">
+Great!</speak>
 
-<character>HERMES</character>
-Organised!
+<speak who="HERMES">
+Organised!</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 For one beautiful night, I knew what 
 it was to be a grandmother. Subjugated, 
-yet honoured.
+yet honoured.</speak>
 
 <info>Cut to: Planet Express: Meeting Room. Bender has the gorilla 
 mask under his arm and Farnsworth talks to it.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 You see, Og? Everything's running smoothly, 
 yes. And with Fry fired, I can finally 
 leave my jigsaw puzzles out without 
-him eating the pieces.
+him eating the pieces.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Forget about Fry. You can hire us back 
-and he'd never have to know.
+and he'd never have to know.</speak>
 
 <info>Enter Fry.</info>
 
-<character>FRY</character>
-Hey, guys.
+<speak who="FRY">
+Hey, guys.</speak>
 
-<character>LEELA</character>
-Oh. Hey, Fry!
+<speak who="LEELA">
+Oh. Hey, Fry!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 So, as Leela was saying, Fry can go 
-shove a big old - Ow!
+shove a big old - Ow!</speak>
 
 <info>Leela clocks him with a phone.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm glad you're all here. I wanted to 
 introduce you to my on-again-off-again 
 girlfriend of the past thousand years, 
 Michelle.  Michelle, this is Leela. 
 This is Bender.  The professor.  Hermes 
-and Amy.
+and Amy.</speak>
 
-<character>MICHELLE</character>
-Nice to meet you.
+<speak who="MICHELLE">
+Nice to meet you.</speak>
 
-<character>FRY</character>
-And this is Dr. Zoidberg.
+<speak who="FRY">
+And this is Dr. Zoidberg.</speak>
 
 <info>Zoidberg screams and runs away.</info>
 
 <info>Planet Express: Lounge. Fry sits on the couch and Hermes, Bender 
 and Farnsworth stand around him.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Dating you ex, Fry? Have you lost all 
-self-respect?
+self-respect?</speak>
 
-<character>FRY</character>
-All what?
+<speak who="FRY">
+All what?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 This can only end badly, Fry. Kids, 
-a house -
+a house -</speak>
 
-<character>BENDER</character>
-A home invasion by a former roommate.
+<speak who="BENDER">
+A home invasion by a former roommate.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But things are different this time. 
 Before, she was demanding and possessive. 
 But now she wants me to do stuff and 
-stay with her all the time.
+stay with her all the time.</speak>
 
 <info>Planet Express: Meeting Room. Amy and Michelle sit at the table. 
 Zoidberg, wearing a frilly apron, pours them some tea.</info>
 
-<character>ZOIDBERG</character>
-There you go, dearies.
+<speak who="ZOIDBERG">
+There you go, dearies.</speak>
 
 <info>He hums and leaves. Michelle trembles.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 It's a relief to meet you, Amy. I'm 
 just having a hard time adjusting to 
-all the strange stuff here in the future.
+all the strange stuff here in the future.</speak>
 
-<character>AMY</character>
-I'm from Mars.
+<speak who="AMY">
+I'm from Mars.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 I feel so out of place here. I don't 
-understand why Fry fits in so well.
+understand why Fry fits in so well.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Probably because he didn't fit in back 
-in your time.
+in your time.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 That's true. But I used to fit in really 
-well.
+well.</speak>
 
-<character>ZOIDBERG</character>
-Then good luck, sister.
+<speak who="ZOIDBERG">
+Then good luck, sister.</speak>
 
 <info>He screams and walks off. Michelle drops her cup and it smashes. 
 Seconds later it reassembles itself. She whimpers.</info>
 
 <info>Applied Cryogenics: Freezer Room.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 Don't take this the wrong way, Fry, 
-but your friends are a bunch of freaks.
+but your friends are a bunch of freaks.</speak>
 
-<character>FRY</character>
-Yeah, they're great, huh?
+<speak who="FRY">
+Yeah, they're great, huh?</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 I just don't belong here. I don't know 
 anyone, I can't find a vanishing cream 
 that doesn't make me actually vanish. 
-I don't even have a job.
+I don't even have a job.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh, right. I was supposed to assign 
 you a job. Let me just get your career 
 chip installed.  Hold out your palm. 
 What are you scared of? It's just like 
-getting your hand pierced.
+getting your hand pierced.</speak>
 
 <info>Michelle pushes the gun away.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 This world is horrible. Let's start 
 over, Fry. Well go someplace where all 
-we have is each other.
+we have is each other.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Ooh, romantic. I'll tell Bender to meet 
-us there.
+us there.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 It's not a "there". It's a "then".  
-The future.
+The future.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Whoa, whoa, girl. I thought you were 
 talking about one of those motels where 
-the bed is shaped like stuff.
+the bed is shaped like stuff.</speak>
 
-<character>MICHELLE</character>
-I love you. Don't you love me?
+<speak who="MICHELLE">
+I love you. Don't you love me?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, sure. To the extent a man can 
 love a woman. But this seems like a 
-big step.
+big step.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 Fry, why must you analyse everything 
 with your relentless logic? Nothing 
-matters but our love.
+matters but our love.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You're right. Let's do this now and 
-let's never regret it.
+let's never regret it.</speak>
 
 <info>They climb into the freezer and kiss. They are frozen in a flash.</info>
 
@@ -916,164 +916,164 @@ let's never regret it.
 The door opens and Fry and Michelle get out and look around. 
 The ruins of buildings burn and there are cracks in the ground.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Michelle, I don't regret this. But I 
-both rue and lament it.
+both rue and lament it.</speak>
 
 <info>Time Lapse. The pair walk the desert.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 The year 4000 is severely disappointing. 
 I miss the year 3000 when life was simple 
 and brains flew through space and everyone 
-ate lasers.
+ate lasers.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 It's not that bad. Fate brought us together 
-and now fate brought us here.
+and now fate brought us here.</speak>
 
-<character>FRY</character>
-No, you brought us here.
+<speak who="FRY">
+No, you brought us here.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 Whine some more, Fry, I really find 
 that attractive in a man. Now come on, 
-build us a shelter.
+build us a shelter.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Alright, fine. Everything else sucks. 
 At least we can have a nice place to 
-live.
+live.</speak>
 
 <info>Time Lapse. It is dark and Fry is covered in dirt.</info>
 
-<character>FRY</character>
-Ooh, there.
+<speak who="FRY">
+Ooh, there.</speak>
 
 <info>He is standing in a hole.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 You expect me to live in a tiny little 
-hole?
+hole?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 It'd be deeper, but I'm standing on 
-a gopher.
+a gopher.</speak>
 
 <info>Time Lapse. The next morning, Fry and Michelle are woken up 
 by someone poking their faces with sticks.</info>
 
-<character>MICHELLE</character>
-Oh, look. Some little kids.
+<speak who="MICHELLE">
+Oh, look. Some little kids.</speak>
 
-<character>FRY</character>
-They'll save us.  We're saved!
+<speak who="FRY">
+They'll save us.  We're saved!</speak>
 
 <info>Kids' Den. Fry and Michelle are tied up in the middle of the 
 den, which is in the middle of some ruined buildings. One of 
 the kids sits on a chair, elevated by some oil drums.</info>
 
-<character>BUTCH</character>
+<speak who="BUTCH">
 I'm Butch, leader of this place. I took 
 your hole and you can't do nothing about 
-it.
+it.</speak>
 
-<character>MICHELLE</character>
-<character>OK</character>.
+<speak who="MICHELLE">
+<character>OK</character>.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Mighty sir, we have nowhere to go. Could 
-we please join your society?
+we please join your society?</speak>
 
-<character>BUTCH</character>
+<speak who="BUTCH">
 Well, alright. But no interfering with 
-our grand works.
+our grand works.</speak>
 
 <info>Time Lapse. The kids smash an old couch to bits and fight. Butch 
 watches them and nods. Fry joins Michelle, who is lying on a 
 sun bed.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I tell you, that Butch runs a pretty 
 good civilisation. I think I'll enjoy 
-serving under him.
+serving under him.</speak>
 
 <info>Michelle groans.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 You know your problem, Fry? You're not 
-ambitious. You should be chief.
+ambitious. You should be chief.</speak>
 
-<character>FRY</character>
-What do I need, ulcers?
+<speak who="FRY">
+What do I need, ulcers?</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 But I want power. I'm tired of the chief's 
 girlfriend lording it over me with her 
-fancy coyote hide.
+fancy coyote hide.</speak>
 
 <info>They watch Butch's girlfriend stroking the hide.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Alright, alright. If it'll make you 
-happy, I'll overthrow society.
+happy, I'll overthrow society.</speak>
 
 <info>Time Lapse. Butch laughs.</info>
 
-<character>BUTCH</character>
+<speak who="BUTCH">
 On what grounds do you challenge my 
-authority?
+authority?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, I'm older than you. I can beat 
-you up.
+you up.</speak>
 
 <info>The kids nod.</info>
 
-<character>KID #1</character>
-Yeah, I'll bet he could.
+<speak who="KID #1">
+Yeah, I'll bet he could.</speak>
 
-<character>BUTCH</character>'S <character>GIRLFRIEND</character>
-He's got arm hair.
+<speak who="BUTCH">'S <character>GIRLFRIEND</character>
+He's got arm hair.</speak>
 
-<character>BUTCH</character>
+<speak who="BUTCH">
 Alright, grandpa. There's only one way 
-to settle this. Death rolling!
+to settle this. Death rolling!</speak>
 
 <info>The kids cheer.</info>
 
-<character>FRY</character>
-What's death rolling?
+<speak who="FRY">
+What's death rolling?</speak>
 
-<character>OROWHEAT</character>
-It's like skateboarding.
+<speak who="OROWHEAT">
+It's like skateboarding.</speak>
 
-<character>ICE</character>-V
-Except half the time, someone dies.
+<speak who="ICE">-V
+Except half the time, someone dies.</speak>
 
-<character>FRY</character>
-Oh, so it's a little safer than skateboarding.
+<speak who="FRY">
+Oh, so it's a little safer than skateboarding.</speak>
 
 <info>Ruined City. At the top of a ruined building, Fry stands on 
 a skateboard with wheels and Butch stands on a rocket-propelled 
 one.</info>
 
-<character>BUTCH</character>
+<speak who="BUTCH">
 Last one holding the bandana's the new 
-leader.
+leader.</speak>
 
 <info>He takes his bandana off and Fry holds one end of it.</info>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 My mother always said you were a loser, 
 Fry. Now get out there and prove her 
-wrong.
+wrong.</speak>
 
-<character>FRY</character>
-(sadly) Beth said that?
+<speak who="FRY">
+(sadly) Beth said that?</speak>
 
-<character>BUTCH</character>'S <character>GIRLFRIEND</character>
-(in Hebrew) One, two, three.
+<speak who="BUTCH">'S <character>GIRLFRIEND</character>
+(in Hebrew) One, two, three.</speak>
 
 <info>Butch flies down the ramp, dragging Fry with him. They tug back 
 and forth on the bandana as they wind through the ruined streets. 
@@ -1089,76 +1089,76 @@ cars split and Fry and Butch fly towards a lamppost. The bandana
 wraps around it and their heads hit each other. The kids and 
 Michelle gather around.</info>
 
-<character>BUTCH</character>
+<speak who="BUTCH">
 It's cool. Back off.  (crying) My knee. 
-I scraped it.
+I scraped it.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Aww. Poor little guy. Let me just take 
 a look at - aha!  I won! I'm the new 
 chief! I'm the tallest and I weigh the 
-most!
+most!</speak>
 
 <info>The kids takes their guns out.</info>
 
-<character>BUTCH</character>
-Hand it over, you giant idiot.
+<speak who="BUTCH">
+Hand it over, you giant idiot.</speak>
 
 <info>An armoured car pulls up and honks its horn.</info>
 
-<character>BUTCH</character>'S <character>GIRLFRIEND</character>
-Hey, Butch, your mom's here.
+<speak who="BUTCH">'S <character>GIRLFRIEND</character>
+Hey, Butch, your mom's here.</speak>
 
-<character>BUTCH</character>
-Aw, man.
+<speak who="BUTCH">
+Aw, man.</speak>
 
-<character>BUTCH</character>'S <character>MOM</character>
+<speak who="BUTCH">'S <character>MOM</character>
 Come on, kids. You're late for Hebrew 
-school.
+school.</speak>
 
 <info>The kids groan and drop their guns.</info>
 
-<character>OROWHEAT</character>
-I don't wanna go.
+<speak who="OROWHEAT">
+I don't wanna go.</speak>
 
-<character>BUTCH</character>'S <character>GIRLFRIEND</character>
+<speak who="BUTCH">'S <character>GIRLFRIEND</character>
 Every Monday and Wednesday's the same 
-thing.
+thing.</speak>
 
 <info>They get into the car and drive away.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I find this post-apocalyptic wasteland 
 very confusing. Seriously, I'm weirded 
-out.
+out.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 That's because you're a loser. You were 
 a loser in the year 2000 and you're 
-a loser in the year 4000.
+a loser in the year 4000.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah, but in the year 3000, I had it 
 all. Several friends, a low-paying job, 
 a bed in a robot's closet. I envied 
-no man. But you wrecked everything.
+no man. But you wrecked everything.</speak>
 
-<character>MICHELLE</character>
+<speak who="MICHELLE">
 Quit standing up for yourself, Fry. 
 When we get back to the hole, we are 
 going to have a long, boring talk about 
-our relationship!
+our relationship!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh, yeah? Well, listen to this: (whispering) 
-I'm leaving you.
+I'm leaving you.</speak>
 
 <info>He runs away.</info>
 
 <info>Time Lapse. Fry walks alone through the misty desert.</info>
 
-<character>FRY</character>
-There must be people somewhere.
+<speak who="FRY">
+There must be people somewhere.</speak>
 
 <info>He climbs a small hill and sees some lights in the distance. 
 He slips on some loose stones and bounces down the other side 
@@ -1167,103 +1167,103 @@ of the hill.</info>
 <info>Time Lapse. The mist is thicker. Fry falls to the ground. The 
 mist clears a little and something comes into view.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Yes! Footprints! And hand prints?  But? 
-What's happening?
+What's happening?</speak>
 
 <info>He stands up and sees Loew's Gaddafi's Chinese Theater in front 
 of him. He steps back. The Planet Express ship lands beside him, 
 crushing a floodlight. People scatter. Leela, Bender and Farnsworth 
 walk off the ship.</info>
 
-<character>LEELA</character>
-Fry, thank God we found you.
+<speak who="LEELA">
+Fry, thank God we found you.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela? What are you guys doing here 
-in the year 4000?
+in the year 4000?</speak>
 
-<character>LEELA</character>
-It's not the year 4000.
+<speak who="LEELA">
+It's not the year 4000.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You were only frozen for two days. Uh, 
-by the way, I broke your bed.
+by the way, I broke your bed.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 You were in Pauly Shore's tube and they 
-were delivering it to his movie screening.
+were delivering it to his movie screening.</speak>
 
 <info>He points to the sign on the theatre; "Jury Duty II: Trouble 
 On The Hubble Starring Dr. Paul Shore. 1000th Anniversary Gala!"</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 But, when they noticed you weren't him, 
-they chucked you in a ditch.
+they chucked you in a ditch.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 So you're saying these aren't the decaying 
-ruins of New York in the year 4000?
+ruins of New York in the year 4000?</speak>
 
-<character>FARNSWORTH</character>
-You wish! You're in Los Angeles!
+<speak who="FARNSWORTH">
+You wish! You're in Los Angeles!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But there was this gang of 10-year olds 
-with guns.
+with guns.</speak>
 
-<character>LEELA</character>
-Exactly: You're in L.A.
+<speak who="LEELA">
+Exactly: You're in L.A.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But everyone is driving around in cars 
-shooting at each other.
+shooting at each other.</speak>
 
-<character>BENDER</character>
-That's L.A.. for you.
+<speak who="BENDER">
+That's L.A.. for you.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But the air's green and there's no sign 
-of civilisation whatsoever.
+of civilisation whatsoever.</speak>
 
-<character>BENDER</character>
-He just won't stop with the social commentary.
+<speak who="BENDER">
+He just won't stop with the social commentary.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 And the people are all phoneys. No one 
 reads. Everything has cilantro on it 
--  Michelle, baby!
+-  Michelle, baby!</speak>
 
-<character>MICHELLE</character>
-It's not working out, Fry.
+<speak who="MICHELLE">
+It's not working out, Fry.</speak>
 
 <info>The limo drives away. Pauly Shore pokes his head out of the 
 sunroof.</info>
 
-<character>SHORE</character>
+<speak who="SHORE">
 (shouting) Tis better to have loved 
-and lost, n'est ce-pas?
+and lost, n'est ce-pas?</speak>
 
 <info>He laughs.</info>
 
 <info>Ship's Cockpit. Fry looks out of the window as the ship flies 
 back to New New York.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 That's it. I've had it with women. From 
 now on, I'm concentrating on my career. 
-Can I have my old job back?
+Can I have my old job back?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Why, I've forgotten why I even fired 
-you.
+you.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 'Cause he destroyed your business, your 
-home and all your possessions.
+home and all your possessions.</speak>
 
-<character>FARNSWORTH</character>
-Oh, that's right. Get lost.
+<speak who="FARNSWORTH">
+Oh, that's right. Get lost.</speak>
 
 <info>He pulls a lever and the floor opens up beneath Fry. He falls 
 out of the ship and screams.</info>

@@ -17,29 +17,29 @@ stop and flies through the airlock.</info>
 
 <info>Cut to: Greasy Sue's Truck Stop Forecourt. The ship lands.</info>
 
-<character>MAN #1 </character><info>ON <character>RADIO</character></info>
+<speak who="MAN #1"><info>ON <character>RADIO</character></info>
 Breaker breaker, this is the Duck. Uh, 
-you wanna back off them hogs?
+you wanna back off them hogs?</speak>
 
 <info>Time Lapse. Leela gets the Dark Matter fuel pump and starts 
 pumping it into the ship.</info>
 
-<character>MAN #1 </character><info>ON <character>RADIO</character></info>
-Ten-four, five miles or so.
+<speak who="MAN #1"><info>ON <character>RADIO</character></info>
+Ten-four, five miles or so.</speak>
 
-<character>MAN #2 </character><info>ON <character>RADIO</character></info>
-Ten, roger!
+<speak who="MAN #2"><info>ON <character>RADIO</character></info>
+Ten, roger!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hmm, I'd better check the fluid levels. 
-(shouting) We're OK on Coke syrup.
+(shouting) We're OK on Coke syrup.</speak>
 
 <info>Bender puts an Ethanol &amp; Tonic pump into his mouth and use his 
 fingers as a lighter to light a cigar. His fingers won't work 
 though.</info>
 
-<character>BENDER</character>
-Oh man, come on!  Comin' through!
+<speak who="BENDER">
+Oh man, come on!  Comin' through!</speak>
 
 <info>Cut to: Greasy Sue's Truck Stop Men's Room. Fry wanders in and 
 sees a dispenser. He decides to get a "Fresh" Egg Salad Sandwich. 
@@ -49,164 +49,164 @@ He inserts 25 cents and the sandwich comes out.</info>
 matter pump back and Fry starts up the ship's steps with his 
 sandwich.</info>
 
-<character>BENDER</character>
-What's that black cracker?
+<speak who="BENDER">
+What's that black cracker?</speak>
 
 <info>Fry eats it.</info>
 
-<character>FRY</character>
-A tomato.
+<speak who="FRY">
+A tomato.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You're not gonna eat a sandwich from 
-a truck stop men's room are you?
+a truck stop men's room are you?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Eh, what's the worst thing that could 
 happen?  Ugh, it's like there's a party 
 in my mouth and everyone's throwing 
-up!
+up!</speak>
 
 <info>Leela picks up a windscreen mop and flies up to the windscreen 
 on a hover-cradle. She brushes of a spacefly, a small ringed 
 planet and the Voyager space probe. Sal and a group of other 
 truckers watch her.</info>
 
-<character>TRUCKER #1</character>
+<speak who="TRUCKER #1">
 Looky there! It's one of them things 
-like on our mudflaps!
+like on our mudflaps!</speak>
 
-<character>TRUCKER #2</character>
-Yosemite Sam?
+<speak who="TRUCKER #2">
+Yosemite Sam?</speak>
 
-<character>SAL</character>
+<speak who="SAL">
 Stands back! I'm gonna puts my moves 
-on her.  Whoas!
+on her.  Whoas!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That jerk! No one hoots at my captain 
 unless they're prepared to take it to 
-the next level!
+the next level!</speak>
 
 <info>He rolls up his sleeves and then he rolls up his trouser legs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry please. That's sweet but I'd rather 
-not even dignify them with an ass whooping!
+not even dignify them with an ass whooping!</speak>
 
-<character>SAL</character>
+<speak who="SAL">
 Hey sexy mama! Let's get busy and freaky 
-in that order!
+in that order!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey jumbo! How would you like it if 
 Leela said you were sexy and she wanted 
-to make love with you?
+to make love with you?</speak>
 
-<character>SAL</character>
+<speak who="SAL">
 Eh, I gots five minutes. She looks pretty 
-good for a truck stop chick!
+good for a truck stop chick!</speak>
 
 <info>The other truckers laugh.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 You take that back! She does not look 
-good for a truck stop chick!
+good for a truck stop chick!</speak>
 
 <info>The truckers laugh harder. Leela cringes.</info>
 
-<character>SAL</character>
+<speak who="SAL">
 Yeah you're right. She don't gots enough 
-meat for a guy like me.
+meat for a guy like me.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 She does too! She's loaded with meat! 
-She's got more meat than a cow!  Ow!
+She's got more meat than a cow!  Ow!</speak>
 
 <info>The truckers laugh.</info>
 
-<character>SAL </character>(<character>LAUGHING</character>)
-More meat than a cow!
+<speak who="SAL">(<character>LAUGHING</character>)
+More meat than a cow!</speak>
 
 <info>Planet Express: Lounge. Fry and Bender sit on the couch.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I can't please Leela no matter what 
-I do! I just want her to like me.
+I do! I just want her to like me.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well there's always hope.  C'mon we 
-gotta go fix the plasma fusion boiler.
+gotta go fix the plasma fusion boiler.</speak>
 
 <info>Planet Express: Basement. The boiler rocks and steam hisses 
 from it. Fry and Bender walk down the steps and find Scruffy 
 "reading" Zero-G Juggs.</info>
 
-<character>BENDER</character>
-Who are you?
+<speak who="BENDER">
+Who are you?</speak>
 
-<character>SCRUFFY</character>
-Scruffy. The janitor.
+<speak who="SCRUFFY">
+Scruffy. The janitor.</speak>
 
-<character>BENDER</character>
-Well why aren't you fixing the boiler?
+<speak who="BENDER">
+Well why aren't you fixing the boiler?</speak>
 
-<character>SCRUFFY</character>
-Schedule conflict.
+<speak who="SCRUFFY">
+Schedule conflict.</speak>
 
 <info>He thumbs through the magazine.</info>
 
 <info>Time Lapse. The boiler has stopped hissing. Bender uses his 
 arm to wrench the pipes tightly together.</info>
 
-<character>BENDER</character>
-There. Fixed forever.
+<speak who="BENDER">
+There. Fixed forever.</speak>
 
 <info>Part of the boiler flies off. Fry and Bender gasp. Steam starts 
 filling the room.</info>
 
-<character>SCRUFFY</character>
+<speak who="SCRUFFY">
 Scruffy's gonna die the way he lived. 
-Oh marmalade!
+Oh marmalade!</speak>
 
 <info>Planet Express: Zoidberg's Office. Fry is sat on the table with 
 a huge pipe sticking out of him. The crew are gathered around. 
 Enter Zoidberg.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Oh the hypochondriac's back. So what 
-is it this time?
+is it this time?</speak>
 
-<character>FRY</character>
-Well my lead pipe hurts a little?
+<speak who="FRY">
+Well my lead pipe hurts a little?</speak>
 
-<character>ZOIDBERG</character>
-That's normal. Next patient.
+<speak who="ZOIDBERG">
+That's normal. Next patient.</speak>
 
 <info>Sawing sounds come from the pipe and it suddenly breaks off 
 leaving a hole through Fry's body. Bender peers through the hole. 
 It suddenly fills itself in. Everyone gasps in amazement.</info>
 
-<character>BENDER</character>
-He's a witch!
+<speak who="BENDER">
+He's a witch!</speak>
 
-<character>FARNSWORTH</character>
-Fry, did you eat anything unusual recently?
+<speak who="FARNSWORTH">
+Fry, did you eat anything unusual recently?</speak>
 
-<character>FRY</character>
-No.
+<speak who="FRY">
+No.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 What about that bathroom egg salad from 
-the truck stop?
+the truck stop?</speak>
 
-<character>FRY</character>
-I've had better.
+<speak who="FRY">
+I've had better.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Egg salad? Hmm. Zoidberg will have to 
 examine your gastrointestinal tract. 
-Come everyone, give Fry some privacy.
+Come everyone, give Fry some privacy.</speak>
 
 <info>He walks out through a door and everyone except Fry and Zoidberg 
 follow. There is a large mirror next to the door.</info>
@@ -215,19 +215,19 @@ follow. There is a large mirror next to the door.</info>
 and take a seat. The mirror in Zoidberg's office is a two-way 
 mirror and they all look through and watch.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 If you can't see well enough through 
 the two-way mirror, there'll be a close-up 
-on this video screen.
+on this video screen.</speak>
 
 <info>The screen flickers on and a video picture of Fry's butt appears.</info>
 
 <info>Cut to: Zoidberg's Office. Zoidberg examines Fry's chest with 
 a stethescope. He hears the sound of a truck reversing and beeping.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Hmm. We'll need to have a look inside 
-you with this camera.  Guess again.
+you with this camera.  Guess again.</speak>
 
 <info>Fry realises where the camera is going to go and suddenly has 
 a worried look on his face.</info>
@@ -237,85 +237,85 @@ in their mouths and watching the goings on on the screen. Hermes
 scoops some popcorn out of the box with a Jai Alai scoop. The 
 camera pushes it's way up the end of Fry's digestive tract.</info>
 
-<character>AMY</character>
-Gross!
+<speak who="AMY">
+Gross!</speak>
 
 <info>The camera continues burrowing through Fry's guts and the mesmerised 
 crew tilt as the camera moves from side to side.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Watch for any subtle irregularity in 
-Fry's bowel.
+Fry's bowel.</speak>
 
 <info>The camera pushes through a finds a subtle irregularity. A miniature 
 city in Fry's bowel made from cutlery he has been eating. Lights 
 twinkle on buildings and a monorail goes past.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 It's gorgeous. That place used to be 
-a big dump.
+a big dump.</speak>
 
 <info>On the screen little worms appear on the top of the buildings.</info>
 
-<character>BENDER</character>
-Oh, eww!
+<speak who="BENDER">
+Oh, eww!</speak>
 
-<character>AMY</character>
-Worms? Eww! Puke-a-tronic!
+<speak who="AMY">
+Worms? Eww! Puke-a-tronic!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 So the eggs in that egg salad sandwich 
-were -
+were -</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Correct! Worm eggs! And the mayonaise 
-was probably none too fresh either.
+was probably none too fresh either.</speak>
 
 <info>Enter Zoidberg who looks on the screen.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 It's nauseating man!  Is there no way 
-to get rid of the disgusting maggots?
+to get rid of the disgusting maggots?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Only one. We'll have to travel deep 
-inside Fry, in this!
+inside Fry, in this!</speak>
 
 <info>He pulls a sheet off a table. In the middle of the table is 
 a tiny green speck. The crew step closer to get a better look. 
 Farnsworth holds a magnifying glass over the speck and reveals 
 it to be a miniaturised version of the Planet Express ship.</info>
 
-<character>BENDER</character>
-Shotgun!
+<speak who="BENDER">
+Shotgun!</speak>
 
 <info>Planet Express: Farnsworth's Lab. Bender, Hermes and Amy look 
 inside some rucksacks as Farnsworth speaks to them.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 In each gastro-survival kit, you'll 
 find a rain slicker, a disposable fun 
 camera, and something to protect you 
-against bacteria.... - a harpoon!
+against bacteria.... - a harpoon!</speak>
 
 <info>Pullback to reveal the trio are tiny droid versions of themselves 
 standing on a glove of a net suit suit Farnsworth is wearing. 
 The real Hermes and Amy also wear net suits suits while Bender 
 is directly hooked into the system.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yo, old guy. Why do we have to use those 
 tiny micro-droids? Can't you just shrink 
-us?
+us?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh my no. That would require extrememly 
 tiny atoms. And have you priced those 
 lately? I'm not made of money - leave 
-me alone!
+me alone!</speak>
 
-<character>ZOIDBERG</character>
-Me next!
+<speak who="ZOIDBERG">
+Me next!</speak>
 
 <info>He steps into a platform next to a machine. A huge ring rises 
 from the platform and scans Zoidberg. The machine beeps and a 
@@ -324,76 +324,76 @@ other side. Zoidberg pulls the top off the egg. Inside is the
 Zoidberg-droid. Farnsworth picks it up and puts it on his glove. 
 His own droid walks towards the group .</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Anyhoo, your net suits will let you 
 experience Fry's worm-infested bowels 
 as if you were actually wriggling through 
-them.
+them.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 There's no part of that sentence I didn't 
-like.
+like.</speak>
 
 <info>Planet Express: Meeting Room. The big table is empty. But...</info>
 
-<character>FARNSWORTH</character>
-Is everyone present?
+<speak who="FARNSWORTH">
+Is everyone present?</speak>
 
-<character>AMY</character>
-Right on!
+<speak who="AMY">
+Right on!</speak>
 
-<character>BENDER</character>
-Uh-huh.
+<speak who="BENDER">
+Uh-huh.</speak>
 
-<character>HERMES</character>
-Definately.
+<speak who="HERMES">
+Definately.</speak>
 
-<character>ZOIDBERG</character>
-Yes.
+<speak who="ZOIDBERG">
+Yes.</speak>
 
 <info>On the big table is a little big table which the miniaturised 
 crew are sat around.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Heres the plan:  We'll enter the ear, 
 drip down the back of the throat and 
 make for the bowel. There, we'll irritate 
 the pelvic splachnic ganglion and cause 
 an intestinal spasm, expelling - among 
-other things - the parasites.
+other things - the parasites.</speak>
 
 <info>The hologram shuts off.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'll tell Fry to wash out - among other 
-things - his ear.
+things - his ear.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No, Fry can't know anything about the 
 mission. If he finds out, the worms 
 will try to defend themselves. They 
-know everything he knows.
+know everything he knows.</speak>
 
-<character>BENDER</character>
-They know how to make ice cream soup?
+<speak who="BENDER">
+They know how to make ice cream soup?</speak>
 
 <info>Farnsworth looks up.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Leela, your role is to distract Fry 
-so he doesn't notice what we're up to.
+so he doesn't notice what we're up to.</speak>
 
 <info>Leela is still her normal size though from the droids' point 
 of view she is huge.</info>
 
-<character>LEELA </character>(<character>ECHOING</character>)
-Can do!
+<speak who="LEELA">(<character>ECHOING</character>)
+Can do!</speak>
 
 <info>She salutes.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Leela, you should really try a facial 
-scrubs, for your pores.
+scrubs, for your pores.</speak>
 
 <info>Leela blows and Amy tumbles away from the table, screaming.</info>
 
@@ -402,11 +402,11 @@ of Slurm. He throws the empty can behind him and picks up another
 one of the four cans in front of him. Enter Leela. She points 
 at something.</info>
 
-<character>LEELA</character>
-Look! A starling!
+<speak who="LEELA">
+Look! A starling!</speak>
 
-<character>FRY </character><info><character>LOOKING AWAY</character></info>
-Really?
+<speak who="FRY"><info><character>LOOKING AWAY</character></info>
+Really?</speak>
 
 <info>Leela blows the Planet Express ship through a tube like a blow 
 dart. It flies through the air and into his ear.</info>
@@ -417,20 +417,20 @@ Around it, earwax drips from the walls of the ear.</info>
 <info>Cut to: Miniature Ship's Cockpit. The Amy-droid pilots the ship 
 while the other droids stand around.</info>
 
-<character>AMY </character>(<character>WHISPERING</character>)
-OK Professor.
+<speak who="AMY">(<character>WHISPERING</character>)
+OK Professor.</speak>
 
 <info>Cut to: Planet Express: Lounge. Fry turns to Leela.</info>
 
-<character>FRY</character>
-What about what?
+<speak who="FRY">
+What about what?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Uh...what if we go for a walk possibly 
-because it's such a lovely day, perhaps.
+because it's such a lovely day, perhaps.</speak>
 
-<character>FRY</character>
-I'd love to!
+<speak who="FRY">
+I'd love to!</speak>
 
 <info>He puts his finger in his ear and wriggles it around.</info>
 
@@ -440,15 +440,15 @@ droids scream from inside it.</info>
 <info>Cut to: Miniature Ship's Cockpit. The crew grab hold of things 
 to keep them steady.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 We gotta get someplace where he won't 
-stick his finger!
+stick his finger!</speak>
 
-<character>BENDER</character>
-It's hopeless! Abandon ship!
+<speak who="BENDER">
+It's hopeless! Abandon ship!</speak>
 
-<character>FARNSWORTH</character>
-Wait, we just have to get past the eardrum!
+<speak who="FARNSWORTH">
+Wait, we just have to get past the eardrum!</speak>
 
 <info>Cut to: Fry's Ear. The ship cuts through the wax with Fry's 
 finger right behind them. The ship pops through the eardrum, 
@@ -458,45 +458,45 @@ as a flash.</info>
 <info>Cut to: Fry's Brain. Hermes and Farnsworth look out of the ship 
 through the window.</info>
 
-<character>HERMES </character><info><character>FROM SHIP</character></info>
+<speak who="HERMES"><info><character>FROM SHIP</character></info>
 What are those worms doing to Fry's 
-brain?
+brain?</speak>
 
-<character>HERMES </character><info><character>FROM SHIP</character></info>
-My God! Soon he'll be smarter than Cher!
+<speak who="HERMES"><info><character>FROM SHIP</character></info>
+My God! Soon he'll be smarter than Cher!</speak>
 
 <info>Street. Fry picks some flowers from a stall.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Ah, the scent of a rose. Curious how 
 an aromatic chain of hydrocarbons can 
-evoke our deepest emotions.  For you.
+evoke our deepest emotions.  For you.</speak>
 
 <info>She takes them.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's such a beautiful thought Fry. 
 And what's more amazing you expressed 
-it without spewing crumbs at me!
+it without spewing crumbs at me!</speak>
 
 <info>Cut to: Fry's Nose. The ship speeds through the tunnels of Fry's 
 head.</info>
 
 <info>Cut to: Miniature Ship's Cockpit.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Brace yourselves everyone. We're entering 
-the interior of Fry's nose!
+the interior of Fry's nose!</speak>
 
-<character>BENDER</character>
-We're at finger alert five.
+<speak who="BENDER">
+We're at finger alert five.</speak>
 
 <info>A red light engulfs the room and an alarm wails.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Let's just pray nothing stimulates the 
 delicate smell receptors. (whispering) 
-Nobody make a smell.
+Nobody make a smell.</speak>
 
 <info>Cut to: Street. Fry sniffs the flowers.</info>
 
@@ -505,23 +505,23 @@ The crew scream from inside.</info>
 
 <info>Cut to: Miniature Ship's Cockpit.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Quick! We can escape through that nasal 
-capillary into the sinus.
+capillary into the sinus.</speak>
 
 <info>Cut to: Fry's Nose. Amy turns the ship around and the ship heads 
 for the hole.</info>
 
 <info>Cut to: Miniature Ship's Cockpit.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Strange. Usually you don't know anything 
-about human anatomy.
+about human anatomy.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 I learned it from a decongestant commercial. 
 (echoing) "Soothing action, action, 
-action action..."
+action action..."</speak>
 
 <info>Cut to: Fry's Capillary. The ship moves through the tube between 
 two red blood cells.</info>
@@ -538,19 +538,19 @@ through the heart with the red blood cells.</info>
 <info>Cut to: Minature Ship's Cockpit. Bender peers out through the 
 window.</info>
 
-<character>BENDER</character>
-Where are we, the ass?
+<speak who="BENDER">
+Where are we, the ass?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 We're in the heart. Better known as 
-"the love muscle."
+"the love muscle."</speak>
 
-<character>ZOIDBERG</character>
-Where the food is digested.
+<speak who="ZOIDBERG">
+Where the food is digested.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 We should be safe, just so long as nothing 
-makes it beat faster.
+makes it beat faster.</speak>
 
 <info>Cut to: Street. Fry and Leela look down at a puddle in the road 
 next to the kerb. Fry steps into it and holds out his hand to 
@@ -563,20 +563,20 @@ thrown around.</info>
 <info>Cut to: Miniature Ship's Cockpit: Bender throws his arms in 
 the air.</info>
 
-<character>BENDER</character>
-Abandon ship!
+<speak who="BENDER">
+Abandon ship!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No! Set course for that cholesterol-encrusted 
-valve.
+valve.</speak>
 
 <info>Cut to: Outside Miniature Ship. Zoidberg opens the turret hatch 
 and scrapes cholesterol off the roof of the valve and spreads 
 it on a cracker.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 It's good cholesterol but it spreads 
-like bad cholesterol!
+like bad cholesterol!</speak>
 
 <info>He gobbles the cracker. The ship flies past worms who are busy 
 scrubbing the valve.</info>
@@ -584,38 +584,38 @@ scrubbing the valve.</info>
 <info>Fry's Muscles. The ship glides past some worms who are working 
 Fry's muscles while listening to music.</info>
 
-<character>AMY </character><info><character>FROM SHIP</character></info>
-Look! They're jazzercising Fry's muscles!
+<speak who="AMY"><info><character>FROM SHIP</character></info>
+Look! They're jazzercising Fry's muscles!</speak>
 
 <info>Cut to: Miniature Ship's Cockpit.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 He'll be as strong and flexible as Gumbo 
-and Hercules combined!
+and Hercules combined!</speak>
 
-<character>ZOIDBERG</character>
-Gumbercules? I love that guy!
+<speak who="ZOIDBERG">
+Gumbercules? I love that guy!</speak>
 
 <info>Outside Construction Site. Fry and Leela walk down the street. 
 Leela suddenly stops and groans.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Ugh! It's that jerk from the truck stop! 
 Let's cross the street and try to blend 
-in with that crowd of pimps.
+in with that crowd of pimps.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I don't think so.  Sir, I believe you 
-owe this lady an apology.
+owe this lady an apology.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry no! He's bulging with what could 
-be muscles!  Ooo!
+be muscles!  Ooo!</speak>
 
-<character>SAL</character>
+<speak who="SAL">
 I gots your apologys right heres!  Sorrys 
 ma'am. I've learnsed a lesson about 
-not ogling cans that I won't soons forgets.
+not ogling cans that I won't soons forgets.</speak>
 
 <info>Fry's Stomach. The crew look through the ship's windscreen.</info>
 
@@ -625,14 +625,14 @@ projectiles just bounce off the ship's hull.</info>
 
 <info>Cut to: Miniature Ship's Cockpit.</info>
 
-<character>BENDER</character>
-Abandon ship!
+<speak who="BENDER">
+Abandon ship!</speak>
 
 <info>He heads for the door but Hermes and Zoidberg restrain him.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No, don't give up now! we're but a stones 
-throw from the pyloric sphinchter.
+throw from the pyloric sphinchter.</speak>
 
 <info>He points to a hole in Fry's stomach.</info>
 
@@ -646,14 +646,14 @@ thrown around.</info>
 through the hole but it closes around it. The worm's ammo pushes 
 it through.</info>
 
-<character>BENDER </character><info><character>FROM SHIP</character></info>
-Hooray!
+<speak who="BENDER"><info><character>FROM SHIP</character></info>
+Hooray!</speak>
 
-<character>ZOIDBERG </character><info><character>FROM SHIP</character></info>
-Hooray!
+<speak who="ZOIDBERG"><info><character>FROM SHIP</character></info>
+Hooray!</speak>
 
-<character>HERMES </character><info><character>FROM SHIP</character></info>
-We made it!
+<speak who="HERMES"><info><character>FROM SHIP</character></info>
+We made it!</speak>
 
 <info>The momentum from the worm ships' engines propels them towards 
 the closed hole and they crash into it and explode � la the alien 
@@ -664,38 +664,38 @@ cruises over the worm city. It lands.</info>
 
 <info>Time Lapse. The crew emerge from the ship with laser rifles.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 There it is! The stately capitol of 
 Fry's bowel. A heavily guarded fortress 
-surrounding the pelvic splachnic ganglion.
+surrounding the pelvic splachnic ganglion.</speak>
 
-<character>ZOIDBERG</character>
-I've heard of that, who said I haven't?!
+<speak who="ZOIDBERG">
+I've heard of that, who said I haven't?!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 If we can stimulate that nerve, the 
 bowel will convulse, expelling the entire 
-worm society.
+worm society.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 But what about the worms in the other 
-parts of his body?
+parts of his body?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Listen, this is gonna be one hell of 
 a bowel movement. Afterwards he'll be 
-lucky if he has any bones left!
+lucky if he has any bones left!</speak>
 
-<character>BENDER</character>
-All right, let's mush some worms!
+<speak who="BENDER">
+All right, let's mush some worms!</speak>
 
 <info>He cocks his laser and fires on the worm building.</info>
 
 <info>Cut to: Worm Building Balcony. The worms' mayor runs out onto 
 the balcony and waves his arms around.</info>
 
-<character>WORM MAYOR</character>
-Worms to battlestations!
+<speak who="WORM MAYOR">
+Worms to battlestations!</speak>
 
 <info>Worm soldiers lean out of windows with lasers and a firefight 
 ensues.</info>
@@ -706,83 +706,83 @@ Fry takes a sip of coffee. He picks a bit off his muffin and
 tosses it to some owls on the ground nearby. They hoot and eat 
 it. Leela pours another cup of coffee for her and Fry. She smiles.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I had a great time today. The flowers, 
 the puddle, the way you hurt that guy. 
-But can I ax you something?
+But can I ax you something?</speak>
 
-<character>FRY</character>
-Anything.
+<speak who="FRY">
+Anything.</speak>
 
-<character>LEELA</character>
-Why did you do all that stuff?
+<speak who="LEELA">
+Why did you do all that stuff?</speak>
 
 <info>Fry sighs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela, there's something I've wanted 
 to tell you for a long time but every 
 time I try I get nervous and my mouth 
 feels like it's stuffed with peanut 
-butter, even when it's not.
+butter, even when it's not.</speak>
 
-<character>LEELA</character>
-What is it? Is it about Bender?
+<speak who="LEELA">
+What is it? Is it about Bender?</speak>
 
-<character>FRY</character>
-No, it's about you and me.
+<speak who="FRY">
+No, it's about you and me.</speak>
 
-<character>LEELA</character>
-And Bender?
+<speak who="LEELA">
+And Bender?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Bender's not involved.  Leela...I love 
-you.
+you.</speak>
 
-<character>LEELA</character>
-You do?
+<speak who="LEELA">
+You do?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yes. But it's only recently I've been 
 able to articulate my thoughts. I love 
-you Leela and I always have.
+you Leela and I always have.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, that's the sweetest, most wonderful 
 - wait! Recently? Like since you ate 
-that toilet sandwich?
+that toilet sandwich?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah! I don't know why but my life really 
-turned around that day!
+turned around that day!</speak>
 
 <info>Leela thinks for a moment.</info>
 
-<character>LEELA</character>
-Stay here.
+<speak who="LEELA">
+Stay here.</speak>
 
 <info>She runs back inside the Planet Express building. Fry sighs 
 and a waitress approaches with a jug of coffee.</info>
 
-<character>WAITRESS</character>
-Freshen your nocatina?
+<speak who="WAITRESS">
+Freshen your nocatina?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Please......I need something to settle 
-my stomach.
+my stomach.</speak>
 
 <info>Cut to: Worm Building. The crew sans Zoidberg have made it inside 
 the fortress and continue firing at the worm defence. They stop 
 at a door.</info>
 
-<character>FARNSWORTH</character>
-The nerve is through here. Where's Zoidberg?
+<speak who="FARNSWORTH">
+The nerve is through here. Where's Zoidberg?</speak>
 
 <info>Enter Zoidberg riding one of Fry's sperm.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Yippie-ki-yay! You'll never guess where 
-I've been!
+I've been!</speak>
 
 <info>Planet Express: Farnsworth's Lab. Leela scans herself on the 
 droid machine, leans out a window and blows her droid into Fry's 
@@ -796,39 +796,39 @@ There is the sound of a battering ram on the door.</info>
 <info>The door falls in. Bender is the battering ram! He rubs his 
 head.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 There it is! The pelvic splachnic ganglion. 
 Tickle it and get ready for the ride 
-of your lives!
+of your lives!</speak>
 
 <info>Enter Leela with one arm behind her.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Don't even think about tickling that 
-ganglion!
+ganglion!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Leela, you're just in time to help. 
 If we don't get rid of the worms now, 
 they'll burrow so deep into the bowel 
 that not even Hermes' famous jerk prunes 
-could dislodge them!
+could dislodge them!</speak>
 
-<character>HERMES</character>
-I call it "Carribean Drain-o"!
+<speak who="HERMES">
+I call it "Carribean Drain-o"!</speak>
 
-<character>FARNSWORTH</character>
-Fry will be stuck with the worms forever.
+<speak who="FARNSWORTH">
+Fry will be stuck with the worms forever.</speak>
 
-<character>LEELA</character>
-Perfect.
+<speak who="LEELA">
+Perfect.</speak>
 
 <info>She pulls an axe out from behind and chops off the Farnsworth-droid's 
 head. She smashes the rest of it's body up, spins around and 
 knocks off the Zoidberg droid's head.</info>
 
-<character>ZOIDBERG</character>
-Ouch!
+<speak who="ZOIDBERG">
+Ouch!</speak>
 
 <info>She takes another swing at Hermes' head and with one swing, 
 knocks off Bender's and Amy's heads. She continues smashing up 
@@ -837,84 +837,84 @@ the pile of droid parts on the floor.</info>
 <info>Cut to: Planet Express: Farnsworth's Lab. The crew flail around 
 on the floor in their net suits. Then take off their helmets.</info>
 
-<character>AMY</character>
-I'm <character>OK</character>.
+<speak who="AMY">
+I'm <character>OK</character>.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Leela you ignorant dope! Now the worms 
-will be in Fry forever.
+will be in Fry forever.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 So? Did you ever stop to think that 
-Fry is better off with worms?
+Fry is better off with worms?</speak>
 
-<character>FARNSWORTH</character>
-Oh that's stupid!
+<speak who="FARNSWORTH">
+Oh that's stupid!</speak>
 
 <info>The door opens and Fry appears.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 If anyone wants to tell me what's going 
-on here, I'll be in the lounge.
+on here, I'll be in the lounge.</speak>
 
 <info>The door closes.</info>
 
 <info>Planet Express: Meeting Room. The crew are sat around the big 
 table.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Of all the parasites I've had over the 
 years, these worms are among the - hell! 
 They are the best! Leela, how can I 
-ever repay you for saving them?
+ever repay you for saving them?</speak>
 
 <info>Leela trails her finger around the table.</info>
 
-<character>LEELA </character>(<character>SEXFULLY</character>)
-I'll think of something.
+<speak who="LEELA">(<character>SEXFULLY</character>)
+I'll think of something.</speak>
 
 <info>The gaze into each others eyes. Bender rubs his chin.</info>
 
-<character>BENDER</character>
-'Ello! What's all this then?
+<speak who="BENDER">
+'Ello! What's all this then?</speak>
 
 <info>Leela's Apartment Building. Fry and Leela stand in a corridor 
 outside Leela's apartment. She holds the flowers from earlier.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Apartment 1I. The old me would have 
-made a joke about that!
+made a joke about that!</speak>
 
 <info>They walk in. Fry stops and stares in astonishment.</info>
 
 <info>Cut to: Leela's Living Room. The walls are white and there is 
 a single chair in the middle of the room facing a TV on the wall.</info>
 
-<character>LEELA</character>
-I'm thinking of having a window installed.
+<speak who="LEELA">
+I'm thinking of having a window installed.</speak>
 
-<character>FRY</character>
-I think the view's perfect already.
+<speak who="FRY">
+I think the view's perfect already.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, that's the corniest thing I've ever 
-heard! Let me show you the bedroom.
+heard! Let me show you the bedroom.</speak>
 
 <info>Fry holds her back.</info>
 
-<character>FRY</character>
-Wait. In a minute.
+<speak who="FRY">
+Wait. In a minute.</speak>
 
 <info>They sit down. Fry pulls out a case and opens it. Something 
 blue is inside.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 A holophonor? Only a few people in the 
 whole universe can play that. And they're 
-not very good at it.
+not very good at it.</speak>
 
-<character>FRY</character>
-They don't have you to inspire them.
+<speak who="FRY">
+They don't have you to inspire them.</speak>
 
 <info>He assembles the holophonoer and begins to play. The holophonor 
 sounds a bit like a violin. A flare of blue-green light comes 
@@ -937,31 +937,31 @@ takes Fry's hand and walks with him into the bedroom.</info>
 
 <info>Leela's Bedroom. Fry and Leela make out on her bed.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I don't have words to say how wonderful 
 you are Fry. I haven't felt this happy 
-since double-soup Tuesday at the orphanarium.
+since double-soup Tuesday at the orphanarium.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 When I'm with you, everyday seems like 
-double-soup Tuesday.
+double-soup Tuesday.</speak>
 
-<character>LEELA</character>
-Oh Fry, I love what you've become.
+<speak who="LEELA">
+Oh Fry, I love what you've become.</speak>
 
 <info>She hugs him.</info>
 
-<character>FRY</character>
-What I've become.
+<speak who="FRY">
+What I've become.</speak>
 
 <info>He sighs.</info>
 
-<character>LEELA</character>
-What is it?
+<speak who="LEELA">
+What is it?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 There's just something I have to find 
-out.
+out.</speak>
 
 <info>He gets up and walks out of the apartment. Leela stands in her 
 bedroom doorway and sadly watches him go.</info>
@@ -975,11 +975,11 @@ walks towards the main building.</info>
 
 <info>Cut to: Outside Worm Building. Guards surround him.</info>
 
-<character>FRY</character>
-Who controls this bowel?
+<speak who="FRY">
+Who controls this bowel?</speak>
 
-<character>WORM GUARD #1</character>
-Who wants to know?
+<speak who="WORM GUARD #1">
+Who wants to know?</speak>
 
 <info>Fry points at a gold statue of himself. Underneath the statue 
 is the inscription "The Known Universe." The statue is in the 
@@ -988,36 +988,36 @@ same pointing pose as Fry is. The worms gasp and bow.</info>
 <info>Worm Building: Stately Room. The Worm Mayor sits on a throne 
 and Fry stands before him with guards around him.</info>
 
-<character>WORM MAYOR</character>
-I am the Lord Mayor of Cologne.
+<speak who="WORM MAYOR">
+I am the Lord Mayor of Cologne.</speak>
 
-<character>FRY</character>
-You mean colon?
+<speak who="FRY">
+You mean colon?</speak>
 
-<character>WORM MAYOR</character>
-State your business!
+<speak who="WORM MAYOR">
+State your business!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Your excellency, have you ever been 
-in love?
+in love?</speak>
 
-<character>WORM MAYOR</character>
+<speak who="WORM MAYOR">
 No. I thought I was once but then I 
 remember our species reproduces with 
-a cloud of spores.
+a cloud of spores.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, a wonderful girl loves me. But 
 I need to know if it's really me she 
 loves, or just what you worms have made 
 of me. That's why with all due respect, 
-I'm asking you to leave.
+I'm asking you to leave.</speak>
 
-<character>WORM MAYOR</character>
+<speak who="WORM MAYOR">
 Listen you, I was born here. I raised 
 a cloud of children here. My ancestors 
 came over here on the sandwich.  No 
-one can make me leave!
+one can make me leave!</speak>
 
 <info>He gets up off his throne and lunges at Fry. Fry ducks and grabs 
 a sword of the wall and begins fighting with the Worm Mayor. 
@@ -1035,60 +1035,60 @@ Mayor grins as Fry is backed up against a nerve. He climbs the
 nerve and the worms follow him up. Fry reaches the top of the 
 nerve and has nowhere left to go. He hold out his sword.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Everyone out of my body or the brain 
-gets it!
+gets it!</speak>
 
-<character>WORM MAYOR</character>
+<speak who="WORM MAYOR">
 He's bluffing. No creature would willingly 
-make an idiot out of itself.
+make an idiot out of itself.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Obviously you've never been in love! 
 Ow!  Ow!  Ow!  Now, the hand-eye co-ordination 
-lobe.
+lobe.</speak>
 
 <info>He cuts it and starts staggering around cutting some more nerves. 
 He batters the catwalk.</info>
 
-<character>WORM GUARD #1</character>
-Stop it man!
+<speak who="WORM GUARD #1">
+Stop it man!</speak>
 
 <info>Fry hits the catwalk again and it falls. The worms surround 
 him with their swords. He crawls into a corner.</info>
 
-<character>WORM MAYOR</character>
+<speak who="WORM MAYOR">
 You've damaged your brain Universe, 
 but no more than a week of binge drinking 
-or five minutes on a cell phone.
+or five minutes on a cell phone.</speak>
 
 <info>Fry stand up and draws his sword at another lobe.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I was just working my way towards the 
 medulla oblongata - control centre of 
 the heart and lungs. And if I kill myself, 
-you die with me.
+you die with me.</speak>
 
 <info>The worms scream.</info>
 
-<character>WORM GUARD #2</character>
-Wait a minute man!
+<speak who="WORM GUARD #2">
+Wait a minute man!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I hope Satan has a nice colon, 'cause 
-that's where you're gonna be living!
+that's where you're gonna be living!</speak>
 
 <info>He holds his sword back over his shoulder, ready to cut the 
 medulla oblongata. The Worm Mayor stares in disbelief. Fry pulls 
 back his sword and the Worm Mayor gives in.</info>
 
-<character>WORM MAYOR</character>
+<speak who="WORM MAYOR">
 Stop! We'll leave.  But one day you'll 
 be eating a fast-food burger and boom! 
 You'll be crawling with us again! Ever 
 wonder what makes special sauce so special? 
-Yo!
+Yo!</speak>
 
 <info>He points at himself. He gestures to the worms and they leave.</info>
 
@@ -1097,90 +1097,90 @@ sexy, near see-through underwear. On her face is an open book
 called True Stories Of Courageous Animals. She snores loudly. 
 Enter Fry. She awakens.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry? I missed you. Did you find out 
-what you needed to find out?
+what you needed to find out?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm about to.  Leela, let me play for 
-you one for time.
+you one for time.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You don't have to do that. I'm still 
-seduced from before.
+seduced from before.</speak>
 
-<character>FRY</character>
-Please, it's important to me.
+<speak who="FRY">
+Please, it's important to me.</speak>
 
 <info>He plays. Rather than the soothing, romantic music that played 
 earlier in the day, Fry now plays creepy, unromantic music. The 
 swirls come from the end of the holophoner and the head of Frankenstein's 
 monster appears. He groans and screams then disappears.</info>
 
-<character>LEELA</character>
-What's that supposed to mean?
+<speak who="LEELA">
+What's that supposed to mean?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I don't know. I got nervous and started 
 thinking about neck bolts.  Wow! Did 
 you see that vase break? It was all 
-like -
+like -</speak>
 
 <info>He makes smashy sounds. Horrified, Leela pulls the blanket around 
 herself.</info>
 
-<character>LEELA</character>
-What's happened to you?
+<speak who="LEELA">
+What's happened to you?</speak>
 
-<character>FRY</character>
-Nothing. I got rid of the worms.
+<speak who="FRY">
+Nothing. I got rid of the worms.</speak>
 
-<character>LEELA</character>
-What? Why would you do that?
+<speak who="LEELA">
+What? Why would you do that?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela, I had worms. I needed to know 
-who you loved. Me or them.
+who you loved. Me or them.</speak>
 
-<character>LEELA</character>
-Well...which of you wrote me that sonnet?
+<speak who="LEELA">
+Well...which of you wrote me that sonnet?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I did. I think. It was probably about 
 50/50. But that's how I really felt 
-about you, I swear!
+about you, I swear!</speak>
 
 <info>He reaches out to Leela but she moves back and sighs.</info>
 
-<character>LEELA</character>
-I don't know.
+<speak who="LEELA">
+I don't know.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Please. Give me a chance to be romantic 
 on my own. I've got a baggy of massage 
 oil, and I'm gonna give you my super 
 back rub, just like a I used to give 
 Amy when I was going out with her, and 
-she always seemed... - Uh-oh!
+she always seemed... - Uh-oh!</speak>
 
 <info>She angrily holds out his holophonor to him.</info>
 
 <info>Robot Arms Apartments: Fry and Bender's Apartment. Bender stands 
 in the doorway of Fry's room wearing pyjama bottoms. Fry sighs.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Sorry you struck out sausage link. If 
 it's any consolation, my life is great! 
-Babes! Bucks! I got it all!
+Babes! Bucks! I got it all!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, at least I learned Leela's a lost 
-cause. I give up.
+cause. I give up.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 There you go!  Goodnight. I gotta get 
 up early to go parasailing with movie 
-stars!
+stars!</speak>
 
 <info>The door closes. Fry picks up a book called My First Holophonor 
 and leans it up on a chair. He pulls the chair towards him and 

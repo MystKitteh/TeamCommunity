@@ -13,129 +13,129 @@ Episode 405
 Zoidberg are gathered around the table. Enter Farnsworth and 
 Leela.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Good news, everyone! You all know the 
-orphanarium where Leela grew up?
+orphanarium where Leela grew up?</speak>
 
-<character>FRY</character>
-Sure. We talk about it all the time.
+<speak who="FRY">
+Sure. We talk about it all the time.</speak>
 
-<character>LEELA</character>
-Really?
+<speak who="LEELA">
+Really?</speak>
 
-<character>FRY</character>
-No. Burn!
+<speak who="FRY">
+No. Burn!</speak>
 
 <info>Fry and Bender high-five.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Well done, fellows! Anyway, said orphanarium 
-has named Leela orphan of the year.
+has named Leela orphan of the year.</speak>
 
 <info>Everyone cheers.</info>
 
-<character>AMY</character>
-Yee-ha!
+<speak who="AMY">
+Yee-ha!</speak>
 
-<character>BENDER</character>
-All right!
+<speak who="BENDER">
+All right!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Your parents must be so proud. Oops! 
-Sorry.
+Sorry.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 And the good news keeps on coming. Behold 
-my latest invention.
+my latest invention.</speak>
 
 <info>He presses a button on a remote and the wall opens up. A big 
 machine with gauges and flashing lights slides forward.</info>
 
-<character>BENDER</character>
-Neat.
+<speak who="BENDER">
+Neat.</speak>
 
 <info>Farnsworth pulls a switch on the machine and parts of it start 
 to move around and make noises like the gum machine in Willy 
 Wonka And The Chocolate Factory. A small green thing lands in 
 a tray on the side of the machine.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Ta-da! It's a glow-in-the-dark nose 
 you can wear over your regular non-glowing 
-nose. Observe.
+nose. Observe.</speak>
 
 <info>He puts the nose on then presses a button on the remote and 
 the lights go off. His new nose glows.</info>
 
-<character>AMY</character>
-Whoa, clool!
+<speak who="AMY">
+Whoa, clool!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Now I can punch you in the nose in the 
-dark.
+dark.</speak>
 
 <info>Farnsworth sneezes and the nose flies off and lands on Bender's 
 face. The lights come back on and everyone stares at Bender. 
 He looks around.</info>
 
-<character>BENDER</character>
-(snuffed) Where'd it go?
+<speak who="BENDER">
+(snuffed) Where'd it go?</speak>
 
 <info>Amy goes behind the machine. It is spewing out green waste into 
 barrels.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Hey, Professor what's all this scloop, 
-glorking out of the machine?
+glorking out of the machine?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 That? It's uh...nothing. Yes, nothing. 
 If you think it's anything you're a 
-suspicous moron.
+suspicous moron.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 It looks like toxic waste.  And it smells 
-like toxic waste.
+like toxic waste.</speak>
 
-<character>FRY</character>
-What does it taste like?
+<speak who="FRY">
+What does it taste like?</speak>
 
 <info>Hermes tastes it.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Delicious fig pudding! Ooh, that's good! 
-But a distinct aftertaste of toxic waste.
+But a distinct aftertaste of toxic waste.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Alright, alright so the machine produces 
 a few toxic by-products! You don't have 
-to make a federal case out of it.
+to make a federal case out of it.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 I'm afraid I do.  I order you dispose 
 of that toxic waste properly, or bribe 
-me. Either way it'll cost $500.
+me. Either way it'll cost $500.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 500 real dollars? That's an outrage! 
 Professor, I'll take care of that waste 
-for $499 and 100 cents.
+for $499 and 100 cents.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Hmm, I know that's a rip but I'll pay 
 for the convenience. Do you take credit 
-cards?
+cards?</speak>
 
-<character>BENDER</character>
-Let's find out.
+<speak who="BENDER">
+Let's find out.</speak>
 
 <info>He swipes the card across his mouth.</info>
 
 <info>Planet Express: Attic Balcony. Bender is holding a waste hose.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Alright, environment, you've met your 
-match!
+match!</speak>
 
 <info>He chuckles. He starts pushing the hose over the railings towards 
 the street. On its way down the hose shoots some waste across 
@@ -147,19 +147,19 @@ sewers. Bender whistles and fans his money.</info>
 <info>Cut to: Outside Planet Express. Vyolet the mutant crawls out 
 of the sewer in a wedding dress. She splutters.</info>
 
-<character>SMITTY</character>
+<speak who="SMITTY">
 Hey, get back in the sewer, weirdy. 
-No mutants on the surface.
+No mutants on the surface.</speak>
 
-<character>VYOLET</character>
-But he ruined my wedding dress.
+<speak who="VYOLET">
+But he ruined my wedding dress.</speak>
 
 <info>Cut to: Planet Express: Attic Balcony.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Honey, that thing was ruined the minute 
 it went on you. That's what I'm talkin' 
-'bout.
+'bout.</speak>
 
 <info>He struts off with his cigar and money.</info>
 
@@ -169,7 +169,7 @@ Induction. No Really Loud Snoring". Warden Vogel stands behind
 a lectern, addressing the rows of children and the Planet Express 
 staff. Leela sits to his right in front of the wall of fame.</info>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Y'know, it's not easy being an orphan, 
 not if I have anything to do with it. 
 But today's honouree, Turanga Leela, 
@@ -177,7 +177,7 @@ has really made something of herself
 . I'll never forget the night that cute 
 little alien baby was abandoned on our 
 doorstep. Because I have a photographic 
-memory and I remember every night!
+memory and I remember every night!</speak>
 
 <info>Flashback - Cookieville Minimum-Security Orphanarium: Vogel's 
 Office, 2974. Vogel is in his office and the doorbell goes. He 
@@ -185,90 +185,90 @@ opens the door, looks around, then looks down. baby Leela is
 in a basket. He picks her up and tickles her. Then he sees a 
 note, written in the alien language.</info>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 What the...? An alien language? I guess 
 you're an alien. What a beautiful gigantic 
-eye you ha --  Well, come on in.
+eye you ha --  Well, come on in.</speak>
 
 <info>Cut to: Cookieville Minimum-Security Orphanarium: Hallway. Vogel 
 tosses the basket into an already high pile.</info>
 
 <info>Flashback ends.</info>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 From those humble beginnings Leela went 
 on to become a county-certified starship 
 captain. And so it is my pleasure today, 
 to nail her picture alongside those 
-of our most distinguished alumini.
+of our most distinguished alumini.</speak>
 
 <info>The crowd cheers. Vogel starts to hammer a nail into the wall. 
 Leela stands up.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Thank you very much. Like many of you 
-I never knew my parents...
+I never knew my parents...</speak>
 
-<character>VOGEL</character>
-Give me a -- argh!
+<speak who="VOGEL">
+Give me a -- argh!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 ...I don't know if they were mighty 
 alien overlords or simply underpaid 
 alien janitors who fought crime on the 
-side --
+side --</speak>
 
-<character>VOGEL</character>
-Picture's up.
+<speak who="VOGEL">
+Picture's up.</speak>
 
-<character>BENDER</character>
-(shouting) It's crooked!
+<speak who="BENDER">
+(shouting) It's crooked!</speak>
 
 <info>Vogel curses.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 ...In the end though, it doesn't matter 
 who my parents were. All that matters 
 is what I learned here, within these 
 unscalable walls, that I have strength 
 to make it on my own, just like all 
-of you kids here today.
+of you kids here today.</speak>
 
 <info>The kids in the audience cheer.</info>
 
-<character>KIDS</character>
-(chanting) Leela! Leela! Leela!
+<speak who="KIDS">
+(chanting) Leela! Leela! Leela!</speak>
 
 <info>Nina puts on an eye patch.</info>
 
-<character>NINA</character>
-Look at me! I'm Leela!
+<speak who="NINA">
+Look at me! I'm Leela!</speak>
 
-<character>ALBERT</character>
-Nuh uh, 'cause I'm double Leela!
+<speak who="ALBERT">
+Nuh uh, 'cause I'm double Leela!</speak>
 
 <info>He covers both his eyes and runs into the wall. Leela's picture 
 falls off.</info>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 That's it, Albert, no more espresso 
-for you.
+for you.</speak>
 
 <info>Time Lapse. Leela is talking to Fry.</info>
 
-<character>PHOTOGRAPHER</character>
+<speak who="PHOTOGRAPHER">
 Mind if I get a picture of you with 
-your picture for the news, ma'am?
+your picture for the news, ma'am?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Yes! I mean no! Just make sure you get 
-my nonchalant side!
+my nonchalant side!</speak>
 
 <info>One of the guys from the wall runs in behind Leela to get in 
 on her photo.</info>
 
-<character>GUY</character>
-Wooo!
+<speak who="GUY">
+Wooo!</speak>
 
 <info>Planet Express: Corridor. Fry is walking when he hears Leela 
 crying.</info>
@@ -276,59 +276,59 @@ crying.</info>
 <info>Cut to: Planet Express: Locker Room. Leela is sat crying. She 
 takes her wrist thing off, there is a bracelet under it.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 If those aren't tears of happiness, 
-please stop crying.
+please stop crying.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 (crying) It's OK, Fry, I'm fine. I won 
-an award today.
+an award today.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Is it this room that's making you sad? 
 It's probably the room. Come on, lets 
-go for a walk.
+go for a walk.</speak>
 
 <info>Outside Planet Express. Fry and Leela walk out of the building 
 and walk down the street by the river. Leela has calmed down 
 now.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm sorry you saw that, Fry. I usually 
 try to keep my sadness pent up inside 
 where it can fester quietly as a mental 
-illness.
+illness.</speak>
 
-<character>FRY</character>
-Yeah, I do that with my stupidness.
+<speak who="FRY">
+Yeah, I do that with my stupidness.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I told a whole crowd today that being 
 an orphan made me strong. But all I 
 really wanted was a mom and dad, to 
 hold me and stroke my hair and tell 
-me they loved me.
+me they loved me.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Then today's your lucky day because 
 I happen to be a holding, stroking, 
-lovin' machine! Also spankin'!
+lovin' machine! Also spankin'!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's not even close to what I had 
-in mind.
+in mind.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, anyway, just remember that people 
-care about you.
+care about you.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I know.  Sometimes when I'm lonely, 
 I look up at the sky and I get this 
 feeling that somewhere, on some unknown 
 planet, circling a distant star, my 
 parents are up there, looking down on 
-me.
+me.</speak>
 
 <info>From the sewers a pair of cyclopses look up at Leela.</info>
 
@@ -336,28 +336,28 @@ me.
 to the manhole outside the Planet Express building. He hums to 
 himself. Fry and Leela walk out of the building.</info>
 
-<character>FRY</character>
-Yo yo, Bezender! What up?
+<speak who="FRY">
+Yo yo, Bezender! What up?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 My dumping business is booming. I just 
 got hired to clean up the set of Free 
-Willy 3.
+Willy 3.</speak>
 
 <info>He presses a button and the truck tips out a whale. Bender forces 
 it down the manhole by stamping on it.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender! Cut it out! First of all the 
 sewer mutants will be mad. Second, everything 
 else that's horribly wrong with what 
-you're doing!
+you're doing!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ah, those stupid mutants can't do anything. 
 You seem to be forgetting one simple 
 fact, namely, I'm up here and they are 
-safely down --
+safely down --</speak>
 
 <info>Green sewage erupts from a fire hydrant and the manhole. Bender 
 screams. The manhole grows bigger and bigger. Three mutants grab 
@@ -368,105 +368,105 @@ it.</info>
 <info>New New York Sewer. Fry, Leela and Bender are tied up and suspended 
 over a pool of green sewage.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (shouting) What did I do to deserve 
-this?
+this?</speak>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Behold, our once beautiful mutigenic 
-sewage lake.
+sewage lake.</speak>
 
-<character>VYOLET</character>
+<speak who="VYOLET">
 The radioactive waste you dumped in 
 it has made it brighten up to see how 
-ugly we really are.
+ugly we really are.</speak>
 
 <info>She and Dwayne look at each other and cringe.</info>
 
-<character>DWAYNE</character>
-Oh, man!
+<speak who="DWAYNE">
+Oh, man!</speak>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 As if our lives weren't miserable enough 
-already!
+already!</speak>
 
-<character>LEG MUTANT</character>
-Tell me about it!
+<speak who="LEG MUTANT">
+Tell me about it!</speak>
 
-<character>RAOUL</character>
-Let the punishment commence!
+<speak who="RAOUL">
+Let the punishment commence!</speak>
 
-<character>LEELA</character>
-Punishment?
+<speak who="LEELA">
+Punishment?</speak>
 
-<character>FRY</character>
-No fair!
+<speak who="FRY">
+No fair!</speak>
 
-<character>BENDER</character>
-Bender's innocent!
+<speak who="BENDER">
+Bender's innocent!</speak>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 The instant you touch these mutatious 
 waters your <character>DNA</character> will be forever altered, 
 turning you into horrible mutants like 
-us. Especially him!  Allow me to demonstrate!
+us. Especially him!  Allow me to demonstrate!</speak>
 
 <info>He pulls a lever and a rat is lowered into the sewage. It comes 
 back up as a green pig with fins and bat wings. Leela and Bender 
 groan and Fry wretches.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 It's like that time I peeked in the 
-kitchen at Imperial Hunan.
+kitchen at Imperial Hunan.</speak>
 
-<character>RAOUL</character>
-Submerge the prisoners.
+<speak who="RAOUL">
+Submerge the prisoners.</speak>
 
 <info>The crew are lowered towards the sewage. Bender starts to panic 
 but suddenly comes to a realisation.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Wait. I don't even have <character>DNA</character>. Why am 
-I screaming?
+I screaming?</speak>
 
-<character>DWAYNE</character>
-We're gonna beat you afterwards.
+<speak who="DWAYNE">
+We're gonna beat you afterwards.</speak>
 
 <info>Bender continues panicking.</info>
 
-<character>MUTANTS</character>
-(chanting) Mutate! Mutate! Mutate! ...
+<speak who="MUTANTS">
+(chanting) Mutate! Mutate! Mutate! ...</speak>
 
 <info>Two hooded figures emerge from the crowd.</info>
 
-<character>HOODED FIGURE #1</character>
-(shouting) Turanga Leela!
+<speak who="HOODED FIGURE #1">
+(shouting) Turanga Leela!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Who said that? How do you know my real 
-name?
+name?</speak>
 
 <info>The hooded figures climb onto the crane holding the crew over 
 the sewage and turn it so they are no longer suspended over the 
 lake.</info>
 
-<character>BENDER</character>
-Whee!
+<speak who="BENDER">
+Whee!</speak>
 
-<character>RAOUL</character>
-What are you doing? Stop it.
+<speak who="RAOUL">
+What are you doing? Stop it.</speak>
 
 <info>Fry, Leela and Bender fall to the ground.</info>
 
-<character>FRY</character>
-What happened?
+<speak who="FRY">
+What happened?</speak>
 
-<character>LEELA</character>
-I don't know. I think I saved us somehow.
+<speak who="LEELA">
+I don't know. I think I saved us somehow.</speak>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 (shouting) Go after them! The waters 
-can't mutate us mutants!
+can't mutate us mutants!</speak>
 
 <info>The mutants dive into the sewage and swim across. Fry, Leela 
 and Bender run away.</info>
@@ -474,173 +474,173 @@ and Bender run away.</info>
 <info>Cut to: Mutant Town. Fry, Leela and Bender run down past the 
 cafe's and Starbucks's.</info>
 
-<character>RAOUL</character>
-They went this way!
+<speak who="RAOUL">
+They went this way!</speak>
 
 <info>The crew stop outside an empty-looking building.</info>
 
-<character>BENDER</character>
-Quick! In there!
+<speak who="BENDER">
+Quick! In there!</speak>
 
 <info>He picks up Fry by his ankle and swings him at the window, breaking 
 it. He and Leela jump in. Fry crawls in after them. The mutants 
 run past unaware they are chasing no one.</info>
 
-<character>DWAYNE</character>
-Kill! Kill! Kill!
+<speak who="DWAYNE">
+Kill! Kill! Kill!</speak>
 
 <info>Cut to: Building. The trio dust themselves off and look around. 
 Leela sees a wall full of newspaper clippings and things to do 
 with her.</info>
 
-<character>LEELA</character>
-Great chichi's ghost!
+<speak who="LEELA">
+Great chichi's ghost!</speak>
 
-<character>BENDER</character>
-What's this junk?
+<speak who="BENDER">
+What's this junk?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It looks like...a timeline of my whole 
-life.
+life.</speak>
 
 <info>Fry sees a familiar newsclipping.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 That's when we saved Earth from a giant 
-asteroid of garbage.
+asteroid of garbage.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 And here's when I dropped out and bummed 
-around India for a while.
+around India for a while.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And this is just last year at Space 
-Mardi Gras.
+Mardi Gras.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Its like some kind of weird Leela museum...and 
-I'm the Leela!
+I'm the Leela!</speak>
 
-<character>FRY</character>
-(whispering) Dude! Over here!
+<speak who="FRY">
+(whispering) Dude! Over here!</speak>
 
 <info>Leela and Bender walk over to where Fry is, next to a shelf 
 with lots of Leela stuff on it.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's all the best stuff I ever flushed 
 down the toilet! Those are some of my 
-diary pages. And my screenplay!
+diary pages. And my screenplay!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 And also - for some reason - the letter 
-I wrote you full of my personal feelings.
+I wrote you full of my personal feelings.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, I'm scared!  My whole life has 
 just been a show for some perverted 
-mutant!
+mutant!</speak>
 
 <info>The mutants approach the building.</info>
 
-<character>VYOLET</character>
-They must be in here.
+<speak who="VYOLET">
+They must be in here.</speak>
 
-<character>RAOUL</character>
-Yeah, after them.
+<speak who="RAOUL">
+Yeah, after them.</speak>
 
-<character>BENDER</character>
-And then Bender ran!
+<speak who="BENDER">
+And then Bender ran!</speak>
 
 <info>He and Fry run for the door. Leela is still standing by the 
 shelf.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela, freak out later. We're not done 
-escaping yet!
+escaping yet!</speak>
 
 <info>She doesn't move. Fry and Bender try to pull her away but she 
 stays rooted to the ground. The mutants run in and grab them.</info>
 
-<character>DWAYNE</character>
-Got ya!
+<speak who="DWAYNE">
+Got ya!</speak>
 
-<character>LEG MUTANT</character>
-Take this!
+<speak who="LEG MUTANT">
+Take this!</speak>
 
 <info>He kicks Fry in the shin.</info>
 
-<character>FRY</character>
-Ow!
+<speak who="FRY">
+Ow!</speak>
 
 <info>Mutant Town.</info>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 This time I'm calling for the death 
 penalty. And not just because I'm running 
-for re-election as Supreme Mutant.
+for re-election as Supreme Mutant.</speak>
 
-<character>MUTANTS</character>
+<speak who="MUTANTS">
 (chanting) Four more years! Four more 
-years!
+years!</speak>
 
 <info>The hooded figures emerge from the crowd again. One taps Raoul 
 on the shoulder and whispers to him.</info>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 Oh, very well.  Your attention. Instead 
 of being tortured to death, the prisoners 
 shall hereby be expelled from the sewers 
-and never allowed to return.
+and never allowed to return.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 (sarcastic) Oh cruel fate! Can we really 
-never return to this dank pit of sewage?!
+never return to this dank pit of sewage?!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wait a minute. Why aren't you gonna 
-kill us anymore?
+kill us anymore?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah! What are you chicken? Buk buk 
-buk bukuk!
+buk bukuk!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 (whispering) Shut up, you two! We can 
-kill ourselves when we get home!
+kill ourselves when we get home!</speak>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 They'll need transportation to the surface. 
-Bring in the airship.
+Bring in the airship.</speak>
 
 <info>Some mutants haul in a pretty large patchwork balloon.</info>
 
-<character>BENDER</character>
-Eww!
+<speak who="BENDER">
+Eww!</speak>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 We constructed it from the remnants 
 of old discarded Macy's parade balloons: 
 Underdog's groin, Bart Simpsons's left 
 ear and right shin, Garfield's owner 
-Jon's forehead.
+Jon's forehead.</speak>
 
-<character>MUTANT</character>
-Fire up the sewer gas!
+<speak who="MUTANT">
+Fire up the sewer gas!</speak>
 
 <info>A Triclops Mutant turn the ballon gas on. Fry, Leela and Bender 
 choke and gag. The balloon sails up and hits the roof of the 
 sewers. The Triclops puts a plank out to a ladder.</info>
 
-<character>TRICLOPS</character>
-Move it ya ugly normals!
+<speak who="TRICLOPS">
+Move it ya ugly normals!</speak>
 
 <info>He forces Bender onto the plank. It wobbles. He looks down and 
 gets dizzy.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Uh, I'm gettin' dizzy! I can't walk 
-straight!
+straight!</speak>
 
 <info>He pulls a unicycle out of his chest cabinet and cycles along 
 the plank. Fry and Leela climb on and quickly move across. Leela 
@@ -648,122 +648,122 @@ stops at the bottom of the ladder. The airship sails back down.
 Bender opens the manhole and he and Fry climb out. Leela, still 
 on the ladder, looks back down.</info>
 
-<character>FRY</character>
-Come on Leela. You can do it!
+<speak who="FRY">
+Come on Leela. You can do it!</speak>
 
-<character>BENDER</character>
-Hurry! We're missing our bus!
+<speak who="BENDER">
+Hurry! We're missing our bus!</speak>
 
 <info>Leela climbs the ladder but looks back down again at the mysterious 
 hooded figures. She closes the manhole.</info>
 
-<character>FRY</character>
-Whoa! What are you doing?
+<speak who="FRY">
+Whoa! What are you doing?</speak>
 
-<character>BENDER</character>
-I'm gettin' on the bus!
+<speak who="BENDER">
+I'm gettin' on the bus!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 (shouting) Don't worry! I'll be fine! 
 (talking) They know something about 
 me and I've got to find out what.  The 
 lake didn't mutate me. What is going 
-on here?!
+on here?!</speak>
 
-<character>OCTOPUS</character>
+<speak who="OCTOPUS">
 It worked for me. I used to be a little 
-blonde girl named Virginia.
+blonde girl named Virginia.</speak>
 
-<character>LEELA</character>
-Eurgh!  Who the hell are you?
+<speak who="LEELA">
+Eurgh!  Who the hell are you?</speak>
 
-<character>HOODED FIGURE #1</character>
+<speak who="HOODED FIGURE #1">
 No one. And watch your language young 
-lady!
+lady!</speak>
 
 <info>They run off. She chases them. The Triclops gets in her way.</info>
 
-<character>TRICLOPS</character>
+<speak who="TRICLOPS">
 Stop right there! I don't want to hurt 
-you.  I didn't want you to hurt me either.
+you.  I didn't want you to hurt me either.</speak>
 
 <info>Cookieville Orphanarium: Vogel's Office.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela's going nuts and I can't save 
 her unless I learn more about her mysterious 
 past. Isn't there anything else you 
-can tell me?
+can tell me?</speak>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Nah. Nothing that wouldn't be a waste 
-of your time.
+of your time.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That's impossible because my time is 
-worthless!
+worthless!</speak>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Huh. Well then there is one thing.  
 It's the note I found with Leela the 
 day she was abandoned. But it's written 
 in Alienese, so no-one on Earth can 
-translate it. Not even Brainzilla.
+translate it. Not even Brainzilla.</speak>
 
-<character>FRY</character>
-Hand it over.
+<speak who="FRY">
+Hand it over.</speak>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Sure.  I just wish I could be more helpful. 
 Would you like some dirt on any other 
-orphans?
+orphans?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Look, I'm trying to save someone here. 
-I'll have to come back for those later.
+I'll have to come back for those later.</speak>
 
 <info>Planet Express: Farnsworth's Lab. Fry shows Farnsworth the paper.</info>
 
-<character>FRY</character>
-Can you translate it?
+<speak who="FRY">
+Can you translate it?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Of course. But only into Beta Crypt 
 3, a language so complex, there's even 
-less chance of understanding it.
+less chance of understanding it.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I didn't ask for a completely reasonable 
-excuse. I asked you to get busy.
+excuse. I asked you to get busy.</speak>
 
-<character>FARNSWORTH</character>
-Very well.
+<speak who="FARNSWORTH">
+Very well.</speak>
 
 <info>He presses a button and the machine that makes glow-in-the-dark 
 noses comes out of the wall again. Farnsworth feeds the paper 
 in.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Isn't that the same machine that makes 
-noses?
+noses?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 It can do other things. Why shouldn't 
 it?  Of course, even if it is possible 
 to analyse the message there's no way 
 of knowing how long it would take. It 
 could take an hour or it could take 
-a hundred million years.
+a hundred million years.</speak>
 
 <info>The machines dings.</info>
 
-<character>FRY</character>
-Is it done?
+<speak who="FRY">
+Is it done?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Certainly not. Two dings means it's 
 done.  But not like that. Slightly more 
-rapid.
+rapid.</speak>
 
 <info>Two slightly more rapid dings. Fry gasps. Farnsworth shakes 
 his head.</info>
@@ -771,29 +771,29 @@ his head.</info>
 <info>New New York Sewer. Leela chases the hooded figures through 
 the tunnels but loses them where some pipes cross.</info>
 
-<character>LEELA</character>
-Where did they go?
+<speak who="LEELA">
+Where did they go?</speak>
 
 <info>Some rubbish falls on her from above.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Good news, Leela. I landed the contract 
 to empty all the spitoons in Little 
-Italy.
+Italy.</speak>
 
 <info>He empties a spitoon. Leela rolls out of the way of the spit.</info>
 
-<character>LEELA</character>
-Ew!
+<speak who="LEELA">
+Ew!</speak>
 
 <info>Planet Express: Farnsworth's Lab. Fry is pacing up and down 
 while Farnsworth is asleep. The machine rapidly dings twice. 
 Farnsworth wakes up.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 That's it, it's done!  I can't believe 
 it! My mind is boggling. The analysis 
-of the note is printing out now.
+of the note is printing out now.</speak>
 
 <info>A dot matrix printer prints off the analysis. Fry tears it off 
 and they both start to read it. Fry gasps.</info>
@@ -802,82 +802,82 @@ and they both start to read it. Fry gasps.</info>
 A baby is born in the house Fry, Leela and Bender hid in in the 
 sewers.</info>
 
-<character>DOCTOR</character>
-It's a girl.
+<speak who="DOCTOR">
+It's a girl.</speak>
 
 <info>Two cyclopses look at their baby cyclops. The mother has tentacles 
 and the ather's mouth is sideways.</info>
 
-<character>MOTHER</character>
-My God! She's beautiful. No extra anythings.
+<speak who="MOTHER">
+My God! She's beautiful. No extra anythings.</speak>
 
 <info>The father reaches his hand out. The baby grabs his finger and 
 goos.</info>
 
-<character>FATHER</character>
-What people skills.
+<speak who="FATHER">
+What people skills.</speak>
 
-<character>MOTHER</character>
-She's completely perfect!
+<speak who="MOTHER">
+She's completely perfect!</speak>
 
-<character>DOCTOR</character>
+<speak who="DOCTOR">
 In my professional opinion as an ear, 
 ear, ear, nose and throat doctor, she 
-is the least-mutated mutant ever born.
+is the least-mutated mutant ever born.</speak>
 
-<character>FATHER</character>
+<speak who="FATHER">
 And yet she's cursed to live the horrible 
 degrading life of a mutant. Like all 
-of us. Especially him!
+of us. Especially him!</speak>
 
 <info>He points at the Leg Mutant.</info>
 
-<character>LEG MUTANT</character>
-It's true!
+<speak who="LEG MUTANT">
+It's true!</speak>
 
-<character>MOTHER</character>
-Maybe we can do better for her.
+<speak who="MOTHER">
+Maybe we can do better for her.</speak>
 
 <info>Outside Cookieville Minimum-Secuirty Orphanarium. The mutants 
 come out of a manhole near the building with their baby. They 
 put it in a basket outside the front door. The father puts a 
 bracelet on the baby's wrist.</info>
 
-<character>FATHER</character>
+<speak who="FATHER">
 I made this bracelet so that in some 
 small way, we'll always be with you, 
 even when it doesn't seem like it. During 
-your entire life, for example.
+your entire life, for example.</speak>
 
 <info>He kisses her.</info>
 
-<character>MOTHER</character>
+<speak who="MOTHER">
 You won't pass for human, cutie. But 
 if my PhD in exo-liguistics is worth 
 diddly-poop, this note should convince 
 them you're an alien.  And that'll be 
-enough to give you a real life.
+enough to give you a real life.</speak>
 
 <info>She kisses the baby, puts her hood up and runs down the steps. 
 The father rings the doorbell and follows her. Warden Vogel opens 
 the door and sees the baby. The parent's watch from the manhole.</info>
 
-<character>FATHER</character>
-She'll never know we're her parents.
+<speak who="FATHER">
+She'll never know we're her parents.</speak>
 
-<character>MOTHER</character>
+<speak who="MOTHER">
 That's our gift to her. Better we should 
 die than have her learn the shameful 
-truth of her origin.
+truth of her origin.</speak>
 
-<character>FATHER</character>
-I'm with you.
+<speak who="FATHER">
+I'm with you.</speak>
 
 <info>They hug. Then turn to watch Vogel.</info>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 What a beautiful gigantic eye you ha 
--- . Well come on in.
+-- . Well come on in.</speak>
 
 <info>The parents watch Leela disappear inside, hold their breath 
 and dive into the sewers.</info>
@@ -890,41 +890,41 @@ pole and jumps onto the roof.</info>
 
 <info>Cut to: Building.</info>
 
-<character>HOODED FIGURE #1</character>
-Keep quiet so she doesn't hear us.
+<speak who="HOODED FIGURE #1">
+Keep quiet so she doesn't hear us.</speak>
 
-<character>HOODED FIGURE #2</character>
-What's there to talk about?
+<speak who="HOODED FIGURE #2">
+What's there to talk about?</speak>
 
-<character>HOODED FIGURE #1</character>
-Shhh!
+<speak who="HOODED FIGURE #1">
+Shhh!</speak>
 
 <info>Leela stands behind them.</info>
 
-<character>LEELA</character>
-Hands up!  Tentacles too!
+<speak who="LEELA">
+Hands up!  Tentacles too!</speak>
 
 <info>The other one puts her tentacles up.</info>
 
-<character>HOODED FIGURE #1</character>
-Don't say anything stupid, Morris.
+<speak who="HOODED FIGURE #1">
+Don't say anything stupid, Morris.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 What is all this?  Am I a game to you? 
 Or some kind of even more boring Truman 
 Show? Do you belive I'm you Messiah? 
 Your Mutant Dali Lama? Stop me if I 
-guess it!
+guess it!</speak>
 
-<character>HOODED FIGURE #2</character>
-Well actually there --
+<speak who="HOODED FIGURE #2">
+Well actually there --</speak>
 
 <info>Hooded Figure #1 stops him.</info>
 
-<character>HOODED FIGURE #1</character>
-Morris! Shh!
+<speak who="HOODED FIGURE #1">
+Morris! Shh!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 (angry) And what about this?!  How did 
 you get this bracelet? Did you steal 
 it from me when I was a baby? Or from 
@@ -932,90 +932,90 @@ my parents. You robbed my parents, didn't
 you? I bet you sick mutants killed them. 
 My parents were confused aliens lost 
 on Earth and you killed them! Is that 
-it? Admit it!
+it? Admit it!</speak>
 
-<character>HOODED FIGURE #2</character>
-(sombre) Yes. We killed them.
+<speak who="HOODED FIGURE #2">
+(sombre) Yes. We killed them.</speak>
 
-<character>HOODED FIGURE #1</character>
-You guessed the truth.
+<speak who="HOODED FIGURE #1">
+You guessed the truth.</speak>
 
 <info>Leela screams.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Because of you I'll never know my parents. 
-I'll kill you!
+I'll kill you!</speak>
 
 <info>She raises her gun.</info>
 
-<character>HOODED FIGURE #1</character>
-That would be best.
+<speak who="HOODED FIGURE #1">
+That would be best.</speak>
 
 <info>Time Lapse. Leela charges her laser. It bleeps. The hooded figures 
 hold each other.</info>
 
-<character>FRY</character>
-Stop!  Thanks Bender! Don't do it Leela!
+<speak who="FRY">
+Stop!  Thanks Bender! Don't do it Leela!</speak>
 
-<character>LEELA</character>
-They killed my parents!
+<speak who="LEELA">
+They killed my parents!</speak>
 
-<character>FRY</character>
-Close.
+<speak who="FRY">
+Close.</speak>
 
 <info>He walks behind the hooded figures and pulls their hoods off. 
 They are the mutants from the flashback. Leela lowers her gun.</info>
 
-<character>LEELA</character>
-They are my parents.
+<speak who="LEELA">
+They are my parents.</speak>
 
-<character>MUNDA</character>
-Yes.
+<speak who="MUNDA">
+Yes.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I had the Professor analyse the alienese 
-letter that was found with you.
+letter that was found with you.</speak>
 
-<character>LEELA</character>
-What does it say?
+<speak who="LEELA">
+What does it say?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I 'unno. But the analysis showed it 
 was printed on recycled toilet paper. 
 A squeezably soft paper used mainly 
-in the sewers.
+in the sewers.</speak>
 
 <info>Leela's mother takes the paper.</info>
 
-<character>MUNDA</character>
+<speak who="MUNDA">
 It says, "Your parents love you very 
-much".
+much".</speak>
 
-<character>MORRIS</character>
-We still do.
+<speak who="MORRIS">
+We still do.</speak>
 
-<character>LEELA</character>
-So, I'm not an alien? I'm a mutant.
+<speak who="LEELA">
+So, I'm not an alien? I'm a mutant.</speak>
 
-<character>MORRIS</character>
+<speak who="MORRIS">
 We never wanted you to know. You deserved 
-a better life.
+a better life.</speak>
 
-<character>MUNDA</character>
-You must despise us.
+<speak who="MUNDA">
+You must despise us.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 (crying) You're my parents. All I've 
 ever wanted is to know you.  This is 
-the happiest moment of my life.
+the happiest moment of my life.</speak>
 
 <info>They cry. It starts to rain.</info>
 
 <info>Cut to: New New York Street. It isn't raining - Bender is emptying 
 a spitoon on them.</info>
 
-<character>BENDER</character>
-Aww!
+<speak who="BENDER">
+Aww!</speak>
 
 <info>Flashbacks. Over the flashbacks Pizzicato Five's Baby Love Child 
 plays. Baby Leela crawls down a corridor at the Orphanarium and 
