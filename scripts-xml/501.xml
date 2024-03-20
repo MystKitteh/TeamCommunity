@@ -1,733 +1,733 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 501
 
-<title><character>CRIMES OF THE HOT</character></title>
+<title>CRIMES OF THE HOT</title>
 
 <author>Aaron Ehasz</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Known To Cause Insanity In Laboratory 
-Mice.]
+<info>Opening Credits. Caption: Known To Cause Insanity In Laboratory 
+Mice.</info>
 
-[Planet Express: Balcony. Its a scorching hot day and the crew 
+<info>Planet Express: Balcony. Its a scorching hot day and the crew 
 are standing on the balcony in swimsuits. Leela is standing by 
-an empty kiddie pool.]
+an empty kiddie pool.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Hurry up with the water, I'm steaming 
 in my own shell I am, it's that hot 
-it is!
+it is!</speak>
 
-[Leela rips open a packet of Instant Pool Water (Just Add Water 
-- Dead Leaves Included.)]
+<info>Leela rips open a packet of Instant Pool Water (Just Add Water 
+- Dead Leaves Included.)</info>
 
-<character>LEELA</character>
-Heyya!
+<speak who="LEELA">
+Heyya!</speak>
 
-[She empties the packet into the pool and squirts it with the 
+<info>She empties the packet into the pool and squirts it with the 
 hose. The pool fills with water with dead leaves floating on 
-top. Enter Fry and Bender.]
+top. Enter Fry and Bender.</info>
 
-<character>FRY</character>
-Man it's hot! (different voice.) How 
-hot is it? (normal voice.) It's so hot 
+<speak who="FRY">
+Man it's hot! <info>(different voice.)</info> How 
+hot is it? <info>(normal voice.)</info> It's so hot 
 I poured McDonalds Coffee in my lap 
-to cool off.  Jonny Carson said it.
+to cool off.  Jonny Carson said it.</speak>
 
-[Nibbler starts to drink the pool water.]
+<info>Nibbler starts to drink the pool water.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No! Nibbler, don't drink the pool water! 
-It's full of chlorine!
+It's full of chlorine!</speak>
 
-[Nibbler finishes off the water and belches a green gas - chlorine! 
+<info>Nibbler finishes off the water and belches a green gas - chlorine! 
 Everyone except Bender coughs and falls over unconcious. Bender 
-laughs.]
+laughs.</info>
 
-<character>BENDER</character>
-Lightweights! Oh wait - chlorine!
+<speak who="BENDER">
+Lightweights! Oh wait - chlorine!</speak>
 
-[He instantly rusts and falls over.]
+<info>He instantly rusts and falls over.</info>
 
-[Planet Express: Meeting Room. The crew are slouched around the 
-table sweating. Farnsworth is attaching an old filmstrip to Bender.]
+<info>Planet Express: Meeting Room. The crew are slouched around the 
+table sweating. Farnsworth is attaching an old filmstrip to Bender.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Perhaps this movie will help us take 
-our minds off the heat.
+our minds off the heat.</speak>
 
-<character>BENDER </character>(<character>JITTERY</character>)
-Focuuus!
+<speak who="BENDER"><info>(<character>JITTERY</character>)</info>
+Focuuus!</speak>
 
-[The movie is projected onto a screen with the title "Global 
-Warming Or: None Like It Hot."]
+<info>The movie is projected onto a screen with the title "Global 
+Warming Or: None Like It Hot."</info>
 
-[In the movie a little girl called Suzie walks out of an ice 
+<info>In the movie a little girl called Suzie walks out of an ice 
 cream shop with a cone. It melts before she can take a lick. 
 She cries. A man laughs. The regular filmstrip narrator walks 
-into the frame.]
+into the frame.</info>
 
-<character>NARRATOR </character>[IN <character>MOVIE</character>]
+<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
 You're probably wondering why your ice 
 cream went away. Well Suzie, the culprit 
-isn't foreigners, it's global warming!
+isn't foreigners, it's global warming!</speak>
 
-<character>SUZIE </character>[IN <character>MOVIE</character>]
-Gwobal wappa?
+<speak who="SUZIE"><info>IN <character>MOVIE</character></info>
+Gwobal wappa?</speak>
 
-<character>MAN </character>[IN <character>MOVIE</character>.]
+<speak who="MAN"><info>IN <character>MOVIE</character>.</info>
 Uh, yeah! Meet Mr Sunbeam. He comes 
-all the way from the sun to visit Earth.
+all the way from the sun to visit Earth.</speak>
 
-[As he speaks there is a scene of a sunbeam in a hat with a briefcase. 
-It walks from the sun to Earth and raises its hat.]
+<info>As he speaks there is a scene of a sunbeam in a hat with a briefcase. 
+It walks from the sun to Earth and raises its hat.</info>
 
-[He walks away from the Earth but is stopped by gas things.]
+<info>He walks away from the Earth but is stopped by gas things.</info>
 
-<character>GAS </character>[IN <character>MOVIE</character>]
+<speak who="GAS"><info>IN <character>MOVIE</character></info>
 Not so fast Sunbeam! We're Greenhouse 
-Gases! You ain't going nowhere!
+Gases! You ain't going nowhere!</speak>
 
-[More gases arrive and they beat up Mr Sunbeam.]
+<info>More gases arrive and they beat up Mr Sunbeam.</info>
 
-<character>MAN </character>[IN <character>MOVIE</character>]
+<speak who="MAN"><info>IN <character>MOVIE</character></info>
 Pretty soon Earth is chock full of sunbeams......their 
-rotting corpses heating our atmosphere.
+rotting corpses heating our atmosphere.</speak>
 
-[The gases laugh and the scene changes to a classroom.]
+<info>The gases laugh and the scene changes to a classroom.</info>
 
-<character>SUZIE </character>[IN <character>MOVIE</character>]
+<speak who="SUZIE"><info>IN <character>MOVIE</character></info>
 How do we get wid of the gweenhouse 
-grasses?
+grasses?</speak>
 
-<character>NARRATOR </character>[IN <character>MOVIE</character>]
+<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
 Fortunately our handsomest politicians 
 came up with a cheap, last minute way 
 to combat global warming. Ever since 
 2063 we drop a giant ice cube into the 
-ocean every now and then.
+ocean every now and then.</speak>
 
-[The movie cuts to a shot of a giant ice cube being dropped into 
-the ocean.]
+<info>The movie cuts to a shot of a giant ice cube being dropped into 
+the ocean.</info>
 
-<character>SUZIE </character>[IN <character>MOVIE</character>]
+<speak who="SUZIE"><info>IN <character>MOVIE</character></info>
 Just like Daddy puts in his drink every 
-morning! (sadly) And then he gets mad.
+morning! <info>(sadly)</info> And then he gets mad.</speak>
 
-<character>NARRATOR </character>[IN <character>MOVIE</character>]
+<speak who="NARRATOR"><info>IN <character>MOVIE</character></info>
 Of course, since the greenhouse gases 
 are still building up, it takes more 
 and more ice each time.  Thus solving 
-the problem once and for all.
+the problem once and for all.</speak>
 
-<character>SUZIE </character>[IN <character>MOVIE</character>]
-But...
+<speak who="SUZIE"><info>IN <character>MOVIE</character></info>
+But...</speak>
 
-[The movie quickly ends with the caption "The End."]
+<info>The movie quickly ends with the caption "The End."</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, we just need one of those big 
 ice cubes. Someone should call the losers 
-who are supposed to deliver it.  Hello?
+who are supposed to deliver it.  Hello?</speak>
 
-[Nixon's head appears on the screen.]
+<info>Nixon's head appears on the screen.</info>
 
-<character>NIXON </character>[ON <character>SCREEN</character>]
+<speak who="NIXON"><info>ON <character>SCREEN</character></info>
 President Nixon here.  I'm hiring you 
 losers to deliver the ice. And hurry 
 up! I'm sweating like J. Edgar Hoover 
-trying to squeeze into a new girdle!
+trying to squeeze into a new girdle!</speak>
 
-[He cuts off.]
+<info>He cuts off.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 You heard the good news everyone! Save 
-the Earth, et cetera et cetera!  Bye!
+the Earth, et cetera et cetera!  Bye!</speak>
 
-<character>FRY</character>
-Wait! Where do we get the ice?
+<speak who="FRY">
+Wait! Where do we get the ice?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 The wha? Oh Halley's Comet of course. 
 The only sufficient source of ice cubes 
-that don't have bugs in them!
+that don't have bugs in them!</speak>
 
-<character>FRY</character>
-Wow! Mining a comet, that sounds fun!
+<speak who="FRY">
+Wow! Mining a comet, that sounds fun!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Yes there's no safer occupation than 
 mining. Especially when you're on a 
 snowball whipping through space at a 
-million miles an hour!  Safe!
+million miles an hour!  Safe!</speak>
 
-[Halley's Comet. The ship flies in for it's landing. It has a 
+<info>Halley's Comet. The ship flies in for it's landing. It has a 
 giant cup tied to it. It lands. The cargo lift comes down. Bender 
-moves a piece of machinery off the ship and onto the comet.]
+moves a piece of machinery off the ship and onto the comet.</info>
 
-<character>BENDER</character>
-Deploying ice drill.
+<speak who="BENDER">
+Deploying ice drill.</speak>
 
-[He presses a button. The machine sprouts legs and grows to the 
+<info>He presses a button. The machine sprouts legs and grows to the 
 same height as the ship. A thing comes out of the top of it. 
-It turns into and ice dispenser.]
+It turns into and ice dispenser.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wow! That ice dispenser's so big, the 
 ice crushes you!  Yakov Smirnov said 
-it!
+it!</speak>
 
-<character>LEELA</character>
-No he didn't.
+<speak who="LEELA">
+No he didn't.</speak>
 
-[Bender pushes the giant cup onto the ice dispenser.]
+<info>Bender pushes the giant cup onto the ice dispenser.</info>
 
-<character>BENDER</character>
-Activating ice drill.
+<speak who="BENDER">
+Activating ice drill.</speak>
 
-[The drill drills through the surface. Only a bit of grit comes 
-through the dispenser.]
+<info>The drill drills through the surface. Only a bit of grit comes 
+through the dispenser.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh my God! It's out of ice! Like some 
-outer space Motel 6!
+outer space Motel 6!</speak>
 
-[Leela gasps.]
+<info>Leela gasps.</info>
 
-<character>LEELA</character>
-Completely out of ice?
+<speak who="LEELA">
+Completely out of ice?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 This could mean the end of the bana 
-daquiri as we know it...also life.
+daquiri as we know it...also life.</speak>
 
-[Planet Express: Lounge. The crew are still sweltering. On the 
-TV Morbo's head is inflating and deflating.]
+<info>Planet Express: Lounge. The crew are still sweltering. On the 
+TV Morbo's head is inflating and deflating.</info>
 
-<character>LINDA </character>[ON TV]
+<speak who="LINDA"><info>ON TV</info>
 With Halley's Comet out of ice, Earth 
 is experiencing the devastating effects 
-of sudden intense global warming.
+of sudden intense global warming.</speak>
 
-<character>MORBO </character>[ON TV]
+<speak who="MORBO"><info>ON TV</info>
 Morbo is pleased but sticky. The scorching 
 heat has melted the polar ice caps causing 
-floods of biblical proportions.
+floods of biblical proportions.</speak>
 
-[The shot changes to a swamped city with an ark floating through 
-it.]
+<info>The shot changes to a swamped city with an ark floating through 
+it.</info>
 
-<character>GAY SAILOR </character>[ON TV]
+<speak who="GAY SAILOR"><info>ON TV</info>
 They called me crazy for building this 
-ark.
+ark.</speak>
 
-<character>MAN </character>[ON TV]
+<speak who="MAN"><info>ON TV</info>
 You are crazy, you built it with same 
-sex animal couples!
+sex animal couples!</speak>
 
-<character>GAY SAILOR </character>[ON TV]
+<speak who="GAY SAILOR"><info>ON TV</info>
 Hey! There are parts of the Bible I 
-like and parts I don't like.
+like and parts I don't like.</speak>
 
-[The shot changes to a live windmill landscape.]
+<info>The shot changes to a live windmill landscape.</info>
 
-<character>MORBO </character>[ON TV]
+<speak who="MORBO"><info>ON TV</info>
 Direct your attention now to the African 
 turtles seen here migrating to cooler 
-homes in Holland.
+homes in Holland.</speak>
 
-[A turtle rolls onto the back of its shell and can't get up.]
+<info>A turtle rolls onto the back of its shell and can't get up.</info>
 
-<character>BENDER </character>(<character>CRYING</character>)
-That poor turtle!
+<speak who="BENDER"><info>(<character>CRYING</character>)</info>
+That poor turtle!</speak>
 
-<character>FRY</character>
-Bender? Are you crying?
+<speak who="FRY">
+Bender? Are you crying?</speak>
 
-<character>BENDER </character>(<character>CRYING</character>)
-Uh no! Never!
+<speak who="BENDER"><info>(<character>CRYING</character>)</info>
+Uh no! Never!</speak>
 
-[He wipes his eyes with windscreen wipers.]
+<info>He wipes his eyes with windscreen wipers.</info>
 
-<character>MORBO </character>[ON TV]
+<speak who="MORBO"><info>ON TV</info>
 Morbo wishes these storward nomads peace 
-among the Dutch tulips!
+among the Dutch tulips!</speak>
 
-<character>LINDA </character>[ON TV]
+<speak who="LINDA"><info>ON TV</info>
 I'm sure those windmills will keep them 
-cool.
+cool.</speak>
 
-[Outside Planet Express. The crew sit on some steps. The temperature 
-reaches 120 Farenheit.]
+<info>Outside Planet Express. The crew sit on some steps. The temperature 
+reaches 120 Farenheit.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well everybody, I just saved a turtle, 
-what have you done with your lives?
+what have you done with your lives?</speak>
 
-<character>HERMES</character>
-You went all the way to Holland already?
+<speak who="HERMES">
+You went all the way to Holland already?</speak>
 
-[Bender points at his feet. He is wearing clogs. He dances.]
+<info>Bender points at his feet. He is wearing clogs. He dances.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender a turtle isn't yourself. Why 
-do you care about it?
+do you care about it?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Because I also care deeply of things 
 that remind me of myself. Like poor 
-little Shelly here.
+little Shelly here.</speak>
 
-[He strokes the turtle.]
+<info>He strokes the turtle.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 What could you possibly have in common 
-with this walking soup mix?
+with this walking soup mix?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 For one thing, we both have a tough 
 outer shell.  But lead a rich, inner 
-life. Also...well you know...
+life. Also...well you know...</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You're both alcoholic, whore-mongering, 
-chain smoking gamblers?
+chain smoking gamblers?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 No! Its just...neither of us can get 
-up when we get knocked on our back.
+up when we get knocked on our back.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 What? I've seen you get up off your 
-back tons of times.
+back tons of times.</speak>
 
-<character>BENDER</character>
-Those times I was slightly on my side.
+<speak who="BENDER">
+Those times I was slightly on my side.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Interesting. Maybe we should test this 
-erectile disfunction of yours Bender.
+erectile disfunction of yours Bender.</speak>
 
-[Everyone gets up and moves towards Bender.]
+<info>Everyone gets up and moves towards Bender.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Uh, that's not necessary, really! I 
-think I hear my factory recalling me.
+think I hear my factory recalling me.</speak>
 
-[Amy crouches behind Bender and he trips over her and he and 
-the turtle land on their backs.]
+<info>Amy crouches behind Bender and he trips over her and he and 
+the turtle land on their backs.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh! That's what I get for sharing my 
-vulnerability with you people.
+vulnerability with you people.</speak>
 
-[A Civil Defence van drives past.]
+<info>A Civil Defence van drives past.</info>
 
-<character>VAN</character>
+<speak who="VAN">
 Calling all scientists, calling all 
 scientists. Be advised there will be 
 a worldwide conference on global warming 
-in Kyoto, Japan.
+in Kyoto, Japan.</speak>
 
-[A man runs to the van.]
+<info>A man runs to the van.</info>
 
-<character>MAN</character>
-I've got a degree in homeopathic medicine!
+<speak who="MAN">
+I've got a degree in homeopathic medicine!</speak>
 
-<character>VAN</character>
-You've got a degree in baloney!
+<speak who="VAN">
+You've got a degree in baloney!</speak>
 
-[The van sprays the scientist with a water cannon.]
+<info>The van sprays the scientist with a water cannon.</info>
 
-<character>AMY</character>
-Professor Farnsworth, you're a scientist!
+<speak who="AMY">
+Professor Farnsworth, you're a scientist!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Forget it, I'm not going! I have my 
-reasons! Shut up all of you!
+reasons! Shut up all of you!</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Strange. You haven't acted suspicious 
 since I found those "ape bones" in the 
-basement.
+basement.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 My hip hurts! I'm in the middle of cooking 
 a turkey! I have warranty cards to fill 
 out! I'm not just making excuses! Alright 
-I'll go!
+I'll go!</speak>
 
-[Outside Conference Centre. Scientists from all over the world 
+<info>Outside Conference Centre. Scientists from all over the world 
 arrive. Photographers take photos of them and fans in the crowd 
 wave papers for them to sign. Joan Rivers' Head is commentating 
-the star studded event.]
+the star studded event.</info>
 
-<character>CROWD</character>
-Oh God I can't believe it! I love you!
+<speak who="CROWD">
+Oh God I can't believe it! I love you!</speak>
 
-[Farnsworth steps out of a limo.]
+<info>Farnsworth steps out of a limo.</info>
 
-<character>RIVERS</character>
+<speak who="RIVERS">
 Oh oh! It's Hubert Farnsworth! He's 
 looking fab in a standard white lab 
 coat and dark slacks! His wristwatch 
-is Casio.
+is Casio.</speak>
 
-[Cut to: Conference Centre. The scientists are gathered in a 
-huge room. The Civil Defence van pulls up on the stage.]
+<info>Cut to: Conference Centre. The scientists are gathered in a 
+huge room. The Civil Defence van pulls up on the stage.</info>
 
-<character>VAN</character>
+<speak who="VAN">
 Thank you all for coming! It is my pleasure 
 to introduce the host of the Kyoto Global 
 Warming Convention, the inventor of 
 the environment and First Emperor of 
-the Moon - Al Gore!
+the Moon - Al Gore!</speak>
 
-[Al Gore's Head in a jar rises up from the middle of the stage.]
+<info>Al Gore's Head in a jar rises up from the middle of the stage.</info>
 
-<character>GORE</character>
-I have ridden the mighty Moon Worm.
+<speak who="GORE">
+I have ridden the mighty Moon Worm.</speak>
 
-[The audience goes wild.]
+<info>The audience goes wild.</info>
 
-<character>FRY</character>
-Good for him!
+<speak who="FRY">
+Good for him!</speak>
 
-<character>GORE</character>
+<speak who="GORE">
 My fellow Earthicans, as I discuss in 
 my book, Earth In The Balance and the 
 much more popular Harry Potter And The 
 Balance Of Earth we need to defend our 
 planet against pollution. As well as 
-dark wizards.
+dark wizards.</speak>
 
-[The audience cheers and a dark wizard who looks like Tim The 
-Enchanter from Monty Python And The Holy Grail sulks.]
+<info>The audience cheers and a dark wizard who looks like Tim The 
+Enchanter from Monty Python And The Holy Grail sulks.</info>
 
-<character>DARK WIZARD</character>
-Sure! Blame the wizards!
+<speak who="DARK WIZARD">
+Sure! Blame the wizards!</speak>
 
-<character>GORE</character>
+<speak who="GORE">
 That's why I'm offering a bag of Moon 
 Saphires to the scientist who can solve 
 this problem once and for all.  Lovely 
-aren't they?
+aren't they?</speak>
 
-<character>DARK WIZARD</character>
+<speak who="DARK WIZARD">
 Sapphires?  With those I could open 
-the Gate Of Kerash!
+the Gate Of Kerash!</speak>
 
-<character>GORE</character>
-First up is Professor Ogden Wernstrom.
+<speak who="GORE">
+First up is Professor Ogden Wernstrom.</speak>
 
-[Wernstrom walks onto the stage.]
+<info>Wernstrom walks onto the stage.</info>
 
-<character>FARNSWORTH</character>
-Wernstrom!
+<speak who="FARNSWORTH">
+Wernstrom!</speak>
 
-<character>WERNSTROM</character>
+<speak who="WERNSTROM">
 Ahem. Ladies and Gentlemen. I have placed 
 in orbit a giant mirror that will reflect 
 40% of the sun's rays. Thus cooling 
-Earth. Observe.
+Earth. Observe.</speak>
 
-[He presses a button and the roof opens up. The audience is blinded 
-by the sunlight. Fry starts to pant.]
+<info>He presses a button and the roof opens up. The audience is blinded 
+by the sunlight. Fry starts to pant.</info>
 
-[Cut to: Space Mirror. The mirror moves around and starts to 
-reflect the rays.]
+<info>Cut to: Space Mirror. The mirror moves around and starts to 
+reflect the rays.</info>
 
-[Cut to: Conference Centre. The room falls into shadow and Wernstrom 
-dusts off his hands.]
+<info>Cut to: Conference Centre. The room falls into shadow and Wernstrom 
+dusts off his hands.</info>
 
-<character>WERNSTROM</character>
-Problem solved.
+<speak who="WERNSTROM">
+Problem solved.</speak>
 
-[He laughs.]
+<info>He laughs.</info>
 
-[Cut to: Space Mirror. A piece of debris hits the mirror. It 
+<info>Cut to: Space Mirror. A piece of debris hits the mirror. It 
 starts to spin and reflects more sunlight onto the Earth in a 
-concentrated beam.]
+concentrated beam.</info>
 
-[Cut to: City Street. A man shields his eyes.]
+<info>Cut to: City Street. A man shields his eyes.</info>
 
-<character>MAN</character>
-Ooo, that's a little bright.
+<speak who="MAN">
+Ooo, that's a little bright.</speak>
 
-[The sunlight scorches the street and blows the man up.]
+<info>The sunlight scorches the street and blows the man up.</info>
 
-[Cut to: Conference Centre. The sunbeam cuts its way through 
+<info>Cut to: Conference Centre. The sunbeam cuts its way through 
 the building. The audience run around panicking. Gore continues 
-talking.]
+talking.</info>
 
-<character>GORE</character>
-Alright, What else we got?
+<speak who="GORE">
+Alright, What else we got?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Professor, you're a Professor. You must 
-have some ideas.
+have some ideas.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Absolutely not! I won't speak! I've 
-got nothing to hide!
+got nothing to hide!</speak>
 
-<character>GORE</character>
-Our next speaker is -
+<speak who="GORE">
+Our next speaker is -</speak>
 
-<character>FARNSWORTH</character>
-I demand the floor!
+<speak who="FARNSWORTH">
+I demand the floor!</speak>
 
-<character>GORE</character>
-Yes, it's your turn to speak.
+<speak who="GORE">
+Yes, it's your turn to speak.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Well nuts to me. I'm taking the stage! 
 I know the source of the greenhouse 
 gases. But in my shame I've kept it 
 secret for 75 long years. Ohhh, it haunts 
-my memory still.
+my memory still.</speak>
 
-[He holds a ray gun up to his head.]
+<info>He holds a ray gun up to his head.</info>
 
-<character>FRY</character>
-Professor no, don't do it!
+<speak who="FRY">
+Professor no, don't do it!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Don't do what? Don't use this memory 
 ray so I can remember what happened 
-back then?
+back then?</speak>
 
-[He shoots himself. A blue glow envelopes his head.]
+<info>He shoots himself. A blue glow envelopes his head.</info>
 
-[Flashback - 75 years ago.]
+<info>Flashback - 75 years ago.</info>
 
-[Mom's Friendly Robot Company: Farnsworth's Lab.]
+<info>Mom's Friendly Robot Company: Farnsworth's Lab.</info>
 
-[A prototype C3PO-like robot wakes up on the table. It looks 
-around and sees Farnsworth.]
+<info>A prototype C3PO-like robot wakes up on the table. It looks 
+around and sees Farnsworth.</info>
 
-<character>PROTOTYPE</character>
+<speak who="PROTOTYPE">
 Oh dear. Might I favour master with 
-a tender kiss on the forehead?
+a tender kiss on the forehead?</speak>
 
-[It kisses Farnsworth.]
+<info>It kisses Farnsworth.</info>
 
-<character>FARNSWORTH</character>
-Oh dear, I've failed again.
+<speak who="FARNSWORTH">
+Oh dear, I've failed again.</speak>
 
-[He presses a button and the robot is crushed � la the Terminator 
-in The Terminator.]
+<info>He presses a button and the robot is crushed � la the Terminator 
+in The Terminator.</info>
 
-<character>PROTOTYPE</character>
-Oh dear, oh dear, oh dear.
+<speak who="PROTOTYPE">
+Oh dear, oh dear, oh dear.</speak>
 
-[Mom's Office. Mom is bashing Farnsworth's head on her desk.]
+<info>Mom's Office. Mom is bashing Farnsworth's head on her desk.</info>
 
-<character>FARNSWORTH</character>
-Ooo, ouch, stop!
+<speak who="FARNSWORTH">
+Ooo, ouch, stop!</speak>
 
-[Time Lapse. Farnsworth finishes making the first working robot.]
+<info>Time Lapse. Farnsworth finishes making the first working robot.</info>
 
-[The robot wakes up, drinks beer and belches fire.]
+<info>The robot wakes up, drinks beer and belches fire.</info>
 
-<character>MOM</character>
-What was that?
+<speak who="MOM">
+What was that?</speak>
 
-<character>FARNSWORTH</character>
-A flaming burp.
+<speak who="FARNSWORTH">
+A flaming burp.</speak>
 
-<character>MOM</character>
-Does it always do that?
+<speak who="MOM">
+Does it always do that?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Its not always a burp. We still have 
 one problem though. This robot will 
-never meet emission standards.
+never meet emission standards.</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 Crap spackle!  We'll just call it a 
 sport utility robot and classify it 
-as a light truck!
+as a light truck!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Well...I suppose the environment can 
-take one more for the team.
+take one more for the team.</speak>
 
-[He starts to clean the robot.]
+<info>He starts to clean the robot.</info>
 
-[Mom lies on a table.]
+<info>Mom lies on a table.</info>
 
-<character>MOM</character>
-Take me now you stud!
+<speak who="MOM">
+Take me now you stud!</speak>
 
-[He climbs on and they both...um. The robot carries on drinking.]
+<info>He climbs on and they both...um. The robot carries on drinking.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-<character>FARNSWORTH</character>
-Oh this is all my fault!
+<speak who="FARNSWORTH">
+Oh this is all my fault!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That's awful Professor. Especially the 
-making out part.
+making out part.</speak>
 
-<character>GORE</character>
-Yeah, I didn't need to hear that.
+<speak who="GORE">
+Yeah, I didn't need to hear that.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 All modern robots descend from my original 
 smog blasting designs. And that's the 
-cause of global warming today.
+cause of global warming today.</speak>
 
-<character>WERNSTROM</character>
+<speak who="WERNSTROM">
 Uh, so the robots are to blame. As I 
 suspected.  We are left with only one 
 possible course of action. Grim though 
-it be.
+it be.</speak>
 
-<character>BENDER</character>
-I got a good feeling about this!
+<speak who="BENDER">
+I got a good feeling about this!</speak>
 
-<character>WERNSTROM</character>
+<speak who="WERNSTROM">
 We must immediately and permanently 
 shut down, dismantle and destroy all 
-robots!
+robots!</speak>
 
-<character>BENDER</character>
-No!
+<speak who="BENDER">
+No!</speak>
 
-<character>FARNSWORTH</character>
-Wait, surely there's a better -
+<speak who="FARNSWORTH">
+Wait, surely there's a better -</speak>
 
-[The Civil Defence Van interrupts him.]
+<info>The Civil Defence Van interrupts him.</info>
 
-<character>VAN</character>
-The conference is over.
+<speak who="VAN">
+The conference is over.</speak>
 
-<character>GORE</character>
+<speak who="GORE">
 I must go now, to help collect cans 
-on Jupiter. Peace out ya'll!
+on Jupiter. Peace out ya'll!</speak>
 
-[His jar sprouts rockets and he blasts off.]
+<info>His jar sprouts rockets and he blasts off.</info>
 
-<character>AUDIENCE </character>(<character>CHANTING</character>)
-Destroy all robots! Destroy all robots!
+<speak who="AUDIENCE"><info>(<character>CHANTING</character>)</info>
+Destroy all robots! Destroy all robots!</speak>
 
-<character>AMY</character>
-Poor Bender.
+<speak who="AMY">
+Poor Bender.</speak>
 
-<character>FRY</character>
-Be brave my friend.
+<speak who="FRY">
+Be brave my friend.</speak>
 
-[The turtle goes into its shell. So does Bender.]
+<info>The turtle goes into its shell. So does Bender.</info>
 
-[Planet Express: Lounge. Bender is still in his body. The crew 
-are trying to coax him out.]
+<info>Planet Express: Lounge. Bender is still in his body. The crew 
+are trying to coax him out.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Come on. You've got to come out of your 
 chest sometime.  Would you do it for 
-a Bender snack?
+a Bender snack?</speak>
 
-[She opens it and tempts him with it. He reaches out to grab 
-it but the crew all grab his arm.]
+<info>She opens it and tempts him with it. He reaches out to grab 
+it but the crew all grab his arm.</info>
 
-<character>FRY</character>
-Ah ha!
+<speak who="FRY">
+Ah ha!</speak>
 
-<character>LEELA</character>
-Gotcha!
+<speak who="LEELA">
+Gotcha!</speak>
 
-<character>BENDER </character>[<character>FROM INSIDE</character>]
+<speak who="BENDER"><info><character>FROM INSIDE</character></info>
 Let me go! I don't even want the stupid 
 beer!  Yes! You tried to trick me into 
 coming out of my chest. But who has 
-the beer now?  I've got mail.
+the beer now?  I've got mail.</speak>
 
-[He reaches into his chest cabinet and pulls out a card with 
-the words "It's A Party" on it.]
+<info>He reaches into his chest cabinet and pulls out a card with 
+the words "It's A Party" on it.</info>
 
-<character>AMY</character>
-Ooo, it's a party. Apparently.
+<speak who="AMY">
+Ooo, it's a party. Apparently.</speak>
 
-[Nixon's head appears in the card.]
+<info>Nixon's head appears in the card.</info>
 
-<character>NIXON </character>[IN <character>CARD</character>]
+<speak who="NIXON"><info>IN <character>CARD</character></info>
 Do you like to party? To boogie down? 
 Well I'm throwing an all night beach 
 raver for my robot pals. It all goes 
 down Saturday on the isolated Galapogas 
 Islands where there will be no escape 
-- from the fun! All robots must attend!
+- from the fun! All robots must attend!</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Strange. Why would Nixon, an awkward, 
 uncomfortabble man suddenly throw a 
 party? One of the most social events 
 imaginable. It's a trap is why! They're 
 going to deactivate all the robots! 
-I don't hear any gasping.
+I don't hear any gasping.</speak>
 
-<character>LEELA</character>
-We all figured that out.
+<speak who="LEELA">
+We all figured that out.</speak>
 
-<character>ZOIDBERG</character>
-Ohh!
+<speak who="ZOIDBERG">
+Ohh!</speak>
 
-<character>BENDER</character>
-Well, I'm off.
+<speak who="BENDER">
+Well, I'm off.</speak>
 
-[Fry blocks the door.]
+<info>Fry blocks the door.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait. We could hide you! We'll pile 
-fruit on you and claim you're a bowl.
+fruit on you and claim you're a bowl.</speak>
 
-<character>BENDER</character>
-No. I'm going to the party.
+<speak who="BENDER">
+No. I'm going to the party.</speak>
 
-[Fry puts a banana skin on Bender's head.]
+<info>Fry puts a banana skin on Bender's head.</info>
 
-<character>FRY</character>
-I won't let you.
+<speak who="FRY">
+I won't let you.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Fry, as you know, there are lots of 
 things I'm willing to kill for. Jewels, 
 vengence, Father O'Mally's weedwhacker. 
 But at long last I've found something 
 I'm willing to die for. This mindless 
-turtle.
+turtle.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Bender, this world isn't good enough 
-for you.
+for you.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Not even close. Goodbye everybody. Don't 
-touch my stuff after I'm dead!  (shouting) 
-It's booby trapped.
+touch my stuff after I'm dead!  <info>(shouting)</info> 
+It's booby trapped.</speak>
 
-[Robot Party. The robots party on a ship. Then they cross the 
+<info>Robot Party. The robots party on a ship. Then they cross the 
 desert on camels. Then they swing through a jungle. Then they 
 go to a fair. Then they party on the Galapogas islands. Bender 
-looks at his turtle.]
+looks at his turtle.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Poor guy. Maybe you'd feel better if 
 I had a drink.  Crummy kegg it's completely 
-ta -  Oh you're a robot.
+ta -  Oh you're a robot.</speak>
 
-<character>KEGG</character>
-Don't stop!
+<speak who="KEGG">
+Don't stop!</speak>
 
-<character>BENDER</character>
-Ew!
+<speak who="BENDER">
+Ew!</speak>
 
-[Nixon takes the stage.]
+<info>Nixon takes the stage.</info>
 
-<character>NIXON</character>
+<speak who="NIXON">
 Attention happenin' robots. Who's got 
 what it takes to party with Nixon?  
 You fellas enjoy yourselves for the 
@@ -736,111 +736,111 @@ the island, uh for at least two hours!
 I'm going out to pick up some smokes. 
 Uh really good smokes! Two hours.  OK 
 headless body of Agnoo, lets blow this 
-joint!
+joint!</speak>
 
-[The body growls and carries Nixon to a helicopter. Bender watches 
-the helicopter fly away.]
+<info>The body growls and carries Nixon to a helicopter. Bender watches 
+the helicopter fly away.</info>
 
-<character>BENDER</character>
-Nah, I'm not really in the -
+<speak who="BENDER">
+Nah, I'm not really in the -</speak>
 
-[She shakes him around. Bender panics.]
+<info>She shakes him around. Bender panics.</info>
 
-[Nixon's Helicopter. It is now flying through space towards Wernstrom's 
-mirror.]
+<info>Nixon's Helicopter. It is now flying through space towards Wernstrom's 
+mirror.</info>
 
-<character>WERNSTROM</character>
+<speak who="WERNSTROM">
 Per your orders I have modified my mirror 
 to fire a colossal electromagnetic pulse 
 at the Galapogas. Every robot will be 
 instantly and painfully terminated. 
-Now for your part of the bargain.
+Now for your part of the bargain.</speak>
 
-<character>NIXON</character>
+<speak who="NIXON">
 Oh, very well. Agnoo, you belong to 
-Wernstrom now.
+Wernstrom now.</speak>
 
-[Agnoo growls.]
+<info>Agnoo growls.</info>
 
-[Galapogas Islands. Bender is talking to his turtle.]
+<info>Galapogas Islands. Bender is talking to his turtle.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I have to say goodbye now. There ain't 
-not turtles where daddy's a-going. (whispering) 
+not turtles where daddy's a-going. <info>(whispering)</info> 
 Don't tell anybody but Nixon's about 
-to shut all robots off and -
+to shut all robots off and -</speak>
 
-[A boom mic robot hangs over Bender.]
+<info>A boom mic robot hangs over Bender.</info>
 
-<character>MIC</character>
-What??
+<speak who="MIC">
+What??</speak>
 
-[There is bedlam with the robots.]
+<info>There is bedlam with the robots.</info>
 
-<character>ROBOT #1 </character>(<character>SHOUTING</character>)
-We're gonna die!
+<speak who="ROBOT #1"><info>(<character>SHOUTING</character>)</info>
+We're gonna die!</speak>
 
-<character>ROBOT #2 </character>(<character>SHOUTING</character>)
-Nixon's not bringing the smokes!
+<speak who="ROBOT #2"><info>(<character>SHOUTING</character>)</info>
+Nixon's not bringing the smokes!</speak>
 
-[Bender takes control.]
+<info>Bender takes control.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Shut up and pay attention to me! Bender. 
 Look, I love life and its pleasures 
 as much as anyone here, except perhaps 
 you Hedonismbot.  But we need to be 
-shut off! Especially you Hendonismbot!
+shut off! Especially you Hendonismbot!</speak>
 
-<character>HEDONISMBOT</character>
-I apologise for nothing!
+<speak who="HEDONISMBOT">
+I apologise for nothing!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 We pollute too much. We're destroying 
-the world and killing the turtles.
+the world and killing the turtles.</speak>
 
-<character>PREACHERBOT</character>
-To hell with the turtles!
+<speak who="PREACHERBOT">
+To hell with the turtles!</speak>
 
-<character>BENDER</character>
-No one insults the turtles!
+<speak who="BENDER">
+No one insults the turtles!</speak>
 
-[He punches Preacherbot.]
+<info>He punches Preacherbot.</info>
 
-<character>PREACHERBOT</character>
-Oh mercy.
+<speak who="PREACHERBOT">
+Oh mercy.</speak>
 
-[He pulls out a knife and he and Bender fight.]
+<info>He pulls out a knife and he and Bender fight.</info>
 
-<character>HEDONISMBOT</character>
-Let the games begin!
+<speak who="HEDONISMBOT">
+Let the games begin!</speak>
 
-[It chuckles. The Planet Express ship flies in and lands. Fry 
+<info>It chuckles. The Planet Express ship flies in and lands. Fry 
 and Leela carry the Professor out and stand him in front of the 
-microphone on the stage.]
+microphone on the stage.</info>
 
-<character>FARNSWORTH</character>
-Everyone listen!
+<speak who="FARNSWORTH">
+Everyone listen!</speak>
 
-[The robots stop fighting. Bender punches Preacherbot again. 
-He falls over.]
+<info>The robots stop fighting. Bender punches Preacherbot again. 
+He falls over.</info>
 
-<character>PREACHERBOT</character>
-Aw damn!
+<speak who="PREACHERBOT">
+Aw damn!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I've devised a way to save you and to 
 stop global warming at the same time! 
 Granted you're all blasting out greenhouse 
-gases.
+gases.</speak>
 
-<character>BENDER</character>
-You're one to talk!
+<speak who="BENDER">
+You're one to talk!</speak>
 
-[Preacherbot hits him with a chair. He falls over onto his back. 
-He tries to get up but can't.]
+<info>Preacherbot hits him with a chair. He falls over onto his back. 
+He tries to get up but can't.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 But we can use those very gases to save 
 the planet. If you all vent your exhaust 
 directly upward in one burst it should 
@@ -849,84 +849,84 @@ thus cooling it.  By my calculations
 we'll need the full force of every last 
 robot. So quickly, everyone point your 
 exhaust vents straight upwards.  Now 
-vent! Vent like the wind!  Harder! Harder!
+vent! Vent like the wind!  Harder! Harder!</speak>
 
-<character>FRY</character>
-Why isn't this working?!
+<speak who="FRY">
+Why isn't this working?!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Some lazy or polite robot is holding 
-it in.
+it in.</speak>
 
-[Bender is still on his back, unable to vent.]
+<info>Bender is still on his back, unable to vent.</info>
 
-<character>BENDER</character>
-Help! Help!!
+<speak who="BENDER">
+Help! Help!!</speak>
 
-[Cut to: Nixon's Helicopter. Wernstrom is turning the mirror 
-towards the robots.]
+<info>Cut to: Nixon's Helicopter. Wernstrom is turning the mirror 
+towards the robots.</info>
 
-[Cut to: Galapogas Islands. The robots continue to vent but to 
-no avail.]
+<info>Cut to: Galapogas Islands. The robots continue to vent but to 
+no avail.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 A billion robot lives are about to be 
 extinguished! Oh the Jedi's are going 
-to feel this one!
+to feel this one!</speak>
 
-[Bender and the turtle are still on their backs.]
+<info>Bender and the turtle are still on their backs.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm sorry buddy. At least we'll die 
 on our backs, helpless.  Huh? What the 
 hell are you doing?  Hey are you trying 
 to make me look bad?  Ah ha! I'm even 
 greater than I thought I was! And now 
-to fullfill my destiny.
+to fullfill my destiny.</speak>
 
-[He stands on his hands and vents. The flame grows bigger and 
-the Earth moves.]
+<info>He stands on his hands and vents. The flame grows bigger and 
+the Earth moves.</info>
 
-[Nixon's Helicopter.]
+<info>Nixon's Helicopter.</info>
 
-<character>NIXON</character>
-Fire!!  What the??
+<speak who="NIXON">
+Fire!!  What the??</speak>
 
-<character>WERNSTROM</character>
-We missed.
+<speak who="WERNSTROM">
+We missed.</speak>
 
-[Agnoo growls.]
+<info>Agnoo growls.</info>
 
-[Galapogas Islands. The skies have cleared and the crew are standing 
-on the stage. Nixon is with them.]
+<info>Galapogas Islands. The skies have cleared and the crew are standing 
+on the stage. Nixon is with them.</info>
 
-<character>NIXON</character>
+<speak who="NIXON">
 Professor, for saving the Earth and 
 foiling me, I proudly, yet angrily, 
 present you with Earth's new highest 
-honour: The Polluting Medal Of Pollution.
+honour: The Polluting Medal Of Pollution.</speak>
 
-[He hangs the medal around Farnsworth. The industrial chimneys 
-on the medal blow smoke in Farnsworth's face making him cough.]
+<info>He hangs the medal around Farnsworth. The industrial chimneys 
+on the medal blow smoke in Farnsworth's face making him cough.</info>
 
-<character>FARNSWORTH</character>
-Thank you. I deserve this!
+<speak who="FARNSWORTH">
+Thank you. I deserve this!</speak>
 
-[The robots cheer.]
+<info>The robots cheer.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey Professor! Now that the Earth's 
 orbit is further from the sun won't 
-that make the year longer?
+that make the year longer?</speak>
 
-<character>FARNSWORTH</character>
-Why yes! One week longer to be exact.
+<speak who="FARNSWORTH">
+Why yes! One week longer to be exact.</speak>
 
-<character>NIXON</character>
+<speak who="NIXON">
 In that case I hereby declare it Robot 
-Party Week!
+Party Week!</speak>
 
-[The robots cheer and dance to Buster Poindexter and his Banshees 
-Of Blue's Hot Hot Hot. Then they vent.]
+<info>The robots cheer and dance to Buster Poindexter and his Banshees 
+Of Blue's Hot Hot Hot. Then they vent.</info>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

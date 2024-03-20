@@ -1,161 +1,161 @@
 <xml>
-<episodeInfo><character>FUTURAMA</character>
+<episodeInfo>FUTURAMA
 
 Episode 408
 
-<title><character>GODFELLAS</character></title>
+<title>GODFELLAS</title>
 
 <author>Ken Keeler</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Please Turn Off All Cell Phones And 
-Tricorders.]
+<info>Opening Credits. Caption: Please Turn Off All Cell Phones And 
+Tricorders.</info>
 
-[Ship's Cockpit. The ship streaks away from Earth and Leela casually 
+<info>Ship's Cockpit. The ship streaks away from Earth and Leela casually 
 hums to herself whilst Fry monitors the controls. The ship suddenly 
 shakes and the two are thrown to the floor. An alarm wails and 
-two ships fly past and prepare to turn around. Leela gasps.]
+two ships fly past and prepare to turn around. Leela gasps.</info>
 
-<character>LEELA</character>
-Space pirates!
+<speak who="LEELA">
+Space pirates!</speak>
 
-<character>FRY</character>
-Space pirates?
+<speak who="FRY">
+Space pirates?</speak>
 
-<character>LEELA</character>
-You know, pirates - but in space.
+<speak who="LEELA">
+You know, pirates - but in space.</speak>
 
-[The two ships look like old fashioned pirate ships and even 
+<info>The two ships look like old fashioned pirate ships and even 
 have sails. They circle the Planet Express ship and fire cannon 
-balls at it causing dents along the hull.]
+balls at it causing dents along the hull.</info>
 
-[Cut to: Ship's Cockpit. A pirate appears on the screen.]
+<info>Cut to: Ship's Cockpit. A pirate appears on the screen.</info>
 
-<character>PIRATE </character>[ON <character>SCREEN</character>]
-Avast mateys!
+<speak who="PIRATE"><info>ON <character>SCREEN</character></info>
+Avast mateys!</speak>
 
-[Cut to: Pirate Ship. The pirate has three parrots along his 
-shoulder and has four legs, three of them wooden.]
+<info>Cut to: Pirate Ship. The pirate has three parrots along his 
+shoulder and has four legs, three of them wooden.</info>
 
-<character>PIRATE</character>
+<speak who="PIRATE">
 Electronically transfer your space doubloons 
-afore I send thee to Davey Jarg's locker!
+afore I send thee to Davey Jarg's locker!</speak>
 
-[He lights a cannon and sets it off.]
+<info>He lights a cannon and sets it off.</info>
 
-[Cut to: Fry and Bender's Quarters. A dent appears in the wall 
-next to Bender's hammock and he wakes up.]
+<info>Cut to: Fry and Bender's Quarters. A dent appears in the wall 
+next to Bender's hammock and he wakes up.</info>
 
-<character>BENDER</character>
-(shouting) Hey! Keep it down you kids! 
-I'm trying to take a nap!
+<speak who="BENDER">
+<info>(shouting)</info> Hey! Keep it down you kids! 
+I'm trying to take a nap!</speak>
 
-[He reaches over to a shelf and picks up a box of ears plugs 
+<info>He reaches over to a shelf and picks up a box of ears plugs 
 and takes two out. Then he reaches over to another box, pulls 
 out two ears, attaches them to his head and puts the ear plugs 
-in.]
+in.</info>
 
-[Cut to: Ship's Cockpit. Fry lines up an eyesight to one of the 
-pirate ships.]
+<info>Cut to: Ship's Cockpit. Fry lines up an eyesight to one of the 
+pirate ships.</info>
 
-<character>FRY</character>
-Come on, come on.
+<speak who="FRY">
+Come on, come on.</speak>
 
-[The eyesight locks on to the ship and Fry fires. The controls 
+<info>The eyesight locks on to the ship and Fry fires. The controls 
 look just like an old arcade game. Outside one of the pirate 
-ships explodes. Fry watches it.]
+ships explodes. Fry watches it.</info>
 
-[Cut to: Ship's Torpedo Room. Bender walks towards tube #3 and 
-opens it.]
+<info>Cut to: Ship's Torpedo Room. Bender walks towards tube #3 and 
+opens it.</info>
 
-<character>BENDER</character>
-(muttering) ...make Bender take a nap 
-in a tube.  (sexfully) Come back when 
-I've had some sleep baby!
+<speak who="BENDER">
+<info>(muttering)</info> ...make Bender take a nap 
+in a tube.  <info>(sexfully)</info> Come back when 
+I've had some sleep baby!</speak>
 
-[He closes the tube door.]
+<info>He closes the tube door.</info>
 
-[The pirate ship chases the Planet Express ship and the two ships 
+<info>The pirate ship chases the Planet Express ship and the two ships 
 exchange fire. Leela steers the ship around and manages to get 
-behind the pirate ship.]
+behind the pirate ship.</info>
 
-[Cut to: Ship's Cockpit.]
+<info>Cut to: Ship's Cockpit.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry to battlestations. Fire torpedo 
-number three.
+number three.</speak>
 
-<character>FRY</character>
-Firing torpedo number three!
+<speak who="FRY">
+Firing torpedo number three!</speak>
 
-[He flicks a switch, turns a knob, presses a button and selects 
-3 on an old fashioned telelphone dialier.]
+<info>He flicks a switch, turns a knob, presses a button and selects 
+3 on an old fashioned telelphone dialier.</info>
 
-[Cut to: Torpedo Tube #3. Bender wakes up.]
+<info>Cut to: Torpedo Tube #3. Bender wakes up.</info>
 
-<character>BENDER</character>
-Huh? What?
+<speak who="BENDER">
+Huh? What?</speak>
 
-[He races forward with flaming feet.]
+<info>He races forward with flaming feet.</info>
 
-[Cut to: Outside Ship. He flies out of the torpedo tube screaming.]
+<info>Cut to: Outside Ship. He flies out of the torpedo tube screaming.</info>
 
-[Cut to: Ship's Cockpit. Fry and Leela watch Bender through the 
-windscreen.]
+<info>Cut to: Ship's Cockpit. Fry and Leela watch Bender through the 
+windscreen.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's not torpedo three. That's not 
-torpedo three at all.
+torpedo three at all.</speak>
 
-[Cut to: Outside Ship. Bender screams.]
+<info>Cut to: Outside Ship. Bender screams.</info>
 
-<character>BENDER</character>
-Damn you Fry and Lee......la!
+<speak who="BENDER">
+Damn you Fry and Lee......la!</speak>
 
-[The pirate ship starts to spin widly out of control. The pirate 
-looks through the window sadly.]
+<info>The pirate ship starts to spin widly out of control. The pirate 
+looks through the window sadly.</info>
 
-<character>PIRATE </character>[<character>FROM SHIP</character>]
+<speak who="PIRATE"><info><character>FROM SHIP</character></info>
 Too late do I realise that my children 
-are my only real treasures.
+are my only real treasures.</speak>
 
-[The ship explodes. Bender carries on flying.]
+<info>The ship explodes. Bender carries on flying.</info>
 
-<character>BENDER</character>
-(shouting) Help! Mechanical man overboard!
+<speak who="BENDER">
+<info>(shouting)</info> Help! Mechanical man overboard!</speak>
 
-[Cut to: Ship's Cockpit.]
+<info>Cut to: Ship's Cockpit.</info>
 
-<character>FRY</character>
-Go after him Leela!
+<speak who="FRY">
+Go after him Leela!</speak>
 
-[Leela pushes the throttle forward. The ship's engines struggle 
-but they go no faster.]
+<info>Leela pushes the throttle forward. The ship's engines struggle 
+but they go no faster.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's no use. We were going full speed 
 when we fired him so he's going even 
-faster than that.
+faster than that.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You mean we can never catch up to him? 
 Not even if we rub the engine with cheetah 
-blood?
+blood?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I don't know how to say this Fry. But 
-Bender is doomed to drift through space...forever.
+Bender is doomed to drift through space...forever.</speak>
 
-[Fry looks ahead through the windscreen.]
+<info>Fry looks ahead through the windscreen.</info>
 
-<character>FRY</character>
-(solemn) He always wanted to drift forever. 
-But through the American Southwest.
+<speak who="FRY">
+<info>(solemn)</info> He always wanted to drift forever. 
+But through the American Southwest.</speak>
 
-[Bender continues flying through space still holding the bag 
-of swag.]
+<info>Bender continues flying through space still holding the bag 
+of swag.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm going too fast. I've gotta lose 
 momentum.  Ohh. I'm gonna spend eternity 
 alone with barely any swag.  Ooo! Hey 
@@ -169,15 +169,15 @@ boned. Ask not for whom the bone bones.
 It bones for thee. The only thing that 
 keeps me sane is the thought that I 
 have all eternity in which to perfect 
-my art.  Ohh!  Damn you!
+my art.  Ohh!  Damn you!</speak>
 
-[He picks up the candelabra and uses it to smash up the piano.]
+<info>He picks up the candelabra and uses it to smash up the piano.</info>
 
-[Time Lapse. Bender scratches something onto his door. It is 
+<info>Time Lapse. Bender scratches something onto his door. It is 
 something similar to the sketch on the Pioneer space probe. But 
-the man and woman have a huge Bender standing above them growling.]
+the man and woman have a huge Bender standing above them growling.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 There. Now when I'm found in a million 
 years people will know what the score 
 was.  Hey what's bombarding me?  Oh 
@@ -185,800 +185,800 @@ no! An asteroid field. If even a pea
 sized asteroid were to whiz through 
 my skull it could -  Ow! Hurt slightly! 
 Well that was fun. Now for eons of 
-loneliness.
+loneliness.</speak>
 
-[Time Lapse. Muffled voices come from Bender's door.]
+<info>Time Lapse. Muffled voices come from Bender's door.</info>
 
-<character>BENDER</character>
-Huh?
+<speak who="BENDER">
+Huh?</speak>
 
-[Several tiny things come from the asteroid on Bender's door. 
-He zooms in. They are little people.]
+<info>Several tiny things come from the asteroid on Bender's door. 
+He zooms in. They are little people.</info>
 
-<character>SHRIMPKIN PRIEST</character>
+<speak who="SHRIMPKIN PRIEST">
 Fellow Shrimpkins, behold he who hath 
-taken us unto his breast.
+taken us unto his breast.</speak>
 
-[The Shrimpkims chatter.]
+<info>The Shrimpkims chatter.</info>
 
-<character>BENDER</character>
-Holy frijoles!
+<speak who="BENDER">
+Holy frijoles!</speak>
 
-<character>SHRIMPKIN PRIEST</character>
-All bow before the great Metal Lord!
+<speak who="SHRIMPKIN PRIEST">
+All bow before the great Metal Lord!</speak>
 
-[The Shrimpkins bow.]
+<info>The Shrimpkins bow.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Worshippers? This ought to liven up 
-my endless tragic voyage.
+my endless tragic voyage.</speak>
 
-[He laughs insanely.]
+<info>He laughs insanely.</info>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>SHRIMPKIN PRIEST</character>
-All hail the Metal Lord!
+<speak who="SHRIMPKIN PRIEST">
+All hail the Metal Lord!</speak>
 
-<character>SHRIMPKINS</character>
-(chanting) So hailed!
+<speak who="SHRIMPKINS">
+<info>(chanting)</info> So hailed!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hmm, those peewees think I'm God huh? 
 Hard to blame 'em!  I am the Metal Lord. 
-Who are you?
+Who are you?</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 I am called Malachi, Lord. It means, 
-um, "He who really loves the Metal Lord."
+um, "He who really loves the Metal Lord."</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Listen here Malachi. Time for a religious 
-donation. Hand over your wallet.
+donation. Hand over your wallet.</speak>
 
-<character>MALACHI</character>
-But Lord. We are a poor and simple folk.
+<speak who="MALACHI">
+But Lord. We are a poor and simple folk.</speak>
 
-<character>BENDER</character>
-Poor? Oh crap.
+<speak who="BENDER">
+Poor? Oh crap.</speak>
 
-[He takes Malachi off his eyes and zooms into the Shrimpkin village 
+<info>He takes Malachi off his eyes and zooms into the Shrimpkin village 
 on the asteroid. On the porch of Malachi's home his wife cross-stiches 
-something and his children play.]
+something and his children play.</info>
 
-<character>MALACHI</character>'S <character>WIFE</character>
-What art thou doing Malachi Jr?
+<speak who="MALACHI">'S <character>WIFE</character>
+What art thou doing Malachi Jr?</speak>
 
-[Malachi Jr hugs a big pot.]
+<info>Malachi Jr hugs a big pot.</info>
 
-<character>MALACHI JR</character>
+<speak who="MALACHI JR">
 I'm practising to hug daddy when he 
-gets back from God.  Mmm! Mmm!
+gets back from God.  Mmm! Mmm!</speak>
 
-[Bender retracts his eyes.]
+<info>Bender retracts his eyes.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Eck! Gag unto me with a spoon! Malachi, 
 it's high time I laid down a few commandments. 
 You got a chisel? Take this down.  Number 
-one -
+one -</speak>
 
-[Time Lapse. Malachi stands on a rock before the other Shrimpkins 
-holding a stone tablet.]
+<info>Time Lapse. Malachi stands on a rock before the other Shrimpkins 
+holding a stone tablet.</info>
 
-<character>MALACHI</character>
-Behold: The One Commandment.
+<speak who="MALACHI">
+Behold: The One Commandment.</speak>
 
-[He holds up the tablet. Written on it is "God Needs Booze."]
+<info>He holds up the tablet. Written on it is "God Needs Booze."</info>
 
-<character>BENDER</character>
-(shouting) Make it a double!
+<speak who="BENDER">
+<info>(shouting)</info> Make it a double!</speak>
 
-[Planet Express: Attic. Farnsworth sniffs around on the smelloscope.]
+<info>Planet Express: Attic. Farnsworth sniffs around on the smelloscope.</info>
 
-<character>FRY</character>
-Can you find him Professor?
+<speak who="FRY">
+Can you find him Professor?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No. I'm afraid the smelloscope isn't 
 powerful enough. Bender's odour is so 
 mild it's being overpowered by local 
-sources.
+sources.</speak>
 
-[He, Fry and Leela glare at Zoidberg. He jumps up and claps with 
-delight.]
+<info>He, Fry and Leela glare at Zoidberg. He jumps up and claps with 
+delight.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Hooray, people are paying attention 
-to me!
+to me!</speak>
 
-[Fry walks towards the window and puts his hand on the glass. 
-Enter Amy, Hermes and a robot.]
+<info>Fry walks towards the window and puts his hand on the glass. 
+Enter Amy, Hermes and a robot.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Fry, we brought someone to cheer you 
-up.
+up.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 His name is Helper and he's eager to 
-be your new best friend.
+be your new best friend.</speak>
 
-[Helper looks a little bit like Bender but is more blocky looking.]
+<info>Helper looks a little bit like Bender but is more blocky looking.</info>
 
-<character>HELPER</character>
+<speak who="HELPER">
 Hello there chum. I understand you miss 
-your buddy! Have a pudding pop!
+your buddy! Have a pudding pop!</speak>
 
-<character>FRY</character>
-No that's I don't -
+<speak who="FRY">
+No that's I don't -</speak>
 
-<character>HELPER</character>
-Who wants to go to an amusement park?
+<speak who="HELPER">
+Who wants to go to an amusement park?</speak>
 
-<character>FRY</character>
-Well, I guess that sounds <character>OK</character>.
+<speak who="FRY">
+Well, I guess that sounds <character>OK</character>.</speak>
 
-<character>HELPER</character>
+<speak who="HELPER">
 Have a good time. Hey, I hear your friend 
-Bender is back.
+Bender is back.</speak>
 
-<character>FRY</character>
-What? Really?
+<speak who="FRY">
+What? Really?</speak>
 
-<character>HELPER</character>
+<speak who="HELPER">
 No. I just thought you would enjoy that 
-for a moment.
+for a moment.</speak>
 
-[Bender drifts through space to Also Sprach Zarathustra. On his 
+<info>Bender drifts through space to Also Sprach Zarathustra. On his 
 body a huge beer tower has been built and the Shrimpkin village 
-has grown to include several fields.]
+has grown to include several fields.</info>
 
-[Time Lapse. Bender tastes the Lordweiser beer from the tower.]
+<info>Time Lapse. Bender tastes the Lordweiser beer from the tower.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ooo! Microbrewed! My guys did alright! 
 I think I'll make my countenance to 
 shine down upon them!  Malachi, good 
 work. There's no slowing down with the 
-Metal Lord tonight.
+Metal Lord tonight.</speak>
 
-<character>MALACHI</character>
-Yes, tonight is kind of special.
+<speak who="MALACHI">
+Yes, tonight is kind of special.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Wait a second. Did you rip off your 
-own arm as a joke?
+own arm as a joke?</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 Nay. Like most of your followers I was 
 maimed while building the great brewery. 
 Others died from the pestelent fumes 
 it spewed forth.  And of course, the 
 liquor industry attracted organised 
-crime.
+crime.</speak>
 
-[Mobsters drive past Malachi's home shooting at each other. Malachi's 
-wife gasps, picks up a gun and shoots at the cars. Bender watches.]
+<info>Mobsters drive past Malachi's home shooting at each other. Malachi's 
+wife gasps, picks up a gun and shoots at the cars. Bender watches.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aw, it's all my fault. Malachi, tell 
 thy people that the Lord is moved by 
-their plight.
+their plight.</speak>
 
-[A tear drops from his eye. In the Shrimpkin village the tear 
+<info>A tear drops from his eye. In the Shrimpkin village the tear 
 looks huge. It rushes towards the Shrimpkins and they scream 
 and run out of its way. The tidal wave washes through the village 
 and sweeps away Malachi Jr. He grabs hold of a branch. The villagers 
-gasp.]
+gasp.</info>
 
-<character>MALACHI</character>'S <character>WIFE</character>
-Malachi Jr, no!
+<speak who="MALACHI">'S <character>WIFE</character>
+Malachi Jr, no!</speak>
 
-<character>MALACHI JR</character>
+<speak who="MALACHI JR">
 Daddy, I can't hold much longer. My 
-arms are tired from hugging.
+arms are tired from hugging.</speak>
 
-[Malachi, back with his wife, falls to his knees.]
+<info>Malachi, back with his wife, falls to his knees.</info>
 
-<character>MALACHI</character>
-Save him! Save my son oh Metal Lord!
+<speak who="MALACHI">
+Save him! Save my son oh Metal Lord!</speak>
 
-[Bender rolls up his sleeves.]
+<info>Bender rolls up his sleeves.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 This looks like a job for God!  What 
 the? Malachi, what manner of deal is 
-this with the chanting?
+this with the chanting?</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 They saw you save my son. Now everyone 
-is praying for their own miracles.
+is praying for their own miracles.</speak>
 
-[Bender sighs.]
+<info>Bender sighs.</info>
 
-<character>BENDER</character>
-Very well. What do they want?
+<speak who="BENDER">
+Very well. What do they want?</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 The people of that village pray for 
-wealth.
+wealth.</speak>
 
-[Bender pulls out a Coolio coin and tosses it to the Shrimpkins. 
+<info>Bender pulls out a Coolio coin and tosses it to the Shrimpkins. 
 It flattens several houses. Bender screams and picks the coin 
-up again. He looks under the ruined houses.]
+up again. He looks under the ruined houses.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Um, that was a practice miracle. Who's 
-next?
+next?</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 The farmers pray for sunlight so that 
 their barley might make a more refreshing 
-beer for today's God on the go.
+beer for today's God on the go.</speak>
 
-<character>BENDER</character>
-Very well. Let there be light.
+<speak who="BENDER">
+Very well. Let there be light.</speak>
 
-[He closes his eye visor and reflects a star's rays onto the 
-farmers' fields.]
+<info>He closes his eye visor and reflects a star's rays onto the 
+farmers' fields.</info>
 
-<character>FARMER #1</character>
-Yippee!
+<speak who="FARMER #1">
+Yippee!</speak>
 
-<character>FARMER #2</character>
-Hooray!
+<speak who="FARMER #2">
+Hooray!</speak>
 
-[The fields burst into flames and so do the farmers.]
+<info>The fields burst into flames and so do the farmers.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I got it I got it!  Um, when you're 
 writing the Bible, you might want to 
-omit that last miracle.
+omit that last miracle.</speak>
 
-[Fry and Bender's Lounge. Fry picks up a photo of Bender holding 
-him over the side of the Statue Of Liberty's torch. He sighs.]
+<info>Fry and Bender's Lounge. Fry picks up a photo of Bender holding 
+him over the side of the Statue Of Liberty's torch. He sighs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 He decided not to let go.  I can't believe 
 you're gone. I won't! If I can't reach 
 you physically, I'll just have to try 
-something desperately crazy!
+something desperately crazy!</speak>
 
-[First Amalgamated Church. Fry sits in the priest's office.]
+<info>First Amalgamated Church. Fry sits in the priest's office.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 So that's my story Father Changstein 
 el Gamahl. Is there anything religion 
-can do to help me find my friend?
+can do to help me find my friend?</speak>
 
-<character>PRIEST</character>
-Well, we could join together in prayer.
+<speak who="PRIEST">
+Well, we could join together in prayer.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh-huh but is there anything useful 
-we can do?
+we can do?</speak>
 
-<character>PRIEST</character>
-No.
+<speak who="PRIEST">
+No.</speak>
 
-[Gypsy's Caravan. Fry revisits the fairground Gypsy that helped 
-Bender find out more about the Werecar virus.]
+<info>Gypsy's Caravan. Fry revisits the fairground Gypsy that helped 
+Bender find out more about the Werecar virus.</info>
 
-<character>GYPSY</character>
+<speak who="GYPSY">
 Sure I hold s�ance, channel your friend 
 no problem. Insert coin.  I am your 
-friend...Bonder.
+friend...Bonder.</speak>
 
-<character>FRY</character>
-Bonder? Is it really you?
+<speak who="FRY">
+Bonder? Is it really you?</speak>
 
-<character>GYPSY</character>
-Yes. I am fine. Give the gypsy $10.
+<speak who="GYPSY">
+Yes. I am fine. Give the gypsy $10.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait a minute. Bender's name isn't Bonder, 
-it's Bender. You're a fraud!
+it's Bender. You're a fraud!</speak>
 
-<character>GYPSY</character>
-Look, you want false hope or not?
+<speak who="GYPSY">
+Look, you want false hope or not?</speak>
 
-<character>FRY</character>
-Only if you don't have any real hope.
+<speak who="FRY">
+Only if you don't have any real hope.</speak>
 
-<character>GYPSY</character>
+<speak who="GYPSY">
 Well, there is perhaps one way. Have 
-you heard of the Monks Of The Shubah?
+you heard of the Monks Of The Shubah?</speak>
 
-<character>FRY</character>
-I've not heard of them.
+<speak who="FRY">
+I've not heard of them.</speak>
 
-<character>GYPSY</character>
+<speak who="GYPSY">
 They are an ancient order who believe 
 God exists in the depths of space. They 
 have built the universe's most powerful 
 radio telescope, high in the Himalayas, 
-to search for him.
+to search for him.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You think they'd let me use it to look 
-for Bender?
+for Bender?</speak>
 
-<character>GYPSY</character>
+<speak who="GYPSY">
 What am I psychic? I mean yes! Yes, 
-I'm sure they will. Yes.
+I'm sure they will. Yes.</speak>
 
-[Bender swims through space to The Blue Danube.]
+<info>Bender swims through space to The Blue Danube.</info>
 
-<character>MALACHI</character>
-Oh Metal Lord, hear my prayer.
+<speak who="MALACHI">
+Oh Metal Lord, hear my prayer.</speak>
 
-[Bender sighs.]
+<info>Bender sighs.</info>
 
-<character>BENDER</character>
-(irrate) Yes Malachi what is it this 
-time?
+<speak who="BENDER">
+<info>(irrate)</info> Yes Malachi what is it this 
+time?</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 My Lord, the infidels on your back no 
 longer believe in you. They say their 
-prayers go unheeded.
+prayers go unheeded.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Of course they're unheeded how am I 
 supposed to hear prayers coming out 
-of my ass?
+of my ass?</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 They talk of war against the faithful. 
 I beseech thee. Rise up against them, 
-smite someone who deserves it for once.
+smite someone who deserves it for once.</speak>
 
-[Bender sighs.]
+<info>Bender sighs.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Malachi, every time I interfere I only 
 make things worse. You're best off solving 
-your own problems.
+your own problems.</speak>
 
-<character>MALACHI</character>
-But, but Metal Lord.
+<speak who="MALACHI">
+But, but Metal Lord.</speak>
 
-<character>BENDER</character>
-What part of "nay" doesn't thou understand?
+<speak who="BENDER">
+What part of "nay" doesn't thou understand?</speak>
 
-[Ed's Hiking Supplies & Spelunketeria. Fry talks to a salesman 
-behind a counter.]
+<info>Ed's Hiking Supplies &amp; Spelunketeria. Fry talks to a salesman 
+behind a counter.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Sir, I'm outfitting an expedition to 
 a monestary high in the Himalayas. I'll 
-need a long sleeved coat.
+need a long sleeved coat.</speak>
 
-[The salesman hands him a coat.]
+<info>The salesman hands him a coat.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look, I miss Bender almost half as much 
 as you do but you can't bring him back 
-this way. It's hopeless.
+this way. It's hopeless.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You can't give up hope just because 
 it's hopeless. You gotta hope even more 
 and cover your ears and go "blah blah 
-blah blah blah blah blah!"  (shouting) 
-I'd also like a pack mule.
+blah blah blah blah blah!"  <info>(shouting)</info> 
+I'd also like a pack mule.</speak>
 
-<character>SALESMAN</character>
-(shouting) At once sir!
+<speak who="SALESMAN">
+<info>(shouting)</info> At once sir!</speak>
 
-[He pulls down a fully equipt mule from a high shelf.]
+<info>He pulls down a fully equipt mule from a high shelf.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, you obviously won't listen to 
 reason, so I guess I'll listen to idioticness 
 and come with you. But we'll need a 
-Sherpa to guide us.
+Sherpa to guide us.</speak>
 
-[The salesman reaches up to the high shelf with the hook and 
-jabs the Sherpa. He screams.]
+<info>The salesman reaches up to the high shelf with the hook and 
+jabs the Sherpa. He screams.</info>
 
-[On the porch of his home Malachi sits with his children and 
+<info>On the porch of his home Malachi sits with his children and 
 wife and they read The Bible. By Bender With Malachi. On the 
-first page is a picture of Bender boxing a lion.]
+first page is a picture of Bender boxing a lion.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Now that's one Bible that doesn't disappoint 
 on every page! Looks like my society's 
 running pretty well without my meddling 
 - huh?  Atomic bombs? Oh no! Those unbelievers 
 from my backside must have found my 
-nuclear pile!
+nuclear pile!</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 Fear not my Lord, we shall be with you 
-soon.
+soon.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You're with me now. This is the maximum 
-level of being with me!
+level of being with me!</speak>
 
-<character>MALACHI</character>
+<speak who="MALACHI">
 We will solve our own problems as you 
 commanded. The time has come to convert 
-the unbelievers.
+the unbelievers.</speak>
 
-<character>BENDER</character>
-Convert them?
+<speak who="BENDER">
+Convert them?</speak>
 
-<character>MALACHI</character>
-To radioactive vapour!
+<speak who="MALACHI">
+To radioactive vapour!</speak>
 
-[Missile launchers rise up from the ground, fire and destroy 
-the village on Bender's ass.]
+<info>Missile launchers rise up from the ground, fire and destroy 
+the village on Bender's ass.</info>
 
-<character>MALACHI JR</character>
+<speak who="MALACHI JR">
 Look Daddy! I'm hugging God! Mmm! Mmm! 
 Maybe if I hug him real hard he'll save 
-us from -
+us from -</speak>
 
-[A radioactive shockwave vapourises the family and Bender cries.]
+<info>A radioactive shockwave vapourises the family and Bender cries.</info>
 
-<character>BENDER</character>
-(crying) No!  (laughing) Ooo it tickles!
+<speak who="BENDER">
+<info>(crying)</info> No!  <info>(laughing)</info> Ooo it tickles!</speak>
 
-[He laughs some more and sighs.]
+<info>He laughs some more and sighs.</info>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hello? Is anyone still alive? How about 
 in the porno theatre?  Don't be embarrassed. 
-(crying) They're dead. All dead. Who 
+<info>(crying)</info> They're dead. All dead. Who 
 would have known playing God could have 
-such terrible consequences?
+such terrible consequences?</speak>
 
-[He cries some more.]
+<info>He cries some more.</info>
 
-[Himalayas. The Sherpa, Fry, Leela and the mule walk through 
-the blizzard. The wind howls and the mule groans.]
+<info>Himalayas. The Sherpa, Fry, Leela and the mule walk through 
+the blizzard. The wind howls and the mule groans.</info>
 
-<character>LEELA</character>
-(shouting) Fry, if I drop dead from 
+<speak who="LEELA">
+<info>(shouting)</info> Fry, if I drop dead from 
 exhaustion make sure my body freezes 
 in a dignified position. None of that 
-huddled over for warmth crap.
+huddled over for warmth crap.</speak>
 
-[Time Lapse. They reach the summit. Fry gasps. In front of them 
-is a huge radio telescope and in he middle is the monastery.]
+<info>Time Lapse. They reach the summit. Fry gasps. In front of them 
+is a huge radio telescope and in he middle is the monastery.</info>
 
-<character>SHERPA</character>
+<speak who="SHERPA">
 Behold. The Monastery Of The Shubah. 
 I must leave you now for I am not holy 
-enough to enter.
+enough to enter.</speak>
 
-<character>FRY</character>
-<character>OK</character>.
+<speak who="FRY">
+<character>OK</character>.</speak>
 
-[He bleches and spits. He and Leela walk towards an old wood 
-and rope bridge.]
+<info>He bleches and spits. He and Leela walk towards an old wood 
+and rope bridge.</info>
 
-<character>LEELA</character>
-Looks rickety. We'd better test it.
+<speak who="LEELA">
+Looks rickety. We'd better test it.</speak>
 
-[She pats the mule and it steps onto the bridge. The bridge moves 
-forward like a moving walkway.]
+<info>She pats the mule and it steps onto the bridge. The bridge moves 
+forward like a moving walkway.</info>
 
-<character>FEMALE VOICE</character>
+<speak who="FEMALE VOICE">
 Welcome to our monastery. Please stand 
-to one side to let faster pilgrims by.
+to one side to let faster pilgrims by.</speak>
 
-[Behind the mule Fry and Leela tap their feet impatiently.]
+<info>Behind the mule Fry and Leela tap their feet impatiently.</info>
 
-[Bender is still crying. He hears a beeping and looks up.]
+<info>Bender is still crying. He hears a beeping and looks up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, that galaxy's signalling in binary! 
 I gotta signal back! But I only know 
 enough binary to as where the bathroom 
-is. (shouting) You speak English?
+is. <info>(shouting)</info> You speak English?</speak>
 
-<character>GALAXY</character>
-I do now.
+<speak who="GALAXY">
+I do now.</speak>
 
-[It pulls Bender towards it.]
+<info>It pulls Bender towards it.</info>
 
-<character>BENDER</character>
-What are you some kind of galactic computer?
+<speak who="BENDER">
+What are you some kind of galactic computer?</speak>
 
-<character>GALAXY</character>
+<speak who="GALAXY">
 Possible. I am user friendly. My good 
-chum.
+chum.</speak>
 
-<character>BENDER</character>
-Who built you?
+<speak who="BENDER">
+Who built you?</speak>
 
-<character>GALAXY</character>
-I have always been.
+<speak who="GALAXY">
+I have always been.</speak>
 
-<character>BENDER</character>
-Oh my God. Are you God?
+<speak who="BENDER">
+Oh my God. Are you God?</speak>
 
-<character>GOD</character>
+<speak who="GOD">
 Possible. I do feel compasson for all 
-living things. My good chum.
+living things. My good chum.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 But why would God think in binary? Unless...you're 
 not God, but the remains of a computerised 
-space probe that collided with God.
+space probe that collided with God.</speak>
 
-<character>GOD</character>
-That seems probable.
+<speak who="GOD">
+That seems probable.</speak>
 
-[Monastery Of The Shubah. The radio dish tilts as the monks search 
-the sky.]
+<info>Monastery Of The Shubah. The radio dish tilts as the monks search 
+the sky.</info>
 
-<character>MONK #1</character>
+<speak who="MONK #1">
 A member of our brotherhood sits at 
 these controls every hour of every day, 
-scanning the heavens for God.
+scanning the heavens for God.</speak>
 
-[Monk #2, bored out of his skull, controls the dish. Suddenly 
-he sees something.]
+<info>Monk #2, bored out of his skull, controls the dish. Suddenly 
+he sees something.</info>
 
-<character>MONK #2</character>
-There he is! No. No, wait, no.
+<speak who="MONK #2">
+There he is! No. No, wait, no.</speak>
 
-<character>LEELA</character>
-How long have you been at it?
+<speak who="LEELA">
+How long have you been at it?</speak>
 
-<character>MONK #1</character>
+<speak who="MONK #1">
 700 years. We've not yet examined one 
 ten-millionth of the sky. But we will 
 go on until we find the Almighty, even 
-if it takes until the end of time.
+if it takes until the end of time.</speak>
 
-<character>FRY</character>
-And then what?
+<speak who="FRY">
+And then what?</speak>
 
-<character>MONK #1</character>
+<speak who="MONK #1">
 Then we utter unto him a short prayer. 
 You see, the telescope is also an amplifying 
-transmitter.
+transmitter.</speak>
 
-<character>LEELA</character>
-Sort of like a giant kareoke machine?
+<speak who="LEELA">
+Sort of like a giant kareoke machine?</speak>
 
-<character>MONK #1</character>
+<speak who="MONK #1">
 Not really. Would you like to see our 
-giant kareoke machine?
+giant kareoke machine?</speak>
 
-<character>LEELA</character>
-Not really.
+<speak who="LEELA">
+Not really.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hmm, finding God, that - that's important, 
 yeah. But you know what might be a treat 
 for everyone? If you let me use the 
-telescope to find my lost friend Bender.
+telescope to find my lost friend Bender.</speak>
 
-<character>MONK #1</character>
+<speak who="MONK #1">
 I don't know what to say, other than 
 absolutely not. Your loss is a tragedy 
-but our work -
+but our work -</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Aw c'mon, you guys have forever to look 
 for God. All I'm asking is one measley 
-lifetime to find my friend.
+lifetime to find my friend.</speak>
 
-<character>MONK #2</character>
+<speak who="MONK #2">
 He speaks out of love for his friend. 
-Perhaps that love in his heart is God!
+Perhaps that love in his heart is God!</speak>
 
-<character>MONK #1</character>
+<speak who="MONK #1">
 Oh how convenient. A theory about God 
 that doesn't require looking through 
-a telescope. Get back to work!
+a telescope. Get back to work!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That telescope is as much mine as it 
 is anybody's. I'm using it whether you 
-give me permission or not.
+give me permission or not.</speak>
 
-[The four monks take up kung fu positions. Leela jumps forward.]
+<info>The four monks take up kung fu positions. Leela jumps forward.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Heyya! You're order may be famous for 
 it's martial arts. But I've never met 
-a holy man I couldn't clobber.
+a holy man I couldn't clobber.</speak>
 
-<character>MONK #1</character>
+<speak who="MONK #1">
 Actually we only practice martial arts 
 as a form of meditation. We are a strictly 
-non-violent sect.
+non-violent sect.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh. Then get in the laundry room or 
-I'll kick your butts!
+I'll kick your butts!</speak>
 
-[They file into the laundry room.]
+<info>They file into the laundry room.</info>
 
-<character>MONK #3</character>
+<speak who="MONK #3">
 This is the worst crazy sect I've ever 
-been in.
+been in.</speak>
 
-[Fry slams the door behind them.]
+<info>Fry slams the door behind them.</info>
 
-[Bender talks to God.]
+<info>Bender talks to God.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 So, do you know what I'm gonna do before 
-I do it?
+I do it?</speak>
 
-<character>GOD</character>
-Yes.
+<speak who="GOD">
+Yes.</speak>
 
-<character>BENDER</character>
-What if I do something different?
+<speak who="BENDER">
+What if I do something different?</speak>
 
-<character>GOD</character>
-Then I don't know that.
+<speak who="GOD">
+Then I don't know that.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Cool cool! I bet a lot of people pray 
-to you huh?
+to you huh?</speak>
 
-<character>GOD</character>
+<speak who="GOD">
 Yes, but there are so many asking so 
 much. After a while you just sorta tune 
-it out.
+it out.</speak>
 
-<character>BENDER</character>
-Y'know, I was God once.
+<speak who="BENDER">
+Y'know, I was God once.</speak>
 
-<character>GOD</character>
+<speak who="GOD">
 Yes I saw. You were doing well until 
-everyone died.
+everyone died.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 It was awful. I tried helping them. 
 I tried not helping them but in the 
 end I couldn't do them any good. Do 
-you think what I did was wrong?
+you think what I did was wrong?</speak>
 
-<character>GOD</character>
+<speak who="GOD">
 Right and wrong are just words. What 
-matters is what you do.
+matters is what you do.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah I know, that's why I asked if what 
-I did - forget it.
+I did - forget it.</speak>
 
-<character>GOD</character>
+<speak who="GOD">
 Bender, being God isn't easy, if you 
 do too much, people get dependent. And 
 if you do nothing, they lose hope. You 
 have to use a light touch, like a safecracker 
-or a pickpocket.
+or a pickpocket.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Or a guy who burns down the bar for 
-the insurance money.
+the insurance money.</speak>
 
-<character>GOD</character>
+<speak who="GOD">
 Yes, if you make it look like an electrical 
 thing. When you do things right, people 
 won't be sure you've done anything at 
-all.
+all.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Does that mean you wouldn't send me 
-back to Earth even if I prayed to you?
+back to Earth even if I prayed to you?</speak>
 
-<character>GOD</character>
-Earth? Which way is that?
+<speak who="GOD">
+Earth? Which way is that?</speak>
 
-[Bender looks around.]
+<info>Bender looks around.</info>
 
-<character>BENDER</character>
-(sadly) I don't know.
+<speak who="BENDER">
+<info>(sadly)</info> I don't know.</speak>
 
-[Monastery Of The Shubah. Fry frantically turns the radio dish 
-around and shouts into the microphone.]
+<info>Monastery Of The Shubah. Fry frantically turns the radio dish 
+around and shouts into the microphone.</info>
 
-<character>FRY</character>
-Bender? Bender?
+<speak who="FRY">
+Bender? Bender?</speak>
 
-[The monks knock on the door.]
+<info>The monks knock on the door.</info>
 
-[Fry yells into the microphone.]
+<info>Fry yells into the microphone.</info>
 
-<character>FRY</character>
-Hello? Has anyone out there seen Bender?
+<speak who="FRY">
+Hello? Has anyone out there seen Bender?</speak>
 
-<character>LRRR </character>[ON <character>SPEAKER</character>]
-No, quit asking.
+<speak who="LRRR"><info>ON <character>SPEAKER</character></info>
+No, quit asking.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, it's been three days. And even 
 if you stay here the rest of your life, 
 there is virtually no chance of finding 
-him. It's time to give up.
+him. It's time to give up.</speak>
 
-<character>FRY</character>
-(sadly) You're right. I'm never gonna 
+<speak who="FRY">
+<info>(sadly)</info> You're right. I'm never gonna 
 see him again. I know he was evil and 
 on more than one occasion he, he actually 
 stole my blood.  But still, I wish I 
-had Bender back.
+had Bender back.</speak>
 
-[Pullback: The radio telescope echos his words into the depths 
+<info>Pullback: The radio telescope echos his words into the depths 
 of space and in a pullback lifted from Contact the signal reaches 
-God. Bender is asleep.]
+God. Bender is asleep.</info>
 
-<character>GOD</character>
-Huh?
+<speak who="GOD">
+Huh?</speak>
 
-[Bender wakes up.]
+<info>Bender wakes up.</info>
 
-<character>BENDER</character>
-Huh? Wha? You say something?
+<speak who="BENDER">
+Huh? Wha? You say something?</speak>
 
-<character>GOD</character>
+<speak who="GOD">
 No, no. Well so long. Remember what 
-we talked about.
+we talked about.</speak>
 
-[He straps a parachute to Bender and throws him towards Earth. 
-Bender screams.]
+<info>He straps a parachute to Bender and throws him towards Earth. 
+Bender screams.</info>
 
-[Cut to: Himalayas. Fry and Leela make their way down the mountain. 
-Bender screams and falls through the atmosphere. Fry gasps.]
+<info>Cut to: Himalayas. Fry and Leela make their way down the mountain. 
+Bender screams and falls through the atmosphere. Fry gasps.</info>
 
-<character>BENDER</character>
-Hot hot hot hot!
+<speak who="BENDER">
+Hot hot hot hot!</speak>
 
-[He screams and the parachute opens and he lands on the mountain 
-next to Fry and Leela. He is glowing red hot.]
+<info>He screams and the parachute opens and he lands on the mountain 
+next to Fry and Leela. He is glowing red hot.</info>
 
-<character>FRY</character>
-Bender! It's a miracle!  Ow!
+<speak who="FRY">
+Bender! It's a miracle!  Ow!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 This is by a wide margin the least likely 
-thing that has ever happened.
+thing that has ever happened.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Guys, you'll never believe what happened. 
-First I was God then I met God!
+First I was God then I met God!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 We climbed a mountain and locked up 
-some monks.
+some monks.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh no the monks. We forgot to let them 
-out of the laundry room.
+out of the laundry room.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Do we have to? I mean they're monks. 
 I'm sure their God will let them out 
 or at least give them more shoes to 
-eat.
+eat.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Fat chance. You can't count on God for 
 jack. He pretty much told me so himself. 
 Now come on. If we don't save those 
-monks no one will!
+monks no one will!</speak>
 
-[He takes off his parachute and starts back up the mountain.]
+<info>He takes off his parachute and starts back up the mountain.</info>
 
-[Pullback: In another pullback, this time lifted from Men In 
-Black, God chuckles to Himself.]
+<info>Pullback: In another pullback, this time lifted from Men In 
+Black, God chuckles to Himself.</info>
 
-<character>GOD</character>
+<speak who="GOD">
 When you do things right, people won't 
-be sure you've done anything at all.
+be sure you've done anything at all.</speak>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

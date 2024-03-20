@@ -1,1238 +1,1237 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 106 
 
-<title>A <character>FISHFUL OF DOLLARS</character></title>
+<title>A FISHFUL OF DOLLARS</title>
 
 <author>Patric M. Verrone</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Fry's Bedroom. Fry is awoken by squeaking bed springs from the 
-apartment next door. He growls.]
+<info>Fry's Bedroom. Fry is awoken by squeaking bed springs from the 
+apartment next door. He growls.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I can't take it anymore! They've been 
-at it for hours!  (shouting) Give it 
-a rest, you two!
+at it for hours!  <info>(shouting)</info> Give it 
+a rest, you two!</speak>
 
-[Cut to: Next Door Apartment. The robots next door are sat playing 
+<info>Cut to: Next Door Apartment. The robots next door are sat playing 
 poker. They have springy bodies which are constantly squeaking. 
-One of the robots oils his springs.]
+One of the robots oils his springs.</info>
 
-<character>ROBOT</character>
-(shouting) Sorry!
+<speak who="ROBOT">
+<info>(shouting)</info> Sorry!</speak>
 
-[Opening Credits. Caption: Loading...]
+<info>Opening Credits. Caption: Loading...</info>
 
-[Fry's Bedroom. Fry is asleep.]
+<info>Fry's Bedroom. Fry is asleep.</info>
 
-[Fade to: Fry's Dream. He is in a packed lecture hall. An old 
+<info>Fade to: Fry's Dream. He is in a packed lecture hall. An old 
 teacher stands at the front of the room. She wears frosted half-moon 
-glasses and has grey hair.]
+glasses and has grey hair.</info>
 
-<character>TEACHER</character>
+<speak who="TEACHER">
 Good morning, class. I trust you've 
-all prepared for today's final exam.
+all prepared for today's final exam.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh, excuse me? I missed a few lectures. 
-Uh, what subject is this?
+Uh, what subject is this?</speak>
 
-<character>TEACHER</character>
-Ancient Egyptian algebra.
+<speak who="TEACHER">
+Ancient Egyptian algebra.</speak>
 
-[She points to the blackboard, revealing it is filled with Egyptian 
-hieroglyphs. Fry gasps.]
+<info>She points to the blackboard, revealing it is filled with Egyptian 
+hieroglyphs. Fry gasps.</info>
 
-<character>FRY</character>
-What a nightmare!
+<speak who="FRY">
+What a nightmare!</speak>
 
-<character>TEACHER</character>
+<speak who="TEACHER">
 Mister Fry, are those your underpants? 
 Young man, I think it's time you learned 
-a lesson about Lightspeed brand briefs.
+a lesson about Lightspeed brand briefs.</speak>
 
-[She pulls down a poster showing the briefs.]
+<info>She pulls down a poster showing the briefs.</info>
 
-<character>ANNOUNCER</character>
-(voice-over) Lightspeed fits today's 
+<speak who="ANNOUNCER">
+<info>(voice-over)</info> Lightspeed fits today's 
 active lifestyle. Whether you're on 
 the job......or having fun... Lightspeed 
 briefs. Style and comfort for the discriminating 
-crotch.
+crotch.</speak>
 
-[Like an advertisement, a pair of lightspeeds appear in front 
-of a flashing background.]
+<info>Like an advertisement, a pair of lightspeeds appear in front 
+of a flashing background.</info>
 
-[Cut to: Fry's Bedroom. The dream ends and Fry suddenly wakes 
-up.]
+<info>Cut to: Fry's Bedroom. The dream ends and Fry suddenly wakes 
+up.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 What a weird dream! I'll never get back 
-to sleep.
+to sleep.</speak>
 
-[He falls asleep instantly.]
+<info>He falls asleep instantly.</info>
 
-[Planet Express: Lounge. The crew are sat around the table.]
+<info>Planet Express: Lounge. The crew are sat around the table.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 So you're telling me they broadcast 
-commercials into people's dreams?
+commercials into people's dreams?</speak>
 
-<character>LEELA</character>
-Of course.
+<speak who="LEELA">
+Of course.</speak>
 
-<character>FRY</character>
-But, how is that possible?
+<speak who="FRY">
+But, how is that possible?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 It's very simple. The ad gets into your 
 brain just like this liquid gets into 
 this egg.  Although in reality it's 
-not liquid, but gamma radiation.
+not liquid, but gamma radiation.</speak>
 
-<character>FRY</character>
-That's awful. It's like brainwashing.
+<speak who="FRY">
+That's awful. It's like brainwashing.</speak>
 
-[Leela wipes the yolk from her hair.]
+<info>Leela wipes the yolk from her hair.</info>
 
-<character>LEELA</character>
-Didn't you have ads in the 20th century?
+<speak who="LEELA">
+Didn't you have ads in the 20th century?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, sure, but not in our dreams. Only 
 on TV and radio. And in magazines and 
 movies and at ball games and on buses 
 and milk cartons and t-shirts and written 
-in the sky. But not in dreams. No siree!
+in the sky. But not in dreams. No siree!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Quit squawking, flesh wad, nobody's 
-forcing you to buy anything.
+forcing you to buy anything.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Yeah. I mean we all have commercials 
 in our dreams but you don't see us running 
 off to buy brand name merchandise at 
-low, low prices.
+low, low prices.</speak>
 
-[After a long silence they get up and run out.]
+<info>After a long silence they get up and run out.</info>
 
-[Alien Overlord & Taylor. A department store. Enter the Planet 
+<info>Alien Overlord &amp; Taylor. A department store. Enter the Planet 
 Express staff who are immediately preyed on by a saleswoman at 
-the cosmetics stand.]
+the cosmetics stand.</info>
 
-<character>SALESWOMAN</character>
+<speak who="SALESWOMAN">
 Hi! Care to sample the latest fragrance 
-from Calvin Clone?
+from Calvin Clone?</speak>
 
-<character>AMY</character>
-No thanks.
+<speak who="AMY">
+No thanks.</speak>
 
-[The saleswoman sprays her. Amy curses in Chinese and walks away 
-rubbing her eyes.]
+<info>The saleswoman sprays her. Amy curses in Chinese and walks away 
+rubbing her eyes.</info>
 
-<character>SALESWOMAN</character>
-And you, sir?
+<speak who="SALESWOMAN">
+And you, sir?</speak>
 
-<character>BENDER</character>
-No thanks I --
+<speak who="BENDER">
+No thanks I --</speak>
 
-[The saleswoman sprays him. Bender sprays her back with oil, 
-covering her face. She coughs and splutters.]
+<info>The saleswoman sprays him. Bender sprays her back with oil, 
+covering her face. She coughs and splutters.</info>
 
-[Time Lapse. Leela is sat on a chair at the cosmetics stand. 
-A cosmetologist brushes away her fringe.]
+<info>Time Lapse. Leela is sat on a chair at the cosmetics stand. 
+A cosmetologist brushes away her fringe.</info>
 
-<character>COSMETOLOGIST</character>
+<speak who="COSMETOLOGIST">
 What a lovely face. We just need to 
-draw attention away from the eye area.
+draw attention away from the eye area.</speak>
 
-[She zaps Leela with something and then holds up a mirror. Leela 
+<info>She zaps Leela with something and then holds up a mirror. Leela 
 sees her reflection and sighs. The woman has plastered her face 
 in lipstick so she looks like a clown. In the menswear department 
-Fry picks up a box of the briefs.]
+Fry picks up a box of the briefs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Cool.  Can I try these on before I buy 
-them?
+them?</speak>
 
-<character>SALESMAN</character>
+<speak who="SALESMAN">
 I'm afraid I can't let you open the 
 package. But you can try on the demo 
-pair.
+pair.</speak>
 
-[He pulls out a pair of smelly underpants and sprays them with 
-deodorant.]
+<info>He pulls out a pair of smelly underpants and sprays them with 
+deodorant.</info>
 
-[Fitting Room. Fry puts the briefs and is impressed.]
+<info>Fitting Room. Fry puts the briefs and is impressed.</info>
 
-<character>FRY</character>
-: Ooh! Ho ho ho!
+<speak who="FRY">
+: Ooh! Ho ho ho!</speak>
 
-[He sees his reflection in the mirror - a muscled man surrounded 
+<info>He sees his reflection in the mirror - a muscled man surrounded 
 by women. Then he sees the notice: Objects In The Mirror Are 
-Less Attractive Than They Appear and sighs.]
+Less Attractive Than They Appear and sighs.</info>
 
-[Alien Overlord & Taylor. In the robot accessories department, 
+<info>Alien Overlord &amp; Taylor. In the robot accessories department, 
 Bender, wearing a green sweater, picks up a few cans of Mom's 
-Old Fashion Robot Oil from a pile and hides them under the sweater.]
+Old Fashion Robot Oil from a pile and hides them under the sweater.</info>
 
-<character>AMY</character>
-Hey, Bender! Great new sweater.
+<speak who="AMY">
+Hey, Bender! Great new sweater.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 New? What sweater? I came in with it. 
-I don't know you people!
+I don't know you people!</speak>
 
-[He walks off. A hovering <character>CCTV</character> camera follows him. Back in the 
-menswear department, Fry is buying the Lightspeeds.]
+<info>He walks off. A hovering CCTV camera follows him. Back in the 
+menswear department, Fry is buying the Lightspeeds.</info>
 
-<character>SALESMAN</character>
-$30, please.
+<speak who="SALESMAN">
+$30, please.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 $30? I can't afford that. Unless... 
-Do you take Visa?
+Do you take Visa?</speak>
 
-<character>SALESMAN</character>
-Visa hasn't existed for 500 years.
+<speak who="SALESMAN">
+Visa hasn't existed for 500 years.</speak>
 
-<character>FRY</character>
-American Express?
+<speak who="FRY">
+American Express?</speak>
 
-<character>SALESMAN</character>
-600 years.
+<speak who="SALESMAN">
+600 years.</speak>
 
-<character>FRY</character>
-Discover card?
+<speak who="FRY">
+Discover card?</speak>
 
-<character>SALESMAN</character>
-Sorry we don't take Discover.
+<speak who="SALESMAN">
+Sorry we don't take Discover.</speak>
 
-[Amy, Leela, Zoidberg and Bender walk up behind him.]
+<info>Amy, Leela, Zoidberg and Bender walk up behind him.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Hey! You're springing for Lightspeed? 
-Pretty ritzy!
+Pretty ritzy!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 No, I can't afford them. Being poor 
 sucks. What kind of world is this where 
 they advertise things not everybody 
-can afford?
+can afford?</speak>
 
-<character>AMY</character>
-Quiet. There's an ad coming on.
+<speak who="AMY">
+Quiet. There's an ad coming on.</speak>
 
-[On the screens an old woman, the same woman from on the tins 
+<info>On the screens an old woman, the same woman from on the tins 
 of oil - Mom - sits in a chair knitting. She is wearing a huge 
 green dress and an apron around her front. Behind her on the 
-wall is a picture of three men dressed in the same grey clothes.]
+wall is a picture of three men dressed in the same grey clothes.</info>
 
-<character>MOM</character>
-Hello shoppers. It's me, Mom!
+<speak who="MOM">
+Hello shoppers. It's me, Mom!</speak>
 
-<character>FRY</character>
-Hey who's the rocker jockey?
+<speak who="FRY">
+Hey who's the rocker jockey?</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Guh! It's Mom. The world's most huggable 
-industrialist.
+industrialist.</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 Call me old fashioned, but when my 
 robot starts to squeak like an old screen 
 door well, that's when I reach for a 
-can of Mom's Old Fashioned Robot Oil.
+can of Mom's Old Fashioned Robot Oil.</speak>
 
-<character>BENDER</character>
-Mmm, tasty!
+<speak who="BENDER">
+Mmm, tasty!</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 And remember: Mom's oil is made with 
 10% more love than the next leading 
-brand!
+brand!</speak>
 
-[She smiles.]
+<info>She smiles.</info>
 
-<character>ANNOUNCER</character>
-"Mom", "love" and "screen door" are 
-registered trademarks of Mom Corp.
+<speak who="ANNOUNCER">"Mom", "love" and "screen door" are 
+registered trademarks of Mom Corp.</speak>
 
-[The tins under Bender's sweater squeak.]
+<info>The tins under Bender's sweater squeak.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, Bender. Sounds like you could use 
-a little of that oil.
+a little of that oil.</speak>
 
-[Some tins fall out of Bender's sweater. Seven hovering <character>CCTV </character>
-cameras surround him. He looks up at them.]
+<info>Some tins fall out of Bender's sweater. Seven hovering CCTV
+cameras surround him. He looks up at them.</info>
 
-<character>BENDER</character>
-I'm boned.
+<speak who="BENDER">
+I'm boned.</speak>
 
-<character>SMITTY</character>
-Freeze scuzzbot!
+<speak who="SMITTY">
+Freeze scuzzbot!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Uh, there's obviously been some sort 
 of a mistake here.  I'm sure there's......I 
 say I'm sure there's......that is, I'm 
-sure there's...a very...reasonable...
+sure there's...a very...reasonable...</speak>
 
-[And some more.]
+<info>And some more.</info>
 
-[Outside New New York Police Department. On a sign outside is 
-Ask About Our Generous Brutality Settlements.]
+<info>Outside New New York Police Department. On a sign outside is 
+Ask About Our Generous Brutality Settlements.</info>
 
-[Cut to: New New York Police Department. At the front desk Fry 
-counts some money.]
+<info>Cut to: New New York Police Department. At the front desk Fry 
+counts some money.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Do we have enough money to pay Bender's 
-fine?
+fine?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 78, 79. 79.50. Crud! We're 50 cents 
-short.
+short.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'd love to chip in, but Bender stole 
-my wallet.
+my wallet.</speak>
 
-[Fry sees something through a window, a building called Big Apple 
-Bank.]
+<info>Fry sees something through a window, a building called Big Apple 
+Bank.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, that's my old bank. Maybe my account's 
-still open.
+still open.</speak>
 
-[Big Apple Bank. Fry steps forward to the desk and has a retina 
-scanned.]
+<info>Big Apple Bank. Fry steps forward to the desk and has a retina 
+scanned.</info>
 
-<character>TELLER</character>
+<speak who="TELLER">
 Hmm. We don't seem to have your retina 
 scan, your fingerprint or your colonic 
-map on file.
+map on file.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah, well, I did open the account over 
 a thousand years ago. What about my 
-<character>ATM</character> card?
+<character>ATM</character> card?</speak>
 
-[The teller pulls out an old <character>ATM</character> machine from under the desk 
-and blows the dust off it.]
+<info>The teller pulls out an old ATM machine from under the desk 
+and blows the dust off it.</info>
 
-<character>TELLER</character>
-Do you still remember your <character>PIN</character> number?
+<speak who="TELLER">
+Do you still remember your <character>PIN</character> number?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Sure! It's the price of a cheese pizza 
 and a large soda back where I used to 
-work, Panucci's Pizza.
+work, Panucci's Pizza.</speak>
 
-<character>TELLER</character>
-OK, you had a balance of 93 cents...
+<speak who="TELLER">
+OK, you had a balance of 93 cents...</speak>
 
-[Fry looks at Amy and Leela.]
+<info>Fry looks at Amy and Leela.</info>
 
-<character>FRY</character>
-Alright!
+<speak who="FRY">
+Alright!</speak>
 
-<character>TELLER</character>
+<speak who="TELLER">
 ...and at an average of 2 and a quarter 
 percent over a period of 1000 years, 
-that comes to...$4.3 billion.
+that comes to...$4.3 billion.</speak>
 
-[Fry stares for a moment and suddenly starts hyperventilating 
-and foaming at the mouth. Then he faints.]
+<info>Fry stares for a moment and suddenly starts hyperventilating 
+and foaming at the mouth. Then he faints.</info>
 
-[Planet Express: Lounge. The crew are gathered in celebration, 
-wearing top hats and drinking champagne.]
+<info>Planet Express: Lounge. The crew are gathered in celebration, 
+wearing top hats and drinking champagne.</info>
 
-<character>HERMES</character>
-To Fry.
+<speak who="HERMES">
+To Fry.</speak>
 
-<character>AMY</character>
-Cheers!
+<speak who="AMY">
+Cheers!</speak>
 
-[They raise their glasses.]
+<info>They raise their glasses.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I know Fry's rich, but do we really 
-have to wear these top hats?
+have to wear these top hats?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Maybe you don't understand just how 
 rich he is. In fact, I think I'd better 
-put on a monocle.
+put on a monocle.</speak>
 
-[And he does.]
+<info>And he does.</info>
 
-[Le Spa. Fry lives the high life. At Le Spa Fry and Leela get 
-a relaxing massage and Bender gets a buffing.]
+<info>Le Spa. Fry lives the high life. At Le Spa Fry and Leela get 
+a relaxing massage and Bender gets a buffing.</info>
 
-[Famous-Painting-Shooting. Next, Fry and Leela walk down a corridor 
+<info>Famous-Painting-Shooting. Next, Fry and Leela walk down a corridor 
 past many famous paintings. Fry stops at the Mona Lisa, points 
 to it and buys it. The corridor is just a wall in the open countryside 
 with paintings hanging on it. A man loads the painting into a 
 catapult and fires it. Fry, Bender and Leela raise their lasers 
-and shoot it, blasting it to pieces.]
+and shoot it, blasting it to pieces.</info>
 
-[Original Cosmic Ray's Pizza. The Planet Express staff are gathered 
-around a table for lunch.]
+<info>Original Cosmic Ray's Pizza. The Planet Express staff are gathered 
+around a table for lunch.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Pizza dinner on me!  Just keep the tab 
-under $50 million.
+under $50 million.</speak>
 
-<character>ROBOT CHEF</character>
+<speak who="ROBOT CHEF">
 Yo!  I haven't got all day. What kind 
-of pizza yous guys want?
+of pizza yous guys want?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh, yeah. We'll have one with everything 
 but anchovies and one with my all time 
-favourite topping, anchovies!
+favourite topping, anchovies!</speak>
 
-<character>ROBOT CHEF</character>
-(mechanical voice) Invalid selection. 
-(normal voice) Yo, what are you talking 
-about?
+<speak who="ROBOT CHEF">
+<info>(mechanical voice)</info> Invalid selection. 
+<info>(normal voice)</info> Yo, what are you talking 
+about?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Anchovies? You know? Those little headless 
-fish?
+fish?</speak>
 
-<character>ROBOT CHEF</character>
-(mechanical voice) Does not compute. 
-Does not compute.
+<speak who="ROBOT CHEF">
+<info>(mechanical voice)</info> Does not compute. 
+Does not compute.</speak>
 
-[His head explodes.]
+<info>His head explodes.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I'm sorry, Fry, but the anchovy has 
-been extinct since the 2200's.
+been extinct since the 2200's.</speak>
 
-<character>FRY</character>
-What?!
+<speak who="FRY">
+What?!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh, my, yes. Fished to death. Just about 
 the time your people arrived on Earth 
-wasn't it, Zoidberg?
+wasn't it, Zoidberg?</speak>
 
-<character>ZOIDBERG</character>
-(defensively) I'm not on trial here.
+<speak who="ZOIDBERG">
+<info>(defensively)</info> I'm not on trial here.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 So none of you has ever had anchovies? 
 Oh, man! You don't know what you're 
 missing. They were all salty and oily 
-and they melted in your mouth and --
+and they melted in your mouth and --</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Stop! Stop! I admit it! My people ate 
 them all! We kept saying "One more can't 
 hurt" and then they were gone. We're 
-sorry!
+sorry!</speak>
 
-[He holds his claws to his head and hangs it in shame. Fry sighs.]
+<info>He holds his claws to his head and hangs it in shame. Fry sighs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I just wished I could've showed you 
 guys how great they were. I may be rich 
 but I still can't buy back all the things 
-I miss from the 20th century.
+I miss from the 20th century.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Maybe you're forgetting just how rich 
-you are.  Huh? Huh?
+you are.  Huh? Huh?</speak>
 
-[Outside Historic 20th Century Apartments. A banner outside advertises 
+<info>Outside Historic 20th Century Apartments. A banner outside advertises 
 "With Original Asbestos". On the steps Fry shakes hands with 
-the landlord and moves in.]
+the landlord and moves in.</info>
 
-[Historic 20th Century Apartment. Amy, Bender and Leela are already 
+<info>Historic 20th Century Apartment. Amy, Bender and Leela are already 
 in there. Amy picks up the telephone is puzzlement and puts the 
-receiver over her eyes. Enter Fry.]
+receiver over her eyes. Enter Fry.</info>
 
-<character>FRY</character>
-So? What do you think?
+<speak who="FRY">
+So? What do you think?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I know you spent a lot of money on this 
 place, Fry, but it's awfully primitive. 
-The floors are made of such hard wood.
+The floors are made of such hard wood.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey! Get a load of this pathetic 20th 
-century TV!
+century TV!</speak>
 
-<character>FRY</character>
-What's wrong with it?
+<speak who="FRY">
+What's wrong with it?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well, aside from causing eye cancer, 
 these things had a lousy low-definition 
-picture.
+picture.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 That's true. On a TV like this I bet 
 you couldn't even make out my obscene 
-tattoo.
+tattoo.</speak>
 
-[She rolls her sleeve up to reveal her obscene tattoo which appears 
-blurry. Bender whistles and Leela chuckles.]
+<info>She rolls her sleeve up to reveal her obscene tattoo which appears 
+blurry. Bender whistles and Leela chuckles.</info>
 
-<character>LEELA</character>
-That's cute!
+<speak who="LEELA">
+That's cute!</speak>
 
-[Staadgi & Staadgi Auctioneers. In the crowded room Fry bids 
-for something.]
+<info>Staadgi &amp; Staadgi Auctioneers. In the crowded room Fry bids 
+for something.</info>
 
-<character>AUCTIONEER</character>
-Sold!
+<speak who="AUCTIONEER">
+Sold!</speak>
 
-<character>FRY</character>
-Yes!
+<speak who="FRY">
+Yes!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I just don't get it. Who was this Ted 
 Danson? And why would you pay $10,000 
-for his skeleton?
+for his skeleton?</speak>
 
-<character>FRY</character>
-I have an idea for a sitcom.
+<speak who="FRY">
+I have an idea for a sitcom.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ah, leave him alone, Leela. So he's 
 going a little wacko with his money. 
-It's <character>OK</character>.
+It's <character>OK</character>.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You're just saying that because he bought 
-you that antique robot toy.
+you that antique robot toy.</speak>
 
-[Bender chuckles.]
+<info>Bender chuckles.</info>
 
-<character>BENDER</character>
-Yeah, it is cute.
+<speak who="BENDER">
+Yeah, it is cute.</speak>
 
-[He starts playing with a "Knock 'Em, Sock 'Em" toy. One little 
-robot punches the other's head off and Bender screams.]
+<info>He starts playing with a "Knock 'Em, Sock 'Em" toy. One little 
+robot punches the other's head off and Bender screams.</info>
 
-<character>AUCTIONEER</character>
+<speak who="AUCTIONEER">
 Now, our final item: This unopened can 
 of Angry Norwegian brand anchovies circa 
-1997.
+1997.</speak>
 
-<character>FRY</character>
-Anchovies?!
+<speak who="FRY">
+Anchovies?!</speak>
 
-<character>AUCTIONEER</character>
+<speak who="AUCTIONEER">
 The last known can in existence guaranteed 
-fresh and edible. Do I hear $10,000?
+fresh and edible. Do I hear $10,000?</speak>
 
-<character>FRY</character>
-15,000!
+<speak who="FRY">
+15,000!</speak>
 
-<character>MAN</character>
-20!
+<speak who="MAN">
+20!</speak>
 
-[A rich Decapodian woman stands up.]
+<info>A rich Decapodian woman stands up.</info>
 
-<character>DECAPODIAN WOMAN</character>
-30! No, 40!
+<speak who="DECAPODIAN WOMAN">
+30! No, 40!</speak>
 
-<character>FRY</character>
-50,000!
+<speak who="FRY">
+50,000!</speak>
 
-[The other bidders whisper to each other.]
+<info>The other bidders whisper to each other.</info>
 
-<character>LEELA</character>
-Are you crazy? It's a can of old fish.
+<speak who="LEELA">
+Are you crazy? It's a can of old fish.</speak>
 
-<character>FRY</character>
-Don't tell me how to spend my money.
+<speak who="FRY">
+Don't tell me how to spend my money.</speak>
 
-<character>AUCTIONEER</character>
-50 going once, twice...
+<speak who="AUCTIONEER">
+50 going once, twice...</speak>
 
-[He raises his gavel but is interrupted by Mom.]
+<info>He raises his gavel but is interrupted by Mom.</info>
 
-<character>MOM</character>
-75,000.
+<speak who="MOM">
+75,000.</speak>
 
-[The room gasps. Mom is stood at the back of the room with the 
-three men from the picture in the ad.]
+<info>The room gasps. Mom is stood at the back of the room with the 
+three men from the picture in the ad.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, my God, it's Mom! I've never seen 
-her in person before.
+her in person before.</speak>
 
-<character>FRY</character>
-100,000.
+<speak who="FRY">
+100,000.</speak>
 
-[More whispering from the bidders.]
+<info>More whispering from the bidders.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, you can't bid against Mom. She's 
 the richest, most powerful person in 
-the world. And she's so adorable.
+the world. And she's so adorable.</speak>
 
-[Mom looks in her purse.]
+<info>Mom looks in her purse.</info>
 
-<character>MOM</character>
-Well, I suppose I could go as high as...300,000.
+<speak who="MOM">
+Well, I suppose I could go as high as...300,000.</speak>
 
-<character>FRY</character>
-500!
+<speak who="FRY">
+500!</speak>
 
-<character>MOM</character>
-Oh, mercy be. A million.
+<speak who="MOM">
+Oh, mercy be. A million.</speak>
 
-<character>FRY</character>
-Two.
+<speak who="FRY">
+Two.</speak>
 
-<character>MOM</character>
-Six.
+<speak who="MOM">
+Six.</speak>
 
-<character>FRY</character>
-14!
+<speak who="FRY">
+14!</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 I can see the nice young man really 
 wants those little fish. Nevertheless, 
-I'll bid 23 million.
+I'll bid 23 million.</speak>
 
-[Fry stands up and raises his hand.]
+<info>Fry stands up and raises his hand.</info>
 
-<character>FRY</character>
-One jillion dollars.
+<speak who="FRY">
+One jillion dollars.</speak>
 
-[The bidders gasp in shock.]
+<info>The bidders gasp in shock.</info>
 
-<character>AUCTIONEER</character>
-Sir, that's not a number.
+<speak who="AUCTIONEER">
+Sir, that's not a number.</speak>
 
-[The bidders gasp again.]
+<info>The bidders gasp again.</info>
 
-<character>FRY</character>
-Oh. In that case, 50 million.
+<speak who="FRY">
+Oh. In that case, 50 million.</speak>
 
-[Mom turns to three men behind her.]
+<info>Mom turns to three men behind her.</info>
 
-<character>MOM</character>
+<speak who="MOM">
 Well, boys, your old mother knows when 
 she's been beat.  You win, young man. 
-I tip my bonnet to you.
+I tip my bonnet to you.</speak>
 
-[The other bidders murmur.]
+<info>The other bidders murmur.</info>
 
-<character>BIDDER #1</character>
-Isn't she adorable?
+<speak who="BIDDER #1">
+Isn't she adorable?</speak>
 
-<character>BIDDER #2</character>
-Isn't she sweet?
+<speak who="BIDDER #2">
+Isn't she sweet?</speak>
 
-[The auctioneer bangs his gavel.]
+<info>The auctioneer bangs his gavel.</info>
 
-<character>AUCTIONEER</character>
+<speak who="AUCTIONEER">
 What a class act! Sold! To the gentleman 
-who bought every item in today's auction.
+who bought every item in today's auction.</speak>
 
-[Fry stands up an cheers himself but the other bidders boo him.]
+<info>Fry stands up an cheers himself but the other bidders boo him.</info>
 
-[Historic 20th Century Apartment. Fry wanders around the room 
-in the dark and picks up a box.]
+<info>Historic 20th Century Apartment. Fry wanders around the room 
+in the dark and picks up a box.</info>
 
-<character>FRY</character>
-Now for some good old 20th century <character>TV</character>.
+<speak who="FRY">
+Now for some good old 20th century <character>TV</character>.</speak>
 
-[He puts a video tape into the <character>VCR</character>.]
+<info>He puts a video tape into the VCR.</info>
 
-<character>ANNOUNCER</character>
+<speak who="ANNOUNCER">
 Do you remember a time when chocolate 
 chip cookies came fresh from the oven? 
-Petridge Farm remembers.
+Petridge Farm remembers.</speak>
 
-<character>FRY</character>
-Ah, those were the days.
+<speak who="FRY">
+Ah, those were the days.</speak>
 
-<character>ANNOUNCER</character>
+<speak who="ANNOUNCER">
 Do you remember a time when women couldn't 
 vote and certain folk weren't allowed 
-on golf courses? Petridge Farm remembers.
+on golf courses? Petridge Farm remembers.</speak>
 
-[A knock at the door.]
+<info>A knock at the door.</info>
 
-<character>LEELA</character>
-Fry? Are you there?
+<speak who="LEELA">
+Fry? Are you there?</speak>
 
-<character>FRY</character>
-Eh?
+<speak who="FRY">
+Eh?</speak>
 
-[Enter Leela and Bender. Fry turns the TV off.]
+<info>Enter Leela and Bender. Fry turns the TV off.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You haven't been to work in three days. 
-What have you been doing?
+What have you been doing?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I've been sitting right here. I picked 
 up my life exactly where I left off 
 a thousand years ago. Now if you'll 
 excuse me it's 8 o'clock. Time to get 
-biz-ay!
+biz-ay!</speak>
 
-[Fry turns the stereo on and listens to Baby Got Back by Sir 
-Mix-a-lot. Leela turns it off.]
+<info>Fry turns the stereo on and listens to Baby Got Back by Sir 
+Mix-a-lot. Leela turns it off.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You can't just sit here in the dark 
-listening to classical music.
+listening to classical music.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I could if you hadn't turned on the 
-lights and shut off the stereo.
+lights and shut off the stereo.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, this isn't healthy. You're living 
-in the past.
+in the past.</speak>
 
-<character>FRY</character>
-I'm rich! I can live whenever I want.
+<speak who="FRY">
+I'm rich! I can live whenever I want.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 But we're your friends and we live here 
-in the year 3000.
+in the year 3000.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah. Now are you gonna come to the 
 squid fights with us or sit here wallowing 
-in your prehistoric junk?
+in your prehistoric junk?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Junk? Maybe you can't understand this 
 but I've finally found what I need to 
 be happy, and it's not friends: It's 
-things.
+things.</speak>
 
-[He gets up and walks towards the door. Bender turns around.]
+<info>He gets up and walks towards the door. Bender turns around.</info>
 
-<character>BENDER </character>(<character>SADLY</character>)
-I'm a thing.
+<speak who="BENDER"><info>(<character>SADLY</character>)</info>
+I'm a thing.</speak>
 
-<character>FRY</character>
-Just leave me alone.
+<speak who="FRY">
+Just leave me alone.</speak>
 
-[Fry opens the door and Leela and Bender walk out.]
+<info>Fry opens the door and Leela and Bender walk out.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry please.   My ponytail's caught in 
-the door.
+the door.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I don't need them. Not when I have my 
 antique videos, my bucket of fossilised 
 <character>KFC</character> and 50 million dollars worth of 
-anchovies.
+anchovies.</speak>
 
-[He kisses the tin of anchovies.]
+<info>He kisses the tin of anchovies.</info>
 
-[Mom's Friendly Robot Company Building Corridor. Mom walks towards 
-her office, followed by her sons.]
+<info>Mom's Friendly Robot Company Building Corridor. Mom walks towards 
+her office, followed by her sons.</info>
 
-<character>MOM</character>
-Mercy me, what a day.
+<speak who="MOM">
+Mercy me, what a day.</speak>
 
-[Cut to: Mom's Office.]
+<info>Cut to: Mom's Office.</info>
 
-<character>MOM</character>
+<speak who="MOM">
 Could you shut the door, Igner dear? 
 I think I feel a draught coming on. 
 Holy crap, that bastard's itchy!  Walt! 
-Cream soda!
+Cream soda!</speak>
 
-[Walt is the oldest. He has a full head of black hair.]
+<info>Walt is the oldest. He has a full head of black hair.</info>
 
-<character>WALT</character>
+<speak who="WALT">
 Right away, mother.  Larry, get your 
-mother a cream soda.
+mother a cream soda.</speak>
 
-<character>LARRY</character>
-But Mom said --
+<speak who="LARRY">
+But Mom said --</speak>
 
-[Walt slaps him.]
+<info>Walt slaps him.</info>
 
-<character>WALT</character>
-You heard me.
+<speak who="WALT">
+You heard me.</speak>
 
-[Mom drinks the can of soda, throws it down then lights a cigarette.]
+<info>Mom drinks the can of soda, throws it down then lights a cigarette.</info>
 
-<character>IGNER</character>
-What's wrong, Mommy?
+<speak who="IGNER">
+What's wrong, Mommy?</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 It's those damned anchovies. That dirtbag, 
 Fry, must know their secret. And I won't 
 rest until I get my hands on them. No 
-one messes with Mom!
+one messes with Mom!</speak>
 
-[She laughs evily. Walt laughs with her. Larry and Igner join 
-in. Walt slaps Larry.]
+<info>She laughs evily. Walt laughs with her. Larry and Igner join 
+in. Walt slaps Larry.</info>
 
-<character>WALT</character>
-Quiet, you!
+<speak who="WALT">
+Quiet, you!</speak>
 
-[Time Lapse. Mom is now sat behind a huge desk.]
+<info>Time Lapse. Mom is now sat behind a huge desk.</info>
 
-<character>MOM</character>
+<speak who="MOM">
 As you boys know, one of the cornerstones 
 of my empire is Mom's Old Fashioned 
 Robot Oil. Think of it: 10 billion robots. 
 Each one needing an oil change every 
 3000 miles. You don't have to do the 
-math to know that's a buttload of oil.
+math to know that's a buttload of oil.</speak>
 
-<character>IGNER</character>
-Can I wear your fat suit?
+<speak who="IGNER">
+Can I wear your fat suit?</speak>
 
-<character>MOM</character>
-(shouting): No, Igner, put that down.
+<speak who="MOM">
+<info>(shouting)</info>: No, Igner, put that down.</speak>
 
-[Igner drops the fat suit arm.]
+<info>Igner drops the fat suit arm.</info>
 
-<character>IGNER</character>
-Aww.
+<speak who="IGNER">
+Aww.</speak>
 
-<character>WALT</character>
-What does this have to do with the anchovies?
+<speak who="WALT">
+What does this have to do with the anchovies?</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 I'm getting to the freaking anchovies. 
 A single drop of the anchovies natural 
-oil would lubricate 10 robots permanently.
+oil would lubricate 10 robots permanently.</speak>
 
-<character>LARRY</character>
-Wow, it's a shame they went extinct.
+<speak who="LARRY">
+Wow, it's a shame they went extinct.</speak>
 
-<character>MOM </character>(<character>SHOUTING</character>)
+<speak who="MOM"><info>(<character>SHOUTING</character>)</info>
 No it isn't, shut your filthy trap! 
-(talking) Thank you, Walt. If anyone 
+<info>(talking)</info> Thank you, Walt. If anyone 
 ever got a hold of anchovy <character>DNA</character>, they 
 could chop out the oil-making gene, 
 stick it in a bunch of third world kids 
 and bam! Cheap effective robot oil. 
-Enough to put dear old Mom out of businness.
+Enough to put dear old Mom out of businness.</speak>
 
-<character>WALT</character>
+<speak who="WALT">
 My God! This Mr. Fry must be a mastermind 
-of the highest order.
+of the highest order.</speak>
 
-[Cut to: Historic 20th Century Apartment. Fry is sat in the dark 
-watching Sanford & Son.]
+<info>Cut to: Historic 20th Century Apartment. Fry is sat in the dark 
+watching Sanford &amp; Son.</info>
 
-<character>FRED</character>
-Esther, you ugly!
+<speak who="FRED">
+Esther, you ugly!</speak>
 
-[Fry laughs.]
+<info>Fry laughs.</info>
 
-[Cut to: Mom's Friendly Robot Company Building: Mom's Office.]
+<info>Cut to: Mom's Friendly Robot Company Building: Mom's Office.</info>
 
-<character>MOM</character>
+<speak who="MOM">
 We have only one option: We'll have 
 to bankrupt Mr Fry, so he'll be forced 
-to sell the anchovies to us.
+to sell the anchovies to us.</speak>
 
-<character>WALT</character>
-Mother, you are one clever old skag!
+<speak who="WALT">
+Mother, you are one clever old skag!</speak>
 
-<character>MOM</character>
-And don't you forget it!
+<speak who="MOM">
+And don't you forget it!</speak>
 
-<character>LARRY</character>
+<speak who="LARRY">
 But how are we supposed to get Fry's 
-money out of the bank?
+money out of the bank?</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 That part will be easy, thanks to the 
 nice people at Mom's Old Fashioned Video 
-Surveillance Unit.
+Surveillance Unit.</speak>
 
-[She puts another tape in. The scene at Big Apple Bank replays 
-on the <character>TV</character>.]
+<info>She puts another tape in. The scene at Big Apple Bank replays 
+on the TV.</info>
 
-<character>TELLER </character>[ON TV]
-Do you still remember your <character>PIN</character> number?
+<speak who="TELLER"><info>ON TV</info>
+Do you still remember your <character>PIN</character> number?</speak>
 
-<character>FRY </character>[ON TV]
+<speak who="FRY"><info>ON TV</info>
 Sure! It's the price of a cheese pizza 
 and a large soda back where I used to 
 work, Panucci's Pizza.  It's the price 
-of a cheese pizza and a large soda --
+of a cheese pizza and a large soda --</speak>
 
-[Mom turns the TV off.]
+<info>Mom turns the TV off.</info>
 
-<character>MOM</character>
-You know what needs to be done.
+<speak who="MOM">
+You know what needs to be done.</speak>
 
-<character>LARRY</character>
-What?
+<speak who="LARRY">
+What?</speak>
 
-<character>MOM </character>(<character>SHOUTING</character>)
-Get his <character>PIN</character> number, you idiots!  (talking) 
+<speak who="MOM"><info>(<character>SHOUTING</character>)</info>
+Get his <character>PIN</character> number, you idiots!  <info>(talking)</info> 
 Now I'm off to some chairty BS for knocked-up 
-teenage sluts.
+teenage sluts.</speak>
 
-[Historic 20th Century Apartment. There is a knock at the door.]
+<info>Historic 20th Century Apartment. There is a knock at the door.</info>
 
-<character>WALT </character>[<character>FROM OUTSIDE</character>]
+<speak who="WALT"><info><character>FROM OUTSIDE</character></info>
 Mr. Fry. It's those three plumbers you 
-called for.
+called for.</speak>
 
-<character>LARRY </character>[<character>FROM OUTSIDE</character>]
-We're here to tighten your drains.
+<speak who="LARRY"><info><character>FROM OUTSIDE</character></info>
+We're here to tighten your drains.</speak>
 
-[The sounds of Walt's hand meeting Larry's face is heard. Fry 
-opens the door.]
+<info>The sounds of Walt's hand meeting Larry's face is heard. Fry 
+opens the door.</info>
 
-<character>FRY</character>
-I didn't order any --
+<speak who="FRY">
+I didn't order any --</speak>
 
-[Walt and Igner jump on Fry and pin him to the floor.]
+<info>Walt and Igner jump on Fry and pin him to the floor.</info>
 
-<character>WALT</character>
-Quick! Give him the tranquilliser.
+<speak who="WALT">
+Quick! Give him the tranquilliser.</speak>
 
-[Larry puts some tablets in Fry's mouth and strokes them down 
-his throat.]
+<info>Larry puts some tablets in Fry's mouth and strokes them down 
+his throat.</info>
 
-<character>LARRY</character>
-That's a good boy.
+<speak who="LARRY">
+That's a good boy.</speak>
 
-[Fry falls unconscious.]
+<info>Fry falls unconscious.</info>
 
-[Pizzeria Set. Fry comes around and sees a disguised Walt wearing 
-a fake handlebar moustache.]
+<info>Pizzeria Set. Fry comes around and sees a disguised Walt wearing 
+a fake handlebar moustache.</info>
 
-<character>WALT</character>
-Wake up, Mr. Fry.
+<speak who="WALT">
+Wake up, Mr. Fry.</speak>
 
-<character>FRY</character>
-Where am I?
+<speak who="FRY">
+Where am I?</speak>
 
-<character>WALT</character>
+<speak who="WALT">
 You're in the good old year 2000, working 
 here at Panucci's Pizza. You fell asleep 
-on the job.
+on the job.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 That sounds like me but, I thought I 
-got frozen. Wasn't I in the future?
+got frozen. Wasn't I in the future?</speak>
 
-<character>WALT</character>
+<speak who="WALT">
 No, you only "dreamed" you were in the 
-year 3000.
+year 3000.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 So I'm really back? That's exactly what 
-I wanted, I guess. Who are you?
+I wanted, I guess. Who are you?</speak>
 
-<character>WALT</character>
-I'm Mr. Panucci.
+<speak who="WALT">
+I'm Mr. Panucci.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You are? Did you grow a moustache since 
-last night?
+last night?</speak>
 
-[Walt tears off the moustache.]
+<info>Walt tears off the moustache.</info>
 
-<character>WALT</character>
+<speak who="WALT">
 No. Now go work the currency register. 
 I think I hear a customer coming...I 
-said "I think I hear a customer coming"!
+said "I think I hear a customer coming"!</speak>
 
-[Cut to: Backstage. Larry is forcing a dress over Igner's head. 
-Pamela Anderson's head in jar is on a table.]
+<info>Cut to: Backstage. Larry is forcing a dress over Igner's head. 
+Pamela Anderson's head in jar is on a table.</info>
 
-<character>ANDERSON</character>
+<speak who="ANDERSON">
 Hurry up, please. I wanna get back to 
-the head museum.
+the head museum.</speak>
 
-<character>LARRY</character>
+<speak who="LARRY">
 Don't worry, Miss Anderson, this won't 
 take long. Now, your motivation is you're 
 back in the year 2000 and your head's 
 still on your body, and you want a cheese 
-pizza.
+pizza.</speak>
 
-[He picks up the jar and puts it on Igner's head.]
+<info>He picks up the jar and puts it on Igner's head.</info>
 
-<character>ANDERSON</character>
+<speak who="ANDERSON">
 OK, but I'm only doing this so people 
-will take my head seriously as an actress.
+will take my head seriously as an actress.</speak>
 
-[Cut to: Pizzeria Set. Fry notices something on a sign above 
-him.]
+<info>Cut to: Pizzeria Set. Fry notices something on a sign above 
+him.</info>
 
-<character>FRY</character>
-Hey, look! Anchovies!
+<speak who="FRY">
+Hey, look! Anchovies!</speak>
 
-<character>WALT</character>
+<speak who="WALT">
 Of course. They're not extinct yet. 
 And if you need further proof that this 
 is really a thousand years ago well, 
 here's contemporary actress, Pamela 
-Anderson!
+Anderson!</speak>
 
-[Enter Pamela Anderson on top of Igner.]
+<info>Enter Pamela Anderson on top of Igner.</info>
 
-<character>FRY</character>
-Ooh!
+<speak who="FRY">
+Ooh!</speak>
 
-<character>ANDERSON</character>
+<speak who="ANDERSON">
 Hello, Fry. Remember me from Baywatch: 
-The Movie?
+The Movie?</speak>
 
-<character>FRY</character>
-Uh...
+<speak who="FRY">
+Uh...</speak>
 
-<character>ANDERSON</character>
+<speak who="ANDERSON">
 It was the first movie to be shot entirely 
-in slow motion.
+in slow motion.</speak>
 
-[Walt leans in to Anderson.]
+<info>Walt leans in to Anderson.</info>
 
-<character>WALT </character>(<character>WHISPERING</character>)
-It hasn't been made yet.
+<speak who="WALT"><info>(<character>WHISPERING</character>)</info>
+It hasn't been made yet.</speak>
 
-[Walt shakes his head.]
+<info>Walt shakes his head.</info>
 
-<character>WALT</character>
-Nope.
+<speak who="WALT">
+Nope.</speak>
 
-<character>ANDERSON</character>
-Crap!
+<speak who="ANDERSON">
+Crap!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait. You're Pamela Anderson! Cool! 
-What can I get you?
+What can I get you?</speak>
 
-<character>ANDERSON</character>
-Oh, I'll have a cheese pizza and a large...uh...line?
+<speak who="ANDERSON">
+Oh, I'll have a cheese pizza and a large...uh...line?</speak>
 
-[Larry whispers from backstage.]
+<info>Larry whispers from backstage.</info>
 
-<character>LARRY </character>(<character>WHISPERING</character>)
-Soda!
+<speak who="LARRY"><info>(<character>WHISPERING</character>)</info>
+Soda!</speak>
 
-<character>ANDERSON</character>
+<speak who="ANDERSON">
 Oh, right! Cheese pizza and a large 
-soda!
+soda!</speak>
 
-<character>FRY</character>
-Uh, cheese and a --  That was quick!
+<speak who="FRY">
+Uh, cheese and a --  That was quick!</speak>
 
-<character>ANDERSON</character>
-So. What do I owe you?
+<speak who="ANDERSON">
+So. What do I owe you?</speak>
 
-<character>FRY</character>
-10.77. Same as my <character>PIN</character> number.
+<speak who="FRY">
+10.77. Same as my <character>PIN</character> number.</speak>
 
-[Walt, Larry, Igner and Anderson laugh. Fry is unsure of what 
-is happening so just laughs along with them.]
+<info>Walt, Larry, Igner and Anderson laugh. Fry is unsure of what 
+is happening so just laughs along with them.</info>
 
-<character>IGNER</character>
-Hey, you don't get to laugh.
+<speak who="IGNER">
+Hey, you don't get to laugh.</speak>
 
-[He hits Fry on the head with Anderson's jar.]
+<info>He hits Fry on the head with Anderson's jar.</info>
 
-[Outside Historic 20th Century Apartments. A white limo pulls 
+<info>Outside Historic 20th Century Apartments. A white limo pulls 
 up outside and the brothers throw Fry out onto the pavement. 
-There are bags of money in the limo.]
+There are bags of money in the limo.</info>
 
-[Cut to: Limo. Igner is driving.]
+<info>Cut to: Limo. Igner is driving.</info>
 
-<character>IGNER</character>
-Thanks a billion!
+<speak who="IGNER">
+Thanks a billion!</speak>
 
-[He laughs. Larry counts the cash in the back.]
+<info>He laughs. Larry counts the cash in the back.</info>
 
-<character>LARRY</character>
-More like 4.3 billion!
+<speak who="LARRY">
+More like 4.3 billion!</speak>
 
-[He laughs with Igner. Walt slaps them both.]
+<info>He laughs with Igner. Walt slaps them both.</info>
 
-<character>IGNER</character>
-Ow!
+<speak who="IGNER">
+Ow!</speak>
 
-<character>LARRY</character>
-Ow!
+<speak who="LARRY">
+Ow!</speak>
 
-[The limo speeds off and Fry blacks out into a dream.]
+<info>The limo speeds off and Fry blacks out into a dream.</info>
 
-[Cut to: Fry's Dream. Pizza's, 1077's and anchovy tins float 
-around him. Leela's and Bender's heads float towards him.]
+<info>Cut to: Fry's Dream. Pizza's, 1077's and anchovy tins float 
+around him. Leela's and Bender's heads float towards him.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh, I had a nightmare I was in the year 
 2000 and you guys never existed. I'm 
 so glad I'm awake now and you're really 
-here.
+here.</speak>
 
-<character>LEELA</character>
-Since when do you care about us?
+<speak who="LEELA">
+Since when do you care about us?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 We thought you only cared about cans 
 of anchovies and stuffy old songs about 
-the buttocks.
+the buttocks.</speak>
 
-<character>FRY</character>
-No, that's not true!
+<speak who="FRY">
+No, that's not true!</speak>
 
-[Leela and Bender float away.]
+<info>Leela and Bender float away.</info>
 
-<character>LEELA</character>
-Goodbye-eee!
+<speak who="LEELA">
+Goodbye-eee!</speak>
 
-<character>BENDER</character>
-Wheee!
+<speak who="BENDER">
+Wheee!</speak>
 
-[A pack of Lightspeeds appear in the corner.]
+<info>A pack of Lightspeeds appear in the corner.</info>
 
-[Fry comes to. A repobot walks out of his apartment with his 
-<character>TV</character>.]
+<info>Fry comes to. A repobot walks out of his apartment with his 
+TV.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Bender! Leela! Don't leave me. Wait 
-a minute! Hey, buddy what year is this?
+a minute! Hey, buddy what year is this?</speak>
 
-<character>REPOBOT</character>
-Uh, 3000.
+<speak who="REPOBOT">
+Uh, 3000.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 3000? Yes! I'm still in the future! 
 Life is wonderful!  Wait! What are you 
-doing with my stuff?
+doing with my stuff?</speak>
 
-<character>REPOBOT</character>
+<speak who="REPOBOT">
 Uh, check bounced. We're taking it all 
-back.
+back.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh, no, my <character>ATM</character> card! My secret <character>PIN</character> number! 
-1077. I've got nothing left. Except...
+1077. I've got nothing left. Except...</speak>
 
-[He pulls the tin of anchovies out of his sock.]
+<info>He pulls the tin of anchovies out of his sock.</info>
 
-[Planet Express: Lounge. Leela and Bender are sat on the couch 
-and Farnsworth is sat at the table.]
+<info>Planet Express: Lounge. Leela and Bender are sat on the couch 
+and Farnsworth is sat at the table.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You're Fry's relative. Do you have any 
-idea how he got so crazy?
+idea how he got so crazy?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Uh, wha? Oh, yes, they say madness runs 
 in our family. Some even call me mad! 
 And why? Because I dared to dream of 
 my own race of atomic monsters. Atomic 
 supermen with octagonal-shaped bodies 
-that suck blood out of...
+that suck blood out of...</speak>
 
-[He walks out still blabbering. Enter Fry.]
+<info>He walks out still blabbering. Enter Fry.</info>
 
-<character>FRY</character>
-Leela! Bender! I missed you so much!
+<speak who="FRY">
+Leela! Bender! I missed you so much!</speak>
 
-<character>LEELA</character>
-You did? What happened?
+<speak who="LEELA">
+You did? What happened?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I was robbed. They got everything except 
-these.
+these.</speak>
 
-[He holds up the anchovies.]
+<info>He holds up the anchovies.</info>
 
-<character>BENDER</character>
-Who did?
+<speak who="BENDER">
+Who did?</speak>
 
-[Leela gasps at something across the room. Mom is stood in the 
-doorway wearing her fat suit.]
+<info>Leela gasps at something across the room. Mom is stood in the 
+doorway wearing her fat suit.</info>
 
-<character>MOM</character>
-Hello, Fry.
+<speak who="MOM">
+Hello, Fry.</speak>
 
-<character>LEELA</character>
-It's Mom.
+<speak who="LEELA">
+It's Mom.</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 I felt terrible when I heard about your 
 money troubles and I thought maybe I 
 could help out a sweet young man by 
-buying his anchovies.
+buying his anchovies.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Sorry. But the anchovies aren't for 
-sale.
+sale.</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 What? Listen, you little bastard. I 
 control the robot oil business and I 
 won't let you ruin me. How much do you 
-want?
+want?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You might as well put that chequebook 
 away, because I've discovered something 
 even more important. My friends. And 
 they aren't worth even a penny to me. 
 That's why these anchovies are going 
 on a pizza, so I can share the food 
-I love with the people I like.
+I love with the people I like.</speak>
 
-<character>MOM</character>
+<speak who="MOM">
 Holy hell! You're going to eat them? 
 Oh, well. Just make sure you eat them 
 all. You're a growing boy. Toodle-oo! 
-Dumb ass!
+Dumb ass!</speak>
 
-<character>FRY</character>
-What a nice lady!
+<speak who="FRY">
+What a nice lady!</speak>
 
-[Time Lapse. The whole staff except for Zoidberg are gathered 
-around the table. Fry opens the tin of anchovies.]
+<info>Time Lapse. The whole staff except for Zoidberg are gathered 
+around the table. Fry opens the tin of anchovies.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 OK, my friends. Get ready for the most 
 delicious extinct animal you've ever 
-tasted.
+tasted.</speak>
 
-<character>AMY</character>
-I don't know, I've had cow.  Ew! Gross!
+<speak who="AMY">
+I don't know, I've had cow.  Ew! Gross!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Ah, no one likes them at first but they'll 
-grow on you.
+grow on you.</speak>
 
-[Enter Zoidberg. He sniffs.]
+<info>Enter Zoidberg. He sniffs.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 That stench. That heavenly stench!  
-More!
+More!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 There aren't any more. And there never 
-will be.
+will be.</speak>
 
-[Zoidberg tips the table over and moves towards Fry, raising 
-his claws.]
+<info>Zoidberg tips the table over and moves towards Fry, raising 
+his claws.</info>
 
-<character>ZOIDBERG</character>
-More! More! More! More!
+<speak who="ZOIDBERG">
+More! More! More! More!</speak>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

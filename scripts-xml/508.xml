@@ -1,1127 +1,1127 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 508
 
-<title><character>THE WHY OF FRY</character></title>
+<title>THE WHY OF FRY</title>
 
 <author>David X. Cohen</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Dancing Space Potatoes? You Bet!]
+<info>Opening Credits. Caption: Dancing Space Potatoes? You Bet!</info>
 
-[Planet Express: Meeting Room. Zoidberg is sitting in a bathtub 
+<info>Planet Express: Meeting Room. Zoidberg is sitting in a bathtub 
 while Amy is sat at the table reading a book called Martians 
 Are From Mars, Venusians Are From Venus. Enter Fry wearing a 
-spacesuit.]
+spacesuit.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Delivery boy Philip J. Fry reporting 
-for duty.
+for duty.</speak>
 
-<character>ZOIDBERG</character>
-Dr Zoidberg, soaking in brine.
+<speak who="ZOIDBERG">
+Dr Zoidberg, soaking in brine.</speak>
 
-[He relaxes and blows brine through his blowhole. It splatters 
-on Amy who barely reacts.]
+<info>He relaxes and blows brine through his blowhole. It splatters 
+on Amy who barely reacts.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 What is the meaning of this? We've got 
 a delivery people, let's move, let's 
 move!  Amy? Mission profile?  Interesting, 
-interesting. Dr Zoidberg, mission bag?
+interesting. Dr Zoidberg, mission bag?</speak>
 
-<character>ZOIDBERG</character>
-Packed and ready sir.
+<speak who="ZOIDBERG">
+Packed and ready sir.</speak>
 
-[Fry takes the brown bag from him. Fry takes something out.]
+<info>Fry takes the brown bag from him. Fry takes something out.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 What's this? This is the same toy surprise 
 I got last time!  I can't work under 
 these conditions. And without me there 
-is no mission. I am the mission!
+is no mission. I am the mission!</speak>
 
-[The ship lands behind him and Bender and Leela walk out.]
+<info>The ship lands behind him and Bender and Leela walk out.</info>
 
-<character>LEELA </character>(<character>SHOUTING</character>)
-We're back from the mission!
+<speak who="LEELA"><info>(<character>SHOUTING</character>)</info>
+We're back from the mission!</speak>
 
-<character>FRY</character>
-Wh-what? You went without me?
+<speak who="FRY">
+Wh-what? You went without me?</speak>
 
-<character>BENDER </character>(<character>SHOUTING</character>)
+<speak who="BENDER"><info>(<character>SHOUTING</character>)</info>
 You were looking up curse words in the 
 dictionary. It seemed like a better 
-use of your time.
+use of your time.</speak>
 
-<character>FRY</character>
-But, but I'm the delivery boy.
+<speak who="FRY">
+But, but I'm the delivery boy.</speak>
 
-<character>LEELA</character>
-Don't worry, everything went fine.
+<speak who="LEELA">
+Don't worry, everything went fine.</speak>
 
-<character>BENDER</character>
-Better than usual!
+<speak who="BENDER">
+Better than usual!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We got medals! Good work team! We really 
-pulled together on this one.
+pulled together on this one.</speak>
 
-<character>BENDER</character>
-Woo-hoo!
+<speak who="BENDER">
+Woo-hoo!</speak>
 
-[He and Leela bump each other. Fry looks on sadly.]
+<info>He and Leela bump each other. Fry looks on sadly.</info>
 
-[Planet Express: Locker Area. Leela blow dries her hair and Bender 
-brushes his eyes with a toothbrush. Fry sits on the bench sadly.]
+<info>Planet Express: Locker Area. Leela blow dries her hair and Bender 
+brushes his eyes with a toothbrush. Fry sits on the bench sadly.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm real sorry I missed the mission. 
 I wasn't there and you might have needed 
-me.
+me.</speak>
 
-<character>BENDER</character>
-Nope.
+<speak who="BENDER">
+Nope.</speak>
 
-<character>FRY</character>
-But if I'd been there I -
+<speak who="FRY">
+But if I'd been there I -</speak>
 
-<character>BENDER</character>
-Nope.
+<speak who="BENDER">
+Nope.</speak>
 
-<character>FRY</character>
-L -
+<speak who="FRY">
+L -</speak>
 
-<character>BENDER</character>
-Nope.
+<speak who="BENDER">
+Nope.</speak>
 
-<character>FRY</character>
-Bender's great.
+<speak who="FRY">
+Bender's great.</speak>
 
-<character>BENDER</character>
-Nope! Ohh!
+<speak who="BENDER">
+Nope! Ohh!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Listen Leela, let me make it up by taking 
-you out to dinner tonight.
+you out to dinner tonight.</speak>
 
-<character>LEELA</character>
-Nope. I've got a date with Chaz.
+<speak who="LEELA">
+Nope. I've got a date with Chaz.</speak>
 
-<character>FRY</character>
-Chaz?
+<speak who="FRY">
+Chaz?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I met him at that charity cock fight 
-last week. He's the mayor's aide.
+last week. He's the mayor's aide.</speak>
 
-<character>BENDER</character>
-Ooo, you go mutant girl!
+<speak who="BENDER">
+Ooo, you go mutant girl!</speak>
 
-[He whips her with his towel.]
+<info>He whips her with his towel.</info>
 
-<character>LEELA</character>
-I do go! He's a very important man.
+<speak who="LEELA">
+I do go! He's a very important man.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 So? I'm just as important as him.  It's 
 just that, the kind of importance I 
-have, it doesn't matter if <character>I</character>...don't 
-do it.
+have, it doesn't matter if I...don't 
+do it.</speak>
 
-[He slopes over sadly. Bender hangs his towel over him.]
+<info>He slopes over sadly. Bender hangs his towel over him.</info>
 
-[Planet Express: Lounge. Bender and Fry sit on the couch. Fry 
-sighs and strokes Nibbler.]
+<info>Planet Express: Lounge. Bender and Fry sit on the couch. Fry 
+sighs and strokes Nibbler.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm nobody. There are guys in the background 
 with Mary Worth comics who are more 
-important than me.
+important than me.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ah, buck up meatloaf. Bender'll take 
 you out tonight and cheer you up. What 
 do you wanna do? And I mean anything. 
 You have the power! Name it an I'm there, 
-you the man!
+you the man!</speak>
 
-<character>FRY</character>
-Um, <character>OK</character>. Let's go bowling.
+<speak who="FRY">
+Um, <character>OK</character>. Let's go bowling.</speak>
 
-<character>BENDER</character>
-Nah.
+<speak who="BENDER">
+Nah.</speak>
 
-[He puts his feet up and turns the TV on.]
+<info>He puts his feet up and turns the TV on.</info>
 
-[Elzar's Fine Cuisine Entrance. Enter Leela and her date Chaz. 
-Enter Elzar.]
+<info>Elzar's Fine Cuisine Entrance. Enter Leela and her date Chaz. 
+Enter Elzar.</info>
 
-<character>ELZAR</character>
-Table for two? Step right this way.
+<speak who="ELZAR">
+Table for two? Step right this way.</speak>
 
-<character>CHAZ</character>
+<speak who="CHAZ">
 I'm afraid we don't have a reservation 
 but uh, as you can see......I'm the 
-mayor's aide. Table for two please.
+mayor's aide. Table for two please.</speak>
 
-[Elzar stares, confused.]
+<info>Elzar stares, confused.</info>
 
-<character>ELZAR</character>
-OK then.
+<speak who="ELZAR">
+OK then.</speak>
 
-[Cut to: Elzar's Fine Cuisine Restaurant. Elzar seats Chaz and 
+<info>Cut to: Elzar's Fine Cuisine Restaurant. Elzar seats Chaz and 
 Leela. Two chef's run out from the kitchen chasing a cockroach. 
-It runs onto a table and Elzar whacks it with a piece of bread.]
+It runs onto a table and Elzar whacks it with a piece of bread.</info>
 
-<character>ELZAR</character>
-Bam!
+<speak who="ELZAR">
+Bam!</speak>
 
-<character>CHAZ</character>
+<speak who="CHAZ">
 It's OK my man. I got you covered on 
-your next health inspection.
+your next health inspection.</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 I really appreciate that mister mayor's 
 aide.  Here you go, compliments of the 
-house.
+house.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wow, free bread at a restaurant? Is 
-there anything you can't do?
+there anything you can't do?</speak>
 
-<character>CHAZ</character>
-I can't fail the mayor, not ever.
+<speak who="CHAZ">
+I can't fail the mayor, not ever.</speak>
 
-[Leela sighs, lovestruck.]
+<info>Leela sighs, lovestruck.</info>
 
-[O'Zorgnax's Pub. Fry sits at a table, lonely. He sees Leela 
-and Chaz walk in.]
+<info>O'Zorgnax's Pub. Fry sits at a table, lonely. He sees Leela 
+and Chaz walk in.</info>
 
-<character>FRY</character>
-Oh jeez, better not let Leela see me.
+<speak who="FRY">
+Oh jeez, better not let Leela see me.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hey, I hear Fry.  Boy am I glad you're 
-here!
+here!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You are? So things aren't working out 
-with whatshisname?
+with whatshisname?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Actually...they are! Confidentially, 
 I might not make it back to my apartment 
 tonight! Could you walk Nibbler for 
-me?
+me?</speak>
 
-[She hands him her key.]
+<info>She hands him her key.</info>
 
-<character>FRY</character>
-Um..uh...
+<speak who="FRY">
+Um..uh...</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 And bring a baggy in case he drops a 
-steamer. (shouting) Have a great night!
+steamer. <info>(shouting)</info> Have a great night!</speak>
 
-[Street. Fry walks down the empty street with Nibbler. Nibbler 
-spies a lamppost and starts sniffing around it.]
+<info>Street. Fry walks down the empty street with Nibbler. Nibbler 
+spies a lamppost and starts sniffing around it.</info>
 
-<character>FRY</character>
-Oh no, please, no!  Perfect!
+<speak who="FRY">
+Oh no, please, no!  Perfect!</speak>
 
-[Fry puts the bag over his hand and tries to lift the dark matter. 
-He struggles. Smitty and <character>URL</character> approach him.]
+<info>Fry puts the bag over his hand and tries to lift the dark matter. 
+He struggles. Smitty and URL approach him.</info>
 
-<character>SMITTY</character>
-Whoa, smells like a 289 in progress!
+<speak who="SMITTY">
+Whoa, smells like a 289 in progress!</speak>
 
-<character>URL</character>
-Failure to scoop, aw yeah!
+<speak who="URL">
+Failure to scoop, aw yeah!</speak>
 
-[He prints off a ticket.]
+<info>He prints off a ticket.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait, I'm trying. It weighs as much 
-as a thousand suns!
+as a thousand suns!</speak>
 
-[He struggles with it some more. <character>URL</character> hands him the ticket. Chaz's 
-car pulls up beside them.]
+<info>He struggles with it some more. URL hands him the ticket. Chaz's 
+car pulls up beside them.</info>
 
-<character>CHAZ</character>
+<speak who="CHAZ">
 Don't worry Fry, I'll pull some strings. 
-See if I can't get you tried as a juvenile!
+See if I can't get you tried as a juvenile!</speak>
 
-<character>LEELA</character>
-Oh Chaz!
+<speak who="LEELA">
+Oh Chaz!</speak>
 
-[She hugs him and they drive off. Fry sighs.]
+<info>She hugs him and they drive off. Fry sighs.</info>
 
-[Alley.]
+<info>Alley.</info>
 
-<character>FRY</character>
-I'm as worthless as this trashcan.
+<speak who="FRY">
+I'm as worthless as this trashcan.</speak>
 
-[He kicks it over and sits down against a wall.]
+<info>He kicks it over and sits down against a wall.</info>
 
-<character>TRASHCAN</character>
+<speak who="TRASHCAN">
 You think I'm as worthless as you? Try 
 catching garbage in your head and raising 
-six kids you dumb townie!
+six kids you dumb townie!</speak>
 
-[It rolls away. Garbage falls on Fry from a chute above him.]
+<info>It rolls away. Garbage falls on Fry from a chute above him.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh Nibbler, at least I'm important to 
 you. Even if it's only 'cause I clean 
-up you poop.
+up you poop.</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 The poop eradication is but one aspect 
-of your importance.
+of your importance.</speak>
 
-[Fry nods then realises Nibbler has just spoken. He screams.]
+<info>Fry nods then realises Nibbler has just spoken. He screams.</info>
 
-<character>FRY</character>
-D-d-did you just talk?
+<speak who="FRY">
+D-d-did you just talk?</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Indeed. And I have other amazing powers 
-as well.
+as well.</speak>
 
-<character>FRY</character>
-Like what?
+<speak who="FRY">
+Like what?</speak>
 
-[He punches Fry and knocks him unconcious.]
+<info>He punches Fry and knocks him unconcious.</info>
 
-[Time Lapse. Nibbler pulls his spaceship out from its hideaway 
-and drags the still unconcious Fry into it. He comes around.]
+<info>Time Lapse. Nibbler pulls his spaceship out from its hideaway 
+and drags the still unconcious Fry into it. He comes around.</info>
 
-<character>FRY</character>
-Are you my mommy?
+<speak who="FRY">
+Are you my mommy?</speak>
 
-<character>NIBBLER</character>
-Negative.
+<speak who="NIBBLER">
+Negative.</speak>
 
-[He closes the roof and takes off.]
+<info>He closes the roof and takes off.</info>
 
-[Planet Eternium. Nibbler lands his ship outside the Hall Of 
-Eternity.]
+<info>Planet Eternium. Nibbler lands his ship outside the Hall Of 
+Eternity.</info>
 
-[Cut to: Hall Of Eternity.]
+<info>Cut to: Hall Of Eternity.</info>
 
-<character>FIONA</character>
-Welcome Lord Nibbler.
+<speak who="FIONA">
+Welcome Lord Nibbler.</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Welcome acknowledged. I bring with me...the 
-Mighty One.
+Mighty One.</speak>
 
-[Fry wipes his nose on his sleeve.]
+<info>Fry wipes his nose on his sleeve.</info>
 
-<character>FRY</character>
-Eh?
+<speak who="FRY">
+Eh?</speak>
 
-<character>KEN</character>
+<speak who="KEN">
 At last, our centuries upon centuries 
-of waiting have achieved fruition.
+of waiting have achieved fruition.</speak>
 
-<character>FRY</character>
-Aww, aren't you a fuzzy wittle guy?
+<speak who="FRY">
+Aww, aren't you a fuzzy wittle guy?</speak>
 
-[He tickles Ken and he purrs.]
+<info>He tickles Ken and he purrs.</info>
 
-<character>KEN</character>
+<speak who="KEN">
 Stop that! Uh...please. Your mightiness 
--
+-</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Mightiness? Are you off your nut? I 
-just got kidnapped by a bunch of guineapigs.
+just got kidnapped by a bunch of guineapigs.</speak>
 
-[The Nibblonians gasp and chatter.]
+<info>The Nibblonians gasp and chatter.</info>
 
-<character>KEN</character>
-Does he not know?
+<speak who="KEN">
+Does he not know?</speak>
 
-<character>NIBBLER</character>
-He does not know.
+<speak who="NIBBLER">
+He does not know.</speak>
 
-<character>FIONA</character>
-He knows not?
+<speak who="FIONA">
+He knows not?</speak>
 
-<character>NIBBLER</character>
-Knows not does he.
+<speak who="NIBBLER">
+Knows not does he.</speak>
 
-<character>NIBBLONIAN</character>
-Not he knows?
+<speak who="NIBBLONIAN">
+Not he knows?</speak>
 
-<character>KEN</character>
+<speak who="KEN">
 Enough! Fry, it is my duty to inform 
 you that the fate of humanity, the fate 
 of our race, indeed the fate of all 
 that exists and all that will exist 
 rests with you. You are the single most 
-important person in the universe.
+important person in the universe.</speak>
 
-<character>FRY</character>
-Oh snap!
+<speak who="FRY">
+Oh snap!</speak>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 On this auspicious occasion, let the 
-Hall Of Eternity cut a thunderous blast.
+Hall Of Eternity cut a thunderous blast.</speak>
 
-[A Nibblonian feebly blows a trumpet. The floor opens and animals 
-on plates rise up in front of the Nibblonians.]
+<info>A Nibblonian feebly blows a trumpet. The floor opens and animals 
+on plates rise up in front of the Nibblonians.</info>
 
-<character>FIONA</character>
-The Feast Of A Thousand Beasts is begun.
+<speak who="FIONA">
+The Feast Of A Thousand Beasts is begun.</speak>
 
-[They tuck in. Fry leaves his zebra.]
+<info>They tuck in. Fry leaves his zebra.</info>
 
-<character>NIBBLONIAN</character>
-You gonna eat that?
+<speak who="NIBBLONIAN">
+You gonna eat that?</speak>
 
-<character>FRY</character>
-Maybe later.
+<speak who="FRY">
+Maybe later.</speak>
 
-[The table sinks back into the floor.]
+<info>The table sinks back into the floor.</info>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>KEN</character>
+<speak who="KEN">
 The time has come to discuss matters 
-of the gravest importance.
+of the gravest importance.</speak>
 
-[He pushes a button and images of the Brainspawn from The Day 
-The Earth Stood Stupid appear on a screen.]
+<info>He pushes a button and images of the Brainspawn from The Day 
+The Earth Stood Stupid appear on a screen.</info>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Fry, do you remember some months ago 
 when the Earth was attacked by flying 
-brains?
+brains?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hmm, I remember the square dancing stomachs, 
 although that might have been a milanta 
 commerical. Wait! The brains! I do remember! 
 But no one else does. They said I was 
-crazy.
+crazy.</speak>
 
-<character>KEN</character>
+<speak who="KEN">
 On the contrary. You remember beause 
 you were the only one immune to the 
-brain's mental attack.
+brain's mental attack.</speak>
 
-<character>FRY</character>
-Because I'm so smart?
+<speak who="FRY">
+Because I'm so smart?</speak>
 
-[The Nibblonians laugh.]
+<info>The Nibblonians laugh.</info>
 
-<character>KEN</character>
+<speak who="KEN">
 Oh my. Anyway, your immunity is due 
 to the fact that you lack the delta 
 brainwave.  It's a genetic abnormality 
 which resulted when you went back in 
 time and performed certain actions which 
-made you your own grandfather.
+made you your own grandfather.</speak>
 
-<character>FRY</character>
-I did do the nasty in the pasty!
+<speak who="FRY">
+I did do the nasty in the pasty!</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Verily. And that past nastification 
 is what shields you from the brains. 
-You are the last hope of the universe.
+You are the last hope of the universe.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 So I really am important? How I feel 
-when I'm drunk is correct?
+when I'm drunk is correct?</speak>
 
-<character>KEN</character>
+<speak who="KEN">
 Yes. Except the Dave Matthews Band doesn't 
-rock.
+rock.</speak>
 
-[Nibblonian Spacecraft.]
+<info>Nibblonian Spacecraft.</info>
 
-<character>KEN</character>
+<speak who="KEN">
 For a thousand years, the evil brains 
 have been constructing the giant Infosphere, 
 a giant memory bank twice the size of 
-three ordinary memory banks.
+three ordinary memory banks.</speak>
 
-<character>FRY</character>
-What's so evil about that?
+<speak who="FRY">
+What's so evil about that?</speak>
 
-<character>FIONA</character>
+<speak who="FIONA">
 They plan to collect all the information 
 in the universe and store it in the 
-sphere.
+sphere.</speak>
 
-<character>FRY</character>
-So they're trying to learn things?
+<speak who="FRY">
+So they're trying to learn things?</speak>
 
-<character>FIONA</character>
-Right.
+<speak who="FIONA">
+Right.</speak>
 
-<character>FRY</character>
-Those bastards!
+<speak who="FRY">
+Those bastards!</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Being brains, they feel compelled to 
-know everything. And soon they will.
+know everything. And soon they will.</speak>
 
-<character>FRY</character>
-I'm as mad as I've ever been.
+<speak who="FRY">
+I'm as mad as I've ever been.</speak>
 
-<character>KEN</character>
+<speak who="KEN">
 Once their task is complete, they will 
 ensure no new information arises in 
 the only way possible: by destroying 
-the universe.
+the universe.</speak>
 
-<character>FRY</character>
-Now it's personal.
+<speak who="FRY">
+Now it's personal.</speak>
 
-<character>FIONA</character>
+<speak who="FIONA">
 Your mission is to infiltrate the Infosphere 
 and plant this quantum-interphase bomb, 
 blasting them into an alternate universe, 
-from which there is no return.
+from which there is no return.</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Then outrun the blast on this Scooty-Puff 
-Jr.
+Jr.</speak>
 
-[He winds the key in the back of the Scooty-Puff Jr. Fiona attaches 
-the bomb to Fry's spacesuit.]
+<info>He winds the key in the back of the Scooty-Puff Jr. Fiona attaches 
+the bomb to Fry's spacesuit.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 OK, let's go through this once more 
--
+-</speak>
 
-[The Nibblonians open the airlock and Fry is blown out into space. 
+<info>The Nibblonians open the airlock and Fry is blown out into space. 
 Fry screams. He rides the Scooty-Puff Jr towards the Infosphere. 
-A swarm of brainsspawn fly past him and one hits him on the head.]
+A swarm of brainsspawn fly past him and one hits him on the head.</info>
 
-<character>FRY</character>
-Aah! Brains!
+<speak who="FRY">
+Aah! Brains!</speak>
 
-[Ken appears on Fry's arm communicator.]
+<info>Ken appears on Fry's arm communicator.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<speak who="KEN"><info>ON <character>SCREEN</character></info>
 Fear not Mighty One, your missing brainwave 
 makes you invisible to them. So long 
-as you avoid intense thinking.
+as you avoid intense thinking.</speak>
 
-<character>FRY</character>
-Sorry, what? I wasn't paying attention.
+<speak who="FRY">
+Sorry, what? I wasn't paying attention.</speak>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
-That is most wise.
+<speak who="KEN"><info>ON <character>SCREEN</character></info>
+That is most wise.</speak>
 
-<character>FRY</character>
-Who?
+<speak who="FRY">
+Who?</speak>
 
-[Cut to: Outside Infosphere.]
+<info>Cut to: Outside Infosphere.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<speak who="KEN"><info>ON <character>SCREEN</character></info>
 In a few seconds the brains will finish 
 scanning the last bits of information 
-in the universe.
+in the universe.</speak>
 
-[Brains float past a data port and it scans their information.]
+<info>Brains float past a data port and it scans their information.</info>
 
-[The scanning ends and the Infosphere initiates a self-scan.]
+<info>The scanning ends and the Infosphere initiates a self-scan.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<speak who="KEN"><info>ON <character>SCREEN</character></info>
 Now the Infosphere will open it's protective 
 crust so as to scan itself, completing 
-it's thousand year task.
+it's thousand year task.</speak>
 
-[The Infosphere opens and a scanner comes out. It slowing begins 
+<info>The Infosphere opens and a scanner comes out. It slowing begins 
 to rotate around the Infosphere, scanning as it goes and making 
-a noise like a connecting modem.]
+a noise like a connecting modem.</info>
 
-<character>FIONA </character>[ON <character>SCREEN</character>]
+<speak who="FIONA"><info>ON <character>SCREEN</character></info>
 This is your one chance to enter the 
-sphere! Scoot! Scoot now!
+sphere! Scoot! Scoot now!</speak>
 
-[Fry scoots through the Infosphere's crust.]
+<info>Fry scoots through the Infosphere's crust.</info>
 
-[Cut to: Infosphere. The place is swarming with brains and in 
+<info>Cut to: Infosphere. The place is swarming with brains and in 
 the centre of the sphere is a huge master brain. Fry scoots towards 
 it and crashes into it. He climbs to the top where there is a 
-computer console.]
+computer console.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm at the input console. I'm a little 
-nervous and I've got brain in my buttcrack.
+nervous and I've got brain in my buttcrack.</speak>
 
-<character>NIBBLER </character>[ON <character>SCREEN</character>]
-Roger.
+<speak who="NIBBLER"><info>ON <character>SCREEN</character></info>
+Roger.</speak>
 
-[Fry attaches the bomb to the console.]
+<info>Fry attaches the bomb to the console.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<speak who="KEN"><info>ON <character>SCREEN</character></info>
 Once you press the detonator, you will 
-have 60 seconds for an exciting escape.
+have 60 seconds for an exciting escape.</speak>
 
-[Fry is about to push the button but hesitates.]
+<info>Fry is about to push the button but hesitates.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey wait, this brain knows everything 
-about everything right?
+about everything right?</speak>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<speak who="KEN"><info>ON <character>SCREEN</character></info>
 It will soon. That's why you're supposed 
-to be setting off a bomb.
+to be setting off a bomb.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah yeah, but I can't pass up a chance 
 to learn the answers to the greatest 
 questions of all time.  Is it true that 
-post-it stamp glue is made up of -
+post-it stamp glue is made up of -</speak>
 
-<character>INFOSPHERE BRAIN</character>
-Correct. Toad mucus.
+<speak who="INFOSPHERE BRAIN">
+Correct. Toad mucus.</speak>
 
-[On the console screen is a video clip of a postman squeezing 
-a toad so it's mucus drips into a bucket.]
+<info>On the console screen is a video clip of a postman squeezing 
+a toad so it's mucus drips into a bucket.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<speak who="KEN"><info>ON <character>SCREEN</character></info>
 There's no time for this. Activate the 
-bomb.
+bomb.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait wait wait.  What really killed 
-the dinosaurs?
+the dinosaurs?</speak>
 
-<character>INFOSPHERE BRAIN</character>
-Me!
+<speak who="INFOSPHERE BRAIN">
+Me!</speak>
 
-[On the screen is a video clips of the brain flying over the 
+<info>On the screen is a video clips of the brain flying over the 
 dinosaurs and killing them. A message appears on the screen and 
-a computer voice speaks.]
+a computer voice speaks.</info>
 
-<character>COMPUTER VOICE</character>
-Unauthorised Data Access.
+<speak who="COMPUTER VOICE">
+Unauthorised Data Access.</speak>
 
-[An alarm goes off and brains surround Fry. Fry screams and starts 
-to wind his Scooty-Puff Jr. It falls apart in his hands.]
+<info>An alarm goes off and brains surround Fry. Fry screams and starts 
+to wind his Scooty-Puff Jr. It falls apart in his hands.</info>
 
-<character>FRY</character>
-Uh oh.
+<speak who="FRY">
+Uh oh.</speak>
 
-<character>GIANT BRAIN</character>
+<speak who="GIANT BRAIN">
 Detecting trace amounts of mental activity. 
 Possibly a dead weasel or a cartoon 
-viewer.
+viewer.</speak>
 
-[The brains zap Fry.]
+<info>The brains zap Fry.</info>
 
-<character>FRY</character>
-Eww gross. Cut it out!
+<speak who="FRY">
+Eww gross. Cut it out!</speak>
 
-<character>BRAIN #1</character>
-Odd. He is immune to our sionic attack.
+<speak who="BRAIN #1">
+Odd. He is immune to our sionic attack.</speak>
 
-<character>BRAIN #2</character>
+<speak who="BRAIN #2">
 Impossible. We're an ambitious young 
-squad with everything to prove.
+squad with everything to prove.</speak>
 
-<character>GIANT BRAIN</character>
+<speak who="GIANT BRAIN">
 It appears we are in the presence of 
 the fabled one. But without his Scooty-Puff 
-Jr, he cannot escape.  Huh?
+Jr, he cannot escape.  Huh?</speak>
 
-<character>BRAIN #2</character>
+<speak who="BRAIN #2">
 A quantum-interphase bomb? Are you insane 
-in the membrane?
+in the membrane?</speak>
 
-<character>FRY</character>
-You got it poindexter!
+<speak who="FRY">
+You got it poindexter!</speak>
 
-[He activates the bomb.]
+<info>He activates the bomb.</info>
 
-<character>BRAIN #1</character>
-Oh, not good!
+<speak who="BRAIN #1">
+Oh, not good!</speak>
 
-<character>COMPUTER VOICE</character>
-Detonation in T-60 Earth seconds.
+<speak who="COMPUTER VOICE">
+Detonation in T-60 Earth seconds.</speak>
 
-<character>BRAIN #3</character>
+<speak who="BRAIN #3">
 You fool. You'll be transported to the 
 other universe with us. Trapped there 
-for all eternity.
+for all eternity.</speak>
 
-<character>BRAIN #1</character>
+<speak who="BRAIN #1">
 And we'll form a tightly-knit clique, 
-that you won't be part of!
+that you won't be part of!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well at least I did one important thing 
 with my life. Leading good to victory 
-over evil!
+over evil!</speak>
 
-[The Nibblonians cheer.]
+<info>The Nibblonians cheer.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
-Exactly!
+<speak who="KEN"><info>ON <character>SCREEN</character></info>
+Exactly!</speak>
 
-<character>GIANT BRAIN</character>
+<speak who="GIANT BRAIN">
 The Nibblonians? Good? During your last 
 moments in this universe perhaps you 
 should query our database concerning 
-the night of December 31st 1999.
+the night of December 31st 1999.</speak>
 
-<character>FRY</character>
-The day I got frozen? What about it?
+<speak who="FRY">
+The day I got frozen? What about it?</speak>
 
-<character>NIBBLER </character>[ON <character>SCREEN</character>]
+<speak who="NIBBLER"><info>ON <character>SCREEN</character></info>
 No! Don't ask about that! It, it would 
-be uh...boring!
+be uh...boring!</speak>
 
-<character>FRY</character>
-Eh forget it then.
+<speak who="FRY">
+Eh forget it then.</speak>
 
-<character>GIANT BRAIN</character>
-Query!
+<speak who="GIANT BRAIN">
+Query!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 OK sheesh!  What happened to me, Philip 
 J. Fry, on the night of December 31st 
-1999?
+1999?</speak>
 
-<character>INFOSPHERE BRAIN</character>
+<speak who="INFOSPHERE BRAIN">
 Clarification request. Are you the Philip 
 J. Fry from Earth or the Philip J. Fry 
-from Hovering Squidworld 97A?
+from Hovering Squidworld 97A?</speak>
 
-<character>GIANT BRAIN</character>
-Earth you fat idiot! Hurry up!
+<speak who="GIANT BRAIN">
+Earth you fat idiot! Hurry up!</speak>
 
-[On the console's screen Fry walks into the cryogenics lab.]
+<info>On the console's screen Fry walks into the cryogenics lab.</info>
 
-<character>FRY </character>[ON <character>SCREEN</character>]
+<speak who="FRY"><info>ON <character>SCREEN</character></info>
 Hello? Pizza delivery for uh...I. C. 
-Wiener? Aw crud!
+Wiener? Aw crud!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Eurgh! I can't believe how fat I look! 
-Aw, Nibbler's there. Wait! What?!
+Aw, Nibbler's there. Wait! What?!</speak>
 
-[On the screen Nibbler blows Fry's tilting chair. Fry begins 
+<info>On the screen Nibbler blows Fry's tilting chair. Fry begins 
 to lose his balance and the chair tips back. Fry rolls back into 
-the cryo-freezer.]
+the cryo-freezer.</info>
 
-<character>FRY </character>[ON <character>SCREEN</character>]
-What the?
+<speak who="FRY"><info>ON <character>SCREEN</character></info>
+What the?</speak>
 
-[He panics. The cryo-freezer freezes him in a flash.]
+<info>He panics. The cryo-freezer freezes him in a flash.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I, I don't understand. You made me go 
-in the freezer tube?
+in the freezer tube?</speak>
 
-<character>COMPUTER VOICE</character>
-Detonation in T-15 seconds.
+<speak who="COMPUTER VOICE">
+Detonation in T-15 seconds.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You little runts froze me! You took 
-away my life!
+away my life!</speak>
 
-<character>NIBBLER </character>[ON <character>SCREEN</character>]
-We can explain!
+<speak who="NIBBLER"><info>ON <character>SCREEN</character></info>
+We can explain!</speak>
 
-<character>FRY</character>
-No you can't. Shut your adorable trap!
+<speak who="FRY">
+No you can't. Shut your adorable trap!</speak>
 
-<character>NIBBLER </character>[ON <character>SCREEN</character>]
+<speak who="NIBBLER"><info>ON <character>SCREEN</character></info>
 We had no choice. You were the only 
 one who could help us. What is one life 
-weighed against the entire universe?
+weighed against the entire universe?</speak>
 
-<character>FRY </character>(<character>CRYING</character>)
-But it was my life.
+<speak who="FRY"><info>(<character>CRYING</character>)</info>
+But it was my life.</speak>
 
-<character>COMPUTER VOICE</character>
+<speak who="COMPUTER VOICE">
 Detonation in 2, 1. Will the owner of 
 a white Pontiac Firebird...oh nevermind. 
-Zero!
+Zero!</speak>
 
-[Cut to: Outside Infosphere. The bomb explodes and the Infosphere 
-is sucked into the alternate universe.]
+<info>Cut to: Outside Infosphere. The bomb explodes and the Infosphere 
+is sucked into the alternate universe.</info>
 
-[Cut to: Infosphere. It reappears in the alternate universe.]
+<info>Cut to: Infosphere. It reappears in the alternate universe.</info>
 
-<character>GIANT BRAIN</character>
-Well, here we are. Trapped for eternity.
+<speak who="GIANT BRAIN">
+Well, here we are. Trapped for eternity.</speak>
 
-<character>BRAIN #2</character>
-We could sing American Pie.
+<speak who="BRAIN #2">
+We could sing American Pie.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Go ahead. I deserve it. I wish those 
 stupid racoons had never brought me 
-to the future.
+to the future.</speak>
 
-<character>INFOSPHERE BRAIN</character>
+<speak who="INFOSPHERE BRAIN">
 I have shocking data relevant to this 
-conversation.
+conversation.</speak>
 
-<character>GIANT BRAIN</character>
+<speak who="GIANT BRAIN">
 We don't care you dope! We're in another 
-universe, you're not in charge anymore.
+universe, you're not in charge anymore.</speak>
 
-<character>INFOSPHERE BRAIN</character>
+<speak who="INFOSPHERE BRAIN">
 It is possible for the Philip Fry to 
-resume his life on December 31st 1999.
+resume his life on December 31st 1999.</speak>
 
-<character>FRY</character>
-Really? I can go back in time?
+<speak who="FRY">
+Really? I can go back in time?</speak>
 
-[An image appears on the console.]
+<info>An image appears on the console.</info>
 
-<character>INFOSPHERE BRAIN</character>
+<speak who="INFOSPHERE BRAIN">
 There is a nexus point between universes, 
 at the space-time you entered the cryogenic 
-tube. You and only you can return there.
+tube. You and only you can return there.</speak>
 
-<character>GIANT BRAIN</character>
+<speak who="GIANT BRAIN">
 Interesting. You could stop the Nibblonian 
 from pushing you into the cryogenic 
-tube.
+tube.</speak>
 
-<character>FRY</character>
-That is interesting. Why?
+<speak who="FRY">
+That is interesting. Why?</speak>
 
-<character>GIANT BRAIN</character>
+<speak who="GIANT BRAIN">
 It would be as if you never came to 
 the future. You will have your life 
 back and we will suceed in our plan 
-to understand and destroy the universe.
+to understand and destroy the universe.</speak>
 
-<character>FRY</character>
-Everybody wins!
+<speak who="FRY">
+Everybody wins!</speak>
 
-<character>BRAIN #2</character>
-The human will be returned to the past!
+<speak who="BRAIN #2">
+The human will be returned to the past!</speak>
 
-[Outside Rocket Skating Rink.]
+<info>Outside Rocket Skating Rink.</info>
 
-<character>NARRATOR</character>
-Meanwhile...
+<speak who="NARRATOR">
+Meanwhile...</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I love rocket skating! But the wait 
 is always so long. Fry once stood in 
 line for six hours just to get me a 
-ticket.
+ticket.</speak>
 
-<character>CHAZ</character>
+<speak who="CHAZ">
 Six hours? Pfft. Sounds like a real 
 nobody! But now it's time for somebody 
-and some chick he's with to go skating.
+and some chick he's with to go skating.</speak>
 
-[He shows Leela a sign. Closed For Private Function. She gasps.]
+<info>He shows Leela a sign. Closed For Private Function. She gasps.</info>
 
-[Cut to: Rocket Skating Rink.]
+<info>Cut to: Rocket Skating Rink.</info>
 
-<character>LEELA</character>
-You reserved the whole rink?
+<speak who="LEELA">
+You reserved the whole rink?</speak>
 
-<character>CHAZ</character>
+<speak who="CHAZ">
 Yup. Buzzed ahead, let 'em know who's 
 aide was coming by. The mayor's, that's 
-who's.
+who's.</speak>
 
-<character>LEELA</character>
-Oh Chaz!
+<speak who="LEELA">
+Oh Chaz!</speak>
 
-[She kisses him.]
+<info>She kisses him.</info>
 
-[Time Lapse. Leela and Chaz are now skating around the rink. 
-The kids from the Cookieville Orphanarium look on sadly.]
+<info>Time Lapse. Leela and Chaz are now skating around the rink. 
+The kids from the Cookieville Orphanarium look on sadly.</info>
 
-<character>SALLY</character>
-Mr Vogel. I thought we was going skating.
+<speak who="SALLY">
+Mr Vogel. I thought we was going skating.</speak>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 No. We're not important enough. Everybody 
 just hold hands until the bus driver 
-gets back from his haircut.
+gets back from his haircut.</speak>
 
-[Leela notices the orphans.]
+<info>Leela notices the orphans.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Aww, let's let those kids skate with 
-us.
+us.</speak>
 
-<character>CHAZ</character>
+<speak who="CHAZ">
 What? Seriously? I'm trying to impress 
-you with my cloud here.!
+you with my cloud here.!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I know, and it's working. But think 
 how much skating would mean to those 
-kids.
+kids.</speak>
 
-<character>ORPHAN</character>
-We came here instead of eating today.
+<speak who="ORPHAN">
+We came here instead of eating today.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 This may be their only chance to skate 
 in their whole lives. Who are we to 
-say they can't?
+say they can't?</speak>
 
-<character>CHAZ</character>
-The mayor's aide, and his badge! (shouting) 
+<speak who="CHAZ">
+The mayor's aide, and his badge! <info>(shouting)</info> 
 Beat it kids! Come back when you got 
-connections.
+connections.</speak>
 
-[The kids look away sadly.]
+<info>The kids look away sadly.</info>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Alright kids. Back to the Orphanarium. 
 You can slide around the gym in your 
-socks.
+socks.</speak>
 
-<character>SALLY</character>
-What socks?
+<speak who="SALLY">
+What socks?</speak>
 
-<character>CHAZ</character>
-So am I gonna get lucky tonight or what?
+<speak who="CHAZ">
+So am I gonna get lucky tonight or what?</speak>
 
-[Leela snatches his badge away from him and stuffs it down his 
-throat.]
+<info>Leela snatches his badge away from him and stuffs it down his 
+throat.</info>
 
-[Infosphere. The Infosphere Brain types something into to the 
-console. It holds Fry in place.]
+<info>Infosphere. The Infosphere Brain types something into to the 
+console. It holds Fry in place.</info>
 
-<character>FRY</character>
-I hope your calculations are correct.
+<speak who="FRY">
+I hope your calculations are correct.</speak>
 
-<character>GIANT BRAIN</character>
+<speak who="GIANT BRAIN">
 Our calculations are always correct. 
-For we are gigantic brains.
+For we are gigantic brains.</speak>
 
-<character>BRAIN #2</character>
-Initiate space-time transfer.
+<speak who="BRAIN #2">
+Initiate space-time transfer.</speak>
 
-[The Infosphere throws a switch and the console zaps Fry and 
-makes him go all spliggly. He disappears.]
+<info>The Infosphere throws a switch and the console zaps Fry and 
+makes him go all spliggly. He disappears.</info>
 
-[Old New York: December 31st 1999. In a telephone box Nibbler 
-makes a phonecall to Panucci's Pizza.]
+<info>Old New York: December 31st 1999. In a telephone box Nibbler 
+makes a phonecall to Panucci's Pizza.</info>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 I hereby place and order for one cheese 
-pizza.
+pizza.</speak>
 
-<character>PANUCCI </character>[ON <character>PHONE</character>]
-One pie, nothing good on it. Name?
+<speak who="PANUCCI"><info>ON <character>PHONE</character></info>
+One pie, nothing good on it. Name?</speak>
 
-<character>NIBBLER</character>
-I-period C-period Wiener.
+<speak who="NIBBLER">
+I-period C-period Wiener.</speak>
 
-<character>PANUCCI </character>[ON <character>PHONE</character>]
+<speak who="PANUCCI"><info>ON <character>PHONE</character></info>
 Uh, talk a little louder. It's sounds 
 like you got some kind of tiny head 
-on you or something.
+on you or something.</speak>
 
-[Cryogenics Lab. Nibbler paces around under the desk. Enter Fry.]
+<info>Cryogenics Lab. Nibbler paces around under the desk. Enter Fry.</info>
 
-<character>PAST FRY</character>
+<speak who="PAST FRY">
 Hellooo? Pizza delivery for uh, Icy 
-Wiener? Wiener? Aw crud.
+Wiener? Wiener? Aw crud.</speak>
 
-[Behind Nibbler, in the corner of the desk Future Fry appears 
-and grabs him.]
+<info>Behind Nibbler, in the corner of the desk Future Fry appears 
+and grabs him.</info>
 
-<character>FUTURE FRY</character>
-Gotcha!
+<speak who="FUTURE FRY">
+Gotcha!</speak>
 
-[Nibbler squeals.]
+<info>Nibbler squeals.</info>
 
-<character>NIBBLER</character>
-I don't understand.
+<speak who="NIBBLER">
+I don't understand.</speak>
 
-<character>FUTURE FRY</character>
+<speak who="FUTURE FRY">
 Yes you do! You came back in time to 
 knock me into that freezer. Now I came 
-back in time to stop you.
+back in time to stop you.</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 I did not come back in time. My people 
-lack that ability.
+lack that ability.</speak>
 
-<character>FUTURE FRY</character>
+<speak who="FUTURE FRY">
 But, I know you in the future. I cleaned 
-your poop.
+your poop.</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Quite possible. We live long and are 
 celebrated poopers. You will meet me 
-when I'm a thousand years older.
+when I'm a thousand years older.</speak>
 
-<character>FUTURE FRY</character>
-Not if you don't freeze me.
+<speak who="FUTURE FRY">
+Not if you don't freeze me.</speak>
 
-[Past Fry sits down on the chair and puts his feet up on the 
-desk.]
+<info>Past Fry sits down on the chair and puts his feet up on the 
+desk.</info>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Please. Our saviours foresee that in 
 a thousand years, at one moment, the 
 fate of the universe will depend on 
 you. Since you will not live that long 
-I must freeze you now.
+I must freeze you now.</speak>
 
-<character>FUTURE FRY</character>
-Well, why couldn't you just ask me?
+<speak who="FUTURE FRY">
+Well, why couldn't you just ask me?</speak>
 
-<character>NIBBLER</character>
-We were afraid you would refuse.
+<speak who="NIBBLER">
+We were afraid you would refuse.</speak>
 
-<character>FUTURE FRY</character>
-Of course not, I love the future.
+<speak who="FUTURE FRY">
+Of course not, I love the future.</speak>
 
-<character>NIBBLER </character>(<character>CHOKING</character>)
-Then why are you choking me right now?
+<speak who="NIBBLER"><info>(<character>CHOKING</character>)</info>
+Then why are you choking me right now?</speak>
 
-<character>FUTURE FRY</character>
-Because I don't like being used.
+<speak who="FUTURE FRY">
+Because I don't like being used.</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Well now it's your choice. Is there 
-nothing in the future worth saving?
+nothing in the future worth saving?</speak>
 
-<character>FUTURE FRY</character>
+<speak who="FUTURE FRY">
 Leela. But she doesn't think much of 
-me.
+me.</speak>
 
-<character>NIBBLER</character>
-Ah, she must be the other.
+<speak who="NIBBLER">
+Ah, she must be the other.</speak>
 
-<character>FUTURE FRY</character>
-Wha?
+<speak who="FUTURE FRY">
+Wha?</speak>
 
-[Past Fry's chair starts to tumble back. Future Fry holds the 
-leg.]
+<info>Past Fry's chair starts to tumble back. Future Fry holds the 
+leg.</info>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 You must not give up on her. I am stationed 
 on a distant world known as Vergon 6. 
 But if you return to the future I will 
 transfer to Earth to give you what help 
-I can.
+I can.</speak>
 
-[Outside, the countdown to the millenium begins.]
+<info>Outside, the countdown to the millenium begins.</info>
 
-<character>FUTURE FRY</character>
+<speak who="FUTURE FRY">
 You really think I would have had a 
-chance with Leela?
+chance with Leela?</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 You must choose. The present or the 
 future? To save yourself? Or to save 
-Leela?
+Leela?</speak>
 
-[The countdown reaches 1. Past Fry leans back on his chair and 
+<info>The countdown reaches 1. Past Fry leans back on his chair and 
 blows his party blower. Future Fry blows the chair and Past Fry 
-tumbles back into the cryotube which freezes him.]
+tumbles back into the cryotube which freezes him.</info>
 
-<character>FUTURE FRY</character>
+<speak who="FUTURE FRY">
 Yes! Here I come future! Oh no! Wait! 
 I'm gonna get trapped in the Infosphere 
 again! Just remember that Scooty-Puff 
-Jr sucks...
+Jr sucks...</speak>
 
-[He fades away into nothingness.]
+<info>He fades away into nothingness.</info>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 In a thousand years I'll get right on 
-it.
+it.</speak>
 
-[Outside Infosphere. The bomb explodes and the Infosphere is 
-sucked into an alternate universe.]
+<info>Outside Infosphere. The bomb explodes and the Infosphere is 
+sucked into an alternate universe.</info>
 
-<character>NARRATOR</character>
+<speak who="NARRATOR">
 And so, a thousand years later Fry once 
 again infiltrated the Infosphere and 
 set off his amazing bomb. Only this 
-time...
+time...</speak>
 
-[Fry speeds away from the Infosphere on his huge Scooty-Puff 
-Sr.]
+<info>Fry speeds away from the Infosphere on his huge Scooty-Puff 
+Sr.</info>
 
-[Alley. Nibbler's ship lands and Fry and Nibbler climb out.]
+<info>Alley. Nibbler's ship lands and Fry and Nibbler climb out.</info>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Thank you for saving the universe Fry. 
-Here.
+Here.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Whoa, thanks! If you ever need a saviour 
-again, just ask.
+again, just ask.</speak>
 
-<character>NIBBLER</character>
-Oh we will. We will.
+<speak who="NIBBLER">
+Oh we will. We will.</speak>
 
-[He shuts his ship away and puts his leash on.]
+<info>He shuts his ship away and puts his leash on.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Man, I can't wait to tell everyone what 
-happened.
+happened.</speak>
 
-<character>NIBBLER</character>
+<speak who="NIBBLER">
 Uh yes. Incidentally I need to remain 
-undercover so I'm blanking your memory.
+undercover so I'm blanking your memory.</speak>
 
-[His third eye flashes like the memory stick from Men In Black 
-and Fry looks dazed.]
+<info>His third eye flashes like the memory stick from Men In Black 
+and Fry looks dazed.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Huh. Did everything just taste purple 
 for a second? Oh well. Let's go home 
-you dumb poop machine.
+you dumb poop machine.</speak>
 
-[Nibbler chatters.]
+<info>Nibbler chatters.</info>
 
-[Planet Express: Lounge. Leela holds up a photo of her and Chaz.]
+<info>Planet Express: Lounge. Leela holds up a photo of her and Chaz.</info>
 
-<character>LEELA</character>
-Bender, would you do the honours?
+<speak who="LEELA">
+Bender, would you do the honours?</speak>
 
-<character>BENDER</character>
-With gusto.
+<speak who="BENDER">
+With gusto.</speak>
 
-[He scorches a hole in the photo. Leela looks at it satisfied. 
+<info>He scorches a hole in the photo. Leela looks at it satisfied. 
 Chaz's head has been burnt away. Enter Fry. His head appears 
-in the hole.]
+in the hole.</info>
 
-<character>FRY</character>
-Hey Leela. I guess I got this for you.
+<speak who="FRY">
+Hey Leela. I guess I got this for you.</speak>
 
-[He hands her the flower.]
+<info>He hands her the flower.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh. Thank you. You know what Fry. I 
 don't care if you're not the most important 
 person in the universe. It really makes 
-me happy to see you right now.
+me happy to see you right now.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Then I am the most important person 
-in the universe.
+in the universe.</speak>
 
-[She kisses him.]
+<info>She kisses him.</info>
 
-<character>THE END</character>
+<info>THE END</info>
 
-<character>FRY </character>(<character>OVER CREDITS</character>)
+<character>FRY </character><info>(<character>OVER CREDITS</character>)</info>
 Yes!
 </xml>

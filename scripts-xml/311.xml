@@ -1,1237 +1,1237 @@
 <xml>
-<episodeInfo><character>FUTURAMA</character>
+<episodeInfo>FUTURAMA
 
 Episode 311
 
-<title><character>THE CYBER HOUSE RULES</character></title>
+<title>THE CYBER HOUSE RULES</title>
 
 <author>Lewis Morton</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Please Rise For The Futurama Theme 
-Song.]
+<info>Opening Credits. Caption: Please Rise For The Futurama Theme 
+Song.</info>
 
-[Planet Express: Lounge. On the TV, Morbo and Linda present an 
+<info>Planet Express: Lounge. On the TV, Morbo and Linda present an 
 early morning breakfast programme called Good Morning Earth. 
-They are wearing pyjamas and sit in a cosy sitting room set.]
+They are wearing pyjamas and sit in a cosy sitting room set.</info>
 
-<character>MORBO</character>
+<speak who="MORBO">
 ...So I gave the cookies to Fawn and 
 the kids and they couldn't believe it 
 -- they were delicious. But, I digress. 
-(shouting) Tremble, puny earthlings! 
-One day my race will destroy you all!
+<info>(shouting)</info> Tremble, puny earthlings! 
+One day my race will destroy you all!</speak>
 
-[Leela, Fry and Bender eat while they watch. The doorbell rings.]
+<info>Leela, Fry and Bender eat while they watch. The doorbell rings.</info>
 
-<character>LEELA</character>
-Could one of you guys get that?
+<speak who="LEELA">
+Could one of you guys get that?</speak>
 
-[They both shake their heads she narrows her eye at them.]
+<info>They both shake their heads she narrows her eye at them.</info>
 
-[Planet Express: Entrance Foyer. Leela opens the door and looks 
+<info>Planet Express: Entrance Foyer. Leela opens the door and looks 
 around but there doesn't appear to be anyone there. She hears 
-a squealing noise, looks down and gasps.]
+a squealing noise, looks down and gasps.</info>
 
-[Cut to: Outside Planet Express.]
+<info>Cut to: Outside Planet Express.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's a doorbell baby!  Hello, little 
 guy. You know, I was abandoned as a 
-baby too, so --
+baby too, so --</speak>
 
-<character>BENDER</character>
-Garbage, huh? I'll take care of it.
+<speak who="BENDER">
+Garbage, huh? I'll take care of it.</speak>
 
-[He starts stamping on the basket.]
+<info>He starts stamping on the basket.</info>
 
-<character>LEELA</character>
-Bender, stop! It's a baby!
+<speak who="LEELA">
+Bender, stop! It's a baby!</speak>
 
-<character>BENDER</character>
-A baby what?  Ow!
+<speak who="BENDER">
+A baby what?  Ow!</speak>
 
-[Leela bends down and unwraps the blankets. There is no baby 
+<info>Leela bends down and unwraps the blankets. There is no baby 
 inside. Instead, there is a green card with a sad looking kid 
 on it holding up an empty food dish. Written along the top of 
-the card is "Cookieville Minimum-Security Orphanarium�.]
+the card is "Cookieville Minimum-Security Orphanarium�.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, it's just a card -- from the orphanarium 
-I grew up in.
+I grew up in.</speak>
 
-[The card speaks with a child's voice.]
+<info>The card speaks with a child's voice.</info>
 
-<character>CARD</character>
+<speak who="CARD">
 Leela, you're invited to reunion at 
 Cookieville Minimum-Security Orphanarium. 
 Please stand clear of self-destructing 
-basket.
+basket.</speak>
 
-[The basket explodes.]
+<info>The basket explodes.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 A reunion at your old orphanarium, eh? 
-You gonna go?
+You gonna go?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No way, jose-bot. I never wanna see 
 those other orphans again! Not after 
-the way they used to pick on me.
+the way they used to pick on me.</speak>
 
-[Flashback: In the kids' playground at the orphanarium (where 
+<info>Flashback: In the kids' playground at the orphanarium (where 
 everything is broken) the kids stand around young Leela, pointing 
-and chanting.]
+and chanting.</info>
 
-<character>KIDS</character>
-(chanting) One-eye! One-eye! One-eye!
+<speak who="KIDS">
+<info>(chanting)</info> One-eye! One-eye! One-eye!</speak>
 
-<character>KIRK</character>
-Nice depth-perception, one-eye!
+<speak who="KIRK">
+Nice depth-perception, one-eye!</speak>
 
-[He laughs.]
+<info>He laughs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 How can you make fun of me, Kirk? You're 
-blind!
+blind!</speak>
 
-<character>KIRK</character>
+<speak who="KIRK">
 My eyes may not work, but at least I 
-got two of them!
+got two of them!</speak>
 
-[He laughs again. Leela sighs.]
+<info>He laughs again. Leela sighs.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Aww. That's terrible, Leela. But imagine 
 the look on their faces when you show 
 up with two friends who eat all the 
-hors d'oeuvres.
+hors d'oeuvres.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, I wouldn't mind rubbing my success 
-in a few choice faces.
+in a few choice faces.</speak>
 
-<character>BENDER</character>
-Set a course for adventure!
+<speak who="BENDER">
+Set a course for adventure!</speak>
 
-[Cookieville Minimum-Security Orphanarium Lobby. There a broken, 
+<info>Cookieville Minimum-Security Orphanarium Lobby. There a broken, 
 leaking pipes running across the ceiling, the windows are barred 
 up and owls scavenge around the floor. Leela is wearing a purple 
-suit.]
+suit.</info>
 
-<character>FRY</character>
-Eww!
+<speak who="FRY">
+Eww!</speak>
 
-<character>BENDER</character>
-What a dump!
+<speak who="BENDER">
+What a dump!</speak>
 
-[Leela sighs.]
+<info>Leela sighs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Just like old times. Gosh. The bars 
 on the windows seemed so much thicker 
-back then.  Mr. Vogel? Remember me?
+back then.  Mr. Vogel? Remember me?</speak>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Leela! You're worthless and no one will 
-ever love you!
+ever love you!</speak>
 
-[They both laugh.]
+<info>They both laugh.</info>
 
-<character>LEELA</character>
-You used to say that all the time!
+<speak who="LEELA">
+You used to say that all the time!</speak>
 
-<character>VOGEL</character>
-Oh, those were happier days.
+<speak who="VOGEL">
+Oh, those were happier days.</speak>
 
-[Cookieville Minimum-Security Orphanarium Gymnasium. A "Welcome, 
+<info>Cookieville Minimum-Security Orphanarium Gymnasium. A "Welcome, 
 Orphans" banner has been strung up across the ceiling and the 
 room has been decorated with balloons and streamers. There is 
 a sign that says "Please Abandon Coats In Lobby" next to the 
-buffet table where Fry and Bender stand.]
+buffet table where Fry and Bender stand.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Mmm! The gristle-in-a-blanket isn't 
-half bad.
+half bad.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Mmm! And try one of these Popsicle sticks. 
-They've absorbed quite a bit of flavour.
+They've absorbed quite a bit of flavour.</speak>
 
-<character>LEELA</character>
-Hey, look. It's our old group picture.
+<speak who="LEELA">
+Hey, look. It's our old group picture.</speak>
 
-[They look at a black and white photo of the orphans and a younger 
-Vogel. Fry squints.]
+<info>They look at a black and white photo of the orphans and a younger 
+Vogel. Fry squints.</info>
 
-<character>FRY</character>
-I don't see you anywhere.
+<speak who="FRY">
+I don't see you anywhere.</speak>
 
-<character>LEELA</character>
-That's me over in Cootietown.
+<speak who="LEELA">
+That's me over in Cootietown.</speak>
 
-[She points at herself, standing apart from the group. Bender 
-points at someone in the back row.]
+<info>She points at herself, standing apart from the group. Bender 
+points at someone in the back row.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Whoa! Get a load of this average-looking 
-guy!
+guy!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's Adlai Atkins. I used to have 
-kind of a crush on him.
+kind of a crush on him.</speak>
 
-[Flashback. The scene continues from earlier with the kids still 
-chanting.]
+<info>Flashback. The scene continues from earlier with the kids still 
+chanting.</info>
 
-<character>KIDS</character>
-(chanting) One-eye! One-eye!
+<speak who="KIDS">
+<info>(chanting)</info> One-eye! One-eye!</speak>
 
-<character>FRENCH GUY</character>
-Stupid as a French guy!
+<speak who="FRENCH GUY">
+Stupid as a French guy!</speak>
 
-<character>KIDS</character>
-(chanting) One-eye! One-eye! One-eye! 
+<speak who="KIDS">
+<info>(chanting)</info> One-eye! One-eye! One-eye! 
 One-eye! One-eye! One-eye! One-eye! 
-One-eye!
+One-eye!</speak>
 
-[Adlai chants with the others and Leela looks at him with lovey 
-eyes and sighs.]
+<info>Adlai chants with the others and Leela looks at him with lovey 
+eyes and sighs.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, it's time to say hello to the 
-old gang.
+old gang.</speak>
 
-[She gulps down her drink, then Bender's and then the water from 
+<info>She gulps down her drink, then Bender's and then the water from 
 a vase of flowers. On the other side of the gym, the orphans 
-have turned into bums.]
+have turned into bums.</info>
 
-<character>MAN #1</character>
+<speak who="MAN #1">
 So, watcha been up to since you left 
-the orphanarium?
+the orphanarium?</speak>
 
-<character>MAN #2</character>
+<speak who="MAN #2">
 Uh, living in a box, fighting the shakes. 
-You?
+You?</speak>
 
-<character>MAN #1</character>
+<speak who="MAN #1">
 Selling kidneys, teeth; whatever falls 
-out of me.
+out of me.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 And what am I up to, you ask? Well I'm 
-a very successful space captain.
+a very successful space captain.</speak>
 
-<character>MAN #2</character>
-Oh.
+<speak who="MAN #2">
+Oh.</speak>
 
-<character>MAN #1</character>
-Wow.
+<speak who="MAN #1">
+Wow.</speak>
 
-<character>MAN #3</character>
-How nice for you, Leela.
+<speak who="MAN #3">
+How nice for you, Leela.</speak>
 
-<character>WOMAN</character>
-(patronising) That's so good for a person 
-with one eye.
+<speak who="WOMAN">
+<info>(patronising)</info> That's so good for a person 
+with one eye.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hey! You can't feel sorry for me! I'm 
 a space captain and you're all a bunch 
-of losers.
+of losers.</speak>
 
-<character>MAN #1</character>
-Uh, right, right. We're the losers!
+<speak who="MAN #1">
+Uh, right, right. We're the losers!</speak>
 
-[He coughs and a tooth falls out of his mouth. Kirk arrives.]
+<info>He coughs and a tooth falls out of his mouth. Kirk arrives.</info>
 
-<character>KIRK</character>
-Well, if it isn't old one-eye!
+<speak who="KIRK">
+Well, if it isn't old one-eye!</speak>
 
-[He laughs.]
+<info>He laughs.</info>
 
-<character>LEELA</character>
-Oh, yeah? Well, shut up, cane boy!
+<speak who="LEELA">
+Oh, yeah? Well, shut up, cane boy!</speak>
 
-<character>MAN #3</character>
-He can't hear you. He's deaf now.
+<speak who="MAN #3">
+He can't hear you. He's deaf now.</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Leave Leela alone. She's leading a perfectly 
 normal life. She's not gussied up, duded 
 out, getting down or where it's at. 
-Now, run along.
+Now, run along.</speak>
 
-[The other five leave.]
+<info>The other five leave.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Thanks, Adlai. I guess you never really 
-outgrow being an eyeball -- oddball!
+outgrow being an eyeball -- oddball!</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Nonsense. You're a space captain. That's 
-a fine, conventional profession.
+a fine, conventional profession.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, you know. It's just for a package 
-delivery service.
+delivery service.</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Ah-ah. A package is just a box until 
-it's delivered.
+it's delivered.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Huh. I'd never thought of it that way. 
-So what do you do these days?
+So what do you do these days?</speak>
 
-<character>ADLAI</character>
-Oh, I'm a doctor.
+<speak who="ADLAI">
+Oh, I'm a doctor.</speak>
 
-<character>LEELA</character>
-A tall doctor, you say?
+<speak who="LEELA">
+A tall doctor, you say?</speak>
 
-[She brushes her fingers through her hair. At the bar, Bender 
+<info>She brushes her fingers through her hair. At the bar, Bender 
 drinks down one glass while another is being refilled. Vogel 
-stands behind Fry with 12 kids.]
+stands behind Fry with 12 kids.</info>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Sir, you seem pretty stable. Have you 
-thought about adopting one of our kids?
+thought about adopting one of our kids?</speak>
 
-<character>FRY</character>
-Sure haven't.
+<speak who="FRY">
+Sure haven't.</speak>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Well keep adoption in mind. It's a great 
-way to have kids without having sex.
+way to have kids without having sex.</speak>
 
-<character>FRY</character>
-(thoughtful) Really?
+<speak who="FRY">
+<info>(thoughtful)</info> Really?</speak>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 Plus, the government will help out with 
-a small stipend of $100 a week.
+a small stipend of $100 a week.</speak>
 
-<character>BENDER</character>
-$100 a week?
+<speak who="BENDER">
+$100 a week?</speak>
 
-[He spits out his drink, has it refilled, drinks it and spits 
-it out again. Aldai and Leela look at the group photos.]
+<info>He spits out his drink, has it refilled, drinks it and spits 
+it out again. Aldai and Leela look at the group photos.</info>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 I'm so sorry I teased you back then. 
 Let me make it up to you. I can fix 
 it so that no one ever makes fun of 
-you again.
+you again.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You mean by beating them up? Because 
 I've broken that blind kid's nose like 
-10 times and it doesn't make any difference.
+10 times and it doesn't make any difference.</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 No, I specialise in phaser eye surgery. 
 I can build you a paraffin eye and graft 
 it on with skin from your foot. It won't 
 be able to see but you'll look like 
-a perfectly normal two-eyed person.
+a perfectly normal two-eyed person.</speak>
 
-<character>LEELA</character>
-Me? Perfectly normal?
+<speak who="LEELA">
+Me? Perfectly normal?</speak>
 
-[She touches her eye and it squelches. Fry eats more of the hors 
+<info>She touches her eye and it squelches. Fry eats more of the hors 
 d'oeuvres and turns around when he hears laughing kids. Bender 
-is with the kids.]
+is with the kids.</info>
 
-<character>BENDER</character>
-Sons, daughters, meet Uncle Fry.
+<speak who="BENDER">
+Sons, daughters, meet Uncle Fry.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, why are those kids following you? 
-Do you have candy stuck to your ass?
+Do you have candy stuck to your ass?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 No. It's called parenting. Come on, 
 dumplings. We've got 12 government stipends 
-to collect.
+to collect.</speak>
 
-<character>KIDS</character>
-(cheering) Yay!
+<speak who="KIDS">
+<info>(cheering)</info> Yay!</speak>
 
-<character>BOY</character>
-Our daddy's a giant toy!
+<speak who="BOY">
+Our daddy's a giant toy!</speak>
 
-[Planet Express: Meeting Room. The staff sit around the conference 
-table.]
+<info>Planet Express: Meeting Room. The staff sit around the conference 
+table.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Phaser eye surgery is a capital idea. 
 I'm sure Leela's tired of morons gaping 
-at her eye all the time.
+at her eye all the time.</speak>
 
-[He stares open-mouthed at her.]
+<info>He stares open-mouthed at her.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 I think cosmetic surgery's great, Leela. 
 I used to be too cute, so I had cuteness-reduction 
-surgery here......and here.
+surgery here......and here.</speak>
 
-[She points to her nose.]
+<info>She points to her nose.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 You guys are crazy. Leela doesn't need 
 surgery. You look great the way you 
-are.
+are.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, that's so sweet, Fry. But for once 
-in my life, I just wanna look normal.
+in my life, I just wanna look normal.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But you're better than normal, you're 
 abnormal. If you ask me, you shouldn't 
-care what other people think.
+care what other people think.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You're right! I'll start by not caring 
-what you think!  I'm getting the surgery.
+what you think!  I'm getting the surgery.</speak>
 
-<character>FARNSWORTH</character>
-Thatagirl!
+<speak who="FARNSWORTH">
+Thatagirl!</speak>
 
-<character>AMY</character>
-Right on!
+<speak who="AMY">
+Right on!</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Wonderful. And while you're under the 
 knife, you could also get an ink pouch 
-to help you escape your enemies.
+to help you escape your enemies.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 That's the stupidest idea I've ever 
-heard you imbecile!
+heard you imbecile!</speak>
 
-[He raises a rolled-up newspaper at Zoidberg. Zoidberg sprays 
-ink at his face and runs off, whooping.]
+<info>He raises a rolled-up newspaper at Zoidberg. Zoidberg sprays 
+ink at his face and runs off, whooping.</info>
 
-[Taco Bellevue Hospital. There is a sign outside that says "Normal, 
+<info>Taco Bellevue Hospital. There is a sign outside that says "Normal, 
 Healthy Baby? Super-Size It For 49c!" Inside, the Planet Express 
 staff and Adlai stand around Leela's bed. The entire top half 
-of Leela head is covered with bandages.]
+of Leela head is covered with bandages.</info>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Now we'll find out if the operation 
 was a success. Hold on to your hats. 
 Oh, I'm sorry, this is the wrong patient. 
-Oops.
+Oops.</speak>
 
-[He scribbles on a new pupil with a marker pen.]
+<info>He scribbles on a new pupil with a marker pen.</info>
 
-<character>AMY</character>
-Leela, those eyes look so great on you.
+<speak who="AMY">
+Leela, those eyes look so great on you.</speak>
 
-<character>FRY</character>
-Bah! I think she looked fine before.
+<speak who="FRY">
+Bah! I think she looked fine before.</speak>
 
-<character>FARNSWORTH</character>
-No.
+<speak who="FARNSWORTH">
+No.</speak>
 
-<character>AMY</character>
-Uh-uh.
+<speak who="AMY">
+Uh-uh.</speak>
 
-<character>HERMES</character>
-Wrong.
+<speak who="HERMES">
+Wrong.</speak>
 
-[Leela looks at herself in a mirror.]
+<info>Leela looks at herself in a mirror.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wow, look at me. Although I don't have 
-the hang of blinking yet.
+the hang of blinking yet.</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 You'll get it. Personally, I try not 
 to blink too much because it seems flashy. 
-But when I do, I enjoy it.
+But when I do, I enjoy it.</speak>
 
-[She tries again and succeeds this time. She gasps.]
+<info>She tries again and succeeds this time. She gasps.</info>
 
-<character>LEELA</character>
-I did it! I blunk!
+<speak who="LEELA">
+I did it! I blunk!</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 And just in time to screw up this picture 
-I took!
+I took!</speak>
 
-[He shows her a photo of her blinking.]
+<info>He shows her a photo of her blinking.</info>
 
-<character>LEELA</character>
-Hooray!
+<speak who="LEELA">
+Hooray!</speak>
 
-[Montage Scene. Leela gets accustomed to her new life to Roy 
+<info>Montage Scene. Leela gets accustomed to her new life to Roy 
 Orbison's Pretty Woman. She carries a box marked "Leela's Monocles" 
 through the front door of her apartment building at drops it 
 in the bin. Later, she comes out of the Eye Robot wearing two 
 pairs of sunglasses, a pair of binoculars and carrying a pair 
 of theatre specs. She walks past Mom's sons and winks at them. 
-They stop and bump into each other.]
+They stop and bump into each other.</info>
 
-<character>WALT</character>
-Ow!
+<speak who="WALT">
+Ow!</speak>
 
-<character>IGNER</character>
-Ow!
+<speak who="IGNER">
+Ow!</speak>
 
-<character>LARRY</character>
-Ow!
+<speak who="LARRY">
+Ow!</speak>
 
-[Amy shows Leela how to apply eyeliner. She puts it across her 
+<info>Amy shows Leela how to apply eyeliner. She puts it across her 
 eyes first and watches Leela try. Leela smears it all the way 
 across her brow. Amy shakes her head, licks her finger, and rubs 
 it off in the middle. Leela smiles. On the street, Leela bumps 
 into Kirk. She takes his hand and feels her face with it. He 
-groans with disappointment.]
+groans with disappointment.</info>
 
-[Planet Express: Lounge. Zoidberg, Hermes, Amy and Fry are sat 
-on the couch.]
+<info>Planet Express: Lounge. Zoidberg, Hermes, Amy and Fry are sat 
+on the couch.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I've never felt so unremarkable! Today 
-I actually blended in with a crowd!
+I actually blended in with a crowd!</speak>
 
-[She laughs. Bender walks in with the kids.]
+<info>She laughs. Bender walks in with the kids.</info>
 
-<character>BENDER</character>
-Kids, meet the jerkbags I work with.
+<speak who="BENDER">
+Kids, meet the jerkbags I work with.</speak>
 
-<character>KIDS</character>
-(chanting) Hello, jerkbags!
+<speak who="KIDS">
+<info>(chanting)</info> Hello, jerkbags!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Oh, they're so cute! What are their 
-names?
+names?</speak>
 
-<character>BENDER</character>
-Kids have names?
+<speak who="BENDER">
+Kids have names?</speak>
 
-<character>NINA</character>
+<speak who="NINA">
 My name's Nina, and his name's Albert 
---
+--</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And from now on, you're all named Bender 
 Jr.!  Looky here! My first government 
 stipend cheque! 12 baby humans, 1200 
-wing-wangs!
+wing-wangs!</speak>
 
-[Sally, a girl with an ear on her face, tugs Bender's arm.]
+<info>Sally, a girl with an ear on her face, tugs Bender's arm.</info>
 
-<character>SALLY</character>
-Daddy Bender, we're hungry.
+<speak who="SALLY">
+Daddy Bender, we're hungry.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What is it with you kids? Every other 
 day, it's food, food, food!  Oh, fine. 
-I'll get you some stupid food.
+I'll get you some stupid food.</speak>
 
-<character>ALBERT</character>
-Can we have Bender burgers again?
+<speak who="ALBERT">
+Can we have Bender burgers again?</speak>
 
-<character>BENDER</character>
-No. The cat shelter's on to me!
+<speak who="BENDER">
+No. The cat shelter's on to me!</speak>
 
-[Planet Express: Hangar. Fry scrubs one of the landing feet and 
+<info>Planet Express: Hangar. Fry scrubs one of the landing feet and 
 Leela welds something along the ships side. Adlai comes in wearing 
-a grey Hawaiian shirt.]
+a grey Hawaiian shirt.</info>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Hello, Leela. I was in a nearby tailor 
 getting one of my Hawaiian shirts toned 
 down, so I thought I'd drop in for your 
-follow-up exam.
+follow-up exam.</speak>
 
-[Leela giggles.]
+<info>Leela giggles.</info>
 
-<character>LEELA</character>
-That's so handsome of you.
+<speak who="LEELA">
+That's so handsome of you.</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Just follow the light with your eyes. 
 Perfect! You know, a guy could fall 
 head-over-heels for a gal like you. 
 As for me, I'm somewhat interested 
-myself.
+myself.</speak>
 
-<character>LEELA</character>
-What are you saying?
+<speak who="LEELA">
+What are you saying?</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 I've never been good with words, which 
 is why I'm in such a delicate conundrum. 
-Will you go out with me this Sunday?
+Will you go out with me this Sunday?</speak>
 
-<character>LEELA</character>
-Sure!
+<speak who="LEELA">
+Sure!</speak>
 
-[Fry gasps.]
+<info>Fry gasps.</info>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 I don't know what else to say, so I'll 
-just say it. Okey-dokey, see you then.
+just say it. Okey-dokey, see you then.</speak>
 
-[He leaves.]
+<info>He leaves.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 This is so unfair! I liked you back 
 when you were a cyclops! That guy's 
 only interested now that you have two 
-eyes.
+eyes.</speak>
 
-<character>LEELA</character>
-You're just jealous!
+<speak who="LEELA">
+You're just jealous!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 No, I'm not! Oh, wait, I am. But my 
-point remains valid!
+point remains valid!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, I just wanna try dating a normal 
 man, who if you go somewhere with him 
 no one says he's crummy. I think I deserve 
-that once in life.
+that once in life.</speak>
 
-[Zoidberg holds her arm.]
+<info>Zoidberg holds her arm.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Be careful with Adlai, Leela, he's a 
-doctor, they're very poor.
+doctor, they're very poor.</speak>
 
-<character>LEELA</character>
-Actually, most doctors are rich.
+<speak who="LEELA">
+Actually, most doctors are rich.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 What? When did this happen? You're joking, 
-right?  That's not funny!
+right?  That's not funny!</speak>
 
-[O'Zorgnax's Pub. Bender takes the kids in.]
+<info>O'Zorgnax's Pub. Bender takes the kids in.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 OK, they've got everything you need 
 here: Booze, a couple of peanuts, they 
 got a crapper in the back -- that's 
-one of the things you kids do, right?
+one of the things you kids do, right?</speak>
 
-<character>ALBERT</character>
-Yeah.
+<speak who="ALBERT">
+Yeah.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Then knock yourself out.  Hey! Hey! 
 Only eat enough to barely keep yourselves 
-alive! I'm trying to make a profit here.
+alive! I'm trying to make a profit here.</speak>
 
-[He sits on a stool and reads a newspaper.]
+<info>He sits on a stool and reads a newspaper.</info>
 
-<character>NINA</character>
-Daddy! Bethany's hitting me!
+<speak who="NINA">
+Daddy! Bethany's hitting me!</speak>
 
-<character>BENDER</character>
-Here.
+<speak who="BENDER">
+Here.</speak>
 
-[He hands her a blernsball bat and she runs off with it, laughing. 
-A fembot sits next to Bender.]
+<info>He hands her a blernsball bat and she runs off with it, laughing. 
+A fembot sits next to Bender.</info>
 
-<character>FEMBOT</character>
-These kids yours?
+<speak who="FEMBOT">
+These kids yours?</speak>
 
-<character>BENDER</character>
-Yeah.
+<speak who="BENDER">
+Yeah.</speak>
 
-<character>FEMBOT</character>
-Ooh. I'm attracted to a man with responsibility!
+<speak who="FEMBOT">
+Ooh. I'm attracted to a man with responsibility!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 That's me, baby! Let me just ditch the 
 kids in an alley and we can go have 
-some fun.
+some fun.</speak>
 
-[A boy taps Bender.]
+<info>A boy taps Bender.</info>
 
-<character>BOY</character>
-Daddy Bender?
+<speak who="BOY">
+Daddy Bender?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Son, daddy's trying to score with a 
 cheap floozy right now, so we need you 
-to cram a Tinkertoy in it!
+to cram a Tinkertoy in it!</speak>
 
-<character>BOY</character>
-I love you, Daddy Bender!
+<speak who="BOY">
+I love you, Daddy Bender!</speak>
 
-[He hugs him. The other kids start hugging him too.]
+<info>He hugs him. The other kids start hugging him too.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, what the hell are you doing? Quit 
-hugging me!
+hugging me!</speak>
 
-<character>FEMBOT</character>
+<speak who="FEMBOT">
 I guess you're busy. I'll catch you 
-later.
+later.</speak>
 
-[She leaves.]
+<info>She leaves.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You morons! I don't know what you're 
 trying to pull here but I got half a 
 mind to hug each and every one of you 
-and see how you like it!
+and see how you like it!</speak>
 
-<character>KIDS</character>
-(cheering) Yay!
+<speak who="KIDS">
+<info>(cheering)</info> Yay!</speak>
 
-<character>BENDER</character>
-(grumbling) Oh, come on!
+<speak who="BENDER">
+<info>(grumbling)</info> Oh, come on!</speak>
 
-[Adlai's Car. He drives Leela away from the city.]
+<info>Adlai's Car. He drives Leela away from the city.</info>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 I thought I'd take you someplace ordinary 
--- a place no one could object to.
+-- a place no one could object to.</speak>
 
-<character>LEELA</character>
-That sounds wonderful.
+<speak who="LEELA">
+That sounds wonderful.</speak>
 
-[Outside Municipal Arboretum. Adlai opens the gate and lets Leela 
+<info>Outside Municipal Arboretum. Adlai opens the gate and lets Leela 
 through. On the fence is a sign that reads "Yes, We Have Looking 
-At Trees".]
+At Trees".</info>
 
-[Municipal Arboretum. A couple stop by an Altairean Bouquet Tree.]
+<info>Municipal Arboretum. A couple stop by an Altairean Bouquet Tree.</info>
 
-<character>MAN</character>
+<speak who="MAN">
 I'd like and extra-beautiful bouquet 
-for my extra-gorgeous sweetheart.
+for my extra-gorgeous sweetheart.</speak>
 
-[The tree hands the man some flowers and he hands them to the 
-woman. They walk away and Leela and Adlai arrive.]
+<info>The tree hands the man some flowers and he hands them to the 
+woman. They walk away and Leela and Adlai arrive.</info>
 
-<character>ADLAI</character>
-Average, please.
+<speak who="ADLAI">
+Average, please.</speak>
 
-[The tree hands him a bunch and he hands them to Leela. She smells 
-them.]
+<info>The tree hands him a bunch and he hands them to Leela. She smells 
+them.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, Adlai, I've had a wonderful time 
 today. No one's stared at me or avoided 
 staring at me or tried to burn me. You 
-make me feel so not weird.
+make me feel so not weird.</speak>
 
-<character>ADLAI</character>
-Leela, you're 999,999 in a million!
+<speak who="ADLAI">
+Leela, you're 999,999 in a million!</speak>
 
-[She smiles and they lean in to kiss. Adlai pecks her on the 
-lips and she freezes for a moment then smiles weakly.]
+<info>She smiles and they lean in to kiss. Adlai pecks her on the 
+lips and she freezes for a moment then smiles weakly.</info>
 
-[Elzar's Fine Cuisine. Adlai and the Planet Express staff sit 
-around a table, though Bender is not with them.]
+<info>Elzar's Fine Cuisine. Adlai and the Planet Express staff sit 
+around a table, though Bender is not with them.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Thanks for coming out to get to know 
-my boyfriend. Isn't he dreamy?
+my boyfriend. Isn't he dreamy?</speak>
 
-<character>ZOIDBERG</character>
-(mesmerised) Totally.
+<speak who="ZOIDBERG">
+<info>(mesmerised)</info> Totally.</speak>
 
-[He eats a cracker.]
+<info>He eats a cracker.</info>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Uh, listen: I just want you all to know 
-your Leela's one standard lady.
+your Leela's one standard lady.</speak>
 
-<character>LEELA</character>
-Oh, Adlai, stop!
+<speak who="LEELA">
+Oh, Adlai, stop!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 What's so wonderful about Leela being 
 normal? The rest of us aren't normal 
 and that's what makes us great. Like 
 Dr. Zoidberg: He's a weird monster who 
-smells like he eats garbage and does.
+smells like he eats garbage and does.</speak>
 
-<character>ZOIDBERG</character>
-Damn right!
+<speak who="ZOIDBERG">
+Damn right!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 And the professor's a senile, amoral 
-crackpot.  Hermes is a Rastafarian accountant.
+crackpot.  Hermes is a Rastafarian accountant.</speak>
 
-<character>HERMES</character>
-Tally me banana.
+<speak who="HERMES">
+Tally me banana.</speak>
 
-<character>FRY</character>
-Amy's a klutz from Mars.
+<speak who="FRY">
+Amy's a klutz from Mars.</speak>
 
-[Amy drops the glass she is drinking from and it smashes.]
+<info>Amy drops the glass she is drinking from and it smashes.</info>
 
-<character>AMY</character>
-Sploops!
+<speak who="AMY">
+Sploops!</speak>
 
-<character>FARNSWORTH</character>
-And Fry, you've got that brain thing.
+<speak who="FARNSWORTH">
+And Fry, you've got that brain thing.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I already did! So, Leela, do you wanna 
 be like us? Or do you wanna be like 
 Adlai with no severe mental or social 
-problems whatsoever?
+problems whatsoever?</speak>
 
-<character>LEELA</character>
-That's the dumbest question I ever heard!
+<speak who="LEELA">
+That's the dumbest question I ever heard!</speak>
 
-<character>FARNSWORTH</character>
-She's right!
+<speak who="FARNSWORTH">
+She's right!</speak>
 
-<character>ZOIDBERG</character>
-No doubt about it.
+<speak who="ZOIDBERG">
+No doubt about it.</speak>
 
-<character>AMY</character>
-Duh!
+<speak who="AMY">
+Duh!</speak>
 
-<character>HERMES</character>
-Daylight come!
+<speak who="HERMES">
+Daylight come!</speak>
 
-[Bender runs through the restaurant carrying a high chair.]
+<info>Bender runs through the restaurant carrying a high chair.</info>
 
-<character>BENDER</character>
-Coming through, watch your heads!
+<speak who="BENDER">
+Coming through, watch your heads!</speak>
 
-[He wangs Zoidberg on the head as he passes him.]
+<info>He wangs Zoidberg on the head as he passes him.</info>
 
-<character>ZOIDBERG</character>
-Help! I'm under attack!
+<speak who="ZOIDBERG">
+Help! I'm under attack!</speak>
 
-[He sprays the others with ink. Bender is sat with the kids at 
-another table.]
+<info>He sprays the others with ink. Bender is sat with the kids at 
+another table.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Remember your manners, kids. Forks go 
-in the left pocket, spoons in the right.
+in the left pocket, spoons in the right.</speak>
 
-[Elzar arrives with a plate of food.]
+<info>Elzar arrives with a plate of food.</info>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Which one of you cutie muffins gets 
-the children's spicy squab?
+the children's spicy squab?</speak>
 
-[A little boy comes out of Bender's chest door.]
+<info>A little boy comes out of Bender's chest door.</info>
 
-<character>LITTLE BOY</character>
-Me!
+<speak who="LITTLE BOY">
+Me!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ah-ah-ah! What do we say when someone 
-gives you something?
+gives you something?</speak>
 
-[The boy turns to Elzar.]
+<info>The boy turns to Elzar.</info>
 
-<character>LITTLE BOY</character>
-'Bout time!
+<speak who="LITTLE BOY">
+'Bout time!</speak>
 
-<character>BENDER</character>
-That's my boy!
+<speak who="BENDER">
+That's my boy!</speak>
 
-[He closes the door on him.]
+<info>He closes the door on him.</info>
 
-<character>ELZAR</character>
-And here's your check. Bam!
+<speak who="ELZAR">
+And here's your check. Bam!</speak>
 
-[Bender looks at it and gasps. Albert taps his arm.]
+<info>Bender looks at it and gasps. Albert taps his arm.</info>
 
-<character>ALBERT</character>
-I gotta go poopy!
+<speak who="ALBERT">
+I gotta go poopy!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well you should've gone poopy before 
 it was time to run out on the check! 
-C'mon! Go, go! Through the kitchen!
+C'mon! Go, go! Through the kitchen!</speak>
 
-[They leg it.]
+<info>They leg it.</info>
 
-<character>ELZAR</character>
-(shouting) You little crooks! If I catch 
-you I'm going to make cutie-muffin gumbo!
+<speak who="ELZAR">
+<info>(shouting)</info> You little crooks! If I catch 
+you I'm going to make cutie-muffin gumbo!</speak>
 
-[They run past the other table and Bender laughs as they run 
-through the door.]
+<info>They run past the other table and Bender laughs as they run 
+through the door.</info>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 You know, seeing that strange robot 
 force 12 children to do his bidding 
-makes me think about kids of our own.
+makes me think about kids of our own.</speak>
 
-<character>LEELA</character>
-Us? Me? You? Kids?
+<speak who="LEELA">
+Us? Me? You? Kids?</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 That's correct. It's time to stop living 
 this vida bachelor loca, settle down 
-and have kids.
+and have kids.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, Adlai, this is the most beautiful 
-moment of my life!
+moment of my life!</speak>
 
-[Zoidberg woops and sprays her with ink.]
+<info>Zoidberg woops and sprays her with ink.</info>
 
-[Fry and Bender's Spare Room. The room has six bunk beds in it. 
+<info>Fry and Bender's Spare Room. The room has six bunk beds in it. 
 The kids run around screaming and laughing and bouncing on the 
-mattresses. Fry and Bender play poker. Albert jumps on Bender.]
+mattresses. Fry and Bender play poker. Albert jumps on Bender.</info>
 
-<character>ALBERT</character>
-Daddy Bender, I want a piggy back ride.
+<speak who="ALBERT">
+Daddy Bender, I want a piggy back ride.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Daddy's tired. Let's just have another 
-dog pile on Fry.
+dog pile on Fry.</speak>
 
-[The kids dive on Fry.]
+<info>The kids dive on Fry.</info>
 
-<character>SALLY</character>
-Tell us a story, Daddy Bender.
+<speak who="SALLY">
+Tell us a story, Daddy Bender.</speak>
 
-<character>KIDS</character>
-(chanting) Story! Story! Story!
+<speak who="KIDS">
+<info>(chanting)</info> Story! Story! Story!</speak>
 
-<character>BENDER</character>
-Alright, fine, gather round.
+<speak who="BENDER">
+Alright, fine, gather round.</speak>
 
-[The kids cheer.]
+<info>The kids cheer.</info>
 
-<character>NINA</character>
-We wanna hear this one again!
+<speak who="NINA">
+We wanna hear this one again!</speak>
 
-[She hands him something and he opens it and clears his throat.]
+<info>She hands him something and he opens it and clears his throat.</info>
 
-<character>BENDER</character>
-(reading) "Bender's Arrest Record" by 
+<speak who="BENDER">
+<info>(reading)</info> "Bender's Arrest Record" by 
 the police. On March 3rd at 2pm, Bender 
-was caught shoplifting!
+was caught shoplifting!</speak>
 
-<character>ALBERT</character>
+<speak who="ALBERT">
 Yeah, show us the picture!  There he 
-is!
+is!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 OK, kids. It's 9:00, you know what that 
 means. Daddy's sick of looking at you 
 so go to bed.  The grown-ups have to 
-talk. Come on, Ma.
+talk. Come on, Ma.</speak>
 
-[He and Fry leave.]
+<info>He and Fry leave.</info>
 
-[Cut to: Fry and Bender's Lounge. On the door is a newspaper 
+<info>Cut to: Fry and Bender's Lounge. On the door is a newspaper 
 clipping with a photo of Fry on it. The headline reads "Primitive 
-Human Found In Cryo-Tube". Bender slides the door shut.]
+Human Found In Cryo-Tube". Bender slides the door shut.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Now to figure out how much money I'm 
 raking in off those twerps!  Oh, I need 
-a calculator.
+a calculator.</speak>
 
-<character>FRY</character>
-You are a calculator.
+<speak who="FRY">
+You are a calculator.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I mean a good calculator. Minus the 
 food, the bunny rabbit wallpaper -- 
 I'm getting 100 bucks a kid and they're 
-costing 110!
+costing 110!</speak>
 
-[Fry tuts.]
+<info>Fry tuts.</info>
 
-<character>FRY</character>
-There goes my new kitchen cabinets.
+<speak who="FRY">
+There goes my new kitchen cabinets.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm not sitting through one more <character>PTA </character>
-meeting. The kids have got to go!
+meeting. The kids have got to go!</speak>
 
-[The little boys opens Bender's door.]
+<info>The little boys opens Bender's door.</info>
 
-<character>LITTLE BOY</character>
-Daddy, how do I flush you?
+<speak who="LITTLE BOY">
+Daddy, how do I flush you?</speak>
 
-<character>BENDER</character>
-(shouting) Just go to bed!
+<speak who="BENDER">
+<info>(shouting)</info> Just go to bed!</speak>
 
-[The boy climbs out and runs off. Bender pushes his antenna down 
-and flushes himself.]
+<info>The boy climbs out and runs off. Bender pushes his antenna down 
+and flushes himself.</info>
 
-[Adlai's Lounge. He and Leela sit at a table doing a jigsaw.]
+<info>Adlai's Lounge. He and Leela sit at a table doing a jigsaw.</info>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 You know, doing this jigsaw puzzle of 
 a pacifier factory makes me want to 
-have children with you all the more.
+have children with you all the more.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Adlai, I was thinking. Since we're both 
-orphans, maybe we should adopt a child.
+orphans, maybe we should adopt a child.</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Adoption? Yes, that's acceptable. Heck, 
 it's more than acceptable. It's adequately 
-satisfactory!
+satisfactory!</speak>
 
-[Robot Arms Apartments Corridor. Adlai opens Fry and Bender's 
+<info>Robot Arms Apartments Corridor. Adlai opens Fry and Bender's 
 door and he and Leela go in. There is a sign above the door that 
 says "Honest Bender's Stolen Car Parts Boutique" and scribbled 
-below it "And Orphanarium".]
+below it "And Orphanarium".</info>
 
-[Cut to: Fry and Bender's Lounge. The kids are up again and running 
-around. Bender is on the phone.]
+<info>Cut to: Fry and Bender's Lounge. The kids are up again and running 
+around. Bender is on the phone.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hello? Imperial Dragon Restaurant? I've 
 got a herd of you-know-whats for sale...Let 
 me check.  Oh, aren't you a cutie?  
-About 35lbs.  What?!
+About 35lbs.  What?!</speak>
 
-[Fry points and Bender panics and hangs up.]
+<info>Fry points and Bender panics and hangs up.</info>
 
-<character>LEELA</character>
-Hi, Bender. We'd like to adopt a child.
+<speak who="LEELA">
+Hi, Bender. We'd like to adopt a child.</speak>
 
-[Bender stands up.]
+<info>Bender stands up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well, you've come to the right place 
 because Honest Bender's Orphanarium 
 means discount orphans. Now, little 
 lady. What do I have to do to send you 
-home with 12 orphans today?
+home with 12 orphans today?</speak>
 
-<character>ADLAI</character>
-Uh, I'm afraid we only want one.
+<speak who="ADLAI">
+Uh, I'm afraid we only want one.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Whatever you say, chief. I'll show you 
-what I got in stock.
+what I got in stock.</speak>
 
-[He walks into the kids' room.]
+<info>He walks into the kids' room.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I remember this from when we were kids: 
 The warden would trot you out in front 
 of prospective parents and they'd judge 
-you like a piece of meat.
+you like a piece of meat.</speak>
 
-[The kids are lined up. Albert steps forward.]
+<info>The kids are lined up. Albert steps forward.</info>
 
-<character>ALBERT</character>
-I'm Albert.
+<speak who="ALBERT">
+I'm Albert.</speak>
 
-<character>LEELA</character>
-Kind of fatty.
+<speak who="LEELA">
+Kind of fatty.</speak>
 
-[Bender pushes Nina forward.]
+<info>Bender pushes Nina forward.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Then how about this little number? Pure-bred 
-human. No vampire in there.
+human. No vampire in there.</speak>
 
-<character>LEELA</character>
-Uh, um.
+<speak who="LEELA">
+Uh, um.</speak>
 
-<character>ADLAI</character>
-Hmm.
+<speak who="ADLAI">
+Hmm.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 If you're strapped for cash, you might 
 wanna consider this irregular unit. 
 Cursed with a third ear but so full 
 of that emotion that I understand is 
-called "love".
+called "love".</speak>
 
-<character>SALLY</character>
-One time, I did a hundred jump ropes.
+<speak who="SALLY">
+One time, I did a hundred jump ropes.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, I can't decide. We're gonna have 
-to think about it.
+to think about it.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 OK, kids, grown-ups gotta talk, time 
-for bed.
+for bed.</speak>
 
-<character>ALBERT</character>
-But it's 10 in the morning!
+<speak who="ALBERT">
+But it's 10 in the morning!</speak>
 
-<character>BENDER</character>
-I said hit the hay!
+<speak who="BENDER">
+I said hit the hay!</speak>
 
-[The kids run.]
+<info>The kids run.</info>
 
-[Cut to: Fry and Bender's Spare Room. The kids get into bed and 
-Bender flicks the light off.]
+<info>Cut to: Fry and Bender's Spare Room. The kids get into bed and 
+Bender flicks the light off.</info>
 
-<character>LEELA</character>
-Oh, they're all so adorable.
+<speak who="LEELA">
+Oh, they're all so adorable.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah. You know, it's times like this 
 I can hardly bear to let them go. Goodnight, 
 you princes of Maine, you kings of New 
-New England.
+New England.</speak>
 
-[Fry and Bender's Lounge. The police break down the door.]
+<info>Fry and Bender's Lounge. The police break down the door.</info>
 
-<character>SMITTY</character>
+<speak who="SMITTY">
 You're under arrest for child cruelty, 
 child endangerment, depriving children 
 of food, selling children as food and 
-misrepresenting the weight of livestock.
+misrepresenting the weight of livestock.</speak>
 
-[Time Lapse. Smitty slaps the cuffs on Bender and the other police 
-lead Fry and the kids out.]
+<info>Time Lapse. Smitty slaps the cuffs on Bender and the other police 
+lead Fry and the kids out.</info>
 
-[Prison Cells. Smitty locks Fry, Bender and the kids in a cell.]
+<info>Prison Cells. Smitty locks Fry, Bender and the kids in a cell.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Officer, would it be alright if we adopted 
-one of the kids?
+one of the kids?</speak>
 
-<character>SMITTY</character>
+<speak who="SMITTY">
 Might as well. They're just gonna rot 
-in the evidence locker.
+in the evidence locker.</speak>
 
-[He and <character>URL</character> leave. The kids laugh and point at Sally.]
+<info>He and URL leave. The kids laugh and point at Sally.</info>
 
-<character>KID #1</character>
-Nice ear!
+<speak who="KID #1">
+Nice ear!</speak>
 
-<character>KID #2</character>
-Hey, freaky ears!
+<speak who="KID #2">
+Hey, freaky ears!</speak>
 
-<character>KID #3</character>
-How's you ear?
+<speak who="KID #3">
+How's you ear?</speak>
 
-<character>LEELA</character>
-I've made up my mind. Let's adopt her.
+<speak who="LEELA">
+I've made up my mind. Let's adopt her.</speak>
 
-[She points at Sally.]
+<info>She points at Sally.</info>
 
-<character>ADLAI</character>
-Her? But there's plenty of normal ones.
+<speak who="ADLAI">
+Her? But there's plenty of normal ones.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Come on, Adlai. She could really use 
-a mom and dad.
+a mom and dad.</speak>
 
-<character>KIDS</character>
-(chanting) Ear-face! Ear-face! Sally 
-won the ugly race!
+<speak who="KIDS">
+<info>(chanting)</info> Ear-face! Ear-face! Sally 
+won the ugly race!</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 On the other hand, the children bring 
 up a good point. She does have an ear 
-on her face.
+on her face.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well? So what? She may be different 
-but she still deserves a good home.
+but she still deserves a good home.</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Oh, alright. If you really want that 
 one, I can give her an operation to 
-make her acceptable.
+make her acceptable.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 She doesn't need an operation! She's 
-fine the way she is!
+fine the way she is!</speak>
 
-<character>ADLAI</character>
+<speak who="ADLAI">
 Oh, and I suppose you were fine the 
-way you were?
+way you were?</speak>
 
-<character>LEELA</character>
-Damn right I was!
+<speak who="LEELA">
+Damn right I was!</speak>
 
-<character>FRY</character>
-Yay!
+<speak who="FRY">
+Yay!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Shut up, Fry. Now look, Adlai. I'm proud 
 to be different. And I just wished I'd 
-realised that when I was her age.
+realised that when I was her age.</speak>
 
-<character>SALLY</character>
-I also have a tail!
+<speak who="SALLY">
+I also have a tail!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Now take me to the hospital and put 
-my eye back the way it was. Right now!
+my eye back the way it was. Right now!</speak>
 
-<character>ADLAI</character>
-Why should I do that?
+<speak who="ADLAI">
+Why should I do that?</speak>
 
-[Leela slams him against the bars.]
+<info>Leela slams him against the bars.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Listen, buddy. By the end of the day, 
-one of us is going to have one eye.
+one of us is going to have one eye.</speak>
 
-[Outside Cookieville Minimum-Security Orphanarium. People are 
-crowded around the front door as Vogel makes a speech.]
+<info>Outside Cookieville Minimum-Security Orphanarium. People are 
+crowded around the front door as Vogel makes a speech.</info>
 
-<character>VOGEL</character>
+<speak who="VOGEL">
 In recognition of Bender's generous 
 gift of 12 orphans and a government 
 cheque for 1200 wing-wangs, I hereby 
 rename this building the Bender B. Rodriguez 
-Orphanarium!
+Orphanarium!</speak>
 
-[The crowd cheers and Vogel shakes Bender's hand. Leela's eye 
-is back to how it was before.]
+<info>The crowd cheers and Vogel shakes Bender's hand. Leela's eye 
+is back to how it was before.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 It's good to have the old weird-looking 
-Leela back.
+Leela back.</speak>
 
-[They hug.]
+<info>They hug.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Aww! You're a true friend, Fry. I guess 
 there's nothing wrong with being a little 
-weird.
+weird.</speak>
 
-<character>FRY</character>
-Leela, there's nothing wrong with anything.
+<speak who="FRY">
+Leela, there's nothing wrong with anything.</speak>
 
-[The kids say goodbye to Bender.]
+<info>The kids say goodbye to Bender.</info>
 
-<character>ALBERT</character>
-We'll miss you, Daddy Bender.
+<speak who="ALBERT">
+We'll miss you, Daddy Bender.</speak>
 
-<character>NINA</character>
+<speak who="NINA">
 We know robots don't have emotions but 
-we drawed you this picture!
+we drawed you this picture!</speak>
 
-[She shows him a crude picture of him and the kids.]
+<info>She shows him a crude picture of him and the kids.</info>
 
-<character>SALLY</character>
+<speak who="SALLY">
 So if you ever miss us, even just a 
-teeny bit, you can look at it.
+teeny bit, you can look at it.</speak>
 
-[Bender takes the picture.]
+<info>Bender takes the picture.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, I smoke a cigar, not a candy cane. 
 Sheesh!  Hey, what the? Get away! Come 
 on! I just got all the gum off of there! 
-Hey! Hey! (shouting) I hate you! I hate 
-you all!
+Hey! Hey! <info>(shouting)</info> I hate you! I hate 
+you all!</speak>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

@@ -1,138 +1,138 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 215 
 
-<title>A <character>CLONE OF MY OWN</character></title>
+<title>A CLONE OF MY OWN</title>
 
 <author>Patric M. Verrone</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Coming Soon To An Illegal <character>DVD</character>.]
+<info>Opening Credits. Caption: Coming Soon To An Illegal DVD.</info>
 
-[Planet Express: Meeting Room. The crew are sat around the big 
-table. Enter Farnsworth with a sheet of paper.]
+<info>Planet Express: Meeting Room. The crew are sat around the big 
+table. Enter Farnsworth with a sheet of paper.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Good news everyone, the university is 
 bringing me up on disciplinary charges! 
-Wait, that's not good news at all.
+Wait, that's not good news at all.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Whatever you did Professor, I'm sure 
-there's a reasonable explanation.
+there's a reasonable explanation.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Yes but they won't listen. Everyone's 
 always in favour of saving Hitler's 
 brain but when you put it in the body 
-of a great white shark (sarcastic) ooo, 
-suddenly you've gone too far.
+of a great white shark <info>(sarcastic)</info> ooo, 
+suddenly you've gone too far.</speak>
 
-[The ship flies towards Mars and cruises over the Mars University 
+<info>The ship flies towards Mars and cruises over the Mars University 
 sign.
 
 [Cut to: Mars University Car Park. The ship lands in the car 
-park.]
+park.</info>
 
-[Mars University: Hallowed Hall. Farnsworth stands before several 
+<info>Mars University: Hallowed Hall. Farnsworth stands before several 
 Mars University staff members under a spotlight. He wears a top 
-hat and they are dressed formally for the tribunal.]
+hat and they are dressed formally for the tribunal.</info>
 
-<character>VERNON</character>
+<speak who="VERNON">
 Professor Farnsworth, do you know why 
-we've called you here today?
+we've called you here today?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Listen to me you pompous frauds, if 
 I'm going down, I'm taking you all with 
 me. Dean Vernon, I know the truth. It 
 was you driving your hover-car that 
 night, not your horse. Dean Epsilon, 
 I know all about your "Department Of 
-Pool Boy Studies." And Dr Wernstrom...Werrrnstrom!
+Pool Boy Studies." And Dr Wernstrom...Werrrnstrom!</speak>
 
-<character>VERNON</character>
+<speak who="VERNON">
 Actually Professor, we merely called 
-you here to say......surprise.
+you here to say......surprise.</speak>
 
-[The room is filled with formally dressed people. To one side 
+<info>The room is filled with formally dressed people. To one side 
 a band is ready to play and Farnsworth is in the middle of the 
-room. Behind them "Happy Birthday" is displayed on a huge screen.]
+room. Behind them "Happy Birthday" is displayed on a huge screen.</info>
 
-<character>MAN #1</character>
-Surprise!
+<speak who="MAN #1">
+Surprise!</speak>
 
-<character>MAN #2</character>
-Happy birthday!
+<speak who="MAN #2">
+Happy birthday!</speak>
 
-[Behind Farnsworth the Planet Express crew hold a banner reading 
-"Happy Sesquicentennial Professor Farnsworth!"]
+<info>Behind Farnsworth the Planet Express crew hold a banner reading 
+"Happy Sesquicentennial Professor Farnsworth!"</info>
 
-<character>HERMES</character>
-Surprise!
+<speak who="HERMES">
+Surprise!</speak>
 
-[Farnsworth ignores them.]
+<info>Farnsworth ignores them.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 And you Coach Smalley, or should I say 
-"Coach hairpiece"?
+"Coach hairpiece"?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No Professor, it's a surprise party 
-for your 150th birthday.
+for your 150th birthday.</speak>
 
-<character>FARNSWORTH</character>
-(muttering) Hundred and...what? Oooh!
+<speak who="FARNSWORTH">
+<info>(muttering)</info> Hundred and...what? Oooh!</speak>
 
-[Time Lapse. Bender takes the mic in the middle and the other 
+<info>Time Lapse. Bender takes the mic in the middle and the other 
 staff have been replaced by Leela, Fry, Farnsworth and Zoidberg. 
 A picture of Farnsworth adorns the big screen. Bender plugs a 
-mic into himself.]
+mic into himself.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Good evening I'm -  Whoa, sorry. I'm 
 Bender and I'll be MC-ing this roast. 
 Y'know, they say you can judge a man 
 by the company he keeps, so here's the 
 Professor's oldest friend: A grotesque, 
-stinking lobster!
+stinking lobster!</speak>
 
-[Zoidberg takes his place and appears on the screen.]
+<info>Zoidberg takes his place and appears on the screen.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Good evening ladies and germs.  That 
 wasn't a joke, I was talking to Dean 
 Streptococcus.  Now I'm not saying Professor 
 Farnsworth is old, but if you consider 
 his age he's likely to die soon!  Hey 
 Ringo, that was the joke. Oh, it's showtime 
-at the Apollo all over again.
+at the Apollo all over again.</speak>
 
-[He sits down. Bender gets back up.]
+<info>He sits down. Bender gets back up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Where would the Professor be without 
 students who love and respect him? Right 
 there!  But seriously, of all the former 
 crew members of the Professor's delivery 
 ship, our next speaker is by far the 
-most alive. Captain Muskie?
+most alive. Captain Muskie?</speak>
 
-[A man who is a dead ringer for the wheelchair-bound Captain 
+<info>A man who is a dead ringer for the wheelchair-bound Captain 
 Pike from the Star Trek two-parter The Menagerie takes the mic. 
 His wheelchair beeps once like Pike's and the audience howls 
-with laughter. Zoidberg turns to Dean Vernon.]
+with laughter. Zoidberg turns to Dean Vernon.</info>
 
-<character>ZOIDBERG</character>
-I wouldn't wanna follow that guy!
+<speak who="ZOIDBERG">
+I wouldn't wanna follow that guy!</speak>
 
-[Bender laughs.]
+<info>Bender laughs.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And now, a man who needs no introduction. 
-(whispering) Fry, get up there!
+<info>(whispering)</info> Fry, get up there!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh.  Thank you. Y'know, when I was first 
 asked to make a film about my nephew, 
 Professor Farnsworth, I thought "Why 
@@ -140,484 +140,484 @@ should I?" Then later Leela made the
 film. But if I had made the film, you 
 could bet there would have been a lot 
 more topless women on motorcycles!  
-Roll film!
+Roll film!</speak>
 
-[He sits down, the lights dim and behind him the film counts 
+<info>He sits down, the lights dim and behind him the film counts 
 down in AL1. The title Hubert Farnsworth: A Living Obituary appears 
 on the screen and it changes to a view of New New York in the 
-29th century.]
+29th century.</info>
 
-[A picture of acne-faced Farnsworth dressed in a Dungeon Master 
-T-shirt appears. Fry points at the screen.]
+<info>A picture of acne-faced Farnsworth dressed in a Dungeon Master 
+T-shirt appears. Fry points at the screen.</info>
 
-<character>FRY</character>
-(whispering) Dork alert!
+<speak who="FRY">
+<info>(whispering)</info> Dork alert!</speak>
 
-[The picture changes to Farnsworth a few minutes before.]
+<info>The picture changes to Farnsworth a few minutes before.</info>
 
-[The picture freezes and is followed by the caption "Hubert J. 
+<info>The picture freezes and is followed by the caption "Hubert J. 
 Farnsworth. To Be Continued...?" The picture ends and everyone 
-applauds. Farnsworth looks away from the screen with sadness.]
+applauds. Farnsworth looks away from the screen with sadness.</info>
 
-<character>BENDER</character>
-How 'bout a few words Professor?
+<speak who="BENDER">
+How 'bout a few words Professor?</speak>
 
-<character>FARNSWORTH</character>
-Eh wha?
+<speak who="FARNSWORTH">
+Eh wha?</speak>
 
-<character>BENDER</character>
-I said "words."
+<speak who="BENDER">
+I said "words."</speak>
 
-[Farnsworth stands up and the audience applauds.]
+<info>Farnsworth stands up and the audience applauds.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Uh, what a pleasure it is to see my 
 lifetime of accomplishments summed up 
 in a 3-minute film. My best years are 
 behind me. So much left undone. So little 
-time.
+time.</speak>
 
-[He sits down and hangs his head. Bender applauds.]
+<info>He sits down and hangs his head. Bender applauds.</info>
 
-<character>BENDER</character>
-Funny funny stuff.
+<speak who="BENDER">
+Funny funny stuff.</speak>
 
-[Planet Express: Lounge. Farnsworth sits glumly on the couch 
-with the rest of the crew surrounding him.]
+<info>Planet Express: Lounge. Farnsworth sits glumly on the couch 
+with the rest of the crew surrounding him.</info>
 
-<character>FARNSWORTH</character>
-My life is over.
+<speak who="FARNSWORTH">
+My life is over.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No it isn't. You have another 10 years 
-left.
+left.</speak>
 
-<character>FRY</character>
-Leela! He could live another 100 years!
+<speak who="FRY">
+Leela! He could live another 100 years!</speak>
 
-[He winks theatrically.]
+<info>He winks theatrically.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No, he couldn't. When you turn 160, 
 robots from the Sunset Squad take you 
 to a mysterious planet and you never 
-return.
+return.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Wow, a whole planet of old people. Where 
-is it?
+is it?</speak>
 
-<character>BENDER</character>
-(spookily) Nobody knows!
+<speak who="BENDER">
+<info>(spookily)</info> Nobody knows!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 So many loves half-loved. So many inventions 
 half-invented. That damn time machine 
-alone set me back 15 years.
+alone set me back 15 years.</speak>
 
-[He points to a cobweb covered contraption in the corner that 
-looks like the time machine from <character>H</character>.G. Wells' Time Machine.]
+<info>He points to a cobweb covered contraption in the corner that 
+looks like the time machine from H.G. Wells' Time Machine.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 If only it'd worked. You could go back 
-and not waste your time on it.
+and not waste your time on it.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 There's no one to carry on after I'm 
 gone. No one to take care of my work 
 and my research and my fabulous fortune. 
 By God, that's it! I've got to name 
-a successor.
+a successor.</speak>
 
-<character>FRY</character>
-A successor?
+<speak who="FRY">
+A successor?</speak>
 
-<character>ZOIDBERG</character>
-A successor to the Professor?
+<speak who="ZOIDBERG">
+A successor to the Professor?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 There's no time to lose. I'm off to 
-my lab to build a successor-naming machine!
+my lab to build a successor-naming machine!</speak>
 
-[Planet Express: Meeting Room. Everyone except Farnsworth is 
-at the table.]
+<info>Planet Express: Meeting Room. Everyone except Farnsworth is 
+at the table.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Man, the Professor's been in his lab 
-for days.
+for days.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I hope he didn't die. Unless he left 
 a note naming me his successor. Then 
-I hope he did die.
+I hope he did die.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 You? The successor? Over my empty shell! 
 The Professor will pick me. Only I have 
-his lobster-like tenacity!
+his lobster-like tenacity!</speak>
 
-[He clacks his claws.]
+<info>He clacks his claws.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Up yours Zoidberg. Up wherever your 
 species traditionally crams things. 
 The only successful way to choose a 
-successor is with a limbo contest.
+successor is with a limbo contest.</speak>
 
-<character>LEELA</character>
-What?
+<speak who="LEELA">
+What?</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Kingston rules. Two men go down, one 
-come up.
+come up.</speak>
 
-[He gets up off his chair and limbos towards the kitchen.]
+<info>He gets up off his chair and limbos towards the kitchen.</info>
 
-[Cut to: Planet Express: Kitchen. He limbos underneath the oven. 
-Leela puts a bin in front of it and leans against it.]
+<info>Cut to: Planet Express: Kitchen. He limbos underneath the oven. 
+Leela puts a bin in front of it and leans against it.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look, the Professor trusts me with a 
 giant spaceship. He wouldn't trust the 
-rest of you with his dentures.
+rest of you with his dentures.</speak>
 
-[Cut to: Planet Express: Meeting Room. Amy has Farnsworth dentures 
-in her mouth.]
+<info>Cut to: Planet Express: Meeting Room. Amy has Farnsworth dentures 
+in her mouth.</info>
 
-<character>AMY</character>
-Yesh he would.
+<speak who="AMY">
+Yesh he would.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Sorry everyone but need I remind you? 
-Blood is thicker than water.
+Blood is thicker than water.</speak>
 
-<character>ZOIDBERG </character>[<character>WRITING</character>]
-Blood...thicker...water.
+<speak who="ZOIDBERG"><info><character>WRITING</character></info>
+Blood...thicker...water.</speak>
 
-[Planet Express: Corridor. On the lab door is a sign reading 
+<info>Planet Express: Corridor. On the lab door is a sign reading 
 "Mice Please Enter Through Maze." Farnsworth's monogrammed towel 
-hangs on a rail to the side.]
+hangs on a rail to the side.</info>
 
-[Cut to: Planet Express: Farnsworth's Lab. The crew are all assembled 
-for the successor naming.]
+<info>Cut to: Planet Express: Farnsworth's Lab. The crew are all assembled 
+for the successor naming.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Everyone, I have a very dramatic announcement. 
 So anyone with a weak heart should leave 
-now. Goodbye.
+now. Goodbye.</speak>
 
-[He turns to leave.]
+<info>He turns to leave.</info>
 
-<character>LEELA</character>
-Uh, Professor?
+<speak who="LEELA">
+Uh, Professor?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh yes, the announcement! As you all 
-know, I am not long for this world...
+know, I am not long for this world...</speak>
 
-<character>LEELA</character>
-Yes, we know.
+<speak who="LEELA">
+Yes, we know.</speak>
 
-<character>HERMES</character>
-True mon!
+<speak who="HERMES">
+True mon!</speak>
 
-<character>AMY</character>
-Buh!
+<speak who="AMY">
+Buh!</speak>
 
-<character>FRY</character>
-One foot in the grave.
+<speak who="FRY">
+One foot in the grave.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 ...So I've picked my successor. It's 
 someone in whom I have great faith - 
 even though his mind is undeveloped 
 and he's accomplished nothing.  My closest 
-living relative...
+living relative...</speak>
 
-<character>FRY</character>
-Oh yeah!
+<speak who="FRY">
+Oh yeah!</speak>
 
-<character>FARNSWORTH</character>
-My clone, Cubert Farnsworth.
+<speak who="FARNSWORTH">
+My clone, Cubert Farnsworth.</speak>
 
-[Fry gasps and Farnsworth throws a huge switch. Electrical gadgets 
+<info>Fry gasps and Farnsworth throws a huge switch. Electrical gadgets 
 fizzle and a huge glass tank slides up along the wall. The lights 
 go on and the crew gaze at a chubby orange-haired boy suspended 
-in water in the tank. They gasp.]
+in water in the tank. They gasp.</info>
 
-<character>ZOIDBERG</character>
-He's horrible!
+<speak who="ZOIDBERG">
+He's horrible!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Crud. Can I at least be in charge of 
-your dentures?
+your dentures?</speak>
 
-<character>AMY</character>
-You wish!
+<speak who="AMY">
+You wish!</speak>
 
-<character>FRY</character>
-Where did Cubert come from?
+<speak who="FRY">
+Where did Cubert come from?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 12 years ago I began the cloning process 
 by removing some skin cells from one 
-of the shaplier growths on my back.
+of the shaplier growths on my back.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wait, if he's your clone then why doesn't 
-his nose look like yours?
+his nose look like yours?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I left him in his first tube too long 
-and he got squished up against the side.
+and he got squished up against the side.</speak>
 
-<character>BENDER</character>
-Is he dumb or just ugly?
+<speak who="BENDER">
+Is he dumb or just ugly?</speak>
 
-<character>FARNSWORTH</character>
-Let's find out.
+<speak who="FARNSWORTH">
+Let's find out.</speak>
 
-[He presses a button and the water drains out of the tank. Cubert 
-coughs and splutters. The crew stare at him.]
+<info>He presses a button and the water drains out of the tank. Cubert 
+coughs and splutters. The crew stare at him.</info>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 What? You've never seen a genius's wiener 
-before?
+before?</speak>
 
-<character>ZOIDBERG</character>
-No.
+<speak who="ZOIDBERG">
+No.</speak>
 
-<character>LEELA</character>
-Never.
+<speak who="LEELA">
+Never.</speak>
 
-<character>FRY</character>
-Well, once in the park.
+<speak who="FRY">
+Well, once in the park.</speak>
 
-[Planet Express: Hangar. The hangar doors are open and Leela 
+<info>Planet Express: Hangar. The hangar doors are open and Leela 
 works on the ship in a hover-cradle. Fry and Bender roll pennies 
 against the hangar wall. Fry grumbles. Zoidberg takes a ketchup 
-sachet out of a box, opens it and sucks the ketchup out.]
+sachet out of a box, opens it and sucks the ketchup out.</info>
 
-<character>ZOIDBERG</character>
-Mmm!
+<speak who="ZOIDBERG">
+Mmm!</speak>
 
-[Cubert walks into the hangar from the lab.]
+<info>Cubert walks into the hangar from the lab.</info>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 As long as I'm going to be in charge 
 here, let me examine my so called "crew," 
 if it can so be called. First of all, 
 Dr Zoidberg, do you even have a medical 
-degree?
+degree?</speak>
 
-<character>ZOIDBERG</character>
-I lost it...in a volcano.
+<speak who="ZOIDBERG">
+I lost it...in a volcano.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 And why do we need a bending robot around 
 here anyway? What possible use do we 
-have for you?
+have for you?</speak>
 
-<character>BENDER</character>
-Uh...me no speaka the English.
+<speak who="BENDER">
+Uh...me no speaka the English.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 And why does our space pilot have only 
 one eye? There's someone I'd like you 
-to meet. His name is depth perception!
+to meet. His name is depth perception!</speak>
 
-[He laughs.]
+<info>He laughs.</info>
 
-<character>LEELA</character>
-Why you little -!
+<speak who="LEELA">
+Why you little -!</speak>
 
-[She takes a swipe at him but misses.]
+<info>She takes a swipe at him but misses.</info>
 
-<character>CUBERT</character>
-Wow, that hurt - the air!
+<speak who="CUBERT">
+Wow, that hurt - the air!</speak>
 
-<character>BENDER</character>
-Im pending para un bending!
+<speak who="BENDER">
+Im pending para un bending!</speak>
 
-[Farnsworth leans over the railings.]
+<info>Farnsworth leans over the railings.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh Cubert, come in here. I have something 
-amazing to show you.
+amazing to show you.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 What is it? A compitent employee? I 
-doubt that very much!
+doubt that very much!</speak>
 
-[He laughs and leaves. The crew mutter and grumble.]
+<info>He laughs and leaves. The crew mutter and grumble.</info>
 
-<character>FRY</character>
-Little twerp.
+<speak who="FRY">
+Little twerp.</speak>
 
-<character>BENDER</character>
-Aye chihuahua!
+<speak who="BENDER">
+Aye chihuahua!</speak>
 
-[Planet Express: Attic. Farnsworth and Cubert stand among Farnsworth's 
-countless inventions.]
+<info>Planet Express: Attic. Farnsworth and Cubert stand among Farnsworth's 
+countless inventions.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 As my successor I'm trusting you to 
 carry on my work. These are just some 
 of the half finished inventions you'll 
-spend your life finishing.
+spend your life finishing.</speak>
 
-[Cubert looks at the smelloscope.]
+<info>Cubert looks at the smelloscope.</info>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 I didn't realise you were the inventor 
-of the junk heap.
+of the junk heap.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 That's my prizewinning smelloscope. 
 If a dog craps anywhere in the universe, 
 you can bet I won't be out of the loop. 
 And this is my universal translator. 
 Unfortunately so far it only translates 
-into an incomprehensible dead language.
+into an incomprehensible dead language.</speak>
 
-<character>CUBERT</character>
-Hello.
+<speak who="CUBERT">
+Hello.</speak>
 
-<character>UNIVERSAL TRANSLATOR</character>
-Bonjour!
+<speak who="UNIVERSAL TRANSLATOR">
+Bonjour!</speak>
 
-<character>FARNSWORTH</character>
-Crazy gibberish!
+<speak who="FARNSWORTH">
+Crazy gibberish!</speak>
 
-<character>CUBERT</character>
-Don't you have any worthwhile inventions?
+<speak who="CUBERT">
+Don't you have any worthwhile inventions?</speak>
 
-<character>FARNSWORTH</character>
-Why certainly. Step over here.
+<speak who="FARNSWORTH">
+Why certainly. Step over here.</speak>
 
-[Outside Ship. The ship cruises away from Earth. Cubert and Farnsworth 
-stand on the ship's hull near the engines.]
+<info>Outside Ship. The ship cruises away from Earth. Cubert and Farnsworth 
+stand on the ship's hull near the engines.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 These are the dark matter engine I invented. 
 They allow my starship to travel between 
-galaxies in mere hours.
+galaxies in mere hours.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 That's impossible. You can't go faster 
-than the speed of light.
+than the speed of light.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Of course not. That's why scientists 
-increased the speed of light in 2208.
+increased the speed of light in 2208.</speak>
 
-<character>CUBERT</character>
-Also impossible.
+<speak who="CUBERT">
+Also impossible.</speak>
 
-[Ship's Engine Room. Farnsworth admires the dark matter engines.]
+<info>Ship's Engine Room. Farnsworth admires the dark matter engines.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 And what makes my engines truly remarkable 
 is the afterburner which delivers 200% 
-fuel efficiency.
+fuel efficiency.</speak>
 
-<character>CUBERT</character>
-That's especially impossible.
+<speak who="CUBERT">
+That's especially impossible.</speak>
 
-<character>FARNSWORTH</character>
-Not at all. It's very simple.
+<speak who="FARNSWORTH">
+Not at all. It's very simple.</speak>
 
-<character>CUBERT</character>
-Then explain it.
+<speak who="CUBERT">
+Then explain it.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Now that's impossible. It came to me 
 in a dream and I forgot it in another 
-dream.
+dream.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 Your explainations are pure weapons 
-grade balognium. It's all impossible.
+grade balognium. It's all impossible.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Nothing is impossible. Not if you can 
 imagine it. That's what being is a scientist 
-is all about.
+is all about.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 No, that's what being a magical elf 
-is all about.
+is all about.</speak>
 
-[Elzar's Fine Cuisine. The crew and Cubert are in the middle 
+<info>Elzar's Fine Cuisine. The crew and Cubert are in the middle 
 of their meal. Bender looks around and sees Elzar talking to 
-some other diners.]
+some other diners.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh my God, oh my God! It's Elzar, the 
-TV chef! Oh kill me now people!
+TV chef! Oh kill me now people!</speak>
 
-[Elzar joins them.]
+<info>Elzar joins them.</info>
 
-<character>ELZAR</character>
-How we doing here?
+<speak who="ELZAR">
+How we doing here?</speak>
 
-<character>BENDER</character>
-Oh Elzar, everything's so good!
+<speak who="BENDER">
+Oh Elzar, everything's so good!</speak>
 
-<character>ELZAR</character>
-What are you, an ass kissing machine?
+<speak who="ELZAR">
+What are you, an ass kissing machine?</speak>
 
-<character>BENDER</character>
-Yes sir, good one sir!
+<speak who="BENDER">
+Yes sir, good one sir!</speak>
 
-[Elzar leaves.]
+<info>Elzar leaves.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh it's a gem of an evening! I feel 
 so wonderful having someone to take 
 over my life work! And it's all thanks 
-to Cubert.
+to Cubert.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 Look Professor. I may be identical to 
 you in every possible way but that doesn't 
-mean I'm anything like you.
+mean I'm anything like you.</speak>
 
-<character>FARNSWORTH</character>
-You...wha?
+<speak who="FARNSWORTH">
+You...wha?</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 I don't want to be an inventor. I want 
 to be something useful like a teacher's 
 aide or a prison guard or a science 
-fiction cartoon writer.
+fiction cartoon writer.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 But-But what about my hopes and my dreams 
-and my wonderful inventions?
+and my wonderful inventions?</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 In your entire life your only half-decent 
 invention was me and I didn't turn out 
-like you wanted either.
+like you wanted either.</speak>
 
-[Farnsworth looks away from Cubert and a tear trickles down his 
-face. The other look on sadly. Elzar appears in the doorway.]
+<info>Farnsworth looks away from Cubert and a tear trickles down his 
+face. The other look on sadly. Elzar appears in the doorway.</info>
 
-<character>ELZAR</character>
-You folks still doing alright?
+<speak who="ELZAR">
+You folks still doing alright?</speak>
 
-<character>BENDER</character>
-Oh yes Elzar.
+<speak who="BENDER">
+Oh yes Elzar.</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Good 'cause it turns out I forgot to 
-cook that chicken.
+cook that chicken.</speak>
 
-[Planet Express: Attic. A storm rages outside the building. Farnsworth 
-puts a tape in a camcorder and steps in front of it.]
+<info>Planet Express: Attic. A storm rages outside the building. Farnsworth 
+puts a tape in a camcorder and steps in front of it.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Bad news everyone. By the time you watch 
 this tape, I'll be gone. Leaving by 
 nothing but a history of failure and 
@@ -626,541 +626,541 @@ been lying about my age. I'm not actually
 150. I'm 160. Oh vanity, thy name is 
 Professor Farnsworth. And now that I've 
 nothing to live for, I've alerted the 
-Sunset Squad robots to take me away.
+Sunset Squad robots to take me away.</speak>
 
-[Cut to: Outside Planet Express. A Sunset Squad ship flies through 
+<info>Cut to: Outside Planet Express. A Sunset Squad ship flies through 
 a hole in the stormclouds and stops next to the attic balcony. 
-The door opens and something climbs out, holding a scythe.]
+The door opens and something climbs out, holding a scythe.</info>
 
-[Cut to: Planet Express: Attic. Farnsworth takes the tape out 
+<info>Cut to: Planet Express: Attic. Farnsworth takes the tape out 
 of the camera and puts it in an envelope. There is a flash of 
 lightning and the windows fly open. Farnsworth gasps, turns around 
 and sees the cloaked Reaperbot. It beckons him. Farnsworth puts 
 the envelope, labelled "To My Crew," on a table and starts to 
-follow the Reaperbot outside.]
+follow the Reaperbot outside.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Goodbye cruel world.  Goodbye cruel 
 lamp.  Goodbye cruel velvet drapes, 
 lined with what would appear to be some 
 sort of cruel muslin......and the cute 
 little pompom curtain pull cords, cruel 
-though they may be a -
+though they may be a -</speak>
 
-[The Reaperbot lifts him over his shoulder and knocks him out 
-on the window.]
+<info>The Reaperbot lifts him over his shoulder and knocks him out 
+on the window.</info>
 
-[Planet Express: Farnsworth's Lab. The remaining crew and Cubert 
+<info>Planet Express: Farnsworth's Lab. The remaining crew and Cubert 
 watch Farnsworth's message on a hologram communicator similar 
-to the one in A New Hope.]
+to the one in A New Hope.</info>
 
-<character>HOLO</character>-<character>FARNSWORTH</character>
+<speak who="HOLO">-<character>FARNSWORTH</character>
 And now that I've nothing to live for, 
 I've alerted the Sunset Squad robots 
-to take me away.
+to take me away.</speak>
 
-[The crew gasp.]
+<info>The crew gasp.</info>
 
-<character>AMY</character>
-What?
+<speak who="AMY">
+What?</speak>
 
-<character>HERMES</character>
-Oh no!
+<speak who="HERMES">
+Oh no!</speak>
 
-<character>ZOIDBERG</character>
-Oh.
+<speak who="ZOIDBERG">
+Oh.</speak>
 
-<character>HOLO</character>-<character>FARNSWORTH</character>
+<speak who="HOLO">-<character>FARNSWORTH</character>
 I know you're all very upset, especially 
-Bender.
+Bender.</speak>
 
-<character>BENDER</character>
-(unmoved) Well, life goes on. Except 
-for you!
+<speak who="BENDER">
+<info>(unmoved)</info> Well, life goes on. Except 
+for you!</speak>
 
-[He laughs.]
+<info>He laughs.</info>
 
-<character>HOLO</character>-<character>FARNSWORTH</character>
+<speak who="HOLO">-<character>FARNSWORTH</character>
 I'm sure that Bender has just made a 
 cutting remark but he doesn't know I 
 taped over his soap operas to record 
-this message.
+this message.</speak>
 
-<character>BENDER</character>
-You bastard!
+<speak who="BENDER">
+You bastard!</speak>
 
-<character>FRY</character>
-We've gotta get him back.
+<speak who="FRY">
+We've gotta get him back.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 Impossible. No one knows where they 
-take those old geezers.
+take those old geezers.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Nothing is impossible. You'd know that 
 if you really took after the Professor, 
-like I do.
+like I do.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 You're his uncle dummy, he takes after 
-you.
+you.</speak>
 
-<character>FRY</character>
-Uh...what?
+<speak who="FRY">
+Uh...what?</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 Wait a second, that means I also take 
-after you!
+after you!</speak>
 
-[He screams.]
+<info>He screams.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Quiet. I think I know how to find the 
-Professor.
+Professor.</speak>
 
-<character>BENDER</character>
-Lay it on us big boots.
+<speak who="BENDER">
+Lay it on us big boots.</speak>
 
-[Outside Planet Express. The smelloscope points around the sky 
-and Leela sniffs.]
+<info>Outside Planet Express. The smelloscope points around the sky 
+and Leela sniffs.</info>
 
-[Cut to: Planet Express: Attic. The rest of the crew are with 
-her.]
+<info>Cut to: Planet Express: Attic. The rest of the crew are with 
+her.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 If the smelloscope can pick up the Professor's 
 odour, we may have a chance to save 
-him.
+him.</speak>
 
-[Cubert scoffs and snorts.]
+<info>Cubert scoffs and snorts.</info>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 I think not. As you probably already 
 don't know, odours are made up of particles 
 that can't travel through the vacuum 
-of space.
+of space.</speak>
 
-[Bender electrocutes him and he screams.]
+<info>Bender electrocutes him and he screams.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm zeroing in on him.  Bengay...mothballs......letters 
-to the editor. It's the Professor!
+to the editor. It's the Professor!</speak>
 
-<character>BENDER</character>
-To the flying machine!
+<speak who="BENDER">
+To the flying machine!</speak>
 
-[The smelloscope has been mounted to the laser turret and the 
-ship flies at high speed through space.]
+<info>The smelloscope has been mounted to the laser turret and the 
+ship flies at high speed through space.</info>
 
-[Cut to: Ship's Cockpit. Fry operates the smelloscope like a 
-periscope. He sniffs.]
+<info>Cut to: Ship's Cockpit. Fry operates the smelloscope like a 
+periscope. He sniffs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 To the left!  No to the up!  U-turn, 
-U-turn!
+U-turn!</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 We'll never find this place. Robots 
-are very good at keeping secrets.
+are very good at keeping secrets.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 No we're not you little bed wetter. 
-Oops I'm sorry.
+Oops I'm sorry.</speak>
 
-[Leela points through the windscreen.]
+<info>Leela points through the windscreen.</info>
 
-<character>LEELA</character>
-There it is! The Near-Death Star!
+<speak who="LEELA">
+There it is! The Near-Death Star!</speak>
 
-[Near-Death Star Landing Pad. The massive structure looks like 
+<info>Near-Death Star Landing Pad. The massive structure looks like 
 the Death Star from A New Hope with huge spikes along the circumference. 
-The ship circles a sizable dome and lands on a landing pad outside.]
+The ship circles a sizable dome and lands on a landing pad outside.</info>
 
-[Cut to: Ship's Cockpit. Bender and Leela put on Reaperbot cloaks.]
+<info>Cut to: Ship's Cockpit. Bender and Leela put on Reaperbot cloaks.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 OK, we'll tell them the Professor escaped 
 and we're bringing him back. Fry, you'll 
 have to dress up like a 160 year old 
-man.
+man.</speak>
 
-<character>FRY</character>
-I'm on it!
+<speak who="FRY">
+I'm on it!</speak>
 
-[He pulls his trousers up around his chest and starts acting 
-frail and decreped.]
+<info>He pulls his trousers up around his chest and starts acting 
+frail and decreped.</info>
 
-<character>CUBERT</character>
-(sarcastic) My God, the illusion is 
+<speak who="CUBERT">
+<info>(sarcastic)</info> My God, the illusion is 
 so perfect I almost forgot I was looking 
-at an idiot!
+at an idiot!</speak>
 
-<character>LEELA</character>
-Now they may ask for a <character>DNA</character> sample.
+<speak who="LEELA">
+Now they may ask for a <character>DNA</character> sample.</speak>
 
-[Fry pulls his trousers higher.]
+<info>Fry pulls his trousers higher.</info>
 
-<character>FRY</character>
-I'd like to see them find it!
+<speak who="FRY">
+I'd like to see them find it!</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 This is impossible, we don't even hae 
-a sample of the Professor's <character>DNA</character>.
+a sample of the Professor's <character>DNA</character>.</speak>
 
-<character>BENDER</character>
-I think I know where to get some.
+<speak who="BENDER">
+I think I know where to get some.</speak>
 
-[He pulls out a big syringe and points it at Cubert.]
+<info>He pulls out a big syringe and points it at Cubert.</info>
 
-[Cubert's screams echo around the Near-Death Star.]
+<info>Cubert's screams echo around the Near-Death Star.</info>
 
-[Outside Near-Death Star Guest Drop Off. Bender, Fry and Leela 
+<info>Outside Near-Death Star Guest Drop Off. Bender, Fry and Leela 
 walk towards the opening door and past a sign reading "After 
 11pm Use Slot." Fry is wearing a lab coat, thick glasses and 
-is bending over. The is a big hump in his back.]
+is bending over. The is a big hump in his back.</info>
 
-[Cut to: Near-Death Star Drop Off. The trio walk in through the 
-door. Cubert starts talking from under the lab coat.]
+<info>Cut to: Near-Death Star Drop Off. The trio walk in through the 
+door. Cubert starts talking from under the lab coat.</info>
 
-<character>CUBERT</character>
-Why do I have to be the hump?
+<speak who="CUBERT">
+Why do I have to be the hump?</speak>
 
-<character>FRY</character>
-'Cause you're too ugly to be a wart.
+<speak who="FRY">
+'Cause you're too ugly to be a wart.</speak>
 
-[He laughs, followed by Bender and Leela. They carry on walking 
+<info>He laughs, followed by Bender and Leela. They carry on walking 
 across a large bridge towards the centre of the dome. They hear 
 whirring noises and look over the side. Machines scoop up old 
 people, strip them, bath them, dress them in night gowns and 
 finally place them in rocking chairs. The chairs move along a 
 conveyor belt towards a large tube in the middle of the dome. 
-There are conveyor belts going deep into the dome.]
+There are conveyor belts going deep into the dome.</info>
 
-<character>LEELA</character>
-Your medicare dollars at work.
+<speak who="LEELA">
+Your medicare dollars at work.</speak>
 
-[They reach some barrierbots and guardbots. A barrierbot lowers 
-a barrier in front of them.]
+<info>They reach some barrierbots and guardbots. A barrierbot lowers 
+a barrier in front of them.</info>
 
-<character>BARRIERBOT #1</character>
-Halt! Identify this guest.
+<speak who="BARRIERBOT #1">
+Halt! Identify this guest.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Uh, this is Professor Hubert Farnsworth. 
-He escaped.
+He escaped.</speak>
 
-<character>BARRIERBOT #1</character>
-Escaped? No one escapes.
+<speak who="BARRIERBOT #1">
+Escaped? No one escapes.</speak>
 
-<character>BARRIERBOT #2</character>
-This guest does not look 160.
+<speak who="BARRIERBOT #2">
+This guest does not look 160.</speak>
 
-<character>FRY</character>
-What? I'm old. Listen. (old man voice) 
-Hey you kids, get off the lawn!
+<speak who="FRY">
+What? I'm old. Listen. <info>(old man voice)</info> 
+Hey you kids, get off the lawn!</speak>
 
-<character>BARRIERBOT #1</character>
+<speak who="BARRIERBOT #1">
 Hmm, it is true that old people are 
 often concerned that there are children 
-on their lawns.
+on their lawns.</speak>
 
-<character>BARRIERBOT #2</character>
+<speak who="BARRIERBOT #2">
 There's no denying that. But we'll still 
 need to verify his identidity with a 
-<character>DNA</character> sample.
+<character>DNA</character> sample.</speak>
 
-[Bender holds up a jar labelled "Tissue Sample." The jar is filled 
-with Cubert's blood.]
+<info>Bender holds up a jar labelled "Tissue Sample." The jar is filled 
+with Cubert's blood.</info>
 
-<character>BENDER</character>
-Got a hot steaming batch right here!
+<speak who="BENDER">
+Got a hot steaming batch right here!</speak>
 
-[He puts it near Barrierbot #2.]
+<info>He puts it near Barrierbot #2.</info>
 
-<character>BARRIERBOT #2</character>
-We only need one cell!
+<speak who="BARRIERBOT #2">
+We only need one cell!</speak>
 
-<character>BENDER</character>
-Eh, keep the change buddy.
+<speak who="BENDER">
+Eh, keep the change buddy.</speak>
 
-<character>CUBERT</character>
-Stupid robot.
+<speak who="CUBERT">
+Stupid robot.</speak>
 
-[A guardbot turns around with its gun.]
+<info>A guardbot turns around with its gun.</info>
 
-<character>BARRIERBOT #1</character>
-Did you hump just say something?
+<speak who="BARRIERBOT #1">
+Did you hump just say something?</speak>
 
-<character>FRY</character>
-Uh....I-I've got talking hump syndrome.
+<speak who="FRY">
+Uh....I-I've got talking hump syndrome.</speak>
 
-<character>BARRIERBOT #1</character>
-Ah, <character>THS</character>.
+<speak who="BARRIERBOT #1">
+Ah, <character>THS</character>.</speak>
 
-[Bender drops some of Cubert's blood into a machine and it dings 
-and displays "Hubert J. Farnsworth."]
+<info>Bender drops some of Cubert's blood into a machine and it dings 
+and displays "Hubert J. Farnsworth."</info>
 
-<character>BARRIERBOT #2</character>
+<speak who="BARRIERBOT #2">
 Identity confirmed. Return this shambling 
-shuffleboarder to his room.
+shuffleboarder to his room.</speak>
 
-[Barrierbot #1 raises his barrier.]
+<info>Barrierbot #1 raises his barrier.</info>
 
-<character>BARRIERBOT #1</character>
-7152 Maple Drive.
+<speak who="BARRIERBOT #1">
+7152 Maple Drive.</speak>
 
-<character>LEELA</character>
-Sounds nice.
+<speak who="LEELA">
+Sounds nice.</speak>
 
-<character>BARRIERBOT #1</character>
-Prepare to be surprised.
+<speak who="BARRIERBOT #1">
+Prepare to be surprised.</speak>
 
-[Near-Death Star: Maple Drive. Maple Drive is filled with tens 
+<info>Near-Death Star: Maple Drive. Maple Drive is filled with tens 
 of thousands of immense grave-like structures, each containing 
 thousands of small drawers, exactly like the rest of the Near-Death 
 Star. Fry takes his glasses off and he Bender and Leela look 
-around in awe.]
+around in awe.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 So this is where they stick old people. 
-It's horrific.
+It's horrific.</speak>
 
-<character>LEELA</character>
-At least it keeps them from driving.
+<speak who="LEELA">
+At least it keeps them from driving.</speak>
 
-[Time Lapse. They climb into a hover vehicle and Leela flies 
+<info>Time Lapse. They climb into a hover vehicle and Leela flies 
 it up the side of a gravestone. She reverses it past drawer number 
 7150, Ava Porter b.2790 d.Soon; past number 7151, Eloise Porter 
 b.2856 d.Soon and finally stops it next to drawer number 7152, 
 Hubert J. Farnsworth b.2841 d.Soon. She puts her hands on the 
-handle and turns to the others.]
+handle and turns to the others.</info>
 
-<character>LEELA</character>
-Brace yourself for the worst.
+<speak who="LEELA">
+Brace yourself for the worst.</speak>
 
-[She pulls the drawer out. Farnsworth is lying in it with at 
-least 24 tubes connected to him in various places. They all scream.]
+<info>She pulls the drawer out. Farnsworth is lying in it with at 
+least 24 tubes connected to him in various places. They all scream.</info>
 
-<character>BENDER</character>
-And yet he looks so natural.
+<speak who="BENDER">
+And yet he looks so natural.</speak>
 
-<character>CUBERT</character>
-What's happening?
+<speak who="CUBERT">
+What's happening?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 He's hooked up to a life-support system. 
 We have to disconnect him very very 
-carefully, or the shock could kill him.
+carefully, or the shock could kill him.</speak>
 
-[A guardbot appears behind them in a flying machine.]
+<info>A guardbot appears behind them in a flying machine.</info>
 
-<character>GUARDBOT #1</character>
-Freeze!  Seize them!
+<speak who="GUARDBOT #1">
+Freeze!  Seize them!</speak>
 
-<character>GUARDBOT #2</character>
-Seize them!
+<speak who="GUARDBOT #2">
+Seize them!</speak>
 
-<character>GUARDBOT #3</character>
-Seize them!
+<speak who="GUARDBOT #3">
+Seize them!</speak>
 
-<character>GUARDBOT #4</character>
-Seize them!
+<speak who="GUARDBOT #4">
+Seize them!</speak>
 
-<character>GUARDBOT #1</character>
-Get them - I mean seize them!
+<speak who="GUARDBOT #1">
+Get them - I mean seize them!</speak>
 
-[They round another corner and a guardbot hits a gravestone.]
+<info>They round another corner and a guardbot hits a gravestone.</info>
 
-<character>GUARDBOT #2</character>
-Aww I'm so bad at this!
+<speak who="GUARDBOT #2">
+Aww I'm so bad at this!</speak>
 
-[His hover-ship explodes. Leela looks behind at the other guardbots 
+<info>His hover-ship explodes. Leela looks behind at the other guardbots 
 and steers the ship past some huge machines loading old people 
 into their final resting places. She ducks and dives over and 
-under them and another guardbot meets his doom.]
+under them and another guardbot meets his doom.</info>
 
-<character>GUARDBOT #3</character>
-Uh-oh!
+<speak who="GUARDBOT #3">
+Uh-oh!</speak>
 
-[His ship hits a machine and explodes. Leela turns the ship upwards.]
+<info>His ship hits a machine and explodes. Leela turns the ship upwards.</info>
 
-[Cut to: Near-Death Star Guest Drop Off. She smashes the ship 
+<info>Cut to: Near-Death Star Guest Drop Off. She smashes the ship 
 through barrierbot #1 and he screams and feebly lifts what remains 
 of it up and down. Leela, Bender, Fry and hump's hover-ship speeds 
-towards the door. It starts to close.]
+towards the door. It starts to close.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We're probably going to make it, but 
-we might not.
+we might not.</speak>
 
-[Cubert looks out the top of the lab coat.]
+<info>Cubert looks out the top of the lab coat.</info>
 
-<character>CUBERT</character>
-It's impossible, we'll never fit.
+<speak who="CUBERT">
+It's impossible, we'll never fit.</speak>
 
-<character>FRY</character>
-Will too.
+<speak who="FRY">
+Will too.</speak>
 
-[He and Bender duck and Cubert smashes his head on the closing 
-door, screams and flies back.]
+<info>He and Bender duck and Cubert smashes his head on the closing 
+door, screams and flies back.</info>
 
-[Cut to: Outside Near-Death Star Guest Drop Off. Cubert is lying 
-on the Professor, dazed.]
+<info>Cut to: Outside Near-Death Star Guest Drop Off. Cubert is lying 
+on the Professor, dazed.</info>
 
-<character>CUBERT</character>
-Told you.
+<speak who="CUBERT">
+Told you.</speak>
 
-[He blacks out. The hover-ship flies towards the landing pad.]
+<info>He blacks out. The hover-ship flies towards the landing pad.</info>
 
-[Ship's Cockpit. Leela runs into the cockpit followed by Bender 
+<info>Ship's Cockpit. Leela runs into the cockpit followed by Bender 
 carying Farnsworth, followed by Fry dragging Cubert. He drops 
-Cubert and his heads hits the floor with a thunk.]
+Cubert and his heads hits the floor with a thunk.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Come on Leela, step your big boot down 
-on the gas pedal.
+on the gas pedal.</speak>
 
-[And she does.]
+<info>And she does.</info>
 
-[Cut to: Near-Death Star Landing Pad. The ship takes off and 
+<info>Cut to: Near-Death Star Landing Pad. The ship takes off and 
 the landing gear goes up. The guest drop off door opens and three 
 guardbots fly out. Guardbot #1 opens fire on the ship and two 
 laser pulses hit the ship's engine, causing it to shut down. 
 The ship falls onto the landing pad and the guardbots start buzzing 
-around it.]
+around it.</info>
 
-[Cut to: Ship's Cockpit. An alarm beeps and a red light flashes.]
+<info>Cut to: Ship's Cockpit. An alarm beeps and a red light flashes.</info>
 
-<character>LEELA</character>
-They've blown out one of our engines!
+<speak who="LEELA">
+They've blown out one of our engines!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Fix it fix it fix it fix it fix it fix 
-it! Fix it fix it fix it!
+it! Fix it fix it fix it!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Only the Professor knows how to fix 
-it. We have to wake him up.
+it. We have to wake him up.</speak>
 
-[She grabs Farnsworth's night shirt and shakes him around. Fry 
+<info>She grabs Farnsworth's night shirt and shakes him around. Fry 
 blasts him with an airhorn and Bender empties a chest cabinet-ful 
-of water over him.]
+of water over him.</info>
 
-<character>FRY</character>
-Try shocking him.
+<speak who="FRY">
+Try shocking him.</speak>
 
-<character>BENDER</character>
-(shouting) Your social security cheque 
+<speak who="BENDER">
+<info>(shouting)</info> Your social security cheque 
 is late! Stuff costs more than it used 
-to. Young people use curse words!
+to. Young people use curse words!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Damnit, we'll have to fix the engine 
-ourself.
+ourself.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We can't you bastard, no one knows how 
-it works. It's impossible.
+it works. It's impossible.</speak>
 
-[Cubert comes around and puts his hand in the air.]
+<info>Cubert comes around and puts his hand in the air.</info>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 Nothing is impossible. I understand 
 how the engines work now. It came to 
 me in a dream.  The engines don't move 
 the ship at all. The ship stays where 
 it is and the engines move the universe 
-around it.
+around it.</speak>
 
-<character>BENDER</character>
-That's a complete load.
+<speak who="BENDER">
+That's a complete load.</speak>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 Nothing's a complete load. Not if you 
 can imagine it. That's what being a 
-scientist is all about. Right Professor?
+scientist is all about. Right Professor?</speak>
 
-<character>FARNSWORTH</character>
-Eh...whuh...
+<speak who="FARNSWORTH">
+Eh...whuh...</speak>
 
-[Cubert closes the access panel.]
+<info>Cubert closes the access panel.</info>
 
-<character>CUBERT</character>
-Let's ride!
+<speak who="CUBERT">
+Let's ride!</speak>
 
-[Cut to: Near-Death Star Landing Pad. The ship's engines power 
+<info>Cut to: Near-Death Star Landing Pad. The ship's engines power 
 up and they begin to move the universe in a flow-mo sequence 
 lifted from The Matrix. The ship flies away, it's exhaust blasting 
 the guardbots away. Near-Death Star defenses fire on the ship 
-and repeatedly miss as it makes its getaway.]
+and repeatedly miss as it makes its getaway.</info>
 
-[Planet Express: Meeting Room. Cubert and Farnsworth walk in 
-from the lounge.]
+<info>Planet Express: Meeting Room. Cubert and Farnsworth walk in 
+from the lounge.</info>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 Good news everyone, he's made a complete 
-recovery.
+recovery.</speak>
 
-<character>AMY</character>
-Yeah!
+<speak who="AMY">
+Yeah!</speak>
 
-<character>HERMES</character>
-Wow!
+<speak who="HERMES">
+Wow!</speak>
 
-<character>LEELA</character>
-All right!
+<speak who="LEELA">
+All right!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I'm as spry as a 140 year old.  See? 
-I only broke one ankle.
+I only broke one ankle.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 So what were they doing to you in that 
-awful drawer?
+awful drawer?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh, they had me hooked up to a bizarre 
 virtual world that seemed absolutely 
-real.
+real.</speak>
 
-<character>AMY</character>
-What was it like?
+<speak who="AMY">
+What was it like?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 It was as though I was living in a facility 
 in Florida with hundreds of other old 
 people. All day long we'd play bingo, 
 eat oatmeal and wait for our children 
-to call.
+to call.</speak>
 
-[Everyone gasps in horror.]
+<info>Everyone gasps in horror.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's a hundred times more horrible than 
-anything I could imagine.
+anything I could imagine.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh my yes. Thank you all for saving 
 me. Especially you my little clone. 
 No matter what you decide to do with 
-your life, I'm still proud of you.
+your life, I'm still proud of you.</speak>
 
-[Cubert hugs Farnsworth.]
+<info>Cubert hugs Farnsworth.</info>
 
-<character>CUBERT</character>
+<speak who="CUBERT">
 I've already decided. Dad, when I grow 
-up I wanna be just like you.
+up I wanna be just like you.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Don't worry son. You will. Incidentally, 
 you might want to read up on a condition 
-known as "wandering bladder."
+known as "wandering bladder."</speak>
 
-<character>CUBERT</character>
-Why?
+<speak who="CUBERT">
+Why?</speak>
 
-<character>FARNSWORTH</character>
-No reason. No reason at all.
+<speak who="FARNSWORTH">
+No reason. No reason at all.</speak>
 
-<character>THE END</character>
+<info>THE END</info>
 </xml>

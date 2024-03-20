@@ -1,1152 +1,1152 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 410
 
-<title>A <character>LEELA OF HER OWN</character></title>
+<title>A LEELA OF HER OWN</title>
 
 <author>Patric M. Verrone</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Scratch Here To Reveal Prize.]
+<info>Opening Credits. Caption: Scratch Here To Reveal Prize.</info>
 
-[Planet Express: Lounge. Fry looks out of the window through 
+<info>Planet Express: Lounge. Fry looks out of the window through 
 a pair of binoculars. Leela, Bender and Farnsworth sit at the 
-table.]
+table.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh put down the binoculars Fry. The 
 wall of that strip club isn't going 
-to collapse twice in one day.
+to collapse twice in one day.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I know, and I've grown to accept that. 
 Now I'm more interested in that new 
 pizza parlour across the street. Kinda 
 makes me pine for my days as a pizza 
 delivery boy. "Here's you pizza," I'd 
 say. "I didn't order any," they'd say. 
-And then I'd be off to my next adventure.
+And then I'd be off to my next adventure.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That story stunk. Hand me the binoculars. 
-I think the owner is from Cygnus 5.
+I think the owner is from Cygnus 5.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Cygnoids? On our block? Flying foo! 
 They should go back where they came 
-from.
+from.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Professor please. Society's never gonna 
 make any progress until we all learn 
 to pretend to like each other. Now lets 
 go over there and make these hideous 
-strangers feel welcome.
+strangers feel welcome.</speak>
 
-<character>FARNSWORTH</character>
-No.
+<speak who="FARNSWORTH">
+No.</speak>
 
-[Family Bros. Pizza. The owners are a man and woman. They looks 
+<info>Family Bros. Pizza. The owners are a man and woman. They looks 
 like giant fat insects with little antennae and thoraxes, but 
 they have the same limbs as humans; two arms, two legs, four 
 fingers on each hand. They are dress in the same way as some 
 Italian immigrants and have vaguely Italian accents. They stand 
-in the middle of their restaurant awaiting customers.]
+in the middle of their restaurant awaiting customers.</info>
 
-<character>CYGNOID WOMAN</character>
+<speak who="CYGNOID WOMAN">
 You sure about these chairs? Guidebook 
-says human legs bend down at knee.
+says human legs bend down at knee.</speak>
 
-[The points at the chairs which have an extra part on the seat 
-that bends up.]
+<info>The points at the chairs which have an extra part on the seat 
+that bends up.</info>
 
-<character>CYGNOID MAN</character>
+<speak who="CYGNOID MAN">
 It's OK Mama, anyone complains, I bend 
 legs up for free.  Ooo customers!  Welcome 
 to Earth pizza store. Here, sit, I bend 
-knees for you.
+knees for you.</speak>
 
-[Bender sits down and the Cygnoid bends his legs up.]
+<info>Bender sits down and the Cygnoid bends his legs up.</info>
 
-<character>BENDER</character>
-Ooo that's a-comfy!
+<speak who="BENDER">
+Ooo that's a-comfy!</speak>
 
-[Fry and Leela sit down themselves.]
+<info>Fry and Leela sit down themselves.</info>
 
-<character>CYGNOID MAN</character>
+<speak who="CYGNOID MAN">
 OK, now, what kind of pizza goes in 
 you?  Silt? Asbestos? We got guano - 
-very fresh!
+very fresh!</speak>
 
-<character>FRY</character>
-Uh, hmm, do you have any food?
+<speak who="FRY">
+Uh, hmm, do you have any food?</speak>
 
-<character>CYGNOID MAN</character>
+<speak who="CYGNOID MAN">
 Here, try a deep dish pizza.  Contains 
-four kind of things.
+four kind of things.</speak>
 
-[The Cygnoid woman cuts the "pizza" and some blue ooze oozes 
-out. Fry and Leela reluctantly taste it and spit it out.]
+<info>The Cygnoid woman cuts the "pizza" and some blue ooze oozes 
+out. Fry and Leela reluctantly taste it and spit it out.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I don't mean to offend but this tastes 
-like vomit.
+like vomit.</speak>
 
-<character>CYGNOID WOMAN</character>
-(happy) Thank you.
+<speak who="CYGNOID WOMAN">
+<info>(happy)</info> Thank you.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No, actually I did mean to offend a 
-little. This is awful.
+little. This is awful.</speak>
 
-[The Cygnoids shout at each other in Cygnoid and then burst into 
-tears.]
+<info>The Cygnoids shout at each other in Cygnoid and then burst into 
+tears.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey hey, what's wrong? Was it something 
-Leela said?
+Leela said?</speak>
 
-<character>CYGNOID WOMAN</character>
-(crying) We come to Earth to start new 
+<speak who="CYGNOID WOMAN">
+<info>(crying)</info> We come to Earth to start new 
 life. Raise fat spoiled Earth kids, 
 hang many underwear from Earth clothesline, 
-live Earthican dream.
+live Earthican dream.</speak>
 
-[They cry more.]
+<info>They cry more.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Aww, don't cry foreign people. I used 
 to work in a pizzeria and as soon as 
 I stop hallucinating and blasting puke, 
 I'm gonna teach you to sell pizza - 
-Earth style!
+Earth style!</speak>
 
-<character>CYGNOID WOMAN</character>
-Oh thank you magic biped!
+<speak who="CYGNOID WOMAN">
+Oh thank you magic biped!</speak>
 
-[She kisses his feet.]
+<info>She kisses his feet.</info>
 
-<character>CYGNOID MAN</character>
+<speak who="CYGNOID MAN">
 You save us sir, if we cannot make Earth 
 pizza our dream will die. Just like 
-rats we crushed to make the wine.
+rats we crushed to make the wine.</speak>
 
-[Fry spits out the wine all over Bender's face and Bender spits 
-it back.]
+<info>Fry spits out the wine all over Bender's face and Bender spits 
+it back.</info>
 
-[Time Lapse. Fry teaches the Cygnoids all about pizzeria's.]
+<info>Time Lapse. Fry teaches the Cygnoids all about pizzeria's.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 For starters, only use quality ingredients. 
 Case in point: No more live bees.  Oregano 
 works equally well. And when you put 
 pizzas in the oven, don't get in with 
-them.
+them.</speak>
 
-[He opens the oven door and a Cygnoid inside immediately closes 
-it.]
+<info>He opens the oven door and a Cygnoid inside immediately closes 
+it.</info>
 
-<character>CYGNOID #2</character>
-Hey, ocupado!
+<speak who="CYGNOID #2">
+Hey, ocupado!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Most important of all is the big screen 
 <character>TV</character>. Human families need a TV when they're 
 eating so they don't have to talk to 
 each other.  Ah, the Earthican pasttime, 
-blernsball!
+blernsball!</speak>
 
-[The pitcher pitches the ball and Bob Uecker commentates.]
+<info>The pitcher pitches the ball and Bob Uecker commentates.</info>
 
-<character>UECKER </character>[ON TV]
+<speak who="UECKER"><info>ON TV</info>
 Mulligan drives the ball, it's going, 
 going and caught by the shortstop. Man 
 I haven't seen play this bad since the 
 days of Bob Uecker! This is Bob Uecker 
-saying thanks for watching!
+saying thanks for watching!</speak>
 
-[The Cygnoids watch in puzzlement.]
+<info>The Cygnoids watch in puzzlement.</info>
 
-<character>CYGNOID MAN</character>
+<speak who="CYGNOID MAN">
 Mets? Shortstop? Pinching the hitter? 
-I don't understand this blernsball.
+I don't understand this blernsball.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Well if you're going to be Earthicans 
 we'll have to teach you. How about your 
 pizzeria plays a game against Planet 
-Express? Oh but you'll need nine players.
+Express? Oh but you'll need nine players.</speak>
 
-<character>CYGNOID WOMAN</character>
-No problem!
+<speak who="CYGNOID WOMAN">
+No problem!</speak>
 
-[She shouts in Cygnoid and seven Cygnoids climb out of the oven.]
+<info>She shouts in Cygnoid and seven Cygnoids climb out of the oven.</info>
 
-<character>CYGNOID #2</character>
-Play the ball!
+<speak who="CYGNOID #2">
+Play the ball!</speak>
 
-[Central Park. People dine at the Cavern On The Green caf� and 
+<info>Central Park. People dine at the Cavern On The Green caf� and 
 a dog catches what it thinks is a frisbee. The frisbee opens 
 and some little aliens shout at the dog. On the blernsball pitch 
 the teams get ready for their game. Farnsworth doesn't play and 
-shouts from the stand.]
+shouts from the stand.</info>
 
-<character>FARNSWORTH</character>
-(shouting) Go team! Beat those no good 
+<speak who="FARNSWORTH">
+<info>(shouting)</info> Go team! Beat those no good 
 Cygnoids! Show them they stink at a 
-game they've never played before!
+game they've never played before!</speak>
 
-[Leela is the pitcher and the Cygnoid man goes up to bat.]
+<info>Leela is the pitcher and the Cygnoid man goes up to bat.</info>
 
-<character>CYGNOID MAN</character>
+<speak who="CYGNOID MAN">
 Ah, this is why I love Earth! Beautiful 
 star brightened day, friendly blernsball 
 game with chum pals! So pleasant for 
-everybody.
+everybody.</speak>
 
-[Leela throws the ball and it hits him on the head and knocks 
-him over.]
+<info>Leela throws the ball and it hits him on the head and knocks 
+him over.</info>
 
-<character>SCRUFFY</character>
-Hit by a pitch, take your base.
+<speak who="SCRUFFY">
+Hit by a pitch, take your base.</speak>
 
-[Leela gasps.]
+<info>Leela gasps.</info>
 
-<character>LEELA</character>
-(shouting) Sorry about that, I guess 
-I needed a few more warm-up pitches.
+<speak who="LEELA">
+<info>(shouting)</info> Sorry about that, I guess 
+I needed a few more warm-up pitches.</speak>
 
-[Another Cygnoid steps up.]
+<info>Another Cygnoid steps up.</info>
 
-<character>BENDER</character>
-No batter! No batter!  No batter anymore.
+<speak who="BENDER">
+No batter! No batter!  No batter anymore.</speak>
 
-<character>SCRUFFY</character>
-Take your base.
+<speak who="SCRUFFY">
+Take your base.</speak>
 
-<character>LEELA</character>
-(shouting) I didn't mean to hit you, 
-I have some trouble with depth perception.
+<speak who="LEELA">
+<info>(shouting)</info> I didn't mean to hit you, 
+I have some trouble with depth perception.</speak>
 
-<character>CYGNOID #2</character>
-Yeah, me too now.
+<speak who="CYGNOID #2">
+Yeah, me too now.</speak>
 
-[A third Cygnoid goes to bat.]
+<info>A third Cygnoid goes to bat.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey batter batter batter! Hey batter 
-batter batter! Hey batter batter!  Duck!
+batter batter! Hey batter batter!  Duck!</speak>
 
-<character>SCRUFFY</character>
-Take your base.
+<speak who="SCRUFFY">
+Take your base.</speak>
 
-[A crowd of people gathers around and starts watching the game. 
-Another Cygnoid goes to bat.]
+<info>A crowd of people gathers around and starts watching the game. 
+Another Cygnoid goes to bat.</info>
 
-<character>CYGNOID #3</character>
+<speak who="CYGNOID #3">
 Please lady, I want to live. Can I use 
-bat to protect head?
+bat to protect head?</speak>
 
-[Leela's ball hits him.]
+<info>Leela's ball hits him.</info>
 
-<character>BENDER</character>
-Apparently not.
+<speak who="BENDER">
+Apparently not.</speak>
 
-[The crowd applauds.]
+<info>The crowd applauds.</info>
 
-<character>MAN</character>
-Check out the one eyed bean machine!
+<speak who="MAN">
+Check out the one eyed bean machine!</speak>
 
-<character>CYGNOID MAN</character>
-Hooray! I make a score point!
+<speak who="CYGNOID MAN">
+Hooray! I make a score point!</speak>
 
-[The Planet Express team gathers around Leela.]
+<info>The Planet Express team gathers around Leela.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela, you beaned a run-in. You'd better 
-let me pitch.
+let me pitch.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 But I've got a no-hitter going.  You're 
-right. Here.
+right. Here.</speak>
 
-[She throws the ball at his face. The crowd cheers.]
+<info>She throws the ball at his face. The crowd cheers.</info>
 
-<character>RANDY</character>
-Don't take her out, she's a firecracker!
+<speak who="RANDY">
+Don't take her out, she's a firecracker!</speak>
 
-[Leela walks into the Commissioner of the <character>URFL</character>.]
+<info>Leela walks into the Commissioner of the URFL.</info>
 
-<character>COMMISSIONER</character>
-Excuse me, I'd like to talk to you.
+<speak who="COMMISSIONER">
+Excuse me, I'd like to talk to you.</speak>
 
-<character>LEELA</character>
-Am I under arrest?
+<speak who="LEELA">
+Am I under arrest?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Wait I know you. You're the sleabag 
 who owns the Ultimate Robot Fighting 
-League.
+League.</speak>
 
-<character>COMMISSIONER</character>
+<speak who="COMMISSIONER">
 Not anymore. Now I'm the sleazebag who 
-owns the New New York Mets.
+owns the New New York Mets.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 The Mets? Those bums are worse than 
-me.
+me.</speak>
 
-<character>COMMISSIONER</character>
+<speak who="COMMISSIONER">
 Close to it. But they don't draw a crowd 
 like you. Which is why I wanna sign 
-you to the team.
+you to the team.</speak>
 
-[Leela gasps.]
+<info>Leela gasps.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You mean I'd be the first woman ever 
-to play major league blernsball?
+to play major league blernsball?</speak>
 
-<character>COMMISSIONER</character>
+<speak who="COMMISSIONER">
 Well yeah but basically you'd just be 
 a publicity stunt. I figured a one-eyed 
 lady skull buster might bring out the 
-freakshow crowd.
+freakshow crowd.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wow, the first woman ever to play major 
-league blernsball.
+league blernsball.</speak>
 
-<character>COMMISSIONER</character>
-Again yeah, but basically you'd -
+<speak who="COMMISSIONER">
+Again yeah, but basically you'd -</speak>
 
-[Leela jumps into the air.]
+<info>Leela jumps into the air.</info>
 
-<character>LEELA</character>
-Yippee!
+<speak who="LEELA">
+Yippee!</speak>
 
-[Planet Express: Lounge. Leela is kitted out in her Mets uniform 
+<info>Planet Express: Lounge. Leela is kitted out in her Mets uniform 
 that looks like the one from the 1980's and 7/8 is printed on 
-the back. She turns around to the rest of the crew.]
+the back. She turns around to the rest of the crew.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Ta-da! The first woman ever to play 
-major league blernsball. How do I look?
+major league blernsball. How do I look?</speak>
 
-<character>HERMES</character>
-Like a sexy Yogi Berra!
+<speak who="HERMES">
+Like a sexy Yogi Berra!</speak>
 
-<character>FARNSWORTH</character>
-Why is your number seven-eight's?
+<speak who="FARNSWORTH">
+Why is your number seven-eight's?</speak>
 
-<character>LEELA</character>
-All the whole numbers have been retired.
+<speak who="LEELA">
+All the whole numbers have been retired.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Wow, I must say I'm impressed. You look 
 just like a ball player. Can I pat you 
-on the butt?
+on the butt?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry I'm a professional athlete! So go 
-ahead.
+ahead.</speak>
 
-[Fry stops halfway.]
+<info>Fry stops halfway.</info>
 
-<character>FRY</character>
-Ohh, now I'm too nervous.
+<speak who="FRY">
+Ohh, now I'm too nervous.</speak>
 
-[Shea Stadium. The Mets play the Swedish Meatballs. The Mets 
-are at 0 while the Swedish Meatballs are ahead at 15.]
+<info>Shea Stadium. The Mets play the Swedish Meatballs. The Mets 
+are at 0 while the Swedish Meatballs are ahead at 15.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
-<character>UECKER</character>
+<speak who="UECKER">
 Well folks it's only the fifth inning 
 but the Swedes have already turned this 
 one into a laffer. And that's with two 
 F's. The crowd is pouring out of the 
-stadium LA style.
+stadium LA style.</speak>
 
-[Cut to: Bleachers. The Mets fans start to leave.]
+<info>Cut to: Bleachers. The Mets fans start to leave.</info>
 
-[Cut to: Mets' Bench. Leela sits on the bench watching the game 
-with the manager. Enter the Commissioner.]
+<info>Cut to: Mets' Bench. Leela sits on the bench watching the game 
+with the manager. Enter the Commissioner.</info>
 
-<character>COMMISSIONER</character>
+<speak who="COMMISSIONER">
 Skipper, we're losing the crowd. Put 
-it our new novelty act - Leela.
+it our new novelty act - Leela.</speak>
 
-[Leela gasps. The skipper kicks the ground.]
+<info>Leela gasps. The skipper kicks the ground.</info>
 
-<character>SKIPPER</character>
+<speak who="SKIPPER">
 Darn it! I already put in the circus 
-clown.
+clown.</speak>
 
-[Behind them the clown cartwheels across the pitch and honks 
-a horn.]
+<info>Behind them the clown cartwheels across the pitch and honks 
+a horn.</info>
 
-<character>COMMISSIONER</character>
+<speak who="COMMISSIONER">
 Yeah but he bunted. Clowns are only 
-funny when they swing away.
+funny when they swing away.</speak>
 
-[Cut to: Pitch.]
+<info>Cut to: Pitch.</info>
 
-[Leela walks out onto the pitch.]
+<info>Leela walks out onto the pitch.</info>
 
-[Cut to: Bleachers. The leaving crowd doesn't react.]
+<info>Cut to: Bleachers. The leaving crowd doesn't react.</info>
 
-[The crowd turns around in curiosity. A woman cheers Leela.]
+<info>The crowd turns around in curiosity. A woman cheers Leela.</info>
 
-<character>WOMAN</character>
-Woo! Come on! Throw like a girl!
+<speak who="WOMAN">
+Woo! Come on! Throw like a girl!</speak>
 
-[The Planet Express crew cheer.]
+<info>The Planet Express crew cheer.</info>
 
-<character>FRY</character>
-(shouting) Go Leela!
+<speak who="FRY">
+<info>(shouting)</info> Go Leela!</speak>
 
-<character>BENDER</character>
-(shouting) Come on girl!
+<speak who="BENDER">
+<info>(shouting)</info> Come on girl!</speak>
 
-<character>AMY</character>
-(shouting) Too much eyeliner!
+<speak who="AMY">
+<info>(shouting)</info> Too much eyeliner!</speak>
 
-[Cut to: Pitch. Leela stands ready to throw the ball and a batter 
-takes his position.]
+<info>Cut to: Pitch. Leela stands ready to throw the ball and a batter 
+takes his position.</info>
 
-<character>UECKER</character>
-(voice-over) This is history in the 
+<speak who="UECKER">
+<info>(voice-over)</info> This is history in the 
 making folks. Bjornson steps up to the 
-plate and Leela delivers.
+plate and Leela delivers.</speak>
 
-[Leela throws the ball and hits Bjornson in the face, knocking 
-him over.]
+<info>Leela throws the ball and hits Bjornson in the face, knocking 
+him over.</info>
 
-[Cut to: Bleachers. The crowd gasps.]
+<info>Cut to: Bleachers. The crowd gasps.</info>
 
-<character>BENDER</character>
-Bullseye!
+<speak who="BENDER">
+Bullseye!</speak>
 
-[Cut to: Pitch. Bjornson gets up and staggers away.]
+<info>Cut to: Pitch. Bjornson gets up and staggers away.</info>
 
-<character>UECKER</character>
-(voice-over) Ooo! An inauspicious start 
+<speak who="UECKER">
+<info>(voice-over)</info> Ooo! An inauspicious start 
 for the career of the first woman blernsballer. 
 An inauspicious continuation for the 
-career of the first woman blernsballer.
+career of the first woman blernsballer.</speak>
 
-[Leela kicks the ground in frustration. The crowd chuckles. A 
+<info>Leela kicks the ground in frustration. The crowd chuckles. A 
 man dusts the batter off and the batter hands him some cash and 
-leaves. Another batter steps up.]
+leaves. Another batter steps up.</info>
 
-[Cut to: Bleachers.]
+<info>Cut to: Bleachers.</info>
 
-<character>CROWD</character>
-(chanting) Bean! Bean! Bean! Bean! Bean! 
-Bean! Bean! Bean...
+<speak who="CROWD">
+<info>(chanting)</info> Bean! Bean! Bean! Bean! Bean! 
+Bean! Bean! Bean...</speak>
 
-[Cut to: Pitch. Leela throws again, the ball curls around the 
+<info>Cut to: Pitch. Leela throws again, the ball curls around the 
 back of the player and knocks him out from behind. The crowd 
-cheers.]
+cheers.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
-<character>UECKER</character>
+<speak who="UECKER">
 Ouch! It's a three bean-ball salad. 
 The Mets fans love it though and who 
 can blame them? They haven't had much 
-to cheer about this year -
+to cheer about this year -</speak>
 
-[The ball flies up to the box and smashes Uecker's jar. The crowd 
-cheers.]
+<info>The ball flies up to the box and smashes Uecker's jar. The crowd 
+cheers.</info>
 
-[<character>NNY</character> Mets Locker Room. The male players wander around with black 
+<info>NNY Mets Locker Room. The male players wander around with black 
 bars over their unmentionables. Leela sits sadly on a bench but 
-the Commissioner doesn't seem to notice.]
+the Commissioner doesn't seem to notice.</info>
 
-<character>COMMISSIONER</character>
+<speak who="COMMISSIONER">
 Kid that was great! You got us more 
 publicity than a cowboy in a shark tank. 
-Poor Tex, he was quite a shark.
+Poor Tex, he was quite a shark.</speak>
 
-[Enter Bender dressed in a grooby suit, shades and a headset 
+<info>Enter Bender dressed in a grooby suit, shades and a headset 
 phone. The trips ocver the wire from the black bar generator 
 and pulls the plug from the socket. The black bars around the 
-players go down and they cover themselves.]
+players go down and they cover themselves.</info>
 
-<character>MAN #1</character>
-Hey!
+<speak who="MAN #1">
+Hey!</speak>
 
-<character>MAN #2</character>
-Hey!
+<speak who="MAN #2">
+Hey!</speak>
 
-<character>MAN #3</character>
-C'mon!
+<speak who="MAN #3">
+C'mon!</speak>
 
-[Another man looks around and throws his hands in the air.]
+<info>Another man looks around and throws his hands in the air.</info>
 
-<character>MAN #4</character>
-I win!
+<speak who="MAN #4">
+I win!</speak>
 
-<character>BENDER</character>
-Oop! Sorry.
+<speak who="BENDER">
+Oop! Sorry.</speak>
 
-[He plugs the plug back in and the black bars reappear.]
+<info>He plugs the plug back in and the black bars reappear.</info>
 
-<character>LEELA</character>
-Bender, how did you get in here?
+<speak who="LEELA">
+Bender, how did you get in here?</speak>
 
-<character>LEELA</character>
-Since when are you my agent?
+<speak who="LEELA">
+Since when are you my agent?</speak>
 
-[Bender's phone rings.]
+<info>Bender's phone rings.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Quiet, call coming in.  Yeees...? A 
 big endorsement deal for Leela? How 
 much...? Hey! You put a one and two 
 zeroes in front of that or we pass...! 
-Deal!
+Deal!</speak>
 
-[He hangs up.]
+<info>He hangs up.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender that's great! How much did you 
-get me?
+get me?</speak>
 
-<character>BENDER</character>
-(impressed) One hundred dollars.
+<speak who="BENDER">
+<info>(impressed)</info> One hundred dollars.</speak>
 
-[Ancestor & Sons Ad Agency. Leela stands behind a camera in front 
-of a backdrop. She holds a tin of beans and reads off an autocue.]
+<info>Ancestor &amp; Sons Ad Agency. Leela stands behind a camera in front 
+of a backdrop. She holds a tin of beans and reads off an autocue.</info>
 
-<character>LEELA</character>
-(reading) As a pitcher, I serve up plenty 
+<speak who="LEELA">
+<info>(reading)</info> As a pitcher, I serve up plenty 
 of bean-balls, so I know good beans 
 when I see them. Bean-Bay Beans - they're 
-the beaniest!
+the beaniest!</speak>
 
-[She smiles weakly.]
+<info>She smiles weakly.</info>
 
-<character>DIRECTOR</character>
-Cut!
+<speak who="DIRECTOR">
+Cut!</speak>
 
-[Shea Stadium. The Mets play the Pituitary Giants with the score 
-17-2 to the Giants.]
+<info>Shea Stadium. The Mets play the Pituitary Giants with the score 
+17-2 to the Giants.</info>
 
-[Cut to: Bleachers. Fans have set up Leela's Bean Counter. A 
-woman hangs a fourth huge picture of a bean over the railings.]
+<info>Cut to: Bleachers. Fans have set up Leela's Bean Counter. A 
+woman hangs a fourth huge picture of a bean over the railings.</info>
 
-<character>UECKER</character>
-(voice-over) In very short order Leela 
-has become a fan favourite.
+<speak who="UECKER">
+<info>(voice-over)</info> In very short order Leela 
+has become a fan favourite.</speak>
 
-[Cut to: Pitch. Leela knocks over another player and some paramedics 
+<info>Cut to: Pitch. Leela knocks over another player and some paramedics 
 drag him into an ambulance. The ambulance moves around the pitch 
 to first base. There are three other ambulances moving from base 
-to base.]
+to base.</info>
 
-[<character>NNY</character> Mets Locker Room. Leela dresses. Enter Bender.]
+<info>NNY Mets Locker Room. Leela dresses. Enter Bender.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You're the best babe!  Hang on call 
 comin' in.  What's that...? Hey you 
 put a one and two zeroes in front of 
-that or we pass...! Deal!
+that or we pass...! Deal!</speak>
 
-[He hangs up.]
+<info>He hangs up.</info>
 
-<character>LEELA</character>
-So what did you get me?
+<speak who="LEELA">
+So what did you get me?</speak>
 
-<character>BENDER</character>
-(impressed) A thousand and one pesos!
+<speak who="BENDER">
+<info>(impressed)</info> A thousand and one pesos!</speak>
 
-[Ancestor & Sons Ad Agency. Leela shoots another bean advert 
-but this time in Spanish.]
+<info>Ancestor &amp; Sons Ad Agency. Leela shoots another bean advert 
+but this time in Spanish.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Yo soy muy malo en lanzar, pero yo soy 
 muy bueno en comer frijoles. Come los 
 Bean Bay frijoles, los frijoles de los 
-reyes.
+reyes.</speak>
 
-<character>DIRECTOR</character>
-Cut! OK, now do one with bean suit on!
+<speak who="DIRECTOR">
+Cut! OK, now do one with bean suit on!</speak>
 
-[A man holds up a huge bean suit with a face wearing a Mets blernsball 
-cap.]
+<info>A man holds up a huge bean suit with a face wearing a Mets blernsball 
+cap.</info>
 
-[Outside Family Bros. Pizza. The Cygnoids have strung a banner 
+<info>Outside Family Bros. Pizza. The Cygnoids have strung a banner 
 over the doorway reading Leela Autograph Session - Bring Money. 
-A line of people has formed outside.]
+A line of people has formed outside.</info>
 
-[Cut to: Family Bros. Pizza. Leela is sat dressed in her Mets 
+<info>Cut to: Family Bros. Pizza. Leela is sat dressed in her Mets 
 uniform at a table at the far end of the room signing books while 
 the Cygnoids sell pizza to her fans. Fry leans against the counter 
-with a smile on his face.]
+with a smile on his face.</info>
 
-<character>CYGNOID MAN</character>
-Leela really bringing in the customers.
+<speak who="CYGNOID MAN">
+Leela really bringing in the customers.</speak>
 
-<character>CYGNOID WOMAN</character>
+<speak who="CYGNOID WOMAN">
 This keep up we need to buy second sauce 
-toilet.
+toilet.</speak>
 
-[A little girl stands in front of Leela holding a magazine.]
+<info>A little girl stands in front of Leela holding a magazine.</info>
 
-<character>GIRL</character>
+<speak who="GIRL">
 When I grow up I want to injure men 
 by throwing stuff at them just like 
-you Leela! Will you sign my magazine?
+you Leela! Will you sign my magazine?</speak>
 
-[She hands her a copy of Sports Illustrated with a picture of 
+<info>She hands her a copy of Sports Illustrated with a picture of 
 Leela on the cover and the caption "Leela's Beans: The Mets' 
-Magical Fruit."]
+Magical Fruit."</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Aww, sure thing sweetie. Who should 
-I make it out to?
+I make it out to?</speak>
 
-<character>GIRL</character>
-Well, uh...to eBay?
+<speak who="GIRL">
+Well, uh...to eBay?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's a popular name today. Little 
-"e" big "B"?
+"e" big "B"?</speak>
 
-[The girl nods and smiles, Leela signs the magazine and the girl 
+<info>The girl nods and smiles, Leela signs the magazine and the girl 
 takes it and leaves. Another girl hands Leela a magazine. Bender 
-chuckles and presses some buttons on a calculator.]
+chuckles and presses some buttons on a calculator.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Five bucks an autograph, 200 fans. Add 
 a one and two zeros in front of that 
-and we got ourselves a wad!
+and we got ourselves a wad!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm not doing this for the wad. I'm 
 doing it for all the struggling female 
-athletes who need a role model.
+athletes who need a role model.</speak>
 
-[The woman who cheered Leela from the crowd in her first blernsball 
-game steps forward.]
+<info>The woman who cheered Leela from the crowd in her first blernsball 
+game steps forward.</info>
 
-<character>WOMAN</character>
-Yeah, a role model in how to stink!
+<speak who="WOMAN">
+Yeah, a role model in how to stink!</speak>
 
-<character>LEELA</character>
-What? Who are you?
+<speak who="LEELA">
+What? Who are you?</speak>
 
-<character>WOMAN</character>
+<speak who="WOMAN">
 Jackie Anderson. I'm on the blernsball 
 team at <character>NNYU</character> and I was hoping to get 
-to play in the majors soon.
+to play in the majors soon.</speak>
 
-<character>LEELA</character>
-Oh, following in my footsteps?
+<speak who="LEELA">
+Oh, following in my footsteps?</speak>
 
-<character>JACKIE</character>
+<speak who="JACKIE">
 Pft, God forbid! Your little freakshow 
 is making it impossible for real female 
 ball players to be taken seriously. 
-I hope you're proud of yourself.
+I hope you're proud of yourself.</speak>
 
-[She leaves. Leela's lip wobbles and a tear trickles down her 
-face. Bender turns to the crowd.]
+<info>She leaves. Leela's lip wobbles and a tear trickles down her 
+face. Bender turns to the crowd.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Alright shows over no refunds, you heard 
-the robot get out!
+the robot get out!</speak>
 
-[Planet Express: Lounge. Leela, still in her uniform, sits on 
-the couch with the rest of the crew sat and standing around her.]
+<info>Planet Express: Lounge. Leela, still in her uniform, sits on 
+the couch with the rest of the crew sat and standing around her.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm a fool. The fans haven't been cheering 
-for me, they've been cheering at me.
+for me, they've been cheering at me.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Don't be upset Leela. You, um...you 
-look really cute in your uniform.
+look really cute in your uniform.</speak>
 
-<character>LEELA</character>
-(crying) That's what makes it so sad. 
-I thought I was doing something heroic.
+<speak who="LEELA">
+<info>(crying)</info> That's what makes it so sad. 
+I thought I was doing something heroic.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You are. What about that little girl 
 you visited in the hospital? You know 
-the one I mean? The one who died?
+the one I mean? The one who died?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You're right. I can't let people down 
 anymore. As God as my witness, I vow 
 to earn the respect of girls and women 
 everywhere. I will become the best blernsball 
-player of all time.
+player of all time.</speak>
 
-[Hermes clears his throat. He is sat at the table looking at 
-a computer.]
+<info>Hermes clears his throat. He is sat at the table looking at 
+a computer.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 That's statistically impossible. In 
 77 innings you haven't gotten a single 
 out. At this rate, you're sure to go 
 down as the worst blernsball player 
-of all time.
+of all time.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh. Then I have a new vow. I solemnly 
 swear that I will become not the worst 
-blernsball player of all time.
+blernsball player of all time.</speak>
 
-[She thumps her glove, misses, and punches Farnsworth in the 
-face. Bender peers over his shades.]
+<info>She thumps her glove, misses, and punches Farnsworth in the 
+face. Bender peers over his shades.</info>
 
-[Blernsball Hall Of Fame. Enter Fry, Leela and Bender. They walk 
+<info>Blernsball Hall Of Fame. Enter Fry, Leela and Bender. They walk 
 past exhibits such as the first ball hit into orbit, Mark McGwire's 
 bicep and the 2927 Yankees' heads all crammed into one jar. Fry 
-points at a display.]
+points at a display.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey look! The player's who broke the 
-various colour barriers!
+various colour barriers!</speak>
 
-[In the display case is a green alien, an orange alien a purple 
+<info>In the display case is a green alien, an orange alien a purple 
 alien and racially superior alien from the Star Trek episode 
-Let That Be Your Last Battlefield.]
+Let That Be Your Last Battlefield.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 When will Man learn that all races are 
-equally inferior to robots?
+equally inferior to robots?</speak>
 
-[Cut to: Worst Player In History Exhibit. The trio walk into 
+<info>Cut to: Worst Player In History Exhibit. The trio walk into 
 a small room. There is a hologram of a blernsball player sat 
-on a chair surrounded by photo's of his "triumphs."]
+on a chair surrounded by photo's of his "triumphs."</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Ah, here we are - the worst player in 
 history. If I can be just a little better 
 than him I can slink away with my head 
-held high.
+held high.</speak>
 
-[Bender reads something.]
+<info>Bender reads something.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 It says he once struck out when his 
 tongue got stuck to an unusually cold 
-bat.
+bat.</speak>
 
-[Fry looks at a photo.]
+<info>Fry looks at a photo.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 And here he is trying to make a catch 
-with an oven mit.
+with an oven mit.</speak>
 
-<character>LEELA</character>
-It's even a crummy hologram.
+<speak who="LEELA">
+It's even a crummy hologram.</speak>
 
-[She knocks the hologram's head. It moves.]
+<info>She knocks the hologram's head. It moves.</info>
 
-<character>AARON JR</character>
+<speak who="AARON JR">
 I'm not a hologram, though I am crummy. 
-Hank Aaron <character>XXIV</character>.
+Hank Aaron <character>XXIV</character>.</speak>
 
-[Leela shakes his hand.]
+<info>Leela shakes his hand.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hank Aaron <character>XXIV</character>? How could you play 
 so blowfully? The original Hank Aaron 
-was great!
+was great!</speak>
 
-[A voice comes from behind them. The original Hank Aaron's head 
-in a jar.]
+<info>A voice comes from behind them. The original Hank Aaron's head 
+in a jar.</info>
 
-<character>AARON SR</character>
+<speak who="AARON SR">
 No I was better than great. I was the 
-home run king!
+home run king!</speak>
 
-<character>BENDER</character>
-Neat!
+<speak who="BENDER">
+Neat!</speak>
 
-[He takes a photo.]
+<info>He takes a photo.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 So Hank - the bad Hank, just how blowful 
-were you?
+were you?</speak>
 
-<character>AARON JR</character>
-Well, I have a low batting average.
+<speak who="AARON JR">
+Well, I have a low batting average.</speak>
 
-<character>AARON SR</character>
+<speak who="AARON SR">
 Low? It was zero you fungo! You went 
 your whole career without getting a 
-hit.
+hit.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela could beat that. She's pitched 
 her whole career without getting an 
-out.
+out.</speak>
 
-[Aaron Sr laughs.]
+<info>Aaron Sr laughs.</info>
 
-<character>AARON SR</character>
+<speak who="AARON SR">
 You stink lady! Hey Junior, she belongs 
-in the exhibit instead of you.
+in the exhibit instead of you.</speak>
 
-<character>AARON JR</character>
+<speak who="AARON JR">
 Forget it. This job's too cushy to give 
-up.  Aah Wade Boggs, goes down smooth!
+up.  Aah Wade Boggs, goes down smooth!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look, I don't wanna be in this exhibit. 
 That's why I need your help - so I can 
 be one tiny iota less pathetic than 
-you.
+you.</speak>
 
-<character>AARON JR</character>
+<speak who="AARON JR">
 Oh I can't help you play better than 
 Tiny Iota, that guy was great! But I'll 
-teach you everything I know.
+teach you everything I know.</speak>
 
-[Central Park. Leela stands on a pitcher's mound holding a blernsball, 
-Aaron Jr holds a bat and Fry is backstop.]
+<info>Central Park. Leela stands on a pitcher's mound holding a blernsball, 
+Aaron Jr holds a bat and Fry is backstop.</info>
 
-<character>AARON JR</character>
-OK, let's see what you can do.
+<speak who="AARON JR">
+OK, let's see what you can do.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 One thing she can do is lodge a ball 
 in the depth centre of your brain. You 
-better get a batting helmet.
+better get a batting helmet.</speak>
 
-[Aaron takes Bender's head off and uses it as a helmet. He lifts 
-Bender's teeth so he can see.]
+<info>Aaron takes Bender's head off and uses it as a helmet. He lifts 
+Bender's teeth so he can see.</info>
 
-<character>LEELA</character>
-(quietly) Alright, low and away!
+<speak who="LEELA">
+<info>(quietly)</info> Alright, low and away!</speak>
 
-[She throws the ball and knocks Aaron down. Bender picks his 
-head up and staggers around disorientated.]
+<info>She throws the ball and knocks Aaron down. Bender picks his 
+head up and staggers around disorientated.</info>
 
-<character>AARON JR</character>
+<speak who="AARON JR">
 OK try it again but this time keep your 
-eye off the ball.
+eye off the ball.</speak>
 
-<character>LEELA</character>
-You mean "keep your eye on the ball"?
+<speak who="LEELA">
+You mean "keep your eye on the ball"?</speak>
 
-<character>AARON JR</character>
+<speak who="AARON JR">
 Hey lady, which one of us is in the 
-hall of fame?
+hall of fame?</speak>
 
-[He holds up the bat. Fry whispers to him.]
+<info>He holds up the bat. Fry whispers to him.</info>
 
-<character>FRY</character>
-(whispering) Psst, you're holding the 
-bat upside down.
+<speak who="FRY">
+<info>(whispering)</info> Psst, you're holding the 
+bat upside down.</speak>
 
-<character>AARON JR</character>
-Just pitch the ball.
+<speak who="AARON JR">
+Just pitch the ball.</speak>
 
-<character>LEELA</character>
-OK, eye off the ball.
+<speak who="LEELA">
+OK, eye off the ball.</speak>
 
-[She throws the ball without looking at it, Aaron swings, misses 
-and Fry catches the ball.]
+<info>She throws the ball without looking at it, Aaron swings, misses 
+and Fry catches the ball.</info>
 
-<character>BENDER</character>
-Strike!
+<speak who="BENDER">
+Strike!</speak>
 
-<character>FRY</character>
-Hooray!
+<speak who="FRY">
+Hooray!</speak>
 
-<character>AARON JR</character>
-You did it Leela!
+<speak who="AARON JR">
+You did it Leela!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I didn't hit the batter! For once I 
-was pitching and not just belly-itching!
+was pitching and not just belly-itching!</speak>
 
-<character>AARON JR</character>
+<speak who="AARON JR">
 Oh you got that too? I think there's 
-a rash goin' around.
+a rash goin' around.</speak>
 
-[He scratches his stomach.]
+<info>He scratches his stomach.</info>
 
-[Outside Fenway Park. On the wall outside is a sign saying Home 
-Of The Green Monster.]
+<info>Outside Fenway Park. On the wall outside is a sign saying Home 
+Of The Green Monster.</info>
 
-[Cut to: Pitch. The Green Monster plays the blernsball tune.]
+<info>Cut to: Pitch. The Green Monster plays the blernsball tune.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
-<character>UECKER</character>
+<speak who="UECKER">
 Welcome to Fenway Park, home of the 
 Boston Poindexters where the Mets close 
 out a season that'll rank among mankind's 
-most awful crimes.
+most awful crimes.</speak>
 
-[Cut to: Family Bros. Stand. The Cygnoids sell pizza to blernsball 
-fans. Fry smiles.]
+<info>Cut to: Family Bros. Stand. The Cygnoids sell pizza to blernsball 
+fans. Fry smiles.</info>
 
-<character>FRY</character>
-Hey! You opened a franchise!
+<speak who="FRY">
+Hey! You opened a franchise!</speak>
 
-<character>CYGNOID WOMAN</character>
+<speak who="CYGNOID WOMAN">
 Yes. Our biggest seller is Leela's Bean 
 Pizza. Six kinds of beans, plus several 
-things that look like beans.
+things that look like beans.</speak>
 
-[Fishy Joe eats a slice.]
+<info>Fishy Joe eats a slice.</info>
 
-<character>FISHY JOE</character>
+<speak who="FISHY JOE">
 Beans huh? Mmm, this is great! How to 
-you make the crust so fizzy?
+you make the crust so fizzy?</speak>
 
-<character>CYGNOID MAN</character>
-Ah-ah-ah! Ancient Cygnoid secret!
+<speak who="CYGNOID MAN">
+Ah-ah-ah! Ancient Cygnoid secret!</speak>
 
-<character>CYGNOID WOMAN</character>
+<speak who="CYGNOID WOMAN">
 My husband, some hotshot! Here's his 
 ancient Cygnoid secret!  Live hornets! 
-We smush them right into dough!
+We smush them right into dough!</speak>
 
-<character>FISHY JOE</character>
+<speak who="FISHY JOE">
 I don't care if there's horse manure 
-in it!
+in it!</speak>
 
-<character>CYGNOID MAN</character>
-That's a-good!
+<speak who="CYGNOID MAN">
+That's a-good!</speak>
 
-<character>FISHY JOE</character>
+<speak who="FISHY JOE">
 I wanna buy this franchise. How does 
-$100,000 sounds?
+$100,000 sounds?</speak>
 
-<character>CYGNOID MAN</character>
+<speak who="CYGNOID MAN">
 Forget it, we come to Earth to make 
-pizza not money!
+pizza not money!</speak>
 
-<character>CYGNOID WOMAN</character>
-No Blek! Other way around!
+<speak who="CYGNOID WOMAN">
+No Blek! Other way around!</speak>
 
-<character>CYGNOID MAN</character>
-Oh right, offer accepted!
+<speak who="CYGNOID MAN">
+Oh right, offer accepted!</speak>
 
-[He takes the cheque and Fry, Amy, Hermes and the Cygnoid woman 
-cheer.]
+<info>He takes the cheque and Fry, Amy, Hermes and the Cygnoid woman 
+cheer.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
-<character>UECKER</character>
+<speak who="UECKER">
 Well fans Boston's turning the last 
 game into a real squeeeker! And that's 
 with three "e's"! Two men on and they're 
-down to their last out.
+down to their last out.</speak>
 
-[Cut to: Met's Bench. Leela is sat on the bench while the manager 
-watches the game.]
+<info>Cut to: Met's Bench. Leela is sat on the bench while the manager 
+watches the game.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Come on skipper, it's my last chance 
 to prove I'm not the worst player ever. 
-Please put me in.
+Please put me in.</speak>
 
-<character>SKIPPER</character>
+<speak who="SKIPPER">
 No. We're actually winning this game. 
 You only go in as a joke when we're 
 eight runs behind. Or when our other 
 pitchers sneak out early to beat the 
-traffic.  (shouting) Come on! Lets see 
+traffic.  <info>(shouting)</info> Come on! Lets see 
 some fundamentals out there!  And not 
-clown fundamentals.
+clown fundamentals.</speak>
 
-[Cut to: Pitch. A Boston player hits the ball and it bounces 
+<info>Cut to: Pitch. A Boston player hits the ball and it bounces 
 over to the clown. Instead of throwing it to another player he 
-throws a pie instead.]
+throws a pie instead.</info>
 
-[Cut to: Met's Bench. The skipper kicks the ground.]
+<info>Cut to: Met's Bench. The skipper kicks the ground.</info>
 
-<character>SKIPPER</character>
+<speak who="SKIPPER">
 Aw, darn, darn it! Now the bases are 
 loaded. Isn't there a man on this team 
-who can get one more out?
+who can get one more out?</speak>
 
-<character>LEELA</character>
-I can.
+<speak who="LEELA">
+I can.</speak>
 
-<character>SKIPPER</character>
+<speak who="SKIPPER">
 I repeat: Isn't there a man on this 
-team on this -
+team on this -</speak>
 
-<character>LEELA</character>
-I've been training with Hank Aaron.
+<speak who="LEELA">
+I've been training with Hank Aaron.</speak>
 
-[The skipper turns around.]
+<info>The skipper turns around.</info>
 
-<character>SKIPPER</character>
-You've been training with the Hank Aaron?
+<speak who="SKIPPER">
+You've been training with the Hank Aaron?</speak>
 
-<character>LEELA</character>
-I've been training with a Hank Aaron.
+<speak who="LEELA">
+I've been training with a Hank Aaron.</speak>
 
-<character>SKIPPER</character>
+<speak who="SKIPPER">
 Alright then. Get in there and pitch 
-like you've never pitched like you before!
+like you've never pitched like you before!</speak>
 
-[Leela runs onto the pitch.]
+<info>Leela runs onto the pitch.</info>
 
-[Cut to: Pitch. The Mets players' jaws drop and they hold their 
-hands to their heads.]
+<info>Cut to: Pitch. The Mets players' jaws drop and they hold their 
+hands to their heads.</info>
 
-[The crowd cheers.]
+<info>The crowd cheers.</info>
 
-[Cut to: Bleachers.]
+<info>Cut to: Bleachers.</info>
 
-<character>CROWD</character>
-(chanting) Bean! Bean! Bean! Bean! Bean!
+<speak who="CROWD">
+<info>(chanting)</info> Bean! Bean! Bean! Bean! Bean!</speak>
 
-<character>FARNSWORTH</character>
-(shouting) Go Leela!
+<speak who="FARNSWORTH">
+<info>(shouting)</info> Go Leela!</speak>
 
-<character>AMY</character>
-(shouting) Come on Leela!
+<speak who="AMY">
+<info>(shouting)</info> Come on Leela!</speak>
 
-<character>BENDER</character>
-(shouting) Put it right down the pike!
+<speak who="BENDER">
+<info>(shouting)</info> Put it right down the pike!</speak>
 
-<character>FRY</character>
-(shouting) Strike him out Leela! Do 
-it for the hundreds of women everywhere!
+<speak who="FRY">
+<info>(shouting)</info> Strike him out Leela! Do 
+it for the hundreds of women everywhere!</speak>
 
-[Cut to: Pitch. While the crowd continues chanting "bean" the 
-Boston skipper takes a batter out and replaces him.]
+<info>Cut to: Pitch. While the crowd continues chanting "bean" the 
+Boston skipper takes a batter out and replaces him.</info>
 
-[The crowd gasps as Jackie steps up to bat.]
+<info>The crowd gasps as Jackie steps up to bat.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
-<character>UECKER</character>
+<speak who="UECKER">
 Would you look at that! College blernsball's 
 finest female hitter making her big 
 league debut against pro-ball's worst 
 female anything! I've never seen anything 
 this bizzare - and I've seen Mr Belvendere 
-naked! Woo!
+naked! Woo!</speak>
 
-[Cut to: Pitch.]
+<info>Cut to: Pitch.</info>
 
-<character>LEELA</character>
-(quietly) Keep cool, she's just like 
+<speak who="LEELA">
+<info>(quietly)</info> Keep cool, she's just like 
 any other player. She puts on her sports 
-bra one arm at a time.
+bra one arm at a time.</speak>
 
-[She throws the ball and Jackie misses.]
+<info>She throws the ball and Jackie misses.</info>
 
-<character>UMPIRE</character>
-Strike one!
+<speak who="UMPIRE">
+Strike one!</speak>
 
-[The crowd gasps. Leela gasps.]
+<info>The crowd gasps. Leela gasps.</info>
 
-<character>LEELA</character>
-Strike one - a personal best!
+<speak who="LEELA">
+Strike one - a personal best!</speak>
 
-[She throws again.]
+<info>She throws again.</info>
 
-<character>UMPIRE</character>
-Strike two!
+<speak who="UMPIRE">
+Strike two!</speak>
 
-[Leela and Jackie wipe their brows.]
+<info>Leela and Jackie wipe their brows.</info>
 
-[Cut to: Bleachers. Hermes wipes his brow with a sponge, and 
-squeezes it into a file marked Ballpark Sweat.]
+<info>Cut to: Bleachers. Hermes wipes his brow with a sponge, and 
+squeezes it into a file marked Ballpark Sweat.</info>
 
-[Cut to: Pitch. Leela throws the ball, Jackie swings and hits 
-it. The elastic tightens and breaks.]
+<info>Cut to: Pitch. Leela throws the ball, Jackie swings and hits 
+it. The elastic tightens and breaks.</info>
 
-[Cut to: Bleachers. The crowd look up and gasp. While they aren't 
+<info>Cut to: Bleachers. The crowd look up and gasp. While they aren't 
 looking Bender chuckles and steals some drinks from the people 
-in front of him. Amy takes one too.]
+in front of him. Amy takes one too.</info>
 
-[Cut to: Pitch. The now free ball flies through the air and into 
+<info>Cut to: Pitch. The now free ball flies through the air and into 
 a target marked Hit It Here And Win The Game. The target lights 
 up, a bell rings, Jackie runs around the pitch, the giant rats 
-run out and the Slurm blimp crashes.]
+run out and the Slurm blimp crashes.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
-<character>UECKER</character>
+<speak who="UECKER">
 A grand slam blern. The Mets lose, their 
 season is over! And no question, Leela 
 - the first woman ever to reach the 
 majors will go down as the single worst 
-player in the history of blernsball...!
+player in the history of blernsball...!</speak>
 
-[Cut to: Pitch. Leela walks sadly to the bench. Jackie jumps 
-around with joy and the Boston players lift her up.]
+<info>Cut to: Pitch. Leela walks sadly to the bench. Jackie jumps 
+around with joy and the Boston players lift her up.</info>
 
-<character>UECKER</character>
-(voice-over) ...And yet tonight we have 
+<speak who="UECKER">
+<info>(voice-over)</info> ...And yet tonight we have 
 witnessed the beginning of a great career 
 for the first woman to play the sport 
-well - Jackie Anderson!
+well - Jackie Anderson!</speak>
 
-[Cut to: Tunnel. Leela walks away from the celebrations hanging 
+<info>Cut to: Tunnel. Leela walks away from the celebrations hanging 
 her head in shame. Jackie pokes her head around the end of the 
-tunnel.]
+tunnel.</info>
 
-<character>JACKIE</character>
-Leela?
+<speak who="JACKIE">
+Leela?</speak>
 
-[Leela turns around.]
+<info>Leela turns around.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Jackie. I guess you were right, I'm 
-a lousy role model. I'm sorry.
+a lousy role model. I'm sorry.</speak>
 
-<character>JACKIE</character>
+<speak who="JACKIE">
 No, don't be. It turns out you were 
-an inspiration afterall.
+an inspiration afterall.</speak>
 
-<character>LEELA</character>
-(crying) I was?
+<speak who="LEELA">
+<info>(crying)</info> I was?</speak>
 
-<character>JACKIE</character>
+<speak who="JACKIE">
 Uh-huh. You were so awful that women 
 everywhere set out to prove that they 
 don't stink as bad as you. You know, 
-like a pig or something.
+like a pig or something.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh, that's so kind of you. I guess I 
-made a difference afterall!
+made a difference afterall!</speak>
 
-<character>JACKIE</character>
+<speak who="JACKIE">
 You absolutely did Leela. Now please, 
-please retire! Immediately!
+please retire! Immediately!</speak>
 
-[She leaves. Leela looks at the towel around her neck.]
+<info>She leaves. Leela looks at the towel around her neck.</info>
 
-<character>LEELA</character>
-Hey kid! Catch!
+<speak who="LEELA">
+Hey kid! Catch!</speak>
 
-[Jackie turns around, Leela throws the towel and knocks Jackie 
-over.]
+<info>Jackie turns around, Leela throws the towel and knocks Jackie 
+over.</info>
 
-[Blernsball Hall Of Fame: Worst Player In History Exhibit. Aaron 
+<info>Blernsball Hall Of Fame: Worst Player In History Exhibit. Aaron 
 Jr looks at a cardboard stand-up of Leela, standing where he 
-used to sit. He sighs.]
+used to sit. He sighs.</info>
 
-<character>AARON SR</character>
+<speak who="AARON SR">
 Well, at least you're still the worst 
-football player of all time.
+football player of all time.</speak>
 
-<character>AARON JR</character>
-Yeah. Yeah.
+<speak who="AARON JR">
+Yeah. Yeah.</speak>
 
-[He puts on his cap, turns out the lights and leaves.]
+<info>He puts on his cap, turns out the lights and leaves.</info>
 
-<character>THE END</character>
+<info>THE END</info>
 </xml>

@@ -1,21 +1,21 @@
 <xml>
-<episodeInfo><character>FUTURAMA</character>
+<episodeInfo>FUTURAMA
 
 Episode 313
 
-<title><character>BENDIN</character>' IN <character>THE WIND</character></title>
+<title>BENDIN' IN THE WIND</title>
 
 <author>Eric Horsted</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Federal Law Prohibits Changing The 
-Channel.]
+<info>Opening Credits. Caption: Federal Law Prohibits Changing The 
+Channel.</info>
 
-[New New York City Street. Fry and Bender walk down a busy street 
-and Bender sings and dances.]
+<info>New New York City Street. Fry and Bender walk down a busy street 
+and Bender sings and dances.</info>
 
-<character>BENDER</character>
-(singing) Froggy went a-courtin' and 
+<speak who="BENDER">
+<info>(singing)</info> Froggy went a-courtin' and 
 he did ride, uh-huh, uh-huh
 
 Well, Froggy went a-courtin' and he did ride
@@ -24,417 +24,417 @@ Blah blah blah, something, Bender is great!
 
 Froggy went a-courtin' and Bender is great, uh-huh -
 
-[A rumbling noise interrupts his singing. He and Fry look through 
+</speak><info>A rumbling noise interrupts his singing. He and Fry look through 
 a gap in a fence and see Sal in a hover-digger digging a huge 
-hole at the <character>NNYC</character> Hole Project. Sall dumps a load down on the 
+hole at the NNYC Hole Project. Sall dumps a load down on the 
 ground. Amongst some rubble and mud is a bag of fat free potato 
-chips. Fry picks it up.]
+chips. Fry picks it up.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh my God! They dug up a bag of olestra 
 chips from my time!  There must be layers 
-and layers of old stuff down there.
+and layers of old stuff down there.</speak>
 
-[Sal dumps another scoop-ful and amongst the dirt is an entire 
-VW minivan. Fry gasps.]
+<info>Sal dumps another scoop-ful and amongst the dirt is an entire 
+VW minivan. Fry gasps.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What's that? One of those Led Zeppelins 
-I've heard so much about?
+I've heard so much about?</speak>
 
-[Fry puts his hands on the <character>VW</character>.]
+<info>Fry puts his hands on the VW.</info>
 
-<character>FRY</character>
-No, it's an old Volkswagen van.  (shouting) 
+<speak who="FRY">
+No, it's an old Volkswagen van.  <info>(shouting)</info> 
 Hey, Mister? Mind if I take this old 
-van?
+van?</speak>
 
-<character>SAL</character>
-(shouting) Sure. You wanna dump the 
-corpses out of theres, it's yourses.
+<speak who="SAL">
+<info>(shouting)</info> Sure. You wanna dump the 
+corpses out of theres, it's yourses.</speak>
 
-<character>FRY</character>
-Yeah yeah, I've gotten used cars before.
+<speak who="FRY">
+Yeah yeah, I've gotten used cars before.</speak>
 
-[Planet Express: Hangar. Fry grunts and groans as he pushes the 
+<info>Planet Express: Hangar. Fry grunts and groans as he pushes the 
 VW into the hangar. He is wearing the previous owner's bandana. 
 Bender sits inside and guzzles down a beer. The rest of the crew 
-gather around.]
+gather around.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 What's that? One of those Jefferson 
-Starships I've heard so much about?
+Starships I've heard so much about?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 It's called a van, and in light of the 
 fact that it's not a-rockin', I invite 
-you to come a-knockin'!
+you to come a-knockin'!</speak>
 
-[He slides open the door and the crew peer inside at all the 
-beads and beanbags and throws.]
+<info>He slides open the door and the crew peer inside at all the 
+beads and beanbags and throws.</info>
 
-<character>AMY</character>
-Wow, neat.
+<speak who="AMY">
+Wow, neat.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 It's a triumph of free-spirited German 
-engineering.
+engineering.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Hey, the speedometer only goes up to 
 80. This thing can't go faster than 
-80,000 miles an hour?
+80,000 miles an hour?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 No, it can't, but it's got a driver's-side 
 floor and an 8-track player with genuine 
-mono sound.
+mono sound.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Where's the device that lets you speed 
-or slow the passage of time?
+or slow the passage of time?</speak>
 
-<character>FRY</character>
-Under the seat.
+<speak who="FRY">
+Under the seat.</speak>
 
-[He pulls out a bong. Leela tries turning the key in the ignition 
-and the engine coughs and splutters.]
+<info>He pulls out a bong. Leela tries turning the key in the ignition 
+and the engine coughs and splutters.</info>
 
-<character>LEELA</character>
-Why won't it start?
+<speak who="LEELA">
+Why won't it start?</speak>
 
-<character>FRY</character>
-It just needs some gas.
+<speak who="FRY">
+It just needs some gas.</speak>
 
-[Farnsworth puts his hand on his shoulder.]
+<info>Farnsworth puts his hand on his shoulder.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Wrong again, idiot. There is no gas. 
-Petroleum reserves ran dry in 2038.
+Petroleum reserves ran dry in 2038.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Gas was an environmental disaster, anyway. 
-Now we use alternative fuels.
+Now we use alternative fuels.</speak>
 
-<character>FRY</character>
-Like what?
+<speak who="FRY">
+Like what?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Whale oil.  Bender, lift it up to the 
-can opener.
+can opener.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, no, I'm not going near it. Last 
 time, that magnetic psycho nearly cut 
-my head off.
+my head off.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh, right. Plus, the magnet screws up 
 your inhibition unit and makes you sing 
-folk songs.
+folk songs.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What? Who said anything about me secretly 
-wanting to be a folk singer? How ridiculous.
+wanting to be a folk singer? How ridiculous.</speak>
 
-[He glances around. Fry puts his hand on his shoulder.]
+<info>He glances around. Fry puts his hand on his shoulder.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Bender, if you don't open that can right 
 now, your fear will own you, and nothing 
 that can opener could ever do could 
-be worse than that.
+be worse than that.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 OK, OK, I can do this. It's time to 
-take life by the cans.
+take life by the cans.</speak>
 
-[He lifts the barrel and looks weakly at the others.]
+<info>He lifts the barrel and looks weakly at the others.</info>
 
-<character>LEELA</character>
-Come on.
+<speak who="LEELA">
+Come on.</speak>
 
-<character>HERMES</character>
-You can do it.
+<speak who="HERMES">
+You can do it.</speak>
 
-<character>AMY</character>
-Bender!
+<speak who="AMY">
+Bender!</speak>
 
-<character>FARNSWORTH</character>
-Go on, you dummy.
+<speak who="FARNSWORTH">
+Go on, you dummy.</speak>
 
-[Bender walks towards the can opener and the magnet grabs him 
+<info>Bender walks towards the can opener and the magnet grabs him 
 and starts cutting into him. Sparks fly from him and he starts 
-to sing.]
+to sing.</info>
 
-<character>BENDER</character>
-(singing) Jimmy cracked corn and I don't 
-care
+<speak who="BENDER">
+<info>(singing)</info> Jimmy cracked corn and I don't 
+care</speak>
 
-[He screams in pain.]
+<info>He screams in pain.</info>
 
 Jimmy cracked corn and I don't care...
 
-[He screams again. The rest of the crew cringe and cover their 
-eyes.]
+<info>He screams again. The rest of the crew cringe and cover their 
+eyes.</info>
 
-<character>FRY</character>
-Oh, no!
+<speak who="FRY">
+Oh, no!</speak>
 
-<character>BENDER</character>
-(singing) 'Cause the master's gone away.
+<speak who="BENDER">
+<info>(singing)</info> 'Cause the master's gone away.</speak>
 
-<character>ZOIDBERG</character>
-It's toe-tapping-ly tragic.
+<speak who="ZOIDBERG">
+It's toe-tapping-ly tragic.</speak>
 
-[Cedars-Sinewave Robot Hospital. Bender lies on a bed and a doctor 
-checks him over. He has huge gashes across his chest.]
+<info>Cedars-Sinewave Robot Hospital. Bender lies on a bed and a doctor 
+checks him over. He has huge gashes across his chest.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Doc, I can't move my arms and legs. 
-What's wrong with me?
+What's wrong with me?</speak>
 
-[The doctor sighs.]
+<info>The doctor sighs.</info>
 
-<character>DOCTOR</character>
-This is the worst part of the job.
+<speak who="DOCTOR">
+This is the worst part of the job.</speak>
 
-<character>BENDER</character>
-What is it, good news?
+<speak who="BENDER">
+What is it, good news?</speak>
 
-<character>DOCTOR</character>
+<speak who="DOCTOR">
 Bender, your hydraulics are shot. You'll 
-never move again.
+never move again.</speak>
 
-[Bender chokes.]
+<info>Bender chokes.</info>
 
-<character>BENDER</character>
-You mean -?
+<speak who="BENDER">
+You mean -?</speak>
 
-[The doctor turns to Farnsworth.]
+<info>The doctor turns to Farnsworth.</info>
 
-<character>DOCTOR</character>
+<speak who="DOCTOR">
 I'm sorry, you'll have to get a new 
-one.
+one.</speak>
 
-[He leaves and Bender bursts into tears. The crew murmur to each 
-other.]
+<info>He leaves and Bender bursts into tears. The crew murmur to each 
+other.</info>
 
-<character>FRY</character>
-Oh, no, this is terrible.
+<speak who="FRY">
+Oh, no, this is terrible.</speak>
 
-<character>ZOIDBERG</character>
-Poor Bender.
+<speak who="ZOIDBERG">
+Poor Bender.</speak>
 
-<character>FARNSWORTH</character>
-Well, let's drag him to the kerb.
+<speak who="FARNSWORTH">
+Well, let's drag him to the kerb.</speak>
 
-[He grabs Bender's arm and Zoidberg takes hold of his legs. Fry 
-stops them.]
+<info>He grabs Bender's arm and Zoidberg takes hold of his legs. Fry 
+stops them.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait a minute, Bender is my best friend. 
 We can't just dump him in the gutter 
-like Grandma's ashes.
+like Grandma's ashes.</speak>
 
-<character>BENDER</character>
-(crying) Oh, my life is over. I'll never 
-know happiness again.
+<speak who="BENDER">
+<info>(crying)</info> Oh, my life is over. I'll never 
+know happiness again.</speak>
 
-[A horn honks and robot on wheels dressed like a clown rolls 
-in.]
+<info>A horn honks and robot on wheels dressed like a clown rolls 
+in.</info>
 
-<character>ROBOT</character>
-Ho ho, hello there!
+<speak who="ROBOT">
+Ho ho, hello there!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look, Bender. It's Patch Cord Adams. 
-He heals with the power of laughter.
+He heals with the power of laughter.</speak>
 
-[He holds a robot-shaped balloon above Bender.]
+<info>He holds a robot-shaped balloon above Bender.</info>
 
-<character>PATCH CORD ADAMS</character>
+<speak who="PATCH CORD ADAMS">
 C'mon, take it. What's the matter, can't 
-move your arms?
+move your arms?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Obviously not, or I'd be strangling 
-you right now.
+you right now.</speak>
 
-<character>PATCH CORD ADAMS</character>
+<speak who="PATCH CORD ADAMS">
 Hey, here's a giggle!  Did you hear 
 why they're using Windows 3000 as a 
-prison guard?
+prison guard?</speak>
 
-<character>FRY</character>
-No, why?
+<speak who="FRY">
+No, why?</speak>
 
-<character>PATCH CORD ADAMS</character>
-'Cause it always locks up.
+<speak who="PATCH CORD ADAMS">
+'Cause it always locks up.</speak>
 
-[The others laugh weakly.]
+<info>The others laugh weakly.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 For the love of God, somebody kick his 
-ass!
+ass!</speak>
 
-<character>PATCH CORD ADAMS</character>
+<speak who="PATCH CORD ADAMS">
 Well, so long. Get well soon.  Oh, well, 
-so long anyway.
+so long anyway.</speak>
 
-[He rolls out and Bender groans.]
+<info>He rolls out and Bender groans.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, I'm doomed. Everybody leave me alone. 
-I don't wanna be seen this way.
+I don't wanna be seen this way.</speak>
 
-[Everyone, except Fry, leaves.]
+<info>Everyone, except Fry, leaves.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Aw, you look so sad. You want me to 
-send Patch Cord Adams back in?
+send Patch Cord Adams back in?</speak>
 
-[Bender bawls and Fry leaves. The sound of a harmonica stops 
-his tears.]
+<info>Bender bawls and Fry leaves. The sound of a harmonica stops 
+his tears.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, the blues. The tragic sound of 
 other people suffering. That's kind 
-of a pick-me-up.  Wow, that was great.
+of a pick-me-up.  Wow, that was great.</speak>
 
-<character>BECK</character>
-Hey, thanks. You a fan?
+<speak who="BECK">
+Hey, thanks. You a fan?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I dunno. Let me see.  Oh my God, you're 
 Beck! I'd get up to shake your hand 
 and steal your wallet but my crappy 
-body crapped out on me.
+body crapped out on me.</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 Don't take it so hard. I used to miss 
 my body too but then I fished this manequin 
-out of the 92c Store dumpster.
+out of the 92c Store dumpster.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Wow. We've sure got a lot in common, 
 Beck. I always dreamed of being a musician-poet 
 who transcends genres even as he re-invents 
-them, just like you.
+them, just like you.</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 So do it, robot. It's easier than it 
-looks.
+looks.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Eh, thanks, but it's hopeless. I'll 
-never be a musician now.
+never be a musician now.</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 Or maybe you'll be the best musician 
-ever.
+ever.</speak>
 
-[He motions the doctor to him and whispers something to him. 
+<info>He motions the doctor to him and whispers something to him. 
 He takes the harmonica holder out of Beck's jar and puts it around 
-Bender's neck.]
+Bender's neck.</info>
 
-<character>BENDER</character>
-What's this for?
+<speak who="BENDER">
+What's this for?</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 Try and scrape it across your chest 
 like a knife on burnt toast.  Come on, 
 move those arms. Use the power of mental 
 thinking. Make it dynamic.  Yeah-ee! 
-Alright, congratulations my friend.
+Alright, congratulations my friend.</speak>
 
-<character>BENDER</character>
-Why? 'Cause I can make annoying noises?
+<speak who="BENDER">
+Why? 'Cause I can make annoying noises?</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 Exactly. I use those all the time in 
 my music. Bender, I want you to become 
-my new washboard player.
+my new washboard player.</speak>
 
-[Bender gasps.]
+<info>Bender gasps.</info>
 
-<character>BENDER</character>
-Alright!  Go Bender! Go Bender! Go Bender!
+<speak who="BENDER">
+Alright!  Go Bender! Go Bender! Go Bender!</speak>
 
-[Outside Planet Express. The whole crew are gathered outside 
+<info>Outside Planet Express. The whole crew are gathered outside 
 the building by the side of the road. Fry, still wearing his 
 headband, wheels Bender out on a sack truck. He has a small green 
-suitcase with him. A large blue bus pulls up and honks its horn.]
+suitcase with him. A large blue bus pulls up and honks its horn.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well, that's my good friend, Beck. I'm 
-of to rock a series of mid-level venues.
+of to rock a series of mid-level venues.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Kudos, Bender. You got mangled and now 
 you're a singer. Both our dreams came 
-true.
+true.</speak>
 
-[The bus honks again.]
+<info>The bus honks again.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, I have an idea. Who wants to cram 
 in my van and follow Bender on tour 
-and live there, in the van?
+and live there, in the van?</speak>
 
-[Behind them, the VW rumbles and backfires.]
+<info>Behind them, the VW rumbles and backfires.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Oh, I don't know, Fry. I think I'm too 
-poor to follow a band around in a van.
+poor to follow a band around in a van.</speak>
 
-[The bus beeps again and Beck leans out of a window.]
+<info>The bus beeps again and Beck leans out of a window.</info>
 
-<character>BECK</character>
-(shouting) Come on, move it! We gotta 
+<speak who="BECK">
+<info>(shouting)</info> Come on, move it! We gotta 
 get to the concert and make the audience 
-wait for it at the start.
+wait for it at the start.</speak>
 
-[Montage The tour bus passes under the Holland Tunnel with the 
+<info>Montage The tour bus passes under the Holland Tunnel with the 
 VW right behind it, causing a tailback. They drive from New New 
-York, through New New Jersey, Washington <character>A</character>.C., East West Virginia 
-to a little town called Squatter's Corner in West Virginia.]
+York, through New New Jersey, Washington A.C., East West Virginia 
+to a little town called Squatter's Corner in West Virginia.</info>
 
-[Velma Sue's Laundromat. Zoidberg, Amy, Leela and Fry do their 
+<info>Velma Sue's Laundromat. Zoidberg, Amy, Leela and Fry do their 
 laundry. Zoidberg dumps the basket of washing on a table in front 
-of the others who sit around in their underwear.]
+of the others who sit around in their underwear.</info>
 
-<character>ZOIDBERG</character>
-Bad news, friends. My shell ran.
+<speak who="ZOIDBERG">
+Bad news, friends. My shell ran.</speak>
 
-[He holds up his clothes. They are a funky tie-dye pink.]
+<info>He holds up his clothes. They are a funky tie-dye pink.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Zoidberg, you idiot, my outfit. It's, 
-it's -
+it's -</speak>
 
-<character>LEELA</character>
-Kinda cool.
+<speak who="LEELA">
+Kinda cool.</speak>
 
-<character>FRY</character>
-Yeah, I like it.
+<speak who="FRY">
+Yeah, I like it.</speak>
 
-<character>AMY</character>
-Me too, now that I'm used to it.
+<speak who="AMY">
+Me too, now that I'm used to it.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Then it was all on purpose. You're lucky 
 to have Zoidberg as a friend. But cross 
-me, and I'll turn on you like that.
+me, and I'll turn on you like that.</speak>
 
-[He snaps his fingers and squeals at them.]
+<info>He snaps his fingers and squeals at them.</info>
 
-[Squatter's Corners Civic Audeetorium. Beck and the band play 
+<info>Squatter's Corners Civic Audeetorium. Beck and the band play 
 their gig to some hicks in a barn. They perform Where It's At 
-from the album Odelay.]
+from the album Odelay.</info>
 
-<character>BECK</character>
-(singing) There's a destination a little 
+<speak who="BECK">
+<info>(singing)</info> There's a destination a little 
 up the road
 
 From the habitations and the towns we know
@@ -449,219 +449,218 @@ Two turntables and a microphone
 
 Bottles and cans just clap your hands just clap your hands.
 
-<character>ALL</character>
-(singing) Where it's at!
+</speak><speak who="ALL">
+<info>(singing)</info> Where it's at!</speak>
 
-[Bender scrapes his chest.]
+<info>Bender scrapes his chest.</info>
 
-<character>BENDER</character>
-(electric voice) Got a washboard stomach 
-and a microphone.
+<speak who="BENDER">
+<info>(electric voice)</info> Got a washboard stomach 
+and a microphone.</speak>
 
-[He scrapes his chest.]
+<info>He scrapes his chest.</info>
 
-<character>BECK</character>
-That was a washboard break.
+<speak who="BECK">
+That was a washboard break.</speak>
 
-[The Planet Express foursome cheer.]
+<info>The Planet Express foursome cheer.</info>
 
-<character>FRY</character>
-Oh yeah!
+<speak who="FRY">
+Oh yeah!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Yeah!  One bowl of Jell-O knuckles, 
-please.
+please.</speak>
 
-<character>BARMAN</character>
+<speak who="BARMAN">
 That'll be three pick-e-tures of George 
-Washington.
+Washington.</speak>
 
-[Amy takes some money out of her pocket but it has turned to 
-green gloop.]
+<info>Amy takes some money out of her pocket but it has turned to 
+green gloop.</info>
 
-<character>AMY</character>
-Oh no, my beautiful money.
+<speak who="AMY">
+Oh no, my beautiful money.</speak>
 
-<character>LEELA</character>
-It got ruined in the wash.
+<speak who="LEELA">
+It got ruined in the wash.</speak>
 
-[She and Fry take money out of their pockets.]
+<info>She and Fry take money out of their pockets.</info>
 
-<character>FRY</character>
-Mine too, even my change.
+<speak who="FRY">
+Mine too, even my change.</speak>
 
-<character>BARMAN</character>
-Get lost you money-less hippies!
+<speak who="BARMAN">
+Get lost you money-less hippies!</speak>
 
-[He holds up a picture of nine aliens.]
+<info>He holds up a picture of nine aliens.</info>
 
-[Outside Squater's Corners Civic Audeetorium. After the concert, 
-the band's gear is packed away in the bus.]
+<info>Outside Squater's Corners Civic Audeetorium. After the concert, 
+the band's gear is packed away in the bus.</info>
 
-<character>BECK</character>
+<speak who="BECK">
 Bender, that was the best 40-minute 
 washboard solo I've ever heard. And 
-the parts when I was awake blew my mind.
+the parts when I was awake blew my mind.</speak>
 
-[Bender hears something and turns around and sees some broken 
-robots in some bins, rolling towards a building.]
+<info>Bender hears something and turns around and sees some broken 
+robots in some bins, rolling towards a building.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Whoa, check out all those broken robots. 
-Howdy, fellas!
+Howdy, fellas!</speak>
 
-[He waves.]
+<info>He waves.</info>
 
-<character>ROBOT #1</character>
+<speak who="ROBOT #1">
 I don't believe my broken eyes, it's 
 Bender, the washboard player! Hey man, 
-we caught your concert from here.
+we caught your concert from here.</speak>
 
-<character>ROBOT #2</character>
-You rock!
+<speak who="ROBOT #2">
+You rock!</speak>
 
-<character>FEMBOT</character>
-Oh, oh, Bender! Sign my chest!
+<speak who="FEMBOT">
+Oh, oh, Bender! Sign my chest!</speak>
 
-<character>ROBOT #3</character>
+<speak who="ROBOT #3">
 Yo, brother, thanks for showing us broken 
-robots are still useful.
+robots are still useful.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aw, hang in there, folks. I'll bet before 
 you know it, you guys'll be -  That 
 is so wrong. They can't just melt down 
 broken robots. Not right when they're 
-kissing my ass.
+kissing my ass.</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 Whoa, dog. Just cold chill.  You know, 
 when I'm upset, I write a song about 
 it. Like when I wrote Devil's Haircut, 
 I was feeling really...what's that song 
-about?
+about?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, yeah, I could write a song! With 
-real words, not phony ones like "odelay".
+real words, not phony ones like "odelay".</speak>
 
-<character>BECK</character>
-"Odelay" is a word. Just look it up 
-in the Becktionary.
+<speak who="BECK">"Odelay" is a word. Just look it up 
+in the Becktionary.</speak>
 
-[He holds the Webster's Abridged Becktionary (From Bzooty to 
-Whiskeyclone).]
+<info>He holds the Webster's Abridged Becktionary (From Bzooty to 
+Whiskeyclone).</info>
 
-<character>BENDER</character>
-Ooh!
+<speak who="BENDER">
+Ooh!</speak>
 
-[Beck's Bus. The bus drives down a desert road with the VW behind 
-it. Inside, Beck lies on a settee while Bender and writes.]
+<info>Beck's Bus. The bus drives down a desert road with the VW behind 
+it. Inside, Beck lies on a settee while Bender and writes.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm working on my song. Hand me the 
-Becktionary.  No, no, the rhyming Becktionary.
+Becktionary.  No, no, the rhyming Becktionary.</speak>
 
-[Beck sighs.]
+<info>Beck sighs.</info>
 
-<character>BECK</character>
+<speak who="BECK">
 I wish I could help raise awareness 
 about broken robots. But what can I 
-do? I only weigh eight pounds.
+do? I only weigh eight pounds.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Wait a minute, you know lots of rock 
 stars, and most of them like to look 
-as though they care about things!
+as though they care about things!</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 We can all get together for a big benefit 
-concert in San Francisco!
+concert in San Francisco!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And we could call it "Bend-Aid", after 
-me, Bender!
+me, Bender!</speak>
 
-<character>BECK</character>
-And you can sing that song you're writing!
+<speak who="BECK">
+And you can sing that song you're writing!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And I'll let you sing backup! But remember 
-who the star is. Me: Bender.
+who the star is. Me: Bender.</speak>
 
-[Montage The bus passes through several more states as Bender 
+<info>Montage The bus passes through several more states as Bender 
 tries to come up with a song. He dabs his eyes with a tissue 
 as he reads the song. At another concert, Fry, Zoidberg, Amy 
 and Leela rummage through dustbins for food. Fry finds a hotdog 
 with mustard and flies and holds it up to the others. Zoidberg 
 cuts it up into four pieces and they eat it. They arrive in San 
-Francisco at dusk.]
+Francisco at dusk.</info>
 
-[Sir Francis Drake Hotel. Bender sits on a bed in his hotel room, 
-writing his song.]
+<info>Sir Francis Drake Hotel. Bender sits on a bed in his hotel room, 
+writing his song.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Alright. "Hands in the air" rhymes with 
 "Just don't care" and...finished!  Eck! 
-Smells like something died in the wall!
+Smells like something died in the wall!</speak>
 
-[Fry, Leela, Zoidberg and Amy walk in.]
+<info>Fry, Leela, Zoidberg and Amy walk in.</info>
 
-<character>FRY</character>
-Surprise!
+<speak who="FRY">
+Surprise!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Mind if we crash here tonight? The colours 
-in the van are keeping us awake.
+in the van are keeping us awake.</speak>
 
-<character>BENDER</character>
-Alright, but hands off the minibar.
+<speak who="BENDER">
+Alright, but hands off the minibar.</speak>
 
-[He closes his chest cabinet which has the minibar in it. Fry 
-looks at the <character>TV</character>.]
+<info>He closes his chest cabinet which has the minibar in it. Fry 
+looks at the TV.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wow, I forgot about <character>TV</character>. Living free 
 on the road, you realise how much better 
 life is without it. Well, let's see 
-what's on.
+what's on.</speak>
 
-[He turns it. An advertisment comes on and shows a band playing 
-on stage.]
+<info>He turns it. An advertisment comes on and shows a band playing 
+on stage.</info>
 
-<character>ANNOUNCER #1</character>
-(voice-over; on TV) Tuesday, Golden 
+<speak who="ANNOUNCER #1">
+<info>(voice-over; on TV)</info> Tuesday, Golden 
 Gate Park, the monsters of vaguely folkish 
 alterna-rock will strum your brains 
 out at Bend-Aid! Featuring Beck, Wailing 
-Fungus and special guest, Bender!
+Fungus and special guest, Bender!</speak>
 
-<character>ANNOUNCER #2</character>
-(voice-over; on TV) A portion of the 
-proceeds might go to help broken robots.
+<speak who="ANNOUNCER #2">
+<info>(voice-over; on TV)</info> A portion of the 
+proceeds might go to help broken robots.</speak>
 
-[Everyone cheers.]
+<info>Everyone cheers.</info>
 
-<character>FRY</character>
-Yeah!
+<speak who="FRY">
+Yeah!</speak>
 
-<character>ZOIDBERG</character>
-Hooray, robot!
+<speak who="ZOIDBERG">
+Hooray, robot!</speak>
 
-<character>AMY</character>
-Bender, you're famous!
+<speak who="AMY">
+Bender, you're famous!</speak>
 
-[Bender wipes away a tear.]
+<info>Bender wipes away a tear.</info>
 
-<character>BENDER</character>
-Yeah.
+<speak who="BENDER">
+Yeah.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 This coming together of superstars really 
-means a lot to you, doesn't it, Bender?
+means a lot to you, doesn't it, Bender?</speak>
 
-<character>BENDER</character>
-(crying) Uh-huh. Helping my defective 
+<speak who="BENDER">
+<info>(crying)</info> Uh-huh. Helping my defective 
 brothers is the first thing I've ever 
 cared about, even the slightest bit. 
 You know, when I first got broken, I 
@@ -670,555 +669,555 @@ me now. I've got fame, money, groupies,
 and it's all thanks to being completely 
 immobolised.  That's why I'll be proud 
 to go up on stage, tomorrow, and say, 
-"Look at me, world, I am a broken robot!".
+"Look at me, world, I am a broken robot!".</speak>
 
-<character>FRY</character>
-Bender, you can move! You're cured!
+<speak who="FRY">
+Bender, you can move! You're cured!</speak>
 
-[Bender looks at himself in a mirror.]
+<info>Bender looks at himself in a mirror.</info>
 
-<character>BENDER</character>
-Oh crap, it's a miracle.
+<speak who="BENDER">
+Oh crap, it's a miracle.</speak>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>BENDER</character>
-I can move again. (crying) My music 
-career is over.
+<speak who="BENDER">
+I can move again. <info>(crying)</info> My music 
+career is over.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Bender, I don't claim to understand 
 "the biz" but wouldn't being able to 
-move help your music career?
+move help your music career?</speak>
 
-<character>BENDER</character>
-(crying) No, don't you see? I was a 
+<speak who="BENDER">
+<info>(crying)</info> No, don't you see? I was a 
 hero to broken robots 'cause I was one 
 of them. But how can I sing about being 
 damaged if I'm not? That's like Christina 
 Aguilera singing in Spanish.  Wait, 
-that's it. I'll fake it!
+that's it. I'll fake it!</speak>
 
-[San Francisco Street. Fry drives the van down the winding streets, 
-with a cloud of exhaust following it.]
+<info>San Francisco Street. Fry drives the van down the winding streets, 
+with a cloud of exhaust following it.</info>
 
-[Cut to: <character>VW</character>. Zoidberg coughs and hawks into a tissue.]
+<info>Cut to: VW. Zoidberg coughs and hawks into a tissue.</info>
 
-<character>AMY</character>
-You'd better not do that at the concert.
+<speak who="AMY">
+You'd better not do that at the concert.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 I can't stop. When I eat too much dirt, 
-I get stuff in my throat.
+I get stuff in my throat.</speak>
 
-[He hawks and spits into the tissue.]
+<info>He hawks and spits into the tissue.</info>
 
-<character>AMY</character>
-You are so disgusting, I -
+<speak who="AMY">
+You are so disgusting, I -</speak>
 
-[She gasps. Zoidberg has spit up blue pearls. Leela takes a handful.]
+<info>She gasps. Zoidberg has spit up blue pearls. Leela takes a handful.</info>
 
-<character>LEELA</character>
-They're beautiful.
+<speak who="LEELA">
+They're beautiful.</speak>
 
-<character>ZOIDBERG</character>
-Eww, you're touching them.
+<speak who="ZOIDBERG">
+Eww, you're touching them.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 I've never seen pearls like this. Dr. 
-Zoidberg, you're amazing.
+Zoidberg, you're amazing.</speak>
 
-<character>ZOIDBERG</character>
-I am? At last! Recognition!
+<speak who="ZOIDBERG">
+I am? At last! Recognition!</speak>
 
-[He spits up some more into Amy and Leela's hands.]
+<info>He spits up some more into Amy and Leela's hands.</info>
 
-[Golden Gate Park. Hundreds of hippies and broken robots have 
-turned out for Bend-Aid.]
+<info>Golden Gate Park. Hundreds of hippies and broken robots have 
+turned out for Bend-Aid.</info>
 
-<character>EMCEE</character>
+<speak who="EMCEE">
 Gentle-hippies, put your filthy hands 
 together for the folk stylings of Cylon 
-and Garfunkel!
+and Garfunkel!</speak>
 
-[A robot with a guitar and man who looks like Art Garfunkel walk 
-onto the stage.]
+<info>A robot with a guitar and man who looks like Art Garfunkel walk 
+onto the stage.</info>
 
-<character>GARFUNKEL</character>
+<speak who="GARFUNKEL">
 Here's a song that was beautiful when 
-it was performed by my ancestor, Art.
+it was performed by my ancestor, Art.</speak>
 
-[He starts to sing Scarborough Fair.]
+<info>He starts to sing Scarborough Fair.</info>
 
-(singing) Are you going to Scarborough Fair?
+<info>(singing)</info> Are you going to Scarborough Fair?
 
-[Cylon cuts in with a mechanical voice.]
+<info>Cylon cuts in with a mechanical voice.</info>
 
-<character>CYLON AND GARFUNKEL</character>
-(singing) Parsley, sage, rosemary and 
-thyme.
+<speak who="CYLON AND GARFUNKEL">
+<info>(singing)</info> Parsley, sage, rosemary and 
+thyme.</speak>
 
-<character>GARFUNKEL</character>
-(singing) Remember me to one who loves 
-there,
+<speak who="GARFUNKEL">
+<info>(singing)</info> Remember me to one who loves 
+there,</speak>
 
-<character>CYLON AND GARFUNKEL</character>
-(singing) She once was a true love of 
-mine.
+<speak who="CYLON AND GARFUNKEL">
+<info>(singing)</info> She once was a true love of 
+mine.</speak>
 
-[The VW pulls up behind the crowd and the crew get out. They 
-look around and the hippies sitting and lying on the grass.]
+<info>The VW pulls up behind the crowd and the crew get out. They 
+look around and the hippies sitting and lying on the grass.</info>
 
-<character>LEELA</character>
-We're home.
+<speak who="LEELA">
+We're home.</speak>
 
-<character>AMY</character>
-Well, let's earn some bread.
+<speak who="AMY">
+Well, let's earn some bread.</speak>
 
-[Time Lapse. Amy puts a sign on the window that says "Genuine 
+<info>Time Lapse. Amy puts a sign on the window that says "Genuine 
 Love Beads, $5.00". Fry and Leela are holding some of Zoidberg's 
-pearls that have been strung together.]
+pearls that have been strung together.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Brothers and sisters, get your love 
 beads. Can't journey to the centre of 
-your mind without love beads!
+your mind without love beads!</speak>
 
-[Hippies gather around the van.]
+<info>Hippies gather around the van.</info>
 
-<character>HIPPIE #1</character>
+<speak who="HIPPIE #1">
 Wow, look at these colours. These'll 
-go great with my soul.
+go great with my soul.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Glad you like them. I've been making 
-fine jewellery for years, apparently.
+fine jewellery for years, apparently.</speak>
 
-<character>HIPPIE #2</character>
-I'll take three.
+<speak who="HIPPIE #2">
+I'll take three.</speak>
 
-<character>HIPPIE #3</character>
-Give me one, man!
+<speak who="HIPPIE #3">
+Give me one, man!</speak>
 
-<character>HIPPIE #4</character>
-I'll trade you a bad poem!
+<speak who="HIPPIE #4">
+I'll trade you a bad poem!</speak>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>EMCEE</character>
+<speak who="EMCEE">
 And now, stand up and turn on your 
 hidden tape recorders for...Beck! With 
-special guest, Bender the broken robot.
+special guest, Bender the broken robot.</speak>
 
-[The stage curtain lifts and Bender and Beck are lowered from 
+<info>The stage curtain lifts and Bender and Beck are lowered from 
 the ceiling. Broken robots in the audience cheer and the band 
-plays Sexx Laws from the album Midnite Vultures.]
+plays Sexx Laws from the album Midnite Vultures.</info>
 
-<character>FRY</character>
-(shouting) Bender rules!
+<speak who="FRY">
+<info>(shouting)</info> Bender rules!</speak>
 
-<character>HIPPIE #5</character>
-Groove on, man!
+<speak who="HIPPIE #5">
+Groove on, man!</speak>
 
-<character>LEELA</character>
-Rock it, Bender!
+<speak who="LEELA">
+Rock it, Bender!</speak>
 
-<character>ZOIDBERG</character>
-Play that thing!
+<speak who="ZOIDBERG">
+Play that thing!</speak>
 
-[Bender and Beck hit the stage and liquid spills out of Beck's 
-jar.]
+<info>Bender and Beck hit the stage and liquid spills out of Beck's 
+jar.</info>
 
-<character>BECK</character>
-(shouting) Can't you hear those cavalry 
+<speak who="BECK">
+<info>(shouting)</info> Can't you hear those cavalry 
 drums
 
 Hijacking your equilibrium...
 
-<character>BENDER</character>
-Whoa-oh, yeah!
+</speak><speak who="BENDER">
+Whoa-oh, yeah!</speak>
 
-<character>BECK</character>
-(shouting) ...Midnight hags in the mausoleum...
+<speak who="BECK">
+<info>(shouting)</info> ...Midnight hags in the mausoleum...</speak>
 
-[Time Lapse. Day has turned to dusk, the crowd has thinned and 
+<info>Time Lapse. Day has turned to dusk, the crowd has thinned and 
 the band is still playing the same song. Bender scrapes his chest 
-and the song ends. The crowd cheers.]
+and the song ends. The crowd cheers.</info>
 
-<character>BECK</character>
+<speak who="BECK">
 Thank you. That song doesn't usually 
 last three hours, but we got into a 
 serious thing...and then I forgot how 
 it ended. Anyway, one last item of business 
-before we go.
+before we go.</speak>
 
-[Cylon and Garfunkel walk onto the stage with a big cheque.]
+<info>Cylon and Garfunkel walk onto the stage with a big cheque.</info>
 
-<character>GARFUNKEL</character>
+<speak who="GARFUNKEL">
 Bender, to start your foundation for 
 broken robots, here's a big cardboard 
-cheque for $14,000.
+cheque for $14,000.</speak>
 
-<character>CYLON</character>
-It's been an emotional day for me.
+<speak who="CYLON">
+It's been an emotional day for me.</speak>
 
-[They prop it up next to Bender, who starts to cry.]
+<info>They prop it up next to Bender, who starts to cry.</info>
 
-<character>BENDER</character>
-(crying) I don't know what to say.
+<speak who="BENDER">
+<info>(crying)</info> I don't know what to say.</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 Then maybe you should sing it. Lay it 
-down boys.
+down boys.</speak>
 
-[The band starts to play Bender's song and the lights dim.]
+<info>The band starts to play Bender's song and the lights dim.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ladies, gentlemen, smoking heaps of 
 machinery......this is a song called 
-My Broken Friend.
+My Broken Friend.</speak>
 
-[The crowd cheers.]
+<info>The crowd cheers.</info>
 
-(singing) People say my broken friend is useless
+<info>(singing)</info> People say my broken friend is useless
 
 But I say his mind is free
 
 There's lots of things my mangled robot friend could be
 
-<character>BECK</character>
-Kick it!
+<speak who="BECK">
+Kick it!</speak>
 
-<character>BENDER</character>
-(singing) He could make a good...
+<speak who="BENDER">
+<info>(singing)</info> He could make a good...</speak>
 
-<character>BENDER AND BECK</character>
-(singing) ...hatrack
+<speak who="BENDER AND BECK">
+<info>(singing)</info> ...hatrack</speak>
 
-<character>BECK</character>
-(singing) He only has to stand there
+<speak who="BECK">
+<info>(singing)</info> He only has to stand there</speak>
 
-<character>BENDER</character>
-(singing) Or a cheap...
+<speak who="BENDER">
+<info>(singing)</info> Or a cheap...</speak>
 
-<character>BENDER AND BECK</character>
-(singing) ...doorstop
+<speak who="BENDER AND BECK">
+<info>(singing)</info> ...doorstop</speak>
 
-<character>BECK</character>
-(singing) He doesn't need to move
+<speak who="BECK">
+<info>(singing)</info> He doesn't need to move</speak>
 
-<character>BENDER</character>
-(singing) Or a great big...
+<speak who="BENDER">
+<info>(singing)</info> Or a great big...</speak>
 
-<character>BENDER AND BECK</character>
-(singing) ...giant Thermos
+<speak who="BENDER AND BECK">
+<info>(singing)</info> ...giant Thermos</speak>
 
-<character>BENDER</character>
-(singing) With a twist-off top
+<speak who="BENDER">
+<info>(singing)</info> With a twist-off top</speak>
 
-<character>BECK</character>
-(singing) That would be good for soup
+<speak who="BECK">
+<info>(singing)</info> That would be good for soup</speak>
 
-<character>BENDER</character>
-(singing) He could be a storage closet...
+<speak who="BENDER">
+<info>(singing)</info> He could be a storage closet...</speak>
 
-<character>BENDER AND BECK</character>
-(singing) ...For outdated pants
+<speak who="BENDER AND BECK">
+<info>(singing)</info> ...For outdated pants</speak>
 
-<character>BECK</character>
-I like 'em tight!
+<speak who="BECK">
+I like 'em tight!</speak>
 
-<character>BENDER</character>
-(singing) My broken friend could do 
-it all...
+<speak who="BENDER">
+<info>(singing)</info> My broken friend could do 
+it all...</speak>
 
-<character>BENDER AND BECK</character>
-(singing) ...Just give him a chance!
+<speak who="BENDER AND BECK">
+<info>(singing)</info> ...Just give him a chance!</speak>
 
-<character>BENDER</character>
-(singing) That robot has a tragic secret
+<speak who="BENDER">
+<info>(singing)</info> That robot has a tragic secret
 
 That I'd like to share...
 
-<character>BECK</character>
-For real?
+</speak><speak who="BECK">
+For real?</speak>
 
-<character>BENDER</character>
-(singing) ...My broken friend is closer 
+<speak who="BENDER">
+<info>(singing)</info> ...My broken friend is closer 
 to me
 
 Than an ass to a chair...
 
-<character>BECK</character>
-Hm.
+</speak><speak who="BECK">
+Hm.</speak>
 
-<character>BENDER</character>
-(singing) ...That robot's name I never 
-told you...
+<speak who="BENDER">
+<info>(singing)</info> ...That robot's name I never 
+told you...</speak>
 
-<character>BECK</character>
-Who's that?
+<speak who="BECK">
+Who's that?</speak>
 
-<character>BENDER</character>
-(singing) ...You could not foresee...
+<speak who="BENDER">
+<info>(singing)</info> ...You could not foresee...</speak>
 
-<character>BECK</character>
-C'mon, give it up.
+<speak who="BECK">
+C'mon, give it up.</speak>
 
-<character>BENDER</character>
-(singing) ...I'll say it loud and sing 
-it proud...
+<speak who="BENDER">
+<info>(singing)</info> ...I'll say it loud and sing 
+it proud...</speak>
 
-<character>BENDER AND BECK</character>
-(singing) His name is you and me.
+<speak who="BENDER AND BECK">
+<info>(singing)</info> His name is you and me.</speak>
 
-[Bender starts dancing.]
+<info>Bender starts dancing.</info>
 
-<character>BENDER</character>
-(singing) Don't melt me down into a 
-crowbar
+<speak who="BENDER">
+<info>(singing)</info> Don't melt me down into a 
+crowbar</speak>
 
-<character>BECK</character>
-(singing) It suffers alone
+<speak who="BECK">
+<info>(singing)</info> It suffers alone</speak>
 
-<character>BENDER</character>
-(singing) Just 'cause I can't move my 
-arms and legs
+<speak who="BENDER">
+<info>(singing)</info> Just 'cause I can't move my 
+arms and legs</speak>
 
-<character>BECK</character>
-Hey.
+<speak who="BECK">
+Hey.</speak>
 
-[The robots look around and Bender flails his arms and legs around.]
+<info>The robots look around and Bender flails his arms and legs around.</info>
 
-<character>BENDER</character>
-(singing) Or toss me into a trash can...
+<speak who="BENDER">
+<info>(singing)</info> Or toss me into a trash can...</speak>
 
-<character>BECK</character>
-Bender, what are you doing?
+<speak who="BECK">
+Bender, what are you doing?</speak>
 
-<character>BENDER</character>
-(singing) ...Just 'cause I can't cook 
-you ham and eggs...
+<speak who="BENDER">
+<info>(singing)</info> ...Just 'cause I can't cook 
+you ham and eggs...</speak>
 
-<character>BECK</character>
-What are you doing?
+<speak who="BECK">
+What are you doing?</speak>
 
-<character>BENDER</character>
-(singing) ...Don't crush me into an 
-anchor...
+<speak who="BENDER">
+<info>(singing)</info> ...Don't crush me into an 
+anchor...</speak>
 
-<character>BECK</character>
-What's the dealy-o?
+<speak who="BECK">
+What's the dealy-o?</speak>
 
-<character>BENDER</character>
-(singing) ...Just 'cause I can't jump 
-and dance and sing...
+<speak who="BENDER">
+<info>(singing)</info> ...Just 'cause I can't jump 
+and dance and sing...</speak>
 
-<character>BECK</character>
-Hold it! What? No!
+<speak who="BECK">
+Hold it! What? No!</speak>
 
-<character>BENDER</character>
-(singing) ...I'm telling you, my broken 
-friend...
+<speak who="BENDER">
+<info>(singing)</info> ...I'm telling you, my broken 
+friend...</speak>
 
-<character>BECK</character>
-B-Bender.
+<speak who="BECK">
+B-Bender.</speak>
 
-<character>BENDER</character>
-(singing) ...Put your hands in the air 
-like you just don't care!
+<speak who="BENDER">
+<info>(singing)</info> ...Put your hands in the air 
+like you just don't care!</speak>
 
-<character>BECK</character>
-No!
+<speak who="BECK">
+No!</speak>
 
-[Bender bounds off across the stage.]
+<info>Bender bounds off across the stage.</info>
 
-<character>BENDER</character>
-(singing) I'm telling you, my broken 
-friend...
+<speak who="BENDER">
+<info>(singing)</info> I'm telling you, my broken 
+friend...</speak>
 
-<character>BECK</character>
-Cut it!
+<speak who="BECK">
+Cut it!</speak>
 
-<character>BENDER</character>
-(singing) ...Can do 'most anything!
+<speak who="BENDER">
+<info>(singing)</info> ...Can do 'most anything!</speak>
 
-[He slides across the stage on his knees.]
+<info>He slides across the stage on his knees.</info>
 
-<character>BECK</character>
-Cut it!
+<speak who="BECK">
+Cut it!</speak>
 
-<character>BENDER</character>
-Yeah!
+<speak who="BENDER">
+Yeah!</speak>
 
-<character>BECK</character>
-Cut it!
+<speak who="BECK">
+Cut it!</speak>
 
-[The crowds shouts and boos. Bender's harmonica holder falls 
-off. He looks at himself.]
+<info>The crowds shouts and boos. Bender's harmonica holder falls 
+off. He looks at himself.</info>
 
-<character>BENDER</character>
-Curse my natural showmanship!
+<speak who="BENDER">
+Curse my natural showmanship!</speak>
 
-<character>ROBOT #1</character>
-(shouting) You big fat fraud! You're 
-not really broken!
+<speak who="ROBOT #1">
+<info>(shouting)</info> You big fat fraud! You're 
+not really broken!</speak>
 
-<character>ROBOT #2</character>
-(shouting) But you will be in a minute! 
-Bum-rush the stage!
+<speak who="ROBOT #2">
+<info>(shouting)</info> But you will be in a minute! 
+Bum-rush the stage!</speak>
 
-[The broken robots crawl and hobble towards Bender. Bender backs 
-away.]
+<info>The broken robots crawl and hobble towards Bender. Bender backs 
+away.</info>
 
-<character>ROBOT #3</character>
-Get him!
+<speak who="ROBOT #3">
+Get him!</speak>
 
-[Bender folds the cheque away into his chest cabinet, grabs a 
+<info>Bender folds the cheque away into his chest cabinet, grabs a 
 rope and swings over the crowd, screaming like Tarzan. He flies 
-towards the <character>VW</character>.]
+towards the VW.</info>
 
-[Cut to: <character>VW</character>. He flies through sunroof, slams his head against 
+<info>Cut to: VW. He flies through sunroof, slams his head against 
 it and lands in the driver's seat. He shifts it into gear and 
-speeds off in a cloud of smoke. The others hang on.]
+speeds off in a cloud of smoke. The others hang on.</info>
 
-[Cut to: Golden Gate Park.]
+<info>Cut to: Golden Gate Park.</info>
 
-<character>HIPPIE #6</character>
-Oh harsh, I didn't get my beads.
+<speak who="HIPPIE #6">
+Oh harsh, I didn't get my beads.</speak>
 
-[Zoidberg coughs and beads rain down on the hippies. Beck watches 
-from the stage.]
+<info>Zoidberg coughs and beads rain down on the hippies. Beck watches 
+from the stage.</info>
 
-<character>BECK</character>
+<speak who="BECK">
 You, minion, lift up my arm.  After 
-him!
+him!</speak>
 
-[His bus pulls up and he gets on with Cylon and Garfunkel, the 
+<info>His bus pulls up and he gets on with Cylon and Garfunkel, the 
 heads of Neil Young and Joni Mitchell, and Wailing Fungus. The 
 bus ploughs through a crowd and a chase sequence lifted from 
-Bullit begins.]
+Bullit begins.</info>
 
-[San Francisco Street. The VW flies down the road, pursued by 
-Beck's bus.]
+<info>San Francisco Street. The VW flies down the road, pursued by 
+Beck's bus.</info>
 
-[Cut to: <character>VW</character>. Bender looks in the rear-view mirror.]
+<info>Cut to: VW. Bender looks in the rear-view mirror.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well everyone, prepare to get your guts 
-kicked out by folk singers.
+kicked out by folk singers.</speak>
 
-[Cut to: San Francisco Street. The buses drive past a green VW 
-Beetle once, twice, three times, four times...]
+<info>Cut to: San Francisco Street. The buses drive past a green VW 
+Beetle once, twice, three times, four times...</info>
 
-[Cut to: Chinatown. A Chinese street parade is interrupted as 
+<info>Cut to: Chinatown. A Chinese street parade is interrupted as 
 the buses drive past, blowing the Chinese dragon off a caterpillar-like 
-alien.]
+alien.</info>
 
-<character>CATERPILLAR ALIEN</character>
-What is this? The Year of the Jerk?
+<speak who="CATERPILLAR ALIEN">
+What is this? The Year of the Jerk?</speak>
 
-[The VW rounds another corner, carving up another green Beetle.]
+<info>The VW rounds another corner, carving up another green Beetle.</info>
 
-[Cut to: <character>VW</character>.]
+<info>Cut to: VW.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hurry, the Golden Gate Bridge. Put the 
-metal to the pedal to the other metal.
+metal to the pedal to the other metal.</speak>
 
-[Bender floors it. Beck's bus gets closer and bumps them. They 
-scream. The bus passes a sign that reads "Golden Gate Hoverbridge".]
+<info>Bender floors it. Beck's bus gets closer and bumps them. They 
+scream. The bus passes a sign that reads "Golden Gate Hoverbridge".</info>
 
-<character>BENDER</character>
-Oh no, I forgot this is a hoverbridge.
+<speak who="BENDER">
+Oh no, I forgot this is a hoverbridge.</speak>
 
-<character>LEELA</character>
-And I forgot this isn't a hovercar.
+<speak who="LEELA">
+And I forgot this isn't a hovercar.</speak>
 
-<character>FRY</character>
-Is any of that a problem?
+<speak who="FRY">
+Is any of that a problem?</speak>
 
-<character>ZOIDBERG</character>
-Not if you've lived a life without regret.
+<speak who="ZOIDBERG">
+Not if you've lived a life without regret.</speak>
 
-[He screams. The VW flies off the edge of the road and plummets 
-to the ground below.]
+<info>He screams. The VW flies off the edge of the road and plummets 
+to the ground below.</info>
 
-<character>BENDER</character>
-I'll save me!
+<speak who="BENDER">
+I'll save me!</speak>
 
-[He leans out of the window and grabs a cable.]
+<info>He leans out of the window and grabs a cable.</info>
 
-<character>LEELA</character>
-Quick, grab his footcups.
+<speak who="LEELA">
+Quick, grab his footcups.</speak>
 
-[They all grab Bender's feet.]
+<info>They all grab Bender's feet.</info>
 
-<character>BENDER</character>
-Hey? What? No.
+<speak who="BENDER">
+Hey? What? No.</speak>
 
-[The VW lands softly on a rocky outcrop by the water. Bender 
-has pulled the wire and it is very tense.]
+<info>The VW lands softly on a rocky outcrop by the water. Bender 
+has pulled the wire and it is very tense.</info>
 
-<character>FRY</character>
-Phew!
+<speak who="FRY">
+Phew!</speak>
 
-[They all let go of Bender and the tense wire launches him into 
-the air. The gang watch him fly off. Leela shrugs.]
+<info>They all let go of Bender and the tense wire launches him into 
+the air. The gang watch him fly off. Leela shrugs.</info>
 
-<character>LEELA</character>
-Bummer.
+<speak who="LEELA">
+Bummer.</speak>
 
-[Fisherman's Worf. The fat guy from the Titanic and a thin woman 
+<info>Fisherman's Worf. The fat guy from the Titanic and a thin woman 
 buy some food from Tarty McTang's and hear Bender screaming from 
-above.]
+above.</info>
 
-<character>BENDER</character>
-(shouting) Someone fat get in my way! 
-(talking) Ah, I'm broken again. I can't 
-move any part of me.
+<speak who="BENDER">
+<info>(shouting)</info> Someone fat get in my way! 
+<info>(talking)</info> Ah, I'm broken again. I can't 
+move any part of me.</speak>
 
-<character>BECK</character>
-Good.
+<speak who="BECK">
+Good.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm really sorry I lied, Beck. All I 
 ever wanted was to make music with you. 
 I never meant to hurt anyone, or help 
-anyone.
+anyone.</speak>
 
-<character>BECK</character>
+<speak who="BECK">
 Bender, that's some played-out, new-jack, 
 horsecrap. But I know you don't mean 
-it so, apology accepted.
+it so, apology accepted.</speak>
 
-<character>BENDER</character>
-So, I can, uh, keep the cheque?
+<speak who="BENDER">
+So, I can, uh, keep the cheque?</speak>
 
-<character>GARFUNKEL</character>
-Over my dead career!
+<speak who="GARFUNKEL">
+Over my dead career!</speak>
 
-[He takes the cheque out of Bender's chest cabinet.]
+<info>He takes the cheque out of Bender's chest cabinet.</info>
 
-<character>BENDER</character>
-Well, it was worth a shot.
+<speak who="BENDER">
+Well, it was worth a shot.</speak>
 
-[He gets up and the other three leave.]
+<info>He gets up and the other three leave.</info>
 
-[Time Lapse. The bus flies away and Bender sighs. The VW floats 
+<info>Time Lapse. The bus flies away and Bender sighs. The VW floats 
 past. Fry, Leela, Amy and Zoidberg are paddling up the river 
-in it. A seal sits on the roof.]
+in it. A seal sits on the roof.</info>
 
-<character>FRY</character>
-(shouting) C'mon, Bender. If you're 
-done scamming Beck, we're heading home.
+<speak who="FRY">
+<info>(shouting)</info> C'mon, Bender. If you're 
+done scamming Beck, we're heading home.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Alright, alright. Let me just do one 
-thing to cheer myself up.
+thing to cheer myself up.</speak>
 
-[He takes a magnet from Ye Olde Tourist Trappe and puts it on 
-his head. His pupils go wild and he starts to sing.]
+<info>He takes a magnet from Ye Olde Tourist Trappe and puts it on 
+his head. His pupils go wild and he starts to sing.</info>
 
 Fry cracked corn
 
@@ -1234,6 +1233,6 @@ And he is great!
 
 Take that you stupid corn!
 
-[He wades out into the water to the <character>VW</character>.]
+<info>He wades out into the water to the VW.</info>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

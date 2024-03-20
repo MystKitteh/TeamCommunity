@@ -1,1091 +1,1091 @@
 <xml>
-<episodeInfo><character>FUTURAMA</character>
+<episodeInfo>FUTURAMA
 
 Episode 407
 
-<title>A <character>PHARAOH TO REMEMBER</character></title>
+<title>A PHARAOH TO REMEMBER</title>
 
 <author>Ron Weiner</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Psst...Big Party At Your House After 
-The Show.]
+<info>Opening Credits. Caption: Psst...Big Party At Your House After 
+The Show.</info>
 
-[Planet Express: Lounge. Hermes, Bender, Leela, Fry, Scruffy 
-and Amy are gathered around watching the <character>TV</character>.]
+<info>Planet Express: Lounge. Hermes, Bender, Leela, Fry, Scruffy 
+and Amy are gathered around watching the TV.</info>
 
-<character>LINDA </character>[ON TV]
+<speak who="LINDA"><info>ON TV</info>
 Up next, daring daylight robbery at 
-a municipal swimming pool.
+a municipal swimming pool.</speak>
 
-<character>BENDER</character>
-Ooo! This is it! Turn me up!
+<speak who="BENDER">
+Ooo! This is it! Turn me up!</speak>
 
-[Leela uses the remote to change Bender's volume control to maximum.]
+<info>Leela uses the remote to change Bender's volume control to maximum.</info>
 
-<character>LINDA </character>[ON TV]
+<speak who="LINDA"><info>ON TV</info>
 Earlier today a foul mouthed bandit 
 robbed the municipal pool, making off 
-with the contents of over three lockers.
+with the contents of over three lockers.</speak>
 
-<character>BENDER</character>
-More like three lockers and a sink!
+<speak who="BENDER">
+More like three lockers and a sink!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender? Did you have something to do 
-with this?
+with this?</speak>
 
-[Hermes notices something Bender is wearing.]
+<info>Hermes notices something Bender is wearing.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Holy spitz! He's sportin' skintight 
-speedos!
+speedos!</speak>
 
-<character>AMY</character>
-They don't leave much to the imagination.
+<speak who="AMY">
+They don't leave much to the imagination.</speak>
 
-<character>HERMES</character>
-Actually on a robot they sorta do.
+<speak who="HERMES">
+Actually on a robot they sorta do.</speak>
 
-<character>MORBO </character>[ON TV]
-One puny human got a look at the robber...
+<speak who="MORBO"><info>ON TV</info>
+One puny human got a look at the robber...</speak>
 
-[Bender leans forward and rubs his hands together.]
+<info>Bender leans forward and rubs his hands together.</info>
 
-<character>BENDER</character>
-Here we go here we go!
+<speak who="BENDER">
+Here we go here we go!</speak>
 
-<character>MORBO </character>[ON TV]
+<speak who="MORBO"><info>ON TV</info>
 ...describing him as a short, nasty, 
-muscular...
+muscular...</speak>
 
-<character>BENDER</character>
-Yeah make me famous big head!
+<speak who="BENDER">
+Yeah make me famous big head!</speak>
 
-<character>MORBO </character>[ON TV]
-...Caucasian human male.
+<speak who="MORBO"><info>ON TV</info>
+...Caucasian human male.</speak>
 
-[A picture appears on the screen of someone who looks nothing 
-like Bender.]
+<info>A picture appears on the screen of someone who looks nothing 
+like Bender.</info>
 
-<character>BENDER</character>
-What?
+<speak who="BENDER">
+What?</speak>
 
-[He takes Fry's beer bottle and throws it at the <character>TV</character>.]
+<info>He takes Fry's beer bottle and throws it at the TV.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey! Now what am I supposed to watch 
-and drink all day?
+and drink all day?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 This is an outrage. What's the point 
 of pulling the biggest pool caper ever, 
-if nobody knows you did it?
+if nobody knows you did it?</speak>
 
-<character>FRY</character>
-Well there's the material rewards.
+<speak who="FRY">
+Well there's the material rewards.</speak>
 
-<character>BENDER</character>
-You mean this junk?
+<speak who="BENDER">
+You mean this junk?</speak>
 
-[He opens his chest cabinet and water floods out along with a 
-beach ball, a float, a bikini top and a small child.]
+<info>He opens his chest cabinet and water floods out along with a 
+beach ball, a float, a bikini top and a small child.</info>
 
-<character>BOY</character>
-Wheeee!
+<speak who="BOY">
+Wheeee!</speak>
 
-<character>BENDER</character>
-(crying) All I ever wanted was for people 
-to remember my name... (hoarse) it's 
-Bender.
+<speak who="BENDER">
+<info>(crying)</info> All I ever wanted was for people 
+to remember my name... <info>(hoarse)</info> it's 
+Bender.</speak>
 
-[Farnsworth, sat at the table, looks up from a book.]
+<info>Farnsworth, sat at the table, looks up from a book.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh fuff! What's the point in remembering 
 something? You're just going to forget 
-it five seconds later.
+it five seconds later.</speak>
 
-<character>BENDER</character>
-(crying) It's so unfair. A debonair 
+<speak who="BENDER">
+<info>(crying)</info> It's so unfair. A debonair 
 robot with a zesty in-your-face outlook 
 doomed to obscurity like the rest of 
 you especially Leela! If I died tomorrow, 
-no one would even notice.
+no one would even notice.</speak>
 
-[He slides out of the room on the float.]
+<info>He slides out of the room on the float.</info>
 
-<character>SCRUFFY</character>
+<speak who="SCRUFFY">
 Boy, I've never seen him so down - or 
-ever before.
+ever before.</speak>
 
-[Cut to: Street. Bender walks sadly down the busy street.]
+<info>Cut to: Street. Bender walks sadly down the busy street.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 How does a nobody like me get famous? 
 I know!  Hey look! I'm stuck! But I 
 haven't given up hope! Call a soft news 
-journalist!
+journalist!</speak>
 
-<character>WOMAN</character>
-You're not stuck.
+<speak who="WOMAN">
+You're not stuck.</speak>
 
-<character>BENDER</character>
-(sadly) Shut up.
+<speak who="BENDER">
+<info>(sadly)</info> Shut up.</speak>
 
-[Time Lapse. Bender sees a group of roller-skaters ahead of him 
-dancing. Skates come out of his shoes and he starts dancing.]
+<info>Time Lapse. Bender sees a group of roller-skaters ahead of him 
+dancing. Skates come out of his shoes and he starts dancing.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey everyone do The Bender! This move's 
-called The Bender!
+called The Bender!</speak>
 
-[Everyone stops skating.]
+<info>Everyone stops skating.</info>
 
-<character>ROLLER</character>-<character>SKATER</character>
+<speak who="ROLLER">-<character>SKATER</character>
 Yo hotwheels, this circle's about free 
-expression, not fascist moves!
+expression, not fascist moves!</speak>
 
-[He pushes Bender away.]
+<info>He pushes Bender away.</info>
 
-[Time Lapse. Bender comes to the end of the street and sees a 
-white, windowless building ahead of him. He gasps.]
+<info>Time Lapse. Bender comes to the end of the street and sees a 
+white, windowless building ahead of him. He gasps.</info>
 
-<character>BENDER</character>
-A blank wall! Fame is mine!
+<speak who="BENDER">
+A blank wall! Fame is mine!</speak>
 
-[He runs towards the building, takes his head off and shakes 
+<info>He runs towards the building, takes his head off and shakes 
 it like a spray-paint can. His legs extend upwards towards the 
 top of the building and he chuckles as he starts to spray his 
-legacy onto the wall.]
+legacy onto the wall.</info>
 
-[Time Lapse. The next morning Bender stands back and admires 
+<info>Time Lapse. The next morning Bender stands back and admires 
 his work. He has sprayed a huge picture of himself onto the wall 
-along with "Bender Lives Large And Kicks Butt!"]
+along with "Bender Lives Large And Kicks Butt!"</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 There, now no one will forget how I 
-lived or my attitude regarding butt.
+lived or my attitude regarding butt.</speak>
 
-[Behind him a crew of demolition workers arrive.]
+<info>Behind him a crew of demolition workers arrive.</info>
 
-<character>SAL</character>
+<speak who="SAL">
 Alrights ladies let's flush these artists 
-lofts straights to hell!
+lofts straights to hell!</speak>
 
-[He turns a switch and cracks appear in the building.]
+<info>He turns a switch and cracks appear in the building.</info>
 
-<character>BENDER</character>
-(screaming) Nooo!
+<speak who="BENDER">
+<info>(screaming)</info> Nooo!</speak>
 
-[The building collapses and Bender's picture folds inwards � 
+<info>The building collapses and Bender's picture folds inwards � 
 la Mad Magazine fold-ins. The picture of him has turned into 
 a giant butt and the writing reads "Bender Licks Butt." The demolition 
-crew laugh.]
+crew laugh.</info>
 
-[Planet Express: Attic. Bender enters the darkened lit only by 
-light streaming through the window.]
+<info>Planet Express: Attic. Bender enters the darkened lit only by 
+light streaming through the window.</info>
 
-<character>BENDER</character>
-I'm the first one to work. A new low.
+<speak who="BENDER">
+I'm the first one to work. A new low.</speak>
 
-[The lights go on and the crew, dressed in black, jump out from 
-behind the sofa.]
+<info>The lights go on and the crew, dressed in black, jump out from 
+behind the sofa.</info>
 
-<character>ALL</character>
-Surprise!
+<speak who="ALL">
+Surprise!</speak>
 
-[Behind them is a coffin, a wreath, a bannner reding "<character>R</character>.<character>I</character>.P. 
-Bender" and a photo of one of Bender's mug shots.]
+<info>Behind them is a coffin, a wreath, a bannner reding "R.I.P. 
+Bender" and a photo of one of Bender's mug shots.</info>
 
-<character>FRY</character>
-Happy funeral Bender!
+<speak who="FRY">
+Happy funeral Bender!</speak>
 
-[Bender gasps.]
+<info>Bender gasps.</info>
 
-<character>BENDER</character>
-A surprise funeral? For me?
+<speak who="BENDER">
+A surprise funeral? For me?</speak>
 
-[Fry pats him on the shoulder.]
+<info>Fry pats him on the shoulder.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 We just wanted to show you that you 
-really will be remembered.
+really will be remembered.</speak>
 
-[Bender climbs in.]
+<info>Bender climbs in.</info>
 
-<character>BENDER</character>
-Ooo! Cushiony! And a minibar!
+<speak who="BENDER">
+Ooo! Cushiony! And a minibar!</speak>
 
-[Hermes plays a jazzy tune and Fry stands in front of the congregation.]
+<info>Hermes plays a jazzy tune and Fry stands in front of the congregation.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Dearly beloved, we are here today to 
 remember Bender, taken from us in the 
 prime of life, when he was crushed by 
 a runaway semi, driven by the Incredible 
-Hulk.
+Hulk.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aww, you knew my favourite cause of 
-death!
+death!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Now let us each remember the best things 
-about Bender in our own way. Professor?
+about Bender in our own way. Professor?</speak>
 
-[Farnsworth stands up and clears his throat.]
+<info>Farnsworth stands up and clears his throat.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Your standard Bending Unit is made of 
 an iron-osmium alloy. But Bender was 
 different. Bender has a point-04% nickel 
-impurity.
+impurity.</speak>
 
-<character>BENDER</character>
-(crying) It's what made me me.
+<speak who="BENDER">
+<info>(crying)</info> It's what made me me.</speak>
 
-[Hermes stands up and takes Farnsworth's place.]
+<info>Hermes stands up and takes Farnsworth's place.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 If you ever needed a small package brought 
 inot the country without a lot of X-raying 
 and such, Bender always had a free body 
-cavity.
+cavity.</speak>
 
-<character>BENDER</character>
-Eh, the Professor's was better.
+<speak who="BENDER">
+Eh, the Professor's was better.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender shush. You're supposed to be 
-dead.
+dead.</speak>
 
-[Bender sits up.]
+<info>Bender sits up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Say more about how great I am. And where's 
 the crying? You people look like you're 
-waiting for the bus.
+waiting for the bus.</speak>
 
-[He lies back. Zoidberg makes a bagpipe noise with his mouth 
-flaps.]
+<info>He lies back. Zoidberg makes a bagpipe noise with his mouth 
+flaps.</info>
 
-<character>ZOIDBERG</character>
-(singing) Oh Danny-boy! The pipes, the 
-pipes are calling...!
+<speak who="ZOIDBERG">
+<info>(singing)</info> Oh Danny-boy! The pipes, the 
+pipes are calling...!</speak>
 
-[Bender sits up again.]
+<info>Bender sits up again.</info>
 
-<character>BENDER</character>
-Who-y-boy?
+<speak who="BENDER">
+Who-y-boy?</speak>
 
-<character>ZOIDBERG</character>
-(singing) ...From glen to glen and down 
--
+<speak who="ZOIDBERG">
+<info>(singing)</info> ...From glen to glen and down 
+-</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Danny-boy? You're at my funeral, singing 
 about some dead stiff named Danny-boy? 
-You really are a massive bonehead.
+You really are a massive bonehead.</speak>
 
-<character>ZOIDBERG</character>
-I'm expressing my sorrow.
+<speak who="ZOIDBERG">
+I'm expressing my sorrow.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Get lost. I'd say "Don't quit your day 
-job!" but you're awful at that too.
+job!" but you're awful at that too.</speak>
 
-<character>LEELA</character>
-We're trying our best.
+<speak who="LEELA">
+We're trying our best.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Your best is an idiot. Let's pick it 
 up people. So far it's been crap after 
-crap! I croaked now show me some love!
+crap! I croaked now show me some love!</speak>
 
-[He lies down again. Amy stands up.]
+<info>He lies down again. Amy stands up.</info>
 
-<character>AMY</character>
-Bender was a truly special -
+<speak who="AMY">
+Bender was a truly special -</speak>
 
-<character>BENDER</character>
-Louder and sadder.
+<speak who="BENDER">
+Louder and sadder.</speak>
 
-<character>AMY</character>
-(shouting) Bender was a truly special 
--
+<speak who="AMY">
+<info>(shouting)</info> Bender was a truly special 
+-</speak>
 
-<character>BENDER</character>
-Next!
+<speak who="BENDER">
+Next!</speak>
 
-[Amy walks away crying. Preacherbot takes her place.]
+<info>Amy walks away crying. Preacherbot takes her place.</info>
 
-<character>PREACHERBOT</character>
-Dear Lord -
+<speak who="PREACHERBOT">
+Dear Lord -</speak>
 
-<character>BENDER</character>
-Oh next!
+<speak who="BENDER">
+Oh next!</speak>
 
-<character>ZOIDBERG</character>
-(singing) Oh Danny-boy!
+<speak who="ZOIDBERG">
+<info>(singing)</info> Oh Danny-boy!</speak>
 
-[Bender throws his glass at him. It breaks on his head and Zoidberg 
-cries out in pain. Bender sits up.]
+<info>Bender throws his glass at him. It breaks on his head and Zoidberg 
+cries out in pain. Bender sits up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Come on, surely there must be someone 
-here who knows how great I was.
+here who knows how great I was.</speak>
 
-[Fry stands up.]
+<info>Fry stands up.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Yes there is Bender. Bender was a lot 
 of things to a lot of people, but looking 
 back, the number one thing I can say 
 about him is this, and simply this: 
-Bender was my friend.
+Bender was my friend.</speak>
 
-[Bender pauses in horror.]
+<info>Bender pauses in horror.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What? That's it? Who are you? You're 
 nobody! This is the worst funeral ever! 
 I hope you're all happy. You've succeeded 
 in convincing me life is worth living 
 - by showing how bad my funeral will 
-suck.
+suck.</speak>
 
-[He throws some flowers off the coffin and walks out. The flowers 
-land on Farnsworth's lap.]
+<info>He throws some flowers off the coffin and walks out. The flowers 
+land on Farnsworth's lap.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 I know who's funeral we'll be attending 
-next!
+next!</speak>
 
-<character>FARNSWORTH</character>
-(bashful) Oh stop!
+<speak who="FARNSWORTH">
+<info>(bashful)</info> Oh stop!</speak>
 
-[Planet Express: Hangar. Bender sits reading Sullen Robot Magazine 
+<info>Planet Express: Hangar. Bender sits reading Sullen Robot Magazine 
 while Leela uses his hand to tighten a nut on the ship's steps. 
-Enter Farnsworth.]
+Enter Farnsworth.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 News everyone! Today you're going to 
 Osiris 4 to deliver this enourmous sandstone 
-block.
+block.</speak>
 
-[He points to a massive block right next to him that is bigger 
-than the ship.]
+<info>He points to a massive block right next to him that is bigger 
+than the ship.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I thought something looked different 
-in here.
+in here.</speak>
 
-[Bender throws down his magazine, mutters to himself and walks 
-onto the ship.]
+<info>Bender throws down his magazine, mutters to himself and walks 
+onto the ship.</info>
 
-[The ship flies towards Osiris 4 with the sandstone block tied 
-to the top of the ship. It lands in a desert on the planet.]
+<info>The ship flies towards Osiris 4 with the sandstone block tied 
+to the top of the ship. It lands in a desert on the planet.</info>
 
-[Osiris 4 Surface. Leela pulls the ropes away from the block. 
+<info>Osiris 4 Surface. Leela pulls the ropes away from the block. 
 Fry talks to an Osiran and two Egyptian dog-like creatures. The 
 man wears something similar to ancient Egyptian jewellery and 
-his hair looks like it is made of solid gold.]
+his hair looks like it is made of solid gold.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hi, we have a giant stone to deliver 
-- sign here.
+- sign here.</speak>
 
-[He hands the man a clipboard and he signs the invoice with an 
-ancient Egyptian heiroglyph.]
+<info>He hands the man a clipboard and he signs the invoice with an 
+ancient Egyptian heiroglyph.</info>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 Ah, very nice. Much like the 10 million 
 other identical stones used in the future 
-tomb of our great Pharaoh Hermenthotip.
+tomb of our great Pharaoh Hermenthotip.</speak>
 
-[He points to a sandstone building which is under construction.]
+<info>He points to a sandstone building which is under construction.</info>
 
-<character>LEELA</character>
-Impressive, who's building it?
+<speak who="LEELA">
+Impressive, who's building it?</speak>
 
-<character>OSIRAN</character>
-You.
+<speak who="OSIRAN">
+You.</speak>
 
-<character>LEELA</character>
-Say again?
+<speak who="LEELA">
+Say again?</speak>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 You are now slaves of the great Pharaoh 
-Hermenthotip. Guards.
+Hermenthotip. Guards.</speak>
 
-[The guards shackle the crew to a pole and carry them away.]
+<info>The guards shackle the crew to a pole and carry them away.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Call it a hunch but, I've got a bad 
-feeling about this.
+feeling about this.</speak>
 
-[Slave Boat. The slaves row a boat down a river past other slaves. 
-The slaves are shackled to benches.]
+<info>Slave Boat. The slaves row a boat down a river past other slaves. 
+The slaves are shackled to benches.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 You know the worst thing about being 
 a slave? They make you work but they 
-don't pay you or let you go.
+don't pay you or let you go.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's the only thing about being a 
-slave!
+slave!</speak>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 Attention. You are now possessions of 
 the great Pharaoh Hermethotip, heir 
 to the 10th dynasty, bringer of the 
-good aspects of the annual floods.
+good aspects of the annual floods.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Incredible. This place is just like 
-the Ancient Egypt of my day.
+the Ancient Egypt of my day.</speak>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 That is no coincidence. For our people 
 visited your Egypt thousands of years 
-ago.
+ago.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I knew it! Insane theories: one! Regular 
-theories: a billion!
+theories: a billion!</speak>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 We learned many things from the mighty 
 Egyptians, such as pyramid building, 
 space travel and how to prepare our 
-dead so as to scare Abbott and Costello.
+dead so as to scare Abbott and Costello.</speak>
 
-[Fry laughs.]
+<info>Fry laughs.</info>
 
-<character>FRY</character>
-Also Wolfman!
+<speak who="FRY">
+Also Wolfman!</speak>
 
-[Bender whistles, impressed.]
+<info>Bender whistles, impressed.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Look at these swanky tombs! These people 
-really know how to die!
+really know how to die!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Are you crazy? They worked thousands 
 of people to death to make these stupid 
-monuments.
+monuments.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, you spend you're whole life building 
 a guy's toe and you're gonna remember 
-him!  I think I'm gonna like it here!
+him!  I think I'm gonna like it here!</speak>
 
-[Market. Fry, Leela and Bender walk through the market with the 
+<info>Market. Fry, Leela and Bender walk through the market with the 
 Osirian behind them. A man makes an enquiry at a Lose Weight 
-Now - Ask Me How stall.]
+Now - Ask Me How stall.</info>
 
-<character>MAN #1</character>
+<speak who="MAN #1">
 Yeah, I uh, noticed your sign and I 
 thought I'd come over here and look 
-into getting involved in your program.
+into getting involved in your program.</speak>
 
-<character>MAN #2</character>
-What we do is make you starve to death.
+<speak who="MAN #2">
+What we do is make you starve to death.</speak>
 
-[Outside Hermenthotip's Tomb. The slaves pulls the giant sandstone 
-block.]
+<info>Outside Hermenthotip's Tomb. The slaves pulls the giant sandstone 
+block.</info>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 One two three - pull!  One two three 
-- pull!
+- pull!</speak>
 
-[He whips them again. The Australian man from the Spa 5 labour 
-camp is with them.]
+<info>He whips them again. The Australian man from the Spa 5 labour 
+camp is with them.</info>
 
-<character>AUSTRALIAN GUY</character>
-Aw, bloody chunder!
+<speak who="AUSTRALIAN GUY">
+Aw, bloody chunder!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Pick it up people, we're enslaved here 
 to do a job. Master? Do we have to count 
 to three every time? Couldn't we just 
-count to one. Or better yet one half?
+count to one. Or better yet one half?</speak>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 Good idea slave.  One half - pull!  
-One half - pull!
+One half - pull!</speak>
 
-[He whips them.]
+<info>He whips them.</info>
 
-<character>BENDER</character>
-Now we're slavin'!
+<speak who="BENDER">
+Now we're slavin'!</speak>
 
-[Time Lapse. Fry pushes a block up the side of the tomb and Leela 
+<info>Time Lapse. Fry pushes a block up the side of the tomb and Leela 
 pulls one up using a rope and a pulley. The Osiran stands on 
-top of the block and whips her as she pulls.]
+top of the block and whips her as she pulls.</info>
 
-[Time Lapse. Back at the bottom of the tomb they pull another 
-block.]
+<info>Time Lapse. Back at the bottom of the tomb they pull another 
+block.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Come on guy's, Pharaoh's countin' on 
 us. Work faster, like this.  You call 
 that motivating me? Don't just whip 
 with your arms. The power comes from 
-your hips. Like this.
+your hips. Like this.</speak>
 
-[He takes the whip and whips himself. The rest of the slaves 
-arrive with the block.]
+<info>He takes the whip and whips himself. The rest of the slaves 
+arrive with the block.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender, quit giving the slave drivers 
-pointers!
+pointers!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah, remember who your real friends 
-are.
+are.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'll tell you who I remember.  Enupsis! 
 Pleeltut! Whatsisname! He was the greatest 
-of all.
+of all.</speak>
 
-[He salutes the tomb. Some horns blow.]
+<info>He salutes the tomb. Some horns blow.</info>
 
-<character>OSIRAN</character>
-Pharaoh Hermenthotip approaches.
+<speak who="OSIRAN">
+Pharaoh Hermenthotip approaches.</speak>
 
-[The slaves bow. The horn blowers are whipped and they blow again. 
+<info>The slaves bow. The horn blowers are whipped and they blow again. 
 Hermenthotip's boat is carried from the water by slaves who were 
-underneath it the whole time. They gasp for air.]
+underneath it the whole time. They gasp for air.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hurry! Hurry! Pharaoh's coming! Get 
-that nose in place, come on!
+that nose in place, come on!</speak>
 
-[The slaves haul the nose onto the tomb. Hermenthotip walks off 
+<info>The slaves haul the nose onto the tomb. Hermenthotip walks off 
 the boat and the slaves bow. He walks past them and looks at 
-the tomb.]
+the tomb.</info>
 
-<character>HERMENTHOTIP</character>
+<speak who="HERMENTHOTIP">
 Excellent work! I am very proud of all 
-you slaves.
+you slaves.</speak>
 
-[Bender stands up and cheers.]
+<info>Bender stands up and cheers.</info>
 
-<character>BENDER</character>
-Woohoo! Viva Hermenthotip!
+<speak who="BENDER">
+Woohoo! Viva Hermenthotip!</speak>
 
-<character>HERMENTHOTIP</character>
+<speak who="HERMENTHOTIP">
 And now, I have a grand announcement. 
 In honour of your achievement, you're 
-all hereby -
+all hereby -</speak>
 
-[The nose falls off the tomb and crushes him. The slaves gasp.]
+<info>The nose falls off the tomb and crushes him. The slaves gasp.</info>
 
-<character>BENDER</character>
-(screaming) Nooo!
+<speak who="BENDER">
+<info>(screaming)</info> Nooo!</speak>
 
-[He runs forward and lifts the nose away from the Pharaoh.]
+<info>He runs forward and lifts the nose away from the Pharaoh.</info>
 
-<character>HERMENTHOTIP</character>
-(hoarse) Tell the slaves they can all 
-go.
+<speak who="HERMENTHOTIP">
+<info>(hoarse)</info> Tell the slaves they can all 
+go.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Go faster? I told them but they're so 
-damn lazy.
+damn lazy.</speak>
 
-<character>HERMENTHOTIP</character>
-(hoarse) No. I mean they are all free.
+<speak who="HERMENTHOTIP">
+<info>(hoarse)</info> No. I mean they are all free.</speak>
 
-<character>BENDER</character>
-Freeloading off you? I agree.
+<speak who="BENDER">
+Freeloading off you? I agree.</speak>
 
-<character>HERMENTHOTIP</character>
-(hoarse) No, I -
+<speak who="HERMENTHOTIP">
+<info>(hoarse)</info> No, I -</speak>
 
-[He dies. The slavedriver puts a sheet over his body.]
+<info>He dies. The slavedriver puts a sheet over his body.</info>
 
-<character>OSIRAN</character>
-Pharaoh Hermenthotip is dead.
+<speak who="OSIRAN">
+Pharaoh Hermenthotip is dead.</speak>
 
-<character>BENDER</character>
-(crying) He's whippin' angels now.
+<speak who="BENDER">
+<info>(crying)</info> He's whippin' angels now.</speak>
 
-[Time Lapse. Night has fallen and hndreds of slaves are gathered 
+<info>Time Lapse. Night has fallen and hndreds of slaves are gathered 
 for Hermenthotip's funeral. Fry, Bender, Leela, the Australian 
 Guy and some other slaves carry Hermenthotip's coffin and lower 
-it into a hole.]
+it into a hole.</info>
 
-<character>HIGH PRIEST</character>
+<speak who="HIGH PRIEST">
 We commend the body of Hermenthotip 
 to the abode of the damned. The damned 
 good looking!  Pharaoh commanded me 
-to tell that joke at his funeral.
+to tell that joke at his funeral.</speak>
 
-<character>BENDER</character>
-(crying) I'll always remember you Hermenthotip!
+<speak who="BENDER">
+<info>(crying)</info> I'll always remember you Hermenthotip!</speak>
 
-<character>HIGH PRIEST</character>
+<speak who="HIGH PRIEST">
 To equip Pharaoh for his journey we 
 bury him with his favourite possessions. 
 Such as his heart and liver.  And the 
 many goods he left in his royal garage. 
 Also, this bag of cat's our culture 
-considers holy.
+considers holy.</speak>
 
-[He tosses that in too.]
+<info>He tosses that in too.</info>
 
-[Time Lapse. An pseudo-Elton John singer plays a piano and sings 
-a song dedicated to the Pharaoh.]
+<info>Time Lapse. An pseudo-Elton John singer plays a piano and sings 
+a song dedicated to the Pharaoh.</info>
 
-<character>SINGER</character>
-(singing) Pharaoh my God-king you are, 
+<speak who="SINGER">
+<info>(singing)</info> Pharaoh my God-king you are, 
 cold and deceased. I used to have him 
 sing...P-P-P-Pharaoh and his pets...but 
 the years went by and Pharaoh died, 
 Suzie will have joined him in the afterlife 
--
+-</speak>
 
-[The High Priest pushes him into the hole.]
+<info>The High Priest pushes him into the hole.</info>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 Hermenthotip is gone, the time to designate 
-a new Pharaoh is at hand.
+a new Pharaoh is at hand.</speak>
 
-[The tomb lights up.]
+<info>The tomb lights up.</info>
 
-<character>BENDER</character>
-Wow!
+<speak who="BENDER">
+Wow!</speak>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 At dawn tomrrow the high priest will 
 consult the Wall Of Prophecy to determine 
-Hermenthotip's successor.
+Hermenthotip's successor.</speak>
 
-[He points across the river at the wall which has been lit up.]
+<info>He points across the river at the wall which has been lit up.</info>
 
-<character>BENDER</character>
-Woo!
+<speak who="BENDER">
+Woo!</speak>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 That concludes the funeral. You don't 
-have to go home but you can't stay here.
+have to go home but you can't stay here.</speak>
 
-[Liberty Meadows Slave Quarters. The slaves sit around in a room.]
+<info>Liberty Meadows Slave Quarters. The slaves sit around in a room.</info>
 
-<character>FRY</character>
-Can you believe it? Pharaoh's dead!
+<speak who="FRY">
+Can you believe it? Pharaoh's dead!</speak>
 
-<character>SLAVE #1</character>
+<speak who="SLAVE #1">
 Yes! Tonight we are slaves to no one 
-- except the rhythm!
+- except the rhythm!</speak>
 
-[He starts playing some bongos. The Australian Guy stands up 
-and plays some panpipes and another slave plays a tamborine.]
+<info>He starts playing some bongos. The Australian Guy stands up 
+and plays some panpipes and another slave plays a tamborine.</info>
 
-<character>LEELA</character>
-Yeah! Play those bongos!
+<speak who="LEELA">
+Yeah! Play those bongos!</speak>
 
-<character>FRY</character>
-I'm gonna spin til I fall down!
+<speak who="FRY">
+I'm gonna spin til I fall down!</speak>
 
-[It doesn't take long. Bender laughs insanely and sneaks out.]
+<info>It doesn't take long. Bender laughs insanely and sneaks out.</info>
 
-[Cut to: Outside Liberty Meadows Slave Quarters. Bender sees 
+<info>Cut to: Outside Liberty Meadows Slave Quarters. Bender sees 
 the dog-guards, with their backs to him. He takes a ball out 
 of his chest cabinet and throws it. The dogs see it and run after 
-it, barking. Bender runs off in the opposite direction.]
+it, barking. Bender runs off in the opposite direction.</info>
 
-[Wall Of Prophecy. Bender sneaks around to the front of it and 
-takes a hammer out of his chest cabinet.]
+<info>Wall Of Prophecy. Bender sneaks around to the front of it and 
+takes a hammer out of his chest cabinet.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 We interrupt this prophecy to bring 
 you late breaking bulletin. He hammers 
 the back of his head and creates and 
-imprint of himself on the wall.
+imprint of himself on the wall.</speak>
 
-[Time Lapse. The next morning the High Priest and four others 
-stand in front of the wall and the slaves watch.]
+<info>Time Lapse. The next morning the High Priest and four others 
+stand in front of the wall and the slaves watch.</info>
 
-<character>HIGH PRIEST</character>
+<speak who="HIGH PRIEST">
 Great Wall Of Prophecy, reveal to us 
-God's will that we will blindly obey.
+God's will that we will blindly obey.</speak>
 
-<character>PRIESTS</character>
-(chanting) Free us from thought and 
-responsibility.
+<speak who="PRIESTS">
+<info>(chanting)</info> Free us from thought and 
+responsibility.</speak>
 
-<character>HIGH PRIEST</character>
-We shall read things off you.
+<speak who="HIGH PRIEST">
+We shall read things off you.</speak>
 
-<character>PRIESTS</character>
-(chanting) Then do them.
+<speak who="PRIESTS">
+<info>(chanting)</info> Then do them.</speak>
 
-<character>HIGH PRIEST</character>
-Your words guide us.
+<speak who="HIGH PRIEST">
+Your words guide us.</speak>
 
-<character>PRIESTS</character>
-(chanting) We're dumb.
+<speak who="PRIESTS">
+<info>(chanting)</info> We're dumb.</speak>
 
-[The slaves watch from below.]
+<info>The slaves watch from below.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 You know what else stinks about being 
-a slave? The hours.
+a slave? The hours.</speak>
 
-[Leela covers her face with her hand in disbelief.]
+<info>Leela covers her face with her hand in disbelief.</info>
 
-<character>HIGH PRIEST</character>
+<speak who="HIGH PRIEST">
 The prophecy is strange and...crudely 
 drawn at best. It indicates that, we 
 are "here" and our next Pharaoh is over 
-there near some...tents.
+there near some...tents.</speak>
 
-<character>BENDER </character>[<character>FROM REEDS</character>]
+<speak who="BENDER"><info><character>FROM REEDS</character></info>
 Those are waves jackass, it's supposed 
-to be a river!
+to be a river!</speak>
 
-[The slaves murmur to each other.]
+<info>The slaves murmur to each other.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, I think I know who the next Pharaoh 
-is!
+is!</speak>
 
-<character>LEELA</character>
-Oh Lord!
+<speak who="LEELA">
+Oh Lord!</speak>
 
-<character>HIGH PRIEST</character>
+<speak who="HIGH PRIEST">
 We hear your voice great Pharaoh. Reveal 
-yourself to us.
+yourself to us.</speak>
 
-[Bender stands up.]
+<info>Bender stands up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Behold! I have emerged from the place 
-of spells and fairies!
+of spells and fairies!</speak>
 
-<character>HIGH PRIEST</character>
+<speak who="HIGH PRIEST">
 It is he. Just as the Wall Of Prophecy 
-prophesied.  Long live Pharaoh Bender!
+prophesied.  Long live Pharaoh Bender!</speak>
 
-[All the slaves except Fry and Leela bow.]
+<info>All the slaves except Fry and Leela bow.</info>
 
-<character>SLAVES</character>
-(chanting) Long live Pharaoh Bender!
+<speak who="SLAVES">
+<info>(chanting)</info> Long live Pharaoh Bender!</speak>
 
-<character>LEELA</character>
-This society is a bunch of idiots.
+<speak who="LEELA">
+This society is a bunch of idiots.</speak>
 
-[Outside Pharaoh's Palace. The High Priest and priests stand 
-on a balcony addressing the slaves.]
+<info>Outside Pharaoh's Palace. The High Priest and priests stand 
+on a balcony addressing the slaves.</info>
 
-<character>HIGH PRIEST</character>
+<speak who="HIGH PRIEST">
 People of Osiris 4, please welcome a 
 man who started as a slave but worked 
 his way up to lord of all creation! 
-Our new Pharaoh - Bender!
+Our new Pharaoh - Bender!</speak>
 
-[The crowd cheers and Bender dances out to a riff of The Bangles' 
-Walk Like An Egyptian.]
+<info>The crowd cheers and Bender dances out to a riff of The Bangles' 
+Walk Like An Egyptian.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Citizens of Me! The cruelty of the old 
 Pharaoh is a thing of the past.  Let 
 a whole new wave of cruelty wash over 
-this lazy land.
+this lazy land.</speak>
 
-[The crowd cheers then realises what he has said.]
+<info>The crowd cheers then realises what he has said.</info>
 
-<character>LEELA</character>
-What did he say?
+<speak who="LEELA">
+What did he say?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hear the word of Pharaoh. Build unto 
 me a statue of ridiculous proportion. 
 One billion cubits in height......that 
 I might be remembered for all eternity. 
-And be quick about it!
+And be quick about it!</speak>
 
-[The slaves are whipped.]
+<info>The slaves are whipped.</info>
 
-[Bender's Statue. Fry and Leela crawl along the floor with Bender 
+<info>Bender's Statue. Fry and Leela crawl along the floor with Bender 
 sat on a throne on their backs. An old slaves struggles as he 
-pulls some logs.]
+pulls some logs.</info>
 
-<character>BENDER</character>
-Lowly slave. Why are you not working?
+<speak who="BENDER">
+Lowly slave. Why are you not working?</speak>
 
-<character>SLAVE #2</character>
-I am.
+<speak who="SLAVE #2">
+I am.</speak>
 
-<character>BENDER</character>
-I meant yourself to death.
+<speak who="BENDER">
+I meant yourself to death.</speak>
 
-<character>SLAVE #3</character>
-Mighty Pharaoh, it hurts when I breathe.
+<speak who="SLAVE #3">
+Mighty Pharaoh, it hurts when I breathe.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well then what do you think you should 
-stop doing?  Crawl pigs!
+stop doing?  Crawl pigs!</speak>
 
-[He whips them.]
+<info>He whips them.</info>
 
-<character>LEELA</character>
-Ow!
+<speak who="LEELA">
+Ow!</speak>
 
-[They crawl forward.]
+<info>They crawl forward.</info>
 
-<character>BENDER</character>
-The Pharaoh has spoken.
+<speak who="BENDER">
+The Pharaoh has spoken.</speak>
 
-[Montage The slaves haul Bender's statue's massive leg upright 
+<info>Montage The slaves haul Bender's statue's massive leg upright 
 � la The Ten Commandments as he watches from his palace. The 
 ground shakes as the leg is moved into position. He whips two 
 architects as they look at the design for the statue's ass. Fry 
 takes a "1" to a " - Days Since Last Accident" sign. But instead 
 of hammering the 1 on he hammers his hand to the sign. The 1 
 falls to the ground and Fry bends down to pick it up but can't 
-reach it.]
+reach it.</info>
 
-[The statue is almost finished. The statue's foot is positioned 
+<info>The statue is almost finished. The statue's foot is positioned 
 so it looks like it is about to crush Hermenthotip's tomb. Up 
 in space the slaves, in spacesuits, lift Bender's antenna ball 
 to the top of the statue. Bender floats near them wearing a jet 
-pack.]
+pack.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Your task is nearly completed. Don't 
-let down Pharaoh now.
+let down Pharaoh now.</speak>
 
-[He whips them and glides away.]
+<info>He whips them and glides away.</info>
 
-[Literal Foot Of Bender's Statue. A stage has been set up and 
+<info>Literal Foot Of Bender's Statue. A stage has been set up and 
 the Osirian and the priests stand next to something covered with 
-a sheet.]
+a sheet.</info>
 
-<character>OSIRAN</character>
+<speak who="OSIRAN">
 The great monument is finished oh Pharaoh. 
-And now, the unveiling.
+And now, the unveiling.</speak>
 
-[He pulls a sheet away revealing Bender underneath it. Bender 
+<info>He pulls a sheet away revealing Bender underneath it. Bender 
 looks up at the statue. Skeletons are sticking out of the foot. 
 The statue speaks in a booming voice and it's mouth lights up 
-with each syllable.]
+with each syllable.</info>
 
-<character>STATUE</character>
+<speak who="STATUE">
 Remember me.  Remember me.  Remember 
-me.
+me.</speak>
 
-<character>OSIRAN</character>
-Does it please you my lord?
+<speak who="OSIRAN">
+Does it please you my lord?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hmm...its a good start. Uh...yeah it's 
 definately big alright. I just wonder 
 if it's too big y'know? I mean, are 
 people gonna be remembering me or the 
-statue?
+statue?</speak>
 
-<character>HIGH PRIEST</character>
-But sire, we made it to your exact specifications.
+<speak who="HIGH PRIEST">
+But sire, we made it to your exact specifications.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Too exact if you ask me. Tear it down 
 and start again. But this time don't 
-embarrass yourselves.
+embarrass yourselves.</speak>
 
-[He takes a sip of his drink. The Osiran walks behind him and 
+<info>He takes a sip of his drink. The Osiran walks behind him and 
 he and the priests mutter something to each other. They jump 
 forward and wrap Bender in bandages. The High Priest turns to 
-the crowd.]
+the crowd.</info>
 
-<character>HIGH PRIEST</character>
+<speak who="HIGH PRIEST">
 Ladies and gentlemen, the Pharaoh...suddenly 
-died!
+died!</speak>
 
-[The slaves cheer and the priests throw Bender into his tomb.]
+<info>The slaves cheer and the priests throw Bender into his tomb.</info>
 
-<character>LEELA</character>
-Good riddance.
+<speak who="LEELA">
+Good riddance.</speak>
 
-<character>BENDER </character>[<character>FROM TOMB</character>]
-What about my servants?
+<speak who="BENDER"><info><character>FROM TOMB</character></info>
+What about my servants?</speak>
 
-<character>PRIEST</character>
-Oh yeah.
+<speak who="PRIEST">
+Oh yeah.</speak>
 
-[They throw in Fry and Leela and seal the tomb.]
+<info>They throw in Fry and Leela and seal the tomb.</info>
 
-[Cut to: Bender's Tomb. Fry and Leela hit the hard floor. Leela 
+<info>Cut to: Bender's Tomb. Fry and Leela hit the hard floor. Leela 
 lights a match and Bender stands in front of the still wrapped 
-in the bandages.]
+in the bandages.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Bender, I really hope that's you. 'Cause 
-if it isn't......we're in trouble!
+if it isn't......we're in trouble!</speak>
 
-[Bender pulls som bandages away from his face.]
+<info>Bender pulls som bandages away from his face.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You jerk. Why'd you have to drag us 
-along?
+along?</speak>
 
-<character>BENDER</character>
-I wanted to watch you remember me.
+<speak who="BENDER">
+I wanted to watch you remember me.</speak>
 
-[He turns a light on. The entire tomb is fitted out like a casino.]
+<info>He turns a light on. The entire tomb is fitted out like a casino.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Did you really think you'd need all 
-this junk in the afterlife?
+this junk in the afterlife?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Afterlife? Pfft. If I thought I had 
 to go through a whole other life I'd 
-kill myself right now!
+kill myself right now!</speak>
 
-<character>LEELA</character>
-Well rot in peace. Fry and I are leaving.
+<speak who="LEELA">
+Well rot in peace. Fry and I are leaving.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Sorry but we're totally sealed in.  
 Nothing can get in or out. Except millions 
 of snakes.  Here, have a pomergranate 
 scnapps from my private distillery and 
-start sharing fond memories of me, Bender.
+start sharing fond memories of me, Bender.</speak>
 
-[Fry drinks some but spits it out.]
+<info>Fry drinks some but spits it out.</info>
 
-<character>FRY</character>
-What proof is this? Some huge number?
+<speak who="FRY">
+What proof is this? Some huge number?</speak>
 
-[Leela lights the drink and it explodes.]
+<info>Leela lights the drink and it explodes.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's explosive! Maybe we could escape 
 by setting fire to the distillery and 
 blowing this whole place to rubble! 
-Let's get a little kindling going!
+Let's get a little kindling going!</speak>
 
-[She breaks away part of the leg and stacks the wood underneath 
-the distillery. Bender dives in front of her.]
+<info>She breaks away part of the leg and stacks the wood underneath 
+the distillery. Bender dives in front of her.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 No! You can't blow up my monument, I 
-won't be remembered.
+won't be remembered.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh right, how selfish of me. We'll just 
 stay here forever. Hey Fry, remember 
-that robot "Bender"?
+that robot "Bender"?</speak>
 
-[She nudges him.]
+<info>She nudges him.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Bend-er? Doesn't ring a bell.  Did you 
-hear something Leela?
+hear something Leela?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No. But I bet it wasn't someone who 
-was good at stealing.
+was good at stealing.</speak>
 
-[Bender hits his head.]
+<info>Bender hits his head.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Stop it stop it! It's not right! You've 
-crossed a line!
+crossed a line!</speak>
 
-<character>FRY</character>
-Hey Leela you know who I remember...?
+<speak who="FRY">
+Hey Leela you know who I remember...?</speak>
 
-<character>BENDER</character>
-Oh please, let it be me!
+<speak who="BENDER">
+Oh please, let it be me!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 ...That guy who used to bend things. 
-You know...?
+You know...?</speak>
 
-<character>BENDER</character>
-Me, please!
+<speak who="BENDER">
+Me, please!</speak>
 
-<character>FRY</character>
-...Hermes.
+<speak who="FRY">
+...Hermes.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Alright alright! If it means that much 
-to you, blow up my statue!
+to you, blow up my statue!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh Bender! When did you come in? Hold 
-still!  Let's blow this tomb!
+still!  Let's blow this tomb!</speak>
 
-[She lights the bandage.]
+<info>She lights the bandage.</info>
 
-[Cut to: Osiris 4 Surface. The statue starts to shake and the 
+<info>Cut to: Osiris 4 Surface. The statue starts to shake and the 
 foot splits apart. Bender, Leela and Fry run through the hole 
-and past some slaves.]
+and past some slaves.</info>
 
-<character>SLAVE #1</character>
+<speak who="SLAVE #1">
 Pharaoh Bender! He once more walks among 
-the living!
+the living!</speak>
 
-[They run up the ship's steps.]
+<info>They run up the ship's steps.</info>
 
-[Cut to: Ship's Cockpit. Leela presses some buttons and the ship 
+<info>Cut to: Ship's Cockpit. Leela presses some buttons and the ship 
 takes off. Bender looks at his statue through the windscreen 
-as the ship rises past it.]
+as the ship rises past it.</info>
 
-<character>STATUE</character>
-Remember me!
+<speak who="STATUE">
+Remember me!</speak>
 
-<character>BENDER</character>
-(crying) I will. I will.  Please, just 
-leave me alone.
+<speak who="BENDER">
+<info>(crying)</info> I will. I will.  Please, just 
+leave me alone.</speak>
 
-[He turns around, hugs Leela and bursts into tears.]
+<info>He turns around, hugs Leela and bursts into tears.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender, I understand your desire to 
 be remembered. But you don't need a 
-statue for that.
+statue for that.</speak>
 
-<character>BENDER</character>
-(crying) I don't?
+<speak who="BENDER">
+<info>(crying)</info> I don't?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No. You have your legacy as a brutal 
 tyrannical dictator. And that will outlive 
-any monument.
+any monument.</speak>
 
-<character>BENDER</character>
-You really think they'll remember me?
+<speak who="BENDER">
+You really think they'll remember me?</speak>
 
-<character>FRY</character>
-Absolutely.
+<speak who="FRY">
+Absolutely.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well in that case. One planet down! 
-Helmsman...
+Helmsman...</speak>
 
-[Cut to: Outside Ship.]
+<info>Cut to: Outside Ship.</info>
 
-<character>BENDER </character>[<character>FROM SHIP</character>]
-...set course for Earth!
+<speak who="BENDER"><info><character>FROM SHIP</character></info>
+...set course for Earth!</speak>
 
-[The ship flies towards a planet and he laughs insanely.]
+<info>The ship flies towards a planet and he laughs insanely.</info>
 
-<character>LEELA </character>[<character>FROM SHIP</character>]
-That's not Earth.
+<speak who="LEELA"><info><character>FROM SHIP</character></info>
+That's not Earth.</speak>
 
-<character>BENDER </character>[<character>FROM SHIP</character>]
-Oh.
+<speak who="BENDER"><info><character>FROM SHIP</character></info>
+Oh.</speak>
 
-[The ship zooms away from the planet.]
+<info>The ship zooms away from the planet.</info>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

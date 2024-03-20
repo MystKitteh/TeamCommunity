@@ -1,26 +1,26 @@
 <xml>
-<episodeInfo><character>FUTURAMA</character>
+<episodeInfo>FUTURAMA
 
 Episode 107 
 
-<title>MY <character>THREE SUNS</character></title>
+<title>MY THREE SUNS</title>
 
 <author>J. Stewart Burns</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Outside Robot Wash. Bender inserts a coin and chooses his wash 
+<info>Outside Robot Wash. Bender inserts a coin and chooses his wash 
 program from regular, deluxe and sub-standard. He selects deluxe 
 and steps onto a conveyor belt. It moves forward and Rose Royce's 
 Car Wash plays. Bender pushes down his antenna and sings his 
-own words.]
+own words.</info>
 
-<character>BENDER</character>
-(singing) Going through the 'bot wash!
+<speak who="BENDER">
+<info>(singing)</info> Going through the 'bot wash!</speak>
 
-[Cut to: Robot Wash.]
+<info>Cut to: Robot Wash.</info>
 
-<character>BENDER</character>
-(singing) Goin' through the robot wash!
+<speak who="BENDER">
+<info>(singing)</info> Goin' through the robot wash!
 
 C'mon, y'all and sing it with me
 
@@ -28,26 +28,26 @@ C'mon, y'all and sing it with me
 
 'Bot wash, yeah!
 
-[A huge drying machine dries him. He sees an undercoating machine 
+</speak><info>A huge drying machine dries him. He sees an undercoating machine 
 and puts a quarter in. The machine clamps around his legs and 
-he is in ecstasy as the machine does the undercoating.]
+he is in ecstasy as the machine does the undercoating.</info>
 
-[Cut to: Outside Robot Wash. He comes out the other side of the 
+<info>Cut to: Outside Robot Wash. He comes out the other side of the 
 Robot Wash and it hangs a pine tree air freshener around his 
-neck. He turns round and admires his shiny metal ass.]
+neck. He turns round and admires his shiny metal ass.</info>
 
-<character>BENDER</character>
-Ah!  Aww!
+<speak who="BENDER">
+Ah!  Aww!</speak>
 
-[Opening Credits. Caption: Presented in Doublevision Doublevision 
-(Where Drunk)]
+<info>Opening Credits. Caption: Presented in Doublevision Doublevision 
+<info>(Where Drunk)</info></info>
 
-[Planet Express: Lounge. Bender sits down to watch Essence of 
+<info>Planet Express: Lounge. Bender sits down to watch Essence of 
 Elzar, a cooking show presented by Neptunian chef Elzar and a 
 not-so-subtle parody of Essence Of Emeril. Elzar has black hair, 
-and the usual four arms a Neptunian has.]
+and the usual four arms a Neptunian has.</info>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Hey, I'm Elzar! Welcome to the show! 
 You know, you don't have to drive all 
 the way to Neptune for great Neptunian 
@@ -59,691 +59,691 @@ your oven to 3500 degrees you're gonna
 separate the yolk from your genetically-enhanced 
 eggplant and then give the whole thing 
 a good blast from your spice weasel 
-- bam!
+- bam!</speak>
 
-[Enter Fry and Leela. Leela is wearing a green top instead of 
-her usual white one.]
+<info>Enter Fry and Leela. Leela is wearing a green top instead of 
+her usual white one.</info>
 
-<character>FRY</character>
-Hey, what you watching?
+<speak who="FRY">
+Hey, what you watching?</speak>
 
-[Bender quickly turns off the <character>TV</character>.]
+<info>Bender quickly turns off the TV.</info>
 
-<character>BENDER</character>
-Uh, nothing!
+<speak who="BENDER">
+Uh, nothing!</speak>
 
-<character>LEELA</character>
-Is that a cooking show?
+<speak who="LEELA">
+Is that a cooking show?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 No, of course not! It was...uh...porno! 
-Yeah that's it!
+Yeah that's it!</speak>
 
-[Leela turns the TV back on and sees the programme.]
+<info>Leela turns the TV back on and sees the programme.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender! I didn't know you liked cooking! 
-That's so cute!
+That's so cute!</speak>
 
-<character>BENDER</character>
-(ashamed) Oh, it's true! I've been hiding 
-it for so long.
+<speak who="BENDER">
+<info>(ashamed)</info> Oh, it's true! I've been hiding 
+it for so long.</speak>
 
-<character>FRY</character>
-Its OK, Bender, I like cooking too.
+<speak who="FRY">
+Its OK, Bender, I like cooking too.</speak>
 
-<character>BENDER </character>(<character>WHISPERING</character>)
-Pansy!
+<speak who="BENDER"><info>(<character>WHISPERING</character>)</info>
+Pansy!</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Of course, your most important ingredient 
 is this baby right here: the Neptunian 
 slug. You can get it in a can but to 
 really do things right you gotta strangle 
 yourself a fresh one.  Now this is why 
-you gotta use cast-iron cookware.
+you gotta use cast-iron cookware.</speak>
 
-[He starts hitting the slug between it's eye stalks with a frying 
+<info>He starts hitting the slug between it's eye stalks with a frying 
 pan. Bender watches and is spooked when the slug does something 
-to Elzar.]
+to Elzar.</info>
 
-[Planet Express: Hermes' Office. Outside the office a sign flashes 
-indicating there is a chewing out happening inside.]
+<info>Planet Express: Hermes' Office. Outside the office a sign flashes 
+indicating there is a chewing out happening inside.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Bender, man. It has come to my attention 
 that this company has been paying you 
 to do nothing but loaf about on the 
-couch.
+couch.</speak>
 
-<character>BENDER</character>
-You call that a couch? I demand a pillow!
+<speak who="BENDER">
+You call that a couch? I demand a pillow!</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 I'm sorry but if you want to continue 
 drawing a salary you gotta do more than 
-watch the cooking shows all day.
+watch the cooking shows all day.</speak>
 
-<character>BENDER</character>
-Hmm.
+<speak who="BENDER">
+Hmm.</speak>
 
-[He rubs his chin.]
+<info>He rubs his chin.</info>
 
-[Planet Express: Lounge. Leela and Fry are sat at the table while 
-Bender stands next to it wearing a chef's hat and an apron.]
+<info>Planet Express: Lounge. Leela and Fry are sat at the table while 
+Bender stands next to it wearing a chef's hat and an apron.</info>
 
-<character>FRY</character>
-You're gonna be the ship's cook?
+<speak who="FRY">
+You're gonna be the ship's cook?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah! We're gonna kick it up a notch. 
-Bam!
+Bam!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I know you like cooking shows but you're 
 a robot, you don't even have a sense 
-of taste.
+of taste.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Honey, I wouldn't talk about taste if 
-I was wearing a lime green tank top.
+I was wearing a lime green tank top.</speak>
 
-<character>FRY</character>
-Bam!
+<speak who="FRY">
+Bam!</speak>
 
-[Little Neptune Street. Fry, Leela and Bender walk through an 
-area of New New York City where bums and lowlifes hang around.]
+<info>Little Neptune Street. Fry, Leela and Bender walk through an 
+area of New New York City where bums and lowlifes hang around.</info>
 
-<character>FRY</character>
-So this is Little Neptune?
+<speak who="FRY">
+So this is Little Neptune?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yep. Every chef knows that this is the 
-place to get exotic gourmet ingredients.
+place to get exotic gourmet ingredients.</speak>
 
-<character>LEELA</character>
-Among other things.
+<speak who="LEELA">
+Among other things.</speak>
 
-[In an alleyway a crack addict stands in front of what looks 
+<info>In an alleyway a crack addict stands in front of what looks 
 like a normal vending machine but is actually a crack dispenser. 
 He inserts a coin and the machine starts twisting a tube of crack 
-out but it jams. The crack addict starts clawing the glass.]
+out but it jams. The crack addict starts clawing the glass.</info>
 
-<character>CRACK ADDICT</character>
+<speak who="CRACK ADDICT">
 Come on, man, don't hold out on me like 
-this!
+this!</speak>
 
-[Fry walks past a man who wears a long coat.]
+<info>Fry walks past a man who wears a long coat.</info>
 
-<character>ORGAN DEALER</character>
+<speak who="ORGAN DEALER">
 Psst! You want to buy organ?  Fresh 
-and cheap. Ready for transplant!
+and cheap. Ready for transplant!</speak>
 
-<character>FRY</character>
-Ooh! What's this?
+<speak who="FRY">
+Ooh! What's this?</speak>
 
-<character>ORGAN DEALER</character>
-Ah! Is X-Ray eyes. See through anything!
+<speak who="ORGAN DEALER">
+Ah! Is X-Ray eyes. See through anything!</speak>
 
-[Fry reads the label.]
+<info>Fry reads the label.</info>
 
-<character>FRY</character>
-Wait a minute! This says Z-Ray.
+<speak who="FRY">
+Wait a minute! This says Z-Ray.</speak>
 
-<character>ORGAN DEALER</character>
+<speak who="ORGAN DEALER">
 Z is just as good. In fact, is better. 
-Is two more than X.
+Is two more than X.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hmm, I can see where that would be an 
-advantage. Do you take cash?
+advantage. Do you take cash?</speak>
 
-[He takes out his wallet but Leela quickly pulls him away and 
-they carry on walking.]
+<info>He takes out his wallet but Leela quickly pulls him away and 
+they carry on walking.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, you have to be more careful. We're 
 not in the 20th century. You don't know 
-how things work here.
+how things work here.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm not a little kid, Leela. I grew 
 up in this city. These are my people. 
-What up?
+What up?</speak>
 
-<character>ALIEN</character>
-Word!
+<speak who="ALIEN">
+Word!</speak>
 
-<character>FRY</character>
-See?
+<speak who="FRY">
+See?</speak>
 
-[Little Neptune Market. The trio look around at what is on offer.]
+<info>Little Neptune Market. The trio look around at what is on offer.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wow! You guys sell every kind of meat 
-here except human!
+here except human!</speak>
 
-[In an aisle Leela picks up a jar.]
+<info>In an aisle Leela picks up a jar.</info>
 
-<character>LEELA</character>
-What's this spice for?
+<speak who="LEELA">
+What's this spice for?</speak>
 
-<character>LEELA</character>
-Oh! That's ridiculous. (whispering) 
-I'll take two pounds!
+<speak who="LEELA">
+Oh! That's ridiculous. <info>(whispering)</info> 
+I'll take two pounds!</speak>
 
-[At the meat counter Bender looks at tubbed slug and I Can't 
-Believe It's Not Slug. He looks up at the salesman.]
+<info>At the meat counter Bender looks at tubbed slug and I Can't 
+Believe It's Not Slug. He looks up at the salesman.</info>
 
-<character>BENDER</character>
-Hey, buddy. I'm looking for fresh slug.
+<speak who="BENDER">
+Hey, buddy. I'm looking for fresh slug.</speak>
 
-<character>BENDER</character>
-Whatever.
+<speak who="BENDER">
+Whatever.</speak>
 
-<character>BENDER</character>
-Yeah, yeah, either one's fine.
+<speak who="BENDER">
+Yeah, yeah, either one's fine.</speak>
 
-<character>LEELA</character>
-Hey, have you seen Fry?
+<speak who="LEELA">
+Hey, have you seen Fry?</speak>
 
-[Cut to: Little Neptune Street. Fry is back with the organ dealer 
-in the alley.]
+<info>Cut to: Little Neptune Street. Fry is back with the organ dealer 
+in the alley.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Now that you mention it, I do have trouble 
 breathing underwater sometimes. I'll 
-take the gills.
+take the gills.</speak>
 
-<character>ORGAN DEALER</character>
+<speak who="ORGAN DEALER">
 Yes, gills. Then, uh, you don't need 
-lungs anymore, is right?
+lungs anymore, is right?</speak>
 
-<character>FRY</character>
-Can't imagine why I would.
+<speak who="FRY">
+Can't imagine why I would.</speak>
 
-<character>ORGAN DEALER</character>
+<speak who="ORGAN DEALER">
 Lie down on table. I take lungs now, 
-gills come next week.  (shouting) Nurse!
+gills come next week.  <info>(shouting)</info> Nurse!</speak>
 
-[A huge man comes over and holds down Fry's arms.]
+<info>A huge man comes over and holds down Fry's arms.</info>
 
-<character>NURSE</character>
-Let's do it.
+<speak who="NURSE">
+Let's do it.</speak>
 
-<character>ORGAN DEALER</character>
-You may feel small pain --
+<speak who="ORGAN DEALER">
+You may feel small pain --</speak>
 
-[Leela punches him in the face and he falls over. Then she kicks 
+<info>Leela punches him in the face and he falls over. Then she kicks 
 the nurse to the floor. The organ dealer runs away down the alley 
 and throws his scalpel back at Leela. She dives out of the way 
-and it flies into Bender's chest cabinet. He closes the door.]
+and it flies into Bender's chest cabinet. He closes the door.</info>
 
-<character>BENDER</character>
-(shouting) Thank you!
+<speak who="BENDER">
+<info>(shouting)</info> Thank you!</speak>
 
-[Planet Express: Lounge. Fry sits at the table while Leela scolds 
-him.]
+<info>Planet Express: Lounge. Fry sits at the table while Leela scolds 
+him.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 What the hell were you doing? I warned 
-you to stay away from those guys.
+you to stay away from those guys.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I'm capable of making my own decisions, 
 Leela. Did you ever stop to think I 
-might be happier with gills?
+might be happier with gills?</speak>
 
-[Enter Farnsworth.]
+<info>Enter Farnsworth.</info>
 
-<character>FARNSWORTH</character>
-Good news, everyone...
+<speak who="FARNSWORTH">
+Good news, everyone...</speak>
 
-<character>BENDER</character>
-Uh-oh, I don't like the sound of that.
+<speak who="BENDER">
+Uh-oh, I don't like the sound of that.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 ...you'll be making a delivery to the 
-planet Trisol...
+planet Trisol...</speak>
 
-<character>BENDER</character>
-Here it comes.
+<speak who="BENDER">
+Here it comes.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 ...A mysterious world in the darkest 
-depths of the Forbidden Zone.
+depths of the Forbidden Zone.</speak>
 
-<character>BENDER</character>
-Thank you, and goodnight.
+<speak who="BENDER">
+Thank you, and goodnight.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Uh, Professor, are we even allowed in 
-the Forbidden Zone?
+the Forbidden Zone?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Why, of course! Its just a name! Like 
 the Death Zone or the Zone Of No Return. 
 All the zones have names like that in 
-the Galaxy Of Terror!
+the Galaxy Of Terror!</speak>
 
-<character>LEELA</character>
-Uh, Professor...
+<speak who="LEELA">
+Uh, Professor...</speak>
 
-<character>FARNSWORTH</character>
-Off you go, pleasant trip.
+<speak who="FARNSWORTH">
+Off you go, pleasant trip.</speak>
 
-[Ships Cockpit. Zoidberg and Amy join the crew on the mission. 
+<info>Ships Cockpit. Zoidberg and Amy join the crew on the mission. 
 Bender is not with them. Fry leans back in his chair and shouts 
-down a hole in the floor.]
+down a hole in the floor.</info>
 
-<character>FRY</character>
-(shouting) Hey Bender how's dinner coming?
+<speak who="FRY">
+<info>(shouting)</info> Hey Bender how's dinner coming?</speak>
 
-<character>BENDER</character>
-Almost ready!
+<speak who="BENDER">
+Almost ready!</speak>
 
-[Cut to: Ships Galley. Bender is wearing his chef's hat and a 
+<info>Cut to: Ships Galley. Bender is wearing his chef's hat and a 
 new apron which says To Serve Man. He takes the Neptunian slug 
 out of a pot of boiling water, puts it on a plate and puts an 
-apple in its mouth.]
+apple in its mouth.</info>
 
-<character>BENDER</character>
-Now for a dash of salt!  Uh-oh!
+<speak who="BENDER">
+Now for a dash of salt!  Uh-oh!</speak>
 
-[Ships Mess. The crew are all ready to eat. Bender carves the 
-tiny, deflated slug. Leela leans in to the rest of the crew.]
+<info>Ships Mess. The crew are all ready to eat. Bender carves the 
+tiny, deflated slug. Leela leans in to the rest of the crew.</info>
 
-<character>LEELA</character>
-(whispering) Listen, this is Bender's 
+<speak who="LEELA">
+<info>(whispering)</info> Listen, this is Bender's 
 first meal and he's a little sensitive. 
-So let's be supportive, OK?
+So let's be supportive, OK?</speak>
 
-<character>FRY</character>
-Yeah, <character>OK</character>.
+<speak who="FRY">
+Yeah, <character>OK</character>.</speak>
 
-<character>ZOIDBERG</character>
-Alright.
+<speak who="ZOIDBERG">
+Alright.</speak>
 
-[They start eating.]
+<info>They start eating.</info>
 
-<character>LEELA</character>
-(shouting) Oh, dear God!
+<speak who="LEELA">
+<info>(shouting)</info> Oh, dear God!</speak>
 
-[She spits the slug out and so does everyone else.]
+<info>She spits the slug out and so does everyone else.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 That's the saltiest thing I've ever 
 tasted. And I once a big heaping bowl 
-of salt!
+of salt!</speak>
 
-[Everyone guzzles down a glass of water and once again they spit 
-it out.]
+<info>Everyone guzzles down a glass of water and once again they spit 
+it out.</info>
 
-<character>AMY</character>
-Bender, is this salt water?
+<speak who="AMY">
+Bender, is this salt water?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 It's salt with water in it if that's 
-what you mean.
+what you mean.</speak>
 
-[Fry waves his hand in front of his eyes.]
+<info>Fry waves his hand in front of his eyes.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 My vision's fading. I think I'm gonna 
-die.
+die.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 There was nothing wrong with that food. 
 The salt level was 10% less than a lethal 
-dose.
+dose.</speak>
 
-<character>ZOIDBERG</character>
-Uh-oh, I shouldn't have had seconds.
+<speak who="ZOIDBERG">
+Uh-oh, I shouldn't have had seconds.</speak>
 
-[The ship speeds towards the Planet Trisol.]
+<info>The ship speeds towards the Planet Trisol.</info>
 
-[Trisol Surface. The ship lands on a landing pad in a desert.]
+<info>Trisol Surface. The ship lands on a landing pad in a desert.</info>
 
-[Cut to: Ships Cockpit.]
+<info>Cut to: Ships Cockpit.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 OK, Fry, here's the package to deliver 
 and for once in your life be careful. 
 This is my first visit to the Galaxy 
 Of Terror and I'd like it to be a pleasant 
-one.
+one.</speak>
 
-[She slaps Fry who is mimicking her with his hand.]
+<info>She slaps Fry who is mimicking her with his hand.</info>
 
-<character>FRY</character>
-Ow!
+<speak who="FRY">
+Ow!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Don't touch anything or talk to anyone. 
 Just go to the palace, drop it off and 
-come right back.
+come right back.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Jeez, will you lay off! I was delivering 
 things before you were born! I think 
-I know what I'm doing.
+I know what I'm doing.</speak>
 
-[He walks off without the package and quickly returns for it.]
+<info>He walks off without the package and quickly returns for it.</info>
 
-[Trisol Surface. Fry is walking across the desert in the sweltering 
-heat.]
+<info>Trisol Surface. Fry is walking across the desert in the sweltering 
+heat.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Stupid slug. I've never been so thirsty. 
-Oh, come on! Go down already!  Ah!
+Oh, come on! Go down already!  Ah!</speak>
 
-[On the other side of him two other much larger suns rise over 
-the horizon.]
+<info>On the other side of him two other much larger suns rise over 
+the horizon.</info>
 
-[Time Lapse. Fry nears the Trisol Palace, climbs the huge staircase 
-and enters the palace.]
+<info>Time Lapse. Fry nears the Trisol Palace, climbs the huge staircase 
+and enters the palace.</info>
 
-[Cut to: Trisol Palace Throne Room. It is deserted.]
+<info>Cut to: Trisol Palace Throne Room. It is deserted.</info>
 
-<character>FRY</character>
-Hello? Anybody home?
+<speak who="FRY">
+Hello? Anybody home?</speak>
 
-[He reads the package address. It is addressed to the Emperor. 
+<info>He reads the package address. It is addressed to the Emperor. 
 He decides to leave it on the throne. He sees a bottle of water 
 beside the throne, looks around, then drinks the entire contents. 
 Two pools of water close in on him and form into humanoid shapes. 
-Guards.]
+Guards.</info>
 
-<character>GUARD #1</character>
-The royal bottle is empty!
+<speak who="GUARD #1">
+The royal bottle is empty!</speak>
 
-[The second guard gasps.]
+<info>The second guard gasps.</info>
 
-<character>GUARD #2</character>
-You drank our Emperor!
+<speak who="GUARD #2">
+You drank our Emperor!</speak>
 
-<character>FRY</character>
-No! It wasn't me!
+<speak who="FRY">
+No! It wasn't me!</speak>
 
-[He burps a small bubble of the Emperor. He pops it and laughs 
-nervously.]
+<info>He burps a small bubble of the Emperor. He pops it and laughs 
+nervously.</info>
 
-[Time Lapse. More guards have come in.]
+<info>Time Lapse. More guards have come in.</info>
 
-<character>GUARD #1</character>
+<speak who="GUARD #1">
 You drank our Emperor! You assassinated 
-him.
+him.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I didn't mean to. He just looked so 
-cool and refreshing.
+cool and refreshing.</speak>
 
-<character>GUARD #3</character>
-I'm sure he was.
+<speak who="GUARD #3">
+I'm sure he was.</speak>
 
-<character>GUARD #1</character>
+<speak who="GUARD #1">
 But now he's gone and your fate is sealed. 
-All hail the new Emperor.
+All hail the new Emperor.</speak>
 
-[The guards bow to Fry.]
+<info>The guards bow to Fry.</info>
 
-<character>GUARDS</character>
-(chanting) Hail! Hail! Hail!
+<speak who="GUARDS">
+<info>(chanting)</info> Hail! Hail! Hail!</speak>
 
-[Time Lapse. Fry is sat on the Emperor's throne with two Trisolian 
+<info>Time Lapse. Fry is sat on the Emperor's throne with two Trisolian 
 women at his side fanning him. The rest of the Planet Express 
-crew have arrived.]
+crew have arrived.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 So after I specifically asked you not 
 to touch anything, you drank a bottle 
 of strange blue liquid? It could have 
-been poisonous acid!
+been poisonous acid!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 It could have been. But chances were 
-equally good it was an Emperor.
+equally good it was an Emperor.</speak>
 
-[Enter a Trisolian.]
+<info>Enter a Trisolian.</info>
 
-<character>MERG</character>
+<speak who="MERG">
 Excuse me, Your Majesty, I am Merg, 
-the High Priest. If I might interject?
+the High Priest. If I might interject?</speak>
 
-<character>FRY</character>
-You might.
+<speak who="FRY">
+You might.</speak>
 
-<character>MERG</character>
+<speak who="MERG">
 I humbly advise that as your first act 
 you choose a capable Prime Minister. 
-I suggest Gorgak, the previous appointee.
+I suggest Gorgak, the previous appointee.</speak>
 
-<character>GORGAK</character>
-I will be a forceful and effective administrator.
+<speak who="GORGAK">
+I will be a forceful and effective administrator.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You know, Fry, I've often thought about 
-becoming a Prime Minister.
+becoming a Prime Minister.</speak>
 
-<character>FRY</character>
-I gotta go with Bender.
+<speak who="FRY">
+I gotta go with Bender.</speak>
 
-<character>BENDER</character>
-Yes! In your face, Gorgak!
+<speak who="BENDER">
+Yes! In your face, Gorgak!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's it, Fry. As your captain I order 
 you back to the ship. You are in way 
-over your head.
+over your head.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Gee, you think so, Captain? I'd better 
-check with my Prime Minister.
+check with my Prime Minister.</speak>
 
-[Bender is now sat being fanned.]
+<info>Bender is now sat being fanned.</info>
 
-<character>BENDER</character>
-Stay the course, pal!
+<speak who="BENDER">
+Stay the course, pal!</speak>
 
-<character>GORGAK</character>
-Your Highness, a package came for you.
+<speak who="GORGAK">
+Your Highness, a package came for you.</speak>
 
-[He hands Fry the same package he was supposed to deliver earlier.]
+<info>He hands Fry the same package he was supposed to deliver earlier.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, thanks!  Wow! This got here just 
-in time.
+in time.</speak>
 
-[He hangs it on a column next to his throne.]
+<info>He hangs it on a column next to his throne.</info>
 
-[Trisol Palace Harem. The room is full of shelves which are full 
-of bottles of Trisolians. Merg is with Fry.]
+<info>Trisol Palace Harem. The room is full of shelves which are full 
+of bottles of Trisolians. Merg is with Fry.</info>
 
-<character>MERG</character>
+<speak who="MERG">
 This is Your Majesty's harem. You may 
 choose any of these maidens to be your 
-royal consort.
+royal consort.</speak>
 
-<character>FRY</character>
-Umm, how about that one?
+<speak who="FRY">
+Umm, how about that one?</speak>
 
-[He points to a random bottle.]
+<info>He points to a random bottle.</info>
 
-<character>MERG</character>
+<speak who="MERG">
 Oh! I didn't realise Your Majesty was 
-into that sort of thing!
+into that sort of thing!</speak>
 
-<character>FRY</character>
-On second thought, I'll take that one.
+<speak who="FRY">
+On second thought, I'll take that one.</speak>
 
-[He points to another random bottle.]
+<info>He points to another random bottle.</info>
 
-<character>MERG</character>
+<speak who="MERG">
 Hey, whatever you say, I'm not here 
-to pass judgement.
+to pass judgement.</speak>
 
-[Trisol Palace Throne Room. The crew are lounging around enjoying 
+<info>Trisol Palace Throne Room. The crew are lounging around enjoying 
 themselves. Amy is stirring a glass of water with her finger. 
-Leela paces up and down.]
+Leela paces up and down.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Does anyone else think it's odd that 
 a shiftless 25-year-old delivery boy 
 could drop out of the sky, kill the 
-emperor and be rewarded instead of punished?
+emperor and be rewarded instead of punished?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You don't have to beat around the bush, 
 Leela, we all know who you're talking 
-about...uh, me, right?
+about...uh, me, right?</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 I don't think you have anything to worry 
-about. These people seem really mild-mannered.
+about. These people seem really mild-mannered.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 They are mild. In fact, you're soaking 
-in one right now.
+in one right now.</speak>
 
-[Amy screams and takes her finger out of the glass. Gorgak appears 
-from it.]
+<info>Amy screams and takes her finger out of the glass. Gorgak appears 
+from it.</info>
 
-<character>GORGAK</character>
+<speak who="GORGAK">
 You touched me in ways I've never been 
-touched before.
+touched before.</speak>
 
-[Enter Merg.]
+<info>Enter Merg.</info>
 
-<character>MERG</character>
+<speak who="MERG">
 Ah, there you are, Your Majesty. It's 
 time to begin preparing for tomorrow's 
-coronation ceremony.
+coronation ceremony.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 A fancy dress gala! I'll wear my formal 
-shell.
+shell.</speak>
 
-<character>MERG</character>
+<speak who="MERG">
 Fry will be enthroned tomorrow at the 
 setting of the three suns when we Trisolians 
-enter our nocturnal phase.
+enter our nocturnal phase.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 There won't be a lot of long-winded 
-speeches, will there?
+speeches, will there?</speak>
 
-<character>MERG</character>
+<speak who="MERG">
 Only one. The absolutely flawless recitation 
-from memory of the royal oath. By you.
+from memory of the royal oath. By you.</speak>
 
-<character>FRY</character>
-Will there be cake?
+<speak who="FRY">
+Will there be cake?</speak>
 
-[Trisolian Banquet Hall. It is the Pre-Coronation Gala. Trisolians 
-perform on a stage. Zoidberg talks to two Trisolians.]
+<info>Trisolian Banquet Hall. It is the Pre-Coronation Gala. Trisolians 
+perform on a stage. Zoidberg talks to two Trisolians.</info>
 
-<character>ZOIDBERG</character>
-Yeah, I know.
+<speak who="ZOIDBERG">
+Yeah, I know.</speak>
 
-<character>AMY</character>
-Hi!
+<speak who="AMY">
+Hi!</speak>
 
-[She wiggles her fingers. Fry pours a glass of something for 
-Merg.]
+<info>She wiggles her fingers. Fry pours a glass of something for 
+Merg.</info>
 
-<character>FRY</character>
-There you go.
+<speak who="FRY">
+There you go.</speak>
 
-[The Trisolians playing the liquid harmonica with themselves 
+<info>The Trisolians playing the liquid harmonica with themselves 
 as the liquid finish. The audience applauds and Gorgak takes 
-the stage.]
+the stage.</info>
 
-<character>GORGAK</character>
+<speak who="GORGAK">
 And now, get ready to laugh til your 
 sides leak with our planet's foremost 
-political satirist, Florp!
+political satirist, Florp!</speak>
 
-[He leaves and Florp walks onto the stage.]
+<info>He leaves and Florp walks onto the stage.</info>
 
-<character>FLORP</character>
+<speak who="FLORP">
 So what is the deal with people from 
 under the orange sun? They're all... 
 But us guys from under the red sun, 
-we're like... Right? Am I right?
+we're like... Right? Am I right?</speak>
 
-<character>FRY</character>
-Oh, yeah! Yeah, he's right!
+<speak who="FRY">
+Oh, yeah! Yeah, he's right!</speak>
 
-<character>LEELA</character>
-(whispering) Fry, I have to talk to 
-you. You're in terrible danger.
+<speak who="LEELA">
+<info>(whispering)</info> Fry, I have to talk to 
+you. You're in terrible danger.</speak>
 
-[Trisol Palace Corridor. On the walls of the corridor are paintings 
-of past Trisolian Emperors.]
+<info>Trisol Palace Corridor. On the walls of the corridor are paintings 
+of past Trisolian Emperors.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You see Emperor Plon here?  He met his 
 end when he was drunk by Emperor Strug. 
 And before he could even wipe his mouth, 
-Strug was drunk by Shwab.
+Strug was drunk by Shwab.</speak>
 
-<character>FRY</character>
-So?
+<speak who="FRY">
+So?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look at all these guys. Do you have 
 any idea what the average length of 
-their reigns was?
+their reigns was?</speak>
 
-<character>FRY</character>
-80,000 years?
+<speak who="FRY">
+80,000 years?</speak>
 
-<character>LEELA</character>
-No. One week.
+<speak who="LEELA">
+No. One week.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Damn! I knew you wouldn't have asked 
 unless it was really high or really 
-low.
+low.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Every Emperor ascended to power by assassinating 
-the previous one. And guess who's next?
+the previous one. And guess who's next?</speak>
 
-[She points at Fry's portrait. Fry looks at some empty frames 
+<info>She points at Fry's portrait. Fry looks at some empty frames 
 labelled Fry's Assassin and Fry's Assassin's Assassin. He points 
-at the last one.]
+at the last one.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Well at least my assassin will get what's 
-coming to him.
+coming to him.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You're in tremendous danger, you idiot! 
 Half of these Emperors were drunk at 
-their own coronation.
+their own coronation.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, I plan on having a few brewskis 
-myself.
+myself.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No, they were assassinated. In fact, 
 the law says you'll be killed on the 
 spot if you fail to recite the oath 
-from memory.
+from memory.</speak>
 
-[She holds up a book called Oath Vol. I.]
+<info>She holds up a book called Oath Vol. I.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah, I was going to thumb through that 
-later.
+later.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That is completely reckless. Don't you 
-ever think ahead?
+ever think ahead?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hell, no. If I stopped to think ahead, 
 I wouldn't be Emperor. And I wouldn't 
 even be here in the year 3000. It's 
@@ -755,473 +755,473 @@ and watched <character>TV</character>. But then the winter
 came and the grasshopper died and the 
 octopus ate all his acorns and also 
 he got a racecar. Is any of this getting 
-through to you?
+through to you?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I give up! You're gonna get yourself 
 killed and this time I won't be here 
-to save you.
+to save you.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Who asked you to? I told you a hundred 
 times to stop treating me like a baby. 
 Now go. Go gather your nuts you nagging 
-grasshopper.
+grasshopper.</speak>
 
-[Leela angrily throws down the book.]
+<info>Leela angrily throws down the book.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 That's it! I'm never helping you again! 
 If anyone except you needs me, I'll 
-be in the ship.
+be in the ship.</speak>
 
-[She storms off.]
+<info>She storms off.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I'll be fine. It's not like anyone's 
-gonna drink me.  Quit it!
+gonna drink me.  Quit it!</speak>
 
-[He knocks the straw away from his neck and it disappears back 
-into the hole in the painting.]
+<info>He knocks the straw away from his neck and it disappears back 
+into the hole in the painting.</info>
 
-[Trisol Palace Front Balcony. The Planet Express crew sans Leela 
+<info>Trisol Palace Front Balcony. The Planet Express crew sans Leela 
 are gathered with Fry. Merg is on a podium facing across the 
 Trisolian Surface where millions of Trisolians are gathered to 
-hear Fry's oath.]
+hear Fry's oath.</info>
 
-<character>MERG</character>
+<speak who="MERG">
 People of Trisol, it is my honour to 
-present your new Emperor!
+present your new Emperor!</speak>
 
-[The Trisolians applaud Fry, who takes Merg's place on the podium. 
-Fry clears his throat.]
+<info>The Trisolians applaud Fry, who takes Merg's place on the podium. 
+Fry clears his throat.</info>
 
-<character>FRY</character>
-What up?
+<speak who="FRY">
+What up?</speak>
 
-[Silence from the crowd.]
+<info>Silence from the crowd.</info>
 
-<character>MERG</character>
-Stick to the oath.
+<speak who="MERG">
+Stick to the oath.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Right! I, Fry, who drank Bont the Viscous, 
 who drank Ungo the Moist, who guzzled 
-Zorn the Stagnant...
+Zorn the Stagnant...</speak>
 
-[Time Lapse. The suns are nearly set. Fry is still reciting the 
-oath by reading it from his arm.]
+<info>Time Lapse. The suns are nearly set. Fry is still reciting the 
+oath by reading it from his arm.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 ...who slurped Hudge the Dewy, who enjoyed 
 a soup composed principally of Throm 
 the Chunky, do solemnly swear to rule 
-with honour and insanity - uh, integrity!
+with honour and insanity - uh, integrity!</speak>
 
-<character>MERG</character>
+<speak who="MERG">
 Congratulations, Your Highness.  I now 
 present you with your royal unisex robe. 
-Long live Fry The Solid!
+Long live Fry The Solid!</speak>
 
-[He puts the robe on Fry. The Trisolians cheer. The suns begin 
-to go down.]
+<info>He puts the robe on Fry. The Trisolians cheer. The suns begin 
+to go down.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, look. The suns are setting. I can 
-finally switch to hard liquor!
+finally switch to hard liquor!</speak>
 
-[He gets a bottle out of his chest cabinet. The three suns set 
-and the Trisolians begin to turn a lighter shade of blue.]
+<info>He gets a bottle out of his chest cabinet. The three suns set 
+and the Trisolians begin to turn a lighter shade of blue.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Check out the glowing freaks. It's beautiful! 
-Hey, what's that?
+Hey, what's that?</speak>
 
-[He points at Fry's stomach. It is turning blue and growing a 
-face. The Trisolians gasp and quickly return to normal shade.]
+<info>He points at Fry's stomach. It is turning blue and growing a 
+face. The Trisolians gasp and quickly return to normal shade.</info>
 
-<character>MERG</character>
-The Emperor Bont! He's still alive.
+<speak who="MERG">
+The Emperor Bont! He's still alive.</speak>
 
-<character>BONT</character>
+<speak who="BONT">
 Of course I'm alive. Now cut this creep 
-open and drain me out!
+open and drain me out!</speak>
 
-[Guards close in on Fry. Fry clutches his stomach.]
+<info>Guards close in on Fry. Fry clutches his stomach.</info>
 
-<character>FRY</character>
-My tummy hurts!
+<speak who="FRY">
+My tummy hurts!</speak>
 
-[The guards and Merg chase Fry, Amy, Zoidberg and Bender up the 
-steps.]
+<info>The guards and Merg chase Fry, Amy, Zoidberg and Bender up the 
+steps.</info>
 
-<character>BONT</character>
+<speak who="BONT">
 They're over here, they're running up 
-the stairs.
+the stairs.</speak>
 
-<character>BENDER</character>
-Shut up, you!
+<speak who="BENDER">
+Shut up, you!</speak>
 
-[He punches Bont, hurting Fry.]
+<info>He punches Bont, hurting Fry.</info>
 
-<character>FRY</character>
-Ow!
+<speak who="FRY">
+Ow!</speak>
 
-[Cut to: Trisol Palace Throne Room. The crew get inside the palace 
-and bolt the door.]
+<info>Cut to: Trisol Palace Throne Room. The crew get inside the palace 
+and bolt the door.</info>
 
-[Cut to: Outside Throne Room.]
+<info>Cut to: Outside Throne Room.</info>
 
-<character>MERG</character>
-Let us in!
+<speak who="MERG">
+Let us in!</speak>
 
-[Cut to: Trisol Palace Throne Room.]
+<info>Cut to: Trisol Palace Throne Room.</info>
 
-<character>MERG</character>
-Fry must die so that Bont may live.
+<speak who="MERG">
+Fry must die so that Bont may live.</speak>
 
-<character>FRY</character>
-What am I gonna do?
+<speak who="FRY">
+What am I gonna do?</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 We've gotta get the Emperor out of your 
-body before they kill you!
+body before they kill you!</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Relax, Fry. I'll simply spin you in 
 a high-speed centrifuge separating out 
-the denser fluid of His Highness.
+the denser fluid of His Highness.</speak>
 
-<character>FRY</character>
-But won't that crush my bones?
+<speak who="FRY">
+But won't that crush my bones?</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Oh, right, right, with the bones! I 
-always forget about the bones.
+always forget about the bones.</speak>
 
-<character>BENDER</character>
-Hey, why don't you just sweat him out?
+<speak who="BENDER">
+Hey, why don't you just sweat him out?</speak>
 
-<character>BONT</character>
+<speak who="BONT">
 Forget it! As Emperor I refuse to be 
-dripped out through somebody's armpit.
+dripped out through somebody's armpit.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I could vomit or urinate. Would you 
-feel better about that?
+feel better about that?</speak>
 
-<character>BONT</character>
+<speak who="BONT">
 Slightly. But my favourite so far is 
-the bone-crushing.
+the bone-crushing.</speak>
 
-<character>AMY</character>
-What about crying?
+<speak who="AMY">
+What about crying?</speak>
 
-<character>FRY</character>
-That's a great idea! Crying.
+<speak who="FRY">
+That's a great idea! Crying.</speak>
 
-<character>BONT</character>
-Fine. That or the bone one.
+<speak who="BONT">
+Fine. That or the bone one.</speak>
 
-[Cut to: Outside Throne Room. Trisolians are throwing themselves 
+<info>Cut to: Outside Throne Room. Trisolians are throwing themselves 
 at the door. As they hit it they turn into pools of water. They 
-regroup themselves and stand up.]
+regroup themselves and stand up.</info>
 
-<character>MERG</character>
+<speak who="MERG">
 Keep it up, men. The veneer is starting 
-to peel.
+to peel.</speak>
 
-[Gorgak throws himself at the door but can't re-solidify.]
+<info>Gorgak throws himself at the door but can't re-solidify.</info>
 
-<character>GORGAK</character>
-Oh, dear!
+<speak who="GORGAK">
+Oh, dear!</speak>
 
-[Cut to: Trisol Palace Throne Room. Fry is trying to cry.]
+<info>Cut to: Trisol Palace Throne Room. Fry is trying to cry.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 It's no use. I wanna cry but I'm just 
-too macho.
+too macho.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'll make you cry, buddy!  You're a 
 pimple on society's ass and you'll never 
-amount to anything.
+amount to anything.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 What do you mean? I was Emperor of a 
-whole planet.
+whole planet.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Good point. But here's a disturbing 
 reminder: Everyone you knew or loved 
-in the 20th century is dead.
+in the 20th century is dead.</speak>
 
-<character>FRY</character>
-These things happen.
+<speak who="FRY">
+These things happen.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 OK, Fry, grab a Kleenex for this one, 
 'cause there's no God and your idiotic 
-human ideals are laughable!
+human ideals are laughable!</speak>
 
-[He laughs evily.]
+<info>He laughs evily.</info>
 
-<character>FRY</character>
-Phew! That's a load off my mind.
+<speak who="FRY">
+Phew! That's a load off my mind.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Man, I guess it's harder than I thought 
-to make someone cry.
+to make someone cry.</speak>
 
-<character>AMY</character>
-You did your best, Bender.
+<speak who="AMY">
+You did your best, Bender.</speak>
 
-<character>BENDER</character>
-Up yours, bimbo!
+<speak who="BENDER">
+Up yours, bimbo!</speak>
 
-[Amy bursts into tears.]
+<info>Amy bursts into tears.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Let's face it, we're in hot butter here. 
-We should call Leela for help.
+We should call Leela for help.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Cram it, lobster!  That is a good idea. 
-I'll go call her.
+I'll go call her.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 She'll never help me. She's still mad 
-that I told her never to help me.
+that I told her never to help me.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 C'mon. Leela's not the type to hold 
-a grudge.
+a grudge.</speak>
 
-[Ships Cargo Bay. Leela is punching and kicking a punch bag with 
-Fry's photo taped to it. The phone rings.]
+<info>Ships Cargo Bay. Leela is punching and kicking a punch bag with 
+Fry's photo taped to it. The phone rings.</info>
 
-<character>OPERATOR</character>
-Collect call from...
+<speak who="OPERATOR">
+Collect call from...</speak>
 
-<character>BENDER</character>
-I'm not giving my name to a machine.
+<speak who="BENDER">
+I'm not giving my name to a machine.</speak>
 
-<character>LEELA</character>
-I'll accept.
+<speak who="LEELA">
+I'll accept.</speak>
 
-[Bender appears on the phone screen.]
+<info>Bender appears on the phone screen.</info>
 
-<character>BENDER</character>
-Fry's in trouble...
+<speak who="BENDER">
+Fry's in trouble...</speak>
 
-[Cut to: Trisol Palace. Bender is sat on a chair in front of 
-the payphone.]
+<info>Cut to: Trisol Palace. Bender is sat on a chair in front of 
+the payphone.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 ...and he needs help. Now, I don't like 
-you and you don't like me.
+you and you don't like me.</speak>
 
-<character>LEELA</character>
-I like you.
+<speak who="LEELA">
+I like you.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You do? Look are you going to help or 
-not?
+not?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I don't know why I should. I mean after 
-what he --
+what he --</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Wait, wait, wait, wait.  What is it 
-you like best about me?
+you like best about me?</speak>
 
-[Trisol Palace Throne Room. Enter Bender.]
+<info>Trisol Palace Throne Room. Enter Bender.</info>
 
-<character>AMY</character>
-Is she coming?
+<speak who="AMY">
+Is she coming?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm not sure. But I do know that she 
-likes my in-your-face attitude.
+likes my in-your-face attitude.</speak>
 
-[There is a rumbling from outside. The crew gather around a window 
+<info>There is a rumbling from outside. The crew gather around a window 
 and look out. The Trisolians are pulling a giant lemon juicer-like 
-thing towards the palace.]
+thing towards the palace.</info>
 
-<character>FRY</character>
-What the hell is that?
+<speak who="FRY">
+What the hell is that?</speak>
 
-<character>BONT</character>
+<speak who="BONT">
 Its the Juice-A-Matic 4000. It'll strain 
 my juices from you while filtering out 
 the pulp. By which I mean, your shredded 
-remains.
+remains.</speak>
 
-<character>ZOIDBERG</character>
-Of course! Why didn't I think of that!
+<speak who="ZOIDBERG">
+Of course! Why didn't I think of that!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 This is the saddest day of my life. 
-And I still can't cry.
+And I still can't cry.</speak>
 
-[Fry sits in his throne but a splashing noise from outside attracts 
-the others to the window.]
+<info>Fry sits in his throne but a splashing noise from outside attracts 
+the others to the window.</info>
 
-<character>BENDER</character>
-Wait a second. Here comes Leela.
+<speak who="BENDER">
+Wait a second. Here comes Leela.</speak>
 
-[Cut to: Outside Trisol Palace. Leela kicks her way through the 
+<info>Cut to: Outside Trisol Palace. Leela kicks her way through the 
 crowd of Trisolian guards, splashing them to oblivion. They swarm 
-her.]
+her.</info>
 
-[Cut to: Trisol Palace Throne Room.]
+<info>Cut to: Trisol Palace Throne Room.</info>
 
-<character>AMY</character>
-Oh, no. They have her totally outnumbered.
+<speak who="AMY">
+Oh, no. They have her totally outnumbered.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I can't believe it. She's risking her 
 life for me after the way I treated 
-her. I don't deserve this. I feel terrible.
+her. I don't deserve this. I feel terrible.</speak>
 
-<character>BENDER</character>
-You do? Hmm.
+<speak who="BENDER">
+You do? Hmm.</speak>
 
-<character>FRY</character>
-Is she alright?
+<speak who="FRY">
+Is she alright?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I don't know. Perhaps I'll look out 
 this window. Oh, dear God in heaven, 
-they're swarming all over her.
+they're swarming all over her.</speak>
 
-<character>FRY</character>
-No. No!
+<speak who="FRY">
+No. No!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 What are you talking about, Bender? 
-She's al --  (muffled) Oh!
+She's al --  <info>(muffled)</info> Oh!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 They're strapping her to juicer. Oh, 
 they're putting some ice cubes in the 
-glass under it.
+glass under it.</speak>
 
-<character>FRY</character>
-This can't be happening.
+<speak who="FRY">
+This can't be happening.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 It can and, for all you know, it is. 
-I'm sorry, Fry. She's dead.
+I'm sorry, Fry. She's dead.</speak>
 
-[Fry starts to cry and Amy catches his tear in the bottle.]
+<info>Fry starts to cry and Amy catches his tear in the bottle.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 All Leela ever wanted to do was help 
 me. But I was to proud, too stupid to 
 accept it.  I wish I had died instead 
-of her.
+of her.</speak>
 
-[He starts to cry. Enter Leela via the window.]
+<info>He starts to cry. Enter Leela via the window.</info>
 
-<character>LEELA</character>
-What are you talking about?
+<speak who="LEELA">
+What are you talking about?</speak>
 
-[Fry stops crying.]
+<info>Fry stops crying.</info>
 
-<character>FRY</character>
-Leela! You're alive!
+<speak who="FRY">
+Leela! You're alive!</speak>
 
-<character>LEELA</character>
-Of course I'm alive.
+<speak who="LEELA">
+Of course I'm alive.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I told Fry you were dead so he would 
 cry out the Emperor but you had to go 
-and wreck it by surviving.
+and wreck it by surviving.</speak>
 
-<character>AMY</character>
-We only got two drops.
+<speak who="AMY">
+We only got two drops.</speak>
 
-[There is a bang at the door. The Trisolians begin leaking in 
-through a hole. Bont chuckles.]
+<info>There is a bang at the door. The Trisolians begin leaking in 
+through a hole. Bont chuckles.</info>
 
-<character>BONT</character>
-It's only a matter of time now.
+<speak who="BONT">
+It's only a matter of time now.</speak>
 
-<character>ZOIDBERG</character>
-I'll handle this!
+<speak who="ZOIDBERG">
+I'll handle this!</speak>
 
-[He tries to block the leak with his claw and eventually gets 
-it under control by forcing one of his mouth flaps into the hole.]
+<info>He tries to block the leak with his claw and eventually gets 
+it under control by forcing one of his mouth flaps into the hole.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Listen, Fry, I think I can get us out 
 of this if you're willing to let me 
-help you.
+help you.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Thanks, Leela. From now on, I'll take 
 all the help you're willing to give. 
 I know you just want what's best for 
 me.  Ow! What was that for?  Hey, come 
-on!  That hurt!
+on!  That hurt!</speak>
 
-<character>LEELA</character>
-I know. Amy, get the bottle.
+<speak who="LEELA">
+I know. Amy, get the bottle.</speak>
 
-[She carries on beating Fry up while Amy holds the bottle under 
-his eye.]
+<info>She carries on beating Fry up while Amy holds the bottle under 
+his eye.</info>
 
-<character>FRY</character>
-(crying) Oh, now I understand.
+<speak who="FRY">
+<info>(crying)</info> Oh, now I understand.</speak>
 
-<character>LEELA</character>
-Come on. Everybody help out Fry.
+<speak who="LEELA">
+Come on. Everybody help out Fry.</speak>
 
-[She slaps him again, Zoidberg pinches his leg with his claw 
-and Bender stubs out a cigar on his arm.]
+<info>She slaps him again, Zoidberg pinches his leg with his claw 
+and Bender stubs out a cigar on his arm.</info>
 
-<character>FRY</character>
-(crying) Thanks, everybody. I love you 
+<speak who="FRY">
+<info>(crying)</info> Thanks, everybody. I love you 
 all. You guys are true -- ow! Cut it 
-out, Bender! That's a tender area!
+out, Bender! That's a tender area!</speak>
 
-<character>LEELA</character>
-How we doing, Amy?
+<speak who="LEELA">
+How we doing, Amy?</speak>
 
-<character>AMY</character>
-Great! We're one-tenth of the way there.
+<speak who="AMY">
+Great! We're one-tenth of the way there.</speak>
 
-[Time Lapse. Leela, Zoidberg and Bender are tired out. Amy keeps 
-kicking the Emperor out of Fry. She pants.]
+<info>Time Lapse. Leela, Zoidberg and Bender are tired out. Amy keeps 
+kicking the Emperor out of Fry. She pants.</info>
 
-<character>AMY</character>
-OK, it's your turn.
+<speak who="AMY">
+OK, it's your turn.</speak>
 
-[She points to someone. A Trisolian starts to hit Fry with a 
-chair.]
+<info>She points to someone. A Trisolian starts to hit Fry with a 
+chair.</info>
 
-<character>FRY</character>
-Hey, wait a minute! Who are you?
+<speak who="FRY">
+Hey, wait a minute! Who are you?</speak>
 
-<character>BONT</character>
+<speak who="BONT">
 I'm the Emperor! Thanks for crying me 
-out.
+out.</speak>
 
-[Fry looks at his stomach and sees it's back to normal.]
+<info>Fry looks at his stomach and sees it's back to normal.</info>
 
-<character>FRY</character>
-Oh, you're welcome.
+<speak who="FRY">
+Oh, you're welcome.</speak>
 
-[Bont hits him with the chair again.]
+<info>Bont hits him with the chair again.</info>
 
-[Cut to: Outside Trisolian Palace. The crowds have gone. Fry 
-cries in pain from inside.]
+<info>Cut to: Outside Trisolian Palace. The crowds have gone. Fry 
+cries in pain from inside.</info>
 
-<character>BENDER</character>
-Hey! Save some for me!
+<speak who="BENDER">
+Hey! Save some for me!</speak>
 
-<character>THE END</character>
+<info>THE END</info>
 </xml>

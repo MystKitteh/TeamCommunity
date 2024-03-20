@@ -1,223 +1,223 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 213
 
-<title>A <character>BICYCLOPS BUILT FOR TWO</character></title>
+<title>A BICYCLOPS BUILT FOR TWO</title>
 
 <author>Eric Kaplan</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: This Episode Has Been Modified To 
-Fit Your Primitive Screen.]
+<info>Opening Credits. Caption: This Episode Has Been Modified To 
+Fit Your Primitive Screen.</info>
 
-[Outside Planet Express. The Mailbot pushes the mail through 
-the letterbox.]
+<info>Outside Planet Express. The Mailbot pushes the mail through 
+the letterbox.</info>
 
-[Cut to: Planet Express: Entrance. Nibbler barks as the letters 
-come through the letterbox. They hit him and he runs away scared.]
+<info>Cut to: Planet Express: Entrance. Nibbler barks as the letters 
+come through the letterbox. They hit him and he runs away scared.</info>
 
-[Cut to: Planet Express: Meeting Room. He runs in, runs around 
+<info>Cut to: Planet Express: Meeting Room. He runs in, runs around 
 the table and is trodden on by Farnsworth who has just come through 
-another door.]
+another door.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Good news everyone! Several years ago 
 I tried to log on to <character>AOL</character>, and it just 
-went through! Wheee! We're online!
+went through! Wheee! We're online!</speak>
 
-[Planet Express: Farnsworth's Lab. The crew climb into what looks 
-like some VR suits.]
+<info>Planet Express: Farnsworth's Lab. The crew climb into what looks 
+like some VR suits.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Go ahead! Get into these net suits. 
-I designed and tested them myself.
+I designed and tested them myself.</speak>
 
-[Leela sniffs her glove.]
+<info>Leela sniffs her glove.</info>
 
-<character>LEELA</character>
-It smells like burning recess monkey.
+<speak who="LEELA">
+It smells like burning recess monkey.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Really? I guess when you're around it 
-all day you stop noticing. Off you go.
+all day you stop noticing. Off you go.</speak>
 
-[He presses a button and the crew disappear into the web.]
+<info>He presses a button and the crew disappear into the web.</info>
 
-[Cut to: Outside Internet Browser. The crew have turned green 
-and are holographic.]
+<info>Cut to: Outside Internet Browser. The crew have turned green 
+and are holographic.</info>
 
-<character>FRY</character>
-Hey!
+<speak who="FRY">
+Hey!</speak>
 
-[He puts his arm through himself and laughs. He ties his arms 
-in knots.]
+<info>He puts his arm through himself and laughs. He ties his arms 
+in knots.</info>
 
-<character>BENDER</character>
-Behold! The internet!
+<speak who="BENDER">
+Behold! The internet!</speak>
 
-[He presses the enter button and a white light engulfs the crew.]
+<info>He presses the enter button and a white light engulfs the crew.</info>
 
-[Cut to: Internet Browser. The crew stand on a Tron-like clifftop.]
+<info>Cut to: Internet Browser. The crew stand on a Tron-like clifftop.</info>
 
-<character>FRY</character>
-My God! It's full of ads!
+<speak who="FRY">
+My God! It's full of ads!</speak>
 
-[The ads caw like birds and dive at the crew � la Alfred Hitchcock's 
+<info>The ads caw like birds and dive at the crew � la Alfred Hitchcock's 
 The Birds. Amy and Zoidberg scream as the ads flutter around 
 them. Hermes limbos out the way of one. Leela kicks the No Way 
 and No buttons on the ads. One chases Bender around. Another 
-flies at Fry and wraps itself around him. Leela pulls him free.]
+flies at Fry and wraps itself around him. Leela pulls him free.</info>
 
-<character>LEELA</character>
-Follow me!
+<speak who="LEELA">
+Follow me!</speak>
 
-[The rest of the crew follow her and they fly off the clifftop 
-towards the internet.]
+<info>The rest of the crew follow her and they fly off the clifftop 
+towards the internet.</info>
 
-<character>FRY</character>
-It's immense.
+<speak who="FRY">
+It's immense.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's got every piece of information 
-anyone could ever want.
+anyone could ever want.</speak>
 
-[Fry sees the porn sites.]
+<info>Fry sees the porn sites.</info>
 
-<character>FRY</character>
-So I see!
+<speak who="FRY">
+So I see!</speak>
 
-[He flies down to the porn sites and Bender and Hermes follow 
-him.]
+<info>He flies down to the porn sites and Bender and Hermes follow 
+him.</info>
 
-<character>ZOIDBERG</character>
-What? What's going on here?
+<speak who="ZOIDBERG">
+What? What's going on here?</speak>
 
-[He sees a sign advertising Sardine On Mackeral Action, warbles 
-and flies towards it.]
+<info>He sees a sign advertising Sardine On Mackeral Action, warbles 
+and flies towards it.</info>
 
-[Time Lapse. The crew wander around the porn infested internet. 
+<info>Time Lapse. The crew wander around the porn infested internet. 
 Amy sees a site called Amy Wong Naked. She pokes her head through 
-the door.]
+the door.</info>
 
-<character>AMY</character>
-Hey, that's me!
+<speak who="AMY">
+Hey, that's me!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 No it isn't. I just took some pictures 
 of your face and stuck them on someone 
-else's body.
+else's body.</speak>
 
-[Leela sticks her head into the website.]
+<info>Leela sticks her head into the website.</info>
 
-<character>LEELA</character>
-Hey!
+<speak who="LEELA">
+Hey!</speak>
 
-[Outside Adult Chatrooms. The crew join the queue. At the front 
-of the queue several underage kids dressed as adults go in.]
+<info>Outside Adult Chatrooms. The crew join the queue. At the front 
+of the queue several underage kids dressed as adults go in.</info>
 
-<character>MAN</character>
-Are you over 18?
+<speak who="MAN">
+Are you over 18?</speak>
 
-<character>KID</character>
-Yes.
+<speak who="KID">
+Yes.</speak>
 
-<character>YOUNGER KID</character>
-Yes.
+<speak who="YOUNGER KID">
+Yes.</speak>
 
-[A baby spits its dummy out, gurgles and walks in.]
+<info>A baby spits its dummy out, gurgles and walks in.</info>
 
-[Adult Chatrooms.]
+<info>Adult Chatrooms.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm telling you Fry they've got a chatroom 
-for everybody. And here it is.
+for everybody. And here it is.</speak>
 
-[He and Fry walk into a Filthy Filthy Chatroom.]
+<info>He and Fry walk into a Filthy Filthy Chatroom.</info>
 
-<character>AMY</character>
-Ew, that is so gross!
+<speak who="AMY">
+Ew, that is so gross!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Yeah. I'll stick with this one thank 
-you.
+you.</speak>
 
-<character>AMY</character>
-Yeah.
+<speak who="AMY">
+Yeah.</speak>
 
-[They walk into a plain ordinary Filthy Chatroom.]
+<info>They walk into a plain ordinary Filthy Chatroom.</info>
 
-[Filthy Filthy Chatroom. Bender looks around chuckling. He pulls 
+<info>Filthy Filthy Chatroom. Bender looks around chuckling. He pulls 
 down a menu and selects a sexy nurse disguise. He taps a man 
-on the shoulder.]
+on the shoulder.</info>
 
-<character>BENDER </character>(<character>SEXFULLY</character>)
+<speak who="BENDER"><info>(<character>SEXFULLY</character>)</info>
 Hi, I'm a naughty nurse and I really 
-need someone to talk to. 9.95 a minute.
+need someone to talk to. 9.95 a minute.</speak>
 
-<character>MAN #2</character>
+<speak who="MAN #2">
 Ooo, you're a dollar naughtier than 
-most.
+most.</speak>
 
-[He hands "her" some cash and Bender pockets it.]
+<info>He hands "her" some cash and Bender pockets it.</info>
 
-<character>BENDER</character>
-So how 'bout them Knicks?
+<speak who="BENDER">
+So how 'bout them Knicks?</speak>
 
-[Filthy Chatroom. Amy sits at a bar and a man makes a winky smiley 
-face at her. She groans.]
+<info>Filthy Chatroom. Amy sits at a bar and a man makes a winky smiley 
+face at her. She groans.</info>
 
-<character>NERD #1</character>
+<speak who="NERD #1">
 Hello? Are there any girls in this room 
-at all?
+at all?</speak>
 
-<character>NERD #2</character>
+<speak who="NERD #2">
 Yeah, bring on the hot chicks 'cause 
-I'm a hot stud.
+I'm a hot stud.</speak>
 
-<character>NERDS</character>
-Yeah!
+<speak who="NERDS">
+Yeah!</speak>
 
-<character>NERD #3</character>
-So are we!
+<speak who="NERD #3">
+So are we!</speak>
 
-[Leela pushes her way to the centre of the crowd.]
+<info>Leela pushes her way to the centre of the crowd.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm a woman if that's what you mean. 
 I don't like to play games so I'll 
 just say I'm a cyclops, I'm a spaceship 
 captain, I'm the only one of my species 
-and I'm interested in meeting a man.
+and I'm interested in meeting a man.</speak>
 
-<character>NERD #4</character>
-A woman. I'm scared.
+<speak who="NERD #4">
+A woman. I'm scared.</speak>
 
-[Internet Browser. The crew fly away from the chatrooms.]
+<info>Internet Browser. The crew fly away from the chatrooms.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Well, thanks to the internet, I'm bored 
 with sex. Is there a place on the web 
-that panders to my lust for violence?
+that panders to my lust for violence?</speak>
 
-<character>BENDER </character>(<character>SARCASTIC</character>)
-Is the space pope reptilian?
+<speak who="BENDER"><info>(<character>SARCASTIC</character>)</info>
+Is the space pope reptilian?</speak>
 
-[Outside Death Factory <character>III</character>. The crew walk towards a colluseum-like 
-gaming zone.]
+<info>Outside Death Factory III. The crew walk towards a colluseum-like 
+gaming zone.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Get ready for fun Fry. Nowadays we have 
-a type of game played entirely on video.
+a type of game played entirely on video.</speak>
 
-<character>LEELA</character>
-We call it a "video game."
+<speak who="LEELA">
+We call it a "video game."</speak>
 
-<character>FRY </character>(<character>SARCASTIC</character>)
+<speak who="FRY"><info>(<character>SARCASTIC</character>)</info>
 Uh, "video game" you say? Well golly 
 gee, you mighty spacemen of the future 
-will have to show me how it works.
+will have to show me how it works.</speak>
 
-[Death Factory <character>III</character>. Fry has pretty much got the hang of the game. 
+<info>Death Factory III. Fry has pretty much got the hang of the game. 
 He runs around the death factory, laughing and dodging machines 
 and shooting lasers from his fingers. He rolls under some squashy 
 things, shoots some crates, shoots Donkey Kong and swings away 
@@ -226,607 +226,607 @@ shatters like glass. Another nerd shoots at him and Fry shoots
 back and shatters him. Hermes puts his finger to Fry's head but 
 Fry leaps into the air, spins around and shatters Hermes. Bender 
 and Leela shoot at him. Zoidberg slides down a rope chasing Fry 
-and shooting.]
+and shooting.</info>
 
-<character>ZOIDBERG</character>
-The doctor is in!  The doctor is out.
+<speak who="ZOIDBERG">
+The doctor is in!  The doctor is out.</speak>
 
-[He shatters. Farnsworth's head appears in the game.]
+<info>He shatters. Farnsworth's head appears in the game.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Everyone please sign off, we have a 
 delivery. Plus I have to use the phone 
 -  Leela please tell the others that 
--
+-</speak>
 
-[She shoots him. She kicks Bender into a machine and goes through 
+<info>She shoots him. She kicks Bender into a machine and goes through 
 the workings � la Modern Times. He comes out the other end like 
 a slinky. He rolls down some steps and into some boiling lava. 
 Farnsworth appears again and before he can speak Leela and Fry 
 shoot him. Fry shoots at Leela but misses. She shoots back and 
 he ducks behind a machine. Leela folows him warily. Someone backs 
-into her and she screams and turns around. It is another cyclops.]
+into her and she screams and turns around. It is another cyclops.</info>
 
-<character>LEELA</character>
-Who are you?
+<speak who="LEELA">
+Who are you?</speak>
 
-<character>CYCLOPS</character>
+<speak who="CYCLOPS">
 I saw you in the chatroom but you left 
 before I had a chance to talk to you. 
 After all these years of searching for 
-another Cyclops.
+another Cyclops.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I can't believe it. I've dreamed of 
-this moment all my life.
+this moment all my life.</speak>
 
-<character>CYCLOPS</character>
-Do you think perhaps you and I - ?
+<speak who="CYCLOPS">
+Do you think perhaps you and I - ?</speak>
 
-[Fry shoots and shatters the Cyclops. He laughs and ducks behind 
-a machine.]
+<info>Fry shoots and shatters the Cyclops. He laughs and ducks behind 
+a machine.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, you idiot. Ever since I was abandoned 
 on Earth I've been searching for who 
 my people are and where they come from. 
 Then I finally meet another Cyclops 
 and you blast him. You wrecked my one 
-chance to learn who I am.
+chance to learn who I am.</speak>
 
-[Fry slowly walks behind the machine, finger at the ready.]
+<info>Fry slowly walks behind the machine, finger at the ready.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh Leela. I feel terrible. If there's 
 anything I can ever do -  Gotcha!  I 
-won! I'm the greatest!
+won! I'm the greatest!</speak>
 
-[Cut to: Planet Express: Farnsworth's Lab. Everyone else has 
+<info>Cut to: Planet Express: Farnsworth's Lab. Everyone else has 
 taken off their netsuits. Fry is still in his, jumping around 
-and laughing like an idiot.]
+and laughing like an idiot.</info>
 
-<character>LEELA</character>
-Come on. We have worked to do.
+<speak who="LEELA">
+Come on. We have worked to do.</speak>
 
-[She pulls his goggles away and snaps them back.]
+<info>She pulls his goggles away and snaps them back.</info>
 
-[Ship's Cockpit. Leela doesn't speak to Fry.]
+<info>Ship's Cockpit. Leela doesn't speak to Fry.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Are you still mad at me for wrecking 
 your once in a lifetime chance to learn 
-the meaning of your existence?
+the meaning of your existence?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No, I'm just happy you were able to 
 win a video game. Now lets concentrate 
 on getting this desperately needed popcorn 
-to the people of Cineplex 14 OK?
+to the people of Cineplex 14 OK?</speak>
 
-[The video screen comes down from the ceiling.]
+<info>The video screen comes down from the ceiling.</info>
 
-<character>VOICE</character>
-Leela, you've got mail.  It's not spam!
+<speak who="VOICE">
+Leela, you've got mail.  It's not spam!</speak>
 
-<character>LEELA</character>
-Huh?  It's him!
+<speak who="LEELA">
+Huh?  It's him!</speak>
 
-<character>CYCLOPS </character>[ON <character>SCREEN</character>]
+<speak who="CYCLOPS"><info>ON <character>SCREEN</character></info>
 To: Leela. Subject: Hello. I am Alkazar. 
 Fortunately I wrote down your screenname 
 before I was dispatched by that oaffish 
-moron.
+moron.</speak>
 
-<character>FRY</character>
-Kicked your ass!
+<speak who="FRY">
+Kicked your ass!</speak>
 
-<character>ALKAZAR </character>[ON <character>SCREEN</character>]
+<speak who="ALKAZAR"><info>ON <character>SCREEN</character></info>
 Leela we have much to discuss. Please 
 come join me on the planet of your birth. 
-Co-ordinates follow.
+Co-ordinates follow.</speak>
 
-[Some co-ordinates appear on the screen and the email ends.]
+<info>Some co-ordinates appear on the screen and the email ends.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Too bad we gotta make that urgent popcorn 
-delivery.
+delivery.</speak>
 
-[She thinks about it and pulls a lever.]
+<info>She thinks about it and pulls a lever.</info>
 
-<character>LEELA</character>
-It'll get there.
+<speak who="LEELA">
+It'll get there.</speak>
 
-[Cut to: Outside Ship. The cargo bay hatch opens and a crate 
+<info>Cut to: Outside Ship. The cargo bay hatch opens and a crate 
 of popcorn flies out. She ship turns around and flies away. The 
-popcorn crate explodes and forms a spiral of popcorn.]
+popcorn crate explodes and forms a spiral of popcorn.</info>
 
-[Ship's Steps. The ship has landed on Planet Cyclopia, the door 
+<info>Ship's Steps. The ship has landed on Planet Cyclopia, the door 
 opens and the crew look at the planet. Ruins of a city with vines 
-climbing them greet them.]
+climbing them greet them.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 After a whole life of searching I may 
-finally have found where I belong.
+finally have found where I belong.</speak>
 
-<character>BENDER</character>
-Too bad it's a dump.
+<speak who="BENDER">
+Too bad it's a dump.</speak>
 
-[Cyclopian Surface. Leela, Fry and Bender make their way through 
-the vines and arrive in the middle of a city.]
+<info>Cyclopian Surface. Leela, Fry and Bender make their way through 
+the vines and arrive in the middle of a city.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look at that statue. It's only got one 
-eye.
+eye.</speak>
 
-<character>FRY</character>
-Lazy sculptor!
+<speak who="FRY">
+Lazy sculptor!</speak>
 
-<character>ALKAZAR</character>
-Welcome home Leela.
+<speak who="ALKAZAR">
+Welcome home Leela.</speak>
 
-[She turns around. He is standing on a baclony.]
+<info>She turns around. He is standing on a baclony.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Alkazar?  Are you real? Or am I seeing 
-single?
+single?</speak>
 
-[She pokes him in the eye.]
+<info>She pokes him in the eye.</info>
 
-<character>ALKAZAR</character>
-Ow! Of course I'm real!
+<speak who="ALKAZAR">
+Ow! Of course I'm real!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 After all this time. Somebody else with 
 one eye who isn't a clumsy carpenter 
-or, uh, a kid with a BB gun.
+or, uh, a kid with a BB gun.</speak>
 
-[They hug.]
+<info>They hug.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 It's alright Leela. You'll never be 
 alone again.  Let me introduce you to 
 yourself.  Do you mind if your servants 
-walk?
+walk?</speak>
 
-<character>LEELA</character>
-Not at all!
+<speak who="LEELA">
+Not at all!</speak>
 
-[The lizards pull them away. Bender steals the crown from the 
-top of the statue and chuckles.]
+<info>The lizards pull them away. Bender steals the crown from the 
+top of the statue and chuckles.</info>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 We are the last remaining Cyclopses. 
 Our planet is Cyclopia. This is our 
 capital, Cyclops City. Stop me if I'm 
-going too fast for you.
+going too fast for you.</speak>
 
-[Leela looks around.]
+<info>Leela looks around.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 There's so much information and yet 
-somehow I feel as if I know it all already.
+somehow I feel as if I know it all already.</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 This sacred mosaic depicts our goddess 
-of beauty.
+of beauty.</speak>
 
-[The mosaic looks like Botticelli's The Birth of Venus.]
+<info>The mosaic looks like Botticelli's The Birth of Venus.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hmm, you got any sacred artwork of her 
-from the back?
+from the back?</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Her perfect eye reminds me of yours 
 Leela. Had our race survived, you would 
-have been a temple priestess or a supermodel.
+have been a temple priestess or a supermodel.</speak>
 
-<character>LEELA</character>
-Oh please! Really?
+<speak who="LEELA">
+Oh please! Really?</speak>
 
-[The carriage moves on. Bender takes the jewel from the middle 
-of the mosaic eye.]
+<info>The carriage moves on. Bender takes the jewel from the middle 
+of the mosaic eye.</info>
 
-[Time Lapse. Alkazar shows them another statue.]
+<info>Time Lapse. Alkazar shows them another statue.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 And there's the pirate Purple Beard, 
-scourge of the six seas.
+scourge of the six seas.</speak>
 
-<character>FRY</character>
-What's over that hill?
+<speak who="FRY">
+What's over that hill?</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 The Forbidden Valley. A holy sancturary 
-where no one may tread.
+where no one may tread.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Is that anything like a cemetary 'cause 
-I gotta take a leak.  Ow!
+I gotta take a leak.  Ow!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, that's offensive to our people. 
-Isn't it?
+Isn't it?</speak>
 
-[He nods and she slaps Fry again.]
+<info>He nods and she slaps Fry again.</info>
 
-<character>FRY</character>
-Ow!
+<speak who="FRY">
+Ow!</speak>
 
-[Outside Alkazar's Castle.]
+<info>Outside Alkazar's Castle.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 This is my home. I hope you don't think 
 less of me because I live in a giant 
-castle.
+castle.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Oh no not at all. If anything, I'm more 
-impressed.
+impressed.</speak>
 
-[Cut to: Alkazar's Castle. He throws open the doors. The castle 
-is full of jewels. Bender's eyes zoom in.]
+<info>Cut to: Alkazar's Castle. He throws open the doors. The castle 
+is full of jewels. Bender's eyes zoom in.</info>
 
-<character>BENDER</character>
-Ooo! I'm gonna need to make some room!
+<speak who="BENDER">
+Ooo! I'm gonna need to make some room!</speak>
 
-[He opens his chest cabinet and takes out a goldfish bowl, a 
-toaster, and another two goldfish bowls.]
+<info>He opens his chest cabinet and takes out a goldfish bowl, a 
+toaster, and another two goldfish bowls.</info>
 
-[Cut to: Alkazar's Bedroom.]
+<info>Cut to: Alkazar's Bedroom.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 In here's where I dream my lonely dreams 
-and cook my simple meals.
+and cook my simple meals.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's all so sad. What happened to our 
-people?
+people?</speak>
 
-[Alkazar looks at her and moves over to the window and looks 
-out. A tear trickles down his face.]
+<info>Alkazar looks at her and moves over to the window and looks 
+out. A tear trickles down his face.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Its too painful to speak of now. Come, 
-I'll show you your quarters.
+I'll show you your quarters.</speak>
 
-[They leave. Bender sees a sword on the wall, checks no one is 
+<info>They leave. Bender sees a sword on the wall, checks no one is 
 look and swallows it. The sword is a little too long and Bender 
-can't walk properly. He clanks as he walks out.]
+can't walk properly. He clanks as he walks out.</info>
 
-<character>BENDER</character>
-Ow!  Ow!  Ow!
+<speak who="BENDER">
+Ow!  Ow!  Ow!</speak>
 
-[Leela's Quarters. It is the middle of the night. Leela hears 
-Alkazar crying and wakes up. She gets up and goes out to him.]
+<info>Leela's Quarters. It is the middle of the night. Leela hears 
+Alkazar crying and wakes up. She gets up and goes out to him.</info>
 
-[Cut to: Alkazar's Balcony. Leela puts her hand on his shoulder.]
+<info>Cut to: Alkazar's Balcony. Leela puts her hand on his shoulder.</info>
 
-<character>LEELA</character>
-I heard you from my room. What's wrong?
+<speak who="LEELA">
+I heard you from my room. What's wrong?</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 It's just - no Leela. I don't want to 
-see tears in your perfect eye.
+see tears in your perfect eye.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Please, is it bout the fate of our people? 
-Because I'm very interested in that.
+Because I'm very interested in that.</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Well <character>OK</character>. But it's chilly and you're 
 going to be all wet from the tears. 
-Let's go into my chamber.
+Let's go into my chamber.</speak>
 
-[They walks inside.]
+<info>They walks inside.</info>
 
-[Alkazar's Bedroom. Leela and Alkazar are sat on Alkazar's bed. 
-Alkazar tells the story.]
+<info>Alkazar's Bedroom. Leela and Alkazar are sat on Alkazar's bed. 
+Alkazar tells the story.</info>
 
-[Flashback. Cyclops City is a thriving community with families, 
-fountains and buskers.]
+<info>Flashback. Cyclops City is a thriving community with families, 
+fountains and buskers.</info>
 
-<character>ALKAZAR </character>(<character>VOICE OVER</character>)
+<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
 It wasn't long ago. Our people were 
-happy and prosperous...
+happy and prosperous...</speak>
 
-[The flashback cuts to a dark planet with rocky terrain and lots 
-of large molehills.]
+<info>The flashback cuts to a dark planet with rocky terrain and lots 
+of large molehills.</info>
 
-<character>ALKAZAR </character>(<character>VOICE OVER</character>)
+<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
 ...but the eyeless mole people of Subterra 
 3 grew jealous of our visual proness. 
 They fired missile in all directions 
-hoping to hit Cyclopia.
+hoping to hit Cyclopia.</speak>
 
-[A mole man presses a button and several hundred missiles are 
-launched from the planet.]
+<info>A mole man presses a button and several hundred missiles are 
+launched from the planet.</info>
 
-<character>ALKAZAR </character>(<character>VOICE OVER</character>)
+<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
 Unfortunately, one of the 40 planets 
-hit, was ours.
+hit, was ours.</speak>
 
-[On Cyclopia a Cyclopian scientist looks through a telescope 
-at the sky.]
+<info>On Cyclopia a Cyclopian scientist looks through a telescope 
+at the sky.</info>
 
-<character>CYCLOPIAN</character>
-How far away do you think it is?
+<speak who="CYCLOPIAN">
+How far away do you think it is?</speak>
 
-<character>SCIENTIST</character>
-A trillion miles?
+<speak who="SCIENTIST">
+A trillion miles?</speak>
 
-[The missile lands right behind them and explodes.]
+<info>The missile lands right behind them and explodes.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Things got hot. You look a little hot, 
 you can take off that jacket.  Our people 
 don't like to be hot. Anyway, just before 
-the impact...
+the impact...</speak>
 
-[Flashback. In a Cyclopian hospital a doctor delivers a baby.]
+<info>Flashback. In a Cyclopian hospital a doctor delivers a baby.</info>
 
-<character>ALKAZAR </character>(<character>VOICE OVER</character>)
+<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
 Our smartest scientists managed to save 
-one baby
+one baby</speak>
 
-[The doctor puts the baby in a rocket and the parents wave it 
-goodbye.]
+<info>The doctor puts the baby in a rocket and the parents wave it 
+goodbye.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Alkazar, I used to be a baby, it might 
-have been me!
+have been me!</speak>
 
-[Flashback. Cyclops City is in flames.]
+<info>Flashback. Cyclops City is in flames.</info>
 
-<character>ALKAZAR </character>(<character>VOICE OVER</character>)
+<speak who="ALKAZAR"><info>(<character>VOICE OVER</character>)</info>
 Fortunately I was employed as a pool 
 cleaner at the time and when I emerged 
 from retrieving a dead possum, I found 
-I was the only one left.
+I was the only one left.</speak>
 
-[Alkazar sees the flames, screams, and falls to his knees in 
-a very overdramatic way.]
+<info>Alkazar sees the flames, screams, and falls to his knees in 
+a very overdramatic way.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-<character>LEELA</character>
-It's so tragic.
+<speak who="LEELA">
+It's so tragic.</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Yes, but the real tragedy is that our 
-race ends with us.
+race ends with us.</speak>
 
-<character>LEELA</character>
-It doesn't have to.
+<speak who="LEELA">
+It doesn't have to.</speak>
 
-<character>ALKAZAR</character>
-What do you mean?
+<speak who="ALKAZAR">
+What do you mean?</speak>
 
-<character>LEELA</character>
-You're a male and I'm a female.
+<speak who="LEELA">
+You're a male and I'm a female.</speak>
 
-<character>ALKAZAR</character>
-I'm still not following you.
+<speak who="ALKAZAR">
+I'm still not following you.</speak>
 
-[She pushes him onto the bed and kisses him.]
+<info>She pushes him onto the bed and kisses him.</info>
 
-[Time Lapse. Morning has broken. Leela and Alkazar are in bed. 
-Alkazar is asleep. Leela wakes up.]
+<info>Time Lapse. Morning has broken. Leela and Alkazar are in bed. 
+Alkazar is asleep. Leela wakes up.</info>
 
-<character>LEELA</character>
-Wake up my king.
+<speak who="LEELA">
+Wake up my king.</speak>
 
-[Alkazar wakes up and coughs.]
+<info>Alkazar wakes up and coughs.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Oh jeez what a night. Make me some coffee 
-would you.
+would you.</speak>
 
-[He puts his head back on the pillow.]
+<info>He puts his head back on the pillow.</info>
 
-<character>LEELA</character>
-Uh, sure <character>OK</character>. What do you take with that?
+<speak who="LEELA">
+Uh, sure <character>OK</character>. What do you take with that?</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Pancakes and sausage. Kitchen's in the 
-basement, pans are in the attic.
+basement, pans are in the attic.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Maybe after breakfast we can talk about 
-rebuilding our civilisation.
+rebuilding our civilisation.</speak>
 
-[Alkazar snores loudly.]
+<info>Alkazar snores loudly.</info>
 
-[Alkazar's Dining Room. Fry and Bender eat with Leela and Alkazar. 
-Fry eats a pancake.]
+<info>Alkazar's Dining Room. Fry and Bender eat with Leela and Alkazar. 
+Fry eats a pancake.</info>
 
-<character>FRY</character>
-Mmm! Great pancakes Leela!
+<speak who="FRY">
+Mmm! Great pancakes Leela!</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Yeah they'll come in handy if I need 
 to cover any tiny manholes.  Listen 
 hun, we don't want to look like slobs 
-in front of the other species do we?
+in front of the other species do we?</speak>
 
-<character>LEELA</character>
-No.
+<speak who="LEELA">
+No.</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 So get to work on these dishes. And 
 then organise my collection of naked 
 celebrity photos by name and what you 
-can see.
+can see.</speak>
 
-<character>LEELA</character>
-Look Alkazar.
+<speak who="LEELA">
+Look Alkazar.</speak>
 
-<character>ALKAZAR</character>
-Call me Al.
+<speak who="ALKAZAR">
+Call me Al.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look Al. I know you've been living alone 
 a long time and I can sympathise but 
-I'm not your maid.
+I'm not your maid.</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 You're right, I'm sorry. It looks like 
 the relationshipisn't going to work 
 afterall. So much for the Cyclops race. 
 I thought it was a pretty good race 
-but -
+but -</speak>
 
-[Leela gets up.]
+<info>Leela gets up.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 OK OK, I'll do the dishes.  Hey where'd 
-they go?
+they go?</speak>
 
-[Bender walks out clanking...]
+<info>Bender walks out clanking...</info>
 
-[Outside Alkazar's Castle. Fry and Bender watch Leela pegging 
-out the washing.]
+<info>Outside Alkazar's Castle. Fry and Bender watch Leela pegging 
+out the washing.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ah, Leela's experiencing the greatest 
 joy a woman can feel: Worshipping some 
-lowlife jerk.
+lowlife jerk.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 He may be some lowlife jerk but I don't 
 trust him. I think he's hiding something 
-and I'm gonna find out what it is.
+and I'm gonna find out what it is.</speak>
 
-[Outside Forbidden Valley. Fry strolls up to the gate and reads 
-the No Trespassing sign. He laughs.]
+<info>Outside Forbidden Valley. Fry strolls up to the gate and reads 
+the No Trespassing sign. He laughs.</info>
 
-<character>FRY</character>
-Try and stop me!
+<speak who="FRY">
+Try and stop me!</speak>
 
-[He hops over the gate and a trap door opens underneath him and 
-he falls down a deep hole.]
+<info>He hops over the gate and a trap door opens underneath him and 
+he falls down a deep hole.</info>
 
-[Alkazar's Living Room. Alkazar is sat on a couch staring at 
-a <character>TV</character>. Enter Leela dressed up like Peg Bundy from Married...With 
-Children.]
+<info>Alkazar's Living Room. Alkazar is sat on a couch staring at 
+a TV. Enter Leela dressed up like Peg Bundy from Married...With 
+Children.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Al? I did my hair the way you wanted 
-it.  Who are these people?
+it.  Who are these people?</speak>
 
-[There is a pig, a rat man and a rat woman sat on another couch.]
+<info>There is a pig, a rat man and a rat woman sat on another couch.</info>
 
-<character>ALKAZAR</character>
-Friends.
+<speak who="ALKAZAR">
+Friends.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hey, where'd you get this couch and 
-that TV set and all this stuff?
+that TV set and all this stuff?</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 They were giving it away on the street 
-corner. Just like you Leela.
+corner. Just like you Leela.</speak>
 
-[Alkazar's friends cheer and hoot.]
+<info>Alkazar's friends cheer and hoot.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Too bad they weren't giving away the 
 three things you actually need: Mouthwash, 
-a back wax and stain-proof underwear.
+a back wax and stain-proof underwear.</speak>
 
-[More hooting.]
+<info>More hooting.</info>
 
-<character>RAT WOMAN</character>
-You go girl!
+<speak who="RAT WOMAN">
+You go girl!</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 By the way your pal Fry fell into the 
 dungeon. Feed him a taco so he doesn't 
-die and stink up the place.
+die and stink up the place.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Come on Al, can't you let the little 
-guy out?
+guy out?</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Jeez Leela, twice in one day? I'm not 
-Superman!
+Superman!</speak>
 
-[The rats and pig cheer widly. Leela leaves.]
+<info>The rats and pig cheer widly. Leela leaves.</info>
 
-[Outside Dungeon. Leela crouches down to a little barred window 
-which Fry is behind. He eats his taco.]
+<info>Outside Dungeon. Leela crouches down to a little barred window 
+which Fry is behind. He eats his taco.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Why were you sneaking into my people's 
-forbidden valley?
+forbidden valley?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 'Cause I think Alkazar's hding something. 
 Listen Leela, you may not like it, you 
 may not believe it, you may not wanna 
 hear it but Alkazar's a jerk, he's bad 
-for you. He -
+for you. He -</speak>
 
-<character>LEELA</character>
-I know.
+<speak who="LEELA">
+I know.</speak>
 
-<character>FRY</character>
-You do?
+<speak who="FRY">
+You do?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry if it's obvious to you with your 
 learning disability then of course it's 
 obvious to me! He's crude and gross 
-and he treats me like a slave.
+and he treats me like a slave.</speak>
 
-<character>FRY</character>
-Then dump his one eyed ass.
+<speak who="FRY">
+Then dump his one eyed ass.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I can't. If I leave Alkazar then that's 
 the end of the Cyclops race. And I won't 
 let that happen. Even if that means 
-a lifetime of unhappiness.
+a lifetime of unhappiness.</speak>
 
-[A toilet flushes.]
+<info>A toilet flushes.</info>
 
-[The pig and rats hoot.]
+<info>The pig and rats hoot.</info>
 
-<character>LEELA</character>
-I'll break up with him at dinner.
+<speak who="LEELA">
+I'll break up with him at dinner.</speak>
 
-<character>FRY</character>
-I'll be there.
+<speak who="FRY">
+I'll be there.</speak>
 
-[Time Lapse. Fry is at dinner. The table is right next to his 
-window.]
+<info>Time Lapse. Fry is at dinner. The table is right next to his 
+window.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Yo Leela, what gives? Pig says your 
-slop tastes like crap.
+slop tastes like crap.</speak>
 
-<character>PIG</character>
-Yeah, like crap.
+<speak who="PIG">
+Yeah, like crap.</speak>
 
-[Fry tugs Leela's leg.]
+<info>Fry tugs Leela's leg.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 C'mon Leela you deserve better than 
-this guy! Dump him already!
+this guy! Dump him already!</speak>
 
-<character>LEELA</character>
-I'm trying.
+<speak who="LEELA">
+I'm trying.</speak>
 
-[Alkazar taps his glass.]
+<info>Alkazar taps his glass.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Hey everyone jam a sock in your spit 
 faucets.  Not long ago I spent my lonely 
 nights renting slash flicks with Rat 
@@ -836,258 +836,258 @@ And she brought new hope for me and
 our once great civilisation. Now a million 
 centuries of Cyclops destiny depend 
 on the answer to one question......Leela, 
-will you marry me?
+will you marry me?</speak>
 
-<character>FRY </character>(<character>WHISPERING</character>)
-No! No!
+<speak who="FRY"><info>(<character>WHISPERING</character>)</info>
+No! No!</speak>
 
-<character>LEELA</character>
-Yes! I Will!
+<speak who="LEELA">
+Yes! I Will!</speak>
 
-<character>FRY</character>
-Ohh!
+<speak who="FRY">
+Ohh!</speak>
 
-[The table applauds. Alkazar and Leela kiss. Rat Woman elbows 
-Rat Man.]
+<info>The table applauds. Alkazar and Leela kiss. Rat Woman elbows 
+Rat Man.</info>
 
-<character>RAT WOMAN</character>
-They're getting married!
+<speak who="RAT WOMAN">
+They're getting married!</speak>
 
-[Rat Man looks surprised.]
+<info>Rat Man looks surprised.</info>
 
-[Outside Alkazar's Castle. A limo pulls up and Amy, Farnsworth, 
-Zoidberg and Hermes climb out.]
+<info>Outside Alkazar's Castle. A limo pulls up and Amy, Farnsworth, 
+Zoidberg and Hermes climb out.</info>
 
-<character>AMY</character>
-Congratulations Leela!
+<speak who="AMY">
+Congratulations Leela!</speak>
 
-<character>ZOIDBERG</character>
-Hello!
+<speak who="ZOIDBERG">
+Hello!</speak>
 
-<character>HERMES</character>
-Oh this is great!
+<speak who="HERMES">
+Oh this is great!</speak>
 
-[Pre-Wedding Chug-A-Thon. Everyone helps themselves to the buffet. 
+<info>Pre-Wedding Chug-A-Thon. Everyone helps themselves to the buffet. 
 Leela puts a decoration on top of the wedding cake of a Cyclops 
-woman buffing a Cyclops man's shoes. Fry attracts her attention.]
+woman buffing a Cyclops man's shoes. Fry attracts her attention.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Pst, Leela. you've got to get me out 
 of here. It's horrible, eating scraps, 
 letting my waste drop wherever it falls 
-like an animal in the zoo.
+like an animal in the zoo.</speak>
 
-<character>LEELA</character>
-Animals go in the corner.
+<speak who="LEELA">
+Animals go in the corner.</speak>
 
-<character>FRY</character>
-The corner! Why didn't I think of that?
+<speak who="FRY">
+The corner! Why didn't I think of that?</speak>
 
-[Leela sighs.]
+<info>Leela sighs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Look Fry I'd like to help you but it's 
 my wedding and I'm kind of busy.  Here, 
 try to be happy for me. That way at 
-least one of us will be.
+least one of us will be.</speak>
 
-[Cut to: Dungeon. Leela walks away from the window.]
+<info>Cut to: Dungeon. Leela walks away from the window.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 That's it! It's time for this bird to 
-walk.
+walk.</speak>
 
-[He hits the bottle against the door trying to get it open. The 
+<info>He hits the bottle against the door trying to get it open. The 
 cork flies out of the bottle, out of the dungeon and hits the 
 door release button. The door opens. Fry laughs and tip the bottle 
 over his head. The door starts to close again. He screams and 
-scrambles through it.]
+scrambles through it.</info>
 
-[Cut to: Outside Alkazar's Castle. Fry runs out and looks around. 
+<info>Cut to: Outside Alkazar's Castle. Fry runs out and looks around. 
 Bender is leaning against a tree. Rope is holding his door shut 
 because its so full of stuff he's stolen. There is also a sack 
-next to him. Fry sees him.]
+next to him. Fry sees him.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Bender come on. We've got to get some 
 dirt on Alkazar. Lets go and find out 
-what makes the Forbidden Valley so forbidden.
+what makes the Forbidden Valley so forbidden.</speak>
 
-<character>BENDER</character>
-Uh no thanks I'm good.
+<speak who="BENDER">
+Uh no thanks I'm good.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 But there's probably some cool forbidden 
-stuff you can steal.
+stuff you can steal.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I don't know Fry. For the first time 
-in my life I feel like I've stolen enough.
+in my life I feel like I've stolen enough.</speak>
 
-[Fry slaps him.]
+<info>Fry slaps him.</info>
 
-<character>FRY</character>
-Bender, snap out of it!
+<speak who="FRY">
+Bender, snap out of it!</speak>
 
-[And he does.]
+<info>And he does.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Sorry I don't know what came over me. 
-Let's go.  (singing) I love stealing, 
-I love taking things!
+Let's go.  <info>(singing)</info> I love stealing, 
+I love taking things!</speak>
 
-[Wedding. Alkazar yawns. Hermes plays a grooby version of Here 
+<info>Wedding. Alkazar yawns. Hermes plays a grooby version of Here 
 Comes The Bride and Farnsworth walks Leela up the aisle. Zoidberg 
-wipes his eyes.]
+wipes his eyes.</info>
 
-<character>ZOIDBERG </character>(<character>CRYING</character>)
+<speak who="ZOIDBERG"><info>(<character>CRYING</character>)</info>
 That pig over there is wearing the same 
-sandals as me.
+sandals as me.</speak>
 
-[Outside Forbidden Valley. Bender and Fry ride Alkazar's lizards 
-towards the gate.]
+<info>Outside Forbidden Valley. Bender and Fry ride Alkazar's lizards 
+towards the gate.</info>
 
-<character>FRY</character>
-Come on boy, jump!  Good boy!
+<speak who="FRY">
+Come on boy, jump!  Good boy!</speak>
 
-[Cut to: Forbidden Valley. Fry and Bender come to a clifftop.]
+<info>Cut to: Forbidden Valley. Fry and Bender come to a clifftop.</info>
 
-<character>BENDER</character>
-Whoa Mittens!
+<speak who="BENDER">
+Whoa Mittens!</speak>
 
-[They look out over the valley and gasp.]
+<info>They look out over the valley and gasp.</info>
 
-<character>FRY</character>
-My God! Four identical castles!
+<speak who="FRY">
+My God! Four identical castles!</speak>
 
-<character>BENDER</character>
-Each more identical than the last!
+<speak who="BENDER">
+Each more identical than the last!</speak>
 
-[Ruined City. Fry and Bender come to a statue similar to the 
-one in Cyclops City.]
+<info>Ruined City. Fry and Bender come to a statue similar to the 
+one in Cyclops City.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 That's weird. It's another Cyclops, 
-only this one has five eyes.
+only this one has five eyes.</speak>
 
-[Bender sees another Birth Of Venus style mosaic.]
+<info>Bender sees another Birth Of Venus style mosaic.</info>
 
-<character>BENDER</character>
-And here's another one with no eyes.
+<speak who="BENDER">
+And here's another one with no eyes.</speak>
 
-[He takes the jewels from her eyes.]
+<info>He takes the jewels from her eyes.</info>
 
-[Wedding.]
+<info>Wedding.</info>
 
-<character>PREACHERBOT</character>
+<speak who="PREACHERBOT">
 Does anyone have a reason why this couple 
 shall not be joined in the irrevocable 
-shackles of holy bliss?
+shackles of holy bliss?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Saving a race of one-eyed monsters? 
-Who could object to that?
+Who could object to that?</speak>
 
-[Leela looks worried.]
+<info>Leela looks worried.</info>
 
-<character>ALKAZAR</character>
-Cut to the chase Preach!
+<speak who="ALKAZAR">
+Cut to the chase Preach!</speak>
 
-<character>PREACHERBOT</character>
+<speak who="PREACHERBOT">
 Do you Alkazar......takethiswomanbeforeyou...tolove..insickness..do 
-you part?
+you part?</speak>
 
-<character>ALKAZAR</character>
-Yeah sure I do come on faster!
+<speak who="ALKAZAR">
+Yeah sure I do come on faster!</speak>
 
-<character>PREACHERBOT</character>
+<speak who="PREACHERBOT">
 Do you Leela, copy and paste his response 
-til death do you part?
+til death do you part?</speak>
 
-[Leela looks around. Zoidberg waves, the rats and pig watch a 
-<character>TV</character>. She look sat Alkazar. He eggs her on.]
+<info>Leela looks around. Zoidberg waves, the rats and pig watch a 
+TV. She look sat Alkazar. He eggs her on.</info>
 
-<character>LEELA</character>
-<character>I</character>..d -
+<speak who="LEELA">
+I..d -</speak>
 
-[Enter Fry and Bender on the lizards. Everyone gasps.]
+<info>Enter Fry and Bender on the lizards. Everyone gasps.</info>
 
-<character>AMY</character>
-Oh my God!
+<speak who="AMY">
+Oh my God!</speak>
 
-<character>ALKAZAR</character>
-What the?
+<speak who="ALKAZAR">
+What the?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey Alkazar, you left somebody off the 
-guest list.
+guest list.</speak>
 
-[Enter a 5-eyed cyclops.]
+<info>Enter a 5-eyed cyclops.</info>
 
-5-<character>EYES</character>
+<speak who="5-EYES">
 Alkazar, why you are so late for our 
-wedding? And why you have only one eye?
+wedding? And why you have only one eye?</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 It, uh, oo!  Uh, hey sweetie, just go 
 back to the castle and wait for me. 
 She, she's nuts, I can morph into a 
 5-eyed alien and I kinda said I'd marry 
 her. But I'm really a Cyclops and I'm 
-really going to marry you.
+really going to marry you.</speak>
 
-<character>FRY</character>
-Oh yeah? Then what about this?
+<speak who="FRY">
+Oh yeah? Then what about this?</speak>
 
-[Enter a rhino woman named Sandy. Alkazar morphs.]
+<info>Enter a rhino woman named Sandy. Alkazar morphs.</info>
 
-<character>ALKAZAR</character>
-This is a bit awkward.
+<speak who="ALKAZAR">
+This is a bit awkward.</speak>
 
-5-<character>EYES</character>
-Who's she?
+<speak who="5-EYES">
+Who's she?</speak>
 
-<character>LEELA</character>
-Who's she?
+<speak who="LEELA">
+Who's she?</speak>
 
-<character>SANDY</character>
-Who are they?
+<speak who="SANDY">
+Who are they?</speak>
 
-<character>ALKAZAR</character>
-Go back to the castle Sandy.
+<speak who="ALKAZAR">
+Go back to the castle Sandy.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 And maybe you'd like to meet her.  And 
-her.
+her.</speak>
 
-[Enter another thing. Alkazar morphs into each of them and eventually 
-morphs into all five at once.]
+<info>Enter another thing. Alkazar morphs into each of them and eventually 
+morphs into all five at once.</info>
 
-<character>ALKAZAR</character>
-Leela, this must all be ver confusing.
+<speak who="ALKAZAR">
+Leela, this must all be ver confusing.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 A little. That's why I've decided to 
-hurt you until you explain it.
+hurt you until you explain it.</speak>
 
-[She kicks him. 5-Eyes pushes him back, Leela kicks him again.]
+<info>She kicks him. 5-Eyes pushes him back, Leela kicks him again.</info>
 
-<character>SANDY</character>
-Show us your real form!
+<speak who="SANDY">
+Show us your real form!</speak>
 
-<character>LEELA</character>
-Yeah!
+<speak who="LEELA">
+Yeah!</speak>
 
-<character>THING #2</character>
-Do it!
+<speak who="THING #2">
+Do it!</speak>
 
-[Thing #1 screeches.]
+<info>Thing #1 screeches.</info>
 
-[Sandy picks Alkazar up and throws him and Leela kicks him into 
+<info>Sandy picks Alkazar up and throws him and Leela kicks him into 
 a table which collapses under him. Everyone gathers round. He 
-crawls out. He looks like a grasshopper.]
+crawls out. He looks like a grasshopper.</info>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Well, this is the real me. But I can 
 explain. We all have needs. Mine was 
 to make it with five weirdos and have 
@@ -1096,64 +1096,64 @@ all what you wanted and of course I
 made a few bucks letting Pig watch through 
 the two way mirror. Can any of you sa 
 you wouldn't have done the exact same 
-thing in my position?
+thing in my position?</speak>
 
-[Bender cries.]
+<info>Bender cries.</info>
 
-<character>BENDER </character>(<character>CRYING</character>)
-He's a saint!
+<speak who="BENDER"><info>(<character>CRYING</character>)</info>
+He's a saint!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 But why did you have all five weddings 
-on the same day?
+on the same day?</speak>
 
-<character>ALKAZAR</character>
+<speak who="ALKAZAR">
 Hey lady, you got any idea how much 
 it costs to rent a tux that changes 
-shape?
+shape?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Alright Alkazar, I just have one last 
-question for you.
+question for you.</speak>
 
-<character>ALKAZAR</character>
-What's that?
+<speak who="ALKAZAR">
+What's that?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 If you can change form, why didn't you 
-change it in the one place that counts?
+change it in the one place that counts?</speak>
 
-[Everyone cheers and hoots.]
+<info>Everyone cheers and hoots.</info>
 
-[Ship's Cockpit. The ship flies away from the planet, with Amy 
+<info>Ship's Cockpit. The ship flies away from the planet, with Amy 
 at the controls. Bender admires his sack of loot. Leela sits 
-on the arm of the couch with Fry and Farnsworth.]
+on the arm of the couch with Fry and Farnsworth.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Thanks for saving me from that creep 
-Fry.
+Fry.</speak>
 
-<character>FRY</character>
-Hey, that's what I do.
+<speak who="FRY">
+Hey, that's what I do.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I guess I was so desperate to find out 
 who I really was, I forgot who I really 
-was.
+was.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No harm done. In the many decades you'll 
 work to repay me for that shipment of 
 popcorn you destroyed, you'll have plenty 
-of time to search for your true home.
+of time to search for your true home.</speak>
 
-[Leela gets up and stares out of the window.]
+<info>Leela gets up and stares out of the window.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Yeah. I mean, how many planets can there 
-be?
+be?</speak>
 
-[She looks out into the vastness of space and the ship glides 
-away.]
+<info>She looks out into the vastness of space and the ship glides 
+away.</info>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

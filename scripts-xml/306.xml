@@ -1,538 +1,538 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 306
 
-<title><character>BENDLESS LOVE</character></title>
+<title>BENDLESS LOVE</title>
 
 <author>Eric Horsted</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Torn From Tomorrow's Headlines.]
+<info>Opening Credits. Caption: Torn From Tomorrow's Headlines.</info>
 
-[Planet Express: Hangar. The hangar doors are open and the launching 
-mechanism raises the ship into the launch position.]
+<info>Planet Express: Hangar. The hangar doors are open and the launching 
+mechanism raises the ship into the launch position.</info>
 
-[Cut to: Ships Cockpit. The crew are sat at their stations.]
+<info>Cut to: Ships Cockpit. The crew are sat at their stations.</info>
 
-<character>LEELA</character>
-Guidance system?
+<speak who="LEELA">
+Guidance system?</speak>
 
-<character>BENDER</character>
-Online.
+<speak who="BENDER">
+Online.</speak>
 
-<character>LEELA</character>
-Autopilot?
+<speak who="LEELA">
+Autopilot?</speak>
 
-<character>AUTOPILOT</character>
-Present.
+<speak who="AUTOPILOT">
+Present.</speak>
 
-<character>LEELA</character>
-Dark matter indicator?
+<speak who="LEELA">
+Dark matter indicator?</speak>
 
-<character>FRY</character>
-Making the noise.
+<speak who="FRY">
+Making the noise.</speak>
 
-<character>LEELA</character>
-All systems operational. Let's rock!
+<speak who="LEELA">
+All systems operational. Let's rock!</speak>
 
-[She pushes the gear lever forward.]
+<info>She pushes the gear lever forward.</info>
 
-[Cut to: Planet Express: Hangar. The engines fire up.]
+<info>Cut to: Planet Express: Hangar. The engines fire up.</info>
 
-[Cut to: Outside Planet Express. The ship takes off and the engines 
+<info>Cut to: Outside Planet Express. The ship takes off and the engines 
 suddenly shut down. The ship falls onto the road and the landing 
 gear pops out. Motorists honk their horns as the crashed ship 
-causes a traffic jam.]
+causes a traffic jam.</info>
 
-[Planet Express: Meeting Room. Fry, Bender, Zoidberg and Hermes 
-sit around the table. Leela stands holding a thick folder.]
+<info>Planet Express: Meeting Room. Fry, Bender, Zoidberg and Hermes 
+sit around the table. Leela stands holding a thick folder.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Gentlemen, I've completed my report 
-on the crash.
+on the crash.</speak>
 
-[She drops the thick file onto the table and everyone stares 
-at it.]
+<info>She drops the thick file onto the table and everyone stares 
+at it.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Whoa! I'm not reading that crap. Summarise 
-it in one word.
+it in one word.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Sabotage.  This is a normal L-unit. 
 Without it, space travel is but the 
-fevered dream of a madman.
+fevered dream of a madman.</speak>
 
-<character>FRY</character>
-Yep.
+<speak who="FRY">
+Yep.</speak>
 
-<character>BENDER</character>
-Of course.
+<speak who="BENDER">
+Of course.</speak>
 
-<character>ZOIDBERG</character>
-Doy!
+<speak who="ZOIDBERG">
+Doy!</speak>
 
-<character>HERMES</character>
-It's an important unit.
+<speak who="HERMES">
+It's an important unit.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 And this, my friends, is the L-unit 
-I just removed from the ship.
+I just removed from the ship.</speak>
 
-[She pulls a sheet off an L-unit. It is straight. Everyone gasps.]
+<info>She pulls a sheet off an L-unit. It is straight. Everyone gasps.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 That doesn't look like an "L" at all. 
-Unless you count lowercase.
+Unless you count lowercase.</speak>
 
-<character>BENDER</character>
-You know we don't!
+<speak who="BENDER">
+You know we don't!</speak>
 
-[He slaps Fry and he groans.]
+<info>He slaps Fry and he groans.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Whoever did this was strong. This is 
-340 pounds of Tonka-tough steel.
+340 pounds of Tonka-tough steel.</speak>
 
-[Bender stands at her side and picks up the L-unit.]
+<info>Bender stands at her side and picks up the L-unit.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hmm. It should look like this.  But 
-instead it looks like this.
+instead it looks like this.</speak>
 
-[He straightens it again.]
+<info>He straightens it again.</info>
 
-<character>FRY</character>
-Who would do a thing like that?
+<speak who="FRY">
+Who would do a thing like that?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Who could do a thing like that? And 
-by "that", I mean this.
+by "that", I mean this.</speak>
 
-[He bends the L-unit back and forth repeatedly.]
+<info>He bends the L-unit back and forth repeatedly.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Well, gang, it looks like we have another 
-mystery on our hands.
+mystery on our hands.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 I'd better make a chart of the suspects. 
 I'll begin by drawing a line with my 
 straight-edge.  Sweet lampre of Santa 
-Fe! My edge has been bent!
+Fe! My edge has been bent!</speak>
 
-[Amy walks in wearing Mars University sweats.]
+<info>Amy walks in wearing Mars University sweats.</info>
 
-<character>AMY</character>
-(crying) My javelin too! It's ruined. 
-Now we'll never beat Jupiter State.
+<speak who="AMY">
+<info>(crying)</info> My javelin too! It's ruined. 
+Now we'll never beat Jupiter State.</speak>
 
-<character>ZOIDBERG</character>
-My slinky!  My cuddly, little pet slinky!
+<speak who="ZOIDBERG">
+My slinky!  My cuddly, little pet slinky!</speak>
 
-[He cries. Farnsworth walks in. He has been bent forward so his 
-back is horizontal and his face is pointing downwards.]
+<info>He cries. Farnsworth walks in. He has been bent forward so his 
+back is horizontal and his face is pointing downwards.</info>
 
-<character>FARNSWORTH</character>
-What's all the hubbub?
+<speak who="FARNSWORTH">
+What's all the hubbub?</speak>
 
-<character>LEELA</character>
-My God! Even the Professor's been bent.
+<speak who="LEELA">
+My God! Even the Professor's been bent.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 That you for your sympathy, talking 
-square of linoleum.
+square of linoleum.</speak>
 
-<character>BENDER</character>
-I'll get you fixed up.  That's fine.
+<speak who="BENDER">
+I'll get you fixed up.  That's fine.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Wait a minute. Bender? What did you 
-just do to the Professor?
+just do to the Professor?</speak>
 
-<character>BENDER</character>
-I bent him.
+<speak who="BENDER">
+I bent him.</speak>
 
-[More gasps.]
+<info>More gasps.</info>
 
-<character>AMY</character>
-Aha!
+<speak who="AMY">
+Aha!</speak>
 
-<character>HERMES</character>
-Bender!
+<speak who="HERMES">
+Bender!</speak>
 
-<character>ZOIDBERG</character>
-J'accuse!
+<speak who="ZOIDBERG">
+J'accuse!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, I see. A bunch of stuff gets bent 
 so it must be the robot designed for 
-bending.
+bending.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 I know how to settle this: We'll check 
-last night's surveillance tapes.
+last night's surveillance tapes.</speak>
 
-<character>FRY</character>
-Huh?
+<speak who="FRY">
+Huh?</speak>
 
-<character>AMY</character>
-What tapes?
+<speak who="AMY">
+What tapes?</speak>
 
-<character>LEELA</character>
-Surveillance?
+<speak who="LEELA">
+Surveillance?</speak>
 
-<character>ZOIDBERG</character>
-You've seen me naked?
+<speak who="ZOIDBERG">
+You've seen me naked?</speak>
 
-[Planet Express: Surveillance Room. Hermes presses a button and 
+<info>Planet Express: Surveillance Room. Hermes presses a button and 
 a panel in the wall slides up, revealing several screens and 
-rows of tapes. Hermes runs his finger across the tapes.]
+rows of tapes. Hermes runs his finger across the tapes.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Ah. Last night's tape. It was right 
-next to Bathroom Bloopers 4.
+next to Bathroom Bloopers 4.</speak>
 
-[Bender takes the tape and puts it in the <character>VCR</character>. On the screen 
+<info>Bender takes the tape and puts it in the VCR. On the screen 
 Farnsworth snores in his apartment lounge. Owls wander out of 
-an owl hole and start pecking the floor.]
+an owl hole and start pecking the floor.</info>
 
-<character>BENDER</character>
-See? Nothing. Told you, losers.
+<speak who="BENDER">
+See? Nothing. Told you, losers.</speak>
 
-[Bender walks in on the screen with his arms outstretched.]
+<info>Bender walks in on the screen with his arms outstretched.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait! There on the screen. It's that 
-guy you are.
+guy you are.</speak>
 
-[Everyone gasps.]
+<info>Everyone gasps.</info>
 
-<character>BENDER</character>
-I'm sleepwalking.
+<speak who="BENDER">
+I'm sleepwalking.</speak>
 
-[Farnsworth watches a little TV monitor attached to his head.]
+<info>Farnsworth watches a little TV monitor attached to his head.</info>
 
-<character>FARNSWORTH</character>
-Dear God! We've got robots on the ceiling.
+<speak who="FARNSWORTH">
+Dear God! We've got robots on the ceiling.</speak>
 
-[On the screen Bender mumbles in his sleep. He bends a column 
+<info>On the screen Bender mumbles in his sleep. He bends a column 
 and the staff gasp. Then he bends a sofa cushion, a plant and 
 eventually Farnsworth, who groans but remains asleep. Bender 
-turns around and bends the camera. The picture cuts to static.]
+turns around and bends the camera. The picture cuts to static.</info>
 
-<character>FRY</character>
-You weren't sleepwalking. You were sleep-bending!
+<speak who="FRY">
+You weren't sleepwalking. You were sleep-bending!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 This is quite a shock. On the other 
 hand, it's not surprising in the least. 
 After all, I've been bending since the 
-day I was built.
+day I was built.</speak>
 
-[Flashback. Large robotic arms assemble a bending unit on a conveyor 
-belt.]
+<info>Flashback. Large robotic arms assemble a bending unit on a conveyor 
+belt.</info>
 
-<character>BENDER</character>
-(voice-over) I was born on an assembly 
-line in the bad part of Tijuana.
+<speak who="BENDER">
+<info>(voice-over)</info> I was born on an assembly 
+line in the bad part of Tijuana.</speak>
 
-[A robotic arm selects a bending unit head from a box filled 
+<info>A robotic arm selects a bending unit head from a box filled 
 with other robot heads, including Flexo's. It screws the head 
-onto the body and Bender opens his eyes.]
+onto the body and Bender opens his eyes.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Mama.  Hooray! I graduated! Time to 
 bend around Europe for a few months, 
-then get a job bending.
+then get a job bending.</speak>
 
-[He bends his diploma.]
+<info>He bends his diploma.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-<character>AMY</character>
-You remember your own birth?
+<speak who="AMY">
+You remember your own birth?</speak>
 
-<character>BENDER</character>
-Sure. It was only four years ago.
+<speak who="BENDER">
+Sure. It was only four years ago.</speak>
 
-<character>FRY</character>
-You're only four years old?
+<speak who="FRY">
+You're only four years old?</speak>
 
-<character>BENDER</character>
-Precocious little scamp, ain't I?
+<speak who="BENDER">
+Precocious little scamp, ain't I?</speak>
 
-[He takes a puff from a cigar.]
+<info>He takes a puff from a cigar.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Hmm. Bender must have a pent-up need 
 to bend that's not being satisfied by 
-his bend-free lifestyle.
+his bend-free lifestyle.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Then he can't stay here. He's a menace 
 to every straight person in the company. 
 Go satisfy your bend lust and don't 
-you come back to work until you do.
+you come back to work until you do.</speak>
 
-[He puts his hand up and tips backwards.]
+<info>He puts his hand up and tips backwards.</info>
 
-[Outside Curvetti Bros. Bending Plant. Robots have formed a picket 
-line outside.]
+<info>Outside Curvetti Bros. Bending Plant. Robots have formed a picket 
+line outside.</info>
 
-<character>ROBOTS</character>
-(chanting) No more bending, no more 
-work. Give us a raise, you big fat jerk.
+<speak who="ROBOTS">
+<info>(chanting)</info> No more bending, no more 
+work. Give us a raise, you big fat jerk.</speak>
 
-[Sal leans out of a window.]
+<info>Sal leans out of a window.</info>
 
-<character>SAL</character>
-(shouting) Nevers!
+<speak who="SAL">
+<info>(shouting)</info> Nevers!</speak>
 
-[A car pulls up next to the robots and Joey Mouse Pad leans out. 
-He whistles to them.]
+<info>A car pulls up next to the robots and Joey Mouse Pad leans out. 
+He whistles to them.</info>
 
-<character>JOEY</character>
+<speak who="JOEY">
 Yo! The Mafia supports you. But don't 
-tell no one. Spread the word.
+tell no one. Spread the word.</speak>
 
-[He leans back in.]
+<info>He leans back in.</info>
 
-[Cut to: Mafiabot Car. Clamps and Donbot are with Joey.]
+<info>Cut to: Mafiabot Car. Clamps and Donbot are with Joey.</info>
 
-<character>DONBOT</character>
+<speak who="DONBOT">
 As the duly-elected mobsters of this 
 union, it's our duty to support the 
-struggle of these proud, lazy slobs.
+struggle of these proud, lazy slobs.</speak>
 
-<character>JOEY</character>
+<speak who="JOEY">
 Yeah, but what if management remains 
-intragnizent?
+intragnizent?</speak>
 
-<character>DONBOT</character>
+<speak who="DONBOT">
 From the context it is clear what you 
 mean. In that case, Clamps may have 
-a little surprise for them.
+a little surprise for them.</speak>
 
-<character>CLAMPS</character>
-The clamps!  (unsure) Right?
+<speak who="CLAMPS">
+The clamps!  <info>(unsure)</info> Right?</speak>
 
-[Donbot nods and Clamps laughs maniacally.]
+<info>Donbot nods and Clamps laughs maniacally.</info>
 
-[Outside Curvetti Bros. Bending Plant. Bender arrives and sees 
-the robots.]
+<info>Outside Curvetti Bros. Bending Plant. Bender arrives and sees 
+the robots.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aw, no! A strike? Now I'll never get 
-to bend anything. Oh, woe is Bender.
+to bend anything. Oh, woe is Bender.</speak>
 
-<character>ROBOT #1</character>
+<speak who="ROBOT #1">
 Hang tough, brother. Management refused 
 our demand to switch casual Friday to 
-Monday.
+Monday.</speak>
 
-<character>BENDER</character>
-What?!
+<speak who="BENDER">
+What?!</speak>
 
-<character>ROBOT #2</character>
+<speak who="ROBOT #2">
 And now they're hiring scabs at ten- 
-times the normal wage.
+times the normal wage.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ten-times normal wage?  I'll give those 
-jerks what for!
+jerks what for!</speak>
 
-[He walks straight through the fence towards the factory and 
-the robots cheer him on.]
+<info>He walks straight through the fence towards the factory and 
+the robots cheer him on.</info>
 
-[Curvetti Bros. Bending Plant. Bender shakes Sal's hand.]
+<info>Curvetti Bros. Bending Plant. Bender shakes Sal's hand.</info>
 
-<character>SAL</character>
-Welcomes aboard, scab.
+<speak who="SAL">
+Welcomes aboard, scab.</speak>
 
-<character>BENDER</character>
-Great to be here.
+<speak who="BENDER">
+Great to be here.</speak>
 
-<character>SAL</character>
+<speak who="SAL">
 Come on. I'll introduces you to your 
 scab co-workers you'll be scabbing with. 
-This heres our scab foreman.
+This heres our scab foreman.</speak>
 
-[The bending unit turns around.]
+<info>The bending unit turns around.</info>
 
-<character>BENDER</character>
-Flexo?
+<speak who="BENDER">
+Flexo?</speak>
 
-<character>FLEXO</character>
-Bender?
+<speak who="FLEXO">
+Bender?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, sorry you got sent to that South 
 American Turkish prison instead of me 
-on account of mistaken identity.
+on account of mistaken identity.</speak>
 
-<character>FLEXO</character>
+<speak who="FLEXO">
 You bastard! They treated me like an 
 animal and that's what I became!  Nah, 
-you're alright. Good to see you, buddy!
+you're alright. Good to see you, buddy!</speak>
 
-[They high-five.]
+<info>They high-five.</info>
 
-<character>SAL</character>
+<speak who="SAL">
 And heres another scab what also works 
-here: Angleyne.
+here: Angleyne.</speak>
 
-[Bender gasps and stares at the Fembot, blurry eyed. She is thin 
-and has blonde hair.]
+<info>Bender gasps and stares at the Fembot, blurry eyed. She is thin 
+and has blonde hair.</info>
 
-<character>BENDER</character>
-(sexfully) Hello.
+<speak who="BENDER">
+<info>(sexfully)</info> Hello.</speak>
 
-[Angleyne smiles.]
+<info>Angleyne smiles.</info>
 
-<character>SAL</character>
-Hey, yous guyses wanna move that things?
+<speak who="SAL">
+Hey, yous guyses wanna move that things?</speak>
 
-[Robots move a pane of frosted glass from in front of Angleyne, 
-revealing her to be more heavily-built than Bender thought.]
+<info>Robots move a pane of frosted glass from in front of Angleyne, 
+revealing her to be more heavily-built than Bender thought.</info>
 
-<character>BENDER</character>
-(more sexfully) Hello!
+<speak who="BENDER">
+<info>(more sexfully)</info> Hello!</speak>
 
-[Angleyne laughs croakily then coughs.]
+<info>Angleyne laughs croakily then coughs.</info>
 
-[Outside Curvetti Bros. Bending Plant. The robots still march 
-and chant.]
+<info>Outside Curvetti Bros. Bending Plant. The robots still march 
+and chant.</info>
 
-<character>ROBOTS</character>
-(chanting) Give us a raise you big fat 
-jerk.
+<speak who="ROBOTS">
+<info>(chanting)</info> Give us a raise you big fat 
+jerk.</speak>
 
-[Cut to: Curvetti Bros. Bending Plant. A girder drops into Flexo's 
-hands.]
+<info>Cut to: Curvetti Bros. Bending Plant. A girder drops into Flexo's 
+hands.</info>
 
-<character>SAL</character>
-(from outside) Nevers!
+<speak who="SAL">
+<info>(from outside)</info> Nevers!</speak>
 
-[Flexo bends the girder and moves it aside. Bender stands in 
+<info>Flexo bends the girder and moves it aside. Bender stands in 
 front of him and bends a girder. Angleyne bends wires into wire 
 coat hangers. Bender gazes at her and sighs. A girder hits him 
-on the head.]
+on the head.</info>
 
-<character>BENDER</character>
-Ow!  Um. Hi, Angleyne. Whatcha up to?
+<speak who="BENDER">
+Ow!  Um. Hi, Angleyne. Whatcha up to?</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Making hangers. Guidance counsellor 
-said I had a knack for it.
+said I had a knack for it.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 That's cool, that's cool. So, um, uh, 
 I was wondering if, y'know, it's cool 
 if not, but, what are you doing after 
-work?
+work?</speak>
 
-<character>ANGLEYNE</character>
-What I always do. Jack squat.
+<speak who="ANGLEYNE">
+What I always do. Jack squat.</speak>
 
-[Bender chuckles.]
+<info>Bender chuckles.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Me too.  Man, we have a lot in common, 
-huh?
+huh?</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Well we are made of virtually identical 
-components.
+components.</speak>
 
-<character>BENDER</character>
-(sexfully) Are you sure? Maybe I should 
-sneak a peek at your access panel.
+<speak who="BENDER">
+<info>(sexfully)</info> Are you sure? Maybe I should 
+sneak a peek at your access panel.</speak>
 
-[Angleyne holds up a leaflet.]
+<info>Angleyne holds up a leaflet.</info>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Hey, according to the scab handbook 
 that's extremely inappropriate banter. 
-(sexfully) And that's just the way I 
-like it.
+<info>(sexfully)</info> And that's just the way I 
+like it.</speak>
 
-[Bender smiles.]
+<info>Bender smiles.</info>
 
-[Planet Express: Hangar. Hermes tries to straighten his straight 
-edge. Behind him the ship is a battered mess.]
+<info>Planet Express: Hangar. Hermes tries to straighten his straight 
+edge. Behind him the ship is a battered mess.</info>
 
-<character>HERMES</character>
-Haile H. Selassie!
+<speak who="HERMES">
+Haile H. Selassie!</speak>
 
-[He bends it straight. Beside him, Zoidberg has re-curled his 
-slinky, though it doesn't really look right.]
+<info>He bends it straight. Beside him, Zoidberg has re-curled his 
+slinky, though it doesn't really look right.</info>
 
-<character>ZOIDBERG</character>
-There, little friend. Good as new.
+<speak who="ZOIDBERG">
+There, little friend. Good as new.</speak>
 
-[He strokes it and puts it atop a pile of books he has arranged 
+<info>He strokes it and puts it atop a pile of books he has arranged 
 like stairs. He nudges the slinky and it flops down the books 
-and bursts into flames. Zoidberg groans and bursts into tears.]
+and bursts into flames. Zoidberg groans and bursts into tears.</info>
 
-[New New York City Street. Fry and Farnsworth walk down the rough 
+<info>New New York City Street. Fry and Farnsworth walk down the rough 
 street. Farnsworth is looking upwards and doesn't notice how 
-bad the street and its inhabitants are.]
+bad the street and its inhabitants are.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 What an exquisite day. That azure sky, 
 the verdant treetops.  Those delightful 
 birds with their chirp, chirp, chirp 
-and their tweet, tweet, splat.
+and their tweet, tweet, splat.</speak>
 
-[They pass a dog leaving its mark on a fire hydrant and two hookers 
-wearing jet packs.]
+<info>They pass a dog leaving its mark on a fire hydrant and two hookers 
+wearing jet packs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Professor, I've never seen you so cheerful. 
-What the hell's wrong with you?
+What the hell's wrong with you?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Hmm. I'm not quite sure. Perhaps seeing 
 things from a new perspective has reminded 
 me of life's beauty. Or perhaps my new 
 posture is causing blood to pool in 
 the back of my brain, resulting in a 
 mild delirium. Incidentally, you have 
-a dime up your nose.
+a dime up your nose.</speak>
 
-<character>FRY</character>
-I wish! It's a nickel.
+<speak who="FRY">
+I wish! It's a nickel.</speak>
 
-[Outside Curvetti Bros. Bending Plant. A new day dawns and Bender 
+<info>Outside Curvetti Bros. Bending Plant. A new day dawns and Bender 
 passes the picket line wearing a hardhat and carrying a lunchbox. 
-He waves his fist.]
+He waves his fist.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Union forever! Lousy scabs! They can't 
-do those things! Et cetera!
+do those things! Et cetera!</speak>
 
-[Curvetti Bros. Bending Plant.]
+<info>Curvetti Bros. Bending Plant.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I bet watching me bend girders like 
-this turns your legs all rubbery.
+this turns your legs all rubbery.</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Well my legs are made of rubber.  And 
 anyway, I am just as strong as you are, 
-Mac.
+Mac.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, yeah?  Prove it.  Here, let me help 
-you.
+you.</speak>
 
-[He puts his arms around her and together they bend the girder 
+<info>He puts his arms around her and together they bend the girder 
 into a heart shape. A few bars of Unchained Melody play as they 
 gaze into each other's eyes. They lean in and kiss, and sparks 
-fly.]
+fly.</info>
 
-[Montage: Bender and Angleyne date to American Breed's Bend Me, 
+<info>Montage: Bender and Angleyne date to American Breed's Bend Me, 
 Shape Me. At a fairground stall, Bender tries to knock down a 
 pile of bottles with a ball but repeatedly misses. Angleyne looks 
 away in dismay so Bender throws the ball at the man in the stall, 
@@ -546,634 +546,634 @@ at the finish line. Fry and Farnsworth get ahead and Bender takes
 a stick out of his chest cabinet and puts it between the spokes 
 of Farnsworth's wheel, causing him and Fry to fly through the 
 air. They land in a lake and Bender laughs as he and Angleyne 
-cut through the tape.]
+cut through the tape.</info>
 
-[Planet Express: Meeting Room. Farnsworth, Leela, Fry, Zoidberg, 
+<info>Planet Express: Meeting Room. Farnsworth, Leela, Fry, Zoidberg, 
 Amy and Hermes sit around the table. For some reason everyone 
 except Farnsworth is tied to their chair and Leela's ponytail 
-points to her right.]
+points to her right.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 My new bent outlook has completely re-energised 
 me. I'm even dating a young Brazilian 
-retired actress.
+retired actress.</speak>
 
-<character>FRY</character>
-Alright!
+<speak who="FRY">
+Alright!</speak>
 
-[Amy cheers.]
+<info>Amy cheers.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Some say I'm robbing the cradle but 
-I say she's robbing the grave.
+I say she's robbing the grave.</speak>
 
-[Bender wanders in sideways. It turns out the meeting table has 
-been stuck to the wall so Farnsworth can see everyone eye-to-eye.]
+<info>Bender wanders in sideways. It turns out the meeting table has 
+been stuck to the wall so Farnsworth can see everyone eye-to-eye.</info>
 
-<character>BENDER</character>
-Howdy, doodies. What's new?
+<speak who="BENDER">
+Howdy, doodies. What's new?</speak>
 
-[He uses his suction feet to walk up the wall and sit in an empty 
-chair.]
+<info>He uses his suction feet to walk up the wall and sit in an empty 
+chair.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I was just regaling your former co-workers 
 with a tale of bedroom antics, the likes 
-of which--
+of which--</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah, yeah! Big whoop! No-one cares. 
 I got Bender-related news. I'm in love 
 and I'm taking all my friends out to 
-celebrate.
+celebrate.</speak>
 
-[Everyone cheers.]
+<info>Everyone cheers.</info>
 
-<character>AMY</character>
-Let's get liquored up!
+<speak who="AMY">
+Let's get liquored up!</speak>
 
-[Bender walks down to the floor and everyone else falls out of 
-their seats and land in a pile on the floor.]
+<info>Bender walks down to the floor and everyone else falls out of 
+their seats and land in a pile on the floor.</info>
 
-[Elzar's Fine Cuisine. The evening's special is blackened leftovers. 
+<info>Elzar's Fine Cuisine. The evening's special is blackened leftovers. 
 The crew sit around a table and Farnsworth leans against it with 
-his legs behind him.]
+his legs behind him.</info>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Hey, look at this crowd. You guys gotta 
 try the pasta. It's got a real nice 
 profit margin. Bam! So, special occasion 
-tonight?
+tonight?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, Elzar, you'll never guess what's 
-happened?
+happened?</speak>
 
-<character>ELZAR</character>
-Bam?
+<speak who="ELZAR">
+Bam?</speak>
 
-<character>BENDER</character>
-I met the most dynamite ladybot.
+<speak who="BENDER">
+I met the most dynamite ladybot.</speak>
 
-<character>ELZAR</character>
+<speak who="ELZAR">
 Hey, that's terrific. To celebrate, 
 I'm gonna stick seven copies of my latest 
-cookbook on your bill.
+cookbook on your bill.</speak>
 
-[He holds up his book, Three More Recipes and leaves.]
+<info>He holds up his book, Three More Recipes and leaves.</info>
 
-<character>BENDER</character>
-Bless you, sir.
+<speak who="BENDER">
+Bless you, sir.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 So, Bender, tell us about this new girlfriend 
-of yours.
+of yours.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I intend to. Through the lost art of 
 the toast.  To Angleyne, she's got it 
 all. Looks, charm and the love of a 
-fabulous bending robot.
+fabulous bending robot.</speak>
 
-<character>FRY</character>
-She sure does.
+<speak who="FRY">
+She sure does.</speak>
 
-[He points across the room. Bender turns and gasps. Flexo and 
-Angleyne sit at a table laughing.]
+<info>He points across the room. Bender turns and gasps. Flexo and 
+Angleyne sit at a table laughing.</info>
 
-<character>BENDER</character>
-Flexo!
+<speak who="BENDER">
+Flexo!</speak>
 
-[He picks up a baguette and tries to break it. Elzar walks past 
-at the back of the room.]
+<info>He picks up a baguette and tries to break it. Elzar walks past 
+at the back of the room.</info>
 
-<character>ELZAR</character>
-(shouting) Careful, that's a week old!
+<speak who="ELZAR">
+<info>(shouting)</info> Careful, that's a week old!</speak>
 
-[Bender grunts and the stick breaks, then his arms fall off. 
-He reattaches them and mutters to himself.]
+<info>Bender grunts and the stick breaks, then his arms fall off. 
+He reattaches them and mutters to himself.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I finally meet a nice girl with a pair 
 of legs that don't quit unexpectedly 
 and that jerk Flexo steals her away? 
 It's time to kick some shiny, metal 
 ass.  You degenerate hussy! I'm disappointed 
-in you too, Angleyne.
+in you too, Angleyne.</speak>
 
-<character>ANGLEYNE</character>
-Bender, it's-it's not what you think.
+<speak who="ANGLEYNE">
+Bender, it's-it's not what you think.</speak>
 
-<character>BENDER</character>
-Oh, God! Then it's worse than I think.
+<speak who="BENDER">
+Oh, God! Then it's worse than I think.</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Now look, there is no reason to be upset. 
-Flexo and I are divorced.
+Flexo and I are divorced.</speak>
 
-<character>BENDER</character>
-Div-- Huh?
+<speak who="BENDER">
+Div-- Huh?</speak>
 
-<character>FLEXO</character>
+<speak who="FLEXO">
 We're just havin' dinner 'cause we wanna 
-stay friends.
+stay friends.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Uh, I knew that. What I'm actually outraged 
 by is your choice of wine. Really, it's 
-the steward's fault.
+the steward's fault.</speak>
 
-[He smacks a passing steward.]
+<info>He smacks a passing steward.</info>
 
-<character>STEWARD</character>
-Excellent choice, sir.
+<speak who="STEWARD">
+Excellent choice, sir.</speak>
 
-[Planet Express: Lounge. Bender paces backwards and forwards 
+<info>Planet Express: Lounge. Bender paces backwards and forwards 
 muttering to himself. Fry and Leela sit on the couch and Farnsworth 
-leans against it. Leela reads a book.]
+leans against it. Leela reads a book.</info>
 
-<character>BENDER</character>
-(muttering) That Flexo, I'm knockin' 
+<speak who="BENDER">
+<info>(muttering)</info> That Flexo, I'm knockin' 
 him right on his butt. I can't believe 
-this.
+this.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Obsessing won't help, Bender. Take a 
-lean back and enjoy life.
+lean back and enjoy life.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I can't. My Fembot may be in love with 
-another Manbot.
+another Manbot.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well talk to her. Tell her about your 
-feelings in an open an honest way.
+feelings in an open an honest way.</speak>
 
-<character>FRY</character>
-Yeah. Either that or be a man.
+<speak who="FRY">
+Yeah. Either that or be a man.</speak>
 
-[Fry's and Bender's Lounge. At dusk, Bender paces around the 
+<info>Fry's and Bender's Lounge. At dusk, Bender paces around the 
 apartment while Fry trims a plant into the shape of the Planet 
-Express ship.]
+Express ship.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 OK, I've constructed an elaborate lie: 
 I'll call Angleyne while pretending 
 to be Flexo, arrange a date, show up 
 disguised as him and catch her two-timing 
-me with myself.
+me with myself.</speak>
 
-<character>FRY</character>
-That's thinkin' like a man.
+<speak who="FRY">
+That's thinkin' like a man.</speak>
 
-[Bender picks up the phone and dials.]
+<info>Bender picks up the phone and dials.</info>
 
-<character>BENDER</character>
-(disguised voice) Hello? This is Flexo.
+<speak who="BENDER">
+<info>(disguised voice)</info> Hello? This is Flexo.</speak>
 
-[Outside The Hip Joint. A taxi flies towards the club and Bender 
+<info>Outside The Hip Joint. A taxi flies towards the club and Bender 
 gets out. It's Robot Nite and designated device drivers drink 
 free. Bender opens his chest cabient and sticks a goatee to his 
-chin.]
+chin.</info>
 
-<character>BENDER</character>
-Now we'll see who loves whom.
+<speak who="BENDER">
+Now we'll see who loves whom.</speak>
 
-[He cackles and walks in.]
+<info>He cackles and walks in.</info>
 
-[Cut to: The Hip Joint. Bender looks around and sees Angleyne 
-at the bar.]
+<info>Cut to: The Hip Joint. Bender looks around and sees Angleyne 
+at the bar.</info>
 
-<character>BENDER</character>
-Hey, hot stuff.
+<speak who="BENDER">
+Hey, hot stuff.</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Hey, Flexo.  So since when do you go 
 to bars on work nights? It's not like 
-you at all.
+you at all.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Nonsense. It's exactly like me. Flexo: 
 The fun loving love machine Fembots 
 love to love. Hey, barkeep, I'll have 
 a Fuzzy Navel and she'll have the girliest 
-drink in the house.
+drink in the house.</speak>
 
-<character>BARTENDERBOT</character>
-Two Fuzzy Navel's comin' up.
+<speak who="BARTENDERBOT">
+Two Fuzzy Navel's comin' up.</speak>
 
-[Bender takes a wad of cash out of his chest cabinet.]
+<info>Bender takes a wad of cash out of his chest cabinet.</info>
 
-<character>BENDER</character>
-I hope they can make change for a fortune.
+<speak who="BENDER">
+I hope they can make change for a fortune.</speak>
 
-[He tosses the cash over the bar. On the other side of the bar 
-the Mafiabots watch him.]
+<info>He tosses the cash over the bar. On the other side of the bar 
+the Mafiabots watch him.</info>
 
-<character>JOEY</character>
+<speak who="JOEY">
 Yo. Get an eyeload of that filty scab 
 with the beard flashing his filthy scab 
-money. It's an insult to you, boss.
+money. It's an insult to you, boss.</speak>
 
-<character>DONBOT</character>
+<speak who="DONBOT">
 Yeah. That cash oughta be slushin' my 
-fund and kicksing my back.
+fund and kicksing my back.</speak>
 
-<character>CLAMPS</character>
-I'm greasing up my whoozits!
+<speak who="CLAMPS">
+I'm greasing up my whoozits!</speak>
 
-[He squirts oil on his clamps.]
+<info>He squirts oil on his clamps.</info>
 
-<character>DONBOT</character>
+<speak who="DONBOT">
 Whoa, whoa, Clamps, not yet. Let's just 
 keep an eye on him and see if he does 
-it a couple more times.
+it a couple more times.</speak>
 
-[Bender and Angleyne drink.]
+<info>Bender and Angleyne drink.</info>
 
-<character>BENDER</character>
-You're lookin' good to Flexo tonight.
+<speak who="BENDER">
+You're lookin' good to Flexo tonight.</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Quit makin' with the googly eyes. You 
-know that I'm in love with Bender.
+know that I'm in love with Bender.</speak>
 
-<character>BENDER</character>
-Bender? That walking wuss factory?
+<speak who="BENDER">
+Bender? That walking wuss factory?</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Well he may be a walking factory but 
 believe me he is no wuss. Now look. 
 You and me are through. I told you that 
-when I divorced you.
+when I divorced you.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 But going through a divorce together, 
 you can't tell me that didn't bring 
-us closer. Care to dance?
+us closer. Care to dance?</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 You know I love dancing but you always 
-hated it.
+hated it.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 In that case it's something I've always 
 wanted to make up to you.  Hey, scratchmo. 
 How 'bout dropping me and the lady some 
-rump-rattling beats?
+rump-rattling beats?</speak>
 
-[He takes out his cash and throws it at the DJbot. The Mafiabots 
-watch.]
+<info>He takes out his cash and throws it at the DJbot. The Mafiabots 
+watch.</info>
 
-<character>DONBOT</character>
+<speak who="DONBOT">
 I had hoped that by the second time 
 he flashed his cash my rage would have 
-subsided. Sadly that has not happened.
+subsided. Sadly that has not happened.</speak>
 
-[Clamps sharpens his clamps. Bender and Angleyne dance with the 
-other robots.]
+<info>Clamps sharpens his clamps. Bender and Angleyne dance with the 
+other robots.</info>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 You used to be so inflexible, Flexo. 
-You have really loosened up!
+You have really loosened up!</speak>
 
-<character>BENDER</character>
-I recently upgraded my funk card. C'mon!
+<speak who="BENDER">
+I recently upgraded my funk card. C'mon!</speak>
 
-[He dances.]
+<info>He dances.</info>
 
-<character>ANGLEYNE</character>
-Alright!
+<speak who="ANGLEYNE">
+Alright!</speak>
 
-<character>BENDER</character>
-C'mon now, what's new!  Ew!
+<speak who="BENDER">
+C'mon now, what's new!  Ew!</speak>
 
-[He wipes it on his casing.]
+<info>He wipes it on his casing.</info>
 
-<character>ANGLEYNE</character>
-Flexo? What-What's going on?
+<speak who="ANGLEYNE">
+Flexo? What-What's going on?</speak>
 
-[Bender laughs weakly and puts the goatee back on his face.]
+<info>Bender laughs weakly and puts the goatee back on his face.</info>
 
-<character>BENDER</character>
-Um...
+<speak who="BENDER">
+Um...</speak>
 
-[He grabs Angleyne and tilts her back and she laughs.]
+<info>He grabs Angleyne and tilts her back and she laughs.</info>
 
-<character>ANGLEYNE</character>
-Flexo!
+<speak who="ANGLEYNE">
+Flexo!</speak>
 
-[The robots dancing on the platforms start to fall apart and 
-they rain on Bender and Angleyne.]
+<info>The robots dancing on the platforms start to fall apart and 
+they rain on Bender and Angleyne.</info>
 
-[Time Lapse. Bender and Angleyne sit at a table as the janitor 
-sweeps the robot parts off the empty floor.]
+<info>Time Lapse. Bender and Angleyne sit at a table as the janitor 
+sweeps the robot parts off the empty floor.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 So the moral of the story is: If you 
 want it to stay sunk, tie a weight to 
-it!
+it!</speak>
 
-[They laugh.]
+<info>They laugh.</info>
 
-<character>ANGLEYNE</character>
-(laughing) You always were a kick in 
-the teeth, man.
+<speak who="ANGLEYNE">
+<info>(laughing)</info> You always were a kick in 
+the teeth, man.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aw, shucks, thunder-buns! You make me 
-feel like a million volts.
+feel like a million volts.</speak>
 
-[Angleyne sighs and stirs her finger around the rim of her glass.]
+<info>Angleyne sighs and stirs her finger around the rim of her glass.</info>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Flexo, Flexo, Flexo. I'm starting to 
 remember why I fell for you in the first 
-place.
+place.</speak>
 
-<character>BENDER</character>
-(thinking) So, she's falling for Flexo, 
+<speak who="BENDER">
+<info>(thinking)</info> So, she's falling for Flexo, 
 eh? I'd better seduce her a little more, 
-just to be sure.
+just to be sure.</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Well, it's late. I should get home to 
-my trailer.
+my trailer.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'll walk you out. After all, a true 
 gentleman tends to his date's every 
-need.  Tiparillo?
+need.  Tiparillo?</speak>
 
-[Outside The Hip Joint. Bender and Angleyne walk out smoking 
-their cigars. Bender hands a valet some money.]
+<info>Outside The Hip Joint. Bender and Angleyne walk out smoking 
+their cigars. Bender hands a valet some money.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Here you are, my lad. Bring the lady's 
-car around in the finest way possible.
+car around in the finest way possible.</speak>
 
-[Cut to: Mafiabot Car. The mobbots watch.]
+<info>Cut to: Mafiabot Car. The mobbots watch.</info>
 
-<character>JOEY</character>
-He's flashin' his cash loaf again.
+<speak who="JOEY">
+He's flashin' his cash loaf again.</speak>
 
-<character>DONBOT</character>
-How many times is that? Two or three?
+<speak who="DONBOT">
+How many times is that? Two or three?</speak>
 
-<character>CLAMPS</character>
-Three.
+<speak who="CLAMPS">
+Three.</speak>
 
-<character>DONBOT</character>
+<speak who="DONBOT">
 Alright. That's the necessary number 
 of times. That scab's gonna have a little 
-on-the-job accident.
+on-the-job accident.</speak>
 
-<character>JOEY</character>
+<speak who="JOEY">
 With all due respect, Donbot, I don't 
 think we should rely on an accident 
-happening. Let's kill him ourselves.
+happening. Let's kill him ourselves.</speak>
 
-[Donbot groans.]
+<info>Donbot groans.</info>
 
-[Cut to: Outside The Hip Joint. Angleyne stands by her car.]
+<info>Cut to: Outside The Hip Joint. Angleyne stands by her car.</info>
 
-<character>ANGLEYNE</character>
-Well, goodnight. I-I had a great time.
+<speak who="ANGLEYNE">
+Well, goodnight. I-I had a great time.</speak>
 
-<character>BENDER</character>
-How 'bout a lift? To your place.
+<speak who="BENDER">
+How 'bout a lift? To your place.</speak>
 
-<character>ANGLEYNE</character>
-What?
+<speak who="ANGLEYNE">
+What?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Admit it. You felt something for me 
-tonight. And by me I mean Flexo.
+tonight. And by me I mean Flexo.</speak>
 
-<character>ANGLEYNE</character>
-Hey look, I had fun but--
+<speak who="ANGLEYNE">
+Hey look, I had fun but--</speak>
 
-<character>BENDER</character>
-But?
+<speak who="BENDER">
+But?</speak>
 
-<character>ANGLEYNE</character>
-But--
+<speak who="ANGLEYNE">
+But--</speak>
 
-<character>BENDER</character>
-Buuut?
+<speak who="BENDER">
+Buuut?</speak>
 
-<character>ANGLEYNE</character>
-(gasping) But...  Huh? Bender! You tricked 
-me.
+<speak who="ANGLEYNE">
+<info>(gasping)</info> But...  Huh? Bender! You tricked 
+me.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 That's right, baby. I ain't your lover 
 boy, Flexo, the guy you love so much. 
 You even love anybody pretending to 
-be him.
+be him.</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 Well maybe I love you so much I love 
 you no matter who you're pretending 
-to be.
+to be.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, how I wish I could believe or understand 
 that! There's only one reasonable course 
-of action now: Kill Flexo.  Ow!
+of action now: Kill Flexo.  Ow!</speak>
 
-[He takes Angleyne's car and flies away. She runs after him to 
-the edge of the platform.]
+<info>He takes Angleyne's car and flies away. She runs after him to 
+the edge of the platform.</info>
 
-<character>ANGLEYNE</character>
-(screaming) Nooo!
+<speak who="ANGLEYNE">
+<info>(screaming)</info> Nooo!</speak>
 
-[Curvetti Bros. Bending Plant. Flexo hums as he bends girders. 
-Bender walks in and pushes Flexo.]
+<info>Curvetti Bros. Bending Plant. Flexo hums as he bends girders. 
+Bender walks in and pushes Flexo.</info>
 
-<character>FLEXO</character>
+<speak who="FLEXO">
 Thanks, I appreciate that.  Nah, I'm 
-joshing you. That was quite annoying.
+joshing you. That was quite annoying.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You call yourself divorced? You're making 
-a mockery of one of our oldest institutions.
+a mockery of one of our oldest institutions.</speak>
 
-<character>FLEXO</character>
-What?
+<speak who="FLEXO">
+What?</speak>
 
-[Bender punches him and they start fighting. In a control room 
+<info>Bender punches him and they start fighting. In a control room 
 above, the mobbots watch. Clamps operates a set of controls that 
-hold a huge unbendable girder above the factory floor.]
+hold a huge unbendable girder above the factory floor.</info>
 
-<character>CLAMPS</character>
+<speak who="CLAMPS">
 Alright, boss, give the word and I'll 
 drop this unbendable girder. Clamp, 
-clamp, ka-bamp!
+clamp, ka-bamp!</speak>
 
-<character>DONBOT</character>
+<speak who="DONBOT">
 Remember, only kill the one with the 
 beard. That other filthy scab we got 
-nothing against.
+nothing against.</speak>
 
-[Clamps moves the girder and Flexo pushes Bender against a wall. 
+<info>Clamps moves the girder and Flexo pushes Bender against a wall. 
 Bender opens Flexo's door and punches the roof of his chest cabinet. 
-Flexo groans.]
+Flexo groans.</info>
 
-<character>FLEXO</character>
-That's low!
+<speak who="FLEXO">
+That's low!</speak>
 
-[Angleyne runs around the corner.]
+<info>Angleyne runs around the corner.</info>
 
-<character>ANGLEYNE</character>
-Please stop! I'm not worth it!
+<speak who="ANGLEYNE">
+Please stop! I'm not worth it!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Probably not. But I love you And I'm 
-gonna kick his ass 'til I win you back.
+gonna kick his ass 'til I win you back.</speak>
 
-[He pushes Flexo into the middle of the room and Clamps moves 
-the girder again. Flexo starts choking Bender.]
+<info>He pushes Flexo into the middle of the room and Clamps moves 
+the girder again. Flexo starts choking Bender.</info>
 
-<character>DONBOT</character>
-(from control room) OK, Clamps. Now!
+<speak who="DONBOT">
+<info>(from control room)</info> OK, Clamps. Now!</speak>
 
-[The girder drops and Bender and Flexo fall to the floor. Angleyne 
-screams and the mobbots look through the window.]
+<info>The girder drops and Bender and Flexo fall to the floor. Angleyne 
+screams and the mobbots look through the window.</info>
 
-<character>CLAMPS</character>
-Ooh, that's gotta clamp!
+<speak who="CLAMPS">
+Ooh, that's gotta clamp!</speak>
 
-[Flexo has been crushed under the girder. Angleyne kneels by 
-him.]
+<info>Flexo has been crushed under the girder. Angleyne kneels by 
+him.</info>
 
-<character>ANGLEYNE</character>
-Flexo? Are you OK?
+<speak who="ANGLEYNE">
+Flexo? Are you OK?</speak>
 
-<character>FLEXO</character>
+<speak who="FLEXO">
 Yeah, never better.  Nah, I'm yankin' 
-your chain, I'm dying.
+your chain, I'm dying.</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 You can't die. Tonight Bender showed 
-me that I love you.
+me that I love you.</speak>
 
-<character>BENDER</character>
-But, I love you.
+<speak who="BENDER">
+But, I love you.</speak>
 
-<character>ANGLEYNE</character>
+<speak who="ANGLEYNE">
 I know and I care for you too. But I 
 could never love anyone as much as you 
-made me realise I love Flexo.
+made me realise I love Flexo.</speak>
 
-[She hugs Flexo and cries.]
+<info>She hugs Flexo and cries.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 But ... but ...  I love you so much, 
 Angleyne, I want you to be happy no 
-matter what.
+matter what.</speak>
 
-<character>ANGLEYNE</character>
-What, what are you saying?
+<speak who="ANGLEYNE">
+What, what are you saying?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm saying I've got an unbendable girder 
-to bend.
+to bend.</speak>
 
-<character>ANGLEYNE</character>
-You can't bend that girder. It's unbendable!
+<speak who="ANGLEYNE">
+You can't bend that girder. It's unbendable!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well I don't know anything about lifting, 
-so that just leaves us the one option.
+so that just leaves us the one option.</speak>
 
-[He grunts as he tries to bend the girder. He stops and takes 
-some <character>BENDGAY</character> out of his chest cabinet. He rubs it on his hands 
+<info>He grunts as he tries to bend the girder. He stops and takes 
+some BENDGAY out of his chest cabinet. He rubs it on his hands 
 and arms and tries bending again. Oil dribbles down his forehead, 
 his door pops off and his antenna explodes but he finally manages 
 to bend the girder away from Flexo's head. Flexo waddles out 
-from under it and shakes Bender's hand.]
+from under it and shakes Bender's hand.</info>
 
-<character>FLEXO</character>
+<speak who="FLEXO">
 Thanks, buddy. Another year under that 
-and I'd have been a goner.
+and I'd have been a goner.</speak>
 
-[Angleyne hugs Bender.]
+<info>Angleyne hugs Bender.</info>
 
-<character>ANGLEYNE</character>
-I'll always remember this, Bender.
+<speak who="ANGLEYNE">
+I'll always remember this, Bender.</speak>
 
-[She hugs Flexo and Bender wipes a tear away from his eye.]
+<info>She hugs Flexo and Bender wipes a tear away from his eye.</info>
 
-<character>BENDER</character>
-(crying) Me too. Me too. (talking) Jerk.
+<speak who="BENDER">
+<info>(crying)</info> Me too. Me too. <info>(talking)</info> Jerk.</speak>
 
-[Planet Express: Lounge. The staff sit around the table.]
+<info>Planet Express: Lounge. The staff sit around the table.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 So Flexo and Angleyne had sex right 
 there on the factory floor? Well, at 
-least you got bending out of your system.
+least you got bending out of your system.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yes. I won't be up to bending again 
-for a long, long time.
+for a long, long time.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Perhaps it's your outlook that needs 
 a good bend. A 90-degree bend to a place 
 where happiness is perpendicular to 
-wonderment.
+wonderment.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Professor, we're all sick of your upbeat 
-attitude.
+attitude.</speak>
 
-<character>AMY</character>
-I'll say.
+<speak who="AMY">
+I'll say.</speak>
 
-<character>ZOIDBERG</character>
-Believe it.
+<speak who="ZOIDBERG">
+Believe it.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Nonsense. It's just like in the song 
 I wrote:
 
-(singing) We all need a new angle on life,
+<info>(singing)</info> We all need a new angle on life,
 
 You gotta bend away all your trouble and your strife,
 
-[Leela sighs.]
+</speak><info>Leela sighs.</info>
 
-<character>LEELA</character>
-Bender, you've gotta help us.
+<speak who="LEELA">
+Bender, you've gotta help us.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I try to get out but they keep pulling 
-me back in.
+me back in.</speak>
 
-[He stands up and rolls up his sleeves.]
+<info>He stands up and rolls up his sleeves.</info>
 
-<character>FARNSWORTH</character>
-(singing) You gotta dangle,
+<speak who="FARNSWORTH">
+<info>(singing)</info> You gotta dangle,
 
 Have a new angle,
 
 Wangle a new dangle on life.
 
-[Bender bends him and he screams. He has bent right over backwards.]
+</speak><info>Bender bends him and he screams. He has bent right over backwards.</info>
 
-<character>AMY</character>
-No, Bender! The other way.
+<speak who="AMY">
+No, Bender! The other way.</speak>
 
-<character>BENDER</character>
-I like him better this way.
+<speak who="BENDER">
+I like him better this way.</speak>
 
-<character>FARNSWORTH</character>
-I'm sad now.
+<speak who="FARNSWORTH">
+I'm sad now.</speak>
 
-<character>LEELA</character>
-Eh, it's fine.
+<speak who="LEELA">
+Eh, it's fine.</speak>
 
-<character>THE END</character>
+<info>THE END</info>
 </xml>

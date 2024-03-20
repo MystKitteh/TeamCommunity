@@ -1,51 +1,51 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 314
 
-<title><character>TIME KEEPS ON SLIPPING</character></title>
+<title>TIME KEEPS ON SLIPPING</title>
 
 <author>Ken Keeler</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: For Proper Viewing, Take Red Pill 
-Now.]
+<info>Opening Credits. Caption: For Proper Viewing, Take Red Pill 
+Now.</info>
 
-[Central Park Lake. People enjoy themselves on the lake, sunbathing, 
+<info>Central Park Lake. People enjoy themselves on the lake, sunbathing, 
 barbecuing and fishing. The Planet Express crew are there. Hermes 
-throws a frisbee.]
+throws a frisbee.</info>
 
-<character>HERMES</character>
-Go get it, boy!
+<speak who="HERMES">
+Go get it, boy!</speak>
 
-[Zoidberg runs after it, catches it and eats it. Leela eats a 
-sandwich and Fry kneels in front of her.]
+<info>Zoidberg runs after it, catches it and eats it. Leela eats a 
+sandwich and Fry kneels in front of her.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 So, Leela, how about a romantic ride 
 in one of those swan boats? They're 
 kinda dangerous but I finally mastered 
-them.
+them.</speak>
 
-<character>LEELA</character>
-Those aren't swan boats, they're swans.
+<speak who="LEELA">
+Those aren't swan boats, they're swans.</speak>
 
-<character>FRY</character>
-Oh. That explains these boat eggs.
+<speak who="FRY">
+Oh. That explains these boat eggs.</speak>
 
-[He holds up some eggs. A shadow creeps over him and he gasps. 
+<info>He holds up some eggs. A shadow creeps over him and he gasps. 
 It's a flying saucer. Crowds flee, screaming, as it lands by 
-the lake.]
+the lake.</info>
 
-<character>FARNSWORTH</character>
-Wha?
+<speak who="FARNSWORTH">
+Wha?</speak>
 
-[A screaming man runs past Amy, who is sunbathing topless, is 
+<info>A screaming man runs past Amy, who is sunbathing topless, is 
 briefly distracted by her, then carries on screaming. Amy sees 
 the flying saucer and screams. A ramp comes down from the ship 
 and a door opens. Nine basketball players walk out, dribbling 
-basketballs. The leader, a guy with an afro, steps forward.]
+basketballs. The leader, a guy with an afro, steps forward.</info>
 
-<character>TATE</character>
+<speak who="TATE">
 Pitiful ballplayers of Earth, I am Ethan 
 "Bubblegum" Tate, commander of the Harlem 
 Globetrotters.  For generations, your 
@@ -54,124 +54,124 @@ the Globetrotter Homeworld. But now,
 for no reason, we challenge you to defend 
 your honour on the basketball court. 
 Will no one meet our challenge? Have 
-none of you pathetic Earthlings game?
+none of you pathetic Earthlings game?</speak>
 
-<character>FRY</character>
-(shouting) What happens if we lose?
+<speak who="FRY">
+<info>(shouting)</info> What happens if we lose?</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Nothing. There's nothing at stake and 
-no threat - beyond the shame of defeat!
+no threat - beyond the shame of defeat!</speak>
 
-[A player passes him a basketball with Earth on it and he drops 
-it into a bin. People gasp and Zoidberg holds Hermes back.]
+<info>A player passes him a basketball with Earth on it and he drops 
+it into a bin. People gasp and Zoidberg holds Hermes back.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 This will not stand!  I'll take you 
-on, you air-balling bozos.
+on, you air-balling bozos.</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 You, old man? Sweet Clyde, laugh derisively 
-at him.
+at him.</speak>
 
-[Another player laughs.]
+<info>Another player laughs.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 I may be an old man - in fact, I'm fairly 
 sure I am - but I'll put you Globetrotters 
 in your place with my team of mutant 
-atomic supermen!
+atomic supermen!</speak>
 
-[The crowd cheers.]
+<info>The crowd cheers.</info>
 
-<character>HERMES</character>
-Hooray, professor!
+<speak who="HERMES">
+Hooray, professor!</speak>
 
-[Planet Express: Farnsworth's Lab. Farnsworth has gathered the 
-staff in front of a big curtain.]
+<info>Planet Express: Farnsworth's Lab. Farnsworth has gathered the 
+staff in front of a big curtain.</info>
 
-<character>FARNSWORTH</character>
-Behold: My mutant atomic supermen.
+<speak who="FARNSWORTH">
+Behold: My mutant atomic supermen.</speak>
 
-[He draws back the curtain to reveal five little men in nappies 
-in a hamster cage.]
+<info>He draws back the curtain to reveal five little men in nappies 
+in a hamster cage.</info>
 
-<character>LEELA</character>
-They're only a foot high, professor.
+<speak who="LEELA">
+They're only a foot high, professor.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Well, they're still young. Mere atomic 
 super boys, really. We'll need to speed 
 up their growth with time particles 
-called Chronitons.
+called Chronitons.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Aren't those the particles that destroyed 
-an entire civilisation -
+an entire civilisation -</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Good news, everyone. You're off to the 
-Tempest Nebula to gather Chronitons.
+Tempest Nebula to gather Chronitons.</speak>
 
-[Tempest Nebula. Fry, Leela and Bender are tethered to the ship 
+<info>Tempest Nebula. Fry, Leela and Bender are tethered to the ship 
 and holding jars. Fry and Bender wear space suits. Leela plucks 
 a particle from the nebula and hole starts to burn away where 
 the particle was. She puts it in the jar. Bender lets them glide 
-into his mouth, then he spits them into a jar.]
+into his mouth, then he spits them into a jar.</info>
 
-<character>FRY</character>
-Hey, Leela. Look at me!
+<speak who="FRY">
+Hey, Leela. Look at me!</speak>
 
-[He takes the valve out of his helmet and his head inflates. 
-He puts it back in and it shrinks to normal size. He coughs.]
+<info>He takes the valve out of his helmet and his head inflates. 
+He puts it back in and it shrinks to normal size. He coughs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Your face can take a lot of punishment. 
-That's good to know.
+That's good to know.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 There's a lot about my face you don't 
 know. Perhaps you and it could get better 
-acquainted over dinner.
+acquainted over dinner.</speak>
 
-<character>LEELA</character>
-Alright, cool your jets, hotshot.
+<speak who="LEELA">
+Alright, cool your jets, hotshot.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 C'mon, Leela, why won't you go out with 
-me? We both know there's something there.
+me? We both know there's something there.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No, I mean cool your jets. They're melting 
-Bender's face.
+Bender's face.</speak>
 
-[Fry turns around and sees his jets turning Bender red-hot.]
+<info>Fry turns around and sees his jets turning Bender red-hot.</info>
 
-<character>BENDER</character>
-(shouting) Ow! Oh my God! Ow!
+<speak who="BENDER">
+<info>(shouting)</info> Ow! Oh my God! Ow!</speak>
 
-[Planet Express: Farnsworth's Lab. The crew return from the nebula. 
-Leela holds a huge bottle of the particles.]
+<info>Planet Express: Farnsworth's Lab. The crew return from the nebula. 
+Leela holds a huge bottle of the particles.</info>
 
-<character>LEELA</character>
-Here you go. Hot off the nebula.
+<speak who="LEELA">
+Here you go. Hot off the nebula.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 None too soon. While you were gone the 
 Trotters held a news conference to announce 
 that I was a jive sucker.  Behold! My 
-invincible nuclear mutants.
+invincible nuclear mutants.</speak>
 
-<character>AMY</character>
-Hi!
+<speak who="AMY">
+Hi!</speak>
 
-<character>ARACHNEON</character>
-Hello!
+<speak who="ARACHNEON">
+Hello!</speak>
 
-[Madison Cube Garden. The bleachers around the basketball court 
-are packed. Marv Albert commentates.]
+<info>Madison Cube Garden. The bleachers around the basketball court 
+are packed. Marv Albert commentates.</info>
 
-<character>ALBERT</character>
+<speak who="ALBERT">
 Marv Albert here at Madison Cube Garden 
 where the Harlem Globerotters take on 
 a squad of atomic supermen in what promises 
@@ -180,20 +180,20 @@ with no surprises whatsoever.  Here's
 the tip-off. Globetrotter ball. Sweet 
 Clyde Dixon to Bubblegum Tate. Drives 
 down-court - and Curly Joe from the 
-rear.
+rear.</speak>
 
-[Curly Joe grabs the five-armed mutant's ass. Zoidberg laughs.]
+<info>Curly Joe grabs the five-armed mutant's ass. Zoidberg laughs.</info>
 
-<character>ZOIDBERG</character>
-That one grabbed his behindus!
+<speak who="ZOIDBERG">
+That one grabbed his behindus!</speak>
 
-<character>LEELA</character>
-Shh!
+<speak who="LEELA">
+Shh!</speak>
 
-<character>HERMES</character>
-Quiet!
+<speak who="HERMES">
+Quiet!</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Who dares laugh at the Jesters of Dunk? 
 We came to terrify and humiliate you 
 - not tickle your funnybones. Watch 
@@ -201,968 +201,968 @@ as I embarrass your civilisation by
 passing the ball to Curly Joe.  Only 
 to have it remain in my hands with elastic. 
 And perhaps this will wipe the smiles 
-from your faces.
+from your faces.</speak>
 
-[He passes to another player and he throws it to the net.]
+<info>He passes to another player and he throws it to the net.</info>
 
-<character>ALBERT</character>
+<speak who="ALBERT">
 Goose goes up... Rejected! Growtrium 
-from half-court.  Yes!
+from half-court.  Yes!</speak>
 
-[The crowd cheers.]
+<info>The crowd cheers.</info>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>ALBERT</character>
+<speak who="ALBERT">
 Supermen lead 45-42. Arachneon with 
 the steal, to Thorias. Thorias from 
 downtown!  Yes! He's really showing 
 us what a man with a cannon in his chest 
-can do!
+can do!</speak>
 
-<character>FARNSWORTH</character>
-No showboarding, you atomic hotdog!
+<speak who="FARNSWORTH">
+No showboarding, you atomic hotdog!</speak>
 
-[He weakly throws a chair and a buzzer buzzes.]
+<info>He weakly throws a chair and a buzzer buzzes.</info>
 
-<character>ALBERT</character>
+<speak who="ALBERT">
 And that's the half, with the Supermen 
 up 48-42. Surprisingly dull, so far. 
 Bubblegum, the Trotters are down by 
-six. Reactions?
+six. Reactions?</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 It was always our plan to trail at the 
 half. Thus deepening Earth's eventual 
 humiliation. Also: What game were the 
-refs watching?
+refs watching?</speak>
 
-[Time Lapse. The referee throws the ball up. Curly Joe sits on 
+<info>Time Lapse. The referee throws the ball up. Curly Joe sits on 
 the scoreboard with the ball, just out of reach of Growtrium. 
-He laughs.]
+He laughs.</info>
 
-<character>ALBERT</character>
+<speak who="ALBERT">
 Curly Joe, easily amused by his own 
 antics......continues to wreak havoc 
-on -
+on -</speak>
 
-[Everything flashes and the players suddenly change position. 
-The ball is now spinning on Tate's finger.]
+<info>Everything flashes and the players suddenly change position. 
+The ball is now spinning on Tate's finger.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 What the?  Did everything just jump 
 around? Or did my brain just stroke 
-off there for a second?
+off there for a second?</speak>
 
-<character>ALBERT</character>
+<speak who="ALBERT">
 Ladies and gentlemen, something very 
 strange has just happened in this basketball 
 game between space clowns and atomic 
-monsters.
+monsters.</speak>
 
-[Tate shrugs and throws the ball. The laser-eyed mutant shoots 
+<info>Tate shrugs and throws the ball. The laser-eyed mutant shoots 
 a laser beam at the ball in it bursts into flames. Everything 
 jumps around again and the five-armed mutant finds himself flying 
 through the air. He hits the back board and lands on the hoop. 
-The crowd groans.]
+The crowd groans.</info>
 
-<character>FARNSWORTH</character>
-Time-out! Time-out!
+<speak who="FARNSWORTH">
+Time-out! Time-out!</speak>
 
-[The referee blows the whistle.]
+<info>The referee blows the whistle.</info>
 
-<character>FRY</character>
-What's happening?
+<speak who="FRY">
+What's happening?</speak>
 
-[Bender shakes.]
+<info>Bender shakes.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 We seem to be lurching forward randomly 
 in time, like a needle skipping on a 
-record player.
+record player.</speak>
 
-<character>AMY</character>
-What's causing it? Is it my outfit?
+<speak who="AMY">
+What's causing it? Is it my outfit?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No. It must have something to do with 
 those time particles I used to grow 
 the Supermen. Time and space are ripping 
-apart at the seams.
+apart at the seams.</speak>
 
-[The Supermen gasp. Thorias releases the ball from his cannon 
-and it hits Arachneon and splats him.]
+<info>The Supermen gasp. Thorias releases the ball from his cannon 
+and it hits Arachneon and splats him.</info>
 
-<character>THORIAS</character>
-Oops.
+<speak who="THORIAS">
+Oops.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh, great. Now, on top of everything, 
-we need a new fifth man.
+we need a new fifth man.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Ooh, ooh, ooh, put me in, professor. 
-I wanna show Leela my skills.
+I wanna show Leela my skills.</speak>
 
-<character>FARNSWORTH</character>
-Hmm. Will said skills pay the bills?
+<speak who="FARNSWORTH">
+Hmm. Will said skills pay the bills?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Who cares? We're 35 points ahead with 
 two minutes left. What could possibly 
--
+-</speak>
 
-[Time skips. Fry is standing in the middle of the court holding 
+<info>Time skips. Fry is standing in the middle of the court holding 
 the ball. The crowd boos as Tate takes the ball and scores. The 
-game ends.]
+game ends.</info>
 
-<character>ALBERT</character>
+<speak who="ALBERT">
 Globetrotters win, 244-86. A dark day 
 for humanity, folks. We have been beaten...in 
-basketball.
+basketball.</speak>
 
-[The Globetrotters cheer and taunt Earth.]
+<info>The Globetrotters cheer and taunt Earth.</info>
 
-<character>CURLY JOE</character>
-Yeah, that's ow we do it!
+<speak who="CURLY JOE">
+Yeah, that's ow we do it!</speak>
 
-<character>SWEET CLYDE</character>
-How's that?
+<speak who="SWEET CLYDE">
+How's that?</speak>
 
-<character>TATE</character>
-You are all fools of the highest calibre.
+<speak who="TATE">
+You are all fools of the highest calibre.</speak>
 
-[Everyone starts to leave.]
+<info>Everyone starts to leave.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I don't know what you did, Fry, but 
 once again you screwed up. Now all the 
 planets are gonna start cracking wise 
-about our mamas.
+about our mamas.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 I'm just glad my fat, ugly mama isn't 
-alive to see this day.
+alive to see this day.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Enough about your promiscuous mother, 
 Hermes. We have bigger problems. This 
-time disruption is extremely serious.
+time disruption is extremely serious.</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Damn right, brother man. This chronological 
 wang-dang-doodle could destroy the very 
-matrix of reality.
+matrix of reality.</speak>
 
-<character>FARNSWORTH</character>
-Tate? What do you know about this?
+<speak who="FARNSWORTH">
+Tate? What do you know about this?</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Not much, yet. But I am senior lecturer 
 of physics at Globetrotter U. And I 
-like to help you investigate.
+like to help you investigate.</speak>
 
-<character>FARNSWORTH</character>
-You're that Bubblegum Tate?
+<speak who="FARNSWORTH">
+You're that Bubblegum Tate?</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Well I sure ain't his grandma. Now look 
 here, prof......I think we got ourselves 
 an excess of Chronitons in the subatomic 
-interstices.
+interstices.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Yes, I see. Something involving that 
 many big words could easily destabilise 
-time itself.
+time itself.</speak>
 
-<character>FRY</character>
-Is that a problem?
+<speak who="FRY">
+Is that a problem?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Indeed so. At this rate, by Tuesday 
 it will be Thursday; By Wednesday, it 
 will be August and by Thursday, it will 
-be the end of existence as we know it.
+be the end of existence as we know it.</speak>
 
-<character>MAN</character>
+<speak who="MAN">
 I'll have to ask you to clear out now. 
 The circus need to set up for tomorrow's 
-big -
+big -</speak>
 
-[Time skips and the Planet Express staff and the Globetrotters 
+<info>Time skips and the Planet Express staff and the Globetrotters 
 find themselves in the middle of a circus. An elephant trumpets 
-and they scatter.]
+and they scatter.</info>
 
-[Planet Express: Lounge. The staff watch a news report.]
+<info>Planet Express: Lounge. The staff watch a news report.</info>
 
-<character>LINDA</character>
+<speak who="LINDA">
 Time continues to skip forward randomly. 
-Details at 11.
+Details at 11.</speak>
 
-[Time skips and it is already 11pm.]
+<info>Time skips and it is already 11pm.</info>
 
-<character>LINDA</character>
+<speak who="LINDA">
 This is the news at 11. The mysterious 
-an unexplained -
+an unexplained -</speak>
 
-[Time skips.]
+<info>Time skips.</info>
 
-<character>LINDA</character>
+<speak who="LINDA">
 Turning to entertainment news, teen 
 singer Wendy might just be the latest 
--
+-</speak>
 
-[Time skips.]
+<info>Time skips.</info>
 
-<character>LINDA</character>
-...won three Grammys last night -
+<speak who="LINDA">
+...won three Grammys last night -</speak>
 
-[Time skips. The picture of Wendy behind her has a "2984 - 3002" 
-caption below it.]
+<info>Time skips. The picture of Wendy behind her has a "2984 - 3002" 
+caption below it.</info>
 
-<character>LINDA</character>
-...found dead in her bathtub.
+<speak who="LINDA">
+...found dead in her bathtub.</speak>
 
-[Farnsworth turns the TV off.]
+<info>Farnsworth turns the TV off.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Interesting. It's as if we behave normally 
 during the time skips, but then we have 
-no memory of it.
+no memory of it.</speak>
 
-<character>FRY</character>
-You mean we just -
+<speak who="FRY">
+You mean we just -</speak>
 
-[Time skips.]
+<info>Time skips.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 ...my, yes. Ooh, just like that. Any 
-luck Bubblegum?
+luck Bubblegum?</speak>
 
-[In the corner of the room, Tate is wearing a lab coat and doing 
-some equations on a board.]
+<info>In the corner of the room, Tate is wearing a lab coat and doing 
+some equations on a board.</info>
 
-<character>TATE</character>
+<speak who="TATE">
 Not yet. Listen, I hope you don't mind 
-if I dribble a little while I work.
+if I dribble a little while I work.</speak>
 
-<character>FARNSWORTH</character>
-Not if you'll grant me the same liberty.
+<speak who="FARNSWORTH">
+Not if you'll grant me the same liberty.</speak>
 
-[He wipes his mouth on his sleeve.]
+<info>He wipes his mouth on his sleeve.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ooh, ohh, Bubblegum? My name's Bender 
 and I'm a huge fan of your work, both 
-on and off the court. Can I be a Globetrotter?
+on and off the court. Can I be a Globetrotter?</speak>
 
-<character>TATE</character>
-Shut up, turkey.
+<speak who="TATE">
+Shut up, turkey.</speak>
 
-[Bender sighs. Farnsworth swings something around.]
+<info>Bender sighs. Farnsworth swings something around.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Bubblegum, look at this. The background 
-time radiation is fluctuating wildly.
+time radiation is fluctuating wildly.</speak>
 
-[The needle on the time flux meter wobbles back and forth.]
+<info>The needle on the time flux meter wobbles back and forth.</info>
 
-<character>TATE</character>
+<speak who="TATE">
 Good Lord. That sucker's shaking around 
-like some fine, imported booty.
+like some fine, imported booty.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Say, I'm no physicist, but I think I 
 know how to stop the skipping. We'll 
-just -
+just -</speak>
 
-[Time skips. Hermes is wearing a funky shirt and playing a steel 
-drum while the others have formed a nude conga line.]
+<info>Time skips. Hermes is wearing a funky shirt and playing a steel 
+drum while the others have formed a nude conga line.</info>
 
-<character>HERMES</character>
+<speak who="HERMES">
 I don't know how this was supposed to 
-work.
+work.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Professor, I hope you find out what's 
 wrong before we skip right past my birth 
--
+-</speak>
 
-[Time skips. The lounge has streamers and balloons and banners 
+<info>Time skips. The lounge has streamers and balloons and banners 
 around it in celebration of Amy's birthday. There is a cake on 
-the coffee table and presents around it.]
+the coffee table and presents around it.</info>
 
-<character>ALL</character>
-Happy birthday, Amy.
+<speak who="ALL">
+Happy birthday, Amy.</speak>
 
-<character>AMY</character>
-Hooray, look at all these presents!
+<speak who="AMY">
+Hooray, look at all these presents!</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 I hope we all have as much tomorrow 
-at my birth -
+at my birth -</speak>
 
-[Time skips. Zoidberg sits alone in the empty lounge. There is 
-a tiny cupcake on the table with a candle in it. He looks around.]
+<info>Time skips. Zoidberg sits alone in the empty lounge. There is 
+a tiny cupcake on the table with a candle in it. He looks around.</info>
 
-<character>ZOIDBERG</character>
-What?
+<speak who="ZOIDBERG">
+What?</speak>
 
-[He sighs.]
+<info>He sighs.</info>
 
-[Planet Express: Corridor. Fry peeps around a door and attracts 
-Leela's attention.]
+<info>Planet Express: Corridor. Fry peeps around a door and attracts 
+Leela's attention.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Psst, Leela. I've set up a time-proof 
 shelter in the closet. There's only 
 room for two, and you're the one I wanna 
-share it with.
+share it with.</speak>
 
-<character>LEELA</character>
-Fry, that's so sweet. Let me see.
+<speak who="LEELA">
+Fry, that's so sweet. Let me see.</speak>
 
-[Cut to: Closet. Leela looks inside. There is a mattress in the 
+<info>Cut to: Closet. Leela looks inside. There is a mattress in the 
 corner, candles, a black light and a bottle of champagne in a 
-bucket of ice.]
+bucket of ice.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 How exactly will this protect us from 
-time jumps?
+time jumps?</speak>
 
-<character>FRY</character>
-(sexfully) Because when we're together 
-in here, baby, time will stand still.
+<speak who="FRY">
+<info>(sexfully)</info> Because when we're together 
+in here, baby, time will stand still.</speak>
 
-[Time skips. Fry has a black eye and Leela has gone.]
+<info>Time skips. Fry has a black eye and Leela has gone.</info>
 
-<character>FRY</character>
-Ow.
+<speak who="FRY">
+Ow.</speak>
 
-[Planet Express: Lounge. Zoidberg looks over a chess board.]
+<info>Planet Express: Lounge. Zoidberg looks over a chess board.</info>
 
-<character>ZOIDBERG</character>
-Hmm.  Hmm.
+<speak who="ZOIDBERG">
+Hmm.  Hmm.</speak>
 
-[He picks up a piece and eats it. Enter Leela.]
+<info>He picks up a piece and eats it. Enter Leela.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Dr. Zoidberg, can I talk to you about 
-Fry?
+Fry?</speak>
 
-<character>ZOIDBERG</character>
-Leela, I would be honoured.
+<speak who="ZOIDBERG">
+Leela, I would be honoured.</speak>
 
-[He moves aside on the couch for her.]
+<info>He moves aside on the couch for her.</info>
 
-[Time skips. Leela is sat down and Zoidberg is watching TV, ignoring 
-her.]
+<info>Time skips. Leela is sat down and Zoidberg is watching TV, ignoring 
+her.</info>
 
-<character>LEELA</character>
-...Does the worst <character>W</character>.C. Fields imitation 
-I've ever seen. Zoidberg!
+<speak who="LEELA">
+...Does the worst W.C. Fields imitation 
+I've ever seen. Zoidberg!</speak>
 
-<character>ZOIDBERG</character>
-Sorry, you must have been boring me.
+<speak who="ZOIDBERG">
+Sorry, you must have been boring me.</speak>
 
-[He turns the TV off.]
+<info>He turns the TV off.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 The thing is, Fry is very sweet. But 
 he's so immature. I love his boyish 
-charm but I hate his childishness.
+charm but I hate his childishness.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 So he's not perfect. You don't wanna 
 end up old and lonely like Zoidberg! 
-You were saying?
+You were saying?</speak>
 
-[Planet Express: Attic. Farnsworth sniffs around with the smellescope. 
-Tate and Bender are with him.]
+<info>Planet Express: Attic. Farnsworth sniffs around with the smellescope. 
+Tate and Bender are with him.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Ah, there is it. The Tempest Nebula. 
-Take a whiff through the smellescope.
+Take a whiff through the smellescope.</speak>
 
-[Tate puts his spinning ball on Farnsworth's head where it carries 
-on spinning. He sniffs and recoils.]
+<info>Tate puts his spinning ball on Farnsworth's head where it carries 
+on spinning. He sniffs and recoils.</info>
 
-<character>TATE</character>
-What's that funky jazz?
+<speak who="TATE">
+What's that funky jazz?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 The odour of pure time leaking. When 
 my crew removed the Chronitons, it destabilised 
 the nebula, causing time skips throughout 
-the universe.
+the universe.</speak>
 
-<character>BENDER</character>
-Ooh, let Bubblegum tell it.
+<speak who="BENDER">
+Ooh, let Bubblegum tell it.</speak>
 
-[Tate walks over to a basket of basketballs.]
+<info>Tate walks over to a basket of basketballs.</info>
 
-<character>TATE</character>
+<speak who="TATE">
 Pretend these basketballs are time particles, 
 my silver honky. As the nebula bounce-passes 
 them off us......they cause these dents, 
-or "time skips".
+or "time skips".</speak>
 
-<character>BENDER</character>
-You are so smart!
+<speak who="BENDER">
+You are so smart!</speak>
 
-[Tate looks at a map.]
+<info>Tate looks at a map.</info>
 
-<character>TATE</character>
+<speak who="TATE">
 Hold up. What if we were to move this 
 cluster of starts to these algebraic 
-co-ordinates?
+co-ordinates?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Their gravity might just divert the 
 Chronitons to the empty side of the 
-universe.
+universe.</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Yeah. But is it possible? Moving stars 
 would require one bad-ass gravity pump. 
 And we'd need all the money on Earth 
-to -
+to -</speak>
 
-[Time skips and Tate and Farnsworth find themselves in the oval 
-office. Tate is holding a bad-ass gravity pump proposal.]
+<info>Time skips and Tate and Farnsworth find themselves in the oval 
+office. Tate is holding a bad-ass gravity pump proposal.</info>
 
-<character>TATE</character>
-What the?
+<speak who="TATE">
+What the?</speak>
 
-<character>FARNSWORTH</character>
-Wha?
+<speak who="FARNSWORTH">
+Wha?</speak>
 
-[They pick up a cheque for all of Earth's money that has been 
-signed by Nixon's head.]
+<info>They pick up a cheque for all of Earth's money that has been 
+signed by Nixon's head.</info>
 
-<character>NIXON</character>
+<speak who="NIXON">
 Here's the funding for your gravity 
 pump. But it damn well better work! 
 We can't spend all of Earth's money 
 every day. Now, how long will it take 
-to build?
+to build?</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 It won't be easy, Nixon. A jim-jam this 
-complex might take months or even -
+complex might take months or even -</speak>
 
-[Time skips and Tate and Farnsworth are in a large building.]
+<info>Time skips and Tate and Farnsworth are in a large building.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Ah, there we are. One gravity pump. 
 Powerful enough to move the stars themselves. 
 Now to begin the arduous task of attaching 
-it to the ship so th -
+it to the ship so th -</speak>
 
-[Time skips. Farnsworth is in the Planet Express hangar watching 
-the ship take off with the gravity pump attached to its roof.]
+<info>Time skips. Farnsworth is in the Planet Express hangar watching 
+the ship take off with the gravity pump attached to its roof.</info>
 
-<character>FARNSWORTH</character>
-Off you go - apparently.
+<speak who="FARNSWORTH">
+Off you go - apparently.</speak>
 
-[The gravity pump pushes a star forward with some blue stuff.]
+<info>The gravity pump pushes a star forward with some blue stuff.</info>
 
-<character>TATE</character>
-(from ship) Easy, Leela. Just finger-roll 
-that star to the cosmic basket.
+<speak who="TATE">
+<info>(from ship)</info> Easy, Leela. Just finger-roll 
+that star to the cosmic basket.</speak>
 
-[Cut to: Ship's Cockpit.]
+<info>Cut to: Ship's Cockpit.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Just a few...more...hundred...thousand...miles. 
-There!
+There!</speak>
 
-[The ship moves the star into place next to over ten others which 
-have been placed around the nebula.]
+<info>The ship moves the star into place next to over ten others which 
+have been placed around the nebula.</info>
 
-<character>TATE</character>
-(from ship) Nothing but nebula!
+<speak who="TATE">
+<info>(from ship)</info> Nothing but nebula!</speak>
 
-[Cut to: Ship's Cockpit. Leela waves the time flux meter around.]
+<info>Cut to: Ship's Cockpit. Leela waves the time flux meter around.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 We'll have to run some tests back on 
 Earth, but I think we've stopped the 
-time skips.
+time skips.</speak>
 
-<character>BENDER</character>
-Alright!
+<speak who="BENDER">
+Alright!</speak>
 
-<character>TATE</character>
-Jamming!
+<speak who="TATE">
+Jamming!</speak>
 
-<character>FRY</character>
-Hooray for Leela!
+<speak who="FRY">
+Hooray for Leela!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And what better way to celebrate our 
 success than by me showing Bubblegum 
-the Globetrotter uniform I made myself!
+the Globetrotter uniform I made myself!</speak>
 
-<character>TATE</character>
-Let me see.  Hello, lawsuit!
+<speak who="TATE">
+Let me see.  Hello, lawsuit!</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela, I want you to know I think the 
 way you moved those stars around was 
-really wonderful. I got you something.
+really wonderful. I got you something.</speak>
 
-[He opens a bottle of champagne and pours it into two glasses. 
-Leela gasps.]
+<info>He opens a bottle of champagne and pours it into two glasses. 
+Leela gasps.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Moderately-priced, domestic, non-vintage 
-champagne? How did you know?
+champagne? How did you know?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You deserve it. I mean, nobody ever 
 stops to tell you what a great captain 
-you are.
+you are.</speak>
 
-<character>LEELA</character>
-Aww, that is so true and sweet.
+<speak who="LEELA">
+Aww, that is so true and sweet.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 You're smart, you're beautiful, and 
-best of all, you'll go out with me-ee?
+best of all, you'll go out with me-ee?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, please try to understand. You're 
-a man, I'm a woman. We're just too different.
+a man, I'm a woman. We're just too different.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, Leela. Bubblegum might let me organise 
 a bake sale for the Globetrotter wives. 
-Can you teach me to make cupcakes?
+Can you teach me to make cupcakes?</speak>
 
-<character>LEELA</character>
-Alright, but I wanna lick the beaters.
+<speak who="LEELA">
+Alright, but I wanna lick the beaters.</speak>
 
-[She and Bender leave. Fry sighs.]
+<info>She and Bender leave. Fry sighs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 I got her champagne, I opened it. What 
-does a guy have to do?
+does a guy have to do?</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 86 the chump stuff, F-man. It's time 
 to win Leela's heart with a big-showy, 
-three-point romantic gesture.
+three-point romantic gesture.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hmm. Maybe this is the moment to show 
-her my real surprise.
+her my real surprise.</speak>
 
-[He sits in the pilot's chair and moves the ship into gear. Leela 
-walks in.]
+<info>He sits in the pilot's chair and moves the ship into gear. Leela 
+walks in.</info>
 
-<character>LEELA</character>
-Fry, what are you doing?
+<speak who="LEELA">
+Fry, what are you doing?</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Uh-oh. Time to boogie on down to the 
-sauna!
+sauna!</speak>
 
-[He leaves and Fry presses some buttons.]
+<info>He leaves and Fry presses some buttons.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Look. I've been studying how to pilot 
-the ship. Impressed?
+the ship. Impressed?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Yeah, actually. You're doing <character>OK</character>. The 
 core reactor temperature's nominal, 
-the blinker's off.
+the blinker's off.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 I learned how to work the gravity pump 
 too. In case we need to move more stars. 
-So are we dating now?
+So are we dating now?</speak>
 
-[Leela groans.]
+<info>Leela groans.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Is that what this is all about? Please, 
-just cut it out now.
+just cut it out now.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Look, Leela. I know there's some perfect, 
 amazing thing I can do to make you love 
 me, and when I figure out what it is 
--
+-</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fry, stop. I don't wanna hurt you, but 
 there is absolutely, positively no way 
-that you and I will ever, ever -
+that you and I will ever, ever -</speak>
 
-[Time skips. Leela is wearing a wedding dress and Fry is wearing 
-a tuxedo. They are in the Temple of Robotology.]
+<info>Time skips. Leela is wearing a wedding dress and Fry is wearing 
+a tuxedo. They are in the Temple of Robotology.</info>
 
-<character>PREACHERBOT</character>
-...Man and wife. You may kiss the bride.
+<speak who="PREACHERBOT">
+...Man and wife. You may kiss the bride.</speak>
 
-[Fry grins and kisses her. The other Planet Express crew and 
-Tate throw confetti. Marv Albert is on a seat.]
+<info>Fry grins and kisses her. The other Planet Express crew and 
+Tate throw confetti. Marv Albert is on a seat.</info>
 
-<character>ALBERT</character>
-Yes!
+<speak who="ALBERT">
+Yes!</speak>
 
-[Time Lapse. The other Globetrotters and the remaining Supermen 
-are at the wedding too.]
+<info>Time Lapse. The other Globetrotters and the remaining Supermen 
+are at the wedding too.</info>
 
-<character>AMY</character>
-Woo-hoo!
+<speak who="AMY">
+Woo-hoo!</speak>
 
-<character>ZOIDBERG</character>
-He looks radiant!
+<speak who="ZOIDBERG">
+He looks radiant!</speak>
 
-[Time skips. Leela's bouquet is in Fry's mouth.]
+<info>Time skips. Leela's bouquet is in Fry's mouth.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Ye Gods, Bubblegum, we failed. The time 
-skips haven't stopped at all.
+skips haven't stopped at all.</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Even in these formal shorts, I feel 
-like a failure.
+like a failure.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You tricked me into marrying you, didn't 
-you?
+you?</speak>
 
-<character>FRY</character>
-Of course not.
+<speak who="FRY">
+Of course not.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 How'd you do it? Drugs in the champagne? 
-Hypnosis?
+Hypnosis?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 No! Drugs are for losers and hypnosis 
 is for losers with big, weird eyebrows. 
 I don't know what amazing thing I did 
 you make you love me but, whatever it 
 was, we're married now. We've got the 
-rest of our lives to work -
+rest of our lives to work -</speak>
 
-[Time skips. Leela and Fry are standing before Judge Whitey in 
-Famous Original Ray's Superior Court.]
+<info>Time skips. Leela and Fry are standing before Judge Whitey in 
+Famous Original Ray's Superior Court.</info>
 
-<character>WHITEY</character>
-Divorce is final.
+<speak who="WHITEY">
+Divorce is final.</speak>
 
-[He bangs his gavel.]
+<info>He bangs his gavel.</info>
 
-<character>FRY</character>
-What?
+<speak who="FRY">
+What?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Well, let's divide up the china. I guess 
 I'll take the <character>NFC</character> helmets and you can 
-have the <character>AFC</character> helmets.
+have the <character>AFC</character> helmets.</speak>
 
-<character>FRY</character>
-Fine. Break my heart again.
+<speak who="FRY">
+Fine. Break my heart again.</speak>
 
-[Planet Express: Meeting Room. Fry sits at the conference table 
+<info>Planet Express: Meeting Room. Fry sits at the conference table 
 and Amy, Hermes, Bender, Zoidberg and Tate are with him. Zoidberg 
-puts his claw on Fry.]
+puts his claw on Fry.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Don't be so hard on yourself, Fry. You 
 lost the woman of your dreams, but you 
 still have Zoidberg. You all still have 
-Zoidberg.
+Zoidberg.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 How did I do it? How did I get Leela 
-to love me? I've got to figure it out.
+to love me? I've got to figure it out.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Maybe you're just a fantastic lover, 
-Fry.
+Fry.</speak>
 
-<character>AMY</character>
-Um, no.
+<speak who="AMY">
+Um, no.</speak>
 
-<character>FRY</character>
-I don't know what I'm doing.
+<speak who="FRY">
+I don't know what I'm doing.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Maybe she'd come back to you if your 
 best friend Bender were a Globetrotter. 
-What do you say, Bubblegum?
+What do you say, Bubblegum?</speak>
 
-<character>TATE</character>
-Hell, no.
+<speak who="TATE">
+Hell, no.</speak>
 
-[Bender groans and Fry sighs.]
+<info>Bender groans and Fry sighs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh, it's hopeless. I did something so 
 great that it won Leela's heart and 
 I'll never, ever know what it was. My 
-life is empty.
+life is empty.</speak>
 
-[He sniffs.]
+<info>He sniffs.</info>
 
-<character>ZOIDBERG</character>
-(sexfully) Zoidberg!
+<speak who="ZOIDBERG">
+<info>(sexfully)</info> Zoidberg!</speak>
 
-[Planet Express: Attic. Farnsworth and Tate look over Tate's 
-equations.]
+<info>Planet Express: Attic. Farnsworth and Tate look over Tate's 
+equations.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No wonder we failed to stop the time 
 skips. Diverting Chronitons is mathematically 
 impossible. I knew I should have checked 
-your showboating Globetrotter algebra.
+your showboating Globetrotter algebra.</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Man, I thought you knew that algebra 
 was all razzmatazz. A Globetrotter always 
 saves the good algebra for the final 
-minutes.
+minutes.</speak>
 
-[Bender laughs.]
+<info>Bender laughs.</info>
 
-<character>BENDER</character>
-Vintage Bubblegum.
+<speak who="BENDER">
+Vintage Bubblegum.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 The time skips are worse than ever now. 
 Isolated spots are jumping by years 
-at a time. Look.
+at a time. Look.</speak>
 
-[They look through the window.]
+<info>They look through the window.</info>
 
-[Cut to: Outside Social Security Office. Two kids watch an old 
-man walk out.]
+<info>Cut to: Outside Social Security Office. Two kids watch an old 
+man walk out.</info>
 
-<character>KID</character>
+<speak who="KID">
 Stupid senior citizens. Why should we 
 have to pay for their social security 
-benefits?
+benefits?</speak>
 
-[Time skips and the kids turn into old men.]
+<info>Time skips and the kids turn into old men.</info>
 
-<character>OLD MAN</character>
-I deserve free money!
+<speak who="OLD MAN">
+I deserve free money!</speak>
 
-[Cut to: Planet Express: Attic.]
+<info>Cut to: Planet Express: Attic.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Well, I'm stumped. We'll have to call 
 in the finest scientific minds in the 
-univ -
+univ -</speak>
 
-[Time skips and the other Globetrotters appear behind them.]
+<info>Time skips and the other Globetrotters appear behind them.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Perhaps we could explode the whole damned 
-nebula. What do you think, Curly Joe?
+nebula. What do you think, Curly Joe?</speak>
 
-<character>CURLY JOE</character>
+<speak who="CURLY JOE">
 No, man. An explosion big enough to 
 destroy that mama would take out half 
-the universe.
+the universe.</speak>
 
-<character>SWEET CLYDE</character>
+<speak who="SWEET CLYDE">
 You gotta Globetrotter that explosion 
-up a little, Farnsy. Make it an implosion.
+up a little, Farnsy. Make it an implosion.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 By God, Sweet Clyde is right. An implosion 
 might just form a black hole that would 
-stop more Chronitons from escaping.
+stop more Chronitons from escaping.</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Whoa. Slow that brain train down, prof. 
 We'd need some kind of doomsday device 
-to initiate an implosion like that.
+to initiate an implosion like that.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Doomsday device? Ah, now the ball's 
 in Farnsworth's court.  I suppose I 
-could part with one and still be feared.
+could part with one and still be feared.</speak>
 
-<character>TATE</character>
+<speak who="TATE">
 Give me some skin, prof. I'm making 
 you an honorary Globetrotter. In fact, 
 everybody in this room's an honorary 
-Globetrotter.
+Globetrotter.</speak>
 
-<character>AMY</character>
-Hooray!
+<speak who="AMY">
+Hooray!</speak>
 
-<character>HERMES</character>
-Yes!
+<speak who="HERMES">
+Yes!</speak>
 
-<character>ZOIDBERG</character>
-I'm a Globetrotter!
+<speak who="ZOIDBERG">
+I'm a Globetrotter!</speak>
 
-[Bender runs in.]
+<info>Bender runs in.</info>
 
-<character>BENDER</character>
-(gasping) Did you just say -
+<speak who="BENDER">
+<info>(gasping)</info> Did you just say -</speak>
 
-<character>TATE</character>
-Too late, hot plate.
+<speak who="TATE">
+Too late, hot plate.</speak>
 
-<character>BENDER</character>
-Oh, crap.
+<speak who="BENDER">
+Oh, crap.</speak>
 
-[Planet Express: Hangar. Two Globetrotters attach a doomsday 
+<info>Planet Express: Hangar. Two Globetrotters attach a doomsday 
 device to a mechanism and it rises into the ship's cargo bay. 
-The other Globetrotters shake hands with the Planet Express staff.]
+The other Globetrotters shake hands with the Planet Express staff.</info>
 
-<character>TATE</character>
+<speak who="TATE">
 We must leave now, for we are needed 
-elsewhere. But we wish you Godspeed.
+elsewhere. But we wish you Godspeed.</speak>
 
-[They leave, dribbling their balls. Bender stops Tate.]
+<info>They leave, dribbling their balls. Bender stops Tate.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Please, please let me come with you. 
-I can make myself taller.
+I can make myself taller.</speak>
 
-[He stretches his legs.]
+<info>He stretches his legs.</info>
 
-<character>TATE</character>
+<speak who="TATE">
 Bender, you can talk trash, you can 
 handle the ball. But look in your heart 
 and ask yourself: Are you funky enough 
-to be a Globetrotter? Are you?
+to be a Globetrotter? Are you?</speak>
 
-<character>BENDER</character>
-Yes.
+<speak who="BENDER">
+Yes.</speak>
 
-<character>TATE</character>
-Are you?
+<speak who="TATE">
+Are you?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I mean, with time, my funk level could 
--
+-</speak>
 
-<character>TATE</character>
-Are you?
+<speak who="TATE">
+Are you?</speak>
 
-<character>BENDER</character>
-(sadly) No.
+<speak who="BENDER">
+<info>(sadly)</info> No.</speak>
 
-<character>TATE</character>
-Deal with it.
+<speak who="TATE">
+Deal with it.</speak>
 
-[He leaves and Bender returns to his normal size and begins to 
-cry.]
+<info>He leaves and Bender returns to his normal size and begins to 
+cry.</info>
 
-[The ship flies towards the nebula and Bender emerges from the 
+<info>The ship flies towards the nebula and Bender emerges from the 
 starboard torpedo tube holding the doomsday device. He is tethered 
 to the ship and wearing a jet pack. The tether jerks and Bender 
-lets go of the doomsday device.]
+lets go of the doomsday device.</info>
 
-<character>BENDER</character>
-Oh! No!
+<speak who="BENDER">
+Oh! No!</speak>
 
-[He quickly grabs it again.]
+<info>He quickly grabs it again.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Careful with that doomsday device, 
-Bender.
+Bender.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What does it matter? I'll never be a 
 Globetrotter. My life, and, by extension, 
-everyone else's, is meaningless.
+everyone else's, is meaningless.</speak>
 
-<character>LEELA</character>
-Roger.
+<speak who="LEELA">
+Roger.</speak>
 
-[Cut to: Ship's Cockpit. She turns the radio off.]
+<info>Cut to: Ship's Cockpit. She turns the radio off.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela, about the wedding. I don't know 
 what I did to make you love me, and 
 I don't think I tricked you into it, 
-but maybe I did. And if I did, I'm sorry.
+but maybe I did. And if I did, I'm sorry.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's OK, Fry. You know we'll always 
-be friends, right?
+be friends, right?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah. But I don't guess anything I could 
 do will ever make you feel the same 
-way about me that I do about you.
+way about me that I do about you.</speak>
 
-<character>LEELA</character>
-I guess not.
+<speak who="LEELA">
+I guess not.</speak>
 
-[She takes his hand, kisses him on the cheek and walks away. 
-Bender walks in, dusting his hands.]
+<info>She takes his hand, kisses him on the cheek and walks away. 
+Bender walks in, dusting his hands.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well, the doomsday device is ready. 
 Maybe blasting this quadrant of space 
 into a hell storm of flaming nothingness 
-will cheer me up a little.
+will cheer me up a little.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 <character>OK</character>. Let me just take the ship out to 
 a safe distance.  Actually, I think 
 I'll go down and prep the detonator. 
-Fry, why don't you take the helm?
+Fry, why don't you take the helm?</speak>
 
-[Fry smiles and sits in the chair. She leaves.]
+<info>Fry smiles and sits in the chair. She leaves.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 She's so great. I feel like I can almost 
 remember the magical thing I did to 
 make her love me. But I guess I never 
-will.
+will.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Sorry, buddy. I too know what it's like 
-to have a dream I'll never achieve.
+to have a dream I'll never achieve.</speak>
 
-[He walks out, slowly whistling the Globetrotter tune. Fry presses 
+<info>He walks out, slowly whistling the Globetrotter tune. Fry presses 
 some buttons and the ship flies away from the nebula. He glances 
-out of the window and sees something.]
+out of the window and sees something.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh!  That's how I must have done it! 
 I moved the stars themselves to write 
-her a love note in the sky.
+her a love note in the sky.</speak>
 
-<character>LEELA</character>
-Detonation in three, two, one.
+<speak who="LEELA">
+Detonation in three, two, one.</speak>
 
-<character>FRY</character>
-(screaming) Nooo!  Did you see it? Did 
-you see it?
+<speak who="FRY">
+<info>(screaming)</info> Nooo!  Did you see it? Did 
+you see it?</speak>
 
-<character>BENDER</character>
-The explosion?
+<speak who="BENDER">
+The explosion?</speak>
 
-<character>FRY</character>
-No, not the explosion!
+<speak who="FRY">
+No, not the explosion!</speak>
 
-<character>LEELA</character>
-Then what?
+<speak who="LEELA">
+Then what?</speak>
 
-[Fry thinks for a moment and lowers his head.]
+<info>Fry thinks for a moment and lowers his head.</info>
 
-<character>FRY</character>
-(quietly) Nothing.
+<speak who="FRY">
+<info>(quietly)</info> Nothing.</speak>
 
-[Bender starts to whistle Sweet Georgia Brown again as Fry looks 
-back through the window at the black hole.]
+<info>Bender starts to whistle Sweet Georgia Brown again as Fry looks 
+back through the window at the black hole.</info>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

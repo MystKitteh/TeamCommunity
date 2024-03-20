@@ -1,537 +1,537 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 406
 
-<title><character>WHERE THE BUGGALO ROAM</character></title>
+<title>WHERE THE BUGGALO ROAM</title>
 
 <author>J. Stewart Burns</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Krafted With Luv By Monsters.]
+<info>Opening Credits. Caption: Krafted With Luv By Monsters.</info>
 
-[The Planet Express ship flies towards Mars ("Mightiest of Planets") 
-and lands just outside Wong Ranch (You've Come To The Wong Place).]
+<info>The Planet Express ship flies towards Mars <info>("Mightiest of Planets")</info> 
+and lands just outside Wong Ranch <info>(You've Come To The Wong Place)</info>.</info>
 
-[The Wongs' Porch. The entire Planet Express staff are there. 
+<info>The Wongs' Porch. The entire Planet Express staff are there. 
 Leela rings the doorbell and Mr. Wong slides a peephole across 
-the door.]
+the door.</info>
 
-<character>MR. WONG</character>
-(from inside) Yes?
+<speak who="MR WONG">
+<info>(from inside)</info> Yes?</speak>
 
-<character>AMY</character>
-Hi, Dad. It's me and my co-workers.
+<speak who="AMY">
+Hi, Dad. It's me and my co-workers.</speak>
 
-<character>MRS. WONG</character>
-(from inside) Open up, Leo. It's Amy 
-and her weirdos.
+<speak who="MRS WONG">
+<info>(from inside)</info> Open up, Leo. It's Amy 
+and her weirdos.</speak>
 
-[He opens the door.]
+<info>He opens the door.</info>
 
-<character>MRS. WONG</character>
-Howdy, friends! Welcome to Mars!
+<speak who="MRS WONG">
+Howdy, friends! Welcome to Mars!</speak>
 
-[The Wongs' Entrance Room. The staff look around the house.]
+<info>The Wongs' Entrance Room. The staff look around the house.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Thanks so much for inviting us, Mr. 
 Wong. I've never been to a Mars Day 
-barbecue.
+barbecue.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Oh, Mars Day much better than Earth 
 Day. Dump trash wherever you want! Big, 
-empty planet!
+empty planet!</speak>
 
-<character>MRS. WONG</character>
-OK, then. Make yourselves at home.
+<speak who="MRS WONG">
+OK, then. Make yourselves at home.</speak>
 
-[Zoidberg stands on the landing, dressed in a bathrobe. He is 
-holding a green bottle.]
+<info>Zoidberg stands on the landing, dressed in a bathrobe. He is 
+holding a green bottle.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Don't mind if I already did. By the 
 way, do you have anymore of this Dom 
 Perignon bubble bath? There was only 
-enough to fill the tub halfway.
+enough to fill the tub halfway.</speak>
 
-[Mr. and Mrs. Wong growl.]
+<info>Mr. and Mrs. Wong growl.</info>
 
-[Wong Ranch. The Wongs and the staff pass a field where a man 
-is rolling out fully-grown corn.]
+<info>Wong Ranch. The Wongs and the staff pass a field where a man 
+is rolling out fully-grown corn.</info>
 
-<character>FARNSWORTH</character>
-This is quite a large ranch you have.
+<speak who="FARNSWORTH">
+This is quite a large ranch you have.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 17.9 billion acres. We own entire western 
-hemisphere. (whispering) That the best 
-hemisphere!
+hemisphere. <info>(whispering)</info> That the best 
+hemisphere!</speak>
 
-<character>FARNSWORTH</character>
-It's the same on Earth.
+<speak who="FARNSWORTH">
+It's the same on Earth.</speak>
 
-[They all look over a fence at a herd of buggalo.]
+<info>They all look over a fence at a herd of buggalo.</info>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Here is most number one product of all: 
 The mighty buggalo. They used for everything; 
 Meat, milk and their shells make good 
-row boat.
+row boat.</speak>
 
-[He points to Zoidberg, rowing a buggalo shell on a lake.]
+<info>He points to Zoidberg, rowing a buggalo shell on a lake.</info>
 
-<character>ZOIDBERG</character>
-(shouting) I broke your television.
+<speak who="ZOIDBERG">
+<info>(shouting)</info> I broke your television.</speak>
 
-<character>HERMES</character>
+<speak who="HERMES">
 Mon, it must take forever to brand all 
-those cattle.
+those cattle.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Not really. We own so much stuff, it 
 easier just to brand everything that 
-not ours.
+not ours.</speak>
 
-[He brands Hermes' briefcase with "Not Property Of Wongs" brand.]
+<info>He brands Hermes' briefcase with "Not Property Of Wongs" brand.</info>
 
-<character>HERMES</character>
-Please don't do that.
+<speak who="HERMES">
+Please don't do that.</speak>
 
-[Amy leaps over a fence to another buggalo. It is surrounded 
-with cushy things and has a ribbon around its neck.]
+<info>Amy leaps over a fence to another buggalo. It is surrounded 
+with cushy things and has a ribbon around its neck.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Betsy!  This is my sweet, little Betsy. 
 I raised her from a larva that ate one 
-of my sweaters.
+of my sweaters.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Yes, everybody love Betsy. We going 
 to eat her at Amy's wedding. If she 
-ever get married!
+ever get married!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Dad! Gleesh! Please don't say things 
 like that when you meet my boyfriend 
-tonight.
+tonight.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Oh, that right. We finally get to spend 
-some time with this Mr. Kif.
+some time with this Mr. Kif.</speak>
 
-<character>MRS. WONG</character>
+<speak who="MRS WONG">
 I just hope he's a nice man who can 
 make us lot of grandchildren. This not 
 some parallel universe where you getting 
-any younger.
+any younger.</speak>
 
-[Nimbus Bridge. The Nimbus is orbiting Mars. Zapp and Kif talk. 
-Near them is a photo of Amy.]
+<info>Nimbus Bridge. The Nimbus is orbiting Mars. Zapp and Kif talk. 
+Near them is a photo of Amy.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Now, remember, Kif: The quickest way 
 to a girl's bed is through her parents. 
-Have sex with them and you're in.
+Have sex with them and you're in.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Actually, sir, I'm, I'm a little nervous 
-about meeting her family.
+about meeting her family.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Well that's natural. After all you're 
 meek and uninteresting. Until now you've 
 gotten by on my left-over charisma, 
 scrounging off it like a tiny charisma 
-parasite.
+parasite.</speak>
 
-<character>KIF</character>
-I just hope they like me.
+<speak who="KIF">
+I just hope they like me.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 And why wouldn't they? Yes, yes, I know. 
 Tiny, meek, uninteresting. Spare me 
 your tedious life story, Kif. And above 
-all have fun!
+all have fun!</speak>
 
-[Outside Wongs' House. Lots of people have gathered at the ranch 
+<info>Outside Wongs' House. Lots of people have gathered at the ranch 
 for country music and barbecued buggalo on Mars Day. The DJ scratches 
-some country music.]
+some country music.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah, yeah, get on down!  Oh, yeah! 
 Drop another barnyard bomb on us, Vanilla 
-Corn!
+Corn!</speak>
 
-<character>DJ</character>
-Yo, fool! It's Mixmaster Festus!
+<speak who="DJ">
+Yo, fool! It's Mixmaster Festus!</speak>
 
-[Mr. Wong puts more buggalo meat on the barbecue. A Pepto-Bismol 
+<info>Mr. Wong puts more buggalo meat on the barbecue. A Pepto-Bismol 
 tanker pulls up next to a BBQ Sauce tanker and unloads. Fry sets 
 his plate of buggalo down on a barrel and pumps some Pepto-Bismol 
-onto it. He picks it up and walks over to the barbecue.]
+onto it. He picks it up and walks over to the barbecue.</info>
 
-<character>FRY</character>
-So what's Mars Day about, anyway?
+<speak who="FRY">
+So what's Mars Day about, anyway?</speak>
 
-<character>MRS. WONG</character>
+<speak who="MRS WONG">
 It commemorate the day centuries ago 
 when our ancestor, Sir Reginald Wong, 
-bought Mars from stupid natives.
+bought Mars from stupid natives.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 How can you call the Native Martians 
-"stupid"?
+"stupid"?</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 They sell whole planet for one bead. 
-Sound stupid to me!
+Sound stupid to me!</speak>
 
-[He, Mrs. Wong and Fry laugh.]
+<info>He, Mrs. Wong and Fry laugh.</info>
 
-<character>FARNSWORTH</character>
-That is stupid!
+<speak who="FARNSWORTH">
+That is stupid!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I can't believe you're laughing at the 
 tragic exploitation of a proud, bead-loving 
-people.
+people.</speak>
 
-<character>FRY</character>
-Lighten up, Leela. It's funny!
+<speak who="FRY">
+Lighten up, Leela. It's funny!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Of course it is. But you don't have 
-to laugh!
+to laugh!</speak>
 
-[Amy and Kif stand by the buffet. Amy kisses him and he is startled.]
+<info>Amy and Kif stand by the buffet. Amy kisses him and he is startled.</info>
 
-<character>KIF</character>
-Amy, no! Not on your parents' planet!
+<speak who="KIF">
+Amy, no! Not on your parents' planet!</speak>
 
-<character>RJ</character>
+<speak who="RJ">
 Howdy, Amy. Glad to see you've come 
 back to the country. It's where the 
-flavour is.
+flavour is.</speak>
 
-[Amy hugs him.]
+<info>Amy hugs him.</info>
 
-<character>AMY</character>
-RJ, this is my boyfriend, Kif.
+<speak who="AMY">
+RJ, this is my boyfriend, Kif.</speak>
 
-<character>RJ</character>
+<speak who="RJ">
 This wimp? You've gone a long way, baby. 
-Cigarette, partner?
+Cigarette, partner?</speak>
 
-<character>KIF</character>
-Oh, I don't--
+<speak who="KIF">
+Oh, I don't--</speak>
 
-[RJ puts one in Kif's mouth and he coughs.]
+<info>RJ puts one in Kif's mouth and he coughs.</info>
 
-<character>RJ</character>
-I haven't even lit it yet!
+<speak who="RJ">
+I haven't even lit it yet!</speak>
 
-[He lights it.]
+<info>He lights it.</info>
 
-<character>KIF</character>
-Oh. Is it lit now?
+<speak who="KIF">
+Oh. Is it lit now?</speak>
 
-<character>RJ</character>
-Yep.  You're pathetic!
+<speak who="RJ">
+Yep.  You're pathetic!</speak>
 
-[Zoidberg walks over to the barbecue.]
+<info>Zoidberg walks over to the barbecue.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Host-man! Host-woman! I'm having a wonderful 
-time!
+time!</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 You here five hours and already you 
 tear up couch, draw moustache on priceless 
-painting and fill pool with brine shrimp.
+painting and fill pool with brine shrimp.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Not bad for a city boy, huh?  By the 
 way, I took the liberty of fertilising 
-your caviar.
+your caviar.</speak>
 
-[Mr. Wong looks at his food and chews slower. At the bar, Bender 
+<info>Mr. Wong looks at his food and chews slower. At the bar, Bender 
 pours himself another drink, knocks it back, stacks the glass 
 on top of 13 others, pours the last of the bottle down his neck 
 and stacks the bottle on top of 11 others. He belches fire. Kif 
-stammers and Amy wipes sweat from his face.]
+stammers and Amy wipes sweat from his face.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Just relax. I'm sure my parents will 
-love you.
+love you.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 You don't understand. When I get nervous, 
 I can't control my camouflage reflex. 
 Oh, dear!  Oh, goodness! Oh, odds and 
-bodkins!
+bodkins!</speak>
 
-[Fry refills at the barbecue.]
+<info>Fry refills at the barbecue.</info>
 
-<character>FRY</character>
-I'll have a thorax and some feelers.
+<speak who="FRY">
+I'll have a thorax and some feelers.</speak>
 
-<character>MR. WONG</character>
-You want some salad with that?
+<speak who="MR WONG">
+You want some salad with that?</speak>
 
-<character>FRY</character>
-Yuck!
+<speak who="FRY">
+Yuck!</speak>
 
-[Amy and Kif arrive.]
+<info>Amy and Kif arrive.</info>
 
-<character>AMY</character>
-Mom? Dad? You remember Kif?
+<speak who="AMY">
+Mom? Dad? You remember Kif?</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 This your boyfriend? I have instant 
-dislike of him!
+dislike of him!</speak>
 
-<character>MRS. WONG</character>
-He too scrawny to father grandchildren.
+<speak who="MRS WONG">
+He too scrawny to father grandchildren.</speak>
 
-<character>AMY</character>
-He's not scrawny, he's just small-boned.
+<speak who="AMY">
+He's not scrawny, he's just small-boned.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Actually, I don't have bones. I'm supported 
 by a system of fluid-filled bladders 
-that--
+that--</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Yes, yes! You a big squishy wuss! Amy 
-should be dating real man. Like him!
+should be dating real man. Like him!</speak>
 
-[He points to RJ over by a campfire.]
+<info>He points to RJ over by a campfire.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 I can be manly too. I think I'll, uh, 
-light up a smoke.
+light up a smoke.</speak>
 
-[He takes out a cigarette and lights it.]
+<info>He takes out a cigarette and lights it.</info>
 
-<character>AMY</character>
-(whispering) Wrong way!
+<speak who="AMY">
+<info>(whispering)</info> Wrong way!</speak>
 
-[Kif drags.]
+<info>Kif drags.</info>
 
-<character>KIF</character>
-(wheezy) Smooth!
+<speak who="KIF">
+<info>(wheezy)</info> Smooth!</speak>
 
-[He chokes, turns pale and collapses.]
+<info>He chokes, turns pale and collapses.</info>
 
-[Wong Ranch. Kif and Amy lean over a fence and watch the grazing 
-cattle.]
+<info>Wong Ranch. Kif and Amy lean over a fence and watch the grazing 
+cattle.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Look on the bright side: My parents 
 left after you passed out so they didn't 
-even see you barf.
+even see you barf.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Oh, now they'll never think I'm manly 
-enough to date their daughter.
+enough to date their daughter.</speak>
 
-[He sobs.]
+<info>He sobs.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 It's OK, Kif.  I'll go get you a tissue 
-from your tote.
+from your tote.</speak>
 
-[She walks off. RJ puts his hand on her shoulder and stops her.]
+<info>She walks off. RJ puts his hand on her shoulder and stops her.</info>
 
-<character>RJ</character>
+<speak who="RJ">
 Hey there, Amy. Like you to meet my 
-buddy, Joe.
+buddy, Joe.</speak>
 
-[Enter Joe Camel.]
+<info>Enter Joe Camel.</info>
 
-<character>JOE</character>
+<speak who="JOE">
 Sorry I'm late. My pool game ran long 
-at the jazz club!
+at the jazz club!</speak>
 
-[RJ laughs.]
+<info>RJ laughs.</info>
 
-<character>RJ</character>
-Kids love him!
+<speak who="RJ">
+Kids love him!</speak>
 
-[Kif watches Amy laugh and growls.]
+<info>Kif watches Amy laugh and growls.</info>
 
-[Cut to: Outside Wong House. A loud noise that sounds like a 
-very long "omm" comes into earshot.]
+<info>Cut to: Outside Wong House. A loud noise that sounds like a 
+very long "omm" comes into earshot.</info>
 
-<character>FRY</character>
-What's that weird sound?
+<speak who="FRY">
+What's that weird sound?</speak>
 
-[The noise gets louder. Wind blows down the "Happy Mars Day" 
-banner.]
+<info>The noise gets louder. Wind blows down the "Happy Mars Day" 
+banner.</info>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Dust storm! Oh, dust storm! Everybody 
 into house. Hurry, before we die. And 
-wipe your damn feet!
+wipe your damn feet!</speak>
 
-[The Wongs' Lounge. Everyone is inside. Mrs. Wong looks out of 
-the window.]
+<info>The Wongs' Lounge. Everyone is inside. Mrs. Wong looks out of 
+the window.</info>
 
-<character>MRS. WONG</character>
+<speak who="MRS WONG">
 Phew! Everyone OK? No-one considering 
-lawsuit?
+lawsuit?</speak>
 
-<character>FARNSWORTH</character>
-Hmm. I might have mental anguish.
+<speak who="FARNSWORTH">
+Hmm. I might have mental anguish.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 I'll have you know I'm friends with 
-every judge on planet.
+every judge on planet.</speak>
 
-<character>FARNSWORTH</character>
-I'm OK then.
+<speak who="FARNSWORTH">
+I'm OK then.</speak>
 
-<character>MRS. WONG</character>
+<speak who="MRS WONG">
 Storm dying down. Leo, check if buggalo 
-herd is <character>OK</character>.
+herd is <character>OK</character>.</speak>
 
-[Cut to: The Wongs' Porch. Mr. Wong opens the door and looks 
+<info>Cut to: The Wongs' Porch. Mr. Wong opens the door and looks 
 across at the cattle. A tornado sweeps across the ranch, taking 
-the buggalo with it. Everyone gasps.]
+the buggalo with it. Everyone gasps.</info>
 
-<character>MR. WONG</character>
-Oh!
+<speak who="MR WONG">
+Oh!</speak>
 
-[Cut to: The Wongs' Lounge.]
+<info>Cut to: The Wongs' Lounge.</info>
 
-<character>LEELA</character>
-What happened to the buggalo?
+<speak who="LEELA">
+What happened to the buggalo?</speak>
 
-[Mrs. Wong comes running.]
+<info>Mrs. Wong comes running.</info>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 They been rustled under cover of storm. 
-We ruined!
+We ruined!</speak>
 
-[Zoidberg puts his arms around Mr. and Mrs. Wong and they struggle.]
+<info>Zoidberg puts his arms around Mr. and Mrs. Wong and they struggle.</info>
 
-<character>ZOIDBERG</character>
-(screaming) Nooo!
+<speak who="ZOIDBERG">
+<info>(screaming)</info> Nooo!</speak>
 
-[They push him away.]
+<info>They push him away.</info>
 
-<character>AMY</character>
-Don't worry, Daddy. It'll be <character>OK</character>.
+<speak who="AMY">
+Don't worry, Daddy. It'll be <character>OK</character>.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Oh, really? Who gonna save us?  One-eye? 
-Lobster mooch?  Drunken garbage can?
+Lobster mooch?  Drunken garbage can?</speak>
 
-<character>HERMES</character>
-This sounds like a job for--
+<speak who="HERMES">
+This sounds like a job for--</speak>
 
-<character>KIF</character>
-Lieutenant Kif Kroker!
+<speak who="KIF">
+Lieutenant Kif Kroker!</speak>
 
-<character>HERMES</character>
-Alright then.
+<speak who="HERMES">
+Alright then.</speak>
 
-[He sits down and munches some crisps.]
+<info>He sits down and munches some crisps.</info>
 
-[Time Lapse. The other guests have left.]
+<info>Time Lapse. The other guests have left.</info>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Aye-ah! Those buggalo are what made 
 Wong family so rich and powerful. Oh, 
-Inez, with them stolen, we ruined!
+Inez, with them stolen, we ruined!</speak>
 
-<character>MRS. WONG</character>
-<character>OK</character>. I want a divorce.
+<speak who="MRS WONG">
+<character>OK</character>. I want a divorce.</speak>
 
-[Zoidberg is dressed golf clothes.]
+<info>Zoidberg is dressed golf clothes.</info>
 
-<character>ZOIDBERG</character>
-Mom! Dad! Don't ask me to choose!
+<speak who="ZOIDBERG">
+Mom! Dad! Don't ask me to choose!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 They're not your parents, I'm not your 
-sister and that's not your golf cart.
+sister and that's not your golf cart.</speak>
 
-<character>ZOIDBERG</character>
-Aw!
+<speak who="ZOIDBERG">
+Aw!</speak>
 
-[He reverses the golf cart away.]
+<info>He reverses the golf cart away.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Everybody just calm down. Kif promised 
-he'd catch the rustlers.
+he'd catch the rustlers.</speak>
 
-[Enter Kif in cowboy gear.]
+<info>Enter Kif in cowboy gear.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 Mrs. Wong, do you have a neckerchief 
-I could borrow?
+I could borrow?</speak>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 My plan is to take all the remaining 
 buggalo and lead them on a rough, tough 
 cattle drive. Then, when the rustlers 
-attack, I'll make a citizen's arrest!
+attack, I'll make a citizen's arrest!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 It sounds dangerous. Someone could get 
 killed. Fry, Leela, Bender, I want you 
-to go with him.
+to go with him.</speak>
 
-<character>FRY</character>
-Aw, man!
+<speak who="FRY">
+Aw, man!</speak>
 
-[Leela sighs. Bender mocks Farnsworth.]
+<info>Leela sighs. Bender mocks Farnsworth.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 Don't worry, Mr. and Mrs. Wong. I'll 
-get your cattle back or die trying.
+get your cattle back or die trying.</speak>
 
-<character>MR. WONG</character>
-Hey, we can't lose!
+<speak who="MR WONG">
+Hey, we can't lose!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 No, Kif! It's too risky. You don't have 
-to do this to prove your manliness.
+to do this to prove your manliness.</speak>
 
-<character>MRS. WONG</character>
-Oh, yes he does!
+<speak who="MRS WONG">
+Oh, yes he does!</speak>
 
-[Wong Ranch. RJ leads some things towards Kif.]
+<info>Wong Ranch. RJ leads some things towards Kif.</info>
 
-<character>RJ</character>
-Here are your mounts!
+<speak who="RJ">
+Here are your mounts!</speak>
 
-[Leela rubs one of the things and it makes a squelching noise.]
+<info>Leela rubs one of the things and it makes a squelching noise.</info>
 
-<character>LEELA</character>
-She's got a fine coat.
+<speak who="LEELA">
+She's got a fine coat.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Now, we need buggalo to lure the rustlers. 
-How many are left?
+How many are left?</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 You're lookin' at her. Betsy's the only 
 one left. She was curled up in my hamper 
-when the storm hit.  Aw, she likes you!
+when the storm hit.  Aw, she likes you!</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Saddle up, men. We got some no good 
-rustlers to ... catch!
+rustlers to ... catch!</speak>
 
-[Mars Surface. Kif, Leela and Fry ride ahead while Bender sits 
-on a wagon playing a banjo and singing a Bonanza-like tune.]
+<info>Mars Surface. Kif, Leela and Fry ride ahead while Bender sits 
+on a wagon playing a banjo and singing a Bonanza-like tune.</info>
 
-<character>BENDER </character>(<character>SINGING</character>)
+<speak who="BENDER"><info>(<character>SINGING</character>)</info>
 We've got a right to pick a little fight 
 with rustlers,
 
@@ -539,663 +539,663 @@ Somebody wants to pick a fight with us,
 
 He'd better bite my ass!
 
-<character>FRY</character>
-Yee-haw!
+</speak><speak who="FRY">
+Yee-haw!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wow, look at that: Olympus Mons. The 
-tallest volcano in the solar system.
+tallest volcano in the solar system.</speak>
 
-<character>FRY</character>
-Where?
+<speak who="FRY">
+Where?</speak>
 
-<character>LEELA</character>
-Right in front of you.
+<speak who="LEELA">
+Right in front of you.</speak>
 
-<character>FRY</character>
-Oh. Oh!
+<speak who="FRY">
+Oh. Oh!</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 We'll camp near the top. The rustlers 
-will be sure to spot us there.
+will be sure to spot us there.</speak>
 
-<character>FRY</character>
-Where?
+<speak who="FRY">
+Where?</speak>
 
-[Olympus Mons. The party have set up camp for the night. Bender 
-tells a ghost story around the campfire.]
+<info>Olympus Mons. The party have set up camp for the night. Bender 
+tells a ghost story around the campfire.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And even thought the computer was off 
 and unplugged, an image stayed on the 
-screen. It was ... the Windows logo!
+screen. It was ... the Windows logo!</speak>
 
-<character>FRY</character>
-Pfft, that's not scary!
+<speak who="FRY">
+Pfft, that's not scary!</speak>
 
-<character>BENDER</character>
-It is if you're a laser printer.
+<speak who="BENDER">
+It is if you're a laser printer.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 OK, my turn to tell a ghost story. Once, 
-there was this woman driving--
+there was this woman driving--</speak>
 
-<character>FRY</character>
-Hook on the hand!
+<speak who="FRY">
+Hook on the hand!</speak>
 
-<character>KIF</character>
-OK, I've got one. This family--
+<speak who="KIF">
+OK, I've got one. This family--</speak>
 
-<character>FRY</character>
-Man in the attic!
+<speak who="FRY">
+Man in the attic!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Fine, Mr. Know-It-All-About-Something-Finally, 
-you tell a story!
+you tell a story!</speak>
 
-<character>FRY</character>
-With pleasure. (spookily) Once, not 
+<speak who="FRY">
+With pleasure. <info>(spookily)</info> Once, not 
 far from here, four people set out on 
-a cattle drive--
+a cattle drive--</speak>
 
-<character>BENDER</character>
-(speaking fast) Robot gets bored and 
-kills Fry with a hammer! (normal) Sorry, 
-go on.
+<speak who="BENDER">
+<info>(speaking fast)</info> Robot gets bored and 
+kills Fry with a hammer! <info>(normal)</info> Sorry, 
+go on.</speak>
 
-[Time Lapse. Someone peers through the bushes.]
+<info>Time Lapse. Someone peers through the bushes.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 And then, while they sat helplessly 
 around the campfire ... a demented knife-wielding 
 escaped lunatic libertarian zombie mutant 
-snuck up and--
+snuck up and--</speak>
 
-<character>AMY</character>
-(from bushes) Surprise!
+<speak who="AMY">
+<info>(from bushes)</info> Surprise!</speak>
 
-[Fry, Bender, Kif and Leela scream. Amy comes out of the bushes.]
+<info>Fry, Bender, Kif and Leela scream. Amy comes out of the bushes.</info>
 
-<character>KIF</character>
-Amy? What are you doing here?
+<speak who="KIF">
+Amy? What are you doing here?</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 I forgot to give you something before 
-you left.
+you left.</speak>
 
-<character>KIF</character>
-What?
+<speak who="KIF">
+What?</speak>
 
-[Amy kisses him and his camouflage kicks in.]
+<info>Amy kisses him and his camouflage kicks in.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Is that your camouflage reflex or are 
-you just happy to see me?
+you just happy to see me?</speak>
 
-[Time Lapse. Amy and Kif are lying down at the top of the mountain 
-looking at the stars.]
+<info>Time Lapse. Amy and Kif are lying down at the top of the mountain 
+looking at the stars.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 I love it out here, Amy. I feel so manly. 
 I have a blister, I-I spit! A-And of 
-course, I tell no one my feelings.
+course, I tell no one my feelings.</speak>
 
-<character>AMY</character>
-But you still have them, right?
+<speak who="AMY">
+But you still have them, right?</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Oh, yes. But I keep them inside until 
-I can write them in my diary.
+I can write them in my diary.</speak>
 
-<character>AMY</character>
-Ah, it's a wonderful night.
+<speak who="AMY">
+Ah, it's a wonderful night.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 It sure is. I could just lie here beside 
-you staring at the sky all night.
+you staring at the sky all night.</speak>
 
-<character>AMY</character>
-I can't!  What's that?
+<speak who="AMY">
+I can't!  What's that?</speak>
 
-<character>KIF</character>
-Maybe we just made love.
+<speak who="KIF">
+Maybe we just made love.</speak>
 
-[Amy and Kif look over the rim of the volcano and into the crater.]
+<info>Amy and Kif look over the rim of the volcano and into the crater.</info>
 
-<character>AMY</character>
-The buggalo! They're in the crater.
+<speak who="AMY">
+The buggalo! They're in the crater.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 The rustlers must have seen me coming 
-and run off, scared.
+and run off, scared.</speak>
 
-<character>AMY</character>
-Oh, Kif! You're so brave!
+<speak who="AMY">
+Oh, Kif! You're so brave!</speak>
 
-<character>KIF</character>
-(nervous) Sh! They'll hear us!
+<speak who="KIF">
+<info>(nervous)</info> Sh! They'll hear us!</speak>
 
-[Time Lapse. The next morning. Kif pulls a wire from a mineshaft 
-on the side of the volcano.]
+<info>Time Lapse. The next morning. Kif pulls a wire from a mineshaft 
+on the side of the volcano.</info>
 
-<character>KIF</character>
-OK, the dynamite's in place.
+<speak who="KIF">
+OK, the dynamite's in place.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Are you sure there's no other way to 
-get the buggalo out?
+get the buggalo out?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Not unless your parents have thousands 
-of helicopters at their disposal.
+of helicopters at their disposal.</speak>
 
-<character>AMY</character>
-Well actually--
+<speak who="AMY">
+Well actually--</speak>
 
-<character>BENDER</character>
-Too late! This is more fun!
+<speak who="BENDER">
+Too late! This is more fun!</speak>
 
-[He detonates the dynamite and the buggalo are blown out of the 
-crater. They roll down the side of the volcano.]
+<info>He detonates the dynamite and the buggalo are blown out of the 
+crater. They roll down the side of the volcano.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Kif! You did it! But how did you know 
-the dynamite would work?
+the dynamite would work?</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 I once took a seminar in ejecting chickens 
 from a sand dune. The principle is essentially 
-the same.
+the same.</speak>
 
-[The noise returns.]
+<info>The noise returns.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, it's that "barbecue's over" sound 
-again.
+again.</speak>
 
-[Dust flies up and the tornado blows towards them.]
+<info>Dust flies up and the tornado blows towards them.</info>
 
-<character>LEELA</character>
-(shouting) Sandstorm!  We're in the 
-eye of the storm!
+<speak who="LEELA">
+<info>(shouting)</info> Sandstorm!  We're in the 
+eye of the storm!</speak>
 
-<character>FRY</character>
-Where?
+<speak who="FRY">
+Where?</speak>
 
-<character>BENDER</character>
-What's that?
+<speak who="BENDER">
+What's that?</speak>
 
-[There is a buzzing noise. Three Martians come through the tornado, 
+<info>There is a buzzing noise. Three Martians come through the tornado, 
 riding flying buggalo. They have blue-grey skin and the tops 
 of their heads look like Native American headgear has been fused 
-to their head. Amy screams.]
+to their head. Amy screams.</info>
 
-<character>FRY</character>
-My God!
+<speak who="FRY">
+My God!</speak>
 
-<character>LEELA</character>
-Who are they?
+<speak who="LEELA">
+Who are they?</speak>
 
-[The lead Martian, Singing Wind, raises his hand.]
+<info>The lead Martian, Singing Wind, raises his hand.</info>
 
-<character>SINGING WIND</character>
-Fehk! We are the Native Martians.
+<speak who="SINGING WIND">
+Fehk! We are the Native Martians.</speak>
 
-[Everyone except Fry gasps. After a late reaction, he also gasps.]
+<info>Everyone except Fry gasps. After a late reaction, he also gasps.</info>
 
-<character>FRY</character>
-Also, I didn't know buggalo could fly.
+<speak who="FRY">
+Also, I didn't know buggalo could fly.</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 Only those who revere Mother Mars can 
 fly buggalo. And only they shall have 
-buggalo. And they're us.
+buggalo. And they're us.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 But your, um, Martian-ness, these buggalo 
 aren't yours. They belong to the Wong 
-family.
+family.</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 You mean family that took all Martian 
-land and gave us one lousy bead?
+land and gave us one lousy bead?</speak>
 
-<character>AMY</character>
-Uh-huh! Amy Wong.  And you are?
+<speak who="AMY">
+Uh-huh! Amy Wong.  And you are?</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 Mad at Wong family! We plan to ruin 
 them by stealing buggalo. But now we 
-take girl instead.
+take girl instead.</speak>
 
-[Two other Martians pick up Amy and they fly away.]
+<info>Two other Martians pick up Amy and they fly away.</info>
 
-<character>AMY</character>
-Wait! I'm too rich to be kidnapped!
+<speak who="AMY">
+Wait! I'm too rich to be kidnapped!</speak>
 
-[The Martians fly away.]
+<info>The Martians fly away.</info>
 
-<character>KIF</character>
-Amy! Nooo!
+<speak who="KIF">
+Amy! Nooo!</speak>
 
-[He cries.]
+<info>He cries.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Don't worry, Kif. I'm sure some other 
 beautiful, rich girl will fall in love 
-with you.
+with you.</speak>
 
-[Bender laughs and Kif cries.]
+<info>Bender laughs and Kif cries.</info>
 
-[Wong Ranch. The buggalo are returned and Kif closes the gate 
-behind them.]
+<info>Wong Ranch. The buggalo are returned and Kif closes the gate 
+behind them.</info>
 
-<character>MR. WONG</character>
-Hooray! You bring back cattle.
+<speak who="MR WONG">
+Hooray! You bring back cattle.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Yes ... but ... I'm afraid I've got 
-some bad news as well.
+some bad news as well.</speak>
 
-<character>MRS. WONG</character>
+<speak who="MRS WONG">
 Let Amy tell us. That way it soften 
-the blow.  Why Amy being so quiet?
+the blow.  Why Amy being so quiet?</speak>
 
-<character>KIF</character>
-Um ... well, um ... that is, um...
+<speak who="KIF">
+Um ... well, um ... that is, um...</speak>
 
-[A smaller tornado whips by and drops a piece of paper in front 
-of Mr. Wong. He picks up.]
+<info>A smaller tornado whips by and drops a piece of paper in front 
+of Mr. Wong. He picks up.</info>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Oh, no! Martians kidnap Amy!  I know 
-it them 'cause they no use good grammar.
+it them 'cause they no use good grammar.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 I'll get your daughter back, sir. I 
-swear.
+swear.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Forget it, squishy. You the one lose 
-her in first place. You done enough.
+her in first place. You done enough.</speak>
 
-<character>MRS. WONG</character>
+<speak who="MRS WONG">
 Yeah. This time we get most decorated 
-law man in the whole universe!
+law man in the whole universe!</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 You mean--? Oh, no, please. I beg you! 
-Oh, for the love of--
+Oh, for the love of--</speak>
 
-[The Wongs' Lounge. The law man has arrived.]
+<info>The Wongs' Lounge. The law man has arrived.</info>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 I am the man with no name. Zapp Brannigan, 
-at your service!
+at your service!</speak>
 
-[Kif sighs.]
+<info>Kif sighs.</info>
 
-<character>MRS. WONG</character>
+<speak who="MRS WONG">
 Please, Mr. Brannigan, we need you go 
-get our daughter back.
+get our daughter back.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Very well. I'll clean up Kif's mess. 
 I shall go bargain with the Martian's 
 personally.  Your gasps intrigue me. 
-Explain.
+Explain.</speak>
 
-<character>MR. WONG</character>
+<speak who="MR WONG">
 Martians have no land. They been gently 
 encouraged to live on reservation deep 
-underground. No-one ever dare go there.
+underground. No-one ever dare go there.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 This mission is incredibly dangerous. 
 Someone's sure to be killed. Fry, Leela, 
-Bender--
+Bender--</speak>
 
-<character>BENDER</character>
-Damn you, old man!
+<speak who="BENDER">
+Damn you, old man!</speak>
 
-[Mars Surface. Zapp, Kif, Leela, Fry and Bender trek across the 
-desert again. Betsy catches up with them and rubs against Kif.]
+<info>Mars Surface. Zapp, Kif, Leela, Fry and Bender trek across the 
+desert again. Betsy catches up with them and rubs against Kif.</info>
 
-<character>LEELA</character>
-Aw, look. Betsy followed you, Kif!
+<speak who="LEELA">
+Aw, look. Betsy followed you, Kif!</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 I didn't realise you were bringing your 
-girlfriend, lieutenant!
+girlfriend, lieutenant!</speak>
 
-[He sniggers and Kif sighs.]
+<info>He sniggers and Kif sighs.</info>
 
-<character>KIF</character>
-She won't leave me alone.
+<speak who="KIF">
+She won't leave me alone.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Did I say "girlfriend"? She sounds more 
-like a wife!
+like a wife!</speak>
 
-[There is silence. A tumbleweed blows by.]
+<info>There is silence. A tumbleweed blows by.</info>
 
-[Time Lapse. They reach a cliff and look over the edge.]
+<info>Time Lapse. They reach a cliff and look over the edge.</info>
 
-<character>ZAPP</character>
-Behold: The Great Stone Face of Mars.
+<speak who="ZAPP">
+Behold: The Great Stone Face of Mars.</speak>
 
-<character>FRY</character>
-Hm.
+<speak who="FRY">
+Hm.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 The only known entrance to the Martian 
-reservation.
+reservation.</speak>
 
-<character>LEELA</character>
-What about the Great Stone Ass of Mars?
+<speak who="LEELA">
+What about the Great Stone Ass of Mars?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Well, yeah, but it's way over the other 
-side of the planet.
+side of the planet.</speak>
 
-[Time Lapse. They prepare to walk through one of the nostrils.]
+<info>Time Lapse. They prepare to walk through one of the nostrils.</info>
 
-<character>ZAPP</character>
-Nose-ward, ho!
+<speak who="ZAPP">
+Nose-ward, ho!</speak>
 
-[Cut to: Martian Reservation. The nose begins to get darker. 
+<info>Cut to: Martian Reservation. The nose begins to get darker. 
 They mumble. They are surrounded by torches. They gasp. It gets 
 lighter and they see they are surrounded by Martians with bows 
-and laser-arrows. Singing Wind walks in.]
+and laser-arrows. Singing Wind walks in.</info>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 Fehk! I am Singing Wind, chief of the 
-Martian tribe.
+Martian tribe.</speak>
 
-<character>ZAPP</character>
-Take me to your leader.
+<speak who="ZAPP">
+Take me to your leader.</speak>
 
-[The Martians stare blankly at him.]
+<info>The Martians stare blankly at him.</info>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 Moving along. Why you trespass on our 
-land?
+land?</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 We come to negotiate the release of 
 Amy Wong. And just to clarify: Land 
-is the stuff that has sky over it.
+is the stuff that has sky over it.</speak>
 
-[He drinks from a Slurm can and throws it down. A Martian cries 
-� la the Native American in those American public service advertisements.]
+<info>He drinks from a Slurm can and throws it down. A Martian cries 
+� la the Native American in those American public service advertisements.</info>
 
-<character>LEELA</character>
-They have such respect for the planet.
+<speak who="LEELA">
+They have such respect for the planet.</speak>
 
-<character>MARTIAN</character>
-Cynthia used to drink Slurm.
+<speak who="MARTIAN">
+Cynthia used to drink Slurm.</speak>
 
-[Singing Wind claps and Martians come in holding Amy.]
+<info>Singing Wind claps and Martians come in holding Amy.</info>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 We will give back girl when we get back 
-planet surface.
+planet surface.</speak>
 
-<character>ZAPP</character>
-How do we even know she's alive?
+<speak who="ZAPP">
+How do we even know she's alive?</speak>
 
-<character>AMY</character>
-I'm fine.
+<speak who="AMY">
+I'm fine.</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Sh! You're weakening our bargaining 
 position. How about instead you give 
 us the girl and we carve a bunch of 
-our presidents into your sacred mountain?
+our presidents into your sacred mountain?</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 You waste words. We want return of land 
-that was taken from us.
+that was taken from us.</speak>
 
-<character>BENDER</character>
-Uh, actually you traded it for a bead.
+<speak who="BENDER">
+Uh, actually you traded it for a bead.</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 Tribe suffer heap big buyer's remorse. 
-We want land back!
+We want land back!</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Chief, my people are a people of law. 
-And that law is ...  ... no backsies!
+And that law is ...  ... no backsies!</speak>
 
-<character>SINGING WIND</character>
-The time for stupid statements is over!
+<speak who="SINGING WIND">
+The time for stupid statements is over!</speak>
 
-[He and the other Martians make the "omm" noise. The dust picks 
-up.]
+<info>He and the other Martians make the "omm" noise. The dust picks 
+up.</info>
 
-<character>ZAPP</character>
-Oh, boy!
+<speak who="ZAPP">
+Oh, boy!</speak>
 
-[Cut to: Mars Surface. The Great Stone Face's mouth opens and 
-the tornado blows the sand away, revealing a Great Stone Body.]
+<info>Cut to: Mars Surface. The Great Stone Face's mouth opens and 
+the tornado blows the sand away, revealing a Great Stone Body.</info>
 
-[Cut to: Martian Reservation. Dust blows in Leela's face.]
+<info>Cut to: Martian Reservation. Dust blows in Leela's face.</info>
 
-<character>LEELA</character>
-Ow, ow, ow, ow! My eye!
+<speak who="LEELA">
+Ow, ow, ow, ow! My eye!</speak>
 
-[She puts in some eye drops.]
+<info>She puts in some eye drops.</info>
 
-[Mars University. The tornado blows down the "Knowledge Brings 
-Fear" sign and strips away the Martian statue to a skeleton.]
+<info>Mars University. The tornado blows down the "Knowledge Brings 
+Fear" sign and strips away the Martian statue to a skeleton.</info>
 
-[Wong Ranch. Zoidberg looks out the window.]
+<info>Wong Ranch. Zoidberg looks out the window.</info>
 
-<character>ZOIDBERG</character>
-Ma! Pa! Our precious ranch!
+<speak who="ZOIDBERG">
+Ma! Pa! Our precious ranch!</speak>
 
-[Mrs. Wong beats Zoidberg over the head with a trophy head.]
+<info>Mrs. Wong beats Zoidberg over the head with a trophy head.</info>
 
-[Martian Reservation. Singing Wind gives a signal and the tornado 
-sucks up Amy.]
+<info>Martian Reservation. Singing Wind gives a signal and the tornado 
+sucks up Amy.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 Amy, no! It's too windy!  Stay calm, 
-dearest! I'll save you!
+dearest! I'll save you!</speak>
 
-[He flies Betsy into the tornado.]
+<info>He flies Betsy into the tornado.</info>
 
-<character>AMY</character>
-Kif!  You're flying Betsy!
+<speak who="AMY">
+Kif!  You're flying Betsy!</speak>
 
-<character>KIF</character>
-Need a lift?
+<speak who="KIF">
+Need a lift?</speak>
 
-[Amy grabs hold of his face and stretches it.]
+<info>Amy grabs hold of his face and stretches it.</info>
 
-<character>SINGING WIND</character>
-Great Mother Mars! He has the gift!
+<speak who="SINGING WIND">
+Great Mother Mars! He has the gift!</speak>
 
-[He gives a signal and the Martians stop making the noise and 
+<info>He gives a signal and the Martians stop making the noise and 
 the tornado dies away. Kif lands Betsy. Zapp, Leela, Fry and 
-Bender cheer.]
+Bender cheer.</info>
 
-<character>LEELA</character>
-Yay, Kif!
+<speak who="LEELA">
+Yay, Kif!</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Kroker, that was one Brannigan-esque 
-feat of heroism!
+feat of heroism!</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 We have misjudged you, green one. You 
 fly the buggalo like us. You have true 
 reverence for Mother Mars. Let there 
-be peace between us.
+be peace between us.</speak>
 
-<character>MARTIAN #2</character>
-Yes. Let us smoke on peace pipe.
+<speak who="MARTIAN #2">
+Yes. Let us smoke on peace pipe.</speak>
 
-<character>KIF</character>
-Smoke-em?
+<speak who="KIF">
+Smoke-em?</speak>
 
-[Martian Tent. Singing Wind smokes the pipe and passes it to 
-Kif.]
+<info>Martian Tent. Singing Wind smokes the pipe and passes it to 
+Kif.</info>
 
-<character>SINGING WIND</character>
-Here, take.
+<speak who="SINGING WIND">
+Here, take.</speak>
 
-<character>KIF</character>
-Ooh, no thanks. I'm on the peace patch.
+<speak who="KIF">
+Ooh, no thanks. I'm on the peace patch.</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 You must smoke peace pipe. And you must 
-do it peacefully. Or we'll kill you.
+do it peacefully. Or we'll kill you.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Well it's just really that I don't feel 
-that--
+that--</speak>
 
-<character>ZAPP</character>
+<speak who="ZAPP">
 Don't be such a chicken, Kif. Teenagers 
 all smoke and they seem pretty on the 
-ball.
+ball.</speak>
 
-[Kif takes a puff and everyone cheers.]
+<info>Kif takes a puff and everyone cheers.</info>
 
-<character>FRY</character>
-Yeah!
+<speak who="FRY">
+Yeah!</speak>
 
-<character>ZAPP</character>
-Yes, sir!
+<speak who="ZAPP">
+Yes, sir!</speak>
 
-<character>BENDER</character>
-Way to suck it!
+<speak who="BENDER">
+Way to suck it!</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Hey, I'm smoking! I'm the greatest! 
-Oh, monkey trumpets!
+Oh, monkey trumpets!</speak>
 
-[Martian Torture Chamber. Kif is held down on a rack with rope.]
+<info>Martian Torture Chamber. Kif is held down on a rack with rope.</info>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 You have coughed at our offer of peace. 
-So you must die!
+So you must die!</speak>
 
-<character>MARTIAN #2</character>
+<speak who="MARTIAN #2">
 The very bead used to crush our dreams 
-shall be used to crush your bones.
+shall be used to crush your bones.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Well, actually, I don't have bones. 
 I'm supported by a system of fluid-filled 
-bladders that--
+bladders that--</speak>
 
-[The Martians ignore him and turn away. The roof opens and Kif 
-screams. The bead is lowered in and he whimpers.]
+<info>The Martians ignore him and turn away. The roof opens and Kif 
+screams. The bead is lowered in and he whimpers.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wait. That's the bead you traded your 
-land for?
+land for?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's a gigantic diamond! That thing 
-must be worth a fortune.
+must be worth a fortune.</speak>
 
-<character>SINGING WIND</character>
-Really?
+<speak who="SINGING WIND">
+Really?</speak>
 
-[The diamond stops and Kif sighs. Bender takes a look at the 
-diamond through an eye glass and stutters.]
+<info>The diamond stops and Kif sighs. Bender takes a look at the 
+diamond through an eye glass and stutters.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, Chief, you've made me the happiest 
-girl in the world!
+girl in the world!</speak>
 
-[He hugs Singing Wind and he immediately pushes him away.]
+<info>He hugs Singing Wind and he immediately pushes him away.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Y'know, if you still want your land, 
-we could just trade back for it.
+we could just trade back for it.</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 Hmm. We always thought bead was worthless. 
 We assumed our ancestors were cheated 
-because they not have concept of ownership.
+because they not have concept of ownership.</speak>
 
-<character>BENDER</character>
-So we can have the diamond?
+<speak who="BENDER">
+So we can have the diamond?</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 No. We do have concept of ownership. 
 You are free to go. Sorry about all 
-the rustling and kidnapping.
+the rustling and kidnapping.</speak>
 
-<character>LEELA</character>
-But what about your sacred land?
+<speak who="LEELA">
+But what about your sacred land?</speak>
 
-<character>SINGING WIND</character>
+<speak who="SINGING WIND">
 Land shmand! We don't wanna live on 
 this planet. It's a dump. We'll buy 
 new planet and act like it's sacred. 
 With cash like this, who's going to 
-argue? Nobody, that's who!
+argue? Nobody, that's who!</speak>
 
-[The Martian ships fly away from Mars with the diamond in tow.]
+<info>The Martian ships fly away from Mars with the diamond in tow.</info>
 
-[The Wongs' Lounge. Everyone is back.]
+<info>The Wongs' Lounge. Everyone is back.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Then Kif flew Betsy, rescued me from 
 the tornado and made peace with the 
-Martians.
+Martians.</speak>
 
-<character>MR. WONG</character>
-Please! He too much of a wimp.
+<speak who="MR WONG">
+Please! He too much of a wimp.</speak>
 
-<character>MRS. WONG</character>
+<speak who="MRS WONG">
 Yeah. I'm sure it was all Mr. Zapp Brannigan 
-here.
+here.</speak>
 
-<character>ZAPP</character>
-Please, you give me too little credit.
+<speak who="ZAPP">
+Please, you give me too little credit.</speak>
 
-[Kif sighs.]
+<info>Kif sighs.</info>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Captain Brannigan, you're always welcome 
-here at Rancho Zoidberg!
+here at Rancho Zoidberg!</speak>
 
-[Cut to: The Wongs' Porch. Zoidberg is thrown out. He hits his 
-head on a post and scoffs.]
+<info>Cut to: The Wongs' Porch. Zoidberg is thrown out. He hits his 
+head on a post and scoffs.</info>
 
-<character>ZOIDBERG</character>
-Money doesn't make good people, no siree!
+<speak who="ZOIDBERG">
+Money doesn't make good people, no siree!</speak>
 
-[Time Lapse. Later that night, Amy comes out onto the porch. 
-Kif is sat on the porch swing.]
+<info>Time Lapse. Later that night, Amy comes out onto the porch. 
+Kif is sat on the porch swing.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Thanks for saving my life, Kif. You're 
-my hero.
+my hero.</speak>
 
-<character>KIF</character>
+<speak who="KIF">
 Oh, you're kind. But your parents still 
-don't like me.
+don't like me.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Well globviously! But if they liked 
 you then I wouldn't. Don't you know 
-anything about girls?
+anything about girls?</speak>
 
-[They kiss. The buggalo run past and the ground shakes. Amy gets 
-up and goes back inside. Kif gets out his diary.]
+<info>They kiss. The buggalo run past and the ground shakes. Amy gets 
+up and goes back inside. Kif gets out his diary.</info>
 
-<character>KIF</character>
+<speak who="KIF">
 Dear diary, I just made love for the 
-second time!
+second time!</speak>
 
-[He closes his diary and hugs it.]
+<info>He closes his diary and hugs it.</info>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

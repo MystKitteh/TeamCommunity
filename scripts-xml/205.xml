@@ -1,246 +1,246 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 205 
 
-<title>I <character>SECOND THAT EMOTION</character></title>
+<title>I SECOND THAT EMOTION</title>
 
 <author>Patric M. Verrone</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Advertisement: Fry, Bender and Leela appear as heroes in an 
-oval.]
+<info>Advertisement: Fry, Bender and Leela appear as heroes in an 
+oval.</info>
 
-<character>ANNOUNCER</character>
-(voice-over) Futurama is brought to 
+<speak who="ANNOUNCER">
+<info>(voice-over)</info> Futurama is brought to 
 you by ...  ... Glagnar's Human Rinds. 
-It's a buncha muncha cruncha human!
+It's a buncha muncha cruncha human!</speak>
 
-[The monster bites one from a packet.]
+<info>The monster bites one from a packet.</info>
 
-[Opening Credits. Caption: Made From Meat By-Products.]
+<info>Opening Credits. Caption: Made From Meat By-Products.</info>
 
-[Planet Express: Kitchen. Leela picks up a huge can of Kibbles 
+<info>Planet Express: Kitchen. Leela picks up a huge can of Kibbles 
 'n' Snouts and carries it over to a huge electric can opener 
-on the wall.]
+on the wall.</info>
 
-[Cut to: Planet Express: Balcony. Nibbler is asleep. His third 
+<info>Cut to: Planet Express: Balcony. Nibbler is asleep. His third 
 eye perks up and looks around when he hears the can opener. He 
-runs inside.]
+runs inside.</info>
 
-[Cut to: Planet Express: Kitchen. Fry gets some coffee. Leela 
+<info>Cut to: Planet Express: Kitchen. Fry gets some coffee. Leela 
 tips the can over and the meat slowly slides out from inside. 
 Nibbler sits in his food dish and the meat falls on him and he 
-scoffs it in a few bites.]
+scoffs it in a few bites.</info>
 
-<character>LEELA</character>
-Aww! Somebody likes snouts.
+<speak who="LEELA">
+Aww! Somebody likes snouts.</speak>
 
-<character>FRY</character>
-Is it me?
+<speak who="FRY">
+Is it me?</speak>
 
-[Bender wanders in humming to himself. The magnet on the can 
-opener pulls him off the floor and starts cutting into him.]
+<info>Bender wanders in humming to himself. The magnet on the can 
+opener pulls him off the floor and starts cutting into him.</info>
 
-<character>BENDER</character>
-(shouting) Ow, my head! My precious 
-head!  (talking) Stupid can opener. 
+<speak who="BENDER">
+<info>(shouting)</info> Ow, my head! My precious 
+head!  <info>(talking)</info> Stupid can opener. 
 You killed my father and now you've 
-come back for me!
+come back for me!</speak>
 
-<character>FRY</character>
-You alright, Bender?
+<speak who="FRY">
+You alright, Bender?</speak>
 
-[Bender rubs his head. The top half is cut like a half-open can.]
+<info>Bender rubs his head. The top half is cut like a half-open can.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah, I guess so. But I don't see why 
 we keep this ticking time-bomb around 
-just for that dumb animal.
+just for that dumb animal.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Don't yell at Nibbler like that.  You 
 hurt his feelings. Come on, pet him 
-and make up.
+and make up.</speak>
 
-<character>BENDER</character>
-No.
+<speak who="BENDER">
+No.</speak>
 
-<character>LEELA</character>
-I said pet him.
+<speak who="LEELA">
+I said pet him.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'll pet him. I'll pet him with both 
-hands!  Ow! My ass! Get off!
+hands!  Ow! My ass! Get off!</speak>
 
-[Nibbler lets go.]
+<info>Nibbler lets go.</info>
 
-<character>LEELA</character>
-Are you alright?
+<speak who="LEELA">
+Are you alright?</speak>
 
-<character>BENDER</character>
-Ah, it's nothing a lawsuit won't cure.
+<speak who="BENDER">
+Ah, it's nothing a lawsuit won't cure.</speak>
 
-<character>LEELA</character>
-Not you.  Aww, poor baby chipped a fang.
+<speak who="LEELA">
+Not you.  Aww, poor baby chipped a fang.</speak>
 
-[She carries Nibbler away and kisses and pets him.]
+<info>She carries Nibbler away and kisses and pets him.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, I got a busted ass here, I don't 
-see anyone kissing it.
+see anyone kissing it.</speak>
 
-[Cut to: Planet Express: Meeting Room. Zoidberg puts a book down 
-and stands up from the table.]
+<info>Cut to: Planet Express: Meeting Room. Zoidberg puts a book down 
+and stands up from the table.</info>
 
-<character>ZOIDBERG</character>
-(reluctant) Alright, I'm coming.
+<speak who="ZOIDBERG">
+<info>(reluctant)</info> Alright, I'm coming.</speak>
 
-[Animal Clinic Waiting Room. A man sits stroking a cat, a cat 
+<info>Animal Clinic Waiting Room. A man sits stroking a cat, a cat 
 sits stroking a man and Leela sits with Nibbler while Fry and 
 Bender stand nearby. A door opens and a woman comes out with 
-a two-headed dog, followed by the vet, Jeffery Grant.]
+a two-headed dog, followed by the vet, Jeffery Grant.</info>
 
-<character>JEFFERY</character>
+<speak who="JEFFERY">
 Remember, Rover gets the pill and Pepper 
-gets the suppository.  Next.
+gets the suppository.  Next.</speak>
 
-[Animal Clinic Examination Room. Veterinary surgeries haven't 
+<info>Animal Clinic Examination Room. Veterinary surgeries haven't 
 changed much in a thousand years; there is a sink, a paper towel 
 dispenser and an examination table in the middle of the room 
 which Nibbler sits on. Jeffery fetches a small hammer and taps 
 Nibbler on the head with it, making him squeal. He looks in his 
-mouth.]
+mouth.</info>
 
-<character>JEFFERY</character>
+<speak who="JEFFERY">
 It's just a simple broken fang, nothing 
-serious.
+serious.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What's that you say there, doctor? You're 
-gonna have to put him down?
+gonna have to put him down?</speak>
 
-<character>JEFFERY</character>
-No-- what? Huh?
+<speak who="JEFFERY">
+No-- what? Huh?</speak>
 
-[He looks at Fry and Leela in confusion. Bender shakes his head.]
+<info>He looks at Fry and Leela in confusion. Bender shakes his head.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Terrible shame that. Shall I do the 
-honours?
+honours?</speak>
 
-[He reaches up to a shelf and takes down a bottle with some pink 
+<info>He reaches up to a shelf and takes down a bottle with some pink 
 liquid in it marked "Goose Laxative". He holds the bottle by 
 it's neck, smashes it on a table and points it at Nibbler. Leela 
-reaches across.]
+reaches across.</info>
 
-<character>LEELA</character>
-No!
+<speak who="LEELA">
+No!</speak>
 
-[She rips Bender's arm off and smacks it against the table until 
-it lets go of the broken bottle.]
+<info>She rips Bender's arm off and smacks it against the table until 
+it lets go of the broken bottle.</info>
 
-<character>BENDER</character>
-You about done?
+<speak who="BENDER">
+You about done?</speak>
 
-<character>LEELA</character>
-Next time I'm keeping it.
+<speak who="LEELA">
+Next time I'm keeping it.</speak>
 
-[She tosses the arm over her shoulder and Bender reattaches it.]
+<info>She tosses the arm over her shoulder and Bender reattaches it.</info>
 
-<character>JEFFERY</character>
+<speak who="JEFFERY">
 OK, well I believe I have a replacement 
 fang for your pet in the next room. 
 The jaguar didn't wanna cooperate but 
 luckily he knocked one of my teeth out. 
-Now then.
+Now then.</speak>
 
-[He pulls out the broken crown of Nibbler's fang and sets it 
-down on a table. Fry picks it up.]
+<info>He pulls out the broken crown of Nibbler's fang and sets it 
+down on a table. Fry picks it up.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, what are these rings in Nibbler's 
-fang?
+fang?</speak>
 
-[Jeffery attaches Nibbler's new tooth with a laser.]
+<info>Jeffery attaches Nibbler's new tooth with a laser.</info>
 
-<character>JEFFERY</character>
+<speak who="JEFFERY">
 Um, I'm still a little woozy from a 
 gazelle kick this morning but if he's 
 anything like the common tree, the rings 
-might indicate his age.
+might indicate his age.</speak>
 
-[Fry laughs.]
+<info>Fry laughs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Yeah, well, good luck. It'd take some 
-kind of genius to count all those rings.
+kind of genius to count all those rings.</speak>
 
-[Jeffery takes a look.]
+<info>Jeffery takes a look.</info>
 
-<character>JEFFERY</character>
-He's five.
+<speak who="JEFFERY">
+He's five.</speak>
 
-[Planet Express: Lounge. A "Happy 5th Birthday Nibbler" banner 
-has been strung up on the wall.]
+<info>Planet Express: Lounge. A "Happy 5th Birthday Nibbler" banner 
+has been strung up on the wall.</info>
 
-<character>FARNSWORTH</character>
-Happy birthday, young Nibbler.
+<speak who="FARNSWORTH">
+Happy birthday, young Nibbler.</speak>
 
-[Everyone is sat on the floor surrounded by opened presents. 
+<info>Everyone is sat on the floor surrounded by opened presents. 
 The room has been decorated with balloons and streamers and Fry 
 sticks a picture to the wall. Nibbler scratches himself and runs 
-around.]
+around.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Aww, look how cuddly he looks in his 
-new cape!
+new cape!</speak>
 
-<character>BENDER</character>
-(sarcastic) I'd be cuddly too if someone 
-gave me a new cape.
+<speak who="BENDER">
+<info>(sarcastic)</info> I'd be cuddly too if someone 
+gave me a new cape.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Who's playing pin the tail on the moon 
-maggot?
+maggot?</speak>
 
-[Bender snatches a tail from his hand.]
+<info>Bender snatches a tail from his hand.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ooh, me! Everyone watch how good I am. 
 And the crowd goes wild! What prize 
-do I get? Cash?
+do I get? Cash?</speak>
 
-[He turns around. No one is interested.]
+<info>He turns around. No one is interested.</info>
 
-<character>AMY</character>
-Hey, look at Nibbler!
+<speak who="AMY">
+Hey, look at Nibbler!</speak>
 
-[Nibbler is sat in a high-chair at the table and chews a spoon.]
+<info>Nibbler is sat in a high-chair at the table and chews a spoon.</info>
 
-<character>HERMES</character>
-Aww, he's holding a spoon.
+<speak who="HERMES">
+Aww, he's holding a spoon.</speak>
 
-<character>ZOIDBERG</character>
-He's so talented!
+<speak who="ZOIDBERG">
+He's so talented!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You call that talent? Gather round old 
 Bender and get ready for the show of 
-a lifetime.  Ta-da!
+a lifetime.  Ta-da!</speak>
 
-[He grumbles when no one watches. Leela puts a pointy party hat 
-on Nibbler and his third eye pops out the top. Hermes gasps.]
+<info>He grumbles when no one watches. Leela puts a pointy party hat 
+on Nibbler and his third eye pops out the top. Hermes gasps.</info>
 
-<character>HERMES</character>
-Now he's wearing a hat!
+<speak who="HERMES">
+Now he's wearing a hat!</speak>
 
-<character>LEELA</character>
-Come on, let's all sing Happy Birthday!
+<speak who="LEELA">
+Come on, let's all sing Happy Birthday!</speak>
 
-[They do, all except Bender.]
+<info>They do, all except Bender.</info>
 
-<character>ALL</character>
-(singing) What day is today?
+<speak who="ALL">
+<info>(singing)</info> What day is today?
 
 It's Nibbler's birthday,
 
@@ -248,772 +248,772 @@ What a day for a birthday,
 
 Let's all have some cake.
 
-<character>FRY</character>
-(singing) ... and you smell like one 
-too!
+</speak><speak who="FRY">
+<info>(singing)</info> ... and you smell like one 
+too!</speak>
 
-[He giggles and they all applaud.]
+<info>He giggles and they all applaud.</info>
 
-<character>BENDER</character>
-Hey, what about this?
+<speak who="BENDER">
+Hey, what about this?</speak>
 
-[He dances around and whistles Sweet Georgia Brown again.]
+<info>He dances around and whistles Sweet Georgia Brown again.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender, I thought you were supposed 
-to be cooking for this party.
+to be cooking for this party.</speak>
 
-<character>BENDER</character>
-Fine, we'll have rack of Nibbler.
+<speak who="BENDER">
+Fine, we'll have rack of Nibbler.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Just make a simple cake. And this time, 
 if someone's going to jump out of it, 
 make sure you put them in after you 
-cook it.
+cook it.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 So it's a cake you want, is it? I'll 
-make you a cake you'll never forget.
+make you a cake you'll never forget.</speak>
 
-[Planet Express: Kitchen. Bender takes some rat poison out of 
+<info>Planet Express: Kitchen. Bender takes some rat poison out of 
 a cupboard and laughs insanely as he tips it onto something. 
 It turns out he is pouring it next to a hole in the bottom of 
-the wall.]
+the wall.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 That'll take care of those annoying 
 rats.  Now, to bake a cake so delicious 
 they'll have no choice but to love and 
-worship me.
+worship me.</speak>
 
-[He whistles Sweet Georgia Brown as he walks to the fridge and 
+<info>He whistles Sweet Georgia Brown as he walks to the fridge and 
 takes two eggs out of a 12-pack of various grade bird eggs. He 
 juggles them around, then rolls them across his shoulders and 
-into a bowl. He tips in some flour, some Third & Third & Third 
+into a bowl. He tips in some flour, some Third &amp; Third &amp; Third 
 and then uses his hand to whisk the mixture. He pours the mixture 
 into a cake tin, puts the tin in his chest cabinet and switches 
 it from refrigerate to E-Z bake, closes the door and hums as 
-it cooks.]
+it cooks.</info>
 
-[Time Lapse. Bender ices the 5-tier birthday cake and puts a 
-little Bender ornament on the top.]
+<info>Time Lapse. Bender ices the 5-tier birthday cake and puts a 
+little Bender ornament on the top.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 There! This'll teach those filthy bastards 
 who's lovable. Now all I have to do 
 is spell check it and it's ready for 
 my admiring public.  No! Get away from 
-there!  That's it.
+there!  That's it.</speak>
 
-[Planet Express: Bathroom. Bender carries Nibbler in holding 
-him by his eyestalk and lifts the toilet seat lid.]
+<info>Planet Express: Bathroom. Bender carries Nibbler in holding 
+him by his eyestalk and lifts the toilet seat lid.</info>
 
-<character>BENDER</character>
-Happy birthday!
+<speak who="BENDER">
+Happy birthday!</speak>
 
-[He drops Nibbler in and flushes the toilet. Nibbler starts turning. 
-Enter Leela.]
+<info>He drops Nibbler in and flushes the toilet. Nibbler starts turning. 
+Enter Leela.</info>
 
-<character>LEELA</character>
-Bender, what's going--  (crying) No!
+<speak who="LEELA">
+Bender, what's going--  <info>(crying)</info> No!</speak>
 
-<character>BENDER</character>
-Hey! Can't you see I'm using the toilet?
+<speak who="BENDER">
+Hey! Can't you see I'm using the toilet?</speak>
 
-[Planet Express: Meeting Room. Leela sits at the table crying 
-with the rest of the staff gathered around her.]
+<info>Planet Express: Meeting Room. Leela sits at the table crying 
+with the rest of the staff gathered around her.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Bender! How could you flush Nibbler 
-down the toilet?
+down the toilet?</speak>
 
-[Bender sits on a chair with his feet on the table smoking a 
-cigar.]
+<info>Bender sits on a chair with his feet on the table smoking a 
+cigar.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well, step one, I had to lift the seat. 
 That was the first little annoyance. 
-Am I right, men?
+Am I right, men?</speak>
 
-<character>LEELA</character>
-(crying) Aren't you upset at all? How 
+<speak who="LEELA">
+<info>(crying)</info> Aren't you upset at all? How 
 would you feel if I flushed Fry down 
-the toilet?
+the toilet?</speak>
 
-<character>BENDER</character>
-Only one way to find out.
+<speak who="BENDER">
+Only one way to find out.</speak>
 
-<character>LEELA</character>
-(crying) You have no sympathy for anyone 
-else's feelings.
+<speak who="LEELA">
+<info>(crying)</info> You have no sympathy for anyone 
+else's feelings.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Of course I do. Right now I feel sorry 
-for you.
+for you.</speak>
 
-<character>LEELA</character>
-You do?
+<speak who="LEELA">
+You do?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Yeah. I mean, one cantaloupe-sized bloodshot 
 eye? You ain't winning no beauty pageants, 
-lady.
+lady.</speak>
 
-[Leela cries some more.]
+<info>Leela cries some more.</info>
 
-[Planet Express: Bathroom. Everyone except Bender stands around 
-the toilet. Leela dabs her eyes with a tissue.]
+<info>Planet Express: Bathroom. Everyone except Bender stands around 
+the toilet. Leela dabs her eyes with a tissue.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 And so we say goodbye to our beloved 
 pet Nibbler, who's gone to a place where 
-I too hope one day to go: The toilet.
+I too hope one day to go: The toilet.</speak>
 
-[Leela sobs and Fry nods to Hermes, who places a lily into the 
-toilet. He nods back to Fry and he flushes the lily away.]
+<info>Leela sobs and Fry nods to Hermes, who places a lily into the 
+toilet. He nods back to Fry and he flushes the lily away.</info>
 
-<character>LEELA</character>
-(crying) I wouldn't feel so bad if Bender 
-just understood the pain he caused me.
+<speak who="LEELA">
+<info>(crying)</info> I wouldn't feel so bad if Bender 
+just understood the pain he caused me.</speak>
 
-[They hear Bender laughing.]
+<info>They hear Bender laughing.</info>
 
-[Cut to: Planet Express: Lounge. They peer around the door. Bender 
+<info>Cut to: Planet Express: Lounge. They peer around the door. Bender 
 is watching All My Circuits. Calculon is lying in a hospital 
-bed.]
+bed.</info>
 
-<character>CALCULON</character>
+<speak who="CALCULON">
 Give it to me straight, doctor -- don't 
-sugarcoat it.
+sugarcoat it.</speak>
 
-<character>DOCTORBOT</character>
+<speak who="DOCTORBOT">
 Very well. Your entire family died 
 when a plane piloted by your fianc�e 
 crashed into your uninsured home. And 
-you have inoperable cancer.
+you have inoperable cancer.</speak>
 
-[Bender laughs and kicks his legs.]
+<info>Bender laughs and kicks his legs.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Bet you weren't expecting that one, 
-Calculon!
+Calculon!</speak>
 
-[Cut to: Planet Express: Bathroom.]
+<info>Cut to: Planet Express: Bathroom.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 It's like he doesn't understand simple 
-humanoid emotion.
+humanoid emotion.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I wish just once Bender could feel exactly 
-what I feel.
+what I feel.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Actually, through the miracle of science, 
-that can be arranged.
+that can be arranged.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Uh-oh. Is this gonna be another crazy 
 experiment that crosses a line Man was 
-not meant to cross?
+not meant to cross?</speak>
 
-[Farnsworth makes the "little bit" gesture.]
+<info>Farnsworth makes the "little bit" gesture.</info>
 
-[Cut to: Planet Express: Lounge. Bender watches the news.]
+<info>Cut to: Planet Express: Lounge. Bender watches the news.</info>
 
-<character>LINDA</character>
+<speak who="LINDA">
 The official death toll in that tragic 
 rocket crash has now been raised to 
-54,000.
+54,000.</speak>
 
-[Bender sniggers and Fry, Hermes and Zoidberg grab him and pin 
-him to the table. Farnsworth unscrews his head.]
+<info>Bender sniggers and Fry, Hermes and Zoidberg grab him and pin 
+him to the table. Farnsworth unscrews his head.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, what the hell are you doing with 
-my head?
+my head?</speak>
 
-[Farnsworth carries him across the room.]
+<info>Farnsworth carries him across the room.</info>
 
-<character>FARNSWORTH</character>
-I need to tinker in it.
+<speak who="FARNSWORTH">
+I need to tinker in it.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Why don't you just use a potted plant 
-like Fry?
+like Fry?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Quiet, you. I'm installing an empathy 
-chip.
+chip.</speak>
 
-[He holds up a little green chip in a pair of pliers.]
+<info>He holds up a little green chip in a pair of pliers.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 And that'll allow Bender to feel other 
-people's emotions?
+people's emotions?</speak>
 
-<character>FARNSWORTH</character>
-Yes. If by "allow" you mean "force".
+<speak who="FARNSWORTH">
+Yes. If by "allow" you mean "force".</speak>
 
-[He screws Bender's head into a vice and starts hammering the 
-chip into the side of it.]
+<info>He screws Bender's head into a vice and starts hammering the 
+chip into the side of it.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ooh! Ow! Son of a-- Careful with that! 
-Ow ...
+Ow ...</speak>
 
-<character>FARNSWORTH</character>
-Oh dear, oh my. I got it. Once more.
+<speak who="FARNSWORTH">
+Oh dear, oh my. I got it. Once more.</speak>
 
-<character>BENDER</character>
-... Ow! Professor!
+<speak who="BENDER">
+... Ow! Professor!</speak>
 
-<character>FARNSWORTH</character>
-Steady now.
+<speak who="FARNSWORTH">
+Steady now.</speak>
 
-<character>BENDER</character>
-Ow!
+<speak who="BENDER">
+Ow!</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 There we go.  Now I'll simply tune it 
-to Leela's emotional frequency.
+to Leela's emotional frequency.</speak>
 
-[He turns the chip with a screwdriver. It beeps.]
+<info>He turns the chip with a screwdriver. It beeps.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 My God, I'm overcome with ... feelings. 
 I'm experiencing a powerful yearning 
 to ... to cram my gullet full of mackerel 
-heads.
+heads.</speak>
 
-<character>ZOIDBERG</character>
-That's me, baby!
+<speak who="ZOIDBERG">
+That's me, baby!</speak>
 
-<character>FARNSWORTH</character>
-Hmm.
+<speak who="FARNSWORTH">
+Hmm.</speak>
 
-[He turns the chip again.]
+<info>He turns the chip again.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Now I'm worried that I'm not as smart 
 as Leela, but at the same time I feel 
-relieved that I'm cuter than her.
+relieved that I'm cuter than her.</speak>
 
-<character>AMY</character>
-Uh ... that's me.
+<speak who="AMY">
+Uh ... that's me.</speak>
 
-[She raises her hand and Fry leans back.]
+<info>She raises her hand and Fry leans back.</info>
 
-<character>FRY</character>
-(whispering) Thanks for covering.
+<speak who="FRY">
+<info>(whispering)</info> Thanks for covering.</speak>
 
-[Farnsworth turns the chip again.]
+<info>Farnsworth turns the chip again.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 This time I miss Nibbler and I'm feeling 
-nosy and opinionated.
+nosy and opinionated.</speak>
 
-<character>AMY</character>
-Bingo!
+<speak who="AMY">
+Bingo!</speak>
 
-<character>HERMES</character>
-That's Leela!
+<speak who="HERMES">
+That's Leela!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Thank you, Professor. I'm happy that 
-Bender can finally feel my pain.
+Bender can finally feel my pain.</speak>
 
-[The chip beeps.]
+<info>The chip beeps.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Happy. I like this feeling. Just don't 
-revert to your usual mopey self.
+revert to your usual mopey self.</speak>
 
-<character>LEELA</character>
-I'm not mopey. You shut up!
+<speak who="LEELA">
+I'm not mopey. You shut up!</speak>
 
-[The chip beeps.]
+<info>The chip beeps.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Anger, huh? How dare you make me feel 
 anger, you one-eyed jerk with a dead 
-pet!
+pet!</speak>
 
-[He laughs and Leela cries. The chip beeps and he cries too.]
+<info>He laughs and Leela cries. The chip beeps and he cries too.</info>
 
-[O'Zorgnax's Pub. Amy and Leela are on a girl's night out. Leela 
-is wearing a blue dress and Amy is wearing a green top.]
+<info>O'Zorgnax's Pub. Amy and Leela are on a girl's night out. Leela 
+is wearing a blue dress and Amy is wearing a green top.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Thanks for taking me out, Amy. I feel 
-slightly less miserable already.
+slightly less miserable already.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Hey, you know what'd cheer you up? You 
-should get a puppy.
+should get a puppy.</speak>
 
-<character>LEELA</character>
-A puppy? Nibbler loved to eat puppies.
+<speak who="LEELA">
+A puppy? Nibbler loved to eat puppies.</speak>
 
-[She bursts into tears.]
+<info>She bursts into tears.</info>
 
-[Fry and Bender's Lounge. They sit watching TV and Bender suddenly 
-cries.]
+<info>Fry and Bender's Lounge. They sit watching TV and Bender suddenly 
+cries.</info>
 
-<character>FRY</character>
-What's your problem?
+<speak who="FRY">
+What's your problem?</speak>
 
-<character>BENDER</character>
-(crying) I miss Nibbler.
+<speak who="BENDER">
+<info>(crying)</info> I miss Nibbler.</speak>
 
-<character>FRY</character>
-You do?
+<speak who="FRY">
+You do?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hell, no! It's Leela's stupid feelings. 
 Why can't she just drink herself happy 
-like a normal person?
+like a normal person?</speak>
 
-[He cries and drinks down the bottle.]
+<info>He cries and drinks down the bottle.</info>
 
-[O'Zorgnax's Pub. Amy and a Hispanic guy dance closely. Leela 
-drums her fingers and growls.]
+<info>O'Zorgnax's Pub. Amy and a Hispanic guy dance closely. Leela 
+drums her fingers and growls.</info>
 
-[Fry and Bender's Lounge. Bender's chip beeps.]
+<info>Fry and Bender's Lounge. Bender's chip beeps.</info>
 
-<character>BENDER</character>
-Uh-oh, jealousy.  (shouting) You think 
-you're so hot!
+<speak who="BENDER">
+Uh-oh, jealousy.  <info>(shouting)</info> You think 
+you're so hot!</speak>
 
-<character>FRY</character>
-What?
+<speak who="FRY">
+What?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 The only reason you get all the guys 
-is because you dress like a tramp!
+is because you dress like a tramp!</speak>
 
-[He slaps Fry, making him drop his Slurm.]
+<info>He slaps Fry, making him drop his Slurm.</info>
 
-<character>FRY</character>
-(crying) They're just responding to 
-my personality.
+<speak who="FRY">
+<info>(crying)</info> They're just responding to 
+my personality.</speak>
 
-[O'Zorgnax's Pub. Leela is still sat at the bar. The guy has 
-his arm around Amy.]
+<info>O'Zorgnax's Pub. Leela is still sat at the bar. The guy has 
+his arm around Amy.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Um, Leela? Armando and I are going to 
 the back seat of his car for coffee. 
-You gonna be alright here by yourself?
+You gonna be alright here by yourself?</speak>
 
-<character>LEELA</character>
-(theatrical happiness) Sure. I'm having 
+<speak who="LEELA">
+<info>(theatrical happiness)</info> Sure. I'm having 
 a great time -- really. You two go enjoy 
-yourselves.
+yourselves.</speak>
 
-[They leave.]
+<info>They leave.</info>
 
-[Fry and Bender's Lounge.]
+<info>Fry and Bender's Lounge.</info>
 
-<character>BENDER</character>
-(crying) I'm so lonely. I'm gonna go 
-eat a bucket of ice cream.  (crying) 
-A bucket of ...
+<speak who="BENDER">
+<info>(crying)</info> I'm so lonely. I'm gonna go 
+eat a bucket of ice cream.  <info>(crying)</info> 
+A bucket of ...</speak>
 
-[He sobs.]
+<info>He sobs.</info>
 
-<character>FRY</character>
-(shouting) The spoon's in the foot powder.
+<speak who="FRY">
+<info>(shouting)</info> The spoon's in the foot powder.</speak>
 
-[Planet Express: Meeting Room. A tear streams down Leela's face 
+<info>Planet Express: Meeting Room. A tear streams down Leela's face 
 as she looks at a photo of her and Nibbler in one of those things 
 at a beach where the head is cut out. Bender and Fry watch from 
-the doorway. Bender sighs.]
+the doorway. Bender sighs.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm at the end of my rope. I can't live 
-another minute without poor, sweet Nibbler.
+another minute without poor, sweet Nibbler.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Too bad he wasn't an alligator. Y'know, 
 when you flush those things they stay 
-alive in the sewers.
+alive in the sewers.</speak>
 
-<character>BENDER</character>
-Really?
+<speak who="BENDER">
+Really?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Yep. My friend's cousin's caseworker 
 saw one once. It's a widely-believed 
-fact.
+fact.</speak>
 
-<character>BENDER</character>
-Hmm, sewers.  Thinking, thinking, thinking.
+<speak who="BENDER">
+Hmm, sewers.  Thinking, thinking, thinking.</speak>
 
-[Planet Express: Bathroom. He stands in the toilet.]
+<info>Planet Express: Bathroom. He stands in the toilet.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hang on, Nibbler. Uncle Bender's coming 
 to save you.  Damn, it's too small. 
 What did those human design this for 
 anyway?  Aha! Bender, one; toilet, zero! 
-See you on the other side!
+See you on the other side!</speak>
 
-[His body waves goodbye. Someone knocks on the door.]
+<info>His body waves goodbye. Someone knocks on the door.</info>
 
-[Cut to: Planet Express: Lounge. Fry pounds on the door.]
+<info>Cut to: Planet Express: Lounge. Fry pounds on the door.</info>
 
-<character>FRY</character>
-Bender? Bender?!
+<speak who="FRY">
+Bender? Bender?!</speak>
 
-[Cut to: Planet Express: Bathroom. He forces the door open.]
+<info>Cut to: Planet Express: Bathroom. He forces the door open.</info>
 
-<character>FRY</character>
-Have you seen my sombrero?
+<speak who="FRY">
+Have you seen my sombrero?</speak>
 
-[He gasps as Bender's right arm flushes itself away.]
+<info>He gasps as Bender's right arm flushes itself away.</info>
 
-[Planet Express: Meeting Room. The crew are sat around the table.]
+<info>Planet Express: Meeting Room. The crew are sat around the table.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Now he's flushed himself down the toilet? 
-Who's he gonna flush next?
+Who's he gonna flush next?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, it's your fault. He only flushed 
 himself because your emotions made him 
-feel bad.
+feel bad.</speak>
 
-<character>LEELA</character>
-You're right. I feel terrible.
+<speak who="LEELA">
+You're right. I feel terrible.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Oh, great, now you're making him feel 
-worse!
+worse!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I guess we'd better go down into the 
-sewers and look for him.
+sewers and look for him.</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Are you crazy? There's mutants down 
-there! They'll eat you alive.
+there! They'll eat you alive.</speak>
 
-<character>ZOIDBERG</character>
-They're hideous!
+<speak who="ZOIDBERG">
+They're hideous!</speak>
 
-[He screams and clacks his claws at her.]
+<info>He screams and clacks his claws at her.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 There's no such thing as mutants. That's 
-a ridiculous urban myth.
+a ridiculous urban myth.</speak>
 
-[Farnsworth spins around in his chair.]
+<info>Farnsworth spins around in his chair.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh, don't be so sure. Many scientists 
 believe humans really could mutate down 
 there. Uh, due to exposure to toxic 
 waste and radioactive runoff and good 
-old American faeces.
+old American faeces.</speak>
 
-[Fry holds his hand to his heart.]
+<info>Fry holds his hand to his heart.</info>
 
-<character>FRY</character>
-God bless America.
+<speak who="FRY">
+God bless America.</speak>
 
-[New New York City Street. In the middle of the road outside 
+<info>New New York City Street. In the middle of the road outside 
 the Planet Express building, Leela lifts a manhole cover with 
 a picture of Thurgood Stubbs from The PJs engraved on it. Fry 
-peers down the hole as she drags it away.]
+peers down the hole as she drags it away.</info>
 
-<character>FRY</character>
-Phew! Uh, ladies first.
+<speak who="FRY">
+Phew! Uh, ladies first.</speak>
 
-[She pushes him down the hole and he screams before splashing 
-into the sewer water below.]
+<info>She pushes him down the hole and he screams before splashing 
+into the sewer water below.</info>
 
-[Cut to: New New York City Sewers. Leela peers down the hole 
-and Fry splutters and spits.]
+<info>Cut to: New New York City Sewers. Leela peers down the hole 
+and Fry splutters and spits.</info>
 
-<character>FRY</character>
-Oh, and the aftertaste!
+<speak who="FRY">
+Oh, and the aftertaste!</speak>
 
-[Time Lapse. Leela and Fry crawl through the pitch black tunnels. 
-Fry lights a match and screams.]
+<info>Time Lapse. Leela and Fry crawl through the pitch black tunnels. 
+Fry lights a match and screams.</info>
 
-<character>LEELA</character>
-What is it?
+<speak who="LEELA">
+What is it?</speak>
 
-<character>FRY</character>
-I burned my finger.
+<speak who="FRY">
+I burned my finger.</speak>
 
-[Time Lapse. They float down the sewer river on an inflatable 
-yellow raft pointing flashlights around.]
+<info>Time Lapse. They float down the sewer river on an inflatable 
+yellow raft pointing flashlights around.</info>
 
-<character>LEELA</character>
-OK, check the guidebook.
+<speak who="LEELA">
+OK, check the guidebook.</speak>
 
-[Fry shines his torch onto a page in Let's Go Sewers.]
+<info>Fry shines his torch onto a page in Let's Go Sewers.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Looks like we're under Park Avenue. 
 Ooh, ritzy! Just think: All this was 
 probably once a charity luncheon for 
-the Met.
+the Met.</speak>
 
-[A noise comes from down the sewers.]
+<info>A noise comes from down the sewers.</info>
 
-<character>LEELA</character>
-Wait, what's that?
+<speak who="LEELA">
+Wait, what's that?</speak>
 
-[They shine their torches down the tunnels and see Bender at 
+<info>They shine their torches down the tunnels and see Bender at 
 the other end trying to reattach his limbs. He has put his right 
 arm in his right leg socket and his right leg to the right arm 
-socket. He groans.]
+socket. He groans.</info>
 
-<character>BENDER</character>
-I never should have thrown out the manual.
+<speak who="BENDER">
+I never should have thrown out the manual.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender, you didn't have to come down 
-here.
+here.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I know. But I just missed Nibbler so 
-much.
+much.</speak>
 
-<character>LEELA</character>
-(crying) He was so cute.
+<speak who="LEELA">
+<info>(crying)</info> He was so cute.</speak>
 
-[The chip beeps.]
+<info>The chip beeps.</info>
 
-<character>BENDER</character>
-(crying) He was so sweet.
+<speak who="BENDER">
+<info>(crying)</info> He was so sweet.</speak>
 
-[They hug.]
+<info>They hug.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Eck! This emotional display is making 
 me nauseous.  Or maybe it's whatever 
-that is.
+that is.</speak>
 
-[Time Lapse. The trio sit in the raft as it carries on through 
-the sewers. Bender's arms and legs are in the right place.]
+<info>Time Lapse. The trio sit in the raft as it carries on through 
+the sewers. Bender's arms and legs are in the right place.</info>
 
-<character>LEELA</character>
-(shouting) Nibbler?
+<speak who="LEELA">
+<info>(shouting)</info> Nibbler?</speak>
 
-<character>BENDER</character>
-(shouting) Nibbler?
+<speak who="BENDER">
+<info>(shouting)</info> Nibbler?</speak>
 
-[Leela sighs.]
+<info>Leela sighs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 It's no use. We'd better turn back. 
-Which way, Fry?
+Which way, Fry?</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hmm. According to this map, the only 
 way out is through ... that pipe.  Don't 
-worry. It gets wider after about a mile.
+worry. It gets wider after about a mile.</speak>
 
-[Leela and Bender look at each other and the chip beeps.]
+<info>Leela and Bender look at each other and the chip beeps.</info>
 
-<character>LEELA</character>
-(simultaneously) Idiot.
+<speak who="LEELA">
+<info>(simultaneously)</info> Idiot.</speak>
 
-<character>BENDER</character>
-(simultaneously) Idiot.
+<speak who="BENDER">
+<info>(simultaneously)</info> Idiot.</speak>
 
-[Fry sighs.]
+<info>Fry sighs.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 OK, OK, nevermind. I'll just ask those 
-people for directions.
+people for directions.</speak>
 
-[He points the torch at some hideous creatures all with extra 
-bodily features such as arms, eyes, noses, hands. They growl.]
+<info>He points the torch at some hideous creatures all with extra 
+bodily features such as arms, eyes, noses, hands. They growl.</info>
 
-<character>LEELA</character>
-(shouting) Mutants!
+<speak who="LEELA">
+<info>(shouting)</info> Mutants!</speak>
 
-[Fry screams, then Leela, then - after his chip has beeped - 
-Bender.]
+<info>Fry screams, then Leela, then - after his chip has beeped - 
+Bender.</info>
 
-[Time Lapse. Leela, Fry and Bender stand in the sewer water staring 
-at the mutants.]
+<info>Time Lapse. Leela, Fry and Bender stand in the sewer water staring 
+at the mutants.</info>
 
-<character>LEELA</character>
-Mutants! They're real!
+<speak who="LEELA">
+Mutants! They're real!</speak>
 
-[She and Bender flinch. Fry pushes them aside.]
+<info>She and Bender flinch. Fry pushes them aside.</info>
 
-<character>FRY</character>
-I'll take care of this!  Back! Back!
+<speak who="FRY">
+I'll take care of this!  Back! Back!</speak>
 
-[One of the mutants, Vyolet, a hideous woman with green scaly 
+<info>One of the mutants, Vyolet, a hideous woman with green scaly 
 skin, a snout and gills, steps forwards and uses the flaming 
 guidebook to light her cigarette. She smokes it and smoke comes 
-out of her gills.]
+out of her gills.</info>
 
-<character>VYOLET</character>
-Thanks, handsome.
+<speak who="VYOLET">
+Thanks, handsome.</speak>
 
-[A mutant, called Dwayne, with a huge forehead and two noses 
-steps forward.]
+<info>A mutant, called Dwayne, with a huge forehead and two noses 
+steps forward.</info>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Please, do not be frightened, we're 
-harmless.
+harmless.</speak>
 
-<character>RAOUL</character>
-I have three arms.
+<speak who="RAOUL">
+I have three arms.</speak>
 
-<character>DWAYNE</character>
-I said "harmless" not "armless".
+<speak who="DWAYNE">
+I said "harmless" not "armless".</speak>
 
-<character>VYOLET</character>
+<speak who="VYOLET">
 Lay off him. You know he's only got 
-one ear.
+one ear.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey, aren't you supposed to be eating 
-our brains? You're mutants.
+our brains? You're mutants.</speak>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Mutants? Perhaps it is you who are the 
-mutants.
+mutants.</speak>
 
-<character>VYOLET</character>
+<speak who="VYOLET">
 Please, Dwayne, have you looked in a 
-mirror lately?
+mirror lately?</speak>
 
-[Mutant Village. The mutants lead Fry, Leela and Bender down 
-the tunnels and into an open space with buildings and other mutants.]
+<info>Mutant Village. The mutants lead Fry, Leela and Bender down 
+the tunnels and into an open space with buildings and other mutants.</info>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 Welcome to our village. It may not be 
 Paris but it has a certain quaint charm 
 that I, for one, wouldn't trade for 
-the world.
+the world.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You guys realise you live in a sewer, 
-right?
+right?</speak>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Perhaps. But perhaps your civilisation 
 is merely the sewer of an even greater 
-society above you.
+society above you.</speak>
 
-<character>LEELA</character>
-No, we're on the top.
+<speak who="LEELA">
+No, we're on the top.</speak>
 
-<character>FRY</character>
-Daylight and everything.
+<speak who="FRY">
+Daylight and everything.</speak>
 
-[Dwayne groans.]
+<info>Dwayne groans.</info>
 
-<character>VYOLET</character>
-It must be wonderful.
+<speak who="VYOLET">
+It must be wonderful.</speak>
 
-<character>BENDER</character>
-Eh.
+<speak who="BENDER">
+Eh.</speak>
 
-[He makes the middle-of-the-road gesture.]
+<info>He makes the middle-of-the-road gesture.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Listen. We actually came down here to 
 find our pet, Nibbler. He got flushed 
-down the toilet.
+down the toilet.</speak>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 Well if he got flushed down the toilet 
 he probably came through here. Everything 
 always does. Follow me.  All that is 
 ours was once flushed down your toilets. 
 Over there is our aquarium.  This is 
-our library.
+our library.</speak>
 
-[The library is just a shelf. Bender looks at what is on offer.]
+<info>The library is just a shelf. Bender looks at what is on offer.</info>
 
-<character>BENDER</character>
-Nothing but crumpled porno and Ayn Rand.
+<speak who="BENDER">
+Nothing but crumpled porno and Ayn Rand.</speak>
 
-[He holds up Atlas Shrugged.]
+<info>He holds up Atlas Shrugged.</info>
 
-<character>RAOUL</character>
-And over here is our church.
+<speak who="RAOUL">
+And over here is our church.</speak>
 
-[Cut to: Mutant Church. Fry opens the door and looks around. 
-In front of the altar is a huge nuclear warhead.]
+<info>Cut to: Mutant Church. Fry opens the door and looks around. 
+In front of the altar is a huge nuclear warhead.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wow. You guys worship an unexploded 
-nuclear bomb?
+nuclear bomb?</speak>
 
-[Cut to: Mutant Village.]
+<info>Cut to: Mutant Village.</info>
 
-<character>VYOLET</character>
+<speak who="VYOLET">
 Yeah, but nobody's that observant. It's 
-mainly a Christmas and Easter thing.
+mainly a Christmas and Easter thing.</speak>
 
-[Time Lapse. The group walk down a street and pass lots and lots 
-of dry cleaners.]
+<info>Time Lapse. The group walk down a street and pass lots and lots 
+of dry cleaners.</info>
 
-<character>LEELA</character>
-(shouting) Nibbler?
+<speak who="LEELA">
+<info>(shouting)</info> Nibbler?</speak>
 
-<character>BENDER</character>
-(shouting) Come to Daddy, sweetie-ookums.
+<speak who="BENDER">
+<info>(shouting)</info> Come to Daddy, sweetie-ookums.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 So, is it true that alligators flushed 
-down the toilet survive down here?
+down the toilet survive down here?</speak>
 
-<character>VYOLET</character>
-No. That's just an urban legend.
+<speak who="VYOLET">
+No. That's just an urban legend.</speak>
 
-<character>BENDER</character>
-Then what are those?
+<speak who="BENDER">
+Then what are those?</speak>
 
-<character>VYOLET</character>
-Crocodiles.
+<speak who="VYOLET">
+Crocodiles.</speak>
 
-[She snorts.]
+<info>She snorts.</info>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 We keep them as pets. Then, when they 
 grow too large, we flush them down into 
-the sub-sewer.
+the sub-sewer.</speak>
 
-[He points to a huge toilet in the middle of the mutant town.]
+<info>He points to a huge toilet in the middle of the mutant town.</info>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Some say there's a freakish race of 
-sub-mutants down there.
+sub-mutants down there.</speak>
 
-<character>VYOLET</character>
-Please, that's just a sub-urban legend.
+<speak who="VYOLET">
+Please, that's just a sub-urban legend.</speak>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Oh? Then I suppose you also don't believe 
-in ...  ... El Chupanibre.
+in ...  ... El Chupanibre.</speak>
 
-[The other mutants gasp.]
+<info>The other mutants gasp.</info>
 
-<character>LEELA</character>
-El Chupanibre? What's that?
+<speak who="LEELA">
+El Chupanibre? What's that?</speak>
 
-[Dwayne strums a guitar.]
+<info>Dwayne strums a guitar.</info>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Gather round, children, for the legend 
 of El Chupanibre.
 
-(singing) He creeps and crawls in the midnight hush,
+<info>(singing)</info> He creeps and crawls in the midnight hush,
 
 Silent as a low-flow toilet flush,
 
@@ -1025,260 +1025,260 @@ He'll eat you whole,
 
 And half your alligator.
 
-<character>VYOLET</character>
-Crocodile.
+</speak><speak who="VYOLET">
+Crocodile.</speak>
 
-<character>DWAYNE</character>
-Whatever.
+<speak who="DWAYNE">
+Whatever.</speak>
 
-[Vyolet snorts.]
+<info>Vyolet snorts.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Wait. Our pet Nibbler loves fresh crocodile. 
 It's his favourite treat. He must be 
-El Chupanibre.
+El Chupanibre.</speak>
 
-<character>BENDER</character>
-Hey, yeah!
+<speak who="BENDER">
+Hey, yeah!</speak>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 You unleashed the dreaded El Chupanibre 
-upon us? Then you are our sworn enemies.
+upon us? Then you are our sworn enemies.</speak>
 
-[The growling mutants surround them.]
+<info>The growling mutants surround them.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You don't understand. He would never 
 hurt people. Let us help you capture 
-him.
+him.</speak>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Impossible. If the legend is true, our 
-only hope is to offer him a snack-rifice.
+only hope is to offer him a snack-rifice.</speak>
 
-<character>RAOUL</character>
-Yes. An unspoiled virgin.
+<speak who="RAOUL">
+Yes. An unspoiled virgin.</speak>
 
-<character>LEELA</character>
-I volunteer.
+<speak who="LEELA">
+I volunteer.</speak>
 
-<character>VYOLET</character>
+<speak who="VYOLET">
 Nice try, Leela, but we've all seen 
-Zapp Brannigan's webpage.
+Zapp Brannigan's webpage.</speak>
 
-[Bender laughs and Leela looks sad. Bender's chip beeps and he 
-groans.]
+<info>Bender laughs and Leela looks sad. Bender's chip beeps and he 
+groans.</info>
 
-<character>BENDER</character>
-Oh, I made myself feel bad.
+<speak who="BENDER">
+Oh, I made myself feel bad.</speak>
 
-<character>RAOUL</character>
+<speak who="RAOUL">
 She'll have to do. Chain her to the 
 post!  And rip her shirt a little.  
 Behold. When El Chupanibre comes for 
 the, uh, "virgin", he will be snared 
-by this rope trap.
+by this rope trap.</speak>
 
-<character>DWAYNE</character>
-(quietly) Shh. El Chupanibre comes soon. 
-It is nightfall.
+<speak who="DWAYNE">
+<info>(quietly)</info> Shh. El Chupanibre comes soon. 
+It is nightfall.</speak>
 
-<character>LEELA</character>
-Nightfall? How can you tell down here?
+<speak who="LEELA">
+Nightfall? How can you tell down here?</speak>
 
-[Splashing noises echo around the village.]
+<info>Splashing noises echo around the village.</info>
 
-<character>DWAYNE</character>
-The tide is coming in.
+<speak who="DWAYNE">
+The tide is coming in.</speak>
 
-[Vyolet lies with her ear to the water.]
+<info>Vyolet lies with her ear to the water.</info>
 
-<character>VYLOET</character>
-Quiet, the beast approaches.
+<speak who="VYLOET">
+Quiet, the beast approaches.</speak>
 
-[Loud bangs come from the pipe as El Chupanibre gets closer. 
+<info>Loud bangs come from the pipe as El Chupanibre gets closer. 
 The mutants, Fry and Bender scarper. Fry dives behind some boxes 
 and Bender and Dwayne join him. Raoul runs into a building and 
 draws the curtains across him. El Chupanibre's shadow appears 
 and Leela gasps. The huge shadow gets smaller and it turns out 
-to be Nibbler.]
+to be Nibbler.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Nibbler! Aw, come here precious!  Look 
-everyone, it's El Chupanibre.
+everyone, it's El Chupanibre.</speak>
 
-<character>DWAYNE</character>
-That's not El Chupanibre.
+<speak who="DWAYNE">
+That's not El Chupanibre.</speak>
 
-<character>BENDER</character>
-Say what?
+<speak who="BENDER">
+Say what?</speak>
 
-<character>DWAYNE</character>
-That's El Chupanibre.
+<speak who="DWAYNE">
+That's El Chupanibre.</speak>
 
-[He points to a huge green monster standing in the pipe looking 
+<info>He points to a huge green monster standing in the pipe looking 
 down on Bender. It has fangs and yellow bloodshot eyes. Bender 
-looks round, screams, drops Nibbler and runs away.]
+looks round, screams, drops Nibbler and runs away.</info>
 
-<character>FRY</character>
-I'll take care of this.
+<speak who="FRY">
+I'll take care of this.</speak>
 
-[He steps into the rope trap and screams as it lifts him off 
+<info>He steps into the rope trap and screams as it lifts him off 
 the ground and leaves him dangling overhead. El Chupanibre gets 
-closer to Nibbler. Leela screams, making Bender scream.]
+closer to Nibbler. Leela screams, making Bender scream.</info>
 
-<character>LEELA</character>
-Bender, do something.
+<speak who="LEELA">
+Bender, do something.</speak>
 
-<character>BENDER</character>
-I'm too scared.
+<speak who="BENDER">
+I'm too scared.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Leela, your scaredness is being transmitted 
 straight to Bender. If you care about 
-Nibbler, stop caring about him!
+Nibbler, stop caring about him!</speak>
 
-<character>LEELA</character>
-I can't. I love every living creature.
+<speak who="LEELA">
+I can't. I love every living creature.</speak>
 
-<character>FRY</character>
-Even me?
+<speak who="FRY">
+Even me?</speak>
 
-<character>LEELA</character>
-As a friend.
+<speak who="LEELA">
+As a friend.</speak>
 
-<character>FRY</character>
-Damn.
+<speak who="FRY">
+Damn.</speak>
 
-[Leela starts to cry.]
+<info>Leela starts to cry.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Listen to me, Leela: I'm an expert at 
 not caring. The secret is to stop giving 
 a rat's ass about anyone else and start 
 thinking of the things that you want, 
 that you deserve, that the world owes 
-you.
+you.</speak>
 
-[El Chupanibre edges closer to Nibbler.]
+<info>El Chupanibre edges closer to Nibbler.</info>
 
-<character>LEELA</character>
-Well, I could use a new tank top.
+<speak who="LEELA">
+Well, I could use a new tank top.</speak>
 
-<character>BENDER</character>
-Bigger! Bigger!
+<speak who="BENDER">
+Bigger! Bigger!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 A fashionable tank top. And designer 
-boots ... encrusted with jewels.
+boots ... encrusted with jewels.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Don't stop now, you'll need some pants 
-to go with that outfit.
+to go with that outfit.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Yeah. And I could afford it all if I 
-didn't have to feed that stupid Nibbler.
+didn't have to feed that stupid Nibbler.</speak>
 
-[Bender's chip beeps.]
+<info>Bender's chip beeps.</info>
 
-<character>BENDER</character>
-Bender is back. I'll save you, Nibbler.
+<speak who="BENDER">
+Bender is back. I'll save you, Nibbler.</speak>
 
-[He kicks Nibbler out the way and starts rotating his arms. El 
+<info>He kicks Nibbler out the way and starts rotating his arms. El 
 Chupanibre grabs them and pulls them off. Bender groans. El Chupanibre 
-grabs him and lifts him towards his mouth.]
+grabs him and lifts him towards his mouth.</info>
 
-<character>FRY</character>
-Bender's gonna be killed!
+<speak who="FRY">
+Bender's gonna be killed!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You know what else I could use? A weekend 
-at one of those fancy spas. And a Toblerone.
+at one of those fancy spas. And a Toblerone.</speak>
 
-[El Chupanibre prepares to eat Bender. Bender's detached arms 
+<info>El Chupanibre prepares to eat Bender. Bender's detached arms 
 tap him on the shoulder and he looks around. They punch him and 
 he drops Bender. Bender charges at him and knocks him flying 
 into the huge toilet. His arms flush the monster away and everyone 
-cheers.]
+cheers.</info>
 
-<character>FRY</character>
-(cheering) Yeah!
+<speak who="FRY">
+<info>(cheering)</info> Yeah!</speak>
 
-<character>LEELA</character>
-You did it!
+<speak who="LEELA">
+You did it!</speak>
 
-<character>RAOUL</character>
-Let's have a tissue-tape parade!
+<speak who="RAOUL">
+Let's have a tissue-tape parade!</speak>
 
-<character>BENDER</character>
-No thanks.
+<speak who="BENDER">
+No thanks.</speak>
 
-[Dwayne unties Leela and another mutant cuts Fry down. He falls 
+<info>Dwayne unties Leela and another mutant cuts Fry down. He falls 
 into the water and splutters. Nibbler runs towards Leela and 
 jumps into her arms and licks her. Dwayne sits on the toilet 
-with his guitar.]
+with his guitar.</info>
 
-<character>DWAYNE</character>
+<speak who="DWAYNE">
 Gather round, children, to hear the 
-legend of Bender.
+legend of Bender.</speak>
 
-[He strums the guitar.]
+<info>He strums the guitar.</info>
 
-(singing) He came from above with a--
+<info>(singing)</info> He came from above with a--
 
-[A string snaps and he sighs.]
+<info>A string snaps and he sighs.</info>
 
-(talking) It's gonna be many a year before someone flushes another 
+<info>(talking)</info> It's gonna be many a year before someone flushes another 
 guitar string.
 
-[Planet Express: Meeting Room. Fry, Leela and Bender are back 
-and everyone is with them. Bender holds a cigar.]
+<info>Planet Express: Meeting Room. Fry, Leela and Bender are back 
+and everyone is with them. Bender holds a cigar.</info>
 
-<character>FARNSWORTH</character>
-That was a disgusting story.
+<speak who="FARNSWORTH">
+That was a disgusting story.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 And it's all thanks to Bender. I love 
-you, Bender.
+you, Bender.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I love you too.  Get that stupid chip 
-out of me before I kill myself!
+out of me before I kill myself!</speak>
 
-[Farnsworth prises the chip off with a screwdriver and looks 
-at it.]
+<info>Farnsworth prises the chip off with a screwdriver and looks 
+at it.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Bender, you won't believe this, but 
 the empathy chip burned out. The emotion 
 you felt for Nibbler was actually your 
-own.
+own.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Looks like Bender learned an important 
 lesson about respecting other people's 
-feelings afterall.
+feelings afterall.</speak>
 
-[Everyone else nods and murmurs in agreement.]
+<info>Everyone else nods and murmurs in agreement.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 No, I'm wrong. The empathy chip was 
-running at triple capacity.
+running at triple capacity.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 And I still barely felt anything. Goodnight, 
-losers!
+losers!</speak>
 
-[He walks out.]
+<info>He walks out.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You know, Bender may not have learned 
 anything from me, but I think I actually 
-learned something from him.  (shouting) 
-So long, jerkwads!
+learned something from him.  <info>(shouting)</info> 
+So long, jerkwads!</speak>
 
-<character>FARNSWORTH</character>
-So long!
+<speak who="FARNSWORTH">
+So long!</speak>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>

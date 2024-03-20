@@ -1,176 +1,176 @@
-<xml><episodeInfo><character>FUTURAMA</character>
+<xml><episodeInfo>FUTURAMA
 
 Episode 212 
 
-<title><character>RAGING BENDER</character></title>
+<title>RAGING BENDER</title>
 
 <author>Lewis Morton</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Nominated For Three Glemmys.]
+<info>Opening Credits. Caption: Nominated For Three Glemmys.</info>
 
-[Planet Express: Meeting Room. Most of the staff are sat around 
-the table.]
+<info>Planet Express: Meeting Room. Most of the staff are sat around 
+the table.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Good news, everyone. I've taught the 
 toaster to feel love.  And Hermes returns 
-from his vacation today.
+from his vacation today.</speak>
 
-[Enter Hermes. There is a Brain Slug attached to his head. It 
+<info>Enter Hermes. There is a Brain Slug attached to his head. It 
 is a small green blob with one eye and two antennae. Hermes has 
-a glazed expression. The others seem oblivious.]
+a glazed expression. The others seem oblivious.</info>
 
-<character>HERMES</character>
-(monotonous) Good morning, people.
+<speak who="HERMES">
+<info>(monotonous)</info> Good morning, people.</speak>
 
-<character>FRY</character>
-Hey, Hermes!
+<speak who="FRY">
+Hey, Hermes!</speak>
 
-<character>ZOIDBERG</character>
-Hello!
+<speak who="ZOIDBERG">
+Hello!</speak>
 
-<character>LEELA</character>
-Good to see you.
+<speak who="LEELA">
+Good to see you.</speak>
 
-<character>FARNSWORTH</character>
-Yo!
+<speak who="FARNSWORTH">
+Yo!</speak>
 
-<character>BENDER</character>
-My man!
+<speak who="BENDER">
+My man!</speak>
 
-[Hermes sits down.]
+<info>Hermes sits down.</info>
 
-<character>AMY</character>
-So how was the Spleef Nebula?
+<speak who="AMY">
+So how was the Spleef Nebula?</speak>
 
-<character>HERMES</character>
-(monotonous) The flight had a stopover 
+<speak who="HERMES">
+<info>(monotonous)</info> The flight had a stopover 
 on the Brain Slug planet. Hermes liked 
 it so much he decided to stay of his 
-own free will.
+own free will.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hermes has all the fun. Wait a second! 
-He's got a Brain Slug on his head!
+He's got a Brain Slug on his head!</speak>
 
-<character>LEELA</character>
-(whispering) Shh! You're gonna get us 
-all assimilated!
+<speak who="LEELA">
+<info>(whispering)</info> Shh! You're gonna get us 
+all assimilated!</speak>
 
-<character>AMY</character>
-(whispering) Just act normal and switch 
-to a garlic shampoo.
+<speak who="AMY">
+<info>(whispering)</info> Just act normal and switch 
+to a garlic shampoo.</speak>
 
-<character>HERMES</character>
-(monotonous) On to new business. Today's 
+<speak who="HERMES">
+<info>(monotonous)</info> On to new business. Today's 
 mission is for all of you to go to the 
-Brain Slug planet.
+Brain Slug planet.</speak>
 
-<character>ZOIDBERG</character>
-What are we going to do there?
+<speak who="ZOIDBERG">
+What are we going to do there?</speak>
 
-<character>HERMES</character>
-(monotonous) Just walk around not wearing 
-a helmet.
+<speak who="HERMES">
+<info>(monotonous)</info> Just walk around not wearing 
+a helmet.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Sounds great, Hermes! Whatever you say. 
-(whispering) Let's ditch him and go 
-to the movies!
+<info>(whispering)</info> Let's ditch him and go 
+to the movies!</speak>
 
-<character>FRY</character>
-Hey, yeah!
+<speak who="FRY">
+Hey, yeah!</speak>
 
-[The others agree.]
+<info>The others agree.</info>
 
-<character>ZOIDBERG</character>
-I'm seeing a movie with friends!
+<speak who="ZOIDBERG">
+I'm seeing a movie with friends!</speak>
 
-[They get up and leave. Hermes starts droning.]
+<info>They get up and leave. Hermes starts droning.</info>
 
-[Outside Loew's Aleph-0 Plex. Some of the movies showing are 
+<info>Outside Loew's Aleph-0 Plex. Some of the movies showing are 
 It Came From Planet Earth, Shaft On Africon-9 and When A Man 
 Loves A Smizmar. The gang look at some others that are advertised 
-outside. Fry points at a Galaxy Wars poster.]
+outside. Fry points at a Galaxy Wars poster.</info>
 
-<character>FRY</character>
-Cool, let's see this one!
+<speak who="FRY">
+Cool, let's see this one!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Nah. I'm not in the mood for a historical 
 documentary. I've heard good things 
-about Quizblorg, Quizblorg.
+about Quizblorg, Quizblorg.</speak>
 
-[She points to a poster which features two smartly-dressed green 
-blobs picnicking on green grass.]
+<info>She points to a poster which features two smartly-dressed green 
+blobs picnicking on green grass.</info>
 
-<character>AMY</character>
+<speak who="AMY">
 Guk! I hate subtitles. Alien films are 
-so pretentious.
+so pretentious.</speak>
 
-<character>ZOIDBERG</character>
+<speak who="ZOIDBERG">
 Fellows! Fellows! How about a film we 
 can all enjoy? Planet Of The Clams. 
 It's about an upside-down world where 
-lobster is slave to clam.
+lobster is slave to clam.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Who invited you? Let's just see All 
-My Circuits: The Movie.
+My Circuits: The Movie.</speak>
 
-<character>FRY</character>
-Yeah, I wanna see that.
+<speak who="FRY">
+Yeah, I wanna see that.</speak>
 
-[The others agree.]
+<info>The others agree.</info>
 
-<character>BENDER</character>
-Good point, Bender.
+<speak who="BENDER">
+Good point, Bender.</speak>
 
-[Loew's Aleph-0 Plex Refreshments. A robot with flashing zits 
-stands behind the counter.]
+<info>Loew's Aleph-0 Plex Refreshments. A robot with flashing zits 
+stands behind the counter.</info>
 
-<character>FRY</character>
-I'll take a small Slurm.
+<speak who="FRY">
+I'll take a small Slurm.</speak>
 
-<character>REFRESHMENT</character>-<character>BOT</character>
+<speak who="REFRESHMENT">-<character>BOT</character>
 For only 25 cents less, you can get 
-a super-small.
+a super-small.</speak>
 
-<character>FRY</character>
-Uh, <character>OK</character>.  Oh, man!
+<speak who="FRY">
+Uh, <character>OK</character>.  Oh, man!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, gimmie a large diet malt liquor 
-and a popcorn with extra motor oil.
+and a popcorn with extra motor oil.</speak>
 
-[The robot pumps oil onto the tub of popcorn.]
+<info>The robot pumps oil onto the tub of popcorn.</info>
 
-[Loew's Aleph-0 Plex Auditorium. Farnsworth is sat in the front 
-row.]
+<info>Loew's Aleph-0 Plex Auditorium. Farnsworth is sat in the front 
+row.</info>
 
-<character>FARNSWORTH</character>
-Down in front!
+<speak who="FARNSWORTH">
+Down in front!</speak>
 
-[The others are sat a few rows back. An old-fashioned black and 
-white newsreel starts.]
+<info>The others are sat a few rows back. An old-fashioned black and 
+white newsreel starts.</info>
 
-<character>ANNOUNCER</character>
+<speak who="ANNOUNCER">
 Glagnar's Human Rinds presents: This 
-Week In The Universe.
+Week In The Universe.</speak>
 
-[The titles come on and show a biplane flying around a galaxy.]
+<info>The titles come on and show a biplane flying around a galaxy.</info>
 
-<character>FRY</character>
-(sarcastic) Ooh, this is real futuristic!
+<speak who="FRY">
+<info>(sarcastic)</info> Ooh, this is real futuristic!</speak>
 
-[The guys from Mystery Science Theater 3000 are sat at the other 
-end of the row.]
+<info>The guys from Mystery Science Theater 3000 are sat at the other 
+end of the row.</info>
 
-<character>CROW T</character>. <character>ROBOT</character>
-Shh! Don't talk during the movie.
+<speak who="CROW T">. <character>ROBOT</character>
+Shh! Don't talk during the movie.</speak>
 
-<character>ANNOUNCER</character>
+<speak who="ANNOUNCER">
 This week in the universe: New New 
 York mayor C. Randall Poopenmeyer opens 
 a new tube line to alleviate rush hour 
@@ -181,670 +181,670 @@ wipe out the human race.  Go get 'em,
 boys!  And in the world of Ultimate 
 Robot Fighting, the Masked Unit wins 
 his championship bout against Gorgeous 
-Gonks by technical melting.
+Gonks by technical melting.</speak>
 
-[The Masked Unit throws the other robot to the canvas and melts 
-him using eye lasers. Bender waves his arm in the air.]
+<info>The Masked Unit throws the other robot to the canvas and melts 
+him using eye lasers. Bender waves his arm in the air.</info>
 
-<character>BENDER</character>
-(shouting) Go Masked Unit!  Uh, hey, 
+<speak who="BENDER">
+<info>(shouting)</info> Go Masked Unit!  Uh, hey, 
 buddy! Yo!  You mind taking your head 
-off?
+off?</speak>
 
-<character>ROBOT</character>
+<speak who="ROBOT">
 I'm sorry, sir, but I need it to watch 
-the movie.
+the movie.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Just ask Flabby over here to describe 
-it to you later.
+it to you later.</speak>
 
-<character>ROBOT</character>
-Sir, she is as the factory made her.
+<speak who="ROBOT">
+Sir, she is as the factory made her.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well they should have stopped making 
-her about halfway through.
+her about halfway through.</speak>
 
-[A "Not Suitable For Aliens From Planet M-14" restriction comes 
+<info>A "Not Suitable For Aliens From Planet M-14" restriction comes 
 up on the screen. Two three-eyed, three-legged aliens grumble 
 and leave. The opening credits roll with a Bond-esque theme and 
 titles complete with naked Fembot silhouettes and guns. Credits 
 like "Directed by Directing Unit 4", "Written by Writing Unit 
-5 and Writing Unit 12 & Joe Eszterhas" come up. A Fembot dives 
-off the end of a laser barrel.]
+5 and Writing Unit 12 &amp; Joe Eszterhas" come up. A Fembot dives 
+off the end of a laser barrel.</info>
 
-<character>FEMBOT</character>
-Whee!
+<speak who="FEMBOT">
+Whee!</speak>
 
-[A wipe opens on Calculon sitting in an office.]
+<info>A wipe opens on Calculon sitting in an office.</info>
 
-<character>CALCULON</character>
+<speak who="CALCULON">
 Well, that finishes this paperwork. 
-Calculon Enterprises.
+Calculon Enterprises.</speak>
 
-<character>MONIQUE</character>
+<speak who="MONIQUE">
 Calculon, a fight scene has broken 
 out at the special effects warehouse. 
 Come quickly before a fiery explosion 
-chases someone down a hallway.
+chases someone down a hallway.</speak>
 
-[Two laser blasts hit a building behind her. Calculon hangs up.]
+<info>Two laser blasts hit a building behind her. Calculon hangs up.</info>
 
-<character>CALCULON</character>
-I have no choice but to--
+<speak who="CALCULON">
+I have no choice but to--</speak>
 
-[The scene freezes.]
+<info>The scene freezes.</info>
 
-<character>ANNOUNCER</character>
+<speak who="ANNOUNCER">
 If you want Calculon to race to the 
 laser gun battle in his hover-Ferarri, 
 press 1. If you want Calculon to double-check 
-his paperwork, press 2. Enter now.
+his paperwork, press 2. Enter now.</speak>
 
-["1. Violent Lasergun Battle" and "2. Tedious Paperwork" appear 
-on screen. Confused, Fry presses "1" on his chair.]
+<info>"1. Violent Lasergun Battle" and "2. Tedious Paperwork" appear 
+on screen. Confused, Fry presses "1" on his chair.</info>
 
-<character>CHAIR</character>
-You have pressed 2.
+<speak who="CHAIR">
+You have pressed 2.</speak>
 
-<character>FRY</character>
-No I didn't!
+<speak who="FRY">
+No I didn't!</speak>
 
-<character>CHAIR</character>
-I'm almost positive you did.
+<speak who="CHAIR">
+I'm almost positive you did.</speak>
 
-[Time Lapse. Night has fallen outside. Calculon is checking his 
-paperwork.]
+<info>Time Lapse. Night has fallen outside. Calculon is checking his 
+paperwork.</info>
 
-<character>CALCULON</character>
+<speak who="CALCULON">
 Add in the carryover from form 16A, 
-then deduct line 2B...
+then deduct line 2B...</speak>
 
-[Bender kicks the back of the robot's chair.]
+<info>Bender kicks the back of the robot's chair.</info>
 
-<character>ROBOT</character>
+<speak who="ROBOT">
 Pardon me, sir. But you seem to be inadvertently 
-kicking my seat.
+kicking my seat.</speak>
 
-<character>BENDER</character>
-(mocking) "Pardon me, sir. But you seem 
-to be bleh bleh..."
+<speak who="BENDER">
+<info>(mocking)</info> "Pardon me, sir. But you seem 
+to be bleh bleh..."</speak>
 
-<character>ROBOT</character>
+<speak who="ROBOT">
 Yes, that's the gist of what I said. 
-Would you mind?
+Would you mind?</speak>
 
-<character>BENDER</character>
-Sure thing, pal.
+<speak who="BENDER">
+Sure thing, pal.</speak>
 
-[He carries on kicking the chair.]
+<info>He carries on kicking the chair.</info>
 
-<character>ROBOT</character>
-Uh, sir?
+<speak who="ROBOT">
+Uh, sir?</speak>
 
-[Bender flicks a kernel at the robot's head then turns around.]
+<info>Bender flicks a kernel at the robot's head then turns around.</info>
 
-<character>BENDER</character>
-(fake shocked) Who threw that?!
+<speak who="BENDER">
+<info>(fake shocked)</info> Who threw that?!</speak>
 
-<character>ROBOT</character>
-That's it! Sir, I challenge you to fisticuffs!
+<speak who="ROBOT">
+That's it! Sir, I challenge you to fisticuffs!</speak>
 
-[Bender laughs as the robot transforms into what a muscular robot 
-would look like if they had muscles.]
+<info>Bender laughs as the robot transforms into what a muscular robot 
+would look like if they had muscles.</info>
 
-<character>BENDER</character>
-Oh, I'm boned.
+<speak who="BENDER">
+Oh, I'm boned.</speak>
 
-[The robot shoots laser beams from his eyes at Bender. Bender 
+<info>The robot shoots laser beams from his eyes at Bender. Bender 
 ducks out of the way and the laser beams hit his seat. Other 
 people run, screaming as the movie jams and the lights come back 
-on.]
+on.</info>
 
-<character>HATTIE</character>
-Let's all go to the lobby!
+<speak who="HATTIE">
+Let's all go to the lobby!</speak>
 
-[Bender, still clutching his popcorn, runs from the robot as 
+<info>Bender, still clutching his popcorn, runs from the robot as 
 it tramples down seats. Bender runs across the front row of seats, 
 past Farnsworth who hasn't moved, and stops when he reaches a 
-wall. He drops his popcorn. The robot's voice is much deeper.]
+wall. He drops his popcorn. The robot's voice is much deeper.</info>
 
-<character>ROBOT</character>
-I'm gonna open a pile whup-ass on you!
+<speak who="ROBOT">
+I'm gonna open a pile whup-ass on you!</speak>
 
-[He steps forward and slips on the motor oil and falls to the 
+<info>He steps forward and slips on the motor oil and falls to the 
 ground. He groans and shuts down. The others gather around. Leela 
-gasps.]
+gasps.</info>
 
-<character>LEELA</character>
-Bender, do you know who that was?
+<speak who="LEELA">
+Bender, do you know who that was?</speak>
 
-[She opens a panel in the front of the robot. It is the Masked 
-Unit.]
+<info>She opens a panel in the front of the robot. It is the Masked 
+Unit.</info>
 
-<character>MAN #1</character>
+<speak who="MAN #1">
 Cripes! The Masked Unit! You knocked 
-him out cold.
+him out cold.</speak>
 
-[The others gasp and murmur.]
+<info>The others gasp and murmur.</info>
 
-<character>MAN #2</character>
-I'm impressed.
+<speak who="MAN #2">
+I'm impressed.</speak>
 
-[Flabby puts her arms around Bender. A man wearing a brown suit 
+<info>Flabby puts her arms around Bender. A man wearing a brown suit 
 and a red tie with extremely bushy eyebrows pushes through the 
-crowd. His name is Abner Doubledeal.]
+crowd. His name is Abner Doubledeal.</info>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 Son, I'm the commissioner of Ultimate 
 Robot Fighting. I'm a connoisseur of 
 jerks like you who pick fights in movie 
 theatres and you're the biggest I've 
-ever seen.
+ever seen.</speak>
 
-<character>BENDER</character>
-You should see me at funerals.
+<speak who="BENDER">
+You should see me at funerals.</speak>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 Kid, I want you in the Ultimate Robot 
-Fighting League.
+Fighting League.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Ultimate Robot Fighting? Sounds pleasant! 
-I'll do it.
+I'll do it.</speak>
 
-[The crowd cheers and waves.]
+<info>The crowd cheers and waves.</info>
 
-<character>FLABBY</character>
-My hero!
+<speak who="FLABBY">
+My hero!</speak>
 
-[She kisses him. Farnsworth still hasn't moved and wipes his 
-eyes.]
+<info>She kisses him. Farnsworth still hasn't moved and wipes his 
+eyes.</info>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Aw. They don't make movies like this 
-anymore.
+anymore.</speak>
 
-[He blows his nose.]
+<info>He blows his nose.</info>
 
-[Planet Express: Meeting Room. The staff are gathered around 
-Bender.]
+<info>Planet Express: Meeting Room. The staff are gathered around 
+Bender.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm gonna be the greatest Ultimate Robot 
 Fighter ever. Float like a floatbot, 
-sting like an automatic stinging machine!
+sting like an automatic stinging machine!</speak>
 
-<character>AMY</character>
+<speak who="AMY">
 Bender, you can't be an Ultimate Robot 
 Fighter. It's the most brutal form of 
-competition in the galaxy!
+competition in the galaxy!</speak>
 
-<character>BENDER</character>
-It is?
+<speak who="BENDER">
+It is?</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 There are no rules. Two robots enter, 
 one robot leaves. Then later the other 
 robot leaves after being declared the 
-winner.
+winner.</speak>
 
-<character>BENDER</character>
-Well, that doesn't sound so bad.
+<speak who="BENDER">
+Well, that doesn't sound so bad.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh, did I mention the crippling, agonising 
 pain? I'm pretty sure I did. Oh, yes, 
-definitely.
+definitely.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Crippling pain? That's not covered by 
-my insurance fraud! Count me out.
+my insurance fraud! Count me out.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No! You've got to do it. I don't care 
-how suicidal it is.
+how suicidal it is.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Hey! How come when I wanna do fun stuff 
-that'll kill me you're against it?
+that'll kill me you're against it?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 This is more important than that marble-eating 
 contest, Fry! It's about pride. Let 
-me tell you a story from my childhood.
+me tell you a story from my childhood.</speak>
 
-<character>ZOIDBERG</character>
-Oh, again with the orphanarium!
+<speak who="ZOIDBERG">
+Oh, again with the orphanarium!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 When I was growing up at the orphanarium, 
-I got picked on a lot...
+I got picked on a lot...</speak>
 
-[Flashback: A teenage Leela and some teenage boys are dressed 
-in martial arts uniforms.]
+<info>Flashback: A teenage Leela and some teenage boys are dressed 
+in martial arts uniforms.</info>
 
-<character>LEELA</character>
-(voice-over) ...My only outlet was Arcturan 
-Kung Fu.
+<speak who="LEELA">
+<info>(voice-over)</info> ...My only outlet was Arcturan 
+Kung Fu.</speak>
 
-[Teenage Leela takes on two guys and floors them. Her teacher, 
-a green alien called Fnog watches.]
+<info>Teenage Leela takes on two guys and floors them. Her teacher, 
+a green alien called Fnog watches.</info>
 
-<character>FNOG</character>
+<speak who="FNOG">
 Excellent. Bill, Keith, you will go 
 to Junior Championships. Bill, congratulate 
-Keith when he regains consciousness.
+Keith when he regains consciousness.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 But, Master Fnog, I can beat these dorks 
-with one eye closed.
+with one eye closed.</speak>
 
-<character>FNOG</character>
+<speak who="FNOG">
 Perhaps. But there is more to winning 
 than beating your opponent. You lack 
-the will of the warrior.
+the will of the warrior.</speak>
 
-<character>LEELA</character>
-What do you mean? Watch this!
+<speak who="LEELA">
+What do you mean? Watch this!</speak>
 
-[She kicks Bill in the stomach.]
+<info>She kicks Bill in the stomach.</info>
 
-<character>BILL</character>
-(crying) Ow!
+<speak who="BILL">
+<info>(crying)</info> Ow!</speak>
 
-<character>FNOG</character>
+<speak who="FNOG">
 No girl has the will of a warrior. You 
 have the will of a housewife or, at 
-best, the schoolmarm.
+best, the schoolmarm.</speak>
 
-<character>LEELA</character>
-That's it. I'll take you on right now.
+<speak who="LEELA">
+That's it. I'll take you on right now.</speak>
 
-<character>FNOG</character>
+<speak who="FNOG">
 Very well. But, you see, I have the 
 will of the warrior. Therefore, the 
 battle is already over. The winner? 
 Me!  Rematch? You lose again! Had enough? 
-I thought so!
+I thought so!</speak>
 
-[He and the other guys laugh.]
+<info>He and the other guys laugh.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I lost my chance to be a champion. I 
-won't let you throw away yours.
+won't let you throw away yours.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Leela's right! I don't wanna end up 
-a loser like her. Count me back in!
+a loser like her. Count me back in!</speak>
 
-[Planet Express: Lounge. The table, chairs and water cooler have 
+<info>Planet Express: Lounge. The table, chairs and water cooler have 
 been pushed to the window side of the room so there is an open 
-training area for Bender.]
+training area for Bender.</info>
 
-<character>LEELA</character>
-Let's see what you got. Touch your toes.
+<speak who="LEELA">
+Let's see what you got. Touch your toes.</speak>
 
-[Bender reaches down but struggles. His torso snaps off at his 
+<info>Bender reaches down but struggles. His torso snaps off at his 
 waist and the top half of his body falls to the floor. He tries 
-to reach his toes but is too far away.]
+to reach his toes but is too far away.</info>
 
-<character>BENDER</character>
-Still ... can't ... reach!
+<speak who="BENDER">
+Still ... can't ... reach!</speak>
 
-[Montage: Leela does a flying kick and indicates for Bender to 
+<info>Montage: Leela does a flying kick and indicates for Bender to 
 try. He kicks his leg and it extends and wraps itself around 
 his neck, choking him. Next, Bender does one-armed press ups, 
 first with his left arm, then his right, and then with neither. 
 A car jack comes out of his chest and pushes him up and down. 
-He stands up.]
+He stands up.</info>
 
-<character>BENDER</character>
-Let's commence preparations for rumbling!
+<speak who="BENDER">
+Let's commence preparations for rumbling!</speak>
 
-[Madison Cube Garden. The bleachers are packed for RobotMania 
-<character>XXVII</character>. Leela rubs Rust-Oleum onto Bender's shoulders. The referee 
+<info>Madison Cube Garden. The bleachers are packed for RobotMania 
+XXVII. Leela rubs Rust-Oleum onto Bender's shoulders. The referee 
 is an alien shaped like one of Kif's species but has black and 
-white stripes running down his body.]
+white stripes running down his body.</info>
 
-<character>REFEREE</character>
+<speak who="REFEREE">
 Ladies and gentlemen and smizmars, welcome 
 to tonight's main event. In this corner, 
 from Mom's Friendly Robot Factory in 
 America's heartland, Mexico: Bender! 
 And in this corner, from and made of 
-Parts Unknown: The Clearcutter!
+Parts Unknown: The Clearcutter!</speak>
 
-[The Clearcutter is a lumberjack robot with an axe on the end 
+<info>The Clearcutter is a lumberjack robot with an axe on the end 
 of one arm and a chainsaw on another. The other Planet Express 
-staff are sat with Bender's fans.]
+staff are sat with Bender's fans.</info>
 
-<character>FRY</character>
-(shouting) Bender rules!
+<speak who="FRY">
+<info>(shouting)</info> Bender rules!</speak>
 
-<character>HERMES</character>
-(monotonous) I got you an official Bender 
-hat.
+<speak who="HERMES">
+<info>(monotonous)</info> I got you an official Bender 
+hat.</speak>
 
-[He takes a Brain Slug out of his jacket and hands it to Fry.]
+<info>He takes a Brain Slug out of his jacket and hands it to Fry.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Wow! Thanks, Hermes!  I-- Hey! Cut that 
-out!
+out!</speak>
 
-[He hands it back. The fight bell rings.]
+<info>He hands it back. The fight bell rings.</info>
 
-<character>BENDER</character>
-You can't hit what you can't see!
+<speak who="BENDER">
+You can't hit what you can't see!</speak>
 
-[The Clearcutter kicks Bender against the ropes. He bounces back 
+<info>The Clearcutter kicks Bender against the ropes. He bounces back 
 and the Clearcutter hits him with the axe. He throws Bender down 
-and Bender groans.]
+and Bender groans.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Get up, Bender. You can't quit every 
 time you get an axe in the back.  Or 
 a drill through your face. Now quit 
 scratching your axe-hole and get out 
-there.
+there.</speak>
 
-[Bender stands up again. The Clearcutter leans on the ropes, 
+<info>Bender stands up again. The Clearcutter leans on the ropes, 
 making them tense. He then cuts through the post and is catapulted 
 towards Bender. Bender tries a flying kick. His leg wraps around 
 his neck and the Clearcutter hits his footcup. The Clearcutter 
 sparks and his head explodes, followed by the rest of his body. 
-Bender looks at the flaming wreckage.]
+Bender looks at the flaming wreckage.</info>
 
-<character>BENDER</character>
-Huh?
+<speak who="BENDER">
+Huh?</speak>
 
-<character>REFEREE</character>
-And the winner is ... Bender!
+<speak who="REFEREE">
+And the winner is ... Bender!</speak>
 
-[He holds up his severed arm. Bender takes it and puts it back 
-in its socket. The crowd cheers.]
+<info>He holds up his severed arm. Bender takes it and puts it back 
+in its socket. The crowd cheers.</info>
 
-[Locker Room. Doubledeal walks in with Bender. Bender has a plaster 
-over the hole in his head.]
+<info>Locker Room. Doubledeal walks in with Bender. Bender has a plaster 
+over the hole in his head.</info>
 
-<character>DOUBLEDEAL</character>
-Nice work out there, kid.
+<speak who="DOUBLEDEAL">
+Nice work out there, kid.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Y'know, I think I he might be dead. 
-I took a life!
+I took a life!</speak>
 
-[He cheers. Enter the Clearcutter, all in one piece.]
+<info>He cheers. Enter the Clearcutter, all in one piece.</info>
 
-<character>CLEARCUTTER</character>
-Hi, boss. Yo, dude!
+<speak who="CLEARCUTTER">
+Hi, boss. Yo, dude!</speak>
 
-<character>BENDER</character>
-Hey, he's not dead. What's up with that?
+<speak who="BENDER">
+Hey, he's not dead. What's up with that?</speak>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 What, you didn't read the pamphlet? 
 Ultimate Robot Fighting's a scam, kid. 
 It's rigged.  It's a secret so keep 
 it under your head. But the most popular 
-robot always wins.
+robot always wins.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You mean I'm not a great fighter? I 
-just won 'cause I'm popular?
+just won 'cause I'm popular?</speak>
 
-<character>DOUBLEDEAL</character>
-Bingo!
+<speak who="DOUBLEDEAL">
+Bingo!</speak>
 
-<character>BENDER</character>
-Woo-hoo! I'm popular!
+<speak who="BENDER">
+Woo-hoo! I'm popular!</speak>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 In fact, you're more than popular; You're 
-pure lowest common denominator.
+pure lowest common denominator.</speak>
 
-[Bender does a victory dance.]
+<info>Bender does a victory dance.</info>
 
-<character>BENDER</character>
-Go Bender! Go Bender! Go Bender!
+<speak who="BENDER">
+Go Bender! Go Bender! Go Bender!</speak>
 
-[Madison Cube Garden. Another fight.]
+<info>Madison Cube Garden. Another fight.</info>
 
-<character>REFEREE</character>
-Presenting Bender the Offender!
+<speak who="REFEREE">
+Presenting Bender the Offender!</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I'm just an ex-con trying to go straight 
-and get my kids back.
+and get my kids back.</speak>
 
-[The crowd cheers.]
+<info>The crowd cheers.</info>
 
-<character>REFEREE</character>
-Versus: Billionairebot!
+<speak who="REFEREE">
+Versus: Billionairebot!</speak>
 
-[Billionairebot laughs in a snooty way. He wears a top hat and 
+<info>Billionairebot laughs in a snooty way. He wears a top hat and 
 monocle and cash is built in to his hands. The crowd boos. The 
 fight starts. Bender takes Billionairebot's watch from his pocket 
 and wraps it around him, trapping his arms. He picks up a barrel 
 from outside the ring with "Very Poor" written on it and puts 
-it over Billionairebot. The crowd cheers.]
+it over Billionairebot. The crowd cheers.</info>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>REFEREE</character>
-Versus: The Foreigner!
+<speak who="REFEREE">
+Versus: The Foreigner!</speak>
 
-[The stereotypical Spanish robot turns to the crowd.]
+<info>The stereotypical Spanish robot turns to the crowd.</info>
 
-<character>FOREIGNER</character>
+<speak who="FOREIGNER">
 I'm not from here! I have my own customs! 
-Look at my crazy passport!
+Look at my crazy passport!</speak>
 
-[While he isn't looking, Bender grabs him from behind and stuffs 
-the Earth flag in his mouth and kicks him out of the ring.]
+<info>While he isn't looking, Bender grabs him from behind and stuffs 
+the Earth flag in his mouth and kicks him out of the ring.</info>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
-<character>REFEREE</character>
-Versus: The Chain Smoker!
+<speak who="REFEREE">
+Versus: The Chain Smoker!</speak>
 
-[The robot looks like a cigarette machine. The crowd boos.]
+<info>The robot looks like a cigarette machine. The crowd boos.</info>
 
-<character>CHAIN SMOKER</character>
+<speak who="CHAIN SMOKER">
 I love smoking. And after I win the 
 fight I'm heading straight to your favourite 
-restaurant.
+restaurant.</speak>
 
-[He blows smoke over the crowd. Bender takes a chair out of his 
+<info>He blows smoke over the crowd. Bender takes a chair out of his 
 chest cabinet and hits him with it then smokes a cigar.
 
 [Planet Express: Lounge. Leela sits impatiently on the press 
 bench tapping her foot. Bender walks in wearing a furry coat 
-and with his arms around two Fembots.]
+and with his arms around two Fembots.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 You know, I'm also an Ultimate Robot 
-Lover.
+Lover.</speak>
 
-[The Fembots giggle.]
+<info>The Fembots giggle.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Bender! You're three hours late. You 
 can't give up on your training now after 
-both of us worked so hard.
+both of us worked so hard.</speak>
 
-<character>BENDER</character>
-What do you mean, "we"?
+<speak who="BENDER">
+What do you mean, "we"?</speak>
 
-<character>LEELA</character>
-I said "us".
+<speak who="LEELA">
+I said "us".</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Hey, Bender the Offender doesn't need 
 you. Bender the Offender doesn't need 
-anybody!
+anybody!</speak>
 
-<character>FEMBOT #1</character>
-What about us, Mr. The Offender?
+<speak who="FEMBOT #1">
+What about us, Mr. The Offender?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Well obviously I need floozies! Let's 
-roll!
+roll!</speak>
 
-[They walk out.]
+<info>They walk out.</info>
 
-[<character>URFL</character> Building: Doubledeal's Office. Bender walks in with the 
+<info>URFL Building: Doubledeal's Office. Bender walks in with the 
 Fembots. Doubledeal is there along with Billionairebot, the Chain 
-Smoker and the Foreigner.]
+Smoker and the Foreigner.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Howdy, chief. For my next bout, what 
 do you say I fight these two bimbos 
-in some mud?
+in some mud?</speak>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 Actually, we've decided to go in a different 
-direction.
+direction.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 What if I told your we wouldn't be fighting 
-in the conventional sense?
+in the conventional sense?</speak>
 
-<character>DOUBLEDEAL</character>
-Bender, your popularity is slipping.
+<speak who="DOUBLEDEAL">
+Bender, your popularity is slipping.</speak>
 
-[He holds up a chart with a red line pointing down.]
+<info>He holds up a chart with a red line pointing down.</info>
 
-<character>FOREIGNER</character>
+<speak who="FOREIGNER">
 Sales of your Bender Brand French milk 
-bath soaps are down 20%.
+bath soaps are down 20%.</speak>
 
-[Bender takes one and sniffs it.]
+<info>Bender takes one and sniffs it.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Those morons! I said pea berry, not 
-sandalwood!
+sandalwood!</speak>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 Damnit, Bender! If you can't move sandalwood, 
 you don't belong in this league! That's 
 why you're gonna lose next week's title 
-match.
+match.</speak>
 
-<character>BENDER</character>
-But the crowd loves me.
+<speak who="BENDER">
+But the crowd loves me.</speak>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 Perhaps. But let's see how they feel 
-about your new persona: The Gender Bender.
+about your new persona: The Gender Bender.</speak>
 
-[He holds up a pink tutu with "The Gender Bender" written on 
-it.]
+<info>He holds up a pink tutu with "The Gender Bender" written on 
+it.</info>
 
-<character>BILLIONAIREBOT</character>
+<speak who="BILLIONAIREBOT">
 You'll be the most unpopular robot fighter 
-since Sergeant Faeces Processor.
+since Sergeant Faeces Processor.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Oh, yeah?  Well what if I don't let 
-the new guy win?
+the new guy win?</speak>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 Then he'll just have to beat you the 
 old-fashioned way: To death!  Melissa, 
-send in the new kid.
+send in the new kid.</speak>
 
-[A shutter door slides open. A huge robot, covered in spikes, 
-enters via the wall.]
+<info>A shutter door slides open. A huge robot, covered in spikes, 
+enters via the wall.</info>
 
-<character>DESTRUCTOR</character>
-I am Destructor!
+<speak who="DESTRUCTOR">
+I am Destructor!</speak>
 
-[He laughs maniacally. Bender puts the tutu on.]
+<info>He laughs maniacally. Bender puts the tutu on.</info>
 
-<character>BENDER</character>
-(squeaky) See you at the fight.
+<speak who="BENDER">
+<info>(squeaky)</info> See you at the fight.</speak>
 
-[Planet Express: Lounge. Bender is sat on the couch with the 
-others around him.]
+<info>Planet Express: Lounge. Bender is sat on the couch with the 
+others around him.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 So then I said, "See you at the fight". 
-And that's the story.
+And that's the story.</speak>
 
-<character>FRY</character>
+<speak who="FRY">
 Man, I thought Ultimate Robot Fighting 
 was real, like pro wrestling. But it 
-turns out it's fixed, like boxing.
+turns out it's fixed, like boxing.</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 It's one thing to win a fixed fight 
 -- there's dignity in that. But to lose? 
 And in this atrocity? I can't do it! 
-Leela, you gotta train me to win.
+Leela, you gotta train me to win.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 No way! If you wouldn't take my help 
 when you didn't need it, why should 
 I give it to you now when you do need 
-it?
+it?</speak>
 
-<character>FARNSWORTH</character>
-What the hell are you talking about?
+<speak who="FARNSWORTH">
+What the hell are you talking about?</speak>
 
-<character>LEELA</character>
-I don't know. But I'm not helping.
+<speak who="LEELA">
+I don't know. But I'm not helping.</speak>
 
-[She turns on the <character>TV</character>. Bender the Offender is standing on top 
-of the world with the Earth flag waving behind him.]
+<info>She turns on the TV. Bender the Offender is standing on top 
+of the world with the Earth flag waving behind him.</info>
 
-<character>ANNOUNCER</character>
+<speak who="ANNOUNCER">
 You loved him as Bender the Offender! 
 Now get ready to hate him as he threatens 
 your sexuality in his new persona ... 
-The Gender Bender!
+The Gender Bender!</speak>
 
-[The picture is replaced with Bender in the tutu wearing a wig. 
+<info>The picture is replaced with Bender in the tutu wearing a wig. 
 He is lying on a bed kicking his legs back and forth and holding 
-a pink phone.]
+a pink phone.</info>
 
-<character>BENDER</character>
-I'm a real toughie!
+<speak who="BENDER">
+I'm a real toughie!</speak>
 
-<character>ANNOUNCER</character>
-Squaring off this Sunday versus Destructor!
+<speak who="ANNOUNCER">
+Squaring off this Sunday versus Destructor!</speak>
 
-[The picture is replaced with Destructor talking into a red phone.
+<info>The picture is replaced with Destructor talking into a red phone.
 
-<character>DESTRUCTOR</character>
+<speak who="DESTRUCTOR">
 I will destroy you!  And stop calling 
-me!
+me!</speak>
 
-[The camera pans down to his feet where Master Fnog is standing.]
+[The camera pans down to his feet where Master Fnog is standing.</info>
 
-<character>FNOG</character>
+<speak who="FNOG">
 I am Destructor's trainer, Master Fnog. 
 My pupil will be victorious for he has 
-the will of a warrior!
+the will of a warrior!</speak>
 
-[He laughs.]
+<info>He laughs.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 Not Fnog! Bender, let's hit the gym. 
 I'm gonna teach you to fight like a 
-girl!
+girl!</speak>
 
-<character>BENDER</character>
-(determined) I'll put on my tutu!
+<speak who="BENDER">
+<info>(determined)</info> I'll put on my tutu!</speak>
 
-[Madison Cube Garden. Thousands have turned out for the championship 
+<info>Madison Cube Garden. Thousands have turned out for the championship 
 bout where there is "no" gambling. The crowds cheer as Howard 
-Cosell's voice introduces the fight.]
+Cosell's voice introduces the fight.</info>
 
-<title><character>COSELL</character></title>
+<speak who="COSELL">
 Hello and welcome to a remarkable championship 
 bout. Destructor, a robotic armoured 
 tank whose very use at battle has been 
@@ -852,265 +852,265 @@ ruled a war crime versus, Gender Bender,
 who wears a pink tutu.  This is Rich 
 Little imitating Howard Cosell, here 
 at ringside with George Foreman. George, 
-a word in edgewise?
+a word in edgewise?</speak>
 
-<character>FOREMAN</character>
+<speak who="FOREMAN">
 This could be the most one-sided fight 
 since 1973 when Ali faced an 80-foot 
 tall mechanical Joe Frazier. M-My memory's 
 not what it used to be but I think the 
-entire Earth was destroyed.
+entire Earth was destroyed.</speak>
 
-<character>LITTLE</character>
+<speak who="LITTLE">
 Interesting, if true. The Vegas odds 
 tonight stand at an unprecedented 1000-0: 
 A bet of $0 on Bender pays $1000 if 
-he wins. Still, very few takers.
+he wins. Still, very few takers.</speak>
 
-<character>FOREMAN</character>
-It's not-not a smart bet.
+<speak who="FOREMAN">
+It's not-not a smart bet.</speak>
 
-[In the ring, Fnog does some last-minute training with Destructor. 
+<info>In the ring, Fnog does some last-minute training with Destructor. 
 Bender punches the pads on Hermes' hands while Leela reads through 
-the script.]
+the script.</info>
 
-<character>LEELA</character>
+<speak who="LEELA">
 According to the script, you're supposed 
 to prance out and tickle him with your 
 fairy wand. Instead, I want you to prance 
-out and kick his head off!
+out and kick his head off!</speak>
 
-<character>BENDER</character>
-Got it. Large kickle, hold the tickle!
+<speak who="BENDER">
+Got it. Large kickle, hold the tickle!</speak>
 
-[He throws some kicks and kicks off Hermes' Brain Slug.]
+<info>He throws some kicks and kicks off Hermes' Brain Slug.</info>
 
-<character>HERMES</character>
-Thank God I'm free of that nightmare!
+<speak who="HERMES">
+Thank God I'm free of that nightmare!</speak>
 
-<character>BENDER</character>
-Sorry, buddy. Here you go!
+<speak who="BENDER">
+Sorry, buddy. Here you go!</speak>
 
-[He puts it back on top of Hermes' head.]
+<info>He puts it back on top of Hermes' head.</info>
 
-<character>HERMES</character>
-(monotonous) Thank you. It was cold 
-down there on the floor.
+<speak who="HERMES">
+<info>(monotonous)</info> Thank you. It was cold 
+down there on the floor.</speak>
 
-[Amy, Zoidberg and Farnsworth are sat in the bleachers.]
+<info>Amy, Zoidberg and Farnsworth are sat in the bleachers.</info>
 
-<character>AMY</character>
-Here, Professor, I got you a programme.
+<speak who="AMY">
+Here, Professor, I got you a programme.</speak>
 
-<character>FARNSWORTH</character>
+<speak who="FARNSWORTH">
 Oh, good. Just let me put on my reading 
 glasses.  Why, Zoidberg, there's a lovely 
-photo of you in here.
+photo of you in here.</speak>
 
-[The bell rings and the referee's mic drops into the ring.]
+<info>The bell rings and the referee's mic drops into the ring.</info>
 
-<character>REFEREE</character>
+<speak who="REFEREE">
 In this corner, the confused young robot 
 with the golden curls weighing 525lbs: 
-The Gender Bender!
+The Gender Bender!</speak>
 
-[The crowd boos.]
+<info>The crowd boos.</info>
 
-<character>ZAPP</character>
-Boo!
+<speak who="ZAPP">
+Boo!</speak>
 
-<character>NIXON</character>
-Get that hippie out of the ring!
+<speak who="NIXON">
+Get that hippie out of the ring!</speak>
 
-<character>REFEREE</character>
+<speak who="REFEREE">
 And in these two corners, weighing 400 
 tons, the gizmo from Pismo ... Beach, 
-Destructor!
+Destructor!</speak>
 
-[Destructor bangs his knuckles together. Leela rubs Bender's 
-shoulders and Fnog arrives.]
+<info>Destructor bangs his knuckles together. Leela rubs Bender's 
+shoulders and Fnog arrives.</info>
 
-<character>FNOG</character>
+<speak who="FNOG">
 So, we meet again. Most amusing: Girl 
 who acts like fighter training fighter 
-who acts like girl.
+who acts like girl.</speak>
 
-<character>LEELA</character>
-Keep laughing, Fnog!  Ready, Bender?
+<speak who="LEELA">
+Keep laughing, Fnog!  Ready, Bender?</speak>
 
-<character>BENDER</character>
+<speak who="BENDER">
 I was born ready! Gimmie the bell!  
 Did you hear a noise?  Final boarding 
 call for flight 406, non-stop service 
-to pain.  Now boarding standby passengers--
+to pain.  Now boarding standby passengers--</speak>
 
-[Destructor punches him in the head, knocking him flat against 
+<info>Destructor punches him in the head, knocking him flat against 
 the floor. He tries to crawl away but Destructor grabs his legs 
-and hits him against the floor. The crowd cheers.]
+and hits him against the floor. The crowd cheers.</info>
 
-<character>FOREMAN</character>
+<speak who="FOREMAN">
 This seems like as good a time as any 
 time to bring up my new grill for no 
 reason.  With its patented design, the 
-fat drains directly into my mouth.
+fat drains directly into my mouth.</speak>
 
-[Destructor carries on killing Bender.]
+<info>Destructor carries on killing Bender.</info>
 
-<character>BENDER</character>
-(weakly) Fry! Throw in the towel!  For 
-God's sakes, Fry!
+<speak who="BENDER">
+<info>(weakly)</info> Fry! Throw in the towel!  For 
+God's sakes, Fry!</speak>
 
-[Fry turns around. There is a Brain Slug on his head. He drones.]
+<info>Fry turns around. There is a Brain Slug on his head. He drones.</info>
 
-<character>HERMES</character>
-(monotonous) That's exactly what I was 
-thinking.
+<speak who="HERMES">
+<info>(monotonous)</info> That's exactly what I was 
+thinking.</speak>
 
-[Destructor stands Bender on his feet and punches him in slow-motion 
-� la Raging Bull.]
+<info>Destructor stands Bender on his feet and punches him in slow-motion 
+� la Raging Bull.</info>
 
-<character>BENDER</character>
-(weakly) Mommy!
+<speak who="BENDER">
+<info>(weakly)</info> Mommy!</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 OK, Fnog, that's enough. Call him off. 
-Fnog?  Hmm.
+Fnog?  Hmm.</speak>
 
-[Destructor stamps on Bender.]
+<info>Destructor stamps on Bender.</info>
 
-<character>BENDER</character>
-Why won't anyone help me?
+<speak who="BENDER">
+Why won't anyone help me?</speak>
 
-[Leela follows the cable under the ring. Fnog is watching Destructor 
-on a screen and is controlling him with a VR suit.]
+<info>Leela follows the cable under the ring. Fnog is watching Destructor 
+on a screen and is controlling him with a VR suit.</info>
 
-<character>LEELA</character>
-So, once more we meet again.
+<speak who="LEELA">
+So, once more we meet again.</speak>
 
-<character>FNOG</character>
-Huh?
+<speak who="FNOG">
+Huh?</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 You didn't train Destructor. You're 
 just controlling him like a puppet. 
 I mean, cheating in a fake fight. That's 
-low!
+low!</speak>
 
-<character>FNOG</character>
+<speak who="FNOG">
 Better than being a girl. Like you. 
-You're a girl!
+You're a girl!</speak>
 
-[He laughs.]
+<info>He laughs.</info>
 
-<character>LEELA</character>
-(ironic) Oh, right. Girls lack the will 
-of the warrior!
+<speak who="LEELA">
+<info>(ironic)</info> Oh, right. Girls lack the will 
+of the warrior!</speak>
 
-[She kicks him about. In the ring, Destructor starts mimicking 
+<info>She kicks him about. In the ring, Destructor starts mimicking 
 Fnog's moves, holding his arms up to defend himself from no one. 
-Bender gets up.]
+Bender gets up.</info>
 
-<character>BENDER</character>
+<speak who="BENDER">
 Huh? It's bendering time!  Take this. 
-And this!
+And this!</speak>
 
-<character>FNOG</character>
+<speak who="FNOG">
 You were an excellent student.  Too 
-bad I was a lousy teacher!
+bad I was a lousy teacher!</speak>
 
-[He fights back. Destructor copies and beats up Bender some more.
+<info>He fights back. Destructor copies and beats up Bender some more.
 
-<character>BENDER</character>
+<speak who="BENDER">
 I think you misunderstood the concept 
-of "bendering time"!
+of "bendering time"!</speak>
 
-[Fnog has Leela on the floor.]
+[Fnog has Leela on the floor.</info>
 
-<character>FNOG</character>
+<speak who="FNOG">
 See you in girl hell. I'll be in boy 
-hell -- much nicer!
+hell -- much nicer!</speak>
 
-[He punches. Leela grabs his wrist and stops Destructor's punch. 
+<info>He punches. Leela grabs his wrist and stops Destructor's punch. 
 She looks at the screen and slams Fnog's fist into the ground. 
-Destructor's fist comes through the canvas and knocks him out.]
+Destructor's fist comes through the canvas and knocks him out.</info>
 
-<character>LEELA</character>
-Yes!
+<speak who="LEELA">
+Yes!</speak>
 
-<character>BENDER</character>
-Yes!  Oh!
+<speak who="BENDER">
+Yes!  Oh!</speak>
 
-[The referee counts him out and the bell dings.]
+<info>The referee counts him out and the bell dings.</info>
 
-<character>REFEREE</character>
-And the winner is Destructor!
+<speak who="REFEREE">
+And the winner is Destructor!</speak>
 
-[The crowd cheers.]
+<info>The crowd cheers.</info>
 
-<character>LITTLE</character>
+<speak who="LITTLE">
 I've not seen a spectacle of this nature 
-in all my years impersonating a sportscaster.
+in all my years impersonating a sportscaster.</speak>
 
-<character>FOREMAN</character>
+<speak who="FOREMAN">
 It sure was some fight. Interesting 
 side note: As a head without a body, 
-I envy the dead.
+I envy the dead.</speak>
 
-<character>LITTLE</character>
-No argument here.
+<speak who="LITTLE">
+No argument here.</speak>
 
-[Time Lapse. The bleachers have cleared. The Planet Express staff 
-crowd around Bender who has been flattened.]
+<info>Time Lapse. The bleachers have cleared. The Planet Express staff 
+crowd around Bender who has been flattened.</info>
 
-<character>FRY</character>
+<speak who="FRY">
 Bender? How did the fight go? I heard 
-somebody got flattened!
+somebody got flattened!</speak>
 
-<character>AMY</character>
-Fry, where's your Brain Slug?
+<speak who="AMY">
+Fry, where's your Brain Slug?</speak>
 
-[Farnsworth picks up the limp alien from the floor.]
+<info>Farnsworth picks up the limp alien from the floor.</info>
 
-<character>FARNSWORTH</character>
-Poor little guy starved to death.
+<speak who="FARNSWORTH">
+Poor little guy starved to death.</speak>
 
-<character>LEELA</character>
+<speak who="LEELA">
 I'm proud of you, Bender. Sure, you 
 lost. You lost bad. But the important 
 thing is I beat up someone who hurt 
-my feelings in high school.
+my feelings in high school.</speak>
 
-[She chuckles.]
+<info>She chuckles.</info>
 
-<character>BENDER</character>
-I'm in tremendous pain here.
+<speak who="BENDER">
+I'm in tremendous pain here.</speak>
 
-[Doubledeal pushes through.]
+<info>Doubledeal pushes through.</info>
 
-<character>DOUBLEDEAL</character>
+<speak who="DOUBLEDEAL">
 Great job, kid. You lost and you made 
 it look almost half real. I want you 
 to have this card good for 10% off at 
-Bed Bath & Beyond.
+Bed Bath &amp; Beyond.</speak>
 
-[He puts it in Bender's chest cabinet and leaves.]
+<info>He puts it in Bender's chest cabinet and leaves.</info>
 
-<character>BENDER</character>
-Yes! I'm the greatest! The greatest!
+<speak who="BENDER">
+Yes! I'm the greatest! The greatest!</speak>
 
-[He groans. Leela rolls him up and she and Fry carry him off.]
+<info>He groans. Leela rolls him up and she and Fry carry him off.</info>
 
-<character>LITTLE</character>
+<speak who="LITTLE">
 And so ends the chronicle of one of 
-the greatest ever to play the sport.
+the greatest ever to play the sport.</speak>
 
-<character>FOREMAN</character>
-And he didn't look half bad in the tutu.
+<speak who="FOREMAN">
+And he didn't look half bad in the tutu.</speak>
 
-<character>LITTLE</character>
-That he did surely not.
+<speak who="LITTLE">
+That he did surely not.</speak>
 
-<character>FOREMAN</character>
-What?
+<speak who="FOREMAN">
+What?</speak>
 
-<character>THE END</character></xml>
+<info>THE END</info></xml>
