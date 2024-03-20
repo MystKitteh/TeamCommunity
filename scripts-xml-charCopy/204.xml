@@ -7,21 +7,21 @@ Episode 204
 <author>Lewis Morton</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Planet Express: Lounge. Late at night Fry and Bender sit on 
+<info>Planet Express: Lounge. Late at night Fry and Bender sit on 
 the couch. The are four Slurm cans on the coffee table. Fry drinks 
 from another one and they watch All My Circuits on the <character>TV</character>. Calculon 
-opens the door to his bedroom.]
+opens the door to his bedroom.</info>
 
 <character>CALCULON</character>
 Honey unit, I'm home.  Monique!
 
-[Monique is in bed with Boxy. She pulls the sheets up around 
-her.]
+<info>Monique is in bed with Boxy. She pulls the sheets up around 
+her.</info>
 
 <character>MONIQUE</character>
 Calculon!
 
-[Boxy beeps.]
+<info>Boxy beeps.</info>
 
 <character>CALCULON</character>
 Oh, how I wish I could believe that. 
@@ -29,19 +29,19 @@ You may be my evil half-brother, but
 there's no law against murdering the 
 other half.
 
-[The screen changes to the All My Circuits logo.]
+<info>The screen changes to the All My Circuits logo.</info>
 
 <character>ANNOUNCER #1</character>
 All My Circuits will be right back 
 after this word from...
 
-[The screen changes to an advert.]
+<info>The screen changes to an advert.</info>
 
 <character>ANNOUNCER #2</character>
 ... Slurm! It's highly addictive!
 
-[A hand takes a can of Slurm off the screen. The hand belongs 
-to a surfing slug. Two babes on a beach watch him.]
+<info>A hand takes a can of Slurm off the screen. The hand belongs 
+to a surfing slug. Two babes on a beach watch him.</info>
 
 <character>BABE</character>
 Look! It's Slurms MacKenzie!
@@ -49,47 +49,47 @@ Look! It's Slurms MacKenzie!
 <character>DIXIE</character>
 He's the original party worm!
 
-[Slurms surfs onto the beach between the girls and they stroke 
-him.]
+<info>Slurms surfs onto the beach between the girls and they stroke 
+him.</info>
 
 <character>SLURMS</character>
 Whimmy-wham-wham-wazzle! Let's party!
 
-[He and the babes dance on the beach and are joined by other 
-dancing people. They all drink cans of Slurm.]
+<info>He and the babes dance on the beach and are joined by other 
+dancing people. They all drink cans of Slurm.</info>
 
 <character>BENDER</character>
 Look at that worm go. Who says there 
 are no more heroes?
 
-[On the TV Slurms surfs with the two babes.]
+<info>On the TV Slurms surfs with the two babes.</info>
 
 <character>SLURMS</character>
 Hey, dudes, you can win a chance to 
 party with me, Slurms MacKenzie, at 
 the Slurm bottling plant on planet Wormulon!
 
-[A still picture of Slurms playing a guitar with the babes and 
+<info>A still picture of Slurms playing a guitar with the babes and 
 a crate of Slurm appears on the screen with the words "Win A 
-Trip."]
+Trip."</info>
 
 <character>ANNOUNCER #2</character>
 Just look for the winning bottle-cap 
 inside specially-marked cans of Slurm.
 
-[Back on the board the babe shakes something out of her Slurm 
+<info>Back on the board the babe shakes something out of her Slurm 
 can and shows it to the camera. It is a bottle-cap with "You 
-Win!" printed on it. She gasps.]
+Win!" printed on it. She gasps.</info>
 
 <character>BABE</character>
 I won!
 
-[Disclaimers appear on the screen. "Slurm Has Been Found To Cause 
+<info>Disclaimers appear on the screen. "Slurm Has Been Found To Cause 
 Cancer In Laboratory Humans", "Employees Of Slurm Corp. And Their 
 Families Are Eligible To Enter And Will Probably Win" and "The 
 following species are ineligible: Space wasps, space beavers, 
 any other animal with the word 'Space' in front of it, space 
-chickens and the elusive yak-face" in alien language #1.]
+chickens and the elusive yak-face" in alien language #1.</info>
 
 <character>SLURM ANNOUNCER #2</character>
 No purchase necessary unless you wish 
@@ -100,20 +100,20 @@ mathematically insignificant.
 I like those odds.  Rats. Just another 
 tooth.  Aah!
 
-[He smiles a big toothless smile.]
+<info>He smiles a big toothless smile.</info>
 
-[Opening Credits. Caption: Live From Omicron Persei 8.]
+<info>Opening Credits. Caption: Live From Omicron Persei 8.</info>
 
-[Planet Express: Meeting Room. The staff sit around the table 
+<info>Planet Express: Meeting Room. The staff sit around the table 
 watching Fry guzzle down another can of Slurm. Fry shakes the 
 can upside-down and looks inside. "You're A Loser" is printed 
-on the bottom. He groans.]
+on the bottom. He groans.</info>
 
 <character>FRY</character>
 I gotta find that golden bottle-cap.
 
-[He throws the can behind him, opens another one and starts drinking 
-it.]
+<info>He throws the can behind him, opens another one and starts drinking 
+it.</info>
 
 <character>LEELA</character>
 I've never seen anyone so addicted to 
@@ -125,9 +125,9 @@ I used to drink a hundred cans of cola
 a week. Right up until my third heart 
 attack.
 
-[The door opens and Bender stands in the doorway clutching his 
+<info>The door opens and Bender stands in the doorway clutching his 
 door and groaning. His antenna is wilted and he is a slightly 
-redder colour.]
+redder colour.</info>
 
 <character>LEELA</character>
 Bender, what's wrong?
@@ -135,35 +135,35 @@ Bender, what's wrong?
 <character>BENDER</character>
 I'm sick.
 
-[He sneezes and his eyes pop out and back in again.]
+<info>He sneezes and his eyes pop out and back in again.</info>
 
 <character>LEELA</character>
 You poor baby. Let me check if you have 
 a fever.  Ow!
 
-[Farnsworth opens Bender's door with his lab coat acting as a 
-glove.]
+<info>Farnsworth opens Bender's door with his lab coat acting as a 
+glove.</info>
 
 <character>FARNSWORTH</character>
 According to Bender's temperature gauge, 
 which I suggest you use next time, Leela, 
 he's running a fever of ... 900 degrees.
 
-[He closes the door and Bender groans. Hermes fluffs a cushion 
-on a couch in the corner.]
+<info>He closes the door and Bender groans. Hermes fluffs a cushion 
+on a couch in the corner.</info>
 
 <character>HERMES</character>
 Bender, mon, lie yourself down.  You're 
 payin' for that!
 
-[Planet Express: Zoidberg's Office. Bender sits on the examination 
-table and the rest of the staff gather around.]
+<info>Planet Express: Zoidberg's Office. Bender sits on the examination 
+table and the rest of the staff gather around.</info>
 
 <character>ZOIDBERG</character>
 I'll have a look, but I remind you, 
 I'm an expert on humans not robots.
 
-[He shines a torch into Fry's eye.]
+<info>He shines a torch into Fry's eye.</info>
 
 <character>FRY</character>
 I'm not Bender, I'm Fry.
@@ -182,7 +182,7 @@ story.  Now what seems to be the trouble?
 My tummy hurts and I've been having 
 this burning electrical discharge.
 
-[Zoidberg runs a stethescope across Bender's casing.]
+<info>Zoidberg runs a stethescope across Bender's casing.</info>
 
 <character>ZOIDBERG</character>
 Hmm. Don't worry, you'll be fine.  (muttering) 
@@ -190,7 +190,7 @@ Oh boy. (quietly) I didn't have the
 heart to tell him: It's fin fungus. 
 He'll be floating upside-down by morning.
 
-[He walks off tutting. Amy turns to Bender.]
+<info>He walks off tutting. Amy turns to Bender.</info>
 
 <character>AMY</character>
 You should try homeopathic medicine, 
@@ -207,7 +207,7 @@ wort.
 Or a big fat placebo. It's all the same 
 crap.
 
-[Bender coughs and a sound comes from his chest cabinet.]
+<info>Bender coughs and a sound comes from his chest cabinet.</info>
 
 <character>LEELA</character>
 Hey, what's rattling around in there?
@@ -218,10 +218,10 @@ illness. But more importantly, it's
 a flimsy pretext to try out my latest 
 invention. To the laboratory!
 
-[He shuffles off very slowly and the rest quickly pass him.]
+<info>He shuffles off very slowly and the rest quickly pass him.</info>
 
-[Planet Express: Farnsworth's Lab. Farnsworth holds up a torch-like 
-object to the rest of the crew.]
+<info>Planet Express: Farnsworth's Lab. Farnsworth holds up a torch-like 
+object to the rest of the crew.</info>
 
 <character>FARNSWORTH</character>
 I call this the F-ray. It's like an 
@@ -233,7 +233,7 @@ You may feel a slight stinging sensation
 - all of you-- All of you!  Aha! There's 
 the cause of your illness.
 
-[Amy looks.]
+<info>Amy looks.</info>
 
 <character>AMY</character>
 Hey, that's my watch!
@@ -243,10 +243,10 @@ I was wondering where I put that.  Hey,
 now I feel much better! Thanks, Professor. 
 And, Amy, I'm sorry I took your watch.
 
-[She smiles and hugs him. Bender steals her earrings and chuckles. 
+<info>She smiles and hugs him. Bender steals her earrings and chuckles. 
 She moves away and he tosses the earrings down his throat and 
 coughs. Fry and Bender stay with Farnsworth while the others 
-leave. Farnsworth takes off his suit.]
+leave. Farnsworth takes off his suit.</info>
 
 <character>FARNSWORTH</character>
 Well, I've got to go take this suit 
@@ -254,10 +254,10 @@ to the decontaminators. You two lock
 up the F-ray and for the love of God 
 don't let it fall into the wrong hands.
 
-[He hands it to them. They look at each other and chuckle.]
+<info>He hands it to them. They look at each other and chuckle.</info>
 
-[New New York City Street. Fry and Bender walk down the busy 
-street with the F-ray. Bender holds it up.]
+<info>New New York City Street. Fry and Bender walk down the busy 
+street with the F-ray. Bender holds it up.</info>
 
 <character>BENDER</character>
 What should we point it at first?
@@ -268,17 +268,17 @@ I 'unno. Try it on me.  Ow! My sperm!
 <character>BENDER</character>
 Wow, neat! Mind if I try that again?
 
-[He points it at Fry's crotch again but nothing happens.]
+<info>He points it at Fry's crotch again but nothing happens.</info>
 
 <character>FRY</character>
 Huh, didn't hurt that time.
 
-[Bender watches a Fembot walk past.]
+<info>Bender watches a Fembot walk past.</info>
 
 <character>BENDER</character>
 Whoa, mama! Hold still, sexy lady.
 
-[He points the F-ray at her and gasps.]
+<info>He points the F-ray at her and gasps.</info>
 
 <character>FRY</character>
 What's wrong?
@@ -297,14 +297,14 @@ Hey, bite my shiny metal ass!
 <title>FEMBOT</title>
 You couldn't afford it, honey.
 
-[It snaps it's fingers and walks off.]
+<info>It snaps it's fingers and walks off.</info>
 
-[7^11. Outside the convenience store some people queue outside 
+<info>7^11. Outside the convenience store some people queue outside 
 a suicide booth and a sign advertises the shop as being "Open 
 28 Hours". Inside Bender and Fry use the F-ray to look inside 
 products such as Mom's Friendly Robot Oil, Bachelor Chow, Robo 
 Fresh, Tanning Butter, Mr Baked Beans and Glagnar's Human Rinds. 
-Fry groans.]
+Fry groans.</info>
 
 <character>FRY</character>
 All this prolonged exposure to radiation 
@@ -312,8 +312,8 @@ is making me thirsty.  Ah, if only there
 was some way of knowing which can had 
 the winning bottle-cap inside.
 
-[Bender stops pointing the F-ray at some Hot Logs and turns to 
-Fry.]
+<info>Bender stops pointing the F-ray at some Hot Logs and turns to 
+Fry.</info>
 
 <character>BENDER</character>
 Huh, w-what? I didn't hear you. I was 
@@ -326,7 +326,7 @@ N-No, false alarm. No. Yeah. No. Yeah.
 No. Wait. No. Yeah. Yeah. No ... no. 
 Yes!
 
-[Montage Fry points the F-ray at the stack of Slurm cans and 
+<info>Montage Fry points the F-ray at the stack of Slurm cans and 
 shakes his head in disappointment. In the street, Bender takes 
 a can of Slurm from a small boy with a red balloon. The boy cries, 
 Bender points the F-ray at the can and hands it back to the boy 
@@ -335,15 +335,15 @@ points the F-ray at the balloon and it bursts and the boy cries
 again. Fry points the F-ray at a Slurm dispenser but there is 
 no winning cap inside. Bender extends his arm into the coin tray 
 and takes a handful of coins. Back in the street Bender points 
-the F-ray at a Slurm blimp. It explodes and he and Fry run away.]
+the F-ray at a Slurm blimp. It explodes and he and Fry run away.</info>
 
-[Planet Express: Lounge. Leela and Farnsworth sit at the table 
+<info>Planet Express: Lounge. Leela and Farnsworth sit at the table 
 playing 3D Scrabble, a version of 3D Chess from Star Trek. On 
-the top level are the words "<character>ONE</character>" and "<character>EYE</character>"; On the second row 
-is "<character>MATT</character>" and "<character>AREA</character>"; On the third is "<character>POOP</character>" and "<character>ONLY</character>" and on 
-the fourth is "<character>DONUT</character>," "<character>ONE</character>" and "<character>EMU</character>". The letters on Farnsworth's 
-rack spell "<character>FUUTAMA</character>". The door opens and Bender slams the F-ray 
-onto the table, upsetting the letters.]
+the top level are the words "ONE" and "EYE"; On the second row 
+is "MATT" and "AREA"; On the third is "POOP" and "ONLY" and on 
+the fourth is "DONUT," "ONE" and "EMU". The letters on Farnsworth's 
+rack spell "FUUTAMA". The door opens and Bender slams the F-ray 
+onto the table, upsetting the letters.</info>
 
 <character>BENDER</character>
 Ah, this thing stinks.
@@ -354,37 +354,37 @@ all we won was this junk.  I never wanna
 see another can of Slurm again. Man, 
 am I thirsty.
 
-[He walks over to the fridge and takes out a refreshing can of 
+<info>He walks over to the fridge and takes out a refreshing can of 
 Slurm. He starts guzzling it back and suddenly starts to cough 
-and choke.]
+and choke.</info>
 
 <character>LEELA</character>
 Fry, are you alright?
 
-[Bender picks up the F-ray and points it at Fry's neck. A Slurm 
-bottle-cap with "You Win" written on it is lodged in his throat.]
+<info>Bender picks up the F-ray and points it at Fry's neck. A Slurm 
+bottle-cap with "You Win" written on it is lodged in his throat.</info>
 
 <character>BENDER</character>
 You did it, Fry! You found the winning 
 bottle-cap! We won!
 
-[Fry cheers and wheezes.]
+<info>Fry cheers and wheezes.</info>
 
 <character>FRY</character>
 (wheezy) Hooray!
 
-[He faints.]
+<info>He faints.</info>
 
-[The Planet Express ship flies towards the Slurm planet. The 
+<info>The Planet Express ship flies towards the Slurm planet. The 
 planet has a ring and the "Slurm" logo is painted on it. The 
-ship disappears into the atmosphere.]
+ship disappears into the atmosphere.</info>
 
-[Cut to: Outside Slurm Factory. The ship descends from the clouds, 
+<info>Cut to: Outside Slurm Factory. The ship descends from the clouds, 
 the landing gear comes down and it lands outside the Slurm factory 
 which bears an uncanny resemblance to the Wonka factory in Willy 
 Wonka And The Chocolate Factory. A banner reading "Welcome Contest 
 Winners!" has been hung above the gates. Fry, Bender, Leela, 
-Amy and the rest of the staff walk out of the ship down the steps.]
+Amy and the rest of the staff walk out of the ship down the steps.</info>
 
 <character>LEELA</character>
 Ooh, look at that!
@@ -392,11 +392,11 @@ Ooh, look at that!
 <character>BENDER</character>
 Hey!
 
-[Outside the gates are four worms. Two of them play a fanfare 
+<info>Outside the gates are four worms. Two of them play a fanfare 
 and the gates open. A path leads from the gates up to a building. 
 On the steps of the building two worms roll out a red carpet. 
 The end of the carpet reaches the gates and a worm dressed like 
-Gene Wilder in Willy Wonka And The Chocolate Factory pops out.]
+Gene Wilder in Willy Wonka And The Chocolate Factory pops out.</info>
 
 <character>GLURMO</character>
 Welcome to the planet Wormulon. I'm 
@@ -411,14 +411,14 @@ You'll have all the Slurm you can drink
 later on when you're partying with my 
 good friend Slurms MacKenzie.
 
-[He moves aside and behind him is Slurms and the babes. Slurms' 
-party music plays.]
+<info>He moves aside and behind him is Slurms and the babes. Slurms' 
+party music plays.</info>
 
 <character>SLURMS</character>
 Alright! Whimmy-wham-wham-wazzle! Lay 
 some skin on me, dudes!
 
-[Fry and Bender do. Some worm slime comes off on Fry's hand.]
+<info>Fry and Bender do. Some worm slime comes off on Fry's hand.</info>
 
 <character>BENDER</character>
 Wow! The original party worm!  Are you 
@@ -428,7 +428,7 @@ ready to get down, get funky with us?
 He'd better be, that's what we pay him 
 for. Right, Slurms?
 
-[Slurms cringes and starts waving his arms around.]
+<info>Slurms cringes and starts waving his arms around.</info>
 
 <character>SLURMS</character>
 Right!
@@ -445,14 +445,14 @@ But before the party, you're all in
 for a fun-derful treat: A <character>VIP</character> tour of 
 the Slurm factory!
 
-[He slides back through the gates and the staff follow.]
+<info>He slides back through the gates and the staff follow.</info>
 
 <character>SLURMS</character>
 Enjoy the tour, dudes!  I'm gonna go 
 lie down.
 
-[Slurm Factory Entrance. Glurmo and the staff are gathered in 
-the dim room.]
+<info>Slurm Factory Entrance. Glurmo and the staff are gathered in 
+the dim room.</info>
 
 <character>GLURMO</character>
 Welcome, my friends, to the wondrous 
@@ -460,12 +460,12 @@ world of whimsy that we like to call
 "Slurms Centralised Industrial Fabrication 
 Unit".
 
-[Behind him some worms open some doors.]
+<info>Behind him some worms open some doors.</info>
 
-[Cut to: Slurms Centralised Industrial Fabrication Unit. The 
+<info>Cut to: Slurms Centralised Industrial Fabrication Unit. The 
 crew walk through the door and gasp. The room looks like the 
 huge room in Willy Wonka And The Chocolate Factory. Slurm cans 
-grow on trees and a river of Slurm flows down the middle.]
+grow on trees and a river of Slurm flows down the middle.</info>
 
 <character>FARNSWORTH</character>
 Oh, my!
@@ -473,11 +473,11 @@ Oh, my!
 <character>BENDER</character>
 Look! Flowers! And a boat!
 
-[The boat is a small paddle boat. The crew walk to the river 
+<info>The boat is a small paddle boat. The crew walk to the river 
 bank and are about to get on the boat when they see some small 
 creatures across the river carrying barrels of Slurm. They have 
 orange faces and green hair and look like the Oompa-Loompas from 
-Willy Wonka And The Chocolate Factory. They wave.]
+Willy Wonka And The Chocolate Factory. They wave.</info>
 
 <character>FARNSWORTH</character>
 Who are those horrible orange creatures 
@@ -490,8 +490,8 @@ work here in the Slurm factory.
 <character>FARNSWORTH</character>
 Tell them I hate them.
 
-[Time Lapse. The staff and Glurmo are now on the boat and it 
-sails down the green river.]
+<info>Time Lapse. The staff and Glurmo are now on the boat and it 
+sails down the green river.</info>
 
 <character>GLURMO</character>
 As we sail down the river of Slurm you'll 
@@ -504,9 +504,9 @@ Then, last of all, we add the secret
 ingredient that makes Slurm so deliciously 
 addictive.
 
-[A Grunka Lunka tips up a barrel labelled "Secret Ingredient" 
+<info>A Grunka Lunka tips up a barrel labelled "Secret Ingredient" 
 into a cauldron of Slurm ingredients but another pulls a curtain 
-across before anyone can see anything.]
+across before anyone can see anything.</info>
 
 <character>FRY</character>
 So, what's the secret ingredient?
@@ -524,7 +524,7 @@ Oh. But what is it really?
 are inducing Wumpus berries to release 
 their flavour, using sensual massage.
 
-[He points to some Grunka Lunkas who rub piles of purple berries.]
+<info>He points to some Grunka Lunkas who rub piles of purple berries.</info>
 
 <character>BENDER</character>
 (whispering) Psst, those berries. Those 
@@ -546,18 +546,18 @@ of secret.
 <character>GLURMO</character>
 Enough! There will be no further questions.
 
-[Fry raises his hand.]
+<info>Fry raises his hand.</info>
 
 <character>FRY</character>
 Why?
 
-[Leela points across him.]
+<info>Leela points across him.</info>
 
 <character>LEELA</character>
 Hey, look! The disgusting little men 
 are starting to sing.
 
-[On the river bank six Grunka Lunkas line up and dance and sing.]
+<info>On the river bank six Grunka Lunkas line up and dance and sing.</info>
 
 <character>GRUNKA LUNKAS</character>
 (singing) Grunka Lunka dunkity-do,
@@ -591,13 +591,13 @@ And keep your mouth shut,
 
 Grunka Lunka lunka dunkity dot!
 
-[Glurmo leans over the side of the boat and waves his cane.]
+<info>Glurmo leans over the side of the boat and waves his cane.</info>
 
 <character>GLERMO</character>
 (shouting) Hey, I don't pay you to sing! 
 You just used up today's bathroom break!
 
-[The boat disappears into a tunnel.]
+<info>The boat disappears into a tunnel.</info>
 
 <character>GRUNKA LUNKA #2</character>
 Hard ass.
@@ -605,18 +605,18 @@ Hard ass.
 <character>GLURMO</character>
 I heard that!
 
-[The Grunka Lunka whimpers and runs away.]
+<info>The Grunka Lunka whimpers and runs away.</info>
 
-[Slurm Factory Tunnel. The tunnel is lined with huge barrels 
-of Slurm.]
+<info>Slurm Factory Tunnel. The tunnel is lined with huge barrels 
+of Slurm.</info>
 
 <character>GLURMO</character>
 Now on your right, you'll see the Slurm 
 Master checking the Slurm for colour 
 and bouquet.
 
-[An old worm with a long, white beard holds a glass of Slurm. 
-Fry watches and licks his lips.]
+<info>An old worm with a long, white beard holds a glass of Slurm. 
+Fry watches and licks his lips.</info>
 
 <character>FRY</character>
 So thirsty.
@@ -645,8 +645,8 @@ That's not soon enough.
 <character>LEELA</character>
 Hey, what's behind that door?
 
-[She points at a door with a "Keep Out" sign on it. It is guarded 
-by two worms.]
+<info>She points at a door with a "Keep Out" sign on it. It is guarded 
+by two worms.</info>
 
 <character>GLURMO</character>
 Nothing.
@@ -654,7 +654,7 @@ Nothing.
 <character>LEELA</character>
 Is it the secret ingredient?
 
-[Five Grunka Lunkas dance across in front of the door.]
+<info>Five Grunka Lunkas dance across in front of the door.</info>
 
 <character>GRUNKA LUNKAS</character>
 (singing) Grunka Lunka dunkity dingredient,
@@ -675,8 +675,8 @@ guards--
 <character>BENDER</character>
 (shouting) Shut the hell up!
 
-[Time Lapse. Fry sneaks to the back of the boat while Glurmo 
-talks to Hermes.]
+<info>Time Lapse. Fry sneaks to the back of the boat while Glurmo 
+talks to Hermes.</info>
 
 <character>HERMES</character>
 So you're telling me I could fire my 
@@ -688,8 +688,8 @@ That's right. They think they have a
 good union but they don't. (whispering) 
 They're basically slaves.
 
-[Fry leans over the back of the boat but can't quite reach the 
-Slurm.]
+<info>Fry leans over the back of the boat but can't quite reach the 
+Slurm.</info>
 
 <character>LEELA</character>
 What are you doing?
@@ -706,10 +706,10 @@ Fine. I'll let go and swim around in
 the Slurm and drink as much as I want. 
 Help! I can't swim!
 
-[He disappears under the water and Leela sighs and dives in after 
+<info>He disappears under the water and Leela sighs and dives in after 
 him. Underwater, she swims towards Fry and pulls him back towards 
 the surface by his hair. She comes up gasping for air, followed 
-by a gasping Fry, followed by Bender who whistles.]
+by a gasping Fry, followed by Bender who whistles.</info>
 
 <character>LEELA</character>
 Bender, why did you jump in?
@@ -718,11 +718,11 @@ Bender, why did you jump in?
 Everybody was doing it. I just wanted 
 to be popular.
 
-[A whirlpool sucks them underwater and they scream. They are 
-pulled through a hole in the bottom of the Slurm river.]
+<info>A whirlpool sucks them underwater and they scream. They are 
+pulled through a hole in the bottom of the Slurm river.</info>
 
-[Cut to: Wormulon Cave. The trio fly out of a pipe and land on 
-a grate. Slurm pours out of the pipe and into the grate.]
+<info>Cut to: Wormulon Cave. The trio fly out of a pipe and land on 
+a grate. Slurm pours out of the pipe and into the grate.</info>
 
 <character>BENDER</character>
 Ow!
@@ -734,8 +734,8 @@ Where are we?
 And why is the Slurm pouring into this 
 sewer?
 
-[Fry wrings some Slurm from his hair into his mouth and spits 
-it straight out.]
+<info>Fry wrings some Slurm from his hair into his mouth and spits 
+it straight out.</info>
 
 <character>FRY</character>
 This isn't Slurm at all!
@@ -744,16 +744,16 @@ This isn't Slurm at all!
 Something's rotten on the planet Wormulon. 
 Look at this.
 
-[On the other side of the cave are two doors. One marked "Real 
-Factory" and the other marked "Fake Factory".]
+<info>On the other side of the cave are two doors. One marked "Real 
+Factory" and the other marked "Fake Factory".</info>
 
-[Cut to: Slurm Factory Tunnel. Leela quietly opens the fake factory 
+<info>Cut to: Slurm Factory Tunnel. Leela quietly opens the fake factory 
 door and they peer around it. It is the door from earlier that 
 was marked "Keep Out". On the other side one of the worm guards 
 smokes while another knits. A Grunka Lunka sleeps and two others 
-play poker.]
+play poker.</info>
 
-[Cut to: Wormulon Cave. She closes it again.]
+<info>Cut to: Wormulon Cave. She closes it again.</info>
 
 <character>LEELA</character>
 This all must have something to do with 
@@ -773,19 +773,19 @@ Oh. How is it?
 <character>LEELA</character>
 It varies from person to person.
 
-[Slurme Shoppe. In the gift shop the rest of the staff browse 
+<info>Slurme Shoppe. In the gift shop the rest of the staff browse 
 the Slurm merchandise available. Amy looks at some worm keyrings 
-while Farnsworth looks at an Enjoy Slurm towel.]
+while Farnsworth looks at an Enjoy Slurm towel.</info>
 
 <character>FARNSWORTH</character>
 Ooh!
 
-[On the other side of the shop Glurmo watches Hermes look at 
+<info>On the other side of the shop Glurmo watches Hermes look at 
 some worm mugs and Slurm T-shirts. He is already wearing a worm 
 blernsball cap. The T-shirt sizes range from S to M to L and 
 also Mutant which has four arms. Hermes leaves with his two-armed 
 T-shirt and Zoidberg inquires about a two-armed Hebrew Slurm 
-T-shirt he is wearing.]
+T-shirt he is wearing.</info>
 
 <character>ZOIDBERG</character>
 Do you have any that aren't so tight 
@@ -800,24 +800,24 @@ the tour?
 Hey, yeah. Fry, Leela and Bender are 
 missing.
 
-[Glurmo narrows his eyes.]
+<info>Glurmo narrows his eyes.</info>
 
 <character>GLURMO</character>
 If you'll excuse me.
 
-[He slides out, leaving a trail of slime behind him. Amy turns 
+<info>He slides out, leaving a trail of slime behind him. Amy turns 
 around with a box of Slurm glasses and slips on the slime and 
-falls over and screams. The glasses smash.]
+falls over and screams. The glasses smash.</info>
 
-[Wormulon Cave. Leela, Fry and Bender creep down the dark tunnels. 
-They see torchlight up ahead. Bender gasps.]
+<info>Wormulon Cave. Leela, Fry and Bender creep down the dark tunnels. 
+They see torchlight up ahead. Bender gasps.</info>
 
 <character>LEELA</character>
 (whispering) Quick.
 
-[They duck behind a rock. Two guards slide along the roof of 
+<info>They duck behind a rock. Two guards slide along the roof of 
 the cave with a torch and laser. They pass them without seeing 
-them and Bender breathes a sigh of relief.]
+them and Bender breathes a sigh of relief.</info>
 
 <character>FRY</character>
 Look! Slurm! Finally!  Oh, yeah! I'm 
@@ -828,19 +828,19 @@ again.
 It's the end of the line. This must 
 be where they put in the secret ingredient.
 
-[Behind her is a door marked "Slurm Production Chamber".]
+<info>Behind her is a door marked "Slurm Production Chamber".</info>
 
 <character>FRY</character>
 Well, whatever it is, it's even better 
 fresh.  Mmm, still warm.
 
-[Leela opens the door.]
+<info>Leela opens the door.</info>
 
-[Cut to: Slurm Production Chamber. They walk in and gasp. In 
+<info>Cut to: Slurm Production Chamber. They walk in and gasp. In 
 the middle of the room is a huge worm wearing a crown and scoffing 
 handfuls of Wumpus berries. Some worms massage the middle of 
 her body and the secret ingredient comes out the other end of 
-her and into Slurm cans.]
+her and into Slurm cans.</info>
 
 <character>FRY</character>
 Ew!
@@ -851,13 +851,13 @@ Blech!
 <character>BENDER</character>
 Oh, Lordy!
 
-[Fry gulps back some more Slurm.]
+<info>Fry gulps back some more Slurm.</info>
 
 <character>LEELA</character>
 Fry!  Fry!
 
-[He spits it out again and they watch the Slurm Queen producing 
-the drink.]
+<info>He spits it out again and they watch the Slurm Queen producing 
+the drink.</info>
 
 <character>FRY</character>
 That's the secret ingredient of Slurm?
@@ -868,42 +868,42 @@ That's the only ingredient of Slurm.
 <character>FRY</character>
 Ew!
 
-[He consoles himself by drinking from the can again. Leela knocks 
+<info>He consoles himself by drinking from the can again. Leela knocks 
 it out of his hand and the Slurm Queen turns around and roars. 
 She hits them with her back end and they duck out of the way. 
 She takes another swipe at Leela and she jumps out the way to 
 Fry and Bender. The Slurm Queen takes another swing and they 
 run out the door screaming. Fry runs back in to pick up the can 
 of Slurm but the Slurm Queen knocks it out of his hands. He groans 
-and runs out again.]
+and runs out again.</info>
 
-[Cut to: Wormulon Cave. The three run around a corner and guards 
+<info>Cut to: Wormulon Cave. The three run around a corner and guards 
 fire their lasers at them. They come to a ravine and nearly fall 
-into it.]
+into it.</info>
 
 <character>BENDER</character>
 I'll save us!  Oh, that feels good!
 
-[They reach the other side and Bender retracts his arms and legs.]
+<info>They reach the other side and Bender retracts his arms and legs.</info>
 
 <character>FRY</character>
 Thanks, Bender!
 
-[Bender coughs and Fry and Leela reluctantly hand him some cash.]
+<info>Bender coughs and Fry and Leela reluctantly hand him some cash.</info>
 
-[Time Lapse. They run around another corner.]
+<info>Time Lapse. They run around another corner.</info>
 
 <character>LEELA</character>
 The exit! We made it.
 
-[Cut to: Slurm Production Chamber. The "exit" leads back to where 
-they began.]
+<info>Cut to: Slurm Production Chamber. The "exit" leads back to where 
+they began.</info>
 
 <character>BENDER</character>
 Uh, your majesty, I brought the prisoners.
 
-[Fry and Leela turn their heads towards him and Fry smiles. Glurmo 
-appears from behind the Slurm Queen.]
+<info>Fry and Leela turn their heads towards him and Fry smiles. Glurmo 
+appears from behind the Slurm Queen.</info>
 
 <character>GLURMO</character>
 Well, my curious friends, you learned 
@@ -914,10 +914,10 @@ alive.
 <character>LEELA</character>
 You wish, you slimy worm! Heyya!
 
-[She karate chops Glurmo's head off. The decapitated head grows 
+<info>She karate chops Glurmo's head off. The decapitated head grows 
 a body and the body grows a head, forming two Glurmos. A guard 
 hands the new head a hat. The Glurmos pin Leela to the floor. 
-Guards point lasers at Fry and Bender's backs. Bender groans.]
+Guards point lasers at Fry and Bender's backs. Bender groans.</info>
 
 <character>SLURM QUEEN</character>
 Good work, Glurmo. You have pleased 
@@ -953,8 +953,8 @@ scheduled?
 <character>SLURM QUEEN</character>
 (shouting) Never!  To the torture cave!
 
-[Torture Cave. Bender has been tied to a conveyor belt. It moves 
-towards a machine which converts metal into Slurm cans.]
+<info>Torture Cave. Bender has been tied to a conveyor belt. It moves 
+towards a machine which converts metal into Slurm cans.</info>
 
 <character>SLURM QUEEN</character>
 You, my metal friend, will have the 
@@ -964,8 +964,8 @@ honour of becoming 174 Slurm cans.
 Ah, this trip is turning into a big 
 letdown.
 
-[Leela is raised in a harness and suspended over a vat of purple 
-goo. The Glurmos stand by a control unit.]
+<info>Leela is raised in a harness and suspended over a vat of purple 
+goo. The Glurmos stand by a control unit.</info>
 
 <character>SLURM QUEEN</character>
 As for you, you will be submerged in 
@@ -983,8 +983,8 @@ New Slurm. Then, when everyone hates
 it, we'll bring back Slurm Classic, 
 and make billions!
 
-[She and the Glurmos laugh. Small Glurmo #1 pushes a lever down 
-and Leela is lowered into the purple Slurm. Fry watches.]
+<info>She and the Glurmos laugh. Small Glurmo #1 pushes a lever down 
+and Leela is lowered into the purple Slurm. Fry watches.</info>
 
 <character>FRY</character>
 What about me?
@@ -1002,8 +1002,8 @@ eat until you explode! Oh, which reminds
 me, put a tarp over that sofa, will 
 you? Bon app�tit!
 
-[One of the Glurmos forces a spoonful of the Slurm into Fry's 
-mouth. Fry struggles then smiles.]
+<info>One of the Glurmos forces a spoonful of the Slurm into Fry's 
+mouth. Fry struggles then smiles.</info>
 
 <character>FRY</character>
 Mmm!
@@ -1012,7 +1012,7 @@ Mmm!
 Farewell! Oh, and congratulations again 
 on winning the contest.
 
-[She and the Glurmos laugh insanely and leave.]
+<info>She and the Glurmos laugh insanely and leave.</info>
 
 <character>LEELA</character>
 Fry, untie us, quick!
@@ -1021,14 +1021,14 @@ Fry, untie us, quick!
 Here I come.  Let me just-- One more 
 taste.
 
-[He takes three.]
+<info>He takes three.</info>
 
 <character>LEELA</character>
 You pig. Stop stuffing your craw and 
 save us.
 
-[Fry walks towards her then changes his mind and sticks his head 
-into the tub. Bender moves closer to the machine.]
+<info>Fry walks towards her then changes his mind and sticks his head 
+into the tub. Bender moves closer to the machine.</info>
 
 <character>BENDER</character>
 I can't see what's happening. Are we 
@@ -1037,16 +1037,16 @@ boned?
 <character>LEELA</character>
 Yeah, we're boned.
 
-[Fry lifts his head out of the tub and looks around. He sees 
+<info>Fry lifts his head out of the tub and looks around. He sees 
 Bender then Leela then looks back at the Slurm, A tear trickles 
-down his face and splashes into the Slurm.]
+down his face and splashes into the Slurm.</info>
 
 <character>FRY</character>
 I can't stop eating this delicious ooze. 
 But I'm not gonna let you die.
 
-[He moves towards the control unit, dragging the tub with him 
-and shovelling handfuls of Slurm into his mouth.]
+<info>He moves towards the control unit, dragging the tub with him 
+and shovelling handfuls of Slurm into his mouth.</info>
 
 <character>LEELA</character>
 Hurry!
@@ -1054,23 +1054,23 @@ Hurry!
 <character>BENDER</character>
 What's happening?  Just in time!
 
-[He looks down and screams. There is a hole in the middle of 
+<info>He looks down and screams. There is a hole in the middle of 
 his casing. Fry looks through it. While he is distracted, Leela 
-tips the tub of Slurm over and it disappears down a drain.]
+tips the tub of Slurm over and it disappears down a drain.</info>
 
 <character>FRY</character>
 (screaming) Nooo!  (talking) I could 
 fit if I didn't have these damn arms!
 
-[He starts gnawing at his arms. Leela lifts him up off the floor.]
+<info>He starts gnawing at his arms. Leela lifts him up off the floor.</info>
 
-[Wormulon Cave. The trio run through the tunnel.]
+<info>Wormulon Cave. The trio run through the tunnel.</info>
 
 <character>LEELA</character>
 We're close to the exit. I can smell 
 those filthy orange guys.
 
-[Ahead of them is Slurms MacKenzie and the babes.]
+<info>Ahead of them is Slurms MacKenzie and the babes.</info>
 
 <character>SLURMS</character>
 Stop right there!
@@ -1102,26 +1102,26 @@ keep it small.
 <character>BENDER</character>
 No can do, Slurms!
 
-[He pats him on the back. The cave starts to shake and the Slurm 
-Queen bursts through the wall. Everyone screams.]
+<info>He pats him on the back. The cave starts to shake and the Slurm 
+Queen bursts through the wall. Everyone screams.</info>
 
 <character>SLURMS</character>
 This way!
 
-[He ushers them into another part of the cave. A sign above reads 
+<info>He ushers them into another part of the cave. A sign above reads 
 "Danger Cave-In Area". The Slurm Queen follows but gets stuck. 
 She squirts some Slurm around her body as lubricant and squeezes 
-through.]
+through.</info>
 
 <character>LEELA</character>
 She's gaining on us.
 
-[Slurms stops running.]
+<info>Slurms stops running.</info>
 
 <character>SLURMS</character>
 Go on without me, I'll hold her off.
 
-[Everyone else stops.]
+<info>Everyone else stops.</info>
 
 <character>FRY</character>
 But she'll crush you like a worm ... 
@@ -1146,43 +1146,43 @@ But--
 There'll be other parties for you. Now 
 go. Go!
 
-[They run away and Slurms dances and the Slurm Queen closes in. 
+<info>They run away and Slurms dances and the Slurm Queen closes in. 
 The tunnel starts to collapse and Slurms turns the volume up 
-to maximum. More rocks fall from the roof. Bender turns around.]
+to maximum. More rocks fall from the roof. Bender turns around.</info>
 
 <character>BENDER</character>
 Party on, Slurms!
 
-[He salutes.]
+<info>He salutes.</info>
 
 <character>SLURMS</character>
 Party on, contest winners. Party on.
 
-[Bigger rocks falls from above and they pile up in the tunnel. 
+<info>Bigger rocks falls from above and they pile up in the tunnel. 
 One crushes Slurms and he yelps. The Slurm Queen slams into the 
-pile of rocks.]
+pile of rocks.</info>
 
 <character>SLURM QUEEN</character>
 No! We're ruined! They know our disgusting 
 secret!
 
-[She cries. The Glurmos arrive in time to see her drinking her 
-own Slurm.]
+<info>She cries. The Glurmos arrive in time to see her drinking her 
+own Slurm.</info>
 
-[The Planet Express ship speeds away from Wormulon.]
+<info>The Planet Express ship speeds away from Wormulon.</info>
 
-[Cut to: Ships Cockpit. Hermes, Zoidberg and Amy sit on the couch, 
+<info>Cut to: Ships Cockpit. Hermes, Zoidberg and Amy sit on the couch, 
 Bender relaxes at his station while Fry and Farnsworth use the 
-phone.]
+phone.</info>
 
 <character>FARNSWORTH</character>
 Commissioner, my crew has made a horrific 
 discovery: It seems that Slurm is produced 
 in a colossal worm hiney!
 
-[On the screen, the commissioner sits in his office in front 
+<info>On the screen, the commissioner sits in his office in front 
 of a seal with "Bureau Of Soft Drinks, Tobacco, Firearms" written 
-around it.]
+around it.</info>
 
 <character>COMMISSIONER</character>
 Hmm, "hiney", you say? Why, with your 
@@ -1193,7 +1193,7 @@ this insidious Slurm.
 Outlaw Slurm?  Uh, don't pay any attention 
 to him sir ...
 
-[Cut to: Commissioner's Office.]
+<info>Cut to: Commissioner's Office.</info>
 
 <character>FRY</character>
 ... Grandpa's making up crazy stories 
@@ -1203,15 +1203,15 @@ again.
 I'm not your grandpa, you're my uncle! 
 From the year 2000!
 
-[Fry makes the cuckoo gesture.]
+<info>Fry makes the cuckoo gesture.</info>
 
-[Cut to: Ships Cockpit.]
+<info>Cut to: Ships Cockpit.</info>
 
 <character>COMMISSIONER</character>
 OK, grandpa, we'll take care of the 
 "bad worms," don't you worry.
 
-[He grins and hangs up. Fry opens another can of Slurm.]
+<info>He grins and hangs up. Fry opens another can of Slurm.</info>
 
 <character>FRY</character>
 Ah, I just wish Slurms MacKenzie were 
@@ -1222,12 +1222,12 @@ Yeah, that Slurms sure loved to party.
 Whattya say we all party one last time 
 for him?
 
-[Leela raises a can.]
+<info>Leela raises a can.</info>
 
 <character>LEELA</character>
 For Slurms!
 
-[The rest raise their cans.]
+<info>The rest raise their cans.</info>
 
 <character>AMY</character>
 (simultaneously) For Slurms!
@@ -1244,18 +1244,18 @@ For Slurms!
 <character>ZOIDBERG</character>
 (simultaneously) Whammy-wazzle!
 
-[Slurms' music plays and the babes run in from the side and start 
-dancing. Bender drinks a can.]
+<info>Slurms' music plays and the babes run in from the side and start 
+dancing. Bender drinks a can.</info>
 
 <character>BENDER</character>
 Hey, that's not that bad.
 
-[The Slurm trickles out of the hole in his casing. Fry is lying 
-on the floor underneath so the Slurm runs straight into his mouth.]
+<info>The Slurm trickles out of the hole in his casing. Fry is lying 
+on the floor underneath so the Slurm runs straight into his mouth.</info>
 
 <character>FRY</character>
 Mmm!
 
-[He smiles.]
+<info>He smiles.</info>
 
 <info>THE END</info></xml>

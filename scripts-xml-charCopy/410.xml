@@ -7,11 +7,11 @@ Episode 410
 <author>Patric M. Verrone</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Scratch Here To Reveal Prize.]
+<info>Opening Credits. Caption: Scratch Here To Reveal Prize.</info>
 
-[Planet Express: Lounge. Fry looks out of the window through 
+<info>Planet Express: Lounge. Fry looks out of the window through 
 a pair of binoculars. Leela, Bender and Farnsworth sit at the 
-table.]
+table.</info>
 
 <character>LEELA</character>
 Oh put down the binoculars Fry. The 
@@ -46,19 +46,19 @@ strangers feel welcome.
 <character>FARNSWORTH</character>
 No.
 
-[Family Bros. Pizza. The owners are a man and woman. They looks 
+<info>Family Bros. Pizza. The owners are a man and woman. They looks 
 like giant fat insects with little antennae and thoraxes, but 
 they have the same limbs as humans; two arms, two legs, four 
 fingers on each hand. They are dress in the same way as some 
 Italian immigrants and have vaguely Italian accents. They stand 
-in the middle of their restaurant awaiting customers.]
+in the middle of their restaurant awaiting customers.</info>
 
 <character>CYGNOID WOMAN</character>
 You sure about these chairs? Guidebook 
 says human legs bend down at knee.
 
-[The points at the chairs which have an extra part on the seat 
-that bends up.]
+<info>The points at the chairs which have an extra part on the seat 
+that bends up.</info>
 
 <character>CYGNOID MAN</character>
 It's OK Mama, anyone complains, I bend 
@@ -66,12 +66,12 @@ legs up for free.  Ooo customers!  Welcome
 to Earth pizza store. Here, sit, I bend 
 knees for you.
 
-[Bender sits down and the Cygnoid bends his legs up.]
+<info>Bender sits down and the Cygnoid bends his legs up.</info>
 
 <character>BENDER</character>
 Ooo that's a-comfy!
 
-[Fry and Leela sit down themselves.]
+<info>Fry and Leela sit down themselves.</info>
 
 <character>CYGNOID MAN</character>
 OK, now, what kind of pizza goes in 
@@ -85,8 +85,8 @@ Uh, hmm, do you have any food?
 Here, try a deep dish pizza.  Contains 
 four kind of things.
 
-[The Cygnoid woman cuts the "pizza" and some blue ooze oozes 
-out. Fry and Leela reluctantly taste it and spit it out.]
+<info>The Cygnoid woman cuts the "pizza" and some blue ooze oozes 
+out. Fry and Leela reluctantly taste it and spit it out.</info>
 
 <character>LEELA</character>
 I don't mean to offend but this tastes 
@@ -99,8 +99,8 @@ like vomit.
 No, actually I did mean to offend a 
 little. This is awful.
 
-[The Cygnoids shout at each other in Cygnoid and then burst into 
-tears.]
+<info>The Cygnoids shout at each other in Cygnoid and then burst into 
+tears.</info>
 
 <character>FRY</character>
 Hey hey, what's wrong? Was it something 
@@ -112,7 +112,7 @@ life. Raise fat spoiled Earth kids,
 hang many underwear from Earth clothesline, 
 live Earthican dream.
 
-[They cry more.]
+<info>They cry more.</info>
 
 <character>FRY</character>
 Aww, don't cry foreign people. I used 
@@ -124,17 +124,17 @@ Earth style!
 <character>CYGNOID WOMAN</character>
 Oh thank you magic biped!
 
-[She kisses his feet.]
+<info>She kisses his feet.</info>
 
 <character>CYGNOID MAN</character>
 You save us sir, if we cannot make Earth 
 pizza our dream will die. Just like 
 rats we crushed to make the wine.
 
-[Fry spits out the wine all over Bender's face and Bender spits 
-it back.]
+<info>Fry spits out the wine all over Bender's face and Bender spits 
+it back.</info>
 
-[Time Lapse. Fry teaches the Cygnoids all about pizzeria's.]
+<info>Time Lapse. Fry teaches the Cygnoids all about pizzeria's.</info>
 
 <character>FRY</character>
 For starters, only use quality ingredients. 
@@ -143,8 +143,8 @@ works equally well. And when you put
 pizzas in the oven, don't get in with 
 them.
 
-[He opens the oven door and a Cygnoid inside immediately closes 
-it.]
+<info>He opens the oven door and a Cygnoid inside immediately closes 
+it.</info>
 
 <character>CYGNOID #2</character>
 Hey, ocupado!
@@ -156,16 +156,16 @@ eating so they don't have to talk to
 each other.  Ah, the Earthican pasttime, 
 blernsball!
 
-[The pitcher pitches the ball and Bob Uecker commentates.]
+<info>The pitcher pitches the ball and Bob Uecker commentates.</info>
 
-<character>UECKER </character>[ON TV]
+<character>UECKER </character><info>ON TV</info>
 Mulligan drives the ball, it's going, 
 going and caught by the shortstop. Man 
 I haven't seen play this bad since the 
 days of Bob Uecker! This is Bob Uecker 
 saying thanks for watching!
 
-[The Cygnoids watch in puzzlement.]
+<info>The Cygnoids watch in puzzlement.</info>
 
 <character>CYGNOID MAN</character>
 Mets? Shortstop? Pinching the hitter? 
@@ -180,23 +180,23 @@ Express? Oh but you'll need nine players.
 <character>CYGNOID WOMAN</character>
 No problem!
 
-[She shouts in Cygnoid and seven Cygnoids climb out of the oven.]
+<info>She shouts in Cygnoid and seven Cygnoids climb out of the oven.</info>
 
 <character>CYGNOID #2</character>
 Play the ball!
 
-[Central Park. People dine at the Cavern On The Green caf� and 
+<info>Central Park. People dine at the Cavern On The Green caf� and 
 a dog catches what it thinks is a frisbee. The frisbee opens 
 and some little aliens shout at the dog. On the blernsball pitch 
 the teams get ready for their game. Farnsworth doesn't play and 
-shouts from the stand.]
+shouts from the stand.</info>
 
 <character>FARNSWORTH</character>
 (shouting) Go team! Beat those no good 
 Cygnoids! Show them they stink at a 
 game they've never played before!
 
-[Leela is the pitcher and the Cygnoid man goes up to bat.]
+<info>Leela is the pitcher and the Cygnoid man goes up to bat.</info>
 
 <character>CYGNOID MAN</character>
 Ah, this is why I love Earth! Beautiful 
@@ -204,19 +204,19 @@ star brightened day, friendly blernsball
 game with chum pals! So pleasant for 
 everybody.
 
-[Leela throws the ball and it hits him on the head and knocks 
-him over.]
+<info>Leela throws the ball and it hits him on the head and knocks 
+him over.</info>
 
 <character>SCRUFFY</character>
 Hit by a pitch, take your base.
 
-[Leela gasps.]
+<info>Leela gasps.</info>
 
 <character>LEELA</character>
 (shouting) Sorry about that, I guess 
 I needed a few more warm-up pitches.
 
-[Another Cygnoid steps up.]
+<info>Another Cygnoid steps up.</info>
 
 <character>BENDER</character>
 No batter! No batter!  No batter anymore.
@@ -231,7 +231,7 @@ I have some trouble with depth perception.
 <character>CYGNOID #2</character>
 Yeah, me too now.
 
-[A third Cygnoid goes to bat.]
+<info>A third Cygnoid goes to bat.</info>
 
 <character>BENDER</character>
 Hey batter batter batter! Hey batter 
@@ -240,19 +240,19 @@ batter batter! Hey batter batter!  Duck!
 <character>SCRUFFY</character>
 Take your base.
 
-[A crowd of people gathers around and starts watching the game. 
-Another Cygnoid goes to bat.]
+<info>A crowd of people gathers around and starts watching the game. 
+Another Cygnoid goes to bat.</info>
 
 <character>CYGNOID #3</character>
 Please lady, I want to live. Can I use 
 bat to protect head?
 
-[Leela's ball hits him.]
+<info>Leela's ball hits him.</info>
 
 <character>BENDER</character>
 Apparently not.
 
-[The crowd applauds.]
+<info>The crowd applauds.</info>
 
 <character>MAN</character>
 Check out the one eyed bean machine!
@@ -260,7 +260,7 @@ Check out the one eyed bean machine!
 <character>CYGNOID MAN</character>
 Hooray! I make a score point!
 
-[The Planet Express team gathers around Leela.]
+<info>The Planet Express team gathers around Leela.</info>
 
 <character>FRY</character>
 Leela, you beaned a run-in. You'd better 
@@ -270,12 +270,12 @@ let me pitch.
 But I've got a no-hitter going.  You're 
 right. Here.
 
-[She throws the ball at his face. The crowd cheers.]
+<info>She throws the ball at his face. The crowd cheers.</info>
 
 <character>RANDY</character>
 Don't take her out, she's a firecracker!
 
-[Leela walks into the Commissioner of the <character>URFL</character>.]
+<info>Leela walks into the Commissioner of the <character>URFL</character>.</info>
 
 <character>COMMISSIONER</character>
 Excuse me, I'd like to talk to you.
@@ -301,7 +301,7 @@ Close to it. But they don't draw a crowd
 like you. Which is why I wanna sign 
 you to the team.
 
-[Leela gasps.]
+<info>Leela gasps.</info>
 
 <character>LEELA</character>
 You mean I'd be the first woman ever 
@@ -320,14 +320,14 @@ league blernsball.
 <character>COMMISSIONER</character>
 Again yeah, but basically you'd -
 
-[Leela jumps into the air.]
+<info>Leela jumps into the air.</info>
 
 <character>LEELA</character>
 Yippee!
 
-[Planet Express: Lounge. Leela is kitted out in her Mets uniform 
+<info>Planet Express: Lounge. Leela is kitted out in her Mets uniform 
 that looks like the one from the 1980's and 7/8 is printed on 
-the back. She turns around to the rest of the crew.]
+the back. She turns around to the rest of the crew.</info>
 
 <character>LEELA</character>
 Ta-da! The first woman ever to play 
@@ -351,15 +351,15 @@ on the butt?
 Fry I'm a professional athlete! So go 
 ahead.
 
-[Fry stops halfway.]
+<info>Fry stops halfway.</info>
 
 <character>FRY</character>
 Ohh, now I'm too nervous.
 
-[Shea Stadium. The Mets play the Swedish Meatballs. The Mets 
-are at 0 while the Swedish Meatballs are ahead at 15.]
+<info>Shea Stadium. The Mets play the Swedish Meatballs. The Mets 
+are at 0 while the Swedish Meatballs are ahead at 15.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
 <character>UECKER</character>
 Well folks it's only the fifth inning 
@@ -368,40 +368,40 @@ one into a laffer. And that's with two
 F's. The crowd is pouring out of the 
 stadium LA style.
 
-[Cut to: Bleachers. The Mets fans start to leave.]
+<info>Cut to: Bleachers. The Mets fans start to leave.</info>
 
-[Cut to: Mets' Bench. Leela sits on the bench watching the game 
-with the manager. Enter the Commissioner.]
+<info>Cut to: Mets' Bench. Leela sits on the bench watching the game 
+with the manager. Enter the Commissioner.</info>
 
 <character>COMMISSIONER</character>
 Skipper, we're losing the crowd. Put 
 it our new novelty act - Leela.
 
-[Leela gasps. The skipper kicks the ground.]
+<info>Leela gasps. The skipper kicks the ground.</info>
 
 <character>SKIPPER</character>
 Darn it! I already put in the circus 
 clown.
 
-[Behind them the clown cartwheels across the pitch and honks 
-a horn.]
+<info>Behind them the clown cartwheels across the pitch and honks 
+a horn.</info>
 
 <character>COMMISSIONER</character>
 Yeah but he bunted. Clowns are only 
 funny when they swing away.
 
-[Cut to: Pitch.]
+<info>Cut to: Pitch.</info>
 
-[Leela walks out onto the pitch.]
+<info>Leela walks out onto the pitch.</info>
 
-[Cut to: Bleachers. The leaving crowd doesn't react.]
+<info>Cut to: Bleachers. The leaving crowd doesn't react.</info>
 
-[The crowd turns around in curiosity. A woman cheers Leela.]
+<info>The crowd turns around in curiosity. A woman cheers Leela.</info>
 
 <character>WOMAN</character>
 Woo! Come on! Throw like a girl!
 
-[The Planet Express crew cheer.]
+<info>The Planet Express crew cheer.</info>
 
 <character>FRY</character>
 (shouting) Go Leela!
@@ -412,23 +412,23 @@ Woo! Come on! Throw like a girl!
 <character>AMY</character>
 (shouting) Too much eyeliner!
 
-[Cut to: Pitch. Leela stands ready to throw the ball and a batter 
-takes his position.]
+<info>Cut to: Pitch. Leela stands ready to throw the ball and a batter 
+takes his position.</info>
 
 <character>UECKER</character>
 (voice-over) This is history in the 
 making folks. Bjornson steps up to the 
 plate and Leela delivers.
 
-[Leela throws the ball and hits Bjornson in the face, knocking 
-him over.]
+<info>Leela throws the ball and hits Bjornson in the face, knocking 
+him over.</info>
 
-[Cut to: Bleachers. The crowd gasps.]
+<info>Cut to: Bleachers. The crowd gasps.</info>
 
 <character>BENDER</character>
 Bullseye!
 
-[Cut to: Pitch. Bjornson gets up and staggers away.]
+<info>Cut to: Pitch. Bjornson gets up and staggers away.</info>
 
 <character>UECKER</character>
 (voice-over) Ooo! An inauspicious start 
@@ -436,21 +436,21 @@ for the career of the first woman blernsballer.
 An inauspicious continuation for the 
 career of the first woman blernsballer.
 
-[Leela kicks the ground in frustration. The crowd chuckles. A 
+<info>Leela kicks the ground in frustration. The crowd chuckles. A 
 man dusts the batter off and the batter hands him some cash and 
-leaves. Another batter steps up.]
+leaves. Another batter steps up.</info>
 
-[Cut to: Bleachers.]
+<info>Cut to: Bleachers.</info>
 
 <character>CROWD</character>
 (chanting) Bean! Bean! Bean! Bean! Bean! 
 Bean! Bean! Bean...
 
-[Cut to: Pitch. Leela throws again, the ball curls around the 
+<info>Cut to: Pitch. Leela throws again, the ball curls around the 
 back of the player and knocks him out from behind. The crowd 
-cheers.]
+cheers.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
 <character>UECKER</character>
 Ouch! It's a three bean-ball salad. 
@@ -458,22 +458,22 @@ The Mets fans love it though and who
 can blame them? They haven't had much 
 to cheer about this year -
 
-[The ball flies up to the box and smashes Uecker's jar. The crowd 
-cheers.]
+<info>The ball flies up to the box and smashes Uecker's jar. The crowd 
+cheers.</info>
 
-[<character>NNY</character> Mets Locker Room. The male players wander around with black 
+<info><character>NNY</character> Mets Locker Room. The male players wander around with black 
 bars over their unmentionables. Leela sits sadly on a bench but 
-the Commissioner doesn't seem to notice.]
+the Commissioner doesn't seem to notice.</info>
 
 <character>COMMISSIONER</character>
 Kid that was great! You got us more 
 publicity than a cowboy in a shark tank. 
 Poor Tex, he was quite a shark.
 
-[Enter Bender dressed in a grooby suit, shades and a headset 
+<info>Enter Bender dressed in a grooby suit, shades and a headset 
 phone. The trips ocver the wire from the black bar generator 
 and pulls the plug from the socket. The black bars around the 
-players go down and they cover themselves.]
+players go down and they cover themselves.</info>
 
 <character>MAN #1</character>
 Hey!
@@ -484,7 +484,7 @@ Hey!
 <character>MAN #3</character>
 C'mon!
 
-[Another man looks around and throws his hands in the air.]
+<info>Another man looks around and throws his hands in the air.</info>
 
 <character>MAN #4</character>
 I win!
@@ -492,7 +492,7 @@ I win!
 <character>BENDER</character>
 Oop! Sorry.
 
-[He plugs the plug back in and the black bars reappear.]
+<info>He plugs the plug back in and the black bars reappear.</info>
 
 <character>LEELA</character>
 Bender, how did you get in here?
@@ -500,7 +500,7 @@ Bender, how did you get in here?
 <character>LEELA</character>
 Since when are you my agent?
 
-[Bender's phone rings.]
+<info>Bender's phone rings.</info>
 
 <character>BENDER</character>
 Quiet, call coming in.  Yeees...? A 
@@ -509,7 +509,7 @@ much...? Hey! You put a one and two
 zeroes in front of that or we pass...! 
 Deal!
 
-[He hangs up.]
+<info>He hangs up.</info>
 
 <character>LEELA</character>
 Bender that's great! How much did you 
@@ -518,8 +518,8 @@ get me?
 <character>BENDER</character>
 (impressed) One hundred dollars.
 
-[Ancestor &amp; Sons Ad Agency. Leela stands behind a camera in front 
-of a backdrop. She holds a tin of beans and reads off an autocue.]
+<info>Ancestor &amp; Sons Ad Agency. Leela stands behind a camera in front 
+of a backdrop. She holds a tin of beans and reads off an autocue.</info>
 
 <character>LEELA</character>
 (reading) As a pitcher, I serve up plenty 
@@ -527,27 +527,27 @@ of bean-balls, so I know good beans
 when I see them. Bean-Bay Beans - they're 
 the beaniest!
 
-[She smiles weakly.]
+<info>She smiles weakly.</info>
 
 <character>DIRECTOR</character>
 Cut!
 
-[Shea Stadium. The Mets play the Pituitary Giants with the score 
-17-2 to the Giants.]
+<info>Shea Stadium. The Mets play the Pituitary Giants with the score 
+17-2 to the Giants.</info>
 
-[Cut to: Bleachers. Fans have set up Leela's Bean Counter. A 
-woman hangs a fourth huge picture of a bean over the railings.]
+<info>Cut to: Bleachers. Fans have set up Leela's Bean Counter. A 
+woman hangs a fourth huge picture of a bean over the railings.</info>
 
 <character>UECKER</character>
 (voice-over) In very short order Leela 
 has become a fan favourite.
 
-[Cut to: Pitch. Leela knocks over another player and some paramedics 
+<info>Cut to: Pitch. Leela knocks over another player and some paramedics 
 drag him into an ambulance. The ambulance moves around the pitch 
 to first base. There are three other ambulances moving from base 
-to base.]
+to base.</info>
 
-[<character>NNY</character> Mets Locker Room. Leela dresses. Enter Bender.]
+<info><character>NNY</character> Mets Locker Room. Leela dresses. Enter Bender.</info>
 
 <character>BENDER</character>
 You're the best babe!  Hang on call 
@@ -555,7 +555,7 @@ comin' in.  What's that...? Hey you
 put a one and two zeroes in front of 
 that or we pass...! Deal!
 
-[He hangs up.]
+<info>He hangs up.</info>
 
 <character>LEELA</character>
 So what did you get me?
@@ -563,8 +563,8 @@ So what did you get me?
 <character>BENDER</character>
 (impressed) A thousand and one pesos!
 
-[Ancestor &amp; Sons Ad Agency. Leela shoots another bean advert 
-but this time in Spanish.]
+<info>Ancestor &amp; Sons Ad Agency. Leela shoots another bean advert 
+but this time in Spanish.</info>
 
 <character>LEELA</character>
 Yo soy muy malo en lanzar, pero yo soy 
@@ -575,17 +575,17 @@ reyes.
 <character>DIRECTOR</character>
 Cut! OK, now do one with bean suit on!
 
-[A man holds up a huge bean suit with a face wearing a Mets blernsball 
-cap.]
+<info>A man holds up a huge bean suit with a face wearing a Mets blernsball 
+cap.</info>
 
-[Outside Family Bros. Pizza. The Cygnoids have strung a banner 
+<info>Outside Family Bros. Pizza. The Cygnoids have strung a banner 
 over the doorway reading Leela Autograph Session - Bring Money. 
-A line of people has formed outside.]
+A line of people has formed outside.</info>
 
-[Cut to: Family Bros. Pizza. Leela is sat dressed in her Mets 
+<info>Cut to: Family Bros. Pizza. Leela is sat dressed in her Mets 
 uniform at a table at the far end of the room signing books while 
 the Cygnoids sell pizza to her fans. Fry leans against the counter 
-with a smile on his face.]
+with a smile on his face.</info>
 
 <character>CYGNOID MAN</character>
 Leela really bringing in the customers.
@@ -594,16 +594,16 @@ Leela really bringing in the customers.
 This keep up we need to buy second sauce 
 toilet.
 
-[A little girl stands in front of Leela holding a magazine.]
+<info>A little girl stands in front of Leela holding a magazine.</info>
 
 <character>GIRL</character>
 When I grow up I want to injure men 
 by throwing stuff at them just like 
 you Leela! Will you sign my magazine?
 
-[She hands her a copy of Sports Illustrated with a picture of 
+<info>She hands her a copy of Sports Illustrated with a picture of 
 Leela on the cover and the caption "Leela's Beans: The Mets' 
-Magical Fruit."]
+Magical Fruit."</info>
 
 <character>LEELA</character>
 Aww, sure thing sweetie. Who should 
@@ -616,9 +616,9 @@ Well, uh...to eBay?
 That's a popular name today. Little 
 "e" big "B"?
 
-[The girl nods and smiles, Leela signs the magazine and the girl 
+<info>The girl nods and smiles, Leela signs the magazine and the girl 
 takes it and leaves. Another girl hands Leela a magazine. Bender 
-chuckles and presses some buttons on a calculator.]
+chuckles and presses some buttons on a calculator.</info>
 
 <character>BENDER</character>
 Five bucks an autograph, 200 fans. Add 
@@ -630,8 +630,8 @@ I'm not doing this for the wad. I'm
 doing it for all the struggling female 
 athletes who need a role model.
 
-[The woman who cheered Leela from the crowd in her first blernsball 
-game steps forward.]
+<info>The woman who cheered Leela from the crowd in her first blernsball 
+game steps forward.</info>
 
 <character>WOMAN</character>
 Yeah, a role model in how to stink!
@@ -653,15 +653,15 @@ is making it impossible for real female
 ball players to be taken seriously. 
 I hope you're proud of yourself.
 
-[She leaves. Leela's lip wobbles and a tear trickles down her 
-face. Bender turns to the crowd.]
+<info>She leaves. Leela's lip wobbles and a tear trickles down her 
+face. Bender turns to the crowd.</info>
 
 <character>BENDER</character>
 Alright shows over no refunds, you heard 
 the robot get out!
 
-[Planet Express: Lounge. Leela, still in her uniform, sits on 
-the couch with the rest of the crew sat and standing around her.]
+<info>Planet Express: Lounge. Leela, still in her uniform, sits on 
+the couch with the rest of the crew sat and standing around her.</info>
 
 <character>LEELA</character>
 I'm a fool. The fans haven't been cheering 
@@ -687,8 +687,8 @@ to earn the respect of girls and women
 everywhere. I will become the best blernsball 
 player of all time.
 
-[Hermes clears his throat. He is sat at the table looking at 
-a computer.]
+<info>Hermes clears his throat. He is sat at the table looking at 
+a computer.</info>
 
 <character>HERMES</character>
 That's statistically impossible. In 
@@ -702,29 +702,29 @@ Oh. Then I have a new vow. I solemnly
 swear that I will become not the worst 
 blernsball player of all time.
 
-[She thumps her glove, misses, and punches Farnsworth in the 
-face. Bender peers over his shades.]
+<info>She thumps her glove, misses, and punches Farnsworth in the 
+face. Bender peers over his shades.</info>
 
-[Blernsball Hall Of Fame. Enter Fry, Leela and Bender. They walk 
+<info>Blernsball Hall Of Fame. Enter Fry, Leela and Bender. They walk 
 past exhibits such as the first ball hit into orbit, Mark McGwire's 
 bicep and the 2927 Yankees' heads all crammed into one jar. Fry 
-points at a display.]
+points at a display.</info>
 
 <character>FRY</character>
 Hey look! The player's who broke the 
 various colour barriers!
 
-[In the display case is a green alien, an orange alien a purple 
+<info>In the display case is a green alien, an orange alien a purple 
 alien and racially superior alien from the Star Trek episode 
-Let That Be Your Last Battlefield.]
+Let That Be Your Last Battlefield.</info>
 
 <character>BENDER</character>
 When will Man learn that all races are 
 equally inferior to robots?
 
-[Cut to: Worst Player In History Exhibit. The trio walk into 
+<info>Cut to: Worst Player In History Exhibit. The trio walk into 
 a small room. There is a hologram of a blernsball player sat 
-on a chair surrounded by photo's of his "triumphs."]
+on a chair surrounded by photo's of his "triumphs."</info>
 
 <character>LEELA</character>
 Ah, here we are - the worst player in 
@@ -732,14 +732,14 @@ history. If I can be just a little better
 than him I can slink away with my head 
 held high.
 
-[Bender reads something.]
+<info>Bender reads something.</info>
 
 <character>BENDER</character>
 It says he once struck out when his 
 tongue got stuck to an unusually cold 
 bat.
 
-[Fry looks at a photo.]
+<info>Fry looks at a photo.</info>
 
 <character>FRY</character>
 And here he is trying to make a catch 
@@ -748,21 +748,21 @@ with an oven mit.
 <character>LEELA</character>
 It's even a crummy hologram.
 
-[She knocks the hologram's head. It moves.]
+<info>She knocks the hologram's head. It moves.</info>
 
 <character>AARON JR</character>
 I'm not a hologram, though I am crummy. 
 Hank Aaron <character>XXIV</character>.
 
-[Leela shakes his hand.]
+<info>Leela shakes his hand.</info>
 
 <character>FRY</character>
 Hank Aaron <character>XXIV</character>? How could you play 
 so blowfully? The original Hank Aaron 
 was great!
 
-[A voice comes from behind them. The original Hank Aaron's head 
-in a jar.]
+<info>A voice comes from behind them. The original Hank Aaron's head 
+in a jar.</info>
 
 <character>AARON SR</character>
 No I was better than great. I was the 
@@ -771,7 +771,7 @@ home run king!
 <character>BENDER</character>
 Neat!
 
-[He takes a photo.]
+<info>He takes a photo.</info>
 
 <character>LEELA</character>
 So Hank - the bad Hank, just how blowful 
@@ -790,7 +790,7 @@ Leela could beat that. She's pitched
 her whole career without getting an 
 out.
 
-[Aaron Sr laughs.]
+<info>Aaron Sr laughs.</info>
 
 <character>AARON SR</character>
 You stink lady! Hey Junior, she belongs 
@@ -811,8 +811,8 @@ Oh I can't help you play better than
 Tiny Iota, that guy was great! But I'll 
 teach you everything I know.
 
-[Central Park. Leela stands on a pitcher's mound holding a blernsball, 
-Aaron Jr holds a bat and Fry is backstop.]
+<info>Central Park. Leela stands on a pitcher's mound holding a blernsball, 
+Aaron Jr holds a bat and Fry is backstop.</info>
 
 <character>AARON JR</character>
 OK, let's see what you can do.
@@ -822,14 +822,14 @@ One thing she can do is lodge a ball
 in the depth centre of your brain. You 
 better get a batting helmet.
 
-[Aaron takes Bender's head off and uses it as a helmet. He lifts 
-Bender's teeth so he can see.]
+<info>Aaron takes Bender's head off and uses it as a helmet. He lifts 
+Bender's teeth so he can see.</info>
 
 <character>LEELA</character>
 (quietly) Alright, low and away!
 
-[She throws the ball and knocks Aaron down. Bender picks his 
-head up and staggers around disorientated.]
+<info>She throws the ball and knocks Aaron down. Bender picks his 
+head up and staggers around disorientated.</info>
 
 <character>AARON JR</character>
 OK try it again but this time keep your 
@@ -842,7 +842,7 @@ You mean "keep your eye on the ball"?
 Hey lady, which one of us is in the 
 hall of fame?
 
-[He holds up the bat. Fry whispers to him.]
+<info>He holds up the bat. Fry whispers to him.</info>
 
 <character>FRY</character>
 (whispering) Psst, you're holding the 
@@ -854,8 +854,8 @@ Just pitch the ball.
 <character>LEELA</character>
 OK, eye off the ball.
 
-[She throws the ball without looking at it, Aaron swings, misses 
-and Fry catches the ball.]
+<info>She throws the ball without looking at it, Aaron swings, misses 
+and Fry catches the ball.</info>
 
 <character>BENDER</character>
 Strike!
@@ -874,14 +874,14 @@ was pitching and not just belly-itching!
 Oh you got that too? I think there's 
 a rash goin' around.
 
-[He scratches his stomach.]
+<info>He scratches his stomach.</info>
 
-[Outside Fenway Park. On the wall outside is a sign saying Home 
-Of The Green Monster.]
+<info>Outside Fenway Park. On the wall outside is a sign saying Home 
+Of The Green Monster.</info>
 
-[Cut to: Pitch. The Green Monster plays the blernsball tune.]
+<info>Cut to: Pitch. The Green Monster plays the blernsball tune.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
 <character>UECKER</character>
 Welcome to Fenway Park, home of the 
@@ -889,8 +889,8 @@ Boston Poindexters where the Mets close
 out a season that'll rank among mankind's 
 most awful crimes.
 
-[Cut to: Family Bros. Stand. The Cygnoids sell pizza to blernsball 
-fans. Fry smiles.]
+<info>Cut to: Family Bros. Stand. The Cygnoids sell pizza to blernsball 
+fans. Fry smiles.</info>
 
 <character>FRY</character>
 Hey! You opened a franchise!
@@ -900,7 +900,7 @@ Yes. Our biggest seller is Leela's Bean
 Pizza. Six kinds of beans, plus several 
 things that look like beans.
 
-[Fishy Joe eats a slice.]
+<info>Fishy Joe eats a slice.</info>
 
 <character>FISHY JOE</character>
 Beans huh? Mmm, this is great! How to 
@@ -935,10 +935,10 @@ No Blek! Other way around!
 <character>CYGNOID MAN</character>
 Oh right, offer accepted!
 
-[He takes the cheque and Fry, Amy, Hermes and the Cygnoid woman 
-cheer.]
+<info>He takes the cheque and Fry, Amy, Hermes and the Cygnoid woman 
+cheer.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
 <character>UECKER</character>
 Well fans Boston's turning the last 
@@ -946,8 +946,8 @@ game into a real squeeeker! And that's
 with three "e's"! Two men on and they're 
 down to their last out.
 
-[Cut to: Met's Bench. Leela is sat on the bench while the manager 
-watches the game.]
+<info>Cut to: Met's Bench. Leela is sat on the bench while the manager 
+watches the game.</info>
 
 <character>LEELA</character>
 Come on skipper, it's my last chance 
@@ -963,11 +963,11 @@ traffic.  (shouting) Come on! Lets see
 some fundamentals out there!  And not 
 clown fundamentals.
 
-[Cut to: Pitch. A Boston player hits the ball and it bounces 
+<info>Cut to: Pitch. A Boston player hits the ball and it bounces 
 over to the clown. Instead of throwing it to another player he 
-throws a pie instead.]
+throws a pie instead.</info>
 
-[Cut to: Met's Bench. The skipper kicks the ground.]
+<info>Cut to: Met's Bench. The skipper kicks the ground.</info>
 
 <character>SKIPPER</character>
 Aw, darn, darn it! Now the bases are 
@@ -984,7 +984,7 @@ team on this -
 <character>LEELA</character>
 I've been training with Hank Aaron.
 
-[The skipper turns around.]
+<info>The skipper turns around.</info>
 
 <character>SKIPPER</character>
 You've been training with the Hank Aaron?
@@ -996,14 +996,14 @@ I've been training with a Hank Aaron.
 Alright then. Get in there and pitch 
 like you've never pitched like you before!
 
-[Leela runs onto the pitch.]
+<info>Leela runs onto the pitch.</info>
 
-[Cut to: Pitch. The Mets players' jaws drop and they hold their 
-hands to their heads.]
+<info>Cut to: Pitch. The Mets players' jaws drop and they hold their 
+hands to their heads.</info>
 
-[The crowd cheers.]
+<info>The crowd cheers.</info>
 
-[Cut to: Bleachers.]
+<info>Cut to: Bleachers.</info>
 
 <character>CROWD</character>
 (chanting) Bean! Bean! Bean! Bean! Bean!
@@ -1021,12 +1021,12 @@ hands to their heads.]
 (shouting) Strike him out Leela! Do 
 it for the hundreds of women everywhere!
 
-[Cut to: Pitch. While the crowd continues chanting "bean" the 
-Boston skipper takes a batter out and replaces him.]
+<info>Cut to: Pitch. While the crowd continues chanting "bean" the 
+Boston skipper takes a batter out and replaces him.</info>
 
-[The crowd gasps as Jackie steps up to bat.]
+<info>The crowd gasps as Jackie steps up to bat.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
 <character>UECKER</character>
 Would you look at that! College blernsball's 
@@ -1036,46 +1036,46 @@ female anything! I've never seen anything
 this bizzare - and I've seen Mr Belvendere 
 naked! Woo!
 
-[Cut to: Pitch.]
+<info>Cut to: Pitch.</info>
 
 <character>LEELA</character>
 (quietly) Keep cool, she's just like 
 any other player. She puts on her sports 
 bra one arm at a time.
 
-[She throws the ball and Jackie misses.]
+<info>She throws the ball and Jackie misses.</info>
 
 <character>UMPIRE</character>
 Strike one!
 
-[The crowd gasps. Leela gasps.]
+<info>The crowd gasps. Leela gasps.</info>
 
 <character>LEELA</character>
 Strike one - a personal best!
 
-[She throws again.]
+<info>She throws again.</info>
 
 <character>UMPIRE</character>
 Strike two!
 
-[Leela and Jackie wipe their brows.]
+<info>Leela and Jackie wipe their brows.</info>
 
-[Cut to: Bleachers. Hermes wipes his brow with a sponge, and 
-squeezes it into a file marked Ballpark Sweat.]
+<info>Cut to: Bleachers. Hermes wipes his brow with a sponge, and 
+squeezes it into a file marked Ballpark Sweat.</info>
 
-[Cut to: Pitch. Leela throws the ball, Jackie swings and hits 
-it. The elastic tightens and breaks.]
+<info>Cut to: Pitch. Leela throws the ball, Jackie swings and hits 
+it. The elastic tightens and breaks.</info>
 
-[Cut to: Bleachers. The crowd look up and gasp. While they aren't 
+<info>Cut to: Bleachers. The crowd look up and gasp. While they aren't 
 looking Bender chuckles and steals some drinks from the people 
-in front of him. Amy takes one too.]
+in front of him. Amy takes one too.</info>
 
-[Cut to: Pitch. The now free ball flies through the air and into 
+<info>Cut to: Pitch. The now free ball flies through the air and into 
 a target marked Hit It Here And Win The Game. The target lights 
 up, a bell rings, Jackie runs around the pitch, the giant rats 
-run out and the Slurm blimp crashes.]
+run out and the Slurm blimp crashes.</info>
 
-[Cut to: Commentary Box.]
+<info>Cut to: Commentary Box.</info>
 
 <character>UECKER</character>
 A grand slam blern. The Mets lose, their 
@@ -1084,8 +1084,8 @@ season is over! And no question, Leela
 majors will go down as the single worst 
 player in the history of blernsball...!
 
-[Cut to: Pitch. Leela walks sadly to the bench. Jackie jumps 
-around with joy and the Boston players lift her up.]
+<info>Cut to: Pitch. Leela walks sadly to the bench. Jackie jumps 
+around with joy and the Boston players lift her up.</info>
 
 <character>UECKER</character>
 (voice-over) ...And yet tonight we have 
@@ -1093,14 +1093,14 @@ witnessed the beginning of a great career
 for the first woman to play the sport 
 well - Jackie Anderson!
 
-[Cut to: Tunnel. Leela walks away from the celebrations hanging 
+<info>Cut to: Tunnel. Leela walks away from the celebrations hanging 
 her head in shame. Jackie pokes her head around the end of the 
-tunnel.]
+tunnel.</info>
 
 <character>JACKIE</character>
 Leela?
 
-[Leela turns around.]
+<info>Leela turns around.</info>
 
 <character>LEELA</character>
 Jackie. I guess you were right, I'm 
@@ -1127,17 +1127,17 @@ made a difference afterall!
 You absolutely did Leela. Now please, 
 please retire! Immediately!
 
-[She leaves. Leela looks at the towel around her neck.]
+<info>She leaves. Leela looks at the towel around her neck.</info>
 
 <character>LEELA</character>
 Hey kid! Catch!
 
-[Jackie turns around, Leela throws the towel and knocks Jackie 
-over.]
+<info>Jackie turns around, Leela throws the towel and knocks Jackie 
+over.</info>
 
-[Blernsball Hall Of Fame: Worst Player In History Exhibit. Aaron 
+<info>Blernsball Hall Of Fame: Worst Player In History Exhibit. Aaron 
 Jr looks at a cardboard stand-up of Leela, standing where he 
-used to sit. He sighs.]
+used to sit. He sighs.</info>
 
 <character>AARON SR</character>
 Well, at least you're still the worst 
@@ -1146,7 +1146,7 @@ football player of all time.
 <character>AARON JR</character>
 Yeah. Yeah.
 
-[He puts on his cap, turns out the lights and leaves.]
+<info>He puts on his cap, turns out the lights and leaves.</info>
 
 <info>THE END</info>
 </xml>

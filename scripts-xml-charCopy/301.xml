@@ -7,36 +7,36 @@ Episode 301
 <author>Ken Keeler</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Smell-O-Vision Users Insert Nostril 
-Tubes Now.]
+<info>Opening Credits. Caption: Smell-O-Vision Users Insert Nostril 
+Tubes Now.</info>
 
-[Old Building. A robot croaks and his arm shakes. He tries to 
+<info>Old Building. A robot croaks and his arm shakes. He tries to 
 clench his fist but is too weak and his arm falls beside him. 
 He is lying in an old four-poster bed. The room around him is 
 covered in cobwebs and lit by candles. A human butler stands 
 at one side of the bed and a Doctorbot and the Preacherbot stand 
 on the other side. The Doctorbot opens the old robot's chest 
 cabinet and inside a life-support machine beeps and stops. The 
-robot is dead. The Doctorbot closes the robot's eyes.]
+robot is dead. The Doctorbot closes the robot's eyes.</info>
 
 <character>DOCTORBOT</character>
 Notify his survivors.
 
-[Planet Express: Lounge.]
+<info>Planet Express: Lounge.</info>
 
 <character>BENDER</character>
 (singing) B-E-N-D-E-R! Be-ender!  B-E-N-D-E-R! 
 Be-ender! Sayin' B-E-N-D-<character>ERRR</character>...
 
-[Enter Hermes. He picks up a remote control and mutes Bender. 
-Bender carries on dancing, unaware.]
+<info>Enter Hermes. He picks up a remote control and mutes Bender. 
+Bender carries on dancing, unaware.</info>
 
 <character>HERMES</character>
 Mail call! Amy, here's your designer 
 lingerie catalogue, Fry, Sadie's Bra 
 Parade and Leela, Bulk Underpants Outlet.
 
-[Leela snatches the catalogue from him.]
+<info>Leela snatches the catalogue from him.</info>
 
 <character>LEELA</character>
 You buy one pound of underwear and you're 
@@ -49,7 +49,7 @@ envelope.
 <character>AMY</character>
 Oh no, someone you know must've died.
 
-[Bender takes the envelope and Hermes un-mutes him.]
+<info>Bender takes the envelope and Hermes un-mutes him.</info>
 
 <character>BENDER</character>
 I hope it was one of my enemies, those 
@@ -64,21 +64,21 @@ by the reading of his will.  Well, I'm
 rich. Goodbye, losers, whom I've always 
 hated!  C'mon, it'll be fun!
 
-[Somewhere In Eastern Europe. The Planet Express ship lands in 
+<info>Somewhere In Eastern Europe. The Planet Express ship lands in 
 a lightning storm. It gets caught in a huge cobweb between some 
-trees before landing on a landing pad near a small settlement.]
+trees before landing on a landing pad near a small settlement.</info>
 
-[Thermostadt. The crew walk into the capital of the Robo-Hungarian 
+<info>Thermostadt. The crew walk into the capital of the Robo-Hungarian 
 Empire. The town is populated by robots, dressed like 11th century 
-folk. Bender addresses a robot feeding a horse.]
+folk. Bender addresses a robot feeding a horse.</info>
 
 <character>BENDER</character>
 Uh, pardon me, my good simpleton, could 
 you take us to yon castle?
 
-[He points to a huge imposing castle on a mountain top. The townsfolk 
+<info>He points to a huge imposing castle on a mountain top. The townsfolk 
 mutter and run indoors. An old hunchbacked robot hobbles towards 
-the crew.]
+the crew.</info>
 
 <character>ROBOT #1</character>
 Some say unholy things happen up there.
@@ -100,39 +100,39 @@ Yes, you idiot.  The circuit diagram
 is right here on the inside of your 
 case.
 
-[The robot slams it shut.]
+<info>The robot slams it shut.</info>
 
 <character>ROBOT #2</character>
 I choose to believe what I was programmed 
 to believe.
 
-[Mountain. A hover-carriage pulled by two horses skids around 
+<info>Mountain. A hover-carriage pulled by two horses skids around 
 a corner on a narrow mountain pass. It stops suddenly. Bender 
-peeps out of the window.]
+peeps out of the window.</info>
 
 <character>ROBOT #2</character>
 I will go this far and no further.
 
-[They are right outside the front door of the castle.]
+<info>They are right outside the front door of the castle.</info>
 
-[Castle Cemetery. The crew and Vladimir's other relatives stand 
+<info>Castle Cemetery. The crew and Vladimir's other relatives stand 
 in the cemetery which is populated by such robots as Blimpf, 
 Hovermayor of Thermostadt ("I Will Rise Again") and The Red LeBaron. 
 Vladimir's gravestone has "Vladimir 2790-3001. Efficient Father 
-And Husband" engraved on it.]
+And Husband" engraved on it.</info>
 
 <character>PREACHERBOT</character>
 I now commend Vladimir's remains to 
 the earth. Filings to filings; rust 
 to rust.
 
-[Four pallbearerbots carry Vladimir's body towards the grave, 
+<info>Four pallbearerbots carry Vladimir's body towards the grave, 
 package his body in polystyrene and a cardboard box, stamp "Return 
 To Sender" on it and place it in the ground. A Fembot weeps and 
-Preacherbot fills the hole.]
+Preacherbot fills the hole.</info>
 
-[Execu-tor &amp; Prosecutron Solicitors. Everyone is gathered for 
-the reading of the will.]
+<info>Execu-tor &amp; Prosecutron Solicitors. Everyone is gathered for 
+the reading of the will.</info>
 
 <character>SOLICITORBOT</character>
 (reading) To my loyal butler, You There, 
@@ -143,7 +143,7 @@ son, Tandy, who never learned the value
 of a dollar, I leave my entire $10 million 
 fortune.
 
-[Tandy leans over to his wife.]
+<info>Tandy leans over to his wife.</info>
 
 <character>TANDY</character>
 (whispering) Is that a lot?
@@ -163,8 +163,8 @@ one night within its walls.
 <character>BENDER</character>
 Oh man, there's always a catch.
 
-[Castle Dining Room. The crew sit around a long table. Lightning 
-still crackles outside. Bender sips from a glass.]
+<info>Castle Dining Room. The crew sit around a long table. Lightning 
+still crackles outside. Bender sips from a glass.</info>
 
 <character>BENDER</character>
 Ah! I got a good vibe from this place: 
@@ -172,18 +172,18 @@ Nice long dinner table, quiet, well-behaved
 spiders, graveyard-adjacent. Yep! It's 
 gonna be -
 
-[He drops his glass and screams.]
+<info>He drops his glass and screams.</info>
 
 <character>LEELA</character>
 What is it?
 
-[Bender peeps over the top of the table and points.]
+<info>Bender peeps over the top of the table and points.</info>
 
 <character>BENDER</character>
 That painting, the eyes are watching 
 me!
 
-[Farnsworth walks towards a portrait of Commodore <character>LXIV</character>.]
+<info>Farnsworth walks towards a portrait of Commodore <character>LXIV</character>.</info>
 
 <character>FARNSWORTH</character>
 Hmm.  It has motor eye sensors attached 
@@ -197,10 +197,10 @@ What's that?
 <character>ZOIDBERG</character>
 I don't know, but it's infectious!
 
-[He laughs.]
+<info>He laughs.</info>
 
-[Castle Parlour. The crew sit in front of a roaring fire in an 
-old parlour. Bender's teeth chatter together.]
+<info>Castle Parlour. The crew sit in front of a roaring fire in an 
+old parlour. Bender's teeth chatter together.</info>
 
 <character>BENDER</character>
 No doubt about it, this place is haunted.
@@ -212,9 +212,9 @@ over 200 years ago.
 <character>BENDER</character>
 The last human ghost. But robot ghosts?
 
-[He shudders. The Windows music plays again. Bender gasps and 
+<info>He shudders. The Windows music plays again. Bender gasps and 
 points at some blood-red numbers appearing on a wall. Leela and 
-Amy turn around.]
+Amy turn around.</info>
 
 <character>LEELA</character>
 (reading) 0101100101. (talking) What 
@@ -223,11 +223,11 @@ does it mean?
 <character>BENDER</character>
 It's just gibberish.  (reading) 1010011010?!
 
-[He screams and runs out of the room.]
+<info>He screams and runs out of the room.</info>
 
-[Cut to: Castle Corridor. He runs down the corridor being chased 
+<info>Cut to: Castle Corridor. He runs down the corridor being chased 
 by a ghostly toaster with wings and the Windows logo. He runs 
-around a corner and gasps.]
+around a corner and gasps.</info>
 
 <character>BENDER</character>
 Uncle Vladimir!
@@ -238,17 +238,17 @@ Come, Bender. You'll like being dead!
 <character>BENDER</character>
 That's what they said about being alive.
 
-[Some robot ghosts appear from paintings on the wall.]
+<info>Some robot ghosts appear from paintings on the wall.</info>
 
 <character>ROBOT GHOSTS</character>
 (chanting) Join us! Join us! Join us, 
 Bender!
 
-[Bender screams and runs away. Again.]
+<info>Bender screams and runs away. Again.</info>
 
-[Cut to: Castle Cemetery. The crew are digging up the graves 
+<info>Cut to: Castle Cemetery. The crew are digging up the graves 
 of other robots. Fry hands Leela the toaster that chased Bender. 
-Farnsworth dusts of a piece of sparking equipment.]
+Farnsworth dusts of a piece of sparking equipment.</info>
 
 <character>FARNSWORTH</character>
 Just as I suspected. These robots were 
@@ -267,28 +267,28 @@ perfect sense. We really should tell
 Bender there's nothing to be afraid 
 of.
 
-[Bender runs, screaming, through the middle of the group and 
-out onto the moors.]
+<info>Bender runs, screaming, through the middle of the group and 
+out onto the moors.</info>
 
-[Cut to: Moors. Bender stops running and leans against a wall 
+<info>Cut to: Moors. Bender stops running and leans against a wall 
 as he catches his breath. He jumps and turns around. Behind him, 
 two lights light up. They are the headlights on a car. It races 
-towards him.]
+towards him.</info>
 
 <character>BENDER</character>
 (screaming) No!
 
-[The car hits him and Bender goes flying, landing on the ground 
-unconscious. The car howls at the moon and honks.]
+<info>The car hits him and Bender goes flying, landing on the ground 
+unconscious. The car howls at the moon and honks.</info>
 
-[Time Lapse. The next morning the crew find Bender in a crumpled 
-mess on the floor.]
+<info>Time Lapse. The next morning the crew find Bender in a crumpled 
+mess on the floor.</info>
 
 <character>FRY</character>
 Bender, wake up!  He's OK! Quick, does 
 anyone have any liquor?
 
-[Everyone offers him some. Bender takes a hip flask from Amy.]
+<info>Everyone offers him some. Bender takes a hip flask from Amy.</info>
 
 <character>LEELA</character>
 Bender, what happened?
@@ -309,18 +309,18 @@ amount.
 <character>AMY</character>
 Maybe he's right, look at these tracks.
 
-[She points at some tyre tracks. Bender screams.]
+<info>She points at some tyre tracks. Bender screams.</info>
 
 <character>LEELA</character>
 I think Bender may be telling the truth.]
 
-[The other five scream.]
+<info>The other five scream.</info>
 
-[The ship flies back to New New York City later that night.]
+<info>The ship flies back to New New York City later that night.</info>
 
-[Planet Express: Lounge. The next morning, Bender staggers into 
+<info>Planet Express: Lounge. The next morning, Bender staggers into 
 the lounge, where the rest of the crew already are. His eyes 
-are bloodshot.]
+are bloodshot.</info>
 
 <character>ZOIDBERG</character>
 Bender, you look awful. I prescribe 
@@ -337,7 +337,7 @@ Many people dream of a fresh, new look.
 And Mary Kay can make those dreams come 
 true.
 
-[Enter Leela.]
+<info>Enter Leela.</info>
 
 <character>LEELA</character>
 Look at this. They found those same 
@@ -345,7 +345,7 @@ rubbery tracks right here in New New
 York.  There was a hit-and-run by the 
 robot porno theatre.
 
-[Bender gasps.]
+<info>Bender gasps.</info>
 
 <character>BENDER</character>
 Robot porno theatre? I was in that...general 
@@ -362,9 +362,9 @@ baby.
 Yeah?! Could a big, hallucinating baby 
 do this: (crying) I scared!
 
-[New New York Street. A grey car drives across rooftops and down 
+<info>New New York Street. A grey car drives across rooftops and down 
 the transport tubes. In an alley two vandals smash up a car with 
-a blernsball bat and a crowbar. One laughs.]
+a blernsball bat and a crowbar. One laughs.</info>
 
 <character>VANDAL #1</character>
 I don't know which I like more: Smashing 
@@ -375,43 +375,43 @@ Well. lucky you don't gotta decide tonight.
 No come on, we got church tomorrow. 
 Did you hear something?
 
-[They both look around then carry on walking.]
+<info>They both look around then carry on walking.</info>
 
 <character>VANDAL #1</character>
 Ah, it was probably just a golden marmoset.
 
-[The car revs it's engine.]
+<info>The car revs it's engine.</info>
 
 <character>VANDAL #2</character>
 That don't sound like any golden marmoset 
 I ever heard.
 
-[They run into a building called The Squatterly.]
+<info>They run into a building called The Squatterly.</info>
 
-[Cut to: The Squatterly. They close the door behind them, catch 
-their breath and high-five.]
+<info>Cut to: The Squatterly. They close the door behind them, catch 
+their breath and high-five.</info>
 
 <character>VANDAL #1</character>
 Made it!
 
-[Vandal #2 presses the elevator button.]
+<info>Vandal #2 presses the elevator button.</info>
 
 <character>VANDAL #2</character>
 So anyway, what're you wearing tomorrow?
 
-[The elevator doors open. The car is in there. The vandals scream.]
+<info>The elevator doors open. The car is in there. The vandals scream.</info>
 
-[Cut to: New New York Street. The car's honk and howl echoes 
-around the city.]
+<info>Cut to: New New York Street. The car's honk and howl echoes 
+around the city.</info>
 
-[Impound Lot 136. The next morning Bender wakes up in a puddle 
-of oil. He groans and wipes some oil from his mouth.]
+<info>Impound Lot 136. The next morning Bender wakes up in a puddle 
+of oil. He groans and wipes some oil from his mouth.</info>
 
 <character>BENDER</character>
 Where...? What the...?  Transmission 
 fluid? Where have I been? What happened?
 
-[Sal kicks him.]
+<info>Sal kicks him.</info>
 
 <character>SAL</character>
 Get outta here, yous lazy bum!
@@ -424,8 +424,8 @@ We're all scared, it's the human condition.
 Why do you thinks I put on this tough-guy 
 facade? Now beat it!
 
-[Planet Express: Lounge. Bender recounts his tale to Fry and 
-Leela.]
+<info>Planet Express: Lounge. Bender recounts his tale to Fry and 
+Leela.</info>
 
 <character>BENDER</character>
 I passed out around midnight, which 
@@ -433,7 +433,7 @@ is much earlier that usual, and when
 I woke up, I found these in my chest 
 cabinet.
 
-[He pulls out some fluffy dice.]
+<info>He pulls out some fluffy dice.</info>
 
 <character>FRY</character>
 Aw, relax buddy. You were probably just 
@@ -444,7 +444,7 @@ No, I think I may have hurt someone.
 Oh Lord, I'm on the verge of a nervous 
 meltdown.
 
-[He bangs his head.]
+<info>He bangs his head.</info>
 
 <character>FRY</character>
 Geez Bender, you're scaring me. You're 
@@ -454,13 +454,13 @@ going wacko!
 You're right, I need professional help. 
 And damn the expense.
 
-[Carnival. Bender's "professional help" is a Circus Fortune-teller 
-machine which costs 5c.]
+<info>Carnival. Bender's "professional help" is a Circus Fortune-teller 
+machine which costs 5c.</info>
 
 <character>BENDER</character>
 Damn the expense!
 
-[He puts 5c in and the gypsy lights up.]
+<info>He puts 5c in and the gypsy lights up.</info>
 
 <character>GYPSY</character>
 My friend, you have nothing to worry 
@@ -473,7 +473,7 @@ Phew!
 <character>GYPSY</character>
 For, you see, you are a were-car.
 
-[Fry, Leela and Bender gasp.]
+<info>Fry, Leela and Bender gasp.</info>
 
 <character>BENDER</character>
 A were-car?
@@ -504,15 +504,15 @@ a terrible price.
 <character>BENDER</character>
 Yeah, yeah, yeah.
 
-[He puts another 5c in.]
+<info>He puts another 5c in.</info>
 
 <character>GYPSY</character>
 Follow me.
 
-[She walks off.]
+<info>She walks off.</info>
 
-[Gypsy's Caravan. She reads Curse Of The Were-Car. For Windows 
-98.]
+<info>Gypsy's Caravan. She reads Curse Of The Were-Car. For Windows 
+98.</info>
 
 <character>GYPSY</character>
 According to this ancient read-me file, 
@@ -534,7 +534,7 @@ Otherwise, I can never die?
 Who said that? Sure you can die. You 
 want to die?
 
-[She points a laser at him.]
+<info>She points a laser at him.</info>
 
 <character>BENDER</character>
 No! I wanna live! There's still too 
@@ -546,7 +546,7 @@ your attacks will become more gruesome
 until, one dark night you are doomed 
 to kill your dearest friend.
 
-[Fry gulps.]
+<info>Fry gulps.</info>
 
 <character>FRY</character>
 I wouldn't wanna be me right now.
@@ -555,10 +555,10 @@ I wouldn't wanna be me right now.
 Now go! Go!  Uh, could one of you just...? 
 Ah, forget it. I'll just sleep here.
 
-[She starts to snore and the others leave.]
+<info>She starts to snore and the others leave.</info>
 
-[Fry and Bender's Lounge. Leela finishes welding Bender to the 
-wall.]
+<info>Fry and Bender's Lounge. Leela finishes welding Bender to the 
+wall.</info>
 
 <character>LEELA</character>
 There. No rampaging for you tonight.
@@ -576,34 +576,34 @@ ancient evil.
 <character>FRY</character>
 It'll be a rich, full day.
 
-[Outside Robot Arms Apartments. Fry and Leela leave the building.]
+<info>Outside Robot Arms Apartments. Fry and Leela leave the building.</info>
 
 <character>LEELA</character>
 Well, goodnight. I'm gonna go make my 
 dinners for the next month and freeze 
 them.
 
-[The two part company. Above them, the huge digital clock displays 
-11:58:48, 49, 50, 51, 52...]
+<info>The two part company. Above them, the huge digital clock displays 
+11:58:48, 49, 50, 51, 52...</info>
 
-[Cut to: Fry and Bender's Lounge. Bender stirs in his sleep. 
+<info>Cut to: Fry and Bender's Lounge. Bender stirs in his sleep. 
 His internal clock reaches midnight and the were-car routine 
 begins. He wakes up. His arm turns into a wheel, as do his other 
 limbs. He falls from the wall and his casing forces itself into 
 the shape of a car chasis. His head stretches and his eyes turn 
-into headlights. They light up and the engine purrs.]
+into headlights. They light up and the engine purrs.</info>
 
-[Cut to: Robot Arms Apartments Corridor. The Bender-car bursts 
-through the wall and drives down the corridor.]
+<info>Cut to: Robot Arms Apartments Corridor. The Bender-car bursts 
+through the wall and drives down the corridor.</info>
 
-[Cut to: Outside Robot Arms Apartments. Bender smashes through 
+<info>Cut to: Outside Robot Arms Apartments. Bender smashes through 
 the front doors and speeds off down the street. He howls and 
-honks at the moon.]
+honks at the moon.</info>
 
-[Cut to: New New York Street. Leela walks through the deserted 
+<info>Cut to: New New York Street. Leela walks through the deserted 
 city and gulps when she hears the honking. Fry turns as he hears 
 it. Leela walks around a corner and comes to face to face with 
-the Bender-car. She dives out of the way. Fry appears.]
+the Bender-car. She dives out of the way. Fry appears.</info>
 
 <character>FRY</character>
 (shouting) Bender, no!
@@ -611,22 +611,22 @@ the Bender-car. She dives out of the way. Fry appears.]
 <character>LEELA</character>
 (shouting) Fry, stay back!
 
-[Bender tears after her. He chases her into an alley and she 
-comes to a dead end.]
+<info>Bender tears after her. He chases her into an alley and she 
+comes to a dead end.</info>
 
 <character>FRY</character>
 (shouting) You jerk. I thought I was 
 your best friend. What kind of two-timing 
 kill-mobile are you?
 
-[Bender drives at Leela and she screams. She runs through a gap 
-in the fence and into a junkyard.]
+<info>Bender drives at Leela and she screams. She runs through a gap 
+in the fence and into a junkyard.</info>
 
-[Cut to: Park Avenue Junk. Leela jumps onto a mattress and springs 
+<info>Cut to: Park Avenue Junk. Leela jumps onto a mattress and springs 
 out of Bender's way. Bender crashes into some rubbish. He shakes 
 it off and looks around for Leela. Leela drives up behind him 
 in a crane and lifts him up with the grabber. Bender growls and 
-honks.]
+honks.</info>
 
 <character>FRY</character>
 I can't believe this. Bender is supposed 
@@ -642,9 +642,9 @@ Bender crushed my foot.
 <character>FRY</character>
 Stop rubbing it in.
 
-[Time Lapse. The next morning Bender is nearly back to normal, 
+<info>Time Lapse. The next morning Bender is nearly back to normal, 
 though his right arm is still a wheel. He wakes up, screams and 
-shakes it back to normal. Leela lowers him to the ground.]
+shakes it back to normal. Leela lowers him to the ground.</info>
 
 <character>BENDER</character>
 Oh God. Fry, I'm so glad to see you. 
@@ -674,9 +674,9 @@ we're gonna cure Bender we've got to
 go back to the castle and hunt down 
 the original were-car.
 
-[Thermostadt. The ship lands outside the town and Fry, Bender 
+<info>Thermostadt. The ship lands outside the town and Fry, Bender 
 and Leela walk through the street. The robots make the sign of 
-the cross but the crew take no notice.]
+the cross but the crew take no notice.</info>
 
 <character>FRY</character>
 Yeah, yeah, yeah.
@@ -687,8 +687,8 @@ Cursed, got it.
 <character>BENDER</character>
 Whatever.
 
-[Outside Old Shack. The trio follow some tyre tracks to the garage 
-door of a rickety, old shack.]
+<info>Outside Old Shack. The trio follow some tyre tracks to the garage 
+door of a rickety, old shack.</info>
 
 <character>LEELA</character>
 The tracks lead here.
@@ -706,19 +706,19 @@ are stupid and violent.
 violent. Then we'd see what's what, 
 I'd pound him till -
 
-[He screams and someone rams a pitchfork at him.]
+<info>He screams and someone rams a pitchfork at him.</info>
 
 <character>YOKELBOT</character>
 Get ye to your house, ye ignorant villagers.
 
-[He pokes Bender with his pitchfork.]
+<info>He pokes Bender with his pitchfork.</info>
 
 <character>LEELA</character>
 We are not ignorant villagers, we're 
 sophisticated New New Yorkers. Whup 
 his butt!
 
-[They dive on the robot and punch him.]
+<info>They dive on the robot and punch him.</info>
 
 <character>YOKELBOT</character>
 Stop! What are ye doing?
@@ -738,15 +738,15 @@ Nee. I mean, "no". I was given the curse
 many a year ago while on a bird-watching 
 trip to the Arctic...
 
-[Arctic. The ship cruises over the icy land, lands and skids 
-to a stop outside an igloo.]
+<info>Arctic. The ship cruises over the icy land, lands and skids 
+to a stop outside an igloo.</info>
 
 <character>YOKELBOT</character>
 (voice-over) ...I was attacked by a 
 vicious, motorised sled. The natives 
 called it the abominable snowmobile.
 
-[Igloo. The crew sit with an Inuitbot.]
+<info>Igloo. The crew sit with an Inuitbot.</info>
 
 <character>INUITBOT</character>
 Yes, it's true. I ran over that bird-watching 
@@ -757,7 +757,7 @@ friend from aromatherapy school.
 I once had a best friend who liked to 
 smell things with me.
 
-[He glares at Bender.]
+<info>He glares at Bender.</info>
 
 <character>INUITBOT</character>
 Alas, I'm afraid I'm not the original 
@@ -765,13 +765,13 @@ were-car. I received the curse while
 taking a learning annex class from a 
 famous robot actor.
 
-[Outside All My Cicuits Soundstage. The crew go in.]
+<info>Outside All My Cicuits Soundstage. The crew go in.</info>
 
 <character>INUITBOT</character>
 (voice-over) You know him as Calculon.
 
-[Calculon's Dressing Room. Calculon is dressed in period costume. 
-He dabs himself with Silver Pancake and Iron Blush.]
+<info>Calculon's Dressing Room. Calculon is dressed in period costume. 
+He dabs himself with Silver Pancake and Iron Blush.</info>
 
 <character>CALCULON</character>
 (dramatically) Oh, fate most cruel, 
@@ -814,7 +814,7 @@ Give us a name MacButt!
 The year was 2019, and I was just a 
 lowly robot arm...
 
-[Flashback. 2019 - Car Factory.]
+<info>Flashback. 2019 - Car Factory.</info>
 
 <character>CALCULON</character>
 (voice-over) ...working in an automotive 
@@ -827,7 +827,7 @@ car, the left-turn signal from Charles
 Manson's VW, the windshield from that 
 car that played Knight Rider.
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
 <character>FRY</character>
 Knight Rider wasn't evil.
@@ -836,7 +836,7 @@ Knight Rider wasn't evil.
 His windshield wipers were. It didn't 
 come up much in the show though. Anyway...
 
-[Flashback. 2019 - Car Factory.]
+<info>Flashback. 2019 - Car Factory.</info>
 
 <character>CALCULON</character>
 (voice-over) ...Only after bringing 
@@ -844,44 +844,44 @@ Project Satan to life did they discover
 they had made a horrible mistake.  For 
 you see, it was pure evil.
 
-[Project Satan's headlight light up and it rams Calculon. It 
-honks and howls.]
+<info>Project Satan's headlight light up and it rams Calculon. It 
+honks and howls.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
 <character>LEELA</character>
 So what happened to Project Satan?
 
-[Paris. Bender. Leela and Fry stand near the Eiffel Tower looking 
-around.]
+<info>Paris. Bender. Leela and Fry stand near the Eiffel Tower looking 
+around.</info>
 
 <character>CALCULON</character>
 (voice-over) It's either in Paris, or 
 much more likely...
 
-[Outside Chrysler Factory.]
+<info>Outside Chrysler Factory.</info>
 
 <character>CALCULON</character>
 (voice-over) ...still in the abandoned 
 automotive lab.
 
-[The Planet Express ship lands outside the building. Someone 
-has sprayed "Anti" in front of "Chrysler".]
+<info>The Planet Express ship lands outside the building. Someone 
+has sprayed "Anti" in front of "Chrysler".</info>
 
-[Chrysler Factory. Rats run around the deserted building. Leela, 
-Bender and Fry open the door and walk in.]
+<info>Chrysler Factory. Rats run around the deserted building. Leela, 
+Bender and Fry open the door and walk in.</info>
 
 <character>LEELA</character>
 You guys distract the were-car and I'll 
 kill it by plugging its exhaust pipe 
 with this silver potato.
 
-[Time Lapse. The crew peer over a pile of debris.]
+<info>Time Lapse. The crew peer over a pile of debris.</info>
 
 <character>BENDER</character>
 (whispering) Psst, there it is.
 
-[Project Satan is parked next to a furnace, sobbing.]
+<info>Project Satan is parked next to a furnace, sobbing.</info>
 
 <character>LEELA</character>
 It looks so unhappy. Excuse me? Are 
@@ -904,8 +904,8 @@ squirt out like chunky mustard.
 Look, everyone love killing people, 
 but I don't wanna hurt my friends.
 
-[He puts his arms around Fry and Leela. Fry walks off in a huff. 
-A bell rings 12 outside. Bender's arms turn into wheels.]
+<info>He puts his arms around Fry and Leela. Fry walks off in a huff. 
+A bell rings 12 outside. Bender's arms turn into wheels.</info>
 
 <character>LEELA</character>
 Oh no! It's midnight.
@@ -914,8 +914,8 @@ Oh no! It's midnight.
 Hey, this is starting to feel pretty 
 good!
 
-[His legs morph into wheels and he and Project Satan laugh. Project 
-Satan turns to Fry and Leela.]
+<info>His legs morph into wheels and he and Project Satan laugh. Project 
+Satan turns to Fry and Leela.</info>
 
 <character>LEELA</character>
 Fry, distract him.
@@ -924,7 +924,7 @@ Fry, distract him.
 Hey, Project Satan! Over here! I'm 
 a blind pedestrian. 20 points!
 
-[Project Satan chases Fry and Leela grabs hold of its back bumper.]
+<info>Project Satan chases Fry and Leela grabs hold of its back bumper.</info>
 
 <character>LEELA</character>
 Oh no, there's no exhaust pipe!
@@ -939,7 +939,7 @@ one you want.
 Oh boy, I feel like a car in a candy 
 store!
 
-[He chooses Fry and tries to ram him. Fry runs away.]
+<info>He chooses Fry and tries to ram him. Fry runs away.</info>
 
 <character>FRY</character>
 (gasping) Yes! He chose me! He's trying 
@@ -947,14 +947,14 @@ to kill me! Leela, I'm so happy!  (talking)
 Oh, thanks Bender.  (choking) Too tight! 
 Too tight!
 
-[Bender's steering wheel starts hitting Fry in the face. Project 
+<info>Bender's steering wheel starts hitting Fry in the face. Project 
 Satan chases Leela into a crash test area and up a huge ramp. 
-She dives off the end of it.]
+She dives off the end of it.</info>
 
 <character>LEELA</character>
 Whoa!
 
-[Project Satan screams as he flies over several yellow school 
+<info>Project Satan screams as he flies over several yellow school 
 buses. Bender drives up the other ramp and he, Project Satan 
 and Fry scream as they fly past each other. Project Satan drives 
 down the other ramp and laughs, then screams as it realises it 
@@ -962,13 +962,13 @@ is about to go face-first into a very, very, very, very, very
 hot furnace. It slams its brakes on but doesn't stop in time. 
 It lands in the furnace and melts. It's headlight flash purple. 
 Bender's antenna beeps as the were-car program uninstalls itself. 
-He starts turning back into his normal self.]
+He starts turning back into his normal self.</info>
 
 <character>BENDER</character>
 Uh-oh.
 
-[He runs down the other ramp and falls over, back to his old 
-robot self.]
+<info>He runs down the other ramp and falls over, back to his old 
+robot self.</info>
 
 <character>LEELA</character>
 Bender, you're cured! But what happened 
@@ -979,7 +979,7 @@ to Fry?
 my best friend and I killed him. I never 
 felt so empty inside.
 
-[His door opens. Fry is inside.]
+<info>His door opens. Fry is inside.</info>
 
 <character>FRY</character>
 Bender, I'm alive!  You didn't hurt 
@@ -987,19 +987,19 @@ me at all. But I know you wanted to,
 and that's what matters.  Here's to 
 you.
 
-[He drinks.]
+<info>He drinks.</info>
 
 <character>BENDER</character>
 Hey, that's my last beer, you bastard. 
 I'll kill you!
 
-[Fry raises his bottle.]
+<info>Fry raises his bottle.</info>
 
 <character>FRY</character>
 I'll kill you too, buddy. I'll kill 
 you too!
 
-[Bender starts to choke him.]
+<info>Bender starts to choke him.</info>
 
 <info>THE END</info>
 </xml>

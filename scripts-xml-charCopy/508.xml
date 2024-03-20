@@ -7,12 +7,12 @@ Episode 508
 <author>David X. Cohen</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Dancing Space Potatoes? You Bet!]
+<info>Opening Credits. Caption: Dancing Space Potatoes? You Bet!</info>
 
-[Planet Express: Meeting Room. Zoidberg is sitting in a bathtub 
+<info>Planet Express: Meeting Room. Zoidberg is sitting in a bathtub 
 while Amy is sat at the table reading a book called Martians 
 Are From Mars, Venusians Are From Venus. Enter Fry wearing a 
-spacesuit.]
+spacesuit.</info>
 
 <character>FRY</character>
 Delivery boy Philip J. Fry reporting 
@@ -21,8 +21,8 @@ for duty.
 <character>ZOIDBERG</character>
 Dr Zoidberg, soaking in brine.
 
-[He relaxes and blows brine through his blowhole. It splatters 
-on Amy who barely reacts.]
+<info>He relaxes and blows brine through his blowhole. It splatters 
+on Amy who barely reacts.</info>
 
 <character>FRY</character>
 What is the meaning of this? We've got 
@@ -33,7 +33,7 @@ interesting. Dr Zoidberg, mission bag?
 <character>ZOIDBERG</character>
 Packed and ready sir.
 
-[Fry takes the brown bag from him. Fry takes something out.]
+<info>Fry takes the brown bag from him. Fry takes something out.</info>
 
 <character>FRY</character>
 What's this? This is the same toy surprise 
@@ -41,7 +41,7 @@ I got last time!  I can't work under
 these conditions. And without me there 
 is no mission. I am the mission!
 
-[The ship lands behind him and Bender and Leela walk out.]
+<info>The ship lands behind him and Bender and Leela walk out.</info>
 
 <character>LEELA </character>(<character>SHOUTING</character>)
 We're back from the mission!
@@ -70,10 +70,10 @@ pulled together on this one.
 <character>BENDER</character>
 Woo-hoo!
 
-[He and Leela bump each other. Fry looks on sadly.]
+<info>He and Leela bump each other. Fry looks on sadly.</info>
 
-[Planet Express: Locker Area. Leela blow dries her hair and Bender 
-brushes his eyes with a toothbrush. Fry sits on the bench sadly.]
+<info>Planet Express: Locker Area. Leela blow dries her hair and Bender 
+brushes his eyes with a toothbrush. Fry sits on the bench sadly.</info>
 
 <character>FRY</character>
 I'm real sorry I missed the mission. 
@@ -118,7 +118,7 @@ last week. He's the mayor's aide.
 <character>BENDER</character>
 Ooo, you go mutant girl!
 
-[He whips her with his towel.]
+<info>He whips her with his towel.</info>
 
 <character>LEELA</character>
 I do go! He's a very important man.
@@ -129,10 +129,10 @@ just that, the kind of importance I
 have, it doesn't matter if I...don't 
 do it.
 
-[He slopes over sadly. Bender hangs his towel over him.]
+<info>He slopes over sadly. Bender hangs his towel over him.</info>
 
-[Planet Express: Lounge. Bender and Fry sit on the couch. Fry 
-sighs and strokes Nibbler.]
+<info>Planet Express: Lounge. Bender and Fry sit on the couch. Fry 
+sighs and strokes Nibbler.</info>
 
 <character>FRY</character>
 I'm nobody. There are guys in the background 
@@ -152,10 +152,10 @@ Um, <character>OK</character>. Let's go bowling.
 <character>BENDER</character>
 Nah.
 
-[He puts his feet up and turns the TV on.]
+<info>He puts his feet up and turns the TV on.</info>
 
-[Elzar's Fine Cuisine Entrance. Enter Leela and her date Chaz. 
-Enter Elzar.]
+<info>Elzar's Fine Cuisine Entrance. Enter Leela and her date Chaz. 
+Enter Elzar.</info>
 
 <character>ELZAR</character>
 Table for two? Step right this way.
@@ -165,14 +165,14 @@ I'm afraid we don't have a reservation
 but uh, as you can see......I'm the 
 mayor's aide. Table for two please.
 
-[Elzar stares, confused.]
+<info>Elzar stares, confused.</info>
 
 <character>ELZAR</character>
 OK then.
 
-[Cut to: Elzar's Fine Cuisine Restaurant. Elzar seats Chaz and 
+<info>Cut to: Elzar's Fine Cuisine Restaurant. Elzar seats Chaz and 
 Leela. Two chef's run out from the kitchen chasing a cockroach. 
-It runs onto a table and Elzar whacks it with a piece of bread.]
+It runs onto a table and Elzar whacks it with a piece of bread.</info>
 
 <character>ELZAR</character>
 Bam!
@@ -193,10 +193,10 @@ there anything you can't do?
 <character>CHAZ</character>
 I can't fail the mayor, not ever.
 
-[Leela sighs, lovestruck.]
+<info>Leela sighs, lovestruck.</info>
 
-[O'Zorgnax's Pub. Fry sits at a table, lonely. He sees Leela 
-and Chaz walk in.]
+<info>O'Zorgnax's Pub. Fry sits at a table, lonely. He sees Leela 
+and Chaz walk in.</info>
 
 <character>FRY</character>
 Oh jeez, better not let Leela see me.
@@ -215,7 +215,7 @@ I might not make it back to my apartment
 tonight! Could you walk Nibbler for 
 me?
 
-[She hands him her key.]
+<info>She hands him her key.</info>
 
 <character>FRY</character>
 Um..uh...
@@ -224,14 +224,14 @@ Um..uh...
 And bring a baggy in case he drops a 
 steamer. (shouting) Have a great night!
 
-[Street. Fry walks down the empty street with Nibbler. Nibbler 
-spies a lamppost and starts sniffing around it.]
+<info>Street. Fry walks down the empty street with Nibbler. Nibbler 
+spies a lamppost and starts sniffing around it.</info>
 
 <character>FRY</character>
 Oh no, please, no!  Perfect!
 
-[Fry puts the bag over his hand and tries to lift the dark matter. 
-He struggles. Smitty and <character>URL</character> approach him.]
+<info>Fry puts the bag over his hand and tries to lift the dark matter. 
+He struggles. Smitty and <character>URL</character> approach him.</info>
 
 <character>SMITTY</character>
 Whoa, smells like a 289 in progress!
@@ -239,14 +239,14 @@ Whoa, smells like a 289 in progress!
 <character>URL</character>
 Failure to scoop, aw yeah!
 
-[He prints off a ticket.]
+<info>He prints off a ticket.</info>
 
 <character>FRY</character>
 Wait, I'm trying. It weighs as much 
 as a thousand suns!
 
-[He struggles with it some more. <character>URL</character> hands him the ticket. Chaz's 
-car pulls up beside them.]
+<info>He struggles with it some more. <character>URL</character> hands him the ticket. Chaz's 
+car pulls up beside them.</info>
 
 <character>CHAZ</character>
 Don't worry Fry, I'll pull some strings. 
@@ -255,21 +255,21 @@ See if I can't get you tried as a juvenile!
 <character>LEELA</character>
 Oh Chaz!
 
-[She hugs him and they drive off. Fry sighs.]
+<info>She hugs him and they drive off. Fry sighs.</info>
 
-[Alley.]
+<info>Alley.</info>
 
 <character>FRY</character>
 I'm as worthless as this trashcan.
 
-[He kicks it over and sits down against a wall.]
+<info>He kicks it over and sits down against a wall.</info>
 
 <character>TRASHCAN</character>
 You think I'm as worthless as you? Try 
 catching garbage in your head and raising 
 six kids you dumb townie!
 
-[It rolls away. Garbage falls on Fry from a chute above him.]
+<info>It rolls away. Garbage falls on Fry from a chute above him.</info>
 
 <character>FRY</character>
 Oh Nibbler, at least I'm important to 
@@ -280,7 +280,7 @@ up you poop.
 The poop eradication is but one aspect 
 of your importance.
 
-[Fry nods then realises Nibbler has just spoken. He screams.]
+<info>Fry nods then realises Nibbler has just spoken. He screams.</info>
 
 <character>FRY</character>
 D-d-did you just talk?
@@ -292,10 +292,10 @@ as well.
 <character>FRY</character>
 Like what?
 
-[He punches Fry and knocks him unconcious.]
+<info>He punches Fry and knocks him unconcious.</info>
 
-[Time Lapse. Nibbler pulls his spaceship out from its hideaway 
-and drags the still unconcious Fry into it. He comes around.]
+<info>Time Lapse. Nibbler pulls his spaceship out from its hideaway 
+and drags the still unconcious Fry into it. He comes around.</info>
 
 <character>FRY</character>
 Are you my mommy?
@@ -303,12 +303,12 @@ Are you my mommy?
 <character>NIBBLER</character>
 Negative.
 
-[He closes the roof and takes off.]
+<info>He closes the roof and takes off.</info>
 
-[Planet Eternium. Nibbler lands his ship outside the Hall Of 
-Eternity.]
+<info>Planet Eternium. Nibbler lands his ship outside the Hall Of 
+Eternity.</info>
 
-[Cut to: Hall Of Eternity.]
+<info>Cut to: Hall Of Eternity.</info>
 
 <character>FIONA</character>
 Welcome Lord Nibbler.
@@ -317,7 +317,7 @@ Welcome Lord Nibbler.
 Welcome acknowledged. I bring with me...the 
 Mighty One.
 
-[Fry wipes his nose on his sleeve.]
+<info>Fry wipes his nose on his sleeve.</info>
 
 <character>FRY</character>
 Eh?
@@ -329,7 +329,7 @@ of waiting have achieved fruition.
 <character>FRY</character>
 Aww, aren't you a fuzzy wittle guy?
 
-[He tickles Ken and he purrs.]
+<info>He tickles Ken and he purrs.</info>
 
 <character>KEN</character>
 Stop that! Uh...please. Your mightiness 
@@ -339,7 +339,7 @@ Stop that! Uh...please. Your mightiness
 Mightiness? Are you off your nut? I 
 just got kidnapped by a bunch of guineapigs.
 
-[The Nibblonians gasp and chatter.]
+<info>The Nibblonians gasp and chatter.</info>
 
 <character>KEN</character>
 Does he not know?
@@ -367,19 +367,19 @@ important person in the universe.
 <character>FRY</character>
 Oh snap!
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
 <character>NIBBLER</character>
 On this auspicious occasion, let the 
 Hall Of Eternity cut a thunderous blast.
 
-[A Nibblonian feebly blows a trumpet. The floor opens and animals 
-on plates rise up in front of the Nibblonians.]
+<info>A Nibblonian feebly blows a trumpet. The floor opens and animals 
+on plates rise up in front of the Nibblonians.</info>
 
 <character>FIONA</character>
 The Feast Of A Thousand Beasts is begun.
 
-[They tuck in. Fry leaves his zebra.]
+<info>They tuck in. Fry leaves his zebra.</info>
 
 <character>NIBBLONIAN</character>
 You gonna eat that?
@@ -387,16 +387,16 @@ You gonna eat that?
 <character>FRY</character>
 Maybe later.
 
-[The table sinks back into the floor.]
+<info>The table sinks back into the floor.</info>
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
 <character>KEN</character>
 The time has come to discuss matters 
 of the gravest importance.
 
-[He pushes a button and images of the Brainspawn from The Day 
-The Earth Stood Stupid appear on a screen.]
+<info>He pushes a button and images of the Brainspawn from The Day 
+The Earth Stood Stupid appear on a screen.</info>
 
 <character>NIBBLER</character>
 Fry, do you remember some months ago 
@@ -418,7 +418,7 @@ brain's mental attack.
 <character>FRY</character>
 Because I'm so smart?
 
-[The Nibblonians laugh.]
+<info>The Nibblonians laugh.</info>
 
 <character>KEN</character>
 Oh my. Anyway, your immunity is due 
@@ -444,7 +444,7 @@ when I'm drunk is correct?
 Yes. Except the Dave Matthews Band doesn't 
 rock.
 
-[Nibblonian Spacecraft.]
+<info>Nibblonian Spacecraft.</info>
 
 <character>KEN</character>
 For a thousand years, the evil brains 
@@ -495,23 +495,23 @@ from which there is no return.
 Then outrun the blast on this Scooty-Puff 
 Jr.
 
-[He winds the key in the back of the Scooty-Puff Jr. Fiona attaches 
-the bomb to Fry's spacesuit.]
+<info>He winds the key in the back of the Scooty-Puff Jr. Fiona attaches 
+the bomb to Fry's spacesuit.</info>
 
 <character>FRY</character>
 OK, let's go through this once more 
 -
 
-[The Nibblonians open the airlock and Fry is blown out into space. 
+<info>The Nibblonians open the airlock and Fry is blown out into space. 
 Fry screams. He rides the Scooty-Puff Jr towards the Infosphere. 
-A swarm of brainsspawn fly past him and one hits him on the head.]
+A swarm of brainsspawn fly past him and one hits him on the head.</info>
 
 <character>FRY</character>
 Aah! Brains!
 
-[Ken appears on Fry's arm communicator.]
+<info>Ken appears on Fry's arm communicator.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<character>KEN </character><info>ON <character>SCREEN</character></info>
 Fear not Mighty One, your missing brainwave 
 makes you invisible to them. So long 
 as you avoid intense thinking.
@@ -519,63 +519,63 @@ as you avoid intense thinking.
 <character>FRY</character>
 Sorry, what? I wasn't paying attention.
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<character>KEN </character><info>ON <character>SCREEN</character></info>
 That is most wise.
 
 <character>FRY</character>
 Who?
 
-[Cut to: Outside Infosphere.]
+<info>Cut to: Outside Infosphere.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<character>KEN </character><info>ON <character>SCREEN</character></info>
 In a few seconds the brains will finish 
 scanning the last bits of information 
 in the universe.
 
-[Brains float past a data port and it scans their information.]
+<info>Brains float past a data port and it scans their information.</info>
 
-[The scanning ends and the Infosphere initiates a self-scan.]
+<info>The scanning ends and the Infosphere initiates a self-scan.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<character>KEN </character><info>ON <character>SCREEN</character></info>
 Now the Infosphere will open it's protective 
 crust so as to scan itself, completing 
 it's thousand year task.
 
-[The Infosphere opens and a scanner comes out. It slowing begins 
+<info>The Infosphere opens and a scanner comes out. It slowing begins 
 to rotate around the Infosphere, scanning as it goes and making 
-a noise like a connecting modem.]
+a noise like a connecting modem.</info>
 
-<character>FIONA </character>[ON <character>SCREEN</character>]
+<character>FIONA </character><info>ON <character>SCREEN</character></info>
 This is your one chance to enter the 
 sphere! Scoot! Scoot now!
 
-[Fry scoots through the Infosphere's crust.]
+<info>Fry scoots through the Infosphere's crust.</info>
 
-[Cut to: Infosphere. The place is swarming with brains and in 
+<info>Cut to: Infosphere. The place is swarming with brains and in 
 the centre of the sphere is a huge master brain. Fry scoots towards 
 it and crashes into it. He climbs to the top where there is a 
-computer console.]
+computer console.</info>
 
 <character>FRY</character>
 I'm at the input console. I'm a little 
 nervous and I've got brain in my buttcrack.
 
-<character>NIBBLER </character>[ON <character>SCREEN</character>]
+<character>NIBBLER </character><info>ON <character>SCREEN</character></info>
 Roger.
 
-[Fry attaches the bomb to the console.]
+<info>Fry attaches the bomb to the console.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<character>KEN </character><info>ON <character>SCREEN</character></info>
 Once you press the detonator, you will 
 have 60 seconds for an exciting escape.
 
-[Fry is about to push the button but hesitates.]
+<info>Fry is about to push the button but hesitates.</info>
 
 <character>FRY</character>
 Hey wait, this brain knows everything 
 about everything right?
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<character>KEN </character><info>ON <character>SCREEN</character></info>
 It will soon. That's why you're supposed 
 to be setting off a bomb.
 
@@ -588,10 +588,10 @@ post-it stamp glue is made up of -
 <character>INFOSPHERE BRAIN</character>
 Correct. Toad mucus.
 
-[On the console screen is a video clip of a postman squeezing 
-a toad so it's mucus drips into a bucket.]
+<info>On the console screen is a video clip of a postman squeezing 
+a toad so it's mucus drips into a bucket.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<character>KEN </character><info>ON <character>SCREEN</character></info>
 There's no time for this. Activate the 
 bomb.
 
@@ -602,15 +602,15 @@ the dinosaurs?
 <character>INFOSPHERE BRAIN</character>
 Me!
 
-[On the screen is a video clips of the brain flying over the 
+<info>On the screen is a video clips of the brain flying over the 
 dinosaurs and killing them. A message appears on the screen and 
-a computer voice speaks.]
+a computer voice speaks.</info>
 
 <character>COMPUTER VOICE</character>
 Unauthorised Data Access.
 
-[An alarm goes off and brains surround Fry. Fry screams and starts 
-to wind his Scooty-Puff Jr. It falls apart in his hands.]
+<info>An alarm goes off and brains surround Fry. Fry screams and starts 
+to wind his Scooty-Puff Jr. It falls apart in his hands.</info>
 
 <character>FRY</character>
 Uh oh.
@@ -620,7 +620,7 @@ Detecting trace amounts of mental activity.
 Possibly a dead weasel or a cartoon 
 viewer.
 
-[The brains zap Fry.]
+<info>The brains zap Fry.</info>
 
 <character>FRY</character>
 Eww gross. Cut it out!
@@ -644,7 +644,7 @@ in the membrane?
 <character>FRY</character>
 You got it poindexter!
 
-[He activates the bomb.]
+<info>He activates the bomb.</info>
 
 <character>BRAIN #1</character>
 Oh, not good!
@@ -666,9 +666,9 @@ Well at least I did one important thing
 with my life. Leading good to victory 
 over evil!
 
-[The Nibblonians cheer.]
+<info>The Nibblonians cheer.</info>
 
-<character>KEN </character>[ON <character>SCREEN</character>]
+<character>KEN </character><info>ON <character>SCREEN</character></info>
 Exactly!
 
 <character>GIANT BRAIN</character>
@@ -680,7 +680,7 @@ the night of December 31st 1999.
 <character>FRY</character>
 The day I got frozen? What about it?
 
-<character>NIBBLER </character>[ON <character>SCREEN</character>]
+<character>NIBBLER </character><info>ON <character>SCREEN</character></info>
 No! Don't ask about that! It, it would 
 be uh...boring!
 
@@ -703,9 +703,9 @@ from Hovering Squidworld 97A?
 <character>GIANT BRAIN</character>
 Earth you fat idiot! Hurry up!
 
-[On the console's screen Fry walks into the cryogenics lab.]
+<info>On the console's screen Fry walks into the cryogenics lab.</info>
 
-<character>FRY </character>[ON <character>SCREEN</character>]
+<character>FRY </character><info>ON <character>SCREEN</character></info>
 Hello? Pizza delivery for uh...I. C. 
 Wiener? Aw crud!
 
@@ -713,14 +713,14 @@ Wiener? Aw crud!
 Eurgh! I can't believe how fat I look! 
 Aw, Nibbler's there. Wait! What?!
 
-[On the screen Nibbler blows Fry's tilting chair. Fry begins 
+<info>On the screen Nibbler blows Fry's tilting chair. Fry begins 
 to lose his balance and the chair tips back. Fry rolls back into 
-the cryo-freezer.]
+the cryo-freezer.</info>
 
-<character>FRY </character>[ON <character>SCREEN</character>]
+<character>FRY </character><info>ON <character>SCREEN</character></info>
 What the?
 
-[He panics. The cryo-freezer freezes him in a flash.]
+<info>He panics. The cryo-freezer freezes him in a flash.</info>
 
 <character>FRY</character>
 I, I don't understand. You made me go 
@@ -733,13 +733,13 @@ Detonation in T-15 seconds.
 You little runts froze me! You took 
 away my life!
 
-<character>NIBBLER </character>[ON <character>SCREEN</character>]
+<character>NIBBLER </character><info>ON <character>SCREEN</character></info>
 We can explain!
 
 <character>FRY</character>
 No you can't. Shut your adorable trap!
 
-<character>NIBBLER </character>[ON <character>SCREEN</character>]
+<character>NIBBLER </character><info>ON <character>SCREEN</character></info>
 We had no choice. You were the only 
 one who could help us. What is one life 
 weighed against the entire universe?
@@ -752,10 +752,10 @@ Detonation in 2, 1. Will the owner of
 a white Pontiac Firebird...oh nevermind. 
 Zero!
 
-[Cut to: Outside Infosphere. The bomb explodes and the Infosphere 
-is sucked into the alternate universe.]
+<info>Cut to: Outside Infosphere. The bomb explodes and the Infosphere 
+is sucked into the alternate universe.</info>
 
-[Cut to: Infosphere. It reappears in the alternate universe.]
+<info>Cut to: Infosphere. It reappears in the alternate universe.</info>
 
 <character>GIANT BRAIN</character>
 Well, here we are. Trapped for eternity.
@@ -783,7 +783,7 @@ resume his life on December 31st 1999.
 <character>FRY</character>
 Really? I can go back in time?
 
-[An image appears on the console.]
+<info>An image appears on the console.</info>
 
 <character>INFOSPHERE BRAIN</character>
 There is a nexus point between universes, 
@@ -810,7 +810,7 @@ Everybody wins!
 <character>BRAIN #2</character>
 The human will be returned to the past!
 
-[Outside Rocket Skating Rink.]
+<info>Outside Rocket Skating Rink.</info>
 
 <character>NARRATOR</character>
 Meanwhile...
@@ -826,9 +826,9 @@ Six hours? Pfft. Sounds like a real
 nobody! But now it's time for somebody 
 and some chick he's with to go skating.
 
-[He shows Leela a sign. Closed For Private Function. She gasps.]
+<info>He shows Leela a sign. Closed For Private Function. She gasps.</info>
 
-[Cut to: Rocket Skating Rink.]
+<info>Cut to: Rocket Skating Rink.</info>
 
 <character>LEELA</character>
 You reserved the whole rink?
@@ -841,10 +841,10 @@ who's.
 <character>LEELA</character>
 Oh Chaz!
 
-[She kisses him.]
+<info>She kisses him.</info>
 
-[Time Lapse. Leela and Chaz are now skating around the rink. 
-The kids from the Cookieville Orphanarium look on sadly.]
+<info>Time Lapse. Leela and Chaz are now skating around the rink. 
+The kids from the Cookieville Orphanarium look on sadly.</info>
 
 <character>SALLY</character>
 Mr Vogel. I thought we was going skating.
@@ -854,7 +854,7 @@ No. We're not important enough. Everybody
 just hold hands until the bus driver 
 gets back from his haircut.
 
-[Leela notices the orphans.]
+<info>Leela notices the orphans.</info>
 
 <character>LEELA</character>
 Aww, let's let those kids skate with 
@@ -882,7 +882,7 @@ The mayor's aide, and his badge! (shouting)
 Beat it kids! Come back when you got 
 connections.
 
-[The kids look away sadly.]
+<info>The kids look away sadly.</info>
 
 <character>VOGEL</character>
 Alright kids. Back to the Orphanarium. 
@@ -895,11 +895,11 @@ What socks?
 <character>CHAZ</character>
 So am I gonna get lucky tonight or what?
 
-[Leela snatches his badge away from him and stuffs it down his 
-throat.]
+<info>Leela snatches his badge away from him and stuffs it down his 
+throat.</info>
 
-[Infosphere. The Infosphere Brain types something into to the 
-console. It holds Fry in place.]
+<info>Infosphere. The Infosphere Brain types something into to the 
+console. It holds Fry in place.</info>
 
 <character>FRY</character>
 I hope your calculations are correct.
@@ -911,40 +911,40 @@ For we are gigantic brains.
 <character>BRAIN #2</character>
 Initiate space-time transfer.
 
-[The Infosphere throws a switch and the console zaps Fry and 
-makes him go all spliggly. He disappears.]
+<info>The Infosphere throws a switch and the console zaps Fry and 
+makes him go all spliggly. He disappears.</info>
 
-[Old New York: December 31st 1999. In a telephone box Nibbler 
-makes a phonecall to Panucci's Pizza.]
+<info>Old New York: December 31st 1999. In a telephone box Nibbler 
+makes a phonecall to Panucci's Pizza.</info>
 
 <character>NIBBLER</character>
 I hereby place and order for one cheese 
 pizza.
 
-<character>PANUCCI </character>[ON <character>PHONE</character>]
+<character>PANUCCI </character><info>ON <character>PHONE</character></info>
 One pie, nothing good on it. Name?
 
 <character>NIBBLER</character>
 I-period C-period Wiener.
 
-<character>PANUCCI </character>[ON <character>PHONE</character>]
+<character>PANUCCI </character><info>ON <character>PHONE</character></info>
 Uh, talk a little louder. It's sounds 
 like you got some kind of tiny head 
 on you or something.
 
-[Cryogenics Lab. Nibbler paces around under the desk. Enter Fry.]
+<info>Cryogenics Lab. Nibbler paces around under the desk. Enter Fry.</info>
 
 <character>PAST FRY</character>
 Hellooo? Pizza delivery for uh, Icy 
 Wiener? Wiener? Aw crud.
 
-[Behind Nibbler, in the corner of the desk Future Fry appears 
-and grabs him.]
+<info>Behind Nibbler, in the corner of the desk Future Fry appears 
+and grabs him.</info>
 
 <character>FUTURE FRY</character>
 Gotcha!
 
-[Nibbler squeals.]
+<info>Nibbler squeals.</info>
 
 <character>NIBBLER</character>
 I don't understand.
@@ -970,8 +970,8 @@ when I'm a thousand years older.
 <character>FUTURE FRY</character>
 Not if you don't freeze me.
 
-[Past Fry sits down on the chair and puts his feet up on the 
-desk.]
+<info>Past Fry sits down on the chair and puts his feet up on the 
+desk.</info>
 
 <character>NIBBLER</character>
 Please. Our saviours foresee that in 
@@ -1009,8 +1009,8 @@ Ah, she must be the other.
 <character>FUTURE FRY</character>
 Wha?
 
-[Past Fry's chair starts to tumble back. Future Fry holds the 
-leg.]
+<info>Past Fry's chair starts to tumble back. Future Fry holds the 
+leg.</info>
 
 <character>NIBBLER</character>
 You must not give up on her. I am stationed 
@@ -1019,7 +1019,7 @@ But if you return to the future I will
 transfer to Earth to give you what help 
 I can.
 
-[Outside, the countdown to the millenium begins.]
+<info>Outside, the countdown to the millenium begins.</info>
 
 <character>FUTURE FRY</character>
 You really think I would have had a 
@@ -1030,9 +1030,9 @@ You must choose. The present or the
 future? To save yourself? Or to save 
 Leela?
 
-[The countdown reaches 1. Past Fry leans back on his chair and 
+<info>The countdown reaches 1. Past Fry leans back on his chair and 
 blows his party blower. Future Fry blows the chair and Past Fry 
-tumbles back into the cryotube which freezes him.]
+tumbles back into the cryotube which freezes him.</info>
 
 <character>FUTURE FRY</character>
 Yes! Here I come future! Oh no! Wait! 
@@ -1040,14 +1040,14 @@ I'm gonna get trapped in the Infosphere
 again! Just remember that Scooty-Puff 
 Jr sucks...
 
-[He fades away into nothingness.]
+<info>He fades away into nothingness.</info>
 
 <character>NIBBLER</character>
 In a thousand years I'll get right on 
 it.
 
-[Outside Infosphere. The bomb explodes and the Infosphere is 
-sucked into an alternate universe.]
+<info>Outside Infosphere. The bomb explodes and the Infosphere is 
+sucked into an alternate universe.</info>
 
 <character>NARRATOR</character>
 And so, a thousand years later Fry once 
@@ -1055,10 +1055,10 @@ again infiltrated the Infosphere and
 set off his amazing bomb. Only this 
 time...
 
-[Fry speeds away from the Infosphere on his huge Scooty-Puff 
-Sr.]
+<info>Fry speeds away from the Infosphere on his huge Scooty-Puff 
+Sr.</info>
 
-[Alley. Nibbler's ship lands and Fry and Nibbler climb out.]
+<info>Alley. Nibbler's ship lands and Fry and Nibbler climb out.</info>
 
 <character>NIBBLER</character>
 Thank you for saving the universe Fry. 
@@ -1071,7 +1071,7 @@ again, just ask.
 <character>NIBBLER</character>
 Oh we will. We will.
 
-[He shuts his ship away and puts his leash on.]
+<info>He shuts his ship away and puts his leash on.</info>
 
 <character>FRY</character>
 Man, I can't wait to tell everyone what 
@@ -1081,17 +1081,17 @@ happened.
 Uh yes. Incidentally I need to remain 
 undercover so I'm blanking your memory.
 
-[His third eye flashes like the memory stick from Men In Black 
-and Fry looks dazed.]
+<info>His third eye flashes like the memory stick from Men In Black 
+and Fry looks dazed.</info>
 
 <character>FRY</character>
 Huh. Did everything just taste purple 
 for a second? Oh well. Let's go home 
 you dumb poop machine.
 
-[Nibbler chatters.]
+<info>Nibbler chatters.</info>
 
-[Planet Express: Lounge. Leela holds up a photo of her and Chaz.]
+<info>Planet Express: Lounge. Leela holds up a photo of her and Chaz.</info>
 
 <character>LEELA</character>
 Bender, would you do the honours?
@@ -1099,14 +1099,14 @@ Bender, would you do the honours?
 <character>BENDER</character>
 With gusto.
 
-[He scorches a hole in the photo. Leela looks at it satisfied. 
+<info>He scorches a hole in the photo. Leela looks at it satisfied. 
 Chaz's head has been burnt away. Enter Fry. His head appears 
-in the hole.]
+in the hole.</info>
 
 <character>FRY</character>
 Hey Leela. I guess I got this for you.
 
-[He hands her the flower.]
+<info>He hands her the flower.</info>
 
 <character>LEELA</character>
 Oh. Thank you. You know what Fry. I 
@@ -1118,7 +1118,7 @@ me happy to see you right now.
 Then I am the most important person 
 in the universe.
 
-[She kisses him.]
+<info>She kisses him.</info>
 
 <info>THE END</info>
 

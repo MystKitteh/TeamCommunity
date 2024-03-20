@@ -7,12 +7,12 @@ Episode 502
 <author>Eric Kaplan</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Not Affiliated With Futurama Brass 
-Knuckle Co.]
+<info>Opening Credits. Caption: Not Affiliated With Futurama Brass 
+Knuckle Co.</info>
 
-[Robot Arms Apartments: Fry and Bender's Apartment. Bender stands 
+<info>Robot Arms Apartments: Fry and Bender's Apartment. Bender stands 
 in front of a mirror wearing a magician's outfit. Fry wears a 
-snazzy leotard. Bender speaks into the mirror.]
+snazzy leotard. Bender speaks into the mirror.</info>
 
 <character>BENDER</character>
 Ahem! For my next trick, notice I have 
@@ -23,8 +23,8 @@ non-fake pitcher of milk......behold
 the milk has vanished! Exiled, perhaps, 
 to another dimension!
 
-[He bows to his "audience." As he bows milk drips out from his 
-chest cabinet. Fry applauds.]
+<info>He bows to his "audience." As he bows milk drips out from his 
+chest cabinet. Fry applauds.</info>
 
 <character>FRY</character>
 Amazing! That's why they call you "Bender 
@@ -33,8 +33,8 @@ The Magnificent"!
 <character>BENDER</character>
 No it isn't!
 
-[He throws the newspaper across the room into a bin. Fry sees 
-the headline: Archeologists Discover "Slice Of Old New York"]
+<info>He throws the newspaper across the room into a bin. Fry sees 
+the headline: Archeologists Discover "Slice Of Old New York"</info>
 
 <character>FRY</character>
 Whoa! They discovered an intact, 20th 
@@ -58,16 +58,16 @@ Sure. Lots of people did.
 <character>BENDER</character>
 Really?
 
-[Museum. Fry and Bender walk down a corridor to the exhibit. 
-Bender hums.]
+<info>Museum. Fry and Bender walk down a corridor to the exhibit. 
+Bender hums.</info>
 
-[Cut to: Museum: Pizzeria.]
+<info>Cut to: Museum: Pizzeria.</info>
 
 <character>BENDER</character>
 Truly, they were as Gods who build this 
 place!
 
-[A tour group enters.]
+<info>A tour group enters.</info>
 
 <character>TOUR GUIDE</character>
 Next, we come to the splendidly preserved 
@@ -75,9 +75,9 @@ wooden pizza paddle.  Scientists theorise
 it was used to gently discipline the 
 delivery boy.
 
-[Fry crouches next to the robot delivery boy and fiddles around 
+<info>Fry crouches next to the robot delivery boy and fiddles around 
 with his hair so it looks like his robot counterpart's. He notices 
-a menu on the wall. A menu which says "Panucci's Pizza."]
+a menu on the wall. A menu which says "Panucci's Pizza."</info>
 
 <character>FRY</character>
 Wait a second! This is Panucci's! I 
@@ -99,20 +99,20 @@ I recognise all this stuff.  Petrified
 sausages, Old Mr Patelli, and that's 
 -
 
-[He gasps. There is a dog shaped black thing in the display case.]
+<info>He gasps. There is a dog shaped black thing in the display case.</info>
 
-[Flashback - August 1997.]
+<info>Flashback - August 1997.</info>
 
-[Street. The dog sits in an alley scratching itself. It sees 
-Fry across the street delivering a pizza. Fry buzzes a buzzer.]
+<info>Street. The dog sits in an alley scratching itself. It sees 
+Fry across the street delivering a pizza. Fry buzzes a buzzer.</info>
 
-<character>VOICE </character>[ON <character>BUZZER</character>.]
+<character>VOICE </character><info>ON <character>BUZZER</character>.</info>
 Yes?
 
 <character>FRY</character>
 Pizza delivery for Mr......Seymour Asses.
 
-<character>VOICE </character>[ON <character>BUZZER</character>.]
+<character>VOICE </character><info>ON <character>BUZZER</character>.</info>
 There's no one by that name here...or 
 anywhere. I hope that in time you'll 
 realise what an idiot you've been.
@@ -120,9 +120,9 @@ realise what an idiot you've been.
 <character>FRY</character>
 I wouldn't count on it.
 
-[Cut to: Alley. Fry sits leaning against a wall. He opens the 
+<info>Cut to: Alley. Fry sits leaning against a wall. He opens the 
 pizza box and takes out a slice and starts to eat it. The dog 
-crawls out from behind a dumpster and whines. Fry sees him.]
+crawls out from behind a dumpster and whines. Fry sees him.</info>
 
 <character>FRY</character>
 Aww. Poor little guy. You look like 
@@ -137,11 +137,11 @@ and has a crummy job. But you're keepin'
 it real and call no man "Mister."  Well 
 goodbye.  Live long and prosper.
 
-[He rides away. Seymour watches.]
+<info>He rides away. Seymour watches.</info>
 
-[Cut to: Street. Seymour chases Fry, barking.]
+<info>Cut to: Street. Seymour chases Fry, barking.</info>
 
-[Flashback ends. Bender reacts to the petrified dog.]
+<info>Flashback ends. Bender reacts to the petrified dog.</info>
 
 <character>BENDER</character>
 Yuck! That's the least appetising calzone 
@@ -151,8 +151,8 @@ I've ever seen!
 No! That's my dog in there! It's an 
 outrage I say!
 
-[He grabs Bender's foot, smashes the display case and takes Seymour. 
-Bender hops around holding his foot.]
+<info>He grabs Bender's foot, smashes the display case and takes Seymour. 
+Bender hops around holding his foot.</info>
 
 <character>BENDER</character>
 Ow ow ow!
@@ -161,13 +161,13 @@ Ow ow ow!
 I'm taking him home and I'd like to 
 see anyone try and stop me.  Uh-oh!
 
-[Cut to: Street. The security guards literally throw Fry out 
-of the building. He bounces down the steps.]
+<info>Cut to: Street. The security guards literally throw Fry out 
+of the building. He bounces down the steps.</info>
 
 <character>FRY</character>
 Ow, oo ow, oo ah!
 
-[Planet Express: Meeting Room.]
+<info>Planet Express: Meeting Room.</info>
 
 <character>BENDER</character>
 ...And then he was ejected by the guards. 
@@ -192,8 +192,8 @@ native Martians. Always whining that
 people don't treat their ancestor's 
 bones with respect.
 
-[He takes a slurp from a mug which look suspiciously like a Martian 
-skull.]
+<info>He takes a slurp from a mug which look suspiciously like a Martian 
+skull.</info>
 
 <character>BENDER</character>
 Nah, protesting never works.
@@ -201,7 +201,7 @@ Nah, protesting never works.
 <character>FRY</character>
 You're right.  I'll give it a shot!
 
-[Street. Fry is outside the museum holding a sign and a megaphone.]
+<info>Street. Fry is outside the museum holding a sign and a megaphone.</info>
 
 <character>CROWD </character>(<character>CHANTING</character>)
 What do you want?
@@ -212,17 +212,17 @@ What do you want?
 <character>CROWD</character>
 Yaaay!
 
-[He turns on a tape dances to the Hustle. Leela reads a book.]
+<info>He turns on a tape dances to the Hustle. Leela reads a book.</info>
 
 <character>LEELA</character>
 It says this part of The Hustle implores 
 the Gods to grant a favour. Usually 
 a Trans-<character>AM</character>.
 
-[Flashback - July 1998 The Summer Of "I Still Know What You Did 
-Last Summer."]
+<info>Flashback - July 1998 The Summer Of "I Still Know What You Did 
+Last Summer."</info>
 
-[Street. Fry cycles down the street towards Panucci's singing.]
+<info>Street. Fry cycles down the street towards Panucci's singing.</info>
 
 <character>FRY </character>(<character>SINGING</character>)
 I'm walking on sunshine! Ooo-oo-ooh! 
@@ -231,9 +231,9 @@ At a boy Seymour! Right here waiting
 for me as always! Just like that huge 
 mushroom in my shower!
 
-[He goes inside. Seymour follows through the dog flap.]
+<info>He goes inside. Seymour follows through the dog flap.</info>
 
-[Cut to: Panucci's Pizza.]
+<info>Cut to: Panucci's Pizza.</info>
 
 <character>PANUCCI</character>
 Hey there's our little mascot!  Aww 
@@ -246,8 +246,8 @@ Seymour, cleanup!  Good dog!
 <character>PANUCCI</character>
 That's a good Seymour!
 
-[A boy is playing an arcade game when he notices something is 
-wrong with his pizza.]
+<info>A boy is playing an arcade game when he notices something is 
+wrong with his pizza.</info>
 
 <character>BOY</character>
 Yo! There's dog fur on my slice!
@@ -255,24 +255,24 @@ Yo! There's dog fur on my slice!
 <character>PANUCCI</character>
 Nah, that's vermicelli! No fur in here!
 
-[He sneezes into the dough and continues rubbing it. Seymour 
-swims around in the tomato.]
+<info>He sneezes into the dough and continues rubbing it. Seymour 
+swims around in the tomato.</info>
 
 <character>FRY</character>
 He's so cute! He can do two things at 
 one time: Eat and swim. Ooo - three 
 things.
 
-[Flashback ends. Fry is still dancing. It is raining. The music 
-is getting muffled.]
+<info>Flashback ends. Fry is still dancing. It is raining. The music 
+is getting muffled.</info>
 
 <character>LEELA</character>
 Fry, its been three days. You can't 
 keep boogie-ing like this. You'll come 
 down with a fever of some sort.
 
-[Two men - Ben Beeler and his associate Ray - walk out of the 
-museum. Beeler introduces himself.]
+<info>Two men - Ben Beeler and his associate Ray - walk out of the 
+museum. Beeler introduces himself.</info>
 
 <character>BEELER</character>
 Mr. Fry? I'm Dr Ben Beeler, the paleontologist 
@@ -307,26 +307,26 @@ I'm good.
 <character>BEELER</character>
 OK then, here's your dog back.
 
-[He takes Seymour's black fossil out of his briefcase and hands 
-it to Fry. He hugs him and chuckles.]
+<info>He takes Seymour's black fossil out of his briefcase and hands 
+it to Fry. He hugs him and chuckles.</info>
 
 <character>FRY</character>
 Seymour!
 
-[Planet Express: Lounge. Bender the Magnificent has sawn Dr Zoidberg 
-in half. Although his feet look oddly human.]
+<info>Planet Express: Lounge. Bender the Magnificent has sawn Dr Zoidberg 
+in half. Although his feet look oddly human.</info>
 
 <character>BENDER</character>
 Lady and Gentleman! How 'bout a hand 
 for my temporary replacement assistant?
 
-[Scruffy and Leela applaud. Zoidberg jumps out of one half of 
-the box. He is wearing Fry's leotard.]
+<info>Scruffy and Leela applaud. Zoidberg jumps out of one half of 
+the box. He is wearing Fry's leotard.</info>
 
 <character>ZOIDBERG</character>
 I was all in this part! Its magic!
 
-[Bender beats him with his wand as he speaks.]
+<info>Bender beats him with his wand as he speaks.</info>
 
 <character>BENDER</character>
 You are not fit to wear Fry's leotard!
@@ -334,7 +334,7 @@ You are not fit to wear Fry's leotard!
 <character>ZOIDBERG</character>
 Stop!
 
-[Enter Farnsworth, Fry and Seymour.]
+<info>Enter Farnsworth, Fry and Seymour.</info>
 
 <character>FRY</character>
 Good news everyone!
@@ -344,7 +344,7 @@ Hooray, he's back! He's looking for
 a garbage can to put that dog in! Here 
 you go buddy!
 
-[He holds up a waste basket.]
+<info>He holds up a waste basket.</info>
 
 <character>FARNSWORTH</character>
 No, actually we've discovered Fry's 
@@ -355,7 +355,7 @@ it's cellular structure!
 Which means...we can clone it! Seymour 
 will live again!
 
-[Leela gasps.]
+<info>Leela gasps.</info>
 
 <character>ZOIDBERG</character>
 A little land mammal!
@@ -364,11 +364,11 @@ A little land mammal!
 Can you believe it Bender? I'm going 
 to have my best friend back!
 
-[Bender turns away and starts to cry. His tears turn into balloons, 
-he cries doves and his antenna sprouts flowers.]
+<info>Bender turns away and starts to cry. His tears turn into balloons, 
+he cries doves and his antenna sprouts flowers.</info>
 
-[Planet Express: Attic. Farnsworth has set up his cloning machine. 
-The crew look on. Enter annoying moron Cubert.]
+<info>Planet Express: Attic. Farnsworth has set up his cloning machine. 
+The crew look on. Enter annoying moron Cubert.</info>
 
 <character>CUBERT</character>
 Why the idiot convention?
@@ -382,7 +382,7 @@ toe still in here.  You see, beneath
 the fossil's crunchy, mineral shell, 
 there's still a creamy core of dog nougat!
 
-[On the screen an arrow points to a yellow blob inside Seymour.]
+<info>On the screen an arrow points to a yellow blob inside Seymour.</info>
 
 <character>FRY</character>
 So will Seymour remember how to sing 
@@ -405,8 +405,8 @@ Crappy ineffective Reaper!
 I just need to reset the Clone-O-Mat 
 from Human Mode to Dog Mode.
 
-[He turns a switch around to a picture of a dog. It is like a 
-child's toy.]
+<info>He turns a switch around to a picture of a dog. It is like a 
+child's toy.</info>
 
 <character>WOMAN</character>'S <character>VOICE</character>
 The dog says 
@@ -414,15 +414,15 @@ The dog says
 <character>FARNSWORTH</character>
 Uh-oh, this may take a while.
 
-[He bashes the switch.]
+<info>He bashes the switch.</info>
 
-[Flashback - December 31 1999. Fry is "teaching" a kid to play 
-an arcade game at Panucci's.]
+<info>Flashback - December 31 1999. Fry is "teaching" a kid to play 
+an arcade game at Panucci's.</info>
 
 <character>KID</character>
 You stink loser!
 
-[Panucci leans over the counter with the pizza.]
+<info>Panucci leans over the counter with the pizza.</info>
 
 <character>PANUCCI</character>
 Hey, Fry. Pizza goin' out. C'mon!
@@ -440,24 +440,24 @@ too short or somethin'. Which is crazy
 'cause frankly you look fabulous. Now 
 get goin'!!
 
-[Street. Fry unlocks his bike. Seymour put his paw on the wheel 
-so Fry can't go anywhere.]
+<info>Street. Fry unlocks his bike. Seymour put his paw on the wheel 
+so Fry can't go anywhere.</info>
 
 <character>FRY</character>
 I won't be gone long Seymour. Just wait 
 here 'til I come back.
 
-[He rides off. Seymour sits, waiting.]
+<info>He rides off. Seymour sits, waiting.</info>
 
-[Applied Cryogenics. Fry knocks on a door marked Applied Cryogenics. 
-A sign underneath indicates No Power Failures Since 199[7]. No 
+<info>Applied Cryogenics. Fry knocks on a door marked Applied Cryogenics. 
+A sign underneath indicates No Power Failures Since 199[7</info>. No 
 one opens the door so Fry goes in.]
 
-[Cut to: Cryogenics Lab. The room is empty and there are no lights 
+<info>Cut to: Cryogenics Lab. The room is empty and there are no lights 
 on. Weird pods line one of the walls. There are a few machines 
 around the room and a desk and a chair in the middle of the room. 
 Fry wipes some condesnsation from a window on one of the pods, 
-revealing the face of an inanimate man inside.]
+revealing the face of an inanimate man inside.</info>
 
 <character>FRY</character>
 Hello? Pizza delivery for......Icy Wiener?! 
@@ -466,13 +466,13 @@ in my life I'd be the one making the
 crank calls!  Here's to another lousy 
 Millenium.  What the?
 
-[He looks around and screams. In a flash he is frozen in time.]
+<info>He looks around and screams. In a flash he is frozen in time.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-[Robot Arms Apartments: Fry and Bender's Apartment. In the kitchen 
+<info>Robot Arms Apartments: Fry and Bender's Apartment. In the kitchen 
 Fry unloads dog food into the cupboards. Enter Bender who notices 
-a dog collar on the side.]
+a dog collar on the side.</info>
 
 <character>BENDER</character>
 A dog collar for me?  You shouldn't 
@@ -481,7 +481,7 @@ have!
 <character>FRY</character>
 That's for Seymour.
 
-[Bender takes it off.]
+<info>Bender takes it off.</info>
 
 <character>BENDER</character>
 Oh.  Say why'd you get me a subscription 
@@ -503,7 +503,7 @@ Hey he was smart. He could fetch.
 <character>BENDER</character>
 I can fetch.
 
-[He runs out then back in again carrying an Easter Island Head.]
+<info>He runs out then back in again carrying an Easter Island Head.</info>
 
 <character>FRY</character>
 He could dig up bones.
@@ -513,8 +513,8 @@ Hello? Charlamange?  Plus, I'll bet
 he couldn't create a laser show with 
 his head.
 
-[The lights go out and Bender creates a laser show with his head. 
-Grooby music plays.]
+<info>The lights go out and Bender creates a laser show with his head. 
+Grooby music plays.</info>
 
 <character>FRY</character>
 Look Bender, this has nothing to do 
@@ -527,8 +527,8 @@ That's impossible!
 Now if you'll excuse me I'm working 
 on Seymour's doghouse.
 
-[He points to a kennel and holds a sign saying "Seymour" ready 
-to nail it on. Bender walks out.]
+<info>He points to a kennel and holds a sign saying "Seymour" ready 
+to nail it on. Bender walks out.</info>
 
 <character>BENDER</character>
 No one ever asks if Bender would like 
@@ -536,30 +536,30 @@ to live in a tiny little house. Not
 that I would. A tiny little house that 
 says "Bender" on it.  Ow!
 
-[Flashback - January 1st 2000. ]
+<info>Flashback - January 1st 2000. </info>
 
-[The Frys' House. Mr Fry is on the phone but can only hear Fry's 
-answerphone message.]
+<info>The Frys' House. Mr Fry is on the phone but can only hear Fry's 
+answerphone message.</info>
 
-<character>FRY </character>[ON <character>ANSWERPHONE</character>]
+<character>FRY </character><info>ON <character>ANSWERPHONE</character></info>
 This is Fry. If you're calling about 
 the used towels for sale, they're still 
 available for $45 each.
 
-[The answerphone beeps.]
+<info>The answerphone beeps.</info>
 
 MR <character>FRY</character>
 Phil, it's your father. Where are you? 
 You're holding up New Years brunch. 
 Your brother can't wait any longer.
 
-[Yancy picks up a sandwich.]
+<info>Yancy picks up a sandwich.</info>
 
 <character>YANCY</character>
 Hello first baloney of the new millenium! 
 Ah here he comes. That's him and Seymour.
 
-[Mr Fry opens the door and Seymour runs in barking.]
+<info>Mr Fry opens the door and Seymour runs in barking.</info>
 
 <character>MRS FRY</character>
 Well that's odd. Seymour's here but 
@@ -574,14 +574,14 @@ into <character>SCUD</character> missiles. There's nothing
 we can do.  What's that Seymour? You 
 walking on sunshine?
 
-[He runs over to the door and scratches it.]
+<info>He runs over to the door and scratches it.</info>
 
 <character>YANCY</character>
 He's trying to tell us something. Maybe 
 he can lead us to Philip.
 
-[Cut to: Outside The Frys' House. Seymour runs out the front 
-door.]
+<info>Cut to: Outside The Frys' House. Seymour runs out the front 
+door.</info>
 
 <character>YANCY</character>
 Should we follow him?
@@ -589,19 +589,19 @@ Should we follow him?
 MR <character>FRY</character>
 To our deaths? Negatory.
 
-[Cut to: The Frys' House.]
+<info>Cut to: The Frys' House.</info>
 
 MR <character>FRY</character>
 It's the Y2K tryin' to lure us into 
 an ambush. And I ain't buyin' it. Pass 
 the baloney.
 
-[He eats a sandwich.]
+<info>He eats a sandwich.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
-[Planet Express: Lounge. Leela and Amy wrestle while Fry stands 
-at the side holding Seymour. Leela pins Amy down.]
+<info>Planet Express: Lounge. Leela and Amy wrestle while Fry stands 
+at the side holding Seymour. Leela pins Amy down.</info>
 
 <character>FRY</character>
 Are you two gonna be done soon?
@@ -619,9 +619,9 @@ I'm setting up Seymour's doggy bed.
 <character>LEELA</character>
 <character>OK</character>.
 
-[She drags Amy out of Fry's way. Fry kicks the mat out of the 
+<info>She drags Amy out of Fry's way. Fry kicks the mat out of the 
 way and puts Seymour's bed on the floor next to the couch. Enter 
-Bender and a Robo-Puppy.]
+Bender and a Robo-Puppy.</info>
 
 <character>BENDER</character>
 Heel boy, heel! Oh hello Fry, I guess 
@@ -658,19 +658,19 @@ Licking in progress. Licking complete.
 Robo-Puppy truly is robots best friend! 
 Eh?
 
-[Fry finishes the bed.]
+<info>Fry finishes the bed.</info>
 
 <character>FRY</character>
 Ah there, perfect!
 
-[A fanfare sound sounds and a huge hologram of Farnsworth's head 
-appears in the room.]
+<info>A fanfare sound sounds and a huge hologram of Farnsworth's head 
+appears in the room.</info>
 
 <character>HOLO</character>-<character>FARNSWORTH</character>
 Good news everyone! The Clone-O-Mat 
 is ready!
 
-[The hologram disappears.]
+<info>The hologram disappears.</info>
 
 <character>LEELA</character>
 Woohoo!
@@ -678,20 +678,20 @@ Woohoo!
 <character>AMY</character>
 Yay!
 
-[Leela slams Amy down.]
+<info>Leela slams Amy down.</info>
 
 <character>FRY</character>
 Finally!
 
-[Bender growls.]
+<info>Bender growls.</info>
 
 <character>ROBO</character>-<character>PUPPY</character>
 Robo-Puppy commencing two hour yipping 
 session.  Robo-Puppy mistreatment alert! 
 Robo-Puppy mistreatment alert!
 
-[Planet Express: Attic. The crew are standing in front of the 
-Clone-O-Mat. The roof is open.]
+<info>Planet Express: Attic. The crew are standing in front of the 
+Clone-O-Mat. The roof is open.</info>
 
 <character>FARNSWORTH</character>
 Behold once more the mighty Clone-O-Mat! 
@@ -701,17 +701,17 @@ of nature itself!  I speak of course...of
 molten lava! Deep within the Earth's 
 core. To the sub-basement!
 
-[He pulls a lever and the Clone-O-Mat, crew and all go down.]
+<info>He pulls a lever and the Clone-O-Mat, crew and all go down.</info>
 
-[Cut to: Planet Express: Sub-Basement. Scruffy is pulling the 
+<info>Cut to: Planet Express: Sub-Basement. Scruffy is pulling the 
 platform down. It topples but he rights it. Farnsworth steps 
-off.]
+off.</info>
 
 <character>FRY</character>
 Come on boy! Come back to life!
 
-[He pulls a chain and Seymour's <character>DNA</character> begins to be extracted. Enter 
-Bender The Magnificent.]
+<info>He pulls a chain and Seymour's <character>DNA</character> begins to be extracted. Enter 
+Bender The Magnificent.</info>
 
 <character>BENDER</character>
 Fry c'mon, the talent show!
@@ -732,7 +732,7 @@ were my friend. But if you love your
 dog so much then maybe you'd rather 
 play fetch!
 
-[He picks up Seymour and throws him into the molten lava.]
+<info>He picks up Seymour and throws him into the molten lava.</info>
 
 <character>LEELA</character>
 No!
@@ -740,18 +740,18 @@ No!
 <character>ZOIDBERG</character>
 Oh!
 
-[Seymour sinks. Fry gasps. Bender laughs and hugs Fry.]
+<info>Seymour sinks. Fry gasps. Bender laughs and hugs Fry.</info>
 
 <character>BENDER</character>
 Now I'm all you got!
 
-[Time Lapse. Fry starts weakly hitting Bender.]
+<info>Time Lapse. Fry starts weakly hitting Bender.</info>
 
 <character>FRY</character>
 I hate you! I hate you! You evil metal 
 man!  Ow!
 
-[He falls to the floor and curls up.]
+<info>He falls to the floor and curls up.</info>
 
 <character>BENDER</character>
 So anyway your dog is melted. Now we're 
@@ -787,8 +787,8 @@ baby!
 <character>FRY</character>
 Then I'm goin' in after him.
 
-[He takes his jacket off and rips off his shirt. He pulls off 
-his trousers and runs for the lava.]
+<info>He takes his jacket off and rips off his shirt. He pulls off 
+his trousers and runs for the lava.</info>
 
 <character>AMY</character>
 No!
@@ -799,25 +799,25 @@ Stop!
 <character>FRY</character>
 He'd come after me.
 
-[Flashback - January 1st 2000.]
+<info>Flashback - January 1st 2000.</info>
 
-[Cut to: Street. Seymour runs down a street and looks in Panucci's 
-window. He sniffs Fry's hand and face prints on the pavement.]
+<info>Cut to: Street. Seymour runs down a street and looks in Panucci's 
+window. He sniffs Fry's hand and face prints on the pavement.</info>
 
-[Cut to: 99c Store. Seymour runs in and sniffs a photo of Fry 
-underneath a notice saying "Do Not Take Checks From This Man"]
+<info>Cut to: 99c Store. Seymour runs in and sniffs a photo of Fry 
+underneath a notice saying "Do Not Take Checks From This Man"</info>
 
-[Cut to: Itelli's Barber Shop. Seymour runs in and sniffs some 
-red hair clippings. He eats some.]
+<info>Cut to: Itelli's Barber Shop. Seymour runs in and sniffs some 
+red hair clippings. He eats some.</info>
 
-[Cut to: Mr Putzz' Mini-Golf. Seymour looks through the railings.]
+<info>Cut to: Mr Putzz' Mini-Golf. Seymour looks through the railings.</info>
 
-[Cut to: Street. Seymour runs down the street and sniffs around. 
+<info>Cut to: Street. Seymour runs down the street and sniffs around. 
 A door opens and someone throws out a pizza box. A Panucci's 
-Pizza box. Seymour runs inside.]
+Pizza box. Seymour runs inside.</info>
 
-[Flashback ends. Fry takes a dive for the lava. Leela and Amy 
-push him to the ground.]
+<info>Flashback ends. Fry takes a dive for the lava. Leela and Amy 
+push him to the ground.</info>
 
 <character>LEELA</character>
 Acting like a moron won't bring your 
@@ -826,7 +826,7 @@ dog back.
 <character>FRY</character>
 Then all hope is lost.  Goodbye Seymour.
 
-[He cries.]
+<info>He cries.</info>
 
 <character>BENDER</character>
 Please stop crying Fry. Here.  I assumed 
@@ -834,7 +834,7 @@ you were just pretending to love the
 dog. To toy with my emotions. Oh what 
 have I done?
 
-[He starts to cry.]
+<info>He starts to cry.</info>
 
 <character>ZOIDBERG</character>
 You didn't do anything. Don't beat yourself 
@@ -858,21 +858,21 @@ it's made of dolomite!
 <character>BENDER</character>
 I'm 40% dolomite!
 
-[He bags his chest and dives in. His hat and cape float on the 
-surface. Everyone gasps.]
+<info>He bags his chest and dives in. His hat and cape float on the 
+surface. Everyone gasps.</info>
 
-[Cut to: Lava.]
+<info>Cut to: Lava.</info>
 
 <character>BENDER</character>
 Oh it's hot, it's very hot!
 
-[His casing starts to come apart.]
+<info>His casing starts to come apart.</info>
 
-[Flashback - January 1st 2000.]
+<info>Flashback - January 1st 2000.</info>
 
-[Cryogenics Lab. Seymour barks at Fry, frozen in the cryo-tube. 
+<info>Cryogenics Lab. Seymour barks at Fry, frozen in the cryo-tube. 
 A man fixes a radiator and a cryogenisist sits at his desk nursing 
-a hangover.]
+a hangover.</info>
 
 <character>CRYOGENISIST</character>
 Ugh, I am one hungover cryogenisist! 
@@ -886,10 +886,10 @@ freezing them boss.
 <character>CRYOGENISIST</character>
 I think you're forgetting our motto.
 
-[He points at a sign that reads "You Can Solve All Your Problems 
+<info>He points at a sign that reads "You Can Solve All Your Problems 
 By Freezing Them!" Underneath in a cryo-tube is a woman with 
 a rolling pin and an apron. Probably the man's wife. Enter Mr 
-and Mrs Fry.]
+and Mrs Fry.</info>
 
 MR <character>FRY</character>
 Are you the cryogenisist who called 
@@ -899,7 +899,7 @@ about our son's dog?
 Oh you must be the Fry's. Yeah he's 
 right over there.
 
-[He points to Seymour who is still yelping at Fry's freezer.]
+<info>He points to Seymour who is still yelping at Fry's freezer.</info>
 
 <character>MRS FRY</character>
 Sorry we're late, we all got sick from 
@@ -908,8 +908,8 @@ eating bad baloney!
 MR <character>FRY</character>
 Y2K!
 
-[Mr and Mrs Fry stand by Fry's freezer but they can't see him 
-inside.]
+<info>Mr and Mrs Fry stand by Fry's freezer but they can't see him 
+inside.</info>
 
 <character>MRS FRY</character>
 What's he so worked up about?
@@ -919,15 +919,15 @@ He's just upset because our boy's missing.
 C'mon you overgrown rat. Lead us to 
 Philip.
 
-[Seymour struggles to go back to Fry but Mr Fry drags him out.]
+<info>Seymour struggles to go back to Fry but Mr Fry drags him out.</info>
 
-[Flashback ends. Bender still hasn't returned to the surface.]
+<info>Flashback ends. Bender still hasn't returned to the surface.</info>
 
 <character>LEELA</character>
 Bender's been down there too long. I'm 
 going in after him.
 
-[She starts to rip off her wrestling suit.]
+<info>She starts to rip off her wrestling suit.</info>
 
 <character>FARNSWORTH</character>
 Professor! Lava! Hot!
@@ -942,7 +942,7 @@ And that is why they call me Bender
 The Magnificent!  Hey where'd everybody 
 go?
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
 <character>BENDER</character>
 OK! Let's clone us some dog!
@@ -966,7 +966,7 @@ Indeed.
 <character>FRY</character>
 Stop the cloning.
 
-[He picks up a spanner and hits the Clone-O-Mat with it.]
+<info>He picks up a spanner and hits the Clone-O-Mat with it.</info>
 
 <character>FARNSWORTH</character>
 Oh sure! Smash the smart guy's machine!
@@ -989,9 +989,9 @@ when I knew him and that's when I loved
 him.  I'll never forget him. But he 
 forgot me a long long time ago.
 
-[He kisses Seymour and walks away.]
+<info>He kisses Seymour and walks away.</info>
 
-[Flashback - January 2nd 2000. The song I Will Wait For You from 
+<info>Flashback - January 2nd 2000. The song I Will Wait For You from 
 the film Les Parapluies de Cherbourg plays. Seymour sits outside 
 Panucci's Pizza waiting for Fry to come back. It changes to summer, 
 then autumn, a snowy and rainy winter and back to spring. Panucci 
@@ -999,6 +999,6 @@ gives Seymour a slice of pizza. It goes through autumn and winter
 again. Seymour starts to age a little. The "U" from the "Panucci's 
 Pizza" sign falls on a man. An aged Panucci pats Seymour on the 
 head. Seymour continues waiting for Fry to return, and closes 
-his eyes...]
+his eyes...</info>
 
 <info>THE END</info></xml>

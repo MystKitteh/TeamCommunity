@@ -7,17 +7,17 @@ Episode 308
 <author>Patric M. Verrone</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Deciphered From Crop Circles.]
+<info>Opening Credits. Caption: Deciphered From Crop Circles.</info>
 
-[Outside The Comedy Simulator. "Amateur Nite" is displayed in 
+<info>Outside The Comedy Simulator. "Amateur Nite" is displayed in 
 lights on the building; "Amateur Valet Parking Nite" is displayed 
 on a billboard by the door. A man and a woman wait for the valet 
 to bring their car round and he promptly crashes it into a lamppost, 
-gets out and hands the man the keys.]
+gets out and hands the man the keys.</info>
 
-[Cut to: The Comedy Simulator. Fry, Leela and Bender watch a 
+<info>Cut to: The Comedy Simulator. Fry, Leela and Bender watch a 
 robot with a mechanical voice finish his act. Leela is wearing 
-her cryogenics officer jacket.]
+her cryogenics officer jacket.</info>
 
 <character>ROBOT</character>
 So I says, "Super collider? I just met 
@@ -25,8 +25,8 @@ her!"  And then they built the super
 collider. Thank you, you've been a great 
 audience.
 
-[The audience applauds and the robot leaves. Florp takes the 
-mic.]
+<info>The audience applauds and the robot leaves. Florp takes the 
+mic.</info>
 
 <character>FLORP</character>
 Humorbot 5.0, ladies and gentlemen. 
@@ -34,7 +34,7 @@ Our next stand-up's a veteran of four
 comedy traffic schools. Give it way 
 up for Bobcat Zoidberg!
 
-[The audience applauds and Zoidberg wanders onto the stage.]
+<info>The audience applauds and Zoidberg wanders onto the stage.</info>
 
 <character>FRY</character>
 (cheering) Alright!
@@ -45,7 +45,7 @@ up for Bobcat Zoidberg!
 <character>BENDER</character>
 (cheering) Alright, Zoidberg!
 
-[The applause dies down.]
+<info>The applause dies down.</info>
 
 <character>ZOIDBERG</character>
 Earth. What a planet. On Earth, you 
@@ -55,20 +55,20 @@ I'm not yelling loud enough. (shouting)
 On Earth, everybody is always looking 
 for a giant squid. On my planet -
 
-[A tomato hits him in the face and he eats it. At their table, 
-Bender stresses a spoon back on its handle.]
+<info>A tomato hits him in the face and he eats it. At their table, 
+Bender stresses a spoon back on its handle.</info>
 
 <character>BENDER</character>
 Reload.
 
-[Leela puts another tomato in and he fires. It misses Zoidberg 
-and he carries on with his act.]
+<info>Leela puts another tomato in and he fires. It misses Zoidberg 
+and he carries on with his act.</info>
 
 <character>ZOIDBERG</character>
 So these three parasitic worms bore 
 into a human's head...
 
-[The audience murmurs to each other.]
+<info>The audience murmurs to each other.</info>
 
 <character>WOMAN</character>
 Eww, gross.
@@ -78,8 +78,8 @@ Eww, gross.
 - uh-oh.  Wait, stop! I've got more! 
 (groaning) Oh.
 
-[Planet Express: Meeting Room. The next morning, the rest of 
-the crew listen to Zoidberg's sad story.]
+<info>Planet Express: Meeting Room. The next morning, the rest of 
+the crew listen to Zoidberg's sad story.</info>
 
 <character>ZOIDBERG</character>
 My whole life I worked on that act. 
@@ -106,7 +106,7 @@ back when my hips were made of bone.
 As it happens, I still have some of 
 my original 78s.
 
-[He picks up a big 78 million <character>RPM</character> Holodisk, blows the dust off 
+<info>He picks up a big 78 million <character>RPM</character> Holodisk, blows the dust off 
 it and puts the disc onto a gramophone-like machine. A black-and-white 
 3D picture appears in the middle of the table. The studio is 
 Metropolitan Holoplays and the title is A Close Shaving (<character>MMCMXXII</character>). 
@@ -118,7 +118,7 @@ exclaims "You are a buffoon. Now cut my beard". The barber puts
 shaving foam over the man's chin and cuts his head off. The man's 
 head bounces through the door. The barber waves the man's hat. 
 "Sir, you forgot your hat!" The film ends with the caption "The 
-End" and "Buy Moxie". The crew chuckle.]
+End" and "Buy Moxie". The crew chuckle.</info>
 
 <character>HERMES</character>
 You're right, crabby. He's a hell of 
@@ -128,8 +128,8 @@ a lot funnier than you could ever be.
 Maybe so, but perhaps if I wrote him 
 and asked for a few hundred pointers...
 
-[Planet Express: Zoidberg's Office. Fry sits with Zoidberg as 
-he plans his letter.]
+<info>Planet Express: Zoidberg's Office. Fry sits with Zoidberg as 
+he plans his letter.</info>
 
 <character>ZOIDBERG</character>
 This letter has to be very personal, 
@@ -138,8 +138,8 @@ thinking) Dear Uncle Zoid, Greetings
 from your long-lost nephew. Norm and 
 Sam and Sadie's boy, remember? ...
 
-[Fade to: Outside Final Curtain Old Actors' Home. The building 
-is a run-down heap on Hollywood and Vine.]
+<info>Fade to: Outside Final Curtain Old Actors' Home. The building 
+is a run-down heap on Hollywood and Vine.</info>
 
 <character>ZOIDBERG</character>
 (voice-over) ...Now I am the most important 
@@ -147,9 +147,9 @@ doctor at the delivery company where
 I work. But, sadly, my life is bereft 
 of laughter.
 
-[Cut to: Final Curtain Old Actors' Home Lounge. The inside of 
+<info>Cut to: Final Curtain Old Actors' Home Lounge. The inside of 
 the building is as equally run-down as the outside. An old Decapodian 
-sits in a chair reading Zoidberg's letter.]
+sits in a chair reading Zoidberg's letter.</info>
 
 <character>ZOID</character>
 (reading) I beg of you, Mr. Funny Uncle, 
@@ -157,7 +157,7 @@ teach me the comedy business. Sincerely,
 Zoidberg. (talking) Oy, isn't that nice? 
 He took the time.
 
-[An old woman looks over his shoulder.]
+<info>An old woman looks over his shoulder.</info>
 
 <character>WOMAN</character>
 What's that scribbldy-gook?
@@ -172,24 +172,24 @@ The first funny thing you must do is
 put all of your money in the form of 
 a cashier's cheque and come to Hollywood.
 
-[Planet Express: Lounge. Zoidberg reads the reply to Bender, 
-Fry and Leela.]
+<info>Planet Express: Lounge. Zoidberg reads the reply to Bender, 
+Fry and Leela.</info>
 
 <character>ZOIDBERG</character>
 (reading) Sincerely, Harold Zoid. P.S. 
 Cashier's cheque. (talking) Did you 
 hear that? I'm going to Hollywood!
 
-[The ship flies across the California desert, through the middle 
+<info>The ship flies across the California desert, through the middle 
 of the third Hollywood "O" and down to a multi-storey car park. 
 Leela sets down in a compact only space, shunting the cars either 
-side out of the way.]
+side out of the way.</info>
 
-[Cut to: Ship's Cockpit. Leela puts the huge steering lock on 
-the wheel.]
+<info>Cut to: Ship's Cockpit. Leela puts the huge steering lock on 
+the wheel.</info>
 
-[Hollywood Street. The foursome board an open-top Star Tours 
-bus which, as the disclaimer states, does not leave Earth.]
+<info>Hollywood Street. The foursome board an open-top Star Tours 
+bus which, as the disclaimer states, does not leave Earth.</info>
 
 <character>TOUR GUIDE</character>
 Welcome to Hollywood! I must warn you, 
@@ -201,8 +201,8 @@ Fox uses those searchlights to blind
 pilots, then film the resulting plane 
 crashes.
 
-[The passengers get a demonstration as a plane crashes nearby 
-in a huge fireball. Bender takes a photo of it.]
+<info>The passengers get a demonstration as a plane crashes nearby 
+in a huge fireball. Bender takes a photo of it.</info>
 
 <character>BENDER</character>
 Neat!
@@ -223,10 +223,10 @@ his luxurious Bel-Air home.
 <character>BENDER</character>
 Yes, I will.
 
-[He jumps off the bus, lands on a car and runs through the hedge.]
+<info>He jumps off the bus, lands on a car and runs through the hedge.</info>
 
-[Cut to: Outside Calculon's House. Bender rings the doorbell 
-and Calculon, wearing a personalised bathrobe, answers it.]
+<info>Cut to: Outside Calculon's House. Bender rings the doorbell 
+and Calculon, wearing a personalised bathrobe, answers it.</info>
 
 <character>CALCULON</character>
 Are you my new hot water heater?
@@ -242,7 +242,7 @@ Come on, don't you remember how much
 I was bugging you, don't you? 'Cause 
 it was a lot, you remember, right?
 
-[Calculon pushes him away.]
+<info>Calculon pushes him away.</info>
 
 <character>CALCULON</character>
 Look, I'm programmed to be very busy. 
@@ -255,8 +255,8 @@ a bender.
 Bender? That was the other guy. My name's 
 Boiler.
 
-[Calculon's Bathroom. Calculon stands in the shower. Bender stands 
-behind him spraying him with water.]
+<info>Calculon's Bathroom. Calculon stands in the shower. Bender stands 
+behind him spraying him with water.</info>
 
 <character>CALCULON</character>
 Nice work, Boiler.
@@ -264,8 +264,8 @@ Nice work, Boiler.
 <character>BENDER</character>
 Thanks. And call me Bender.
 
-[Hollywood Street. The tour bus passes Hugo Bott, Calvin Clone 
-and a restaurant called Ebola.]
+<info>Hollywood Street. The tour bus passes Hugo Bott, Calvin Clone 
+and a restaurant called Ebola.</info>
 
 <character>ZOIDBERG</character>
 That's where I'm meeting Uncle Zoid 
@@ -273,10 +273,10 @@ for lunch to discuss my Hollywood dreams.
 Next time you see me, don't be surprised 
 if I've eaten.
 
-[He runs off the bus and into the restaurant, wooping.]
+<info>He runs off the bus and into the restaurant, wooping.</info>
 
-[Cut to: Ebola. He stops wooping when he sees a smartly-dressed 
-Zoid sitting at a table waiting for him.]
+<info>Cut to: Ebola. He stops wooping when he sees a smartly-dressed 
+Zoid sitting at a table waiting for him.</info>
 
 <character>ZOIDBERG</character>
 Uncle Zoid, you're looking young enough 
@@ -308,8 +308,8 @@ why you're perfect for drama.
 Hmm, serious drama. Perhaps it is time 
 to give up comedy.
 
-[A waiter trips and drops a plate of spaghetti bolognese on Zoidberg. 
-The other diners laugh.]
+<info>A waiter trips and drops a plate of spaghetti bolognese on Zoidberg. 
+The other diners laugh.</info>
 
 <character>ZOID</character>
 I'm putting together a big drama picture 
@@ -347,9 +347,9 @@ Yeah.
 <character>ZOIDBERG</character>
 We'll split an order.
 
-[Ship's Cockpit. The ship is still parked. Zoidberg, Fry and 
+<info>Ship's Cockpit. The ship is still parked. Zoidberg, Fry and 
 Leela are back. Zoidberg cries. Bender walks in with a cap, a 
-personalised jacket, shades and a cigar.]
+personalised jacket, shades and a cigar.</info>
 
 <character>BENDER</character>
 What's with Monstro?
@@ -367,7 +367,7 @@ already I'm a Hollywood phoney.
 TVs Calculon to help, now that I'm in 
 showbiz.
 
-[He turns around and shows the others the All My Circuits logo 
+<info>He turns around and shows the others the All My Circuits logo 
 on the back of his jacket.
 
 <character>FRY</character>
@@ -377,14 +377,14 @@ Since when have you been in the biz?
 Long enough, little man. Long enough.
 
 [His hand starts shaking and it bursts with water which covers 
-Fry.]
+Fry.</info>
 
-[Outside All My Circuits Soundstage. The quartet pass a sign 
+<info>Outside All My Circuits Soundstage. The quartet pass a sign 
 saying "Taping In Progress. Please Announce Self With Bullhorn" 
-as they go in.]
+as they go in.</info>
 
-[Calculon's Dressing Room. They walk in as Calculon applies WD-40 
-to himself.]
+<info>Calculon's Dressing Room. They walk in as Calculon applies WD-40 
+to himself.</info>
 
 <character>BENDER</character>
 Calculon, as your hot water heater......I 
@@ -438,20 +438,20 @@ Then I'll do it!
 <character>ZOIDBERG</character>
 Hooray!
 
-[Bender opens his chest cabinet.]
+<info>Bender opens his chest cabinet.</info>
 
 <character>BENDER</character>
 Here's your chequebook.
 
-[The Magnificent Three Soundstage. Sets are built and backdrops 
-are painted as Calculon introduces Zoid.]
+<info>The Magnificent Three Soundstage. Sets are built and backdrops 
+are painted as Calculon introduces Zoid.</info>
 
 <character>CALCULON</character>
 Ladies and gentlemen, I give you our 
 director, the legendary Harold Zoid!
 
-[The cast and crew applaud Zoid, who is dressed riding trousers 
-and various other odd clothes.]
+<info>The cast and crew applaud Zoid, who is dressed riding trousers 
+and various other odd clothes.</info>
 
 <character>ZOID</character>
 Thank you. A more classic movie plot 
@@ -472,8 +472,8 @@ Bender, you said "wink wink" out loud.
 No, I didn't. (quietly) Raise middle 
 finger.
 
-[Time Lapse. Calculon stands in front of a backdrop of the White 
-House and Zoid tries to find a good angle.]
+<info>Time Lapse. Calculon stands in front of a backdrop of the White 
+House and Zoid tries to find a good angle.</info>
 
 <character>ZOID</character>
 Now, remember, and I can't stress this 
@@ -481,14 +481,14 @@ enough, this is a talkie. So I want
 the full gamut of emotions from every 
 actor in every scene.
 
-[He walks onto the set with Calculon.]
+<info>He walks onto the set with Calculon.</info>
 
 <character>ZOIDBERG</character>
 The Magnificent Three. Scene one, take 
 one.
 
-[He claps the clapperboard together, which has been painted on 
-his claw.]
+<info>He claps the clapperboard together, which has been painted on 
+his claw.</info>
 
 <character>ZOID</character>
 And, action!
@@ -504,8 +504,8 @@ talkie, damnit! You've got to emote
 more! And you extras: Wave your arms 
 and make faces. What is this, a morgue?
 
-[Time Lapse. Zoid, Calculon and some extras stand on a set of 
-the White House oval office.]
+<info>Time Lapse. Zoid, Calculon and some extras stand on a set of 
+the White House oval office.</info>
 
 <character>ZOIDBERG</character>
 The Magnificent Three. Scene 10, take 
@@ -514,15 +514,15 @@ The Magnificent Three. Scene 10, take
 <character>ZOID</character>
 Action. And I mean circus-grade action.
 
-[As Calculon over-acts his way through the scene, extras run 
+<info>As Calculon over-acts his way through the scene, extras run 
 around the set, waving their arms, making noises and impersonating 
-apes.]
+apes.</info>
 
 <character>CALCULON</character>
 Sir, I call upon you not as a president 
 but as a father.
 
-[He cries on Zoid's shoulder. Zoid pushes him away.]
+<info>He cries on Zoid's shoulder. Zoid pushes him away.</info>
 
 <character>ZOID</character>
 Cut, cut, cut it!  Would you show a 
@@ -532,16 +532,16 @@ doesn't mean you can't do a little comedy
 in the background.  Throw a pie or two, 
 for God's sake.
 
-[Time Lapse. The extras run around in front of the White House 
-backdrop throwing pies and laughing.]
+<info>Time Lapse. The extras run around in front of the White House 
+backdrop throwing pies and laughing.</info>
 
-[Time Lapse. On a set of the White House roof, Calculon finishes 
-a scene. There is a rain a wind machine nearby.]
+<info>Time Lapse. On a set of the White House roof, Calculon finishes 
+a scene. There is a rain a wind machine nearby.</info>
 
 <character>CALCULON</character>
 (screaming) Nooo!
 
-[He cries. Zoid runs onto the set.]
+<info>He cries. Zoid runs onto the set.</info>
 
 <character>ZOID</character>
 Cut, cut it! Eck! Look, look, it's alright, 
@@ -555,8 +555,8 @@ Well, uh, editing is a long and expensive
 process but we spent all the money on 
 pies, so it'll be ready Friday.
 
-[Loew's Gaddafi's Mann's Grauman's Chinese Theater. Bender takes 
-a seat with the stars in the packed auditorium.]
+<info>Loew's Gaddafi's Mann's Grauman's Chinese Theater. Bender takes 
+a seat with the stars in the packed auditorium.</info>
 
 <character>BENDER</character>
 Nice turnout, Calculon. That Oscar's 
@@ -566,10 +566,10 @@ practically on your mantel.
 I just pray they like me half as much 
 as I do.
 
-[The lights dim and the credits roll. The audience cheers when 
+<info>The lights dim and the credits roll. The audience cheers when 
 Zoid's name comes up on the screen. The first scene is outside 
 The White House; Washington D.D. The typer corrects it to D.C. 
-Calculon and Zoid have a scene together in the oval office.]
+Calculon and Zoid have a scene together in the oval office.</info>
 
 <character>CALCULON</character>
 (in movie) I agreed to be your vice 
@@ -579,12 +579,12 @@ son.  Thank you, Lieutenant Smith.
 <character>ZOIDBERG</character>
 (in movie) Good morning, Mr. Vice President!
 
-[Outside Loew's Gaddafi's Grauman's Chinese Theater. Next door, 
+<info>Outside Loew's Gaddafi's Grauman's Chinese Theater. Next door, 
 Pauly Shore's Jury Duty II is still playing. The Planet Express 
-ship flies back and forth over the building.]
+ship flies back and forth over the building.</info>
 
-[Cut to: Ship's Cockpit. Fry peers through the window. He is 
-wearing a light blue tuxedo.]
+<info>Cut to: Ship's Cockpit. Fry peers through the window. He is 
+wearing a light blue tuxedo.</info>
 
 <character>FRY</character>
 Leela, we're missing the premiere.  
@@ -597,12 +597,12 @@ No! It's the principle of the thing.
 Besides, I think I see a parking lot 
 up ahead.
 
-[The ship lands on a black surface - and starts to sink. Leela 
-has landed on a tar pit. She and Fry scream.]
+<info>The ship lands on a black surface - and starts to sink. Leela 
+has landed on a tar pit. She and Fry scream.</info>
 
-[Loew's Gaddafi's Mann's Grauman's Chinese Theater. The film 
+<info>Loew's Gaddafi's Mann's Grauman's Chinese Theater. The film 
 has nearly finished playing. Calculon and Zoid are on the roof 
-of the White House in the rain. Zoid is sat in a wheelchair.]
+of the White House in the rain. Zoid is sat in a wheelchair.</info>
 
 <character>CALCULON</character>
 (in movie) Father, I have asked you 
@@ -611,19 +611,19 @@ we could have a heart-to-heart talk.
 I will never follow in your footsteps. 
 Here is my resignation as vice president.
 
-[Zoid cuts the paper up.]
+<info>Zoid cuts the paper up.</info>
 
 <character>ZOID</character>
 (in movie) No! My son will not shame 
 me like this. I would sooner die, I 
 would!
 
-[He pushes his wheelchair away.]
+<info>He pushes his wheelchair away.</info>
 
 <character>CALCULON</character>
 (in movie) Father! The ledge!
 
-[Zoid's chair rolls off the ledge.]
+<info>Zoid's chair rolls off the ledge.</info>
 
 <character>ZOID</character>
 (in movie) Oy!
@@ -631,7 +631,7 @@ would!
 <character>CALCULON</character>
 (in movie) Oh.
 
-[Zoidberg opens a hatch in the roof.]
+<info>Zoidberg opens a hatch in the roof.</info>
 
 <character>ZOIDBERG</character>
 (in movie) The president is dead. Congratulations, 
@@ -640,12 +640,12 @@ Mr. President.
 <character>CALCULON</character>
 (screaming; in movie) Nooo!
 
-[The film ends with Bender credited as executive producer.]
+<info>The film ends with Bender credited as executive producer.</info>
 
 <character>BENDER</character>
 (cheering) Woohoo! Yeah! He's a visionary!
 
-[Calculon looks around. The room is empty.]
+<info>Calculon looks around. The room is empty.</info>
 
 <character>CALCULON</character>
 Everyone walked out. They hated it. 
@@ -663,13 +663,13 @@ bucks here! You get me that Oscar, or
 you're dead! You and these snivelling 
 lobsters! Dead. You hear me? Dead!
 
-[Bender and Zoidberg huddle together. Calculon leaves.]
+<info>Bender and Zoidberg huddle together. Calculon leaves.</info>
 
 <character>ZOID</character>
 Oy, now he emotes!
 
-[Calculon's Lounge. Calculon reads Daily Variety. The headline 
-reads "Osc Noms Announced" and "Also, Oscar Nominations Announced".]
+<info>Calculon's Lounge. Calculon reads Daily Variety. The headline 
+reads "Osc Noms Announced" and "Also, Oscar Nominations Announced".</info>
 
 <character>CALCULON</character>
 400 categories and not a single nomination 
@@ -696,8 +696,8 @@ How 'bout we rig the awards?
 <character>CALCULON</character>
 That's fine too.
 
-[Ship's Cockpit. The ship is still in the tar pit. Leela tries 
-the engine but it stalls.]
+<info>Ship's Cockpit. The ship is still in the tar pit. Leela tries 
+the engine but it stalls.</info>
 
 <character>LEELA</character>
 It's no use. The tar is too thick. Plus, 
@@ -708,7 +708,7 @@ Well, we missed the premiere and we're
 gonna die. We might as well enjoy the 
 sights.  Oh my God, Sylvester Stallone!
 
-[Final Curtain Old Actors' Home: Zoid's Room.]
+<info>Final Curtain Old Actors' Home: Zoid's Room.</info>
 
 <character>ZOIDBERG</character>
 This is where you live? I though you 
@@ -740,11 +740,11 @@ me. Bah! It's better to die now.
 No. This is one death Dr. Zoidberg won't 
 be responsible for. Zoidberg away!
 
-[He leaves with an ineffective walk.]
+<info>He leaves with an ineffective walk.</info>
 
-[Outside Academy Awards. Florp arrives in a limo and photographers 
+<info>Outside Academy Awards. Florp arrives in a limo and photographers 
 line the red carpet to take pictures of the stars. Joan Rivers's 
-head presents the TV coverage.]
+head presents the TV coverage.</info>
 
 <character>RIVERS</character>
 Hi, I'm Joan Rivers's head. I tell you, 
@@ -754,16 +754,16 @@ it's true! Oh, oh, oh, here comes Jack
 Nicholson's <character>DNA</character>, reconstituted in a 
 gorilla body.
 
-[The gorilla walks up the carpet. Around the back Bender, wearing 
+<info>The gorilla walks up the carpet. Around the back Bender, wearing 
 a chef's hat, pushes a trolley towards a door. A doorman stops 
-him.]
+him.</info>
 
 <character>BENDER</character>
 Catering.
 
-[The doorman lifts the lid off the plate. Zoidberg is underneath 
+<info>The doorman lifts the lid off the plate. Zoidberg is underneath 
 with a pineapple in his mouth. The doorman gags and lets Bender 
-inside. Joan Rivers introduces more stars on the red carpet.]
+inside. Joan Rivers introduces more stars on the red carpet.</info>
 
 <character>RIVERS</character>
 Oh, and here's washed-up actor, what's-his-name, 
@@ -775,20 +775,20 @@ getting one?
 I'm a seat-filler, Joan's head. My only 
 marketable skill is to occupy space.
 
-[Academy Awards. Zoid sits between Calculon and Boxy.]
+<info>Academy Awards. Zoid sits between Calculon and Boxy.</info>
 
 <character>CALCULON</character>
 You know, the second I don't win that 
 award, you're cat food. Right, Boxy?
 
-[Boxy beeps and points a laser at Zoid. Some music plays and 
-the audience applauds.]
+<info>Boxy beeps and points a laser at Zoid. Some music plays and 
+the audience applauds.</info>
 
 <character>ANNOUNCER</character>
 And now, the host of the 1074th Academy 
 Awards, Billy Crystal.
 
-[The curtain lifts. Crystal's head is atop a giant Oscar statuette.]
+<info>The curtain lifts. Crystal's head is atop a giant Oscar statuette.</info>
 
 <character>CRYSTAL</character>
 Now I know how a Pez dispenser feels. 
@@ -796,7 +796,7 @@ Alright, we're already one hour behind.
 Our first award tonight, Best Cinematography 
 in a Non-Visible Spectrum.
 
-[Ship's Cockpit.]
+<info>Ship's Cockpit.</info>
 
 <character>FRY</character>
 It's been two weeks. You wanna play 
@@ -807,13 +807,13 @@ shoes?
 Oh, I always knew I'd die at the bottom 
 of a pit. But a pit full of tar?
 
-[The ship bangs and tilts.]
+<info>The ship bangs and tilts.</info>
 
 <character>FRY</character>
 What was that? A tar dolphin or a tar 
 shark?
 
-[Leela looks at a scanner.]
+<info>Leela looks at a scanner.</info>
 
 <character>LEELA</character>
 It's some kind of hollow tube, devoid 
@@ -824,9 +824,9 @@ We can blast our way in and escape!
 Alright, but I still feel like having 
 a shoe.
 
-[He starts to eat it and Leela tries the engine.]
+<info>He starts to eat it and Leela tries the engine.</info>
 
-[Academy Awards. Backstage, Bender peeps through a curtain.]
+<info>Academy Awards. Backstage, Bender peeps through a curtain.</info>
 
 <character>ZOIDBERG</character>
 What category are they on?
@@ -840,7 +840,7 @@ That leave Best Soft-Drink Product Placement
 and then Best Actor. We don't have much 
 time.
 
-[On the stage, the next category is presented.]
+<info>On the stage, the next category is presented.</info>
 
 <character>CRYSTAL</character>
 And the nominees for Best Soft-Drink 
@@ -851,7 +851,7 @@ Star Trek: The Pepsi Generation, They
 Call Me Mr. Pibb and Snow White And 
 The 7 Ups.
 
-[Backstage, Bender swaps the microphones over.]
+<info>Backstage, Bender swaps the microphones over.</info>
 
 <character>BENDER</character>
 And now, to present the award for Best 
@@ -859,14 +859,14 @@ Actor......a bit player in the flop
 movie The Magnificent Three......Dr. 
 Zoidberg.
 
-[The audience applauds. Zoidberg throws Crystal's head out of 
-his jar and the audience cheers louder.]
+<info>The audience applauds. Zoidberg throws Crystal's head out of 
+his jar and the audience cheers louder.</info>
 
 <character>CALCULON</character>
 (quietly) OK, Boxy, keep your prong 
 on the trigger.
 
-[Zoid whimpers.]
+<info>Zoid whimpers.</info>
 
 <character>ZOIDBERG</character>
 And the nominees for Best Actor are: 
@@ -879,7 +879,7 @@ of the fifth guy - Calculon, for his
 powerhouse performance in The Magnificent 
 Three.
 
-[The audience murmur. Backstage are two men with ballot boxes.]
+<info>The audience murmur. Backstage are two men with ballot boxes.</info>
 
 <character>MAN #1</character>
 Uh-oh, he read the wrong name.
@@ -888,22 +888,22 @@ Uh-oh, he read the wrong name.
 (whispering) Shh, just play along, like 
 they did with Marisa Tomei.
 
-[Zoid cheers.]
+<info>Zoid cheers.</info>
 
 <character>ZOID</character>
 Hooray, I won't be murdered. I'll live 
 another day. Another day of...pathetic, 
 forgotten misery.
 
-[Zoidberg sees his sad uncle and opens the envelope.]
+<info>Zoidberg sees his sad uncle and opens the envelope.</info>
 
 <character>ZOIDBERG</character>
 And the winner is... And the winner, 
 instead of any of the nominees, is the 
 legendary Harold Zoid!
 
-[Zoid runs onto the stage and the audience clap in confusion. 
-Zoid hugs Zoidberg.]
+<info>Zoid runs onto the stage and the audience clap in confusion. 
+Zoid hugs Zoidberg.</info>
 
 <character>ZOID</character>
 Thank you. Thank you so much! You know, 
@@ -917,17 +917,17 @@ life is that people care about you,
 whether it's a whole crowd......or just 
 one die-hard fan.
 
-[He looks at Zoidberg. The audience claps and Jack Nicholson 
+<info>He looks at Zoidberg. The audience claps and Jack Nicholson 
 swings from a chandelier.
 
-[Ebola. Bender, Zoid and Zoidberg attend the Oscars party.]
+[Ebola. Bender, Zoid and Zoidberg attend the Oscars party.</info>
 
 <character>ZOID</character>
 Thank you, nephew.  Now I can die happy. 
 10 seconds from now, when Calculon kills 
 us.
 
-[Calculon and Boxy walk in.]
+<info>Calculon and Boxy walk in.</info>
 
 <character>CALCULON</character>
 Harold Zoid!
@@ -935,7 +935,7 @@ Harold Zoid!
 <character>BENDER</character>
 Hit the deck!
 
-[He and Zoidberg cower under the table.]
+<info>He and Zoidberg cower under the table.</info>
 
 <character>CALCULON</character>
 Where's that Oscar?
@@ -945,13 +945,13 @@ Here, enjoy. What are you getting upset?
 It's slightly less fraudulent for you 
 to have it.
 
-[He hands it to Calculon.]
+<info>He hands it to Calculon.</info>
 
 <character>CALCULON</character>
 Yes, yes it's a real beauty. Someday 
 I hope to win one of my own.
 
-[He puts it back on the table.]
+<info>He puts it back on the table.</info>
 
 <character>BENDER</character>
 Then you're not going to kill us, Your 
@@ -962,7 +962,7 @@ Nay. I respect and admire Harold Zoid
 too much to beat him to death with his 
 own Oscar.
 
-[The crowd claps and the room shakes.]
+<info>The crowd claps and the room shakes.</info>
 
 <character>ZOIDBERG</character>
 Earthquake!
@@ -974,9 +974,9 @@ Hit the deck!
 Let the earth quake, I've got somebody's 
 Oscar!
 
-[Hollywood Street. The tar-covered Planet Express ship bursts 
+<info>Hollywood Street. The tar-covered Planet Express ship bursts 
 out of an L.A. subway terminal and glides to a stop outside Ebola. 
-Leela and Fry walk down the steps.]
+Leela and Fry walk down the steps.</info>
 
 <character>FRY</character>
 We made it! I'm at a Hollywood party!
@@ -986,7 +986,7 @@ I'm sorry, sir, this is a private -
 oh, pardon me, I see you're with Mr. 
 Stallone.
 
-[Stallone's skeleton is stuck to Fry's leg. The doorman lets 
-him and Leela in.]
+<info>Stallone's skeleton is stuck to Fry's leg. The doorman lets 
+him and Leela in.</info>
 
 <info>THE END</info></xml>

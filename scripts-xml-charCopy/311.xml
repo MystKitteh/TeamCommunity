@@ -8,12 +8,12 @@ Episode 311
 <author>Lewis Morton</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Please Rise For The Futurama Theme 
-Song.]
+<info>Opening Credits. Caption: Please Rise For The Futurama Theme 
+Song.</info>
 
-[Planet Express: Lounge. On the TV, Morbo and Linda present an 
+<info>Planet Express: Lounge. On the TV, Morbo and Linda present an 
 early morning breakfast programme called Good Morning Earth. 
-They are wearing pyjamas and sit in a cosy sitting room set.]
+They are wearing pyjamas and sit in a cosy sitting room set.</info>
 
 <character>MORBO</character>
 ...So I gave the cookies to Fawn and 
@@ -22,18 +22,18 @@ the kids and they couldn't believe it
 (shouting) Tremble, puny earthlings! 
 One day my race will destroy you all!
 
-[Leela, Fry and Bender eat while they watch. The doorbell rings.]
+<info>Leela, Fry and Bender eat while they watch. The doorbell rings.</info>
 
 <character>LEELA</character>
 Could one of you guys get that?
 
-[They both shake their heads she narrows her eye at them.]
+<info>They both shake their heads she narrows her eye at them.</info>
 
-[Planet Express: Entrance Foyer. Leela opens the door and looks 
+<info>Planet Express: Entrance Foyer. Leela opens the door and looks 
 around but there doesn't appear to be anyone there. She hears 
-a squealing noise, looks down and gasps.]
+a squealing noise, looks down and gasps.</info>
 
-[Cut to: Outside Planet Express.]
+<info>Cut to: Outside Planet Express.</info>
 
 <character>LEELA</character>
 It's a doorbell baby!  Hello, little 
@@ -43,7 +43,7 @@ baby too, so --
 <character>BENDER</character>
 Garbage, huh? I'll take care of it.
 
-[He starts stamping on the basket.]
+<info>He starts stamping on the basket.</info>
 
 <character>LEELA</character>
 Bender, stop! It's a baby!
@@ -51,16 +51,16 @@ Bender, stop! It's a baby!
 <character>BENDER</character>
 A baby what?  Ow!
 
-[Leela bends down and unwraps the blankets. There is no baby 
+<info>Leela bends down and unwraps the blankets. There is no baby 
 inside. Instead, there is a green card with a sad looking kid 
 on it holding up an empty food dish. Written along the top of 
-the card is "Cookieville Minimum-Security Orphanarium�.]
+the card is "Cookieville Minimum-Security Orphanarium�.</info>
 
 <character>LEELA</character>
 Oh, it's just a card -- from the orphanarium 
 I grew up in.
 
-[The card speaks with a child's voice.]
+<info>The card speaks with a child's voice.</info>
 
 <character>CARD</character>
 Leela, you're invited to reunion at 
@@ -68,7 +68,7 @@ Cookieville Minimum-Security Orphanarium.
 Please stand clear of self-destructing 
 basket.
 
-[The basket explodes.]
+<info>The basket explodes.</info>
 
 <character>BENDER</character>
 A reunion at your old orphanarium, eh? 
@@ -79,9 +79,9 @@ No way, jose-bot. I never wanna see
 those other orphans again! Not after 
 the way they used to pick on me.
 
-[Flashback: In the kids' playground at the orphanarium (where 
+<info>Flashback: In the kids' playground at the orphanarium (where 
 everything is broken) the kids stand around young Leela, pointing 
-and chanting.]
+and chanting.</info>
 
 <character>KIDS</character>
 (chanting) One-eye! One-eye! One-eye!
@@ -89,7 +89,7 @@ and chanting.]
 <character>KIRK</character>
 Nice depth-perception, one-eye!
 
-[He laughs.]
+<info>He laughs.</info>
 
 <character>LEELA</character>
 How can you make fun of me, Kirk? You're 
@@ -99,9 +99,9 @@ blind!
 My eyes may not work, but at least I 
 got two of them!
 
-[He laughs again. Leela sighs.]
+<info>He laughs again. Leela sighs.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
 <character>FRY</character>
 Aww. That's terrible, Leela. But imagine 
@@ -116,10 +116,10 @@ in a few choice faces.
 <character>BENDER</character>
 Set a course for adventure!
 
-[Cookieville Minimum-Security Orphanarium Lobby. There a broken, 
+<info>Cookieville Minimum-Security Orphanarium Lobby. There a broken, 
 leaking pipes running across the ceiling, the windows are barred 
 up and owls scavenge around the floor. Leela is wearing a purple 
-suit.]
+suit.</info>
 
 <character>FRY</character>
 Eww!
@@ -127,7 +127,7 @@ Eww!
 <character>BENDER</character>
 What a dump!
 
-[Leela sighs.]
+<info>Leela sighs.</info>
 
 <character>LEELA</character>
 Just like old times. Gosh. The bars 
@@ -138,7 +138,7 @@ back then.  Mr. Vogel? Remember me?
 Leela! You're worthless and no one will 
 ever love you!
 
-[They both laugh.]
+<info>They both laugh.</info>
 
 <character>LEELA</character>
 You used to say that all the time!
@@ -146,11 +146,11 @@ You used to say that all the time!
 <character>VOGEL</character>
 Oh, those were happier days.
 
-[Cookieville Minimum-Security Orphanarium Gymnasium. A "Welcome, 
+<info>Cookieville Minimum-Security Orphanarium Gymnasium. A "Welcome, 
 Orphans" banner has been strung up across the ceiling and the 
 room has been decorated with balloons and streamers. There is 
 a sign that says "Please Abandon Coats In Lobby" next to the 
-buffet table where Fry and Bender stand.]
+buffet table where Fry and Bender stand.</info>
 
 <character>FRY</character>
 Mmm! The gristle-in-a-blanket isn't 
@@ -163,8 +163,8 @@ They've absorbed quite a bit of flavour.
 <character>LEELA</character>
 Hey, look. It's our old group picture.
 
-[They look at a black and white photo of the orphans and a younger 
-Vogel. Fry squints.]
+<info>They look at a black and white photo of the orphans and a younger 
+Vogel. Fry squints.</info>
 
 <character>FRY</character>
 I don't see you anywhere.
@@ -172,8 +172,8 @@ I don't see you anywhere.
 <character>LEELA</character>
 That's me over in Cootietown.
 
-[She points at herself, standing apart from the group. Bender 
-points at someone in the back row.]
+<info>She points at herself, standing apart from the group. Bender 
+points at someone in the back row.</info>
 
 <character>BENDER</character>
 Whoa! Get a load of this average-looking 
@@ -183,8 +183,8 @@ guy!
 That's Adlai Atkins. I used to have 
 kind of a crush on him.
 
-[Flashback. The scene continues from earlier with the kids still 
-chanting.]
+<info>Flashback. The scene continues from earlier with the kids still 
+chanting.</info>
 
 <character>KIDS</character>
 (chanting) One-eye! One-eye!
@@ -197,18 +197,18 @@ Stupid as a French guy!
 One-eye! One-eye! One-eye! One-eye! 
 One-eye!
 
-[Adlai chants with the others and Leela looks at him with lovey 
-eyes and sighs.]
+<info>Adlai chants with the others and Leela looks at him with lovey 
+eyes and sighs.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
 <character>LEELA</character>
 Well, it's time to say hello to the 
 old gang.
 
-[She gulps down her drink, then Bender's and then the water from 
+<info>She gulps down her drink, then Bender's and then the water from 
 a vase of flowers. On the other side of the gym, the orphans 
-have turned into bums.]
+have turned into bums.</info>
 
 <character>MAN #1</character>
 So, watcha been up to since you left 
@@ -247,12 +247,12 @@ of losers.
 <character>MAN #1</character>
 Uh, right, right. We're the losers!
 
-[He coughs and a tooth falls out of his mouth. Kirk arrives.]
+<info>He coughs and a tooth falls out of his mouth. Kirk arrives.</info>
 
 <character>KIRK</character>
 Well, if it isn't old one-eye!
 
-[He laughs.]
+<info>He laughs.</info>
 
 <character>LEELA</character>
 Oh, yeah? Well, shut up, cane boy!
@@ -266,7 +266,7 @@ normal life. She's not gussied up, duded
 out, getting down or where it's at. 
 Now, run along.
 
-[The other five leave.]
+<info>The other five leave.</info>
 
 <character>LEELA</character>
 Thanks, Adlai. I guess you never really 
@@ -294,9 +294,9 @@ Oh, I'm a doctor.
 <character>LEELA</character>
 A tall doctor, you say?
 
-[She brushes her fingers through her hair. At the bar, Bender 
+<info>She brushes her fingers through her hair. At the bar, Bender 
 drinks down one glass while another is being refilled. Vogel 
-stands behind Fry with 12 kids.]
+stands behind Fry with 12 kids.</info>
 
 <character>VOGEL</character>
 Sir, you seem pretty stable. Have you 
@@ -319,8 +319,8 @@ a small stipend of $100 a week.
 <character>BENDER</character>
 $100 a week?
 
-[He spits out his drink, has it refilled, drinks it and spits 
-it out again. Aldai and Leela look at the group photos.]
+<info>He spits out his drink, has it refilled, drinks it and spits 
+it out again. Aldai and Leela look at the group photos.</info>
 
 <character>ADLAI</character>
 I'm so sorry I teased you back then. 
@@ -343,9 +343,9 @@ a perfectly normal two-eyed person.
 <character>LEELA</character>
 Me? Perfectly normal?
 
-[She touches her eye and it squelches. Fry eats more of the hors 
+<info>She touches her eye and it squelches. Fry eats more of the hors 
 d'oeuvres and turns around when he hears laughing kids. Bender 
-is with the kids.]
+is with the kids.</info>
 
 <character>BENDER</character>
 Sons, daughters, meet Uncle Fry.
@@ -365,22 +365,22 @@ to collect.
 <character>BOY</character>
 Our daddy's a giant toy!
 
-[Planet Express: Meeting Room. The staff sit around the conference 
-table.]
+<info>Planet Express: Meeting Room. The staff sit around the conference 
+table.</info>
 
 <character>FARNSWORTH</character>
 Phaser eye surgery is a capital idea. 
 I'm sure Leela's tired of morons gaping 
 at her eye all the time.
 
-[He stares open-mouthed at her.]
+<info>He stares open-mouthed at her.</info>
 
 <character>AMY</character>
 I think cosmetic surgery's great, Leela. 
 I used to be too cute, so I had cuteness-reduction 
 surgery here......and here.
 
-[She points to her nose.]
+<info>She points to her nose.</info>
 
 <character>FRY</character>
 You guys are crazy. Leela doesn't need 
@@ -415,13 +415,13 @@ to help you escape your enemies.
 That's the stupidest idea I've ever 
 heard you imbecile!
 
-[He raises a rolled-up newspaper at Zoidberg. Zoidberg sprays 
-ink at his face and runs off, whooping.]
+<info>He raises a rolled-up newspaper at Zoidberg. Zoidberg sprays 
+ink at his face and runs off, whooping.</info>
 
-[Taco Bellevue Hospital. There is a sign outside that says "Normal, 
+<info>Taco Bellevue Hospital. There is a sign outside that says "Normal, 
 Healthy Baby? Super-Size It For 49c!" Inside, the Planet Express 
 staff and Adlai stand around Leela's bed. The entire top half 
-of Leela head is covered with bandages.]
+of Leela head is covered with bandages.</info>
 
 <character>ADLAI</character>
 Now we'll find out if the operation 
@@ -429,7 +429,7 @@ was a success. Hold on to your hats.
 Oh, I'm sorry, this is the wrong patient. 
 Oops.
 
-[He scribbles on a new pupil with a marker pen.]
+<info>He scribbles on a new pupil with a marker pen.</info>
 
 <character>AMY</character>
 Leela, those eyes look so great on you.
@@ -446,7 +446,7 @@ Uh-uh.
 <character>HERMES</character>
 Wrong.
 
-[Leela looks at herself in a mirror.]
+<info>Leela looks at herself in a mirror.</info>
 
 <character>LEELA</character>
 Wow, look at me. Although I don't have 
@@ -457,7 +457,7 @@ You'll get it. Personally, I try not
 to blink too much because it seems flashy. 
 But when I do, I enjoy it.
 
-[She tries again and succeeds this time. She gasps.]
+<info>She tries again and succeeds this time. She gasps.</info>
 
 <character>LEELA</character>
 I did it! I blunk!
@@ -466,18 +466,18 @@ I did it! I blunk!
 And just in time to screw up this picture 
 I took!
 
-[He shows her a photo of her blinking.]
+<info>He shows her a photo of her blinking.</info>
 
 <character>LEELA</character>
 Hooray!
 
-[Montage Scene. Leela gets accustomed to her new life to Roy 
+<info>Montage Scene. Leela gets accustomed to her new life to Roy 
 Orbison's Pretty Woman. She carries a box marked "Leela's Monocles" 
 through the front door of her apartment building at drops it 
 in the bin. Later, she comes out of the Eye Robot wearing two 
 pairs of sunglasses, a pair of binoculars and carrying a pair 
 of theatre specs. She walks past Mom's sons and winks at them. 
-They stop and bump into each other.]
+They stop and bump into each other.</info>
 
 <character>WALT</character>
 Ow!
@@ -488,21 +488,21 @@ Ow!
 <character>LARRY</character>
 Ow!
 
-[Amy shows Leela how to apply eyeliner. She puts it across her 
+<info>Amy shows Leela how to apply eyeliner. She puts it across her 
 eyes first and watches Leela try. Leela smears it all the way 
 across her brow. Amy shakes her head, licks her finger, and rubs 
 it off in the middle. Leela smiles. On the street, Leela bumps 
 into Kirk. She takes his hand and feels her face with it. He 
-groans with disappointment.]
+groans with disappointment.</info>
 
-[Planet Express: Lounge. Zoidberg, Hermes, Amy and Fry are sat 
-on the couch.]
+<info>Planet Express: Lounge. Zoidberg, Hermes, Amy and Fry are sat 
+on the couch.</info>
 
 <character>LEELA</character>
 I've never felt so unremarkable! Today 
 I actually blended in with a crowd!
 
-[She laughs. Bender walks in with the kids.]
+<info>She laughs. Bender walks in with the kids.</info>
 
 <character>BENDER</character>
 Kids, meet the jerkbags I work with.
@@ -527,7 +527,7 @@ Jr.!  Looky here! My first government
 stipend cheque! 12 baby humans, 1200 
 wing-wangs!
 
-[Sally, a girl with an ear on her face, tugs Bender's arm.]
+<info>Sally, a girl with an ear on her face, tugs Bender's arm.</info>
 
 <character>SALLY</character>
 Daddy Bender, we're hungry.
@@ -543,9 +543,9 @@ Can we have Bender burgers again?
 <character>BENDER</character>
 No. The cat shelter's on to me!
 
-[Planet Express: Hangar. Fry scrubs one of the landing feet and 
+<info>Planet Express: Hangar. Fry scrubs one of the landing feet and 
 Leela welds something along the ships side. Adlai comes in wearing 
-a grey Hawaiian shirt.]
+a grey Hawaiian shirt.</info>
 
 <character>ADLAI</character>
 Hello, Leela. I was in a nearby tailor 
@@ -553,7 +553,7 @@ getting one of my Hawaiian shirts toned
 down, so I thought I'd drop in for your 
 follow-up exam.
 
-[Leela giggles.]
+<info>Leela giggles.</info>
 
 <character>LEELA</character>
 That's so handsome of you.
@@ -576,13 +576,13 @@ Will you go out with me this Sunday?
 <character>LEELA</character>
 Sure!
 
-[Fry gasps.]
+<info>Fry gasps.</info>
 
 <character>ADLAI</character>
 I don't know what else to say, so I'll 
 just say it. Okey-dokey, see you then.
 
-[He leaves.]
+<info>He leaves.</info>
 
 <character>FRY</character>
 This is so unfair! I liked you back 
@@ -603,7 +603,7 @@ man, who if you go somewhere with him
 no one says he's crummy. I think I deserve 
 that once in life.
 
-[Zoidberg holds her arm.]
+<info>Zoidberg holds her arm.</info>
 
 <character>ZOIDBERG</character>
 Be careful with Adlai, Leela, he's a 
@@ -616,7 +616,7 @@ Actually, most doctors are rich.
 What? When did this happen? You're joking, 
 right?  That's not funny!
 
-[O'Zorgnax's Pub. Bender takes the kids in.]
+<info>O'Zorgnax's Pub. Bender takes the kids in.</info>
 
 <character>BENDER</character>
 OK, they've got everything you need 
@@ -632,7 +632,7 @@ Then knock yourself out.  Hey! Hey!
 Only eat enough to barely keep yourselves 
 alive! I'm trying to make a profit here.
 
-[He sits on a stool and reads a newspaper.]
+<info>He sits on a stool and reads a newspaper.</info>
 
 <character>NINA</character>
 Daddy! Bethany's hitting me!
@@ -640,8 +640,8 @@ Daddy! Bethany's hitting me!
 <character>BENDER</character>
 Here.
 
-[He hands her a blernsball bat and she runs off with it, laughing. 
-A fembot sits next to Bender.]
+<info>He hands her a blernsball bat and she runs off with it, laughing. 
+A fembot sits next to Bender.</info>
 
 <character>FEMBOT</character>
 These kids yours?
@@ -657,7 +657,7 @@ That's me, baby! Let me just ditch the
 kids in an alley and we can go have 
 some fun.
 
-[A boy taps Bender.]
+<info>A boy taps Bender.</info>
 
 <character>BOY</character>
 Daddy Bender?
@@ -670,7 +670,7 @@ to cram a Tinkertoy in it!
 <character>BOY</character>
 I love you, Daddy Bender!
 
-[He hugs him. The other kids start hugging him too.]
+<info>He hugs him. The other kids start hugging him too.</info>
 
 <character>BENDER</character>
 Hey, what the hell are you doing? Quit 
@@ -680,7 +680,7 @@ hugging me!
 I guess you're busy. I'll catch you 
 later.
 
-[She leaves.]
+<info>She leaves.</info>
 
 <character>BENDER</character>
 You morons! I don't know what you're 
@@ -694,7 +694,7 @@ and see how you like it!
 <character>BENDER</character>
 (grumbling) Oh, come on!
 
-[Adlai's Car. He drives Leela away from the city.]
+<info>Adlai's Car. He drives Leela away from the city.</info>
 
 <character>ADLAI</character>
 I thought I'd take you someplace ordinary 
@@ -703,24 +703,24 @@ I thought I'd take you someplace ordinary
 <character>LEELA</character>
 That sounds wonderful.
 
-[Outside Municipal Arboretum. Adlai opens the gate and lets Leela 
+<info>Outside Municipal Arboretum. Adlai opens the gate and lets Leela 
 through. On the fence is a sign that reads "Yes, We Have Looking 
-At Trees".]
+At Trees".</info>
 
-[Municipal Arboretum. A couple stop by an Altairean Bouquet Tree.]
+<info>Municipal Arboretum. A couple stop by an Altairean Bouquet Tree.</info>
 
 <character>MAN</character>
 I'd like and extra-beautiful bouquet 
 for my extra-gorgeous sweetheart.
 
-[The tree hands the man some flowers and he hands them to the 
-woman. They walk away and Leela and Adlai arrive.]
+<info>The tree hands the man some flowers and he hands them to the 
+woman. They walk away and Leela and Adlai arrive.</info>
 
 <character>ADLAI</character>
 Average, please.
 
-[The tree hands him a bunch and he hands them to Leela. She smells 
-them.]
+<info>The tree hands him a bunch and he hands them to Leela. She smells 
+them.</info>
 
 <character>LEELA</character>
 Oh, Adlai, I've had a wonderful time 
@@ -731,11 +731,11 @@ make me feel so not weird.
 <character>ADLAI</character>
 Leela, you're 999,999 in a million!
 
-[She smiles and they lean in to kiss. Adlai pecks her on the 
-lips and she freezes for a moment then smiles weakly.]
+<info>She smiles and they lean in to kiss. Adlai pecks her on the 
+lips and she freezes for a moment then smiles weakly.</info>
 
-[Elzar's Fine Cuisine. Adlai and the Planet Express staff sit 
-around a table, though Bender is not with them.]
+<info>Elzar's Fine Cuisine. Adlai and the Planet Express staff sit 
+around a table, though Bender is not with them.</info>
 
 <character>LEELA</character>
 Thanks for coming out to get to know 
@@ -744,7 +744,7 @@ my boyfriend. Isn't he dreamy?
 <character>ZOIDBERG</character>
 (mesmerised) Totally.
 
-[He eats a cracker.]
+<info>He eats a cracker.</info>
 
 <character>ADLAI</character>
 Uh, listen: I just want you all to know 
@@ -773,7 +773,7 @@ Tally me banana.
 <character>FRY</character>
 Amy's a klutz from Mars.
 
-[Amy drops the glass she is drinking from and it smashes.]
+<info>Amy drops the glass she is drinking from and it smashes.</info>
 
 <character>AMY</character>
 Sploops!
@@ -802,30 +802,30 @@ Duh!
 <character>HERMES</character>
 Daylight come!
 
-[Bender runs through the restaurant carrying a high chair.]
+<info>Bender runs through the restaurant carrying a high chair.</info>
 
 <character>BENDER</character>
 Coming through, watch your heads!
 
-[He wangs Zoidberg on the head as he passes him.]
+<info>He wangs Zoidberg on the head as he passes him.</info>
 
 <character>ZOIDBERG</character>
 Help! I'm under attack!
 
-[He sprays the others with ink. Bender is sat with the kids at 
-another table.]
+<info>He sprays the others with ink. Bender is sat with the kids at 
+another table.</info>
 
 <character>BENDER</character>
 Remember your manners, kids. Forks go 
 in the left pocket, spoons in the right.
 
-[Elzar arrives with a plate of food.]
+<info>Elzar arrives with a plate of food.</info>
 
 <character>ELZAR</character>
 Which one of you cutie muffins gets 
 the children's spicy squab?
 
-[A little boy comes out of Bender's chest door.]
+<info>A little boy comes out of Bender's chest door.</info>
 
 <character>LITTLE BOY</character>
 Me!
@@ -834,7 +834,7 @@ Me!
 Ah-ah-ah! What do we say when someone 
 gives you something?
 
-[The boy turns to Elzar.]
+<info>The boy turns to Elzar.</info>
 
 <character>LITTLE BOY</character>
 'Bout time!
@@ -842,12 +842,12 @@ gives you something?
 <character>BENDER</character>
 That's my boy!
 
-[He closes the door on him.]
+<info>He closes the door on him.</info>
 
 <character>ELZAR</character>
 And here's your check. Bam!
 
-[Bender looks at it and gasps. Albert taps his arm.]
+<info>Bender looks at it and gasps. Albert taps his arm.</info>
 
 <character>ALBERT</character>
 I gotta go poopy!
@@ -857,14 +857,14 @@ Well you should've gone poopy before
 it was time to run out on the check! 
 C'mon! Go, go! Through the kitchen!
 
-[They leg it.]
+<info>They leg it.</info>
 
 <character>ELZAR</character>
 (shouting) You little crooks! If I catch 
 you I'm going to make cutie-muffin gumbo!
 
-[They run past the other table and Bender laughs as they run 
-through the door.]
+<info>They run past the other table and Bender laughs as they run 
+through the door.</info>
 
 <character>ADLAI</character>
 You know, seeing that strange robot 
@@ -883,11 +883,11 @@ and have kids.
 Oh, Adlai, this is the most beautiful 
 moment of my life!
 
-[Zoidberg woops and sprays her with ink.]
+<info>Zoidberg woops and sprays her with ink.</info>
 
-[Fry and Bender's Spare Room. The room has six bunk beds in it. 
+<info>Fry and Bender's Spare Room. The room has six bunk beds in it. 
 The kids run around screaming and laughing and bouncing on the 
-mattresses. Fry and Bender play poker. Albert jumps on Bender.]
+mattresses. Fry and Bender play poker. Albert jumps on Bender.</info>
 
 <character>ALBERT</character>
 Daddy Bender, I want a piggy back ride.
@@ -896,7 +896,7 @@ Daddy Bender, I want a piggy back ride.
 Daddy's tired. Let's just have another 
 dog pile on Fry.
 
-[The kids dive on Fry.]
+<info>The kids dive on Fry.</info>
 
 <character>SALLY</character>
 Tell us a story, Daddy Bender.
@@ -907,12 +907,12 @@ Tell us a story, Daddy Bender.
 <character>BENDER</character>
 Alright, fine, gather round.
 
-[The kids cheer.]
+<info>The kids cheer.</info>
 
 <character>NINA</character>
 We wanna hear this one again!
 
-[She hands him something and he opens it and clears his throat.]
+<info>She hands him something and he opens it and clears his throat.</info>
 
 <character>BENDER</character>
 (reading) "Bender's Arrest Record" by 
@@ -929,11 +929,11 @@ means. Daddy's sick of looking at you
 so go to bed.  The grown-ups have to 
 talk. Come on, Ma.
 
-[He and Fry leave.]
+<info>He and Fry leave.</info>
 
-[Cut to: Fry and Bender's Lounge. On the door is a newspaper 
+<info>Cut to: Fry and Bender's Lounge. On the door is a newspaper 
 clipping with a photo of Fry on it. The headline reads "Primitive 
-Human Found In Cryo-Tube". Bender slides the door shut.]
+Human Found In Cryo-Tube". Bender slides the door shut.</info>
 
 <character>BENDER</character>
 Now to figure out how much money I'm 
@@ -949,7 +949,7 @@ food, the bunny rabbit wallpaper --
 I'm getting 100 bucks a kid and they're 
 costing 110!
 
-[Fry tuts.]
+<info>Fry tuts.</info>
 
 <character>FRY</character>
 There goes my new kitchen cabinets.
@@ -958,7 +958,7 @@ There goes my new kitchen cabinets.
 I'm not sitting through one more <character>PTA </character>
 meeting. The kids have got to go!
 
-[The little boys opens Bender's door.]
+<info>The little boys opens Bender's door.</info>
 
 <character>LITTLE BOY</character>
 Daddy, how do I flush you?
@@ -966,10 +966,10 @@ Daddy, how do I flush you?
 <character>BENDER</character>
 (shouting) Just go to bed!
 
-[The boy climbs out and runs off. Bender pushes his antenna down 
-and flushes himself.]
+<info>The boy climbs out and runs off. Bender pushes his antenna down 
+and flushes himself.</info>
 
-[Adlai's Lounge. He and Leela sit at a table doing a jigsaw.]
+<info>Adlai's Lounge. He and Leela sit at a table doing a jigsaw.</info>
 
 <character>ADLAI</character>
 You know, doing this jigsaw puzzle of 
@@ -985,13 +985,13 @@ Adoption? Yes, that's acceptable. Heck,
 it's more than acceptable. It's adequately 
 satisfactory!
 
-[Robot Arms Apartments Corridor. Adlai opens Fry and Bender's 
+<info>Robot Arms Apartments Corridor. Adlai opens Fry and Bender's 
 door and he and Leela go in. There is a sign above the door that 
 says "Honest Bender's Stolen Car Parts Boutique" and scribbled 
-below it "And Orphanarium".]
+below it "And Orphanarium".</info>
 
-[Cut to: Fry and Bender's Lounge. The kids are up again and running 
-around. Bender is on the phone.]
+<info>Cut to: Fry and Bender's Lounge. The kids are up again and running 
+around. Bender is on the phone.</info>
 
 <character>BENDER</character>
 Hello? Imperial Dragon Restaurant? I've 
@@ -999,12 +999,12 @@ got a herd of you-know-whats for sale...Let
 me check.  Oh, aren't you a cutie?  
 About 35lbs.  What?!
 
-[Fry points and Bender panics and hangs up.]
+<info>Fry points and Bender panics and hangs up.</info>
 
 <character>LEELA</character>
 Hi, Bender. We'd like to adopt a child.
 
-[Bender stands up.]
+<info>Bender stands up.</info>
 
 <character>BENDER</character>
 Well, you've come to the right place 
@@ -1020,7 +1020,7 @@ Uh, I'm afraid we only want one.
 Whatever you say, chief. I'll show you 
 what I got in stock.
 
-[He walks into the kids' room.]
+<info>He walks into the kids' room.</info>
 
 <character>LEELA</character>
 I remember this from when we were kids: 
@@ -1028,7 +1028,7 @@ The warden would trot you out in front
 of prospective parents and they'd judge 
 you like a piece of meat.
 
-[The kids are lined up. Albert steps forward.]
+<info>The kids are lined up. Albert steps forward.</info>
 
 <character>ALBERT</character>
 I'm Albert.
@@ -1036,7 +1036,7 @@ I'm Albert.
 <character>LEELA</character>
 Kind of fatty.
 
-[Bender pushes Nina forward.]
+<info>Bender pushes Nina forward.</info>
 
 <character>BENDER</character>
 Then how about this little number? Pure-bred 
@@ -1072,10 +1072,10 @@ But it's 10 in the morning!
 <character>BENDER</character>
 I said hit the hay!
 
-[The kids run.]
+<info>The kids run.</info>
 
-[Cut to: Fry and Bender's Spare Room. The kids get into bed and 
-Bender flicks the light off.]
+<info>Cut to: Fry and Bender's Spare Room. The kids get into bed and 
+Bender flicks the light off.</info>
 
 <character>LEELA</character>
 Oh, they're all so adorable.
@@ -1086,7 +1086,7 @@ I can hardly bear to let them go. Goodnight,
 you princes of Maine, you kings of New 
 New England.
 
-[Fry and Bender's Lounge. The police break down the door.]
+<info>Fry and Bender's Lounge. The police break down the door.</info>
 
 <character>SMITTY</character>
 You're under arrest for child cruelty, 
@@ -1094,10 +1094,10 @@ child endangerment, depriving children
 of food, selling children as food and 
 misrepresenting the weight of livestock.
 
-[Time Lapse. Smitty slaps the cuffs on Bender and the other police 
-lead Fry and the kids out.]
+<info>Time Lapse. Smitty slaps the cuffs on Bender and the other police 
+lead Fry and the kids out.</info>
 
-[Prison Cells. Smitty locks Fry, Bender and the kids in a cell.]
+<info>Prison Cells. Smitty locks Fry, Bender and the kids in a cell.</info>
 
 <character>LEELA</character>
 Officer, would it be alright if we adopted 
@@ -1107,7 +1107,7 @@ one of the kids?
 Might as well. They're just gonna rot 
 in the evidence locker.
 
-[He and <character>URL</character> leave. The kids laugh and point at Sally.]
+<info>He and <character>URL</character> leave. The kids laugh and point at Sally.</info>
 
 <character>KID #1</character>
 Nice ear!
@@ -1121,7 +1121,7 @@ How's you ear?
 <character>LEELA</character>
 I've made up my mind. Let's adopt her.
 
-[She points at Sally.]
+<info>She points at Sally.</info>
 
 <character>ADLAI</character>
 Her? But there's plenty of normal ones.
@@ -1177,14 +1177,14 @@ my eye back the way it was. Right now!
 <character>ADLAI</character>
 Why should I do that?
 
-[Leela slams him against the bars.]
+<info>Leela slams him against the bars.</info>
 
 <character>LEELA</character>
 Listen, buddy. By the end of the day, 
 one of us is going to have one eye.
 
-[Outside Cookieville Minimum-Security Orphanarium. People are 
-crowded around the front door as Vogel makes a speech.]
+<info>Outside Cookieville Minimum-Security Orphanarium. People are 
+crowded around the front door as Vogel makes a speech.</info>
 
 <character>VOGEL</character>
 In recognition of Bender's generous 
@@ -1193,14 +1193,14 @@ cheque for 1200 wing-wangs, I hereby
 rename this building the Bender B. Rodriguez 
 Orphanarium!
 
-[The crowd cheers and Vogel shakes Bender's hand. Leela's eye 
-is back to how it was before.]
+<info>The crowd cheers and Vogel shakes Bender's hand. Leela's eye 
+is back to how it was before.</info>
 
 <character>FRY</character>
 It's good to have the old weird-looking 
 Leela back.
 
-[They hug.]
+<info>They hug.</info>
 
 <character>LEELA</character>
 Aww! You're a true friend, Fry. I guess 
@@ -1210,7 +1210,7 @@ weird.
 <character>FRY</character>
 Leela, there's nothing wrong with anything.
 
-[The kids say goodbye to Bender.]
+<info>The kids say goodbye to Bender.</info>
 
 <character>ALBERT</character>
 We'll miss you, Daddy Bender.
@@ -1219,13 +1219,13 @@ We'll miss you, Daddy Bender.
 We know robots don't have emotions but 
 we drawed you this picture!
 
-[She shows him a crude picture of him and the kids.]
+<info>She shows him a crude picture of him and the kids.</info>
 
 <character>SALLY</character>
 So if you ever miss us, even just a 
 teeny bit, you can look at it.
 
-[Bender takes the picture.]
+<info>Bender takes the picture.</info>
 
 <character>BENDER</character>
 Hey, I smoke a cigar, not a candy cane. 

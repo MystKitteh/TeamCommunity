@@ -7,19 +7,19 @@ Episode 103
 <author>Eric Horsted</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: As Seen On <character>TV</character>.]
+<info>Opening Credits. Caption: As Seen On <character>TV</character>.</info>
 
-[Planet Express: Meeting Room. Fry is asleep on the big table. 
+<info>Planet Express: Meeting Room. Fry is asleep on the big table. 
 The other staff are sat around it for a morning meeting. His 
 alarm clock goes off and he reaches over and pushes Bender's 
-antenna down.]
+antenna down.</info>
 
 <character>BENDER</character>
 Hey!
 
-[He picks up the alarm clock and bends it on the table so it 
+<info>He picks up the alarm clock and bends it on the table so it 
 looks like a melted clock from Salvador Dali's artwork The Persistence 
-Of Memory.]
+Of Memory.</info>
 
 <character>HERMES</character>
 Fry, mon, if you're going to be living 
@@ -30,20 +30,20 @@ on time for work.
 I'm sorry. I was up really late poking 
 through people's desks.
 
-[He gets up and climbs off the table.]
+<info>He gets up and climbs off the table.</info>
 
 <character>HERMES</character>
 Alright, people. I will now outline 
 today's 12-point agenda. We'll begin 
 with point one then race forward --
 
-[He is interrupted by a clattering sound.]
+<info>He is interrupted by a clattering sound.</info>
 
-[Cut to: Planet Express: Kitchen. Fry is pouring himself a huge 
-bowl of Bachelor Chow. He turns the tap on and covers it in water.]
+<info>Cut to: Planet Express: Kitchen. Fry is pouring himself a huge 
+bowl of Bachelor Chow. He turns the tap on and covers it in water.</info>
 
-[Cut to: Planet Express: Meeting Room. Fry sits down, still in 
-his underwear.]
+<info>Cut to: Planet Express: Meeting Room. Fry sits down, still in 
+his underwear.</info>
 
 <character>HERMES</character>
 Concerning our pest problem: Somebody's 
@@ -59,9 +59,9 @@ Fry?  Am I cracking up, or is Fry's
 living here starting to get in the way 
 of bus -
 
-[He is interrupted again by Fry, who is drying his hair using 
+<info>He is interrupted again by Fry, who is drying his hair using 
 the ships engine. Leela runs over and hits the emergency shutdown 
-button.]
+button.</info>
 
 <character>LEELA</character>
 What the hell are you doing?! You're 
@@ -78,8 +78,8 @@ me to recalibrate these engines?
 Hey, when you look this good, you don't 
 have to know anything.
 
-[Planet Express: Farnsworth's Lab. Farnsworth is looking for 
-something. Enter Leela, Bender, Hermes, Amy and Zoidberg.]
+<info>Planet Express: Farnsworth's Lab. Farnsworth is looking for 
+something. Enter Leela, Bender, Hermes, Amy and Zoidberg.</info>
 
 <character>LEELA</character>
 Professor, We need to talk to you about 
@@ -101,7 +101,7 @@ This sarcophagus should contain the
 remains of Emperor Nimballa, who ruled 
 Zubin 5 over 29 million years ago.
 
-[Fry walks past the lab eating the mummy.]
+<info>Fry walks past the lab eating the mummy.</info>
 
 <character>FRY</character>
 Hey, Professor, great jerky!
@@ -110,13 +110,13 @@ Hey, Professor, great jerky!
 My God, this is an outrage! I was going 
 to eat that mummy! Fry has got to go!
 
-[Planet Express: Lounge. Fry is slumped back on the couch watching 
-<character>TV</character>.]
+<info>Planet Express: Lounge. Fry is slumped back on the couch watching 
+<character>TV</character>.</info>
 
 <character>ANNOUNCER</character>
 Bachelor chow: Now with flavour!
 
-[Fry changes the channel to Monster Truck wrestling.]
+<info>Fry changes the channel to Monster Truck wrestling.</info>
 
 <character>COMMENTATOR</character>
 And Bigfoot is down!
@@ -125,16 +125,16 @@ And Bigfoot is down!
 Sheesh! 40,000 channels and only 150 
 have anything good on.
 
-[He switches the channel over again. There is a sponsorship advert 
-on the screen.]
+<info>He switches the channel over again. There is a sponsorship advert 
+on the screen.</info>
 
 <character>ANNOUNCER</character>
 All My Circuits is brought to you by 
 Robo Fresh: Designed by a robot, for 
 a robot.
 
-[The picture changes to two robots - Calculon and Monique - sitting 
-on a bench.]
+<info>The picture changes to two robots - Calculon and Monique - sitting 
+on a bench.</info>
 
 <character>CALCULON</character>
 I've been processing this for some 
@@ -149,12 +149,12 @@ know that I'm --
 Metric? I've always known. But for 
 you, my darling, I'm willing to convert.
 
-[They kiss again. Another robot watches them from the bushes.]
+<info>They kiss again. Another robot watches them from the bushes.</info>
 
 <character>FRY</character>
 Hmm, must be a friend of theirs.
 
-[Enter Leela and Bender.]
+<info>Enter Leela and Bender.</info>
 
 <character>BENDER</character>
 Fry, we've got to discuss your living 
@@ -197,7 +197,7 @@ Leela! We're trying to watch <character>TV</character>.
 Yeah, would you kindly shut your noise 
 hole?
 
-[She sighs and walks out.]
+<info>She sighs and walks out.</info>
 
 <character>FRY</character>
 So, who's that weird-looking guy?
@@ -215,7 +215,7 @@ he learns, he loves.
 <character>FRY</character>
 Boring!
 
-[On the TV a door opens and Calculon walks in.]
+<info>On the TV a door opens and Calculon walks in.</info>
 
 <character>HUMAN FRIEND</character>
 Calculon? I thought you were in a coma.
@@ -224,23 +224,23 @@ Calculon? I thought you were in a coma.
 That's what I wanted you to think with 
 your soft, human brain.
 
-[From Fry's point of view, the corner of the room starts getting 
-further away.]
+<info>From Fry's point of view, the corner of the room starts getting 
+further away.</info>
 
 <character>FRY</character>
 Hey, uh, why is the TV getting smaller?
 
-[Hermes, Amy, Zoidberg, Farnsworth and Leela are pushing the 
-couch out of the room with Fry and Bender still on it.]
+<info>Hermes, Amy, Zoidberg, Farnsworth and Leela are pushing the 
+couch out of the room with Fry and Bender still on it.</info>
 
-[Cut to: Outside Planet Express. They toss Fry, Bender and the 
-couch outside the front door and go back inside.]
+<info>Cut to: Outside Planet Express. They toss Fry, Bender and the 
+couch outside the front door and go back inside.</info>
 
 <character>HERMES</character>
 We'll bill you for the couch.
 
-[Food-O-Mat. A small caf� where customers sit at tables and select 
-their food from a conveyor belt as it passes them.]
+<info>Food-O-Mat. A small caf� where customers sit at tables and select 
+their food from a conveyor belt as it passes them.</info>
 
 <character>BENDER</character>
 Cheer up, meatbag, you've barely touched 
@@ -256,7 +256,7 @@ need plenty of wholesome, nutritious
 alcohol.  The chemical energy keeps 
 my fuel cells charged.
 
-[He lights a cigar.]
+<info>He lights a cigar.</info>
 
 <character>FRY</character>
 What are the cigars for?
@@ -264,7 +264,7 @@ What are the cigars for?
 <character>BENDER</character>
 They make me look cool.
 
-[Fry sighs.]
+<info>Fry sighs.</info>
 
 <character>FRY</character>
 I can't believe they threw me out like 
@@ -292,9 +292,9 @@ won't be imposing?
 <character>BENDER</character>
 Nah, I've always wanted a pet.
 
-[Robot Arms Apartments Corridor. The building is a dark, run 
+<info>Robot Arms Apartments Corridor. The building is a dark, run 
 down place. The corridor is lined with blue doors with not much 
-space between them and the apartment numbers are in binary.]
+space between them and the apartment numbers are in binary.</info>
 
 <character>BENDER</character>
 Here we are. Your new home.
@@ -306,9 +306,9 @@ robot's apartment before.
 <character>BENDER</character>
 Come on in, I'll give you the tour!
 
-[Cut to: Bender's Apartment. He unlocks the door, walks in, and 
+<info>Cut to: Bender's Apartment. He unlocks the door, walks in, and 
 turns on the light. Fry follows. He is not impressed. It's a 
-very tight squeeze.]
+very tight squeeze.</info>
 
 <character>BENDER</character>
 Let's see, where to start. OK, this 
@@ -326,7 +326,7 @@ Look, pal, you've only got one set of
 clothes and you're not taking them off 
 while I'm here. Well, I'm bushed. G'night.
 
-[He turns the light off and goes to sleep.]
+<info>He turns the light off and goes to sleep.</info>
 
 <character>FRY</character>
 Wait, Bender. Bender?
@@ -338,7 +338,7 @@ all humans...must kill all the humans.
 <character>FRY</character>
 Bender, wake up!
 
-[He wakes up and yawns.]
+<info>He wakes up and yawns.</info>
 
 <character>BENDER</character>
 I was having the most wonderful dream. 
@@ -366,14 +366,14 @@ What what?
 <character>FRY</character>
 Ah, never mind!
 
-[He sits down and tries to curl up on the floor.]
+<info>He sits down and tries to curl up on the floor.</info>
 
 <character>BENDER</character>
 (sleep-talking) Hey, sexy mama...wanna 
 kill all the humans?
 
-[Planet Express: Hangar. Leela and Amy are working on the ships 
-port wing. Bender walks past whistling.]
+<info>Planet Express: Hangar. Leela and Amy are working on the ships 
+port wing. Bender walks past whistling.</info>
 
 <character>LEELA</character>
 We sure are cheerful this morning.
@@ -384,7 +384,7 @@ a blast! Y'know, beneath this warm,
 sunny exterior, beats the cold, mechanical 
 heart of a robot.
 
-[Bender walks off, whistling. Fry comes in with a twisted neck.]
+<info>Bender walks off, whistling. Fry comes in with a twisted neck.</info>
 
 <character>LEELA</character>
 What happened to you?
@@ -412,18 +412,18 @@ out.
 Yeah, but he might get kind of upset. 
 I don't think I can do that to him.
 
-[Bender comes back.]
+<info>Bender comes back.</info>
 
 <character>BENDER</character>
 Hey, there's my little space heater.
 
-[Fry fakes a laugh. Bender laughs for real. Fry fakes another 
-laugh and then sighs.]
+<info>Fry fakes a laugh. Bender laughs for real. Fry fakes another 
+laugh and then sighs.</info>
 
 <character>FRY</character>
 Well, I'm moving out!
 
-[Bender laughs then realises what Fry has said.]
+<info>Bender laughs then realises what Fry has said.</info>
 
 <character>BENDER</character>
 What?!
@@ -447,7 +447,7 @@ I don't know. I've got a lot of great
 memories in my old place.  And now they're 
 gone.
 
-[Underwater Apartment.]
+<info>Underwater Apartment.</info>
 
 <character>LANDLORD #1</character>
 Sure, it ain't one of them la-de-da 
@@ -457,35 +457,35 @@ dank, hey, forget about it!
 <character>LEELA</character>
 At least it's got a great view.
 
-[A giant squid swims up to the window. Fry, Bender and Leela 
-scream.]
+<info>A giant squid swims up to the window. Fry, Bender and Leela 
+scream.</info>
 
 <character>BENDER</character>
 What the?
 
-[The squids tentacles come through the floor and walls. The landlord 
-takes a knife out of his boot.]
+<info>The squids tentacles come through the floor and walls. The landlord 
+takes a knife out of his boot.</info>
 
 <character>LANDLORD #1</character>
 Excuse me, I gotta go change a lightbulb.
 
-[He takes out a knife, puts it between his teeth and walks out.]
+<info>He takes out a knife, puts it between his teeth and walks out.</info>
 
-[Surreal Apartment.]
+<info>Surreal Apartment.</info>
 
 <character>LEELA</character>
 Wow! Now this is fantastic!
 
-[The apartment is built in the style of the Escher picture Relativity.]
+<info>The apartment is built in the style of the Escher picture Relativity.</info>
 
 <character>FRY</character>
 Hmm, I'm not sure we want to pay for 
 a dimension we're not going to use.
 
-[Bender suddenly falls down the stairs, up the stairs, across 
-the stairs...]
+<info>Bender suddenly falls down the stairs, up the stairs, across 
+the stairs...</info>
 
-[Suspiciously Fantastic Apartment.]
+<info>Suspiciously Fantastic Apartment.</info>
 
 <character>FRY</character>
 Well, I give up. What's the catch?
@@ -494,13 +494,13 @@ Well, I give up. What's the catch?
 Oh, no catch. Although we are technically 
 in New Jersey.
 
-[Planet Express: Lounge. Fry, Bender and Leela sit around the 
-table.]
+<info>Planet Express: Lounge. Fry, Bender and Leela sit around the 
+table.</info>
 
 <character>FRY</character>
 Not one place even remotely liveable.
 
-[Farnsworth walks past talking on the phone.]
+<info>Farnsworth walks past talking on the phone.</info>
 
 <character>FARNSWORTH</character>
 Oh, how awful. Did he at least die painlessly...? 
@@ -513,10 +513,10 @@ Mobootu.
 <character>LEELA</character>
 Was his apartment rent-controlled?
 
-[Apartment. It's a really big apartment with a view and an upper 
+<info>Apartment. It's a really big apartment with a view and an upper 
 floor. The landlady is an old woman named Hattie. She is short, 
 wears a pink dressing gown and has a lazy eye. She shows the 
-new tenants around.]
+new tenants around.</info>
 
 <character>LEELA</character>
 Wow, this is beautiful.
@@ -538,8 +538,8 @@ the only thing I care about: A <character>TV</character>.
 <character>HATTIE</character>
 It's got a TV, you young watcha-call-it...idiot!
 
-[She pulls a rope and a tapestry goes up, revealing a very big 
-<character>TV</character>.]
+<info>She pulls a rope and a tapestry goes up, revealing a very big 
+<character>TV</character>.</info>
 
 <character>FRY</character>
 Ooh!
@@ -549,14 +549,14 @@ Whoa, slow down! This place just doesn't
 feel like home. It just isn't...cosy. 
 Ahh, I can barely move.   It's perfect!
 
-[Montage Scene. Fry and Bender clear out all the crap from the 
+<info>Montage Scene. Fry and Bender clear out all the crap from the 
 apartment to the theme of The Odd Couple. Fry sweeps a load of 
 junk off a shelf into a bag then replaces a Slurm poster with 
 a poster of a woman in a bikini and Bender hangs up a poster 
 of a topless robot next to it. Fry and Bender both smoke a cigar. 
 Fry puts an old chair in a bag, Bender stamps it down and Fry 
 uses it as a beanbag. Bender puts a signed (and obviously stolen) 
-photo of Calculon on a shelf. Bender and Fry look around, satisfied.]
+photo of Calculon on a shelf. Bender and Fry look around, satisfied.</info>
 
 <character>FRY</character>
 Man, it's a total sty! For the first 
@@ -568,13 +568,13 @@ Yeah! It's gonna be fun on the bun!
 Y'know Fry, of all the friends I've 
 had, you're the first.
 
-[Time Lapse. Later that night the Planet Express staff are arriving 
-at the apartment. The doorbell rings, Fry answers it.]
+<info>Time Lapse. Later that night the Planet Express staff are arriving 
+at the apartment. The doorbell rings, Fry answers it.</info>
 
 <character>HERMES</character>
 Hey, mon!
 
-[Zoidberg walks in an burbles something.]
+<info>Zoidberg walks in an burbles something.</info>
 
 <character>LEELA</character>
 Happy housewarming, Fry!  It's a miniature 
@@ -590,8 +590,8 @@ Hey!
 This is for you, Fry  Zevulon the Great. 
 He's teriyaki style.
 
-[Time Lapse. Bender lies on the beanbag and guzzles down a can 
-of beer. He tosses the empty can on a huge pile of cans.]
+<info>Time Lapse. Bender lies on the beanbag and guzzles down a can 
+of beer. He tosses the empty can on a huge pile of cans.</info>
 
 <character>BENDER</character>
 Wow, heavy drinking crowd!  I'd better 
@@ -607,13 +607,13 @@ up my batteries. If Calculon's wedding
 doesn't go just right I'll be emotionally 
 and electrically drained.
 
-[He leaves. Fry turns on the TV but all that's on is static. 
-He nudges the screen and All My Circuits comes on. He thumbs-ups.]
+<info>He leaves. Fry turns on the TV but all that's on is static. 
+He nudges the screen and All My Circuits comes on. He thumbs-ups.</info>
 
 <character>FRY</character>
 Hey!
 
-[Zoidberg passes around crab claws on a plate.]
+<info>Zoidberg passes around crab claws on a plate.</info>
 
 <character>HERMES</character>
 These are mighty tasty!
@@ -621,7 +621,7 @@ These are mighty tasty!
 <character>ZOIDBERG</character>
 Thank you, I made them myself.
 
-[Hermes chokes and spits the claws out.]
+<info>Hermes chokes and spits the claws out.</info>
 
 <character>FRY</character>
 Shh, the wedding's about to start!
@@ -631,8 +631,8 @@ If anyone here objects to this union,
 let them speak now or forever hold their 
 --
 
-[He is interrupted by some beeping. It is the same robot that 
-was in the bushes when Calculon proposed.]
+<info>He is interrupted by some beeping. It is the same robot that 
+was in the bushes when Calculon proposed.</info>
 
 <character>FRY</character>
 Is he objecting or backing up?
@@ -645,7 +645,7 @@ I'm afraid my half-brother is correct.
 You see, I have a terrible secret and 
 that secret is --
 
-[Bender walks in and the picture cuts to static. Everyone groans.]
+<info>Bender walks in and the picture cuts to static. Everyone groans.</info>
 
 <character>AMY</character>
 Oh, this isn't right.
@@ -656,8 +656,8 @@ Oh, come on!
 <character>FARNSWORTH</character>
 Fix it!
 
-[Fry bangs his fist against the screen and Bender comes back 
-in with beer.]
+<info>Fry bangs his fist against the screen and Bender comes back 
+in with beer.</info>
 
 <character>BENDER</character>
 Hey what happened to the TV?
@@ -669,7 +669,7 @@ It just went out.
 This is an outrage! I'm gonna go yell 
 at the manager!
 
-[He storms out and the TV comes back on. Everyone cheers.]
+<info>He storms out and the TV comes back on. Everyone cheers.</info>
 
 <character>HERMES</character>
 Alright!
@@ -681,7 +681,7 @@ Alright!
 To reiterate, my terrible secret is 
 --
 
-[Bender comes back in and the TV cuts out again. Everyone groans.]
+<info>Bender comes back in and the TV cuts out again. Everyone groans.</info>
 
 <character>FRY</character>
 It's out again.
@@ -692,8 +692,8 @@ What? That's the last straw!
 <character>FRY</character>
 It's back on!
 
-[Bender comes back in with Hattie and the TV goes out once again. 
-Everyone groans.]
+<info>Bender comes back in with Hattie and the TV goes out once again. 
+Everyone groans.</info>
 
 <character>HATTIE</character>
 Pardon me. I don't mean to pry into 
@@ -710,10 +710,10 @@ causing it or we're outta this dump!
 Relax, sonny. This kajigger'll find 
 the source of the interference.
 
-[She points a thing around the apartment and it beeps slowly. 
+<info>She points a thing around the apartment and it beeps slowly. 
 She points it at Bender's antenna and it beeps faster. The other 
 tenants come in, complaining about their TV's. Hattie points 
-the thing at Bender's antenna again.]
+the thing at Bender's antenna again.</info>
 
 <character>TENANT #1</character>
 What's going on?
@@ -750,7 +750,7 @@ They're on my cell phone too.
 <character>BENDER</character>
 Madam, I believe you're mistaken!
 
-[She turns her phone on. Bender's thoughts are indeed on it.]
+<info>She turns her phone on. Bender's thoughts are indeed on it.</info>
 
 <character>BENDER</character>
 Wow, that lady's got a huge ass!
@@ -816,7 +816,7 @@ way we'll both be happy.
 (downbeat) Happy. Yeah, that's Bender. 
 Always happy.
 
-[Bender walks out of the room and down the corridor.]
+<info>Bender walks out of the room and down the corridor.</info>
 
 <character>RANDY</character>
 Hey, the TV's back on!
@@ -829,17 +829,17 @@ eye, friend.
 <character>CALCULON</character>
 Mind if I give the eulogy?
 
-[Monique gasps.]
+<info>Monique gasps.</info>
 
 <character>MONIQUE</character>
 Calculon! You're alive!
 
-[Everyone cheers on the TV and in the apartment.]
+<info>Everyone cheers on the TV and in the apartment.</info>
 
 <character>RANDY</character>
 Calculon's back!
 
-[Time Lapse. Everyone is beginning to leave.]
+<info>Time Lapse. Everyone is beginning to leave.</info>
 
 <character>FARNSWORTH</character>
 Right, so long.
@@ -854,13 +854,13 @@ twin will ever walk again?
 <character>HERMES</character>
 I don't know, Amy. I just don't know.
 
-[Amy slips over again.]
+<info>Amy slips over again.</info>
 
 <character>FRY</character>
 Hey, thanks for coming.
 
-[He closes the door but Leela puts her elbow in it and forces 
-it back open.]
+<info>He closes the door but Leela puts her elbow in it and forces 
+it back open.</info>
 
 <character>LEELA</character>
 Fry, you're Bender's best friend. How 
@@ -884,32 +884,32 @@ Bender's not a guy, he's a robot.
 <character>FRY</character>
 Same thing.
 
-[Robot Arms Apartments Corridor. Bender opens his apartment door 
-and looks in.]
+<info>Robot Arms Apartments Corridor. Bender opens his apartment door 
+and looks in.</info>
 
 <character>BENDER</character>
 It's so big and empty.
 
-[He goes in and closes the door.]
+<info>He goes in and closes the door.</info>
 
-[Cut to: Bender's Apartment.]
+<info>Cut to: Bender's Apartment.</info>
 
 <character>BENDER</character>
 My roommate's gone. And all he left 
 behind was an eyelash and three skin 
 flakes.  Oh, what's the point?!
 
-[He throws the bottle down and it smashes.]
+<info>He throws the bottle down and it smashes.</info>
 
-[Planet Express: Hangar. Leela is fixing the ship with laser 
+<info>Planet Express: Hangar. Leela is fixing the ship with laser 
 fuel. She sees Bender walk into the conference room. He has orange 
-rust around his mouth and his door is flapping open.]
+rust around his mouth and his door is flapping open.</info>
 
 <character>LEELA</character>
 Bender?  My God, you're a mess!
 
-[Cut to: Planet Express: Lounge. Bender groans and falls onto 
-the couch. Leela follows him in.]
+<info>Cut to: Planet Express: Lounge. Bender groans and falls onto 
+the couch. Leela follows him in.</info>
 
 <character>BENDER</character>
 Leave me alone!
@@ -959,14 +959,14 @@ beverage in your hand.
 <character>BENDER</character>
 I promise nothing!
 
-[He runs out.]
+<info>He runs out.</info>
 
-[Bender is walking down a street drunk � la The Lost Weekend 
+<info>Bender is walking down a street drunk � la The Lost Weekend 
 and he finally ends up in an alleyway lying on his back, leaking 
 oil from under his arm. He sees his reflection in the pool of 
-oil and hits it.]
+oil and hits it.</info>
 
-[Apartment. Fry opens the door. Leela is there.]
+<info>Apartment. Fry opens the door. Leela is there.</info>
 
 <character>FRY</character>
 What up?
@@ -997,7 +997,7 @@ back on him.
 Oh, man. I had no idea. If only I knew 
 where he was I'd go talk to him.
 
-[The TV cuts out.]
+<info>The TV cuts out.</info>
 
 <character>FRY</character>
 Oh, stupid TV!  Bender! You're blind 
@@ -1016,7 +1016,7 @@ now I remember. I thought I could live
 alone, but I can't. So, I'm gonna do 
 what it takes to be your roommate again.
 
-[He takes a pair of clippers out of his chest cabinet.]
+<info>He takes a pair of clippers out of his chest cabinet.</info>
 
 <character>LEELA</character>
 Bender! Stop!
@@ -1043,9 +1043,9 @@ like he's a ham radio or something.
 I'm gonna do it! I'm really gonna do 
 it! Don't try and stop me! Here goes.
 
-[Fry smiles. He sighs, cuts it off and throws it out the window. 
+<info>Fry smiles. He sighs, cuts it off and throws it out the window. 
 The TV comes back on. Calculon is with Human Friend who is in 
-a hospital bed.]
+a hospital bed.</info>
 
 <character>FRY</character>
 Hey, it works! The static's gone.
@@ -1065,7 +1065,7 @@ treated you so badly.
 Apology accepted. After all, you're 
 only human.
 
-[They hug.]
+<info>They hug.</info>
 
 <character>LEELA</character>
 You guys could learn a lesson from those 
@@ -1082,14 +1082,14 @@ I treated you so badly.
 Apology accepted. After all, you're 
 only human.
 
-[They hug.]
+<info>They hug.</info>
 
 <character>LEELA</character>
 Wait a minute! You did it all backwards. 
 Fry's the one who should be......Oh, 
 never mind!
 
-[Fry and Bender laugh. Bender looks in the mirror and sighs.]
+<info>Fry and Bender laugh. Bender looks in the mirror and sighs.</info>
 
 <character>FRY</character>
 What's wrong?
@@ -1106,26 +1106,26 @@ still reattach it?
 <character>BENDER</character>
 Maybe. If we get it on ice right away.
 
-[Outside Apartment Building. Fry, Bender, Smitty and <character>URL</character> search 
-for the antenna.]
+<info>Outside Apartment Building. Fry, Bender, Smitty and <character>URL</character> search 
+for the antenna.</info>
 
 <character>SMITTY</character>
 Bingo!
 
-[He holds up the antenna.]
+<info>He holds up the antenna.</info>
 
 <character>URL</character>
 You call that an antenna?
 
-[Robot Arms Apartments Corridor. Fry is holding his miniature 
-fruit salad tree.]
+<info>Robot Arms Apartments Corridor. Fry is holding his miniature 
+fruit salad tree.</info>
 
 <character>BENDER</character>
 This time, you'll have all the human 
 comfort. We'll get a couple of toilets, 
 some food cookers, maybe a puppy.
 
-[Cut to: Fry and Bender's Apartment.]
+<info>Cut to: Fry and Bender's Apartment.</info>
 
 <character>FRY</character>
 It's good to be home.
@@ -1142,8 +1142,8 @@ going to get enough light?
 <character>BENDER</character>
 There's a window in the closet.
 
-[He pushes a button and a door swings open to reveal a huge living 
-space. Fry walks into it.]
+<info>He pushes a button and a door swings open to reveal a huge living 
+space. Fry walks into it.</info>
 
 <character>FRY</character>
 This is huge! Bender, why don't I just 

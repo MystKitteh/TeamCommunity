@@ -7,12 +7,12 @@ Episode 306
 <author>Eric Horsted</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Torn From Tomorrow's Headlines.]
+<info>Opening Credits. Caption: Torn From Tomorrow's Headlines.</info>
 
-[Planet Express: Hangar. The hangar doors are open and the launching 
-mechanism raises the ship into the launch position.]
+<info>Planet Express: Hangar. The hangar doors are open and the launching 
+mechanism raises the ship into the launch position.</info>
 
-[Cut to: Ships Cockpit. The crew are sat at their stations.]
+<info>Cut to: Ships Cockpit. The crew are sat at their stations.</info>
 
 <character>LEELA</character>
 Guidance system?
@@ -35,24 +35,24 @@ Making the noise.
 <character>LEELA</character>
 All systems operational. Let's rock!
 
-[She pushes the gear lever forward.]
+<info>She pushes the gear lever forward.</info>
 
-[Cut to: Planet Express: Hangar. The engines fire up.]
+<info>Cut to: Planet Express: Hangar. The engines fire up.</info>
 
-[Cut to: Outside Planet Express. The ship takes off and the engines 
+<info>Cut to: Outside Planet Express. The ship takes off and the engines 
 suddenly shut down. The ship falls onto the road and the landing 
 gear pops out. Motorists honk their horns as the crashed ship 
-causes a traffic jam.]
+causes a traffic jam.</info>
 
-[Planet Express: Meeting Room. Fry, Bender, Zoidberg and Hermes 
-sit around the table. Leela stands holding a thick folder.]
+<info>Planet Express: Meeting Room. Fry, Bender, Zoidberg and Hermes 
+sit around the table. Leela stands holding a thick folder.</info>
 
 <character>LEELA</character>
 Gentlemen, I've completed my report 
 on the crash.
 
-[She drops the thick file onto the table and everyone stares 
-at it.]
+<info>She drops the thick file onto the table and everyone stares 
+at it.</info>
 
 <character>BENDER</character>
 Whoa! I'm not reading that crap. Summarise 
@@ -79,7 +79,7 @@ It's an important unit.
 And this, my friends, is the L-unit 
 I just removed from the ship.
 
-[She pulls a sheet off an L-unit. It is straight. Everyone gasps.]
+<info>She pulls a sheet off an L-unit. It is straight. Everyone gasps.</info>
 
 <character>FRY</character>
 That doesn't look like an "L" at all. 
@@ -88,19 +88,19 @@ Unless you count lowercase.
 <character>BENDER</character>
 You know we don't!
 
-[He slaps Fry and he groans.]
+<info>He slaps Fry and he groans.</info>
 
 <character>LEELA</character>
 Whoever did this was strong. This is 
 340 pounds of Tonka-tough steel.
 
-[Bender stands at her side and picks up the L-unit.]
+<info>Bender stands at her side and picks up the L-unit.</info>
 
 <character>BENDER</character>
 Hmm. It should look like this.  But 
 instead it looks like this.
 
-[He straightens it again.]
+<info>He straightens it again.</info>
 
 <character>FRY</character>
 Who would do a thing like that?
@@ -109,7 +109,7 @@ Who would do a thing like that?
 Who could do a thing like that? And 
 by "that", I mean this.
 
-[He bends the L-unit back and forth repeatedly.]
+<info>He bends the L-unit back and forth repeatedly.</info>
 
 <character>ZOIDBERG</character>
 Well, gang, it looks like we have another 
@@ -121,7 +121,7 @@ I'll begin by drawing a line with my
 straight-edge.  Sweet lampre of Santa 
 Fe! My edge has been bent!
 
-[Amy walks in wearing Mars University sweats.]
+<info>Amy walks in wearing Mars University sweats.</info>
 
 <character>AMY</character>
 (crying) My javelin too! It's ruined. 
@@ -130,8 +130,8 @@ Now we'll never beat Jupiter State.
 <character>ZOIDBERG</character>
 My slinky!  My cuddly, little pet slinky!
 
-[He cries. Farnsworth walks in. He has been bent forward so his 
-back is horizontal and his face is pointing downwards.]
+<info>He cries. Farnsworth walks in. He has been bent forward so his 
+back is horizontal and his face is pointing downwards.</info>
 
 <character>FARNSWORTH</character>
 What's all the hubbub?
@@ -153,7 +153,7 @@ just do to the Professor?
 <character>BENDER</character>
 I bent him.
 
-[More gasps.]
+<info>More gasps.</info>
 
 <character>AMY</character>
 Aha!
@@ -185,41 +185,41 @@ Surveillance?
 <character>ZOIDBERG</character>
 You've seen me naked?
 
-[Planet Express: Surveillance Room. Hermes presses a button and 
+<info>Planet Express: Surveillance Room. Hermes presses a button and 
 a panel in the wall slides up, revealing several screens and 
-rows of tapes. Hermes runs his finger across the tapes.]
+rows of tapes. Hermes runs his finger across the tapes.</info>
 
 <character>HERMES</character>
 Ah. Last night's tape. It was right 
 next to Bathroom Bloopers 4.
 
-[Bender takes the tape and puts it in the <character>VCR</character>. On the screen 
+<info>Bender takes the tape and puts it in the <character>VCR</character>. On the screen 
 Farnsworth snores in his apartment lounge. Owls wander out of 
-an owl hole and start pecking the floor.]
+an owl hole and start pecking the floor.</info>
 
 <character>BENDER</character>
 See? Nothing. Told you, losers.
 
-[Bender walks in on the screen with his arms outstretched.]
+<info>Bender walks in on the screen with his arms outstretched.</info>
 
 <character>FRY</character>
 Wait! There on the screen. It's that 
 guy you are.
 
-[Everyone gasps.]
+<info>Everyone gasps.</info>
 
 <character>BENDER</character>
 I'm sleepwalking.
 
-[Farnsworth watches a little TV monitor attached to his head.]
+<info>Farnsworth watches a little TV monitor attached to his head.</info>
 
 <character>FARNSWORTH</character>
 Dear God! We've got robots on the ceiling.
 
-[On the screen Bender mumbles in his sleep. He bends a column 
+<info>On the screen Bender mumbles in his sleep. He bends a column 
 and the staff gasp. Then he bends a sofa cushion, a plant and 
 eventually Farnsworth, who groans but remains asleep. Bender 
-turns around and bends the camera. The picture cuts to static.]
+turns around and bends the camera. The picture cuts to static.</info>
 
 <character>FRY</character>
 You weren't sleepwalking. You were sleep-bending!
@@ -230,25 +230,25 @@ hand, it's not surprising in the least.
 After all, I've been bending since the 
 day I was built.
 
-[Flashback. Large robotic arms assemble a bending unit on a conveyor 
-belt.]
+<info>Flashback. Large robotic arms assemble a bending unit on a conveyor 
+belt.</info>
 
 <character>BENDER</character>
 (voice-over) I was born on an assembly 
 line in the bad part of Tijuana.
 
-[A robotic arm selects a bending unit head from a box filled 
+<info>A robotic arm selects a bending unit head from a box filled 
 with other robot heads, including Flexo's. It screws the head 
-onto the body and Bender opens his eyes.]
+onto the body and Bender opens his eyes.</info>
 
 <character>BENDER</character>
 Mama.  Hooray! I graduated! Time to 
 bend around Europe for a few months, 
 then get a job bending.
 
-[He bends his diploma.]
+<info>He bends his diploma.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
 <character>AMY</character>
 You remember your own birth?
@@ -262,7 +262,7 @@ You're only four years old?
 <character>BENDER</character>
 Precocious little scamp, ain't I?
 
-[He takes a puff from a cigar.]
+<info>He takes a puff from a cigar.</info>
 
 <character>LEELA</character>
 Hmm. Bender must have a pent-up need 
@@ -275,30 +275,30 @@ to every straight person in the company.
 Go satisfy your bend lust and don't 
 you come back to work until you do.
 
-[He puts his hand up and tips backwards.]
+<info>He puts his hand up and tips backwards.</info>
 
-[Outside Curvetti Bros. Bending Plant. Robots have formed a picket 
-line outside.]
+<info>Outside Curvetti Bros. Bending Plant. Robots have formed a picket 
+line outside.</info>
 
 <character>ROBOTS</character>
 (chanting) No more bending, no more 
 work. Give us a raise, you big fat jerk.
 
-[Sal leans out of a window.]
+<info>Sal leans out of a window.</info>
 
 <character>SAL</character>
 (shouting) Nevers!
 
-[A car pulls up next to the robots and Joey Mouse Pad leans out. 
-He whistles to them.]
+<info>A car pulls up next to the robots and Joey Mouse Pad leans out. 
+He whistles to them.</info>
 
 <character>JOEY</character>
 Yo! The Mafia supports you. But don't 
 tell no one. Spread the word.
 
-[He leans back in.]
+<info>He leans back in.</info>
 
-[Cut to: Mafiabot Car. Clamps and Donbot are with Joey.]
+<info>Cut to: Mafiabot Car. Clamps and Donbot are with Joey.</info>
 
 <character>DONBOT</character>
 As the duly-elected mobsters of this 
@@ -317,10 +317,10 @@ a little surprise for them.
 <character>CLAMPS</character>
 The clamps!  (unsure) Right?
 
-[Donbot nods and Clamps laughs maniacally.]
+<info>Donbot nods and Clamps laughs maniacally.</info>
 
-[Outside Curvetti Bros. Bending Plant. Bender arrives and sees 
-the robots.]
+<info>Outside Curvetti Bros. Bending Plant. Bender arrives and sees 
+the robots.</info>
 
 <character>BENDER</character>
 Aw, no! A strike? Now I'll never get 
@@ -342,10 +342,10 @@ times the normal wage.
 Ten-times normal wage?  I'll give those 
 jerks what for!
 
-[He walks straight through the fence towards the factory and 
-the robots cheer him on.]
+<info>He walks straight through the fence towards the factory and 
+the robots cheer him on.</info>
 
-[Curvetti Bros. Bending Plant. Bender shakes Sal's hand.]
+<info>Curvetti Bros. Bending Plant. Bender shakes Sal's hand.</info>
 
 <character>SAL</character>
 Welcomes aboard, scab.
@@ -358,7 +358,7 @@ Come on. I'll introduces you to your
 scab co-workers you'll be scabbing with. 
 This heres our scab foreman.
 
-[The bending unit turns around.]
+<info>The bending unit turns around.</info>
 
 <character>BENDER</character>
 Flexo?
@@ -376,48 +376,48 @@ You bastard! They treated me like an
 animal and that's what I became!  Nah, 
 you're alright. Good to see you, buddy!
 
-[They high-five.]
+<info>They high-five.</info>
 
 <character>SAL</character>
 And heres another scab what also works 
 here: Angleyne.
 
-[Bender gasps and stares at the Fembot, blurry eyed. She is thin 
-and has blonde hair.]
+<info>Bender gasps and stares at the Fembot, blurry eyed. She is thin 
+and has blonde hair.</info>
 
 <character>BENDER</character>
 (sexfully) Hello.
 
-[Angleyne smiles.]
+<info>Angleyne smiles.</info>
 
 <character>SAL</character>
 Hey, yous guyses wanna move that things?
 
-[Robots move a pane of frosted glass from in front of Angleyne, 
-revealing her to be more heavily-built than Bender thought.]
+<info>Robots move a pane of frosted glass from in front of Angleyne, 
+revealing her to be more heavily-built than Bender thought.</info>
 
 <character>BENDER</character>
 (more sexfully) Hello!
 
-[Angleyne laughs croakily then coughs.]
+<info>Angleyne laughs croakily then coughs.</info>
 
-[Outside Curvetti Bros. Bending Plant. The robots still march 
-and chant.]
+<info>Outside Curvetti Bros. Bending Plant. The robots still march 
+and chant.</info>
 
 <character>ROBOTS</character>
 (chanting) Give us a raise you big fat 
 jerk.
 
-[Cut to: Curvetti Bros. Bending Plant. A girder drops into Flexo's 
-hands.]
+<info>Cut to: Curvetti Bros. Bending Plant. A girder drops into Flexo's 
+hands.</info>
 
 <character>SAL</character>
 (from outside) Nevers!
 
-[Flexo bends the girder and moves it aside. Bender stands in 
+<info>Flexo bends the girder and moves it aside. Bender stands in 
 front of him and bends a girder. Angleyne bends wires into wire 
 coat hangers. Bender gazes at her and sighs. A girder hits him 
-on the head.]
+on the head.</info>
 
 <character>BENDER</character>
 Ow!  Um. Hi, Angleyne. Whatcha up to?
@@ -435,7 +435,7 @@ work?
 <character>ANGLEYNE</character>
 What I always do. Jack squat.
 
-[Bender chuckles.]
+<info>Bender chuckles.</info>
 
 <character>BENDER</character>
 Me too.  Man, we have a lot in common, 
@@ -449,7 +449,7 @@ components.
 (sexfully) Are you sure? Maybe I should 
 sneak a peek at your access panel.
 
-[Angleyne holds up a leaflet.]
+<info>Angleyne holds up a leaflet.</info>
 
 <character>ANGLEYNE</character>
 Hey, according to the scab handbook 
@@ -457,27 +457,27 @@ that's extremely inappropriate banter.
 (sexfully) And that's just the way I 
 like it.
 
-[Bender smiles.]
+<info>Bender smiles.</info>
 
-[Planet Express: Hangar. Hermes tries to straighten his straight 
-edge. Behind him the ship is a battered mess.]
+<info>Planet Express: Hangar. Hermes tries to straighten his straight 
+edge. Behind him the ship is a battered mess.</info>
 
 <character>HERMES</character>
 Haile H. Selassie!
 
-[He bends it straight. Beside him, Zoidberg has re-curled his 
-slinky, though it doesn't really look right.]
+<info>He bends it straight. Beside him, Zoidberg has re-curled his 
+slinky, though it doesn't really look right.</info>
 
 <character>ZOIDBERG</character>
 There, little friend. Good as new.
 
-[He strokes it and puts it atop a pile of books he has arranged 
+<info>He strokes it and puts it atop a pile of books he has arranged 
 like stairs. He nudges the slinky and it flops down the books 
-and bursts into flames. Zoidberg groans and bursts into tears.]
+and bursts into flames. Zoidberg groans and bursts into tears.</info>
 
-[New New York City Street. Fry and Farnsworth walk down the rough 
+<info>New New York City Street. Fry and Farnsworth walk down the rough 
 street. Farnsworth is looking upwards and doesn't notice how 
-bad the street and its inhabitants are.]
+bad the street and its inhabitants are.</info>
 
 <character>FARNSWORTH</character>
 What an exquisite day. That azure sky, 
@@ -485,8 +485,8 @@ the verdant treetops.  Those delightful
 birds with their chirp, chirp, chirp 
 and their tweet, tweet, splat.
 
-[They pass a dog leaving its mark on a fire hydrant and two hookers 
-wearing jet packs.]
+<info>They pass a dog leaving its mark on a fire hydrant and two hookers 
+wearing jet packs.</info>
 
 <character>FRY</character>
 Professor, I've never seen you so cheerful. 
@@ -504,15 +504,15 @@ a dime up your nose.
 <character>FRY</character>
 I wish! It's a nickel.
 
-[Outside Curvetti Bros. Bending Plant. A new day dawns and Bender 
+<info>Outside Curvetti Bros. Bending Plant. A new day dawns and Bender 
 passes the picket line wearing a hardhat and carrying a lunchbox. 
-He waves his fist.]
+He waves his fist.</info>
 
 <character>BENDER</character>
 Union forever! Lousy scabs! They can't 
 do those things! Et cetera!
 
-[Curvetti Bros. Bending Plant.]
+<info>Curvetti Bros. Bending Plant.</info>
 
 <character>BENDER</character>
 I bet watching me bend girders like 
@@ -527,12 +527,12 @@ Mac.
 Oh, yeah?  Prove it.  Here, let me help 
 you.
 
-[He puts his arms around her and together they bend the girder 
+<info>He puts his arms around her and together they bend the girder 
 into a heart shape. A few bars of Unchained Melody play as they 
 gaze into each other's eyes. They lean in and kiss, and sparks 
-fly.]
+fly.</info>
 
-[Montage: Bender and Angleyne date to American Breed's Bend Me, 
+<info>Montage: Bender and Angleyne date to American Breed's Bend Me, 
 Shape Me. At a fairground stall, Bender tries to knock down a 
 pile of bottles with a ball but repeatedly misses. Angleyne looks 
 away in dismay so Bender throws the ball at the man in the stall, 
@@ -546,12 +546,12 @@ at the finish line. Fry and Farnsworth get ahead and Bender takes
 a stick out of his chest cabinet and puts it between the spokes 
 of Farnsworth's wheel, causing him and Fry to fly through the 
 air. They land in a lake and Bender laughs as he and Angleyne 
-cut through the tape.]
+cut through the tape.</info>
 
-[Planet Express: Meeting Room. Farnsworth, Leela, Fry, Zoidberg, 
+<info>Planet Express: Meeting Room. Farnsworth, Leela, Fry, Zoidberg, 
 Amy and Hermes sit around the table. For some reason everyone 
 except Farnsworth is tied to their chair and Leela's ponytail 
-points to her right.]
+points to her right.</info>
 
 <character>FARNSWORTH</character>
 My new bent outlook has completely re-energised 
@@ -561,20 +561,20 @@ retired actress.
 <character>FRY</character>
 Alright!
 
-[Amy cheers.]
+<info>Amy cheers.</info>
 
 <character>FARNSWORTH</character>
 Some say I'm robbing the cradle but 
 I say she's robbing the grave.
 
-[Bender wanders in sideways. It turns out the meeting table has 
-been stuck to the wall so Farnsworth can see everyone eye-to-eye.]
+<info>Bender wanders in sideways. It turns out the meeting table has 
+been stuck to the wall so Farnsworth can see everyone eye-to-eye.</info>
 
 <character>BENDER</character>
 Howdy, doodies. What's new?
 
-[He uses his suction feet to walk up the wall and sit in an empty 
-chair.]
+<info>He uses his suction feet to walk up the wall and sit in an empty 
+chair.</info>
 
 <character>FARNSWORTH</character>
 I was just regaling your former co-workers 
@@ -587,17 +587,17 @@ I got Bender-related news. I'm in love
 and I'm taking all my friends out to 
 celebrate.
 
-[Everyone cheers.]
+<info>Everyone cheers.</info>
 
 <character>AMY</character>
 Let's get liquored up!
 
-[Bender walks down to the floor and everyone else falls out of 
-their seats and land in a pile on the floor.]
+<info>Bender walks down to the floor and everyone else falls out of 
+their seats and land in a pile on the floor.</info>
 
-[Elzar's Fine Cuisine. The evening's special is blackened leftovers. 
+<info>Elzar's Fine Cuisine. The evening's special is blackened leftovers. 
 The crew sit around a table and Farnsworth leans against it with 
-his legs behind him.]
+his legs behind him.</info>
 
 <character>ELZAR</character>
 Hey, look at this crowd. You guys gotta 
@@ -620,7 +620,7 @@ Hey, that's terrific. To celebrate,
 I'm gonna stick seven copies of my latest 
 cookbook on your bill.
 
-[He holds up his book, Three More Recipes and leaves.]
+<info>He holds up his book, Three More Recipes and leaves.</info>
 
 <character>BENDER</character>
 Bless you, sir.
@@ -638,20 +638,20 @@ fabulous bending robot.
 <character>FRY</character>
 She sure does.
 
-[He points across the room. Bender turns and gasps. Flexo and 
-Angleyne sit at a table laughing.]
+<info>He points across the room. Bender turns and gasps. Flexo and 
+Angleyne sit at a table laughing.</info>
 
 <character>BENDER</character>
 Flexo!
 
-[He picks up a baguette and tries to break it. Elzar walks past 
-at the back of the room.]
+<info>He picks up a baguette and tries to break it. Elzar walks past 
+at the back of the room.</info>
 
 <character>ELZAR</character>
 (shouting) Careful, that's a week old!
 
-[Bender grunts and the stick breaks, then his arms fall off. 
-He reattaches them and mutters to himself.]
+<info>Bender grunts and the stick breaks, then his arms fall off. 
+He reattaches them and mutters to himself.</info>
 
 <character>BENDER</character>
 I finally meet a nice girl with a pair 
@@ -683,14 +683,14 @@ Uh, I knew that. What I'm actually outraged
 by is your choice of wine. Really, it's 
 the steward's fault.
 
-[He smacks a passing steward.]
+<info>He smacks a passing steward.</info>
 
 <character>STEWARD</character>
 Excellent choice, sir.
 
-[Planet Express: Lounge. Bender paces backwards and forwards 
+<info>Planet Express: Lounge. Bender paces backwards and forwards 
 muttering to himself. Fry and Leela sit on the couch and Farnsworth 
-leans against it. Leela reads a book.]
+leans against it. Leela reads a book.</info>
 
 <character>BENDER</character>
 (muttering) That Flexo, I'm knockin' 
@@ -712,9 +712,9 @@ feelings in an open an honest way.
 <character>FRY</character>
 Yeah. Either that or be a man.
 
-[Fry's and Bender's Lounge. At dusk, Bender paces around the 
+<info>Fry's and Bender's Lounge. At dusk, Bender paces around the 
 apartment while Fry trims a plant into the shape of the Planet 
-Express ship.]
+Express ship.</info>
 
 <character>BENDER</character>
 OK, I've constructed an elaborate lie: 
@@ -726,23 +726,23 @@ me with myself.
 <character>FRY</character>
 That's thinkin' like a man.
 
-[Bender picks up the phone and dials.]
+<info>Bender picks up the phone and dials.</info>
 
 <character>BENDER</character>
 (disguised voice) Hello? This is Flexo.
 
-[Outside The Hip Joint. A taxi flies towards the club and Bender 
+<info>Outside The Hip Joint. A taxi flies towards the club and Bender 
 gets out. It's Robot Nite and designated device drivers drink 
 free. Bender opens his chest cabient and sticks a goatee to his 
-chin.]
+chin.</info>
 
 <character>BENDER</character>
 Now we'll see who loves whom.
 
-[He cackles and walks in.]
+<info>He cackles and walks in.</info>
 
-[Cut to: The Hip Joint. Bender looks around and sees Angleyne 
-at the bar.]
+<info>Cut to: The Hip Joint. Bender looks around and sees Angleyne 
+at the bar.</info>
 
 <character>BENDER</character>
 Hey, hot stuff.
@@ -762,13 +762,13 @@ drink in the house.
 <character>BARTENDERBOT</character>
 Two Fuzzy Navel's comin' up.
 
-[Bender takes a wad of cash out of his chest cabinet.]
+<info>Bender takes a wad of cash out of his chest cabinet.</info>
 
 <character>BENDER</character>
 I hope they can make change for a fortune.
 
-[He tosses the cash over the bar. On the other side of the bar 
-the Mafiabots watch him.]
+<info>He tosses the cash over the bar. On the other side of the bar 
+the Mafiabots watch him.</info>
 
 <character>JOEY</character>
 Yo. Get an eyeload of that filty scab 
@@ -782,14 +782,14 @@ fund and kicksing my back.
 <character>CLAMPS</character>
 I'm greasing up my whoozits!
 
-[He squirts oil on his clamps.]
+<info>He squirts oil on his clamps.</info>
 
 <character>DONBOT</character>
 Whoa, whoa, Clamps, not yet. Let's just 
 keep an eye on him and see if he does 
 it a couple more times.
 
-[Bender and Angleyne drink.]
+<info>Bender and Angleyne drink.</info>
 
 <character>BENDER</character>
 You're lookin' good to Flexo tonight.
@@ -822,16 +822,16 @@ wanted to make up to you.  Hey, scratchmo.
 How 'bout dropping me and the lady some 
 rump-rattling beats?
 
-[He takes out his cash and throws it at the DJbot. The Mafiabots 
-watch.]
+<info>He takes out his cash and throws it at the DJbot. The Mafiabots 
+watch.</info>
 
 <character>DONBOT</character>
 I had hoped that by the second time 
 he flashed his cash my rage would have 
 subsided. Sadly that has not happened.
 
-[Clamps sharpens his clamps. Bender and Angleyne dance with the 
-other robots.]
+<info>Clamps sharpens his clamps. Bender and Angleyne dance with the 
+other robots.</info>
 
 <character>ANGLEYNE</character>
 You used to be so inflexible, Flexo. 
@@ -840,7 +840,7 @@ You have really loosened up!
 <character>BENDER</character>
 I recently upgraded my funk card. C'mon!
 
-[He dances.]
+<info>He dances.</info>
 
 <character>ANGLEYNE</character>
 Alright!
@@ -848,33 +848,33 @@ Alright!
 <character>BENDER</character>
 C'mon now, what's new!  Ew!
 
-[He wipes it on his casing.]
+<info>He wipes it on his casing.</info>
 
 <character>ANGLEYNE</character>
 Flexo? What-What's going on?
 
-[Bender laughs weakly and puts the goatee back on his face.]
+<info>Bender laughs weakly and puts the goatee back on his face.</info>
 
 <character>BENDER</character>
 Um...
 
-[He grabs Angleyne and tilts her back and she laughs.]
+<info>He grabs Angleyne and tilts her back and she laughs.</info>
 
 <character>ANGLEYNE</character>
 Flexo!
 
-[The robots dancing on the platforms start to fall apart and 
-they rain on Bender and Angleyne.]
+<info>The robots dancing on the platforms start to fall apart and 
+they rain on Bender and Angleyne.</info>
 
-[Time Lapse. Bender and Angleyne sit at a table as the janitor 
-sweeps the robot parts off the empty floor.]
+<info>Time Lapse. Bender and Angleyne sit at a table as the janitor 
+sweeps the robot parts off the empty floor.</info>
 
 <character>BENDER</character>
 So the moral of the story is: If you 
 want it to stay sunk, tie a weight to 
 it!
 
-[They laugh.]
+<info>They laugh.</info>
 
 <character>ANGLEYNE</character>
 (laughing) You always were a kick in 
@@ -884,7 +884,7 @@ the teeth, man.
 Aw, shucks, thunder-buns! You make me 
 feel like a million volts.
 
-[Angleyne sighs and stirs her finger around the rim of her glass.]
+<info>Angleyne sighs and stirs her finger around the rim of her glass.</info>
 
 <character>ANGLEYNE</character>
 Flexo, Flexo, Flexo. I'm starting to 
@@ -905,14 +905,14 @@ I'll walk you out. After all, a true
 gentleman tends to his date's every 
 need.  Tiparillo?
 
-[Outside The Hip Joint. Bender and Angleyne walk out smoking 
-their cigars. Bender hands a valet some money.]
+<info>Outside The Hip Joint. Bender and Angleyne walk out smoking 
+their cigars. Bender hands a valet some money.</info>
 
 <character>BENDER</character>
 Here you are, my lad. Bring the lady's 
 car around in the finest way possible.
 
-[Cut to: Mafiabot Car. The mobbots watch.]
+<info>Cut to: Mafiabot Car. The mobbots watch.</info>
 
 <character>JOEY</character>
 He's flashin' his cash loaf again.
@@ -933,9 +933,9 @@ With all due respect, Donbot, I don't
 think we should rely on an accident 
 happening. Let's kill him ourselves.
 
-[Donbot groans.]
+<info>Donbot groans.</info>
 
-[Cut to: Outside The Hip Joint. Angleyne stands by her car.]
+<info>Cut to: Outside The Hip Joint. Angleyne stands by her car.</info>
 
 <character>ANGLEYNE</character>
 Well, goodnight. I-I had a great time.
@@ -982,14 +982,14 @@ Oh, how I wish I could believe or understand
 that! There's only one reasonable course 
 of action now: Kill Flexo.  Ow!
 
-[He takes Angleyne's car and flies away. She runs after him to 
-the edge of the platform.]
+<info>He takes Angleyne's car and flies away. She runs after him to 
+the edge of the platform.</info>
 
 <character>ANGLEYNE</character>
 (screaming) Nooo!
 
-[Curvetti Bros. Bending Plant. Flexo hums as he bends girders. 
-Bender walks in and pushes Flexo.]
+<info>Curvetti Bros. Bending Plant. Flexo hums as he bends girders. 
+Bender walks in and pushes Flexo.</info>
 
 <character>FLEXO</character>
 Thanks, I appreciate that.  Nah, I'm 
@@ -1002,9 +1002,9 @@ a mockery of one of our oldest institutions.
 <character>FLEXO</character>
 What?
 
-[Bender punches him and they start fighting. In a control room 
+<info>Bender punches him and they start fighting. In a control room 
 above, the mobbots watch. Clamps operates a set of controls that 
-hold a huge unbendable girder above the factory floor.]
+hold a huge unbendable girder above the factory floor.</info>
 
 <character>CLAMPS</character>
 Alright, boss, give the word and I'll 
@@ -1016,14 +1016,14 @@ Remember, only kill the one with the
 beard. That other filthy scab we got 
 nothing against.
 
-[Clamps moves the girder and Flexo pushes Bender against a wall. 
+<info>Clamps moves the girder and Flexo pushes Bender against a wall. 
 Bender opens Flexo's door and punches the roof of his chest cabinet. 
-Flexo groans.]
+Flexo groans.</info>
 
 <character>FLEXO</character>
 That's low!
 
-[Angleyne runs around the corner.]
+<info>Angleyne runs around the corner.</info>
 
 <character>ANGLEYNE</character>
 Please stop! I'm not worth it!
@@ -1032,20 +1032,20 @@ Please stop! I'm not worth it!
 Probably not. But I love you And I'm 
 gonna kick his ass 'til I win you back.
 
-[He pushes Flexo into the middle of the room and Clamps moves 
-the girder again. Flexo starts choking Bender.]
+<info>He pushes Flexo into the middle of the room and Clamps moves 
+the girder again. Flexo starts choking Bender.</info>
 
 <character>DONBOT</character>
 (from control room) OK, Clamps. Now!
 
-[The girder drops and Bender and Flexo fall to the floor. Angleyne 
-screams and the mobbots look through the window.]
+<info>The girder drops and Bender and Flexo fall to the floor. Angleyne 
+screams and the mobbots look through the window.</info>
 
 <character>CLAMPS</character>
 Ooh, that's gotta clamp!
 
-[Flexo has been crushed under the girder. Angleyne kneels by 
-him.]
+<info>Flexo has been crushed under the girder. Angleyne kneels by 
+him.</info>
 
 <character>ANGLEYNE</character>
 Flexo? Are you OK?
@@ -1066,7 +1066,7 @@ I know and I care for you too. But I
 could never love anyone as much as you 
 made me realise I love Flexo.
 
-[She hugs Flexo and cries.]
+<info>She hugs Flexo and cries.</info>
 
 <character>BENDER</character>
 But ... but ...  I love you so much, 
@@ -1087,28 +1087,28 @@ You can't bend that girder. It's unbendable!
 Well I don't know anything about lifting, 
 so that just leaves us the one option.
 
-[He grunts as he tries to bend the girder. He stops and takes 
+<info>He grunts as he tries to bend the girder. He stops and takes 
 some <character>BENDGAY</character> out of his chest cabinet. He rubs it on his hands 
 and arms and tries bending again. Oil dribbles down his forehead, 
 his door pops off and his antenna explodes but he finally manages 
 to bend the girder away from Flexo's head. Flexo waddles out 
-from under it and shakes Bender's hand.]
+from under it and shakes Bender's hand.</info>
 
 <character>FLEXO</character>
 Thanks, buddy. Another year under that 
 and I'd have been a goner.
 
-[Angleyne hugs Bender.]
+<info>Angleyne hugs Bender.</info>
 
 <character>ANGLEYNE</character>
 I'll always remember this, Bender.
 
-[She hugs Flexo and Bender wipes a tear away from his eye.]
+<info>She hugs Flexo and Bender wipes a tear away from his eye.</info>
 
 <character>BENDER</character>
 (crying) Me too. Me too. (talking) Jerk.
 
-[Planet Express: Lounge. The staff sit around the table.]
+<info>Planet Express: Lounge. The staff sit around the table.</info>
 
 <character>LEELA</character>
 So Flexo and Angleyne had sex right 
@@ -1143,7 +1143,7 @@ I wrote:
 
 You gotta bend away all your trouble and your strife,
 
-[Leela sighs.]
+<info>Leela sighs.</info>
 
 <character>LEELA</character>
 Bender, you've gotta help us.
@@ -1152,7 +1152,7 @@ Bender, you've gotta help us.
 I try to get out but they keep pulling 
 me back in.
 
-[He stands up and rolls up his sleeves.]
+<info>He stands up and rolls up his sleeves.</info>
 
 <character>FARNSWORTH</character>
 (singing) You gotta dangle,
@@ -1161,7 +1161,7 @@ Have a new angle,
 
 Wangle a new dangle on life.
 
-[Bender bends him and he screams. He has bent right over backwards.]
+<info>Bender bends him and he screams. He has bent right over backwards.</info>
 
 <character>AMY</character>
 No, Bender! The other way.

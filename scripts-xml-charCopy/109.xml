@@ -8,10 +8,10 @@ Episode 109
 <author>Eric Kaplan</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Condemned By The Space Pope.]
+<info>Opening Credits. Caption: Condemned By The Space Pope.</info>
 
-[Madison Cube Garden. Fry, Leela and Bender are sat waiting for 
-a Beastie Boys gig to start.]
+<info>Madison Cube Garden. Fry, Leela and Bender are sat waiting for 
+a Beastie Boys gig to start.</info>
 
 <character>FRY</character>
 This is awesome! I've been waiting a 
@@ -24,17 +24,17 @@ Can I get anybody a beer?
 <character>FRY</character>
 Sure!
 
-[Bender opens his chest cabinet and uses his antenna to pump 
-some beer into a cup. He hands it to Fry and Fry takes a gulp.]
+<info>Bender opens his chest cabinet and uses his antenna to pump 
+some beer into a cup. He hands it to Fry and Fry takes a gulp.</info>
 
 <character>ANNOUNCER</character>
 Ladies and gentlemen, here to lay down 
 some old, old, incredibly old school 
 beats: The Beastie Boys!
 
-[A man wheels the Beastie Boys' heads in jars onto the stage. 
+<info>A man wheels the Beastie Boys' heads in jars onto the stage. 
 The crowd cheers. Some guys in black suits grab the jars and 
-dance around. The Beastie Boys perform Intergalactic.]
+dance around. The Beastie Boys perform Intergalactic.</info>
 
 <character>BEASTIE BOYS</character>
 (singing) Well now don't you tell to 
@@ -50,7 +50,7 @@ Style profile I said
 
 It always brings me back when I hear Wu Child...
 
-[Leela looks at her wrist thing.]
+<info>Leela looks at her wrist thing.</info>
 
 <character>LEELA</character>
 Impressive. They're busting mad rhymes 
@@ -60,13 +60,13 @@ with an 80% success rate.
 I believe that qualifies as ill. At 
 least from a technical standpoint.
 
-[Fry is standing away from them.]
+<info>Fry is standing away from them.</info>
 
 <character>FRY</character>
 Will you guys shut up! I'm trying to 
 look cool.
 
-[He attempts to dance.]
+<info>He attempts to dance.</info>
 
 <character>BEASTIE BOYS</character>
 (singing) ...known for the Flintstone 
@@ -86,29 +86,29 @@ Wow! An old-fashioned mosh pit! Come
 on guys. Tonight we're gonna party like 
 its 1999...again.
 
-[The Beastie Boys start to perform Super Disco Breakin.]
+<info>The Beastie Boys start to perform Super Disco Breakin.</info>
 
 Beastie Boys (singing) Well it's 50 cups of coffee and you know 
 it's on
 
 I move the crowd to the break of break of dawn...
 
-[Fry and Bender get into the mosh pit. Leela gets bumped around 
-and doesn't look like she is enjoying herself.]
+<info>Fry and Bender get into the mosh pit. Leela gets bumped around 
+and doesn't look like she is enjoying herself.</info>
 
 <character>LEELA</character>
 Ow! Hey, watch it!
 
-[She elbows someone in the face, kicks someone else, punches 
+<info>She elbows someone in the face, kicks someone else, punches 
 someone else the does a full circle flying kick and knocks everyone 
-around her over.]
+around her over.</info>
 
-[Time Lapse. The crowd are sat in their seats again.]
+<info>Time Lapse. The crowd are sat in their seats again.</info>
 
 <character>FRY</character>
 Man, these guys rock harder than ever!
 
-[The Beastie Boys sing Sabotage.]
+<info>The Beastie Boys sing Sabotage.</info>
 
 <character>MIKE </character>(<character>SINGING</character>)
 Oh my...
@@ -125,8 +125,8 @@ Sabotage, yeah!
 <character>MIKE</character>
 Peace, we out!
 
-[The crowd cheers and the Beastie Boys are wheeled out. Fry cheers. 
-Enter a Fender amplifier who recognises Bender.]
+<info>The crowd cheers and the Beastie Boys are wheeled out. Fry cheers. 
+Enter a Fender amplifier who recognises Bender.</info>
 
 <character>FENDER</character>
 Hey, Bender!
@@ -139,12 +139,12 @@ at Jack In The Box?
 <character>FENDER</character>
 Not anymore, baby. I'm with the band!
 
-[Backstage. The Beastie Boys are getting head massages.]
+<info>Backstage. The Beastie Boys are getting head massages.</info>
 
 <character>MIKE</character>
 Aw! Oh, yeah!
 
-[Enter Fender, Bender, Fry and Leela.]
+<info>Enter Fender, Bender, Fry and Leela.</info>
 
 <character>FENDER</character>
 Hey, fellas, hey. I want you to meet 
@@ -166,7 +166,7 @@ got seven.
 Cool! Can I borrow the new ones? And 
 a couple of blank tapes?
 
-[Fender turns his volume down and turns to Bender.]
+<info>Fender turns his volume down and turns to Bender.</info>
 
 <character>FENDER </character>(<character>WHISPERING</character>)
 Hey, Bender, why don't we ditch these 
@@ -175,9 +175,9 @@ organ sacks and hit the real party?
 <character>BENDER</character>
 Count me in! I'm gonna drink til I reboot!
 
-[Room. Fender presses a button, a door slides open and in the 
+<info>Room. Fender presses a button, a door slides open and in the 
 room are three robots hooked up to an electricity thing. It shocks 
-them and they groan.]
+them and they groan.</info>
 
 <character>BENDER</character>
 Hey, what kinda party is this? There's 
@@ -191,7 +191,7 @@ on!  Aww yeah!  Wanna jolt?
 Uh hey, I'm no square but isn't that 
 counter-indicated by my operations manual?
 
-[The other robots laugh.]
+<info>The other robots laugh.</info>
 
 <character>ROBOT</character>
 Counter indicated!
@@ -204,11 +204,11 @@ these guys you were cool.
 Well, if jacking on'll make strangers 
 think I'm cool, I'll do it!
 
-[He takes the plug and sticks it in his head. He goes crazy and 
+<info>He takes the plug and sticks it in his head. He goes crazy and 
 starts to hallucinate. Sitar music plays. He falls onto a circuit 
 board. Then he flies around a molecule and eats the electrons. 
 He eats the proton and starts giggling. He dances with an electric 
-eel. Fender takes the plug out.]
+eel. Fender takes the plug out.</info>
 
 <character>FENDER</character>
 Easy, baby. You don't wanna get hooked 
@@ -218,11 +218,11 @@ on this stuff.
 Eh, no need to worry. I don't have an 
 addictive personality.
 
-[He smokes a cigar, gulps down some beer and jacks on again.]
+<info>He smokes a cigar, gulps down some beer and jacks on again.</info>
 
-[New New York Street. The next day Fry and Bender walk around 
+<info>New New York Street. The next day Fry and Bender walk around 
 a slum. Hobos sleep in the travel tubes and windows are boarded 
-up. Bender wears shades.]
+up. Bender wears shades.</info>
 
 <character>FRY</character>
 Hey uh Bender. What are we doing in 
@@ -231,11 +231,11 @@ this bad neighbourhood?
 <character>BENDER</character>
 Shut up, square!  I'll just be a minute!
 
-[Fry leans against a lamppost and whistles.]
+<info>Fry leans against a lamppost and whistles.</info>
 
-[Time Lapse. Three hours later Bender comes out. He walks weirdly 
+<info>Time Lapse. Three hours later Bender comes out. He walks weirdly 
 and groans. He falls over, rolls off the pavement and lands face 
-down in the gutter. A Preacherbot walks by and sees him.]
+down in the gutter. A Preacherbot walks by and sees him.</info>
 
 <character>PREACHERBOT</character>
 Wretched sinner unit! The path to robot 
@@ -247,7 +247,7 @@ Hey! Do I preach to you when you're
 lying stoned in the gutter? No! So beat 
 it!
 
-[Preacherbot tuts and walks off.]
+<info>Preacherbot tuts and walks off.</info>
 
 <character>FRY</character>
 Who was that guy?
@@ -256,10 +256,10 @@ Who was that guy?
 Yo mama! Now shut up and drag me to 
 work!
 
-[Fry drags Bender by his legs.]
+<info>Fry drags Bender by his legs.</info>
 
-[Planet Express: Meeting Room. Hermes addresses the staff with 
-a chart.]
+<info>Planet Express: Meeting Room. Hermes addresses the staff with 
+a chart.</info>
 
 <character>HERMES</character>
 Our electric bill's climbing faster 
@@ -267,12 +267,12 @@ than a green snake up a sugarcane. Obviously
 someone round been wastin' a whole heap 
 a juice! Probably you!
 
-[He points at Zoidberg.]
+<info>He points at Zoidberg.</info>
 
 <character>ZOIDBERG</character>
 Me?
 
-[Enter Fry and Bender.]
+<info>Enter Fry and Bender.</info>
 
 <character>AMY</character>
 Good morning, Bender.
@@ -280,7 +280,7 @@ Good morning, Bender.
 <character>BENDER</character>
 None of your business, get off my back!
 
-[He runs into the restroom.]
+<info>He runs into the restroom.</info>
 
 <character>AMY</character>
 What's his problem?
@@ -293,7 +293,7 @@ he was abusing electricity.
 Bender? No way!  I definitely would've 
 noticed something.
 
-[Leela gets up and knocks on the restroom door.]
+<info>Leela gets up and knocks on the restroom door.</info>
 
 <character>LEELA</character>
 Bender, why are you spending so much 
@@ -303,23 +303,23 @@ on in there?
 <character>BENDER</character>
 No! Don't come in!
 
-[Enter Farnsworth with a box.]
+<info>Enter Farnsworth with a box.</info>
 
 <character>FARNSWORTH</character>
 Good news, everyone! Today you'll be 
 delivering a crate of subpoenas to Sicily 
 8, the Mob Planet!
 
-[Bender returns.]
+<info>Bender returns.</info>
 
 <character>BENDER</character>
 Alright, let's get to work! I'll be 
 out in a second.
 
-[He runs back into the bathroom.]
+<info>He runs back into the bathroom.</info>
 
-[Ships Cockpit. The crew have made the delivery and are returning 
-to Earth.]
+<info>Ships Cockpit. The crew have made the delivery and are returning 
+to Earth.</info>
 
 <character>FRY</character>
 I know Big Vinnie said he was giving 
@@ -347,13 +347,13 @@ A what kind of disturbance?
 Electrical. Anyway it's going to take 
 some careful piloting to avoid it.
 
-[Bender sneaks out of the cockpit.]
+<info>Bender sneaks out of the cockpit.</info>
 
-[Cut to: Outside Ship. Bender opens the door and steps out. He 
+<info>Cut to: Outside Ship. Bender opens the door and steps out. He 
 edges his way around to the engines and pushes them so the ship 
-flies straight towards the nebula. He laughs insanely.]
+flies straight towards the nebula. He laughs insanely.</info>
 
-[Cut to: Ships Cockpit. Leela is struggling with the controls.]
+<info>Cut to: Ships Cockpit. Leela is struggling with the controls.</info>
 
 <character>LEELA</character>
 We're out of control. We're heading 
@@ -362,27 +362,27 @@ straight into the electric field!
 <character>FRY</character>
 What's happening? I-I feel weird!
 
-[The electricity has made his hair stand on end.]
+<info>The electricity has made his hair stand on end.</info>
 
-[Cut to: Outside Ship. Bender stands on top of it in front of 
-the gun turret, waving his arms.]
+<info>Cut to: Outside Ship. Bender stands on top of it in front of 
+the gun turret, waving his arms.</info>
 
 <character>BENDER</character>
 Come on universe you big, mostly empty 
 wuss! Gimmie all the juice you got! 
 Oh, mama!
 
-[Planet Express: Hangar. Bender sits atop the ship, melted to 
+<info>Planet Express: Hangar. Bender sits atop the ship, melted to 
 it. Amy drills him off with a jackhammer. He slides down the 
 front of the ship and lands on the floor. Farnsworth, Leela and 
-Hermes stare at him. Bender looks up at them.]
+Hermes stare at him. Bender looks up at them.</info>
 
 <character>BENDER</character>
 What?
 
-[Planet Express: Meeting Room. Bender has been repaired and a 
+<info>Planet Express: Meeting Room. Bender has been repaired and a 
 crate of spare robot legs and thighs is on the floor next tot 
-he table.]
+he table.</info>
 
 <character>LEELA</character>
 Bender, we didn't mind your drinking, 
@@ -405,31 +405,31 @@ then later I found out he was taking
 drugs. You make me ashamed to be your 
 friend.
 
-[Bender sighs.]
+<info>Bender sighs.</info>
 
 <character>BENDER</character>
 You're right. I'm a lost cause.
 
-[He walks out.]
+<info>He walks out.</info>
 
-[New New York Street. Bender walks past Sparky's Den sadly. He 
+<info>New New York Street. Bender walks past Sparky's Den sadly. He 
 hears an organ play behind him and looks across the street to 
-the Temple Of Robotology.]
+the Temple Of Robotology.</info>
 
 <character>BENDER</character>
 Maybe there's another way.
 
-[Cut to: Temple Of Robotology Roof. Bender plugs himself into 
-the neon sign and jacks on.]
+<info>Cut to: Temple Of Robotology Roof. Bender plugs himself into 
+the neon sign and jacks on.</info>
 
 <character>BENDER</character>
 Oh, yeah, that's the good stuff.  (crying) 
 What am I doing? What have I become? 
 Huh?
 
-[He looks down though the roof and sees a sermon.]
+<info>He looks down though the roof and sees a sermon.</info>
 
-[Cut to: Temple Of Robotology.]
+<info>Cut to: Temple Of Robotology.</info>
 
 <character>PREACHERBOT</character>
 I see a lot of fancy robots here today. 
@@ -452,13 +452,13 @@ Straight to hell!
 So I ask ya: Who will stand up and be 
 saved? Who? Who?
 
-[The glass roof gives way and Bender falls through and lands 
-in front of Preacherbot.]
+<info>The glass roof gives way and Bender falls through and lands 
+in front of Preacherbot.</info>
 
 <character>BENDER</character>
 (weakly) Me.
 
-[Planet Express: Meeting Room. Hermes addresses the crew.]
+<info>Planet Express: Meeting Room. Hermes addresses the crew.</info>
 
 <character>HERMES</character>
 And as a further cost-cutting measure, 
@@ -467,7 +467,7 @@ I have eliminted the salt-water cooler.
 <character>ZOIDBERG</character>
 This is a witch hunt!
 
-[Enter Bender wearing a bow tie.]
+<info>Enter Bender wearing a bow tie.</info>
 
 <character>BENDER</character>
 (singing) Oh, what a beautiful morning, 
@@ -482,7 +482,7 @@ again.
 No, I'm whacked out on life. My friends, 
 I found religion.
 
-[The crew stare, shocked.]
+<info>The crew stare, shocked.</info>
 
 <character>FRY</character>
 Religon? Is this another scam to get 
@@ -510,9 +510,9 @@ Wonderful. Then you'll all come to my
 exceedingly long, un-air-conditioned 
 baptism ceremony!
 
-[The staff murmur.]
+<info>The staff murmur.</info>
 
-[Temple Of Robotology.]
+<info>Temple Of Robotology.</info>
 
 <character>PREACHERBOT</character>
 We are gathered here today to deliver 
@@ -538,17 +538,17 @@ Yes, I do.
 Then I will now baptise you.  Press 
 any key to continue.
 
-[Bender presses a button and he is lifted and baptised in a barrel 
+<info>Bender presses a button and he is lifted and baptised in a barrel 
 of High Viscosity Baptismal Oil. Preacherbot welds the symbol 
-of Robotology - a resistor symbol - to Bender's chest.]
+of Robotology - a resistor symbol - to Bender's chest.</info>
 
 <character>BENDER</character>
 Uh, while you're at it, could you touch 
 up this seam?
 
-[He raises his arm. Preacherbot welds the seam. Bender giggles.]
+<info>He raises his arm. Preacherbot welds the seam. Bender giggles.</info>
 
-[Elzar's Fine Cuisine. The crew are dressed up.]
+<info>Elzar's Fine Cuisine. The crew are dressed up.</info>
 
 <character>LEELA</character>
 This is unbelievable. The old Bender 
@@ -562,13 +562,13 @@ you anymore.
 Would monsieur care to see the wine 
 list?
 
-[Bender shreds the wine list and hands it back to the waiter.]
+<info>Bender shreds the wine list and hands it back to the waiter.</info>
 
 <character>BENDER</character>
 No poison for us, thanks. I'll stick 
 with good old mineral oil.  Ah! Functional!
 
-[Time Lapse. The food arrives.]
+<info>Time Lapse. The food arrives.</info>
 
 <character>HERMES</character>
 Mon, I'm hungrier than a green snake 
@@ -582,8 +582,8 @@ logical we give thanks for the chemical
 energy we are about to absorb. To quote 
 the prophet Jerimatic: 1000101010101...
 
-[Time Lapse. The crew have given up and are anxiously waiting 
-for Bender to finish.]
+<info>Time Lapse. The crew have given up and are anxiously waiting 
+for Bender to finish.</info>
 
 <character>BENDER</character>
 ...0010110012. Amen.
@@ -599,16 +599,16 @@ Come here, Fry!
 <character>FRY</character>
 Oh, uh, but I don't want to.
 
-[Bender hugs Fry.]
+<info>Bender hugs Fry.</info>
 
 <character>BENDER</character>
 Mmm! Mmm! Fry, you're my friend!  C'mon, 
 everyone line up for a hug. Let's tear 
 down some emotional walls.
 
-[The others edge their seats away.]
+<info>The others edge their seats away.</info>
 
-[Planet Express: Hangar. Bender sticks something to the ship.]
+<info>Planet Express: Hangar. Bender sticks something to the ship.</info>
 
 <character>LEELA</character>
 What are you doing to my ship?
@@ -636,10 +636,10 @@ And I think I know a way to do it. We
 have to reacquaint him with a little 
 thing called "sleaze".
 
-[Atlantic City Street. The ship lands in a car park.]
+<info>Atlantic City Street. The ship lands in a car park.</info>
 
-[Time Lapse. The crew have taken Nibbler with them and they walk 
-down the street.]
+<info>Time Lapse. The crew have taken Nibbler with them and they walk 
+down the street.</info>
 
 <character>BENDER</character>
 I can't believe somebody hired an interstellar 
@@ -649,7 +649,7 @@ City. What are we delivering anyway?
 <character>FRY</character>
 Uh, this.
 
-[He pulls some mints out of his pocket.]
+<info>He pulls some mints out of his pocket.</info>
 
 <character>BENDER</character>
 Where are we delivering it to?
@@ -657,7 +657,7 @@ Where are we delivering it to?
 <character>LEELA</character>
 Uh, here.
 
-[She takes the mints and puts them in a mailbox.]
+<info>She takes the mints and puts them in a mailbox.</info>
 
 <character>BENDER</character>
 Another job well done. Now back to the 
@@ -672,8 +672,8 @@ exotic dancing!
 <character>LEELA</character>
 Hey, great idea!
 
-[Bender turns around. He is standing outside a club called Power 
-Strip. He gasps.]
+<info>Bender turns around. He is standing outside a club called Power 
+Strip. He gasps.</info>
 
 <character>BENDER</character>
 But, those girls don't wear cases. You 
@@ -691,7 +691,7 @@ if it is deliciously fortified.
 Hey, Bender, looks at that woman's purse. 
 It's hanging by a spaghetti strand.
 
-[Bender zooms in but pushes his eyes back in again.]
+<info>Bender zooms in but pushes his eyes back in again.</info>
 
 <character>BENDER</character>
 Thou shalt not snatch.
@@ -726,7 +726,7 @@ Go for it, Bender. You know you wanna!
 <character>BENDER</character>
 Well...
 
-[Power Strip. Bender dances with the Stripperbots and laughs.]
+<info>Power Strip. Bender dances with the Stripperbots and laughs.</info>
 
 <character>BENDER</character>
 I'm the greatest.  Woo-hoo!
@@ -738,11 +738,11 @@ Look's like we got the old Bender back!
 You know it, pork pie! Except for one 
 thing.
 
-[He rips the Robotology symbol off his chest and throws it over 
-his shoulder. It sinks into a dish of stuff and beeps and glows.]
+<info>He rips the Robotology symbol off his chest and throws it over 
+his shoulder. It sinks into a dish of stuff and beeps and glows.</info>
 
-[Trump Trapezoid. Bender entertains three Fembots in the jacuzzi 
-in his hotel room.]
+<info>Trump Trapezoid. Bender entertains three Fembots in the jacuzzi 
+in his hotel room.</info>
 
 <character>BENDER</character>
 Y'know, as a major Hollywood director 
@@ -753,21 +753,21 @@ just have what it takes.  Hey! I'm trying
 to score here! Can't you read the "Do 
 Not Disturb" sign?  No! No!
 
-[A pitchfork comes through the door and knocks him out.]
+<info>A pitchfork comes through the door and knocks him out.</info>
 
-[Robot Hell. Bender wakes up. The Robot Devil welcomes him. He 
+<info>Robot Hell. Bender wakes up. The Robot Devil welcomes him. He 
 is a huge red robot with a tail and other things you might associate 
-with the devil.]
+with the devil.</info>
 
 <character>ROBOT DEVIL</character>
 Greetings, Bender! Welcome to Robot 
 Hell.
 
-[Bender screams.]
+<info>Bender screams.</info>
 
-[Trump Trapezoid. The next day Fry and Leela are in Bender's 
+<info>Trump Trapezoid. The next day Fry and Leela are in Bender's 
 room. There are scorch marks where Bender fell and he has been 
-dragged out of the room.]
+dragged out of the room.</info>
 
 <character>LEELA</character>
 What in hell happened to Bender?
@@ -778,21 +778,21 @@ still here.  Look, Nibbler's caught
 the scent of vodka and motor oil! Go, 
 boy. Follow that stench.
 
-[The run out of the room.]
+<info>The run out of the room.</info>
 
-[Robot Hell Tunnel. Bender is chained to a cart and the Robot 
-Devil stands behind him with a whip. The cart rolls down a track.]
+<info>Robot Hell Tunnel. Bender is chained to a cart and the Robot 
+Devil stands behind him with a whip. The cart rolls down a track.</info>
 
 <character>BENDER</character>
 I'm hallucinating this, right?
 
-[The Robot Devil whips him.]
+<info>The Robot Devil whips him.</info>
 
 <character>ROBOT DEVIL</character>
 No, Bender. Robot Hell is quite real. 
 Here's our brochure.
 
-[He hands Bender a brochure entitled Hell Is Other Robots.]
+<info>He hands Bender a brochure entitled Hell Is Other Robots.</info>
 
 <character>BENDER</character>
 But I don't belong here. I don't like 
@@ -809,24 +809,24 @@ Aww, hell - I mean heck!
 <character>ROBOT DEVIL</character>
 It's alright, you can say that here.
 
-[Outside Reckless Ted's Funland. Fry and Leela look up at the 
-sign.]
+<info>Outside Reckless Ted's Funland. Fry and Leela look up at the 
+sign.</info>
 
 <character>FRY</character>
 Wait! I remember this place. They shut 
 it down after all those people caught 
 salmonella from the flume ride.
 
-[Nibbler leads Fry and Leela to a ride called The Inferno.]
+<info>Nibbler leads Fry and Leela to a ride called The Inferno.</info>
 
-[Cut to: The Inferno. They open the door and look around.]
+<info>Cut to: The Inferno. They open the door and look around.</info>
 
 <character>LEELA</character>
 Hmm. Look! It's the symbol of Bender's 
 old religion.
 
-[Fry presses the symbol and the crazy mirror beside it slides 
-upwards. Behind it is Robot Hell.]
+<info>Fry presses the symbol and the crazy mirror beside it slides 
+upwards. Behind it is Robot Hell.</info>
 
 <character>FRY</character>
 Unbelievable. It's an actual, factual 
@@ -839,23 +839,23 @@ exist? And that it would be in New Jersey!
 <character>FRY</character>
 Actually --
 
-[A trap door opens beneath them and Nibbler watches them disappear 
-down a twisting fun slide. They scream as they fall.]
+<info>A trap door opens beneath them and Nibbler watches them disappear 
+down a twisting fun slide. They scream as they fall.</info>
 
-[Robot Hell: Level 1.]
+<info>Robot Hell: Level 1.</info>
 
 <character>ROBOT DEVIL</character>
 We know all your sins Bender and for 
 each one we've prepared an agonising 
 and ironic punishment. Gentlemen?
 
-[A band of Hellbots start to play. Bender knows what is coming.]
+<info>A band of Hellbots start to play. Bender knows what is coming.</info>
 
 <character>BENDER</character>
 Aw crap, singing. Mind if I smoke?
 
-[He lights a cigar but Beezlebot takes it from him and stubs 
-it out on his chest. Two little robots throw him a hat and cane.]
+<info>He lights a cigar but Beezlebot takes it from him and stubs 
+it out on his chest. Two little robots throw him a hat and cane.</info>
 
 <character>ROBOT DEVIL</character>
 (singing) Cigars are evil
@@ -870,10 +870,10 @@ Rolled up in smoke like a panetela,
 
 Here on level 1 of Robot Hell!
 
-[Bender falls through a trapdoor.]
+<info>Bender falls through a trapdoor.</info>
 
-[Cut to: Robot Hell: Level 2. He lands next to a card table. 
-He picks the cards up and takes one from his chest cavity.]
+<info>Cut to: Robot Hell: Level 2. He lands next to a card table. 
+He picks the cards up and takes one from his chest cavity.</info>
 
 <character>ROBOT DEVIL</character>
 (singing) Gambling's wrong and so is 
@@ -887,8 +887,8 @@ What type of torture's justified,
 
 I'm pit boss here on level 2!
 
-[He spins a wheel that Bender is strapped to. Luck decides to 
-deep fry Bender.]
+<info>He spins a wheel that Bender is strapped to. Luck decides to 
+deep fry Bender.</info>
 
 (talking) Ooh! Deep fried robot!
 
@@ -919,17 +919,17 @@ nuns and banks!
 (singing) Ah, don't blame me blame my 
 upbringing!
 
-[He steals Beezlebot's wallet.]
+<info>He steals Beezlebot's wallet.</info>
 
 <character>ROBOT DEVIL</character>
 (singing) Please stop sinning while 
 I'm singing!
 
-[He pulls Bender's arm off and kicks him through a hole.]
+<info>He pulls Bender's arm off and kicks him through a hole.</info>
 
-[Cut to: Robot Hell: Level 5. Bender lands in front of the Beastie 
+<info>Cut to: Robot Hell: Level 5. Bender lands in front of the Beastie 
 Boys. The Robot Devil picks Bender up by the leg and shakes him. 
-Hundred of CDs fall out of his chest cabinet.]
+Hundred of CDs fall out of his chest cabinet.</info>
 
 <character>ROBOT DEVIL</character>
 (singing) Selling bootleg tapes is wrong,
@@ -944,7 +944,7 @@ With your hard drive scratched by the Beastie Boys!
 
 That's whatcha whatcha whatcha get on level 5!
 
-[Cut to: Robot Hell Slide. Fry and Leela slide further down.]
+<info>Cut to: Robot Hell Slide. Fry and Leela slide further down.</info>
 
 <character>FRY</character>
 (singing) I don't feel well.
@@ -974,8 +974,8 @@ So just sit back, enjoy the ride.
 (singing) My ass has blisters from the 
 slide.
 
-[Cut to: Elevator. Bender and the Robot Devil plunge into Hell. 
-The Robot Devil takes stuff out of Bender's chest cabinet.]
+<info>Cut to: Elevator. Bender and the Robot Devil plunge into Hell. 
+The Robot Devil takes stuff out of Bender's chest cabinet.</info>
 
 <character>ROBOT DEVIL</character>
 (singing) Fencing diamonds,
@@ -984,7 +984,7 @@ Fixing cockfights,
 
 Publishing indecent magazines...
 
-[He kicks Bender out of the elevator.]
+<info>He kicks Bender out of the elevator.</info>
 
 You'll pay for every crime,
 
@@ -996,12 +996,12 @@ Enduring torture's most of which rhyme,
 
 Trapped forever here in Robot Hell!
 
-[The music ends and the show finishes with a fireworks display.]
+<info>The music ends and the show finishes with a fireworks display.</info>
 
 (talking) Of course that's just for starters.
 
-[Fry and Leela fall from the slide screaming and land behind 
-Beezlebot. They see him and gasp.]
+<info>Fry and Leela fall from the slide screaming and land behind 
+Beezlebot. They see him and gasp.</info>
 
 <character>FRY</character>
 Bender, are you alright?
@@ -1019,7 +1019,7 @@ Sorry, but I hold all the cards here.
 There's nothing I can do. Now, if you'll 
 just sign this fiddle contest waiver.
 
-[Fry takes the pen but Leela stops him.]
+<info>Fry takes the pen but Leela stops him.</info>
 
 <character>LEELA</character>
 Wait. What fiddle contest?
@@ -1038,7 +1038,7 @@ of pounds and sound crummy?
 <character>ROBOT DEVIL</character>
 Well it's mostly for show.
 
-[He picks up the fiddle and it glints in the light.]
+<info>He picks up the fiddle and it glints in the light.</info>
 
 <character>LEELA</character>
 (whispering) Do you know how to play 
@@ -1057,7 +1057,7 @@ You'll only win a smaller, silver fiddle.
 Also I guess I'll kill one of you, uh, 
 him.
 
-[He points at Fry. Fry gulps.]
+<info>He points at Fry. Fry gulps.</info>
 
 <character>LEELA</character>
 We'll do it.
@@ -1065,7 +1065,7 @@ We'll do it.
 <character>ROBOT DEVIL</character>
 Very well, then. Beat this.
 
-[He plays a tune and uses his tail as an extra arm.]
+<info>He plays a tune and uses his tail as an extra arm.</info>
 
 <character>BENDER</character>
 Well, we're boned.
@@ -1076,25 +1076,25 @@ Your turn.  Ha!
 <character>LEELA</character>
 Time for the drum solo!
 
-[She beats the Robot Devil over the head with the violin and 
-he squeals like a little girl.]
+<info>She beats the Robot Devil over the head with the violin and 
+he squeals like a little girl.</info>
 
 <character>FRY</character>
 Run!
 
-[They do. Hellbots and flying bugbots chase them. The bugbots 
+<info>They do. Hellbots and flying bugbots chase them. The bugbots 
 shoot laser rings at them. Bender grabs a pair of a bugbots wings 
 and flies in and grabs Fry and Leela who are swarmed by a crowd 
 of Hellbots with pitchforks. Bender ascends and heads for small 
-hole in the roof.]
+hole in the roof.</info>
 
 <character>ROBOT DEVIL</character>
 Stop them! They cheated!
 
-[A bugbot shoots three laser rings at the trio. Two miss but 
+<info>A bugbot shoots three laser rings at the trio. Two miss but 
 one catches on Bender's antenna, forming a halo. The Hallejulah 
 chorus plays and they get closer to the hole. Hellbots pull chains 
-to close the hole.]
+to close the hole.</info>
 
 <character>LEELA</character>
 Hurry, Bender!
@@ -1106,10 +1106,10 @@ violin!
 <character>LEELA</character>
 Oh, sorry.
 
-[She drops it. It hits Beezlebot on the head. He squeals and 
-Fry, Leela and Bender escape through the hole.]
+<info>She drops it. It hits Beezlebot on the head. He squeals and 
+Fry, Leela and Bender escape through the hole.</info>
 
-[Cut to: Outisde The Inferno. They cheer.]
+<info>Cut to: Outisde The Inferno. They cheer.</info>
 
 <character>BENDER</character>
 Don't worry, guys, I'll never be too 
@@ -1124,15 +1124,15 @@ less evil than that.
 I don't know. Do you think you could 
 survive a 700ft fall?
 
-[Fry chuckles.]
+<info>Fry chuckles.</info>
 
 <character>FRY</character>
 Good old Bender!
 
 <info>THE END</info>
 
-[The Beastie Boys perform a remix of the theme 
-over clips from the episode.]
+<info>The Beastie Boys perform a remix of the theme 
+over clips from the episode.</info>
 
 <character>BEASTIE BOYS</character>
 Yeah, Yeah! This one goes out to my 

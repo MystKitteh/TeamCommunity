@@ -7,16 +7,16 @@ Episode 208
 <author>David X. Cohen</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Based On a True Story.]
+<info>Opening Credits. Caption: Based On a True Story.</info>
 
-[Catskills Ski Lodge. The whole Planet Express staff are on a 
-ski holiday. The room is packed with people waiting for a show.]
+<info>Catskills Ski Lodge. The whole Planet Express staff are on a 
+ski holiday. The room is packed with people waiting for a show.</info>
 
 <character>ANNOUNCER</character>
 Ladies and gentlemen: Conan O'Brien's 
 head.
 
-[The audience cheer.]
+<info>The audience cheer.</info>
 
 O'<character>BRIEN</character>
 Thank you, thank you. Let's get started. 
@@ -49,10 +49,10 @@ And freckles!  Well, I'm out of material.
 You can catch me next week at the Andromeda 
 Chuckle Hut. Enjoy your breakfast.
 
-[The audience applauds.]
+<info>The audience applauds.</info>
 
-[Mountains. The staff are geared up for skiing. They walk away 
-from the lodge.]
+<info>Mountains. The staff are geared up for skiing. They walk away 
+from the lodge.</info>
 
 <character>BENDER</character>
 Ah, lets face it: Comedy's a dead art 
@@ -72,7 +72,7 @@ Great idea!
 <character>ZOIDBERG</character>
 We can only hope!
 
-[Time Lapse. Fry and Leela are on the ski lift.]
+<info>Time Lapse. Fry and Leela are on the ski lift.</info>
 
 <character>FRY</character>
 This snow is beautiful. I'm glad global 
@@ -82,7 +82,7 @@ warming never happened.
 Actually it did. But thank God nuclear 
 winter cancelled it out.
 
-[The lift tips them off and they ski over to Bender.]
+<info>The lift tips them off and they ski over to Bender.</info>
 
 <character>FRY</character>
 Hi!
@@ -91,7 +91,7 @@ Hi!
 Enough of your mindless chitchat, let's 
 get going.
 
-[Hermes and Zoidberg are on the ski lift but it isn't moving.]
+<info>Hermes and Zoidberg are on the ski lift but it isn't moving.</info>
 
 <character>HERMES</character>
 Jah damnit! We're stuck.
@@ -99,15 +99,15 @@ Jah damnit! We're stuck.
 <character>ZOIDBERG</character>
 At least you're not cold blooded!
 
-[He puts a glove over his mouth.]
+<info>He puts a glove over his mouth.</info>
 
 <character>HERMES</character>
 Sweet lion of Zion! Look at the Professor 
 go.
 
-[He points at Farnsworth who is skis well. He is actually asleep.]
+<info>He points at Farnsworth who is skis well. He is actually asleep.</info>
 
-[Time Lapse. Fry and Leela ski.]
+<info>Time Lapse. Fry and Leela ski.</info>
 
 <character>FRY</character>
 Look out! We're heading straight for 
@@ -119,7 +119,7 @@ Yeah, yeah, relax. Trees down.
 <character>TREES</character>
 (mechanical voice) Trees down.
 
-[The trees go down and Fry and Leela ski over them.]
+<info>The trees go down and Fry and Leela ski over them.</info>
 
 <character>FRY</character>
 Cool. Hey what do you do if you want 
@@ -128,8 +128,8 @@ the trees up?
 <character>TREES</character>
 (mechanical voice) Trees up
 
-[The trees go up and one takes Fry with it. He is stuck at the 
-top of one.]
+<info>The trees go up and one takes Fry with it. He is stuck at the 
+top of one.</info>
 
 <character>FRY</character>
 (hoarse) Trees down!
@@ -137,14 +137,14 @@ top of one.]
 <character>TREES</character>
 (mechanical voice) Trees down.
 
-[They go back down and Fry gets buried under the snow with one. 
+<info>They go back down and Fry gets buried under the snow with one. 
 Bender speeds past on a snowboard. He is wearing a red and blue 
-hat and has a cigar in his mouth.]
+hat and has a cigar in his mouth.</info>
 
 <character>BENDER</character>
 Lookin' good, meatball!
 
-[A man skis alongside Bender.]
+<info>A man skis alongside Bender.</info>
 
 <character>MAN</character>
 Excuse me, sir, you're snowboarding 
@@ -153,17 +153,17 @@ off the trail.
 <character>BENDER</character>
 Lick my frozen metal ass.  Uh-oh!
 
-[He falls over the edge of a cliff and screams as he falls towards 
+<info>He falls over the edge of a cliff and screams as he falls towards 
 a frozen lake. Children skate on the ice. Bender plummets straight 
 through the surface. The ice around cracks and the children fall 
-in. They scream.]
+in. They scream.</info>
 
 <character>CHILD</character>
 (shouting) Mommy!
 
-[Zoidberg skis with his feet on one ski and his claws on another. 
+<info>Zoidberg skis with his feet on one ski and his claws on another. 
 He comes to a stop at the bobsled run. Hermes is in a bobsled 
-car and Fry stands behind him.]
+car and Fry stands behind him.</info>
 
 <character>ZOIDBERG</character>
 You, a bobsledder? That I'd like to 
@@ -184,13 +184,13 @@ A true inspiration for the children.
 Um, a little help please?  (screaming) 
 Nooo!
 
-[Zoidberg laughs, slips, falls and slides down the track after 
-Hermes. Fry laughs.]
+<info>Zoidberg laughs, slips, falls and slides down the track after 
+Hermes. Fry laughs.</info>
 
 <character>FRY</character>
 Oh, what the hell!  Ow!
 
-[Catskills Ski Lodge. Amy is chats up a man in a cast.]
+<info>Catskills Ski Lodge. Amy is chats up a man in a cast.</info>
 
 <character>AMY</character>
 You poor man. What happened to you?
@@ -202,20 +202,20 @@ slope, when suddenly--
 <character>AMY</character>
 Oh, excuse me.  Hello there.
 
-[Farnsworth skis into the lodge and wakes up to discover a bronze 
-medal around his neck.]
+<info>Farnsworth skis into the lodge and wakes up to discover a bronze 
+medal around his neck.</info>
 
 <character>FARNSWORTH</character>
 Wha?
 
-[Time Lapse. The staff all sport various injuries and sit around 
-a blazing fire with their feet up.]
+<info>Time Lapse. The staff all sport various injuries and sit around 
+a blazing fire with their feet up.</info>
 
 <character>BENDER</character>
 Ah! Nothing like a warm fire and a Super 
 Soaker of fine cognac.
 
-[He squirts some into his mouth.]
+<info>He squirts some into his mouth.</info>
 
 <character>FRY</character>
 Yeah, it really puts you in the Christmas 
@@ -244,7 +244,7 @@ cut down an Xmas tree?
 <character>FRY</character>
 Yeah! An old-fashioned Xmas tree!
 
-[Forest. Fry seems disappointed that Xmas trees are palm trees.]
+<info>Forest. Fry seems disappointed that Xmas trees are palm trees.</info>
 
 <character>FRY</character>
 Hey! These aren't Xmas trees!
@@ -269,7 +269,7 @@ to be.
 <character>FARNSWORTH</character>
 There, there.
 
-[He leans against Fry and pats his shoulder.]
+<info>He leans against Fry and pats his shoulder.</info>
 
 <character>FRY</character>
 Everything's changed.
@@ -277,21 +277,21 @@ Everything's changed.
 <character>LEELA</character>
 That's not true.
 
-[She swings an axe and a laser on the end cuts through a palm 
-tree. It falls.]
+<info>She swings an axe and a laser on the end cuts through a palm 
+tree. It falls.</info>
 
-[The ship flies across New New York with the Xmas tree tied to 
-the roof. It lands in the Planet Express hangar.]
+<info>The ship flies across New New York with the Xmas tree tied to 
+the roof. It lands in the Planet Express hangar.</info>
 
-[Planet Express: Attic Room. Zoidberg puts down a box marked 
+<info>Planet Express: Attic Room. Zoidberg puts down a box marked 
 "Xmas Decorations" and cuts the tape with his claw. Bender rocks 
-back and forth in a chair with Nibbler on his lap.]
+back and forth in a chair with Nibbler on his lap.</info>
 
 <character>BENDER </character>(<character>SINGING</character>)
 Xmas tree oh Xmas tree! Bah boo bee 
 boo bah bee boh.
 
-[Leela sits on the arm of a couch in front of the fire and Fry 
+<info>Leela sits on the arm of a couch in front of the fire and Fry 
 sits next to her on the couch. The Xmas tree is in the middle 
 of the room. Farnsworth leads a string of lights around the bottom 
 of the trunk. Amy takes a star out of a box and uses a jet pack 
@@ -309,7 +309,7 @@ This dumb holiday just makes me think
 of all the things I left behind. Let's 
 just stop talking about Xmas.
 
-[Enter Hermes with some envelopes.]
+[Enter Hermes with some envelopes.</info>
 
 <character>HERMES</character>
 Happy Xmas, Xmas people! Xmas cards 
@@ -324,8 +324,8 @@ Yes! I got the most! I win Xmas!
 And last, but not least, the sweet flower 
 of the office: Me. Hermes Conrad.
 
-[Leela is disappointed. Bender looks at his card. On the front 
-is an <character>ASCII</character> Xmas tree.]
+<info>Leela is disappointed. Bender looks at his card. On the front 
+is an <character>ASCII</character> Xmas tree.</info>
 
 <character>BENDER</character>
 Hmm.  Ah, a picture of my mommy.
@@ -336,16 +336,16 @@ Zoidfarb.  Instead of "Claus" he writes
 "Claws"! Now that's humorous. Today's 
 comedians could learn from this card.
 
-[Leela watches the others. She sighs and walks out.]
+<info>Leela watches the others. She sighs and walks out.</info>
 
-[Cut to: Planet Express: Hangar. Leela opens her locker and gets 
+<info>Cut to: Planet Express: Hangar. Leela opens her locker and gets 
 out a photo album. She looks at photos of her childhood. One 
 shows her as a baby in an area marked "Abandoned Property". Another 
 shows her outside the Orphanarium, smiling. Children point at 
 her and laugh. Another shows her at her senior prom with no date. 
-She closes the album and a tear falls onto it.]
+She closes the album and a tear falls onto it.</info>
 
-[Planet Express: Attic Room.]
+<info>Planet Express: Attic Room.</info>
 
 <character>FRY</character>
 What's the point of Xmas when everyone 
@@ -362,7 +362,7 @@ Yes, and the only one of her species
 in all the known universe. What a lonely 
 life.
 
-[He walks off shaking his head.]
+<info>He walks off shaking his head.</info>
 
 <character>FRY</character>
 My God! Poor Leela.
@@ -373,7 +373,7 @@ cheering up! Well old Bender'll make
 you laugh.  Look at me look!  Oh, man, 
 I gotta work on my act!
 
-[Time Lapse. Fry has taken off his jacket.]
+<info>Time Lapse. Fry has taken off his jacket.</info>
 
 <character>FRY</character>
 I feel like a rat. Here I am whining 
@@ -383,7 +383,7 @@ lonely as a frog. I could kick myself.
 <character>AMY</character>
 I'll do it for you.
 
-[She kicks him in the shin.]
+<info>She kicks him in the shin.</info>
 
 <character>FRY</character>
 Ow! Thanks.
@@ -393,7 +393,7 @@ You should be ashamed of yourself, Fry.
 You'd have to be blind not to notice 
 that Leela's a cyclops.
 
-[He is actually talking to Hermes.]
+<info>He is actually talking to Hermes.</info>
 
 <character>HERMES</character>
 Fry's over there, man.
@@ -401,14 +401,14 @@ Fry's over there, man.
 <character>FARNSWORTH</character>
 Oh?
 
-[He adjust his glasses and looks around the room. Bender sits 
-in a chair with his feet up.]
+<info>He adjust his glasses and looks around the room. Bender sits 
+in a chair with his feet up.</info>
 
 <character>BENDER</character>
 Xmas Eve; Another day where I accomplish 
 nothing.
 
-[He slurps brandy and turns the TV on to the news.]
+<info>He slurps brandy and turns the TV on to the news.</info>
 
 <character>LINDA</character>
 The holiday season is a time of celebration 
@@ -419,7 +419,7 @@ the tragic suffering of the less fortunate.
 Earthlings do not yet know the meaning 
 of suffering.
 
-[He cackles. Linda chuckles.]
+<info>He cackles. Linda chuckles.</info>
 
 <character>LINDA</character>
 Earlier today I visited a shelter for 
@@ -430,7 +430,7 @@ there anything sadder? Only drowning
 puppies. And there would have to be 
 a lot of them.
 
-[Bender heads for the door.]
+<info>Bender heads for the door.</info>
 
 <character>AMY</character>
 Where are you going, Bender?
@@ -453,7 +453,7 @@ Whose blood?
 <character>BENDER</character>
 Some guy's.
 
-[He leaves.]
+<info>He leaves.</info>
 
 <character>FRY</character>
 I've got to do something to show Leela 
@@ -463,7 +463,7 @@ how sorry I am.
 So what's the problem? Just get down 
 on your claws and do the apology dance.
 
-[He starts scuttling and singing.]
+<info>He starts scuttling and singing.</info>
 
 <character>FRY</character>
 So it's left, left, right-- Wait! I 
@@ -492,7 +492,7 @@ Claus.
 <character>FRY</character>
 I know about Santa Claus.
 
-[He winks.]
+<info>He winks.</info>
 
 <character>FARNSWORTH</character>
 Back in 2801, the Friendly Robot Company 
@@ -504,7 +504,7 @@ went wrong.
 <character>FRY</character>
 Wow! 2801! Anyway...
 
-[He turns to leave.]
+<info>He turns to leave.</info>
 
 <character>FARNSWORTH</character>
 Wait, you fool! Due to a programming 
@@ -517,17 +517,17 @@ If he catches you after dark, he'll
 chop off your head and stuff your neck 
 full of toys from his sack of horrors.
 
-[Fry gulps.]
+<info>Fry gulps.</info>
 
 <character>FARNSWORTH</character>
 Nice meeting you.
 
-[New New York City Street. Bender is dressed as a homeless robot, 
+<info>New New York City Street. Bender is dressed as a homeless robot, 
 wearing a torn woollen hat and fingerless gloves. He walks into 
-Our Motherboard Of Mercy Liquor Kitchen.]
+Our Motherboard Of Mercy Liquor Kitchen.</info>
 
-[Cut to: Our Motherboard Of Mercy Liquor Kitchen. Bender is greeted 
-by the Preacherbot.]
+<info>Cut to: Our Motherboard Of Mercy Liquor Kitchen. Bender is greeted 
+by the Preacherbot.</info>
 
 <character>PREACHERBOT</character>
 Welcome, brother! May the blessings 
@@ -539,8 +539,8 @@ those lazy homeless bums I've been hearing
 about. Could you point me to the free 
 booze.  Oh, yeah! Oh, yeah!
 
-[Alien Overlord &amp; Taylor. The department store advertises and 
-Xmas Sale with "3% Off".]
+<info>Alien Overlord &amp; Taylor. The department store advertises and 
+Xmas Sale with "3% Off".</info>
 
 <character>FRY</character>
 There's this girl who I really like 
@@ -562,26 +562,26 @@ traditional.  A Surface-to-Santa rocket
 launcher. It comes with three jolly-seeking 
 missiles.
 
-[Fry laughs.]
+<info>Fry laughs.</info>
 
 <character>FRY</character>
 That's funny!
 
-[A missile points itself at Fry.]
+<info>A missile points itself at Fry.</info>
 
 <character>SALESMAN #1</character>
 Careful, sir!
 
-[Our Motherboard Of Mercy Liquor Kitchen. Bender is finishing 
-off his seventh bowl of liquor.]
+<info>Our Motherboard Of Mercy Liquor Kitchen. Bender is finishing 
+off his seventh bowl of liquor.</info>
 
 <character>BENDER</character>
 Oh, yeah! You filthy hobos sure kow 
 how to live.  Hey, chief, someone's 
 stealing your handkerchief full of crap.
 
-[The robot turns around and Bender steals his bowl. A little 
-robot with a leg missing holds out a bowl to the Preacherbot.]
+<info>The robot turns around and Bender steals his bowl. A little 
+robot with a leg missing holds out a bowl to the Preacherbot.</info>
 
 <character>TINNY TIM</character>
 Excuse me, sir? Might I have a sip of 
@@ -594,14 +594,14 @@ early tonight.
 <character>TINNY TIM</character>
 I understand.
 
-[He turns, coughs, and limps away.]
+<info>He turns, coughs, and limps away.</info>
 
 <character>BENDER</character>
 My God! That poor kid!
 
-[He laughs.]
+<info>He laughs.</info>
 
-[Joe's Ark Pet Store.]
+<info>Joe's Ark Pet Store.</info>
 
 <character>FRY</character>
 You're the last store open. I need something 
@@ -612,7 +612,7 @@ best animal.
 Best? Well that's a matter of opinion. 
 I personally like the Electric Snail.
 
-[He picks up the snail in a jar. It's shell sparks with electricity.]
+<info>He picks up the snail in a jar. It's shell sparks with electricity.</info>
 
 <character>FRY</character>
 That's a stupid animal. You're stupid! 
@@ -624,7 +624,7 @@ Lizard?
 The lizards are a buck each, the parrot 
 is $500.
 
-[Fry whistles.]
+<info>Fry whistles.</info>
 
 <character>FRY</character>
 That's a hell of a good parrot. Although, 
@@ -640,10 +640,10 @@ Alright, I'll take the 500 lizards.
 No, wait, yes. No. Yes. Yes. Yes! The 
 parrot!
 
-[The parrot squawks.]
+<info>The parrot squawks.</info>
 
-[Outside Joe's Ark Pet Store. Fry walks away with his parrot 
-and the shop closes.]
+<info>Outside Joe's Ark Pet Store. Fry walks away with his parrot 
+and the shop closes.</info>
 
 <character>FRY</character>
 Well, I spent every penny I had but 
@@ -652,10 +652,10 @@ you're quite the talker, aren't you?
 Shut the hell up!  Ow!  Stupid bird! 
 I know where you live.
 
-[Planet Express: Attic Room. Amy ties a ribbon around an present. 
+<info>Planet Express: Attic Room. Amy ties a ribbon around an present. 
 She holds the knot with her finger and Zoidberg cuts off the 
 excess. On the other side of the room, Farnsworth and Hermes 
-play chess naked. Enter Leela.]
+play chess naked. Enter Leela.</info>
 
 <character>AMY</character>
 Hey, it's Leela.
@@ -687,27 +687,27 @@ Why?
 I'm telling you why. Santa Claus is 
 coming to town!
 
-[New New York City Street. The parrot flies towards a tall building 
-with a large digital clockface. Fry looks up at it from the street.]
+<info>New New York City Street. The parrot flies towards a tall building 
+with a large digital clockface. Fry looks up at it from the street.</info>
 
 <character>FRY</character>
 Alright, bird, you thought you could 
 beat me in a game of wits. But you just 
 met your equal.
 
-[Cut to: Outside Building. Fry opens a hatch and steps out onto 
+<info>Cut to: Outside Building. Fry opens a hatch and steps out onto 
 the clock face. He drops the cage and gulps. The parrot edges 
 away from him. He steps closer to it. The parrot moves to the 
-very edge.]
+very edge.</info>
 
 <character>FRY</character>
 Aha! Cornered!
 
-[He leaps for the bird but it flies away before he can get a 
+<info>He leaps for the bird but it flies away before he can get a 
 hold of it. He loses his balance and falls. He grabs onto the 
 2 on the clock. It changes to a 3 then a 4. He falls a little 
 further. It changes to a 5, a 6 and then a 7. With nothing to 
-hold onto he falls. Leela grabs him from a hatch.]
+hold onto he falls. Leela grabs him from a hatch.</info>
 
 <character>LEELA</character>
 Hi there!
@@ -716,7 +716,7 @@ Hi there!
 Leela! Oh, my God! You saved my life. 
 I am gonna get you so many lizards.
 
-[New New York City Street. Fry and Leela walk out of the building.]
+<info>New New York City Street. Fry and Leela walk out of the building.</info>
 
 <character>LEELA</character>
 You didn't need to buy me a present, 
@@ -731,7 +731,7 @@ but you never even had a family.
 It's <character>OK</character>. You're lonely and I'm lonely. 
 But together we're lonely together.
 
-[They hold hands.]
+<info>They hold hands.</info>
 
 <character>FRY</character>
 Merry Xmas, Leela.
@@ -739,13 +739,13 @@ Merry Xmas, Leela.
 <character>LEELA</character>
 Merry Xmas.
 
-[A huge shadow creeps over them followed by two loud bangs. They 
-turn around.]
+<info>A huge shadow creeps over them followed by two loud bangs. They 
+turn around.</info>
 
 <character>FRY</character>
 Oh, boy! It's Santa!
 
-[Santa's eyes turn around 180-degrees, making him look angry.]
+<info>Santa's eyes turn around 180-degrees, making him look angry.</info>
 
 <character>SANTA</character>
 Ho, ho, ho!  You've been very naughty, 
@@ -775,11 +775,11 @@ No! I swear!
 Santa has something very special in 
 his sack for you two!
 
-[Fry smiles. Santa pulls out a laser gun and shoots them. They 
-scream and run away.]
+<info>Fry smiles. Santa pulls out a laser gun and shoots them. They 
+scream and run away.</info>
 
-[Outside Hattie's House. Bender and some other robots are singing 
-carols.]
+<info>Outside Hattie's House. Bender and some other robots are singing 
+carols.</info>
 
 <character>ROBOTS</character>
 (singing) So lock the door and hit the 
@@ -787,7 +787,7 @@ floor,
 
 'Cause Santa Claus comes tonight.
 
-[Hattie claps.]
+<info>Hattie claps.</info>
 
 <character>HATTIE</character>
 Go away!
@@ -804,9 +804,9 @@ enough!
 <character>BENDER</character>
 (from inside) Get her purse!
 
-[New New York City Street. Fry and Leela are still running from 
+<info>New New York City Street. Fry and Leela are still running from 
 Santa. They jump to the ground and Santa swoops over them in 
-his sleigh, turns around and heads back towards them.]
+his sleigh, turns around and heads back towards them.</info>
 
 <character>FRY</character>
 Please let us live! We'll put out milk 
@@ -817,9 +817,9 @@ You dare bribe Santa? I'm going to shove
 coal so far up your stocking you'll 
 be coughing up diamonds!
 
-[He throws a bauble-bomb at Fry and Leela. They run into an alcove 
+<info>He throws a bauble-bomb at Fry and Leela. They run into an alcove 
 and it explodes. Santa flies his sleigh around ready for the 
-kill. Leela tries a door but it's locked.]
+kill. Leela tries a door but it's locked.</info>
 
 <character>LEELA</character>
 We're trapped.
@@ -829,7 +829,7 @@ I never thought it would end this way:
 Gunned down by Santa Claus. Honestly, 
 I didn't see it coming!
 
-[Santa gets closer. Fry and Leela crouch down in a corner.]
+<info>Santa gets closer. Fry and Leela crouch down in a corner.</info>
 
 <character>LEELA</character>
 Goodbye, Fry.
@@ -838,22 +838,22 @@ Goodbye, Fry.
 Goodbye, Leela.  Hey, look: We're under 
 the mistletoe.
 
-[Leela looks up and they both look at each other. They move towards 
-each other to kiss.]
+<info>Leela looks up and they both look at each other. They move towards 
+each other to kiss.</info>
 
 <character>SANTA</character>
 Your mistletoe is no match for my T.O.W. 
 missile!
 
-[He shoots at them. Fry and Leela scream. The parrot flies in 
+<info>He shoots at them. Fry and Leela scream. The parrot flies in 
 front of the alcove and gets hit by the missile and explodes. 
-Feathers flutter down.]
+Feathers flutter down.</info>
 
 <character>FRY</character>
 Uh, you're present may need some assembly.
 
-[Elsehwhere, Bender and the other robots are carrying lots of 
-stuff.]
+<info>Elsehwhere, Bender and the other robots are carrying lots of 
+stuff.</info>
 
 <character>BENDER</character>
 (singing) On the 4th day of Xmas I stole 
@@ -871,13 +871,13 @@ from that lady.
 <character>BENDER</character>
 (singing) And a slipper on a shoe tree.
 
-[He throws the slipper down the sewer. Raoul waves through the 
-gate.]
+<info>He throws the slipper down the sewer. Raoul waves through the 
+gate.</info>
 
 <character>RAOUL</character>
 Oh, thank you!
 
-[Fry and Leela come running down the street.]
+<info>Fry and Leela come running down the street.</info>
 
 <character>FRY</character>
 (shouting) Help!
@@ -893,7 +893,7 @@ sir?
 No, wait, I know these guys. They got 
 nothing.
 
-[Bender runs towards Fry and Leela. Santa flies over them.]
+<info>Bender runs towards Fry and Leela. Santa flies over them.</info>
 
 <character>SANTA</character>
 Ho ho ho!  You've been very naughty, 
@@ -903,7 +903,7 @@ Bender.
 What? Me? I didn't do nothing. You're 
 thinking of the kid.
 
-[He points at Tinny Tim.]
+<info>He points at Tinny Tim.</info>
 
 <character>SANTA</character>
 My God, Bender! Framing an orphan? That's 
@@ -911,8 +911,8 @@ so naughty I'll have to add it to my
 list right now.  Framing ... I-N-G ... 
 ... an ...
 
-[Planet Express: Attic Room. Amy, Hermes, Farnsworth and Zoidberg 
-are sat under the Xmas Tree exchanging gifts.]
+<info>Planet Express: Attic Room. Amy, Hermes, Farnsworth and Zoidberg 
+are sat under the Xmas Tree exchanging gifts.</info>
 
 <character>ZOIDBERG</character>
 Amy, this is for you: A set of combs 
@@ -923,13 +923,13 @@ Oh, that's so sweet. But I sold my hair
 to a wigmaker so I could buy a set of 
 combs for Hermes.
 
-[She pulls her hat off revealing she is bald.]
+<info>She pulls her hat off revealing she is bald.</info>
 
 <character>HERMES</character>
 Oh, the irony. I sold my hair so I could 
 buy this third set of combs for Zoidberg.
 
-[He pulls his hat off. He is also bald.]
+<info>He pulls his hat off. He is also bald.</info>
 
 <character>ZOIDBERG</character>
 Thank you. These'll come in handy for 
@@ -945,16 +945,16 @@ as I feel!
 <character>BENDER</character>
 (shouting; from outside) Help!
 
-[The staff look through the window. Fry, Leela and the robots 
+<info>The staff look through the window. Fry, Leela and the robots 
 are still being chased by Santa. They run towards the Planet 
-Express building.]
+Express building.</info>
 
 <character>FARNSWORTH</character>
 Oh, dear. They'll be killed on our doorstep. 
 And there's no trash pickup until January 
 3rd.
 
-[Enter Fry, Leela and the robots. There is a crash on the roof.]
+<info>Enter Fry, Leela and the robots. There is a crash on the roof.</info>
 
 <character>HERMES</character>
 Sweet manatee of Galilee! He's on the 
@@ -967,26 +967,26 @@ Push! Push!
 <character>BENDER</character>
 Use teamwork!
 
-[The chimney is nearly covered when Santa sticks a candy cane 
+<info>The chimney is nearly covered when Santa sticks a candy cane 
 through a gap and rolls the cover back. The crew gasp. Santa 
-and the reindeer fly in.]
+and the reindeer fly in.</info>
 
 <character>TINNY TIM</character>
 Oh, dear! Oh, dear!
 
-[Hermes dives behind the sofa.]
+<info>Hermes dives behind the sofa.</info>
 
 <character>SANTA</character>
 You've all been very naughty. Very naughty 
 indeed. Except you, Dr. Zoidberg, this 
 is for you.
 
-[He hands Zoidberg a gift.]
+<info>He hands Zoidberg a gift.</info>
 
 <character>ZOIDBERG</character>
 A pogo-stick!
 
-[He giggles and bounces around the room.]
+<info>He giggles and bounces around the room.</info>
 
 <character>SANTA</character>
 As for the rest of you, I'm going to 
@@ -1003,13 +1003,13 @@ God! The pain!
 Ho ho ho! Time to get jolly on your 
 naughty asses!
 
-[He laughs maniacly.]
+<info>He laughs maniacly.</info>
 
 <character>LEELA</character>
 Watch out! His belly is shaking like 
 a bowl full of nitro-glycerine!
 
-[A reindeers nose beeps and flashes red.]
+<info>A reindeers nose beeps and flashes red.</info>
 
 <character>AMY</character>
 Rudolph's nose!
@@ -1017,34 +1017,34 @@ Rudolph's nose!
 <character>FRY</character>
 (shouting) He's gonna blow.
 
-[Everyone screams. Zoidberg cuts a wire hanging from the Xmas 
-tree.]
+<info>Everyone screams. Zoidberg cuts a wire hanging from the Xmas 
+tree.</info>
 
 <character>ZOIDBERG</character>
 Aha!
 
-[The wire falls and electrocutes Santa. Leela kicks him and the 
+<info>The wire falls and electrocutes Santa. Leela kicks him and the 
 rest of the staff use the Xmas tree to push him and his sleigh 
 into the chimney. The robots cover it with the armour-plated 
 cover. The reindeer beeps faster and the cover rocks as Santa 
-explodes.]
+explodes.</info>
 
-[Cut to: Outside Planet Express. Santa, the sleigh and the reindeer 
-fly upwards away from the building.]
+<info>Cut to: Outside Planet Express. Santa, the sleigh and the reindeer 
+fly upwards away from the building.</info>
 
-[Planet Express: Meeting Room. The Planet Express crew, LaBarbara 
-and the homeless robots are sat around the table talking.]
+<info>Planet Express: Meeting Room. The Planet Express crew, LaBarbara 
+and the homeless robots are sat around the table talking.</info>
 
 <character>FARNSWORTH</character>
 Yes, good thing I got us out of that 
 one!
 
-[Bender brings a covered plate in from the kitchen.]
+<info>Bender brings a covered plate in from the kitchen.</info>
 
 <character>BENDER</character>
 Xmas dinner, everyone.
 
-[He pulls the cover off. The dinner is the exploded parrot.]
+<info>He pulls the cover off. The dinner is the exploded parrot.</info>
 
 <character>FRY</character>
 Uh, Bender? Where did you get that bird?
@@ -1053,7 +1053,7 @@ Uh, Bender? Where did you get that bird?
 I found it lying in the street, like 
 all the food I cook. Dig in, everyone.
 
-[He cuts a piece off and puts it on Tinny Tim's plate.]
+<info>He cuts a piece off and puts it on Tinny Tim's plate.</info>
 
 <character>TINNY TIM</character>
 Thank you, sir.
@@ -1077,7 +1077,7 @@ I've never felt more at home.
 Hear, hear! Now let's all of us shut 
 up and sing!
 
-[They gather around a piano.]
+<info>They gather around a piano.</info>
 
 <character>AMY </character>(<character>SINGING</character>)
 He knows when you are sleeping.
@@ -1103,16 +1103,16 @@ you, dude.
 <character>FRY </character>(<character>SINGING</character>)
 Santa Claus is gunning you down!
 
-[Everyone cheers. Farnsworth takes off his lab coat, exposing 
-himself again.]
+<info>Everyone cheers. Farnsworth takes off his lab coat, exposing 
+himself again.</info>
 
 <character>FARNSWORTH</character>
 Merry Xmas, everyone!
 
-[He joins the others at the piano and it snows again outside.]
+<info>He joins the others at the piano and it snows again outside.</info>
 
-[Closing Credits. A version of We Wish You A Merry Christmas 
-plays. Santa and his reindeer fly by.]
+<info>Closing Credits. A version of We Wish You A Merry Christmas 
+plays. Santa and his reindeer fly by.</info>
 
 <character>SANTA</character>
 I'll be back. Back when you least expect 

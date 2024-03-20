@@ -7,14 +7,14 @@ Episode 406
 <author>J. Stewart Burns</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Krafted With Luv By Monsters.]
+<info>Opening Credits. Caption: Krafted With Luv By Monsters.</info>
 
-[The Planet Express ship flies towards Mars ("Mightiest of Planets") 
-and lands just outside Wong Ranch (You've Come To The Wong Place).]
+<info>The Planet Express ship flies towards Mars ("Mightiest of Planets") 
+and lands just outside Wong Ranch (You've Come To The Wong Place).</info>
 
-[The Wongs' Porch. The entire Planet Express staff are there. 
+<info>The Wongs' Porch. The entire Planet Express staff are there. 
 Leela rings the doorbell and Mr. Wong slides a peephole across 
-the door.]
+the door.</info>
 
 <character>MR. WONG</character>
 (from inside) Yes?
@@ -26,12 +26,12 @@ Hi, Dad. It's me and my co-workers.
 (from inside) Open up, Leo. It's Amy 
 and her weirdos.
 
-[He opens the door.]
+<info>He opens the door.</info>
 
 <character>MRS. WONG</character>
 Howdy, friends! Welcome to Mars!
 
-[The Wongs' Entrance Room. The staff look around the house.]
+<info>The Wongs' Entrance Room. The staff look around the house.</info>
 
 <character>LEELA</character>
 Thanks so much for inviting us, Mr. 
@@ -46,8 +46,8 @@ empty planet!
 <character>MRS. WONG</character>
 OK, then. Make yourselves at home.
 
-[Zoidberg stands on the landing, dressed in a bathrobe. He is 
-holding a green bottle.]
+<info>Zoidberg stands on the landing, dressed in a bathrobe. He is 
+holding a green bottle.</info>
 
 <character>ZOIDBERG</character>
 Don't mind if I already did. By the 
@@ -55,10 +55,10 @@ way, do you have anymore of this Dom
 Perignon bubble bath? There was only 
 enough to fill the tub halfway.
 
-[Mr. and Mrs. Wong growl.]
+<info>Mr. and Mrs. Wong growl.</info>
 
-[Wong Ranch. The Wongs and the staff pass a field where a man 
-is rolling out fully-grown corn.]
+<info>Wong Ranch. The Wongs and the staff pass a field where a man 
+is rolling out fully-grown corn.</info>
 
 <character>FARNSWORTH</character>
 This is quite a large ranch you have.
@@ -71,7 +71,7 @@ hemisphere!
 <character>FARNSWORTH</character>
 It's the same on Earth.
 
-[They all look over a fence at a herd of buggalo.]
+<info>They all look over a fence at a herd of buggalo.</info>
 
 <character>MR. WONG</character>
 Here is most number one product of all: 
@@ -79,7 +79,7 @@ The mighty buggalo. They used for everything;
 Meat, milk and their shells make good 
 row boat.
 
-[He points to Zoidberg, rowing a buggalo shell on a lake.]
+<info>He points to Zoidberg, rowing a buggalo shell on a lake.</info>
 
 <character>ZOIDBERG</character>
 (shouting) I broke your television.
@@ -93,13 +93,13 @@ Not really. We own so much stuff, it
 easier just to brand everything that 
 not ours.
 
-[He brands Hermes' briefcase with "Not Property Of Wongs" brand.]
+<info>He brands Hermes' briefcase with "Not Property Of Wongs" brand.</info>
 
 <character>HERMES</character>
 Please don't do that.
 
-[Amy leaps over a fence to another buggalo. It is surrounded 
-with cushy things and has a ribbon around its neck.]
+<info>Amy leaps over a fence to another buggalo. It is surrounded 
+with cushy things and has a ribbon around its neck.</info>
 
 <character>AMY</character>
 Betsy!  This is my sweet, little Betsy. 
@@ -126,8 +126,8 @@ make us lot of grandchildren. This not
 some parallel universe where you getting 
 any younger.
 
-[Nimbus Bridge. The Nimbus is orbiting Mars. Zapp and Kif talk. 
-Near them is a photo of Amy.]
+<info>Nimbus Bridge. The Nimbus is orbiting Mars. Zapp and Kif talk. 
+Near them is a photo of Amy.</info>
 
 <character>ZAPP</character>
 Now, remember, Kif: The quickest way 
@@ -154,9 +154,9 @@ Tiny, meek, uninteresting. Spare me
 your tedious life story, Kif. And above 
 all have fun!
 
-[Outside Wongs' House. Lots of people have gathered at the ranch 
+<info>Outside Wongs' House. Lots of people have gathered at the ranch 
 for country music and barbecued buggalo on Mars Day. The DJ scratches 
-some country music.]
+some country music.</info>
 
 <character>BENDER</character>
 Yeah, yeah, get on down!  Oh, yeah! 
@@ -166,10 +166,10 @@ Corn!
 <character>DJ</character>
 Yo, fool! It's Mixmaster Festus!
 
-[Mr. Wong puts more buggalo meat on the barbecue. A Pepto-Bismol 
+<info>Mr. Wong puts more buggalo meat on the barbecue. A Pepto-Bismol 
 tanker pulls up next to a BBQ Sauce tanker and unloads. Fry sets 
 his plate of buggalo down on a barrel and pumps some Pepto-Bismol 
-onto it. He picks it up and walks over to the barbecue.]
+onto it. He picks it up and walks over to the barbecue.</info>
 
 <character>FRY</character>
 So what's Mars Day about, anyway?
@@ -187,7 +187,7 @@ How can you call the Native Martians
 They sell whole planet for one bead. 
 Sound stupid to me!
 
-[He, Mrs. Wong and Fry laugh.]
+<info>He, Mrs. Wong and Fry laugh.</info>
 
 <character>FARNSWORTH</character>
 That is stupid!
@@ -204,7 +204,7 @@ Lighten up, Leela. It's funny!
 Of course it is. But you don't have 
 to laugh!
 
-[Amy and Kif stand by the buffet. Amy kisses him and he is startled.]
+<info>Amy and Kif stand by the buffet. Amy kisses him and he is startled.</info>
 
 <character>KIF</character>
 Amy, no! Not on your parents' planet!
@@ -214,7 +214,7 @@ Howdy, Amy. Glad to see you've come
 back to the country. It's where the 
 flavour is.
 
-[Amy hugs him.]
+<info>Amy hugs him.</info>
 
 <character>AMY</character>
 RJ, this is my boyfriend, Kif.
@@ -226,12 +226,12 @@ Cigarette, partner?
 <character>KIF</character>
 Oh, I don't--
 
-[RJ puts one in Kif's mouth and he coughs.]
+<info>RJ puts one in Kif's mouth and he coughs.</info>
 
 <character>RJ</character>
 I haven't even lit it yet!
 
-[He lights it.]
+<info>He lights it.</info>
 
 <character>KIF</character>
 Oh. Is it lit now?
@@ -239,7 +239,7 @@ Oh. Is it lit now?
 <character>RJ</character>
 Yep.  You're pathetic!
 
-[Zoidberg walks over to the barbecue.]
+<info>Zoidberg walks over to the barbecue.</info>
 
 <character>ZOIDBERG</character>
 Host-man! Host-woman! I'm having a wonderful 
@@ -255,11 +255,11 @@ Not bad for a city boy, huh?  By the
 way, I took the liberty of fertilising 
 your caviar.
 
-[Mr. Wong looks at his food and chews slower. At the bar, Bender 
+<info>Mr. Wong looks at his food and chews slower. At the bar, Bender 
 pours himself another drink, knocks it back, stacks the glass 
 on top of 13 others, pours the last of the bottle down his neck 
 and stacks the bottle on top of 11 others. He belches fire. Kif 
-stammers and Amy wipes sweat from his face.]
+stammers and Amy wipes sweat from his face.</info>
 
 <character>AMY</character>
 Just relax. I'm sure my parents will 
@@ -271,7 +271,7 @@ I can't control my camouflage reflex.
 Oh, dear!  Oh, goodness! Oh, odds and 
 bodkins!
 
-[Fry refills at the barbecue.]
+<info>Fry refills at the barbecue.</info>
 
 <character>FRY</character>
 I'll have a thorax and some feelers.
@@ -282,7 +282,7 @@ You want some salad with that?
 <character>FRY</character>
 Yuck!
 
-[Amy and Kif arrive.]
+<info>Amy and Kif arrive.</info>
 
 <character>AMY</character>
 Mom? Dad? You remember Kif?
@@ -306,26 +306,26 @@ that--
 Yes, yes! You a big squishy wuss! Amy 
 should be dating real man. Like him!
 
-[He points to RJ over by a campfire.]
+<info>He points to RJ over by a campfire.</info>
 
 <character>KIF</character>
 I can be manly too. I think I'll, uh, 
 light up a smoke.
 
-[He takes out a cigarette and lights it.]
+<info>He takes out a cigarette and lights it.</info>
 
 <character>AMY</character>
 (whispering) Wrong way!
 
-[Kif drags.]
+<info>Kif drags.</info>
 
 <character>KIF</character>
 (wheezy) Smooth!
 
-[He chokes, turns pale and collapses.]
+<info>He chokes, turns pale and collapses.</info>
 
-[Wong Ranch. Kif and Amy lean over a fence and watch the grazing 
-cattle.]
+<info>Wong Ranch. Kif and Amy lean over a fence and watch the grazing 
+cattle.</info>
 
 <character>AMY</character>
 Look on the bright side: My parents 
@@ -336,47 +336,47 @@ even see you barf.
 Oh, now they'll never think I'm manly 
 enough to date their daughter.
 
-[He sobs.]
+<info>He sobs.</info>
 
 <character>AMY</character>
 It's OK, Kif.  I'll go get you a tissue 
 from your tote.
 
-[She walks off. RJ puts his hand on her shoulder and stops her.]
+<info>She walks off. RJ puts his hand on her shoulder and stops her.</info>
 
 <character>RJ</character>
 Hey there, Amy. Like you to meet my 
 buddy, Joe.
 
-[Enter Joe Camel.]
+<info>Enter Joe Camel.</info>
 
 <character>JOE</character>
 Sorry I'm late. My pool game ran long 
 at the jazz club!
 
-[RJ laughs.]
+<info>RJ laughs.</info>
 
 <character>RJ</character>
 Kids love him!
 
-[Kif watches Amy laugh and growls.]
+<info>Kif watches Amy laugh and growls.</info>
 
-[Cut to: Outside Wong House. A loud noise that sounds like a 
-very long "omm" comes into earshot.]
+<info>Cut to: Outside Wong House. A loud noise that sounds like a 
+very long "omm" comes into earshot.</info>
 
 <character>FRY</character>
 What's that weird sound?
 
-[The noise gets louder. Wind blows down the "Happy Mars Day" 
-banner.]
+<info>The noise gets louder. Wind blows down the "Happy Mars Day" 
+banner.</info>
 
 <character>MR. WONG</character>
 Dust storm! Oh, dust storm! Everybody 
 into house. Hurry, before we die. And 
 wipe your damn feet!
 
-[The Wongs' Lounge. Everyone is inside. Mrs. Wong looks out of 
-the window.]
+<info>The Wongs' Lounge. Everyone is inside. Mrs. Wong looks out of 
+the window.</info>
 
 <character>MRS. WONG</character>
 Phew! Everyone OK? No-one considering 
@@ -396,30 +396,30 @@ I'm OK then.
 Storm dying down. Leo, check if buggalo 
 herd is <character>OK</character>.
 
-[Cut to: The Wongs' Porch. Mr. Wong opens the door and looks 
+<info>Cut to: The Wongs' Porch. Mr. Wong opens the door and looks 
 across at the cattle. A tornado sweeps across the ranch, taking 
-the buggalo with it. Everyone gasps.]
+the buggalo with it. Everyone gasps.</info>
 
 <character>MR. WONG</character>
 Oh!
 
-[Cut to: The Wongs' Lounge.]
+<info>Cut to: The Wongs' Lounge.</info>
 
 <character>LEELA</character>
 What happened to the buggalo?
 
-[Mrs. Wong comes running.]
+<info>Mrs. Wong comes running.</info>
 
 <character>MR. WONG</character>
 They been rustled under cover of storm. 
 We ruined!
 
-[Zoidberg puts his arms around Mr. and Mrs. Wong and they struggle.]
+<info>Zoidberg puts his arms around Mr. and Mrs. Wong and they struggle.</info>
 
 <character>ZOIDBERG</character>
 (screaming) Nooo!
 
-[They push him away.]
+<info>They push him away.</info>
 
 <character>AMY</character>
 Don't worry, Daddy. It'll be <character>OK</character>.
@@ -437,9 +437,9 @@ Lieutenant Kif Kroker!
 <character>HERMES</character>
 Alright then.
 
-[He sits down and munches some crisps.]
+<info>He sits down and munches some crisps.</info>
 
-[Time Lapse. The other guests have left.]
+<info>Time Lapse. The other guests have left.</info>
 
 <character>MR. WONG</character>
 Aye-ah! Those buggalo are what made 
@@ -449,7 +449,7 @@ Inez, with them stolen, we ruined!
 <character>MRS. WONG</character>
 <character>OK</character>. I want a divorce.
 
-[Zoidberg is dressed golf clothes.]
+<info>Zoidberg is dressed golf clothes.</info>
 
 <character>ZOIDBERG</character>
 Mom! Dad! Don't ask me to choose!
@@ -461,19 +461,19 @@ sister and that's not your golf cart.
 <character>ZOIDBERG</character>
 Aw!
 
-[He reverses the golf cart away.]
+<info>He reverses the golf cart away.</info>
 
 <character>AMY</character>
 Everybody just calm down. Kif promised 
 he'd catch the rustlers.
 
-[Enter Kif in cowboy gear.]
+<info>Enter Kif in cowboy gear.</info>
 
 <character>KIF</character>
 Mrs. Wong, do you have a neckerchief 
 I could borrow?
 
-[Time Lapse.]
+<info>Time Lapse.</info>
 
 <character>KIF</character>
 My plan is to take all the remaining 
@@ -489,7 +489,7 @@ to go with him.
 <character>FRY</character>
 Aw, man!
 
-[Leela sighs. Bender mocks Farnsworth.]
+<info>Leela sighs. Bender mocks Farnsworth.</info>
 
 <character>KIF</character>
 Don't worry, Mr. and Mrs. Wong. I'll 
@@ -505,12 +505,12 @@ to do this to prove your manliness.
 <character>MRS. WONG</character>
 Oh, yes he does!
 
-[Wong Ranch. RJ leads some things towards Kif.]
+<info>Wong Ranch. RJ leads some things towards Kif.</info>
 
 <character>RJ</character>
 Here are your mounts!
 
-[Leela rubs one of the things and it makes a squelching noise.]
+<info>Leela rubs one of the things and it makes a squelching noise.</info>
 
 <character>LEELA</character>
 She's got a fine coat.
@@ -528,8 +528,8 @@ when the storm hit.  Aw, she likes you!
 Saddle up, men. We got some no good 
 rustlers to ... catch!
 
-[Mars Surface. Kif, Leela and Fry ride ahead while Bender sits 
-on a wagon playing a banjo and singing a Bonanza-like tune.]
+<info>Mars Surface. Kif, Leela and Fry ride ahead while Bender sits 
+on a wagon playing a banjo and singing a Bonanza-like tune.</info>
 
 <character>BENDER </character>(<character>SINGING</character>)
 We've got a right to pick a little fight 
@@ -562,8 +562,8 @@ will be sure to spot us there.
 <character>FRY</character>
 Where?
 
-[Olympus Mons. The party have set up camp for the night. Bender 
-tells a ghost story around the campfire.]
+<info>Olympus Mons. The party have set up camp for the night. Bender 
+tells a ghost story around the campfire.</info>
 
 <character>BENDER</character>
 And even thought the computer was off 
@@ -603,7 +603,7 @@ a cattle drive--
 kills Fry with a hammer! (normal) Sorry, 
 go on.
 
-[Time Lapse. Someone peers through the bushes.]
+<info>Time Lapse. Someone peers through the bushes.</info>
 
 <character>FRY</character>
 And then, while they sat helplessly 
@@ -614,7 +614,7 @@ snuck up and--
 <character>AMY</character>
 (from bushes) Surprise!
 
-[Fry, Bender, Kif and Leela scream. Amy comes out of the bushes.]
+<info>Fry, Bender, Kif and Leela scream. Amy comes out of the bushes.</info>
 
 <character>KIF</character>
 Amy? What are you doing here?
@@ -626,14 +626,14 @@ you left.
 <character>KIF</character>
 What?
 
-[Amy kisses him and his camouflage kicks in.]
+<info>Amy kisses him and his camouflage kicks in.</info>
 
 <character>AMY</character>
 Is that your camouflage reflex or are 
 you just happy to see me?
 
-[Time Lapse. Amy and Kif are lying down at the top of the mountain 
-looking at the stars.]
+<info>Time Lapse. Amy and Kif are lying down at the top of the mountain 
+looking at the stars.</info>
 
 <character>KIF</character>
 I love it out here, Amy. I feel so manly. 
@@ -660,7 +660,7 @@ I can't!  What's that?
 <character>KIF</character>
 Maybe we just made love.
 
-[Amy and Kif look over the rim of the volcano and into the crater.]
+<info>Amy and Kif look over the rim of the volcano and into the crater.</info>
 
 <character>AMY</character>
 The buggalo! They're in the crater.
@@ -675,8 +675,8 @@ Oh, Kif! You're so brave!
 <character>KIF</character>
 (nervous) Sh! They'll hear us!
 
-[Time Lapse. The next morning. Kif pulls a wire from a mineshaft 
-on the side of the volcano.]
+<info>Time Lapse. The next morning. Kif pulls a wire from a mineshaft 
+on the side of the volcano.</info>
 
 <character>KIF</character>
 OK, the dynamite's in place.
@@ -695,8 +695,8 @@ Well actually--
 <character>BENDER</character>
 Too late! This is more fun!
 
-[He detonates the dynamite and the buggalo are blown out of the 
-crater. They roll down the side of the volcano.]
+<info>He detonates the dynamite and the buggalo are blown out of the 
+crater. They roll down the side of the volcano.</info>
 
 <character>AMY</character>
 Kif! You did it! But how did you know 
@@ -707,13 +707,13 @@ I once took a seminar in ejecting chickens
 from a sand dune. The principle is essentially 
 the same.
 
-[The noise returns.]
+<info>The noise returns.</info>
 
 <character>FRY</character>
 Hey, it's that "barbecue's over" sound 
 again.
 
-[Dust flies up and the tornado blows towards them.]
+<info>Dust flies up and the tornado blows towards them.</info>
 
 <character>LEELA</character>
 (shouting) Sandstorm!  We're in the 
@@ -725,10 +725,10 @@ Where?
 <character>BENDER</character>
 What's that?
 
-[There is a buzzing noise. Three Martians come through the tornado, 
+<info>There is a buzzing noise. Three Martians come through the tornado, 
 riding flying buggalo. They have blue-grey skin and the tops 
 of their heads look like Native American headgear has been fused 
-to their head. Amy screams.]
+to their head. Amy screams.</info>
 
 <character>FRY</character>
 My God!
@@ -736,12 +736,12 @@ My God!
 <character>LEELA</character>
 Who are they?
 
-[The lead Martian, Singing Wind, raises his hand.]
+<info>The lead Martian, Singing Wind, raises his hand.</info>
 
 <character>SINGING WIND</character>
 Fehk! We are the Native Martians.
 
-[Everyone except Fry gasps. After a late reaction, he also gasps.]
+<info>Everyone except Fry gasps. After a late reaction, he also gasps.</info>
 
 <character>FRY</character>
 Also, I didn't know buggalo could fly.
@@ -768,27 +768,27 @@ Mad at Wong family! We plan to ruin
 them by stealing buggalo. But now we 
 take girl instead.
 
-[Two other Martians pick up Amy and they fly away.]
+<info>Two other Martians pick up Amy and they fly away.</info>
 
 <character>AMY</character>
 Wait! I'm too rich to be kidnapped!
 
-[The Martians fly away.]
+<info>The Martians fly away.</info>
 
 <character>KIF</character>
 Amy! Nooo!
 
-[He cries.]
+<info>He cries.</info>
 
 <character>BENDER</character>
 Don't worry, Kif. I'm sure some other 
 beautiful, rich girl will fall in love 
 with you.
 
-[Bender laughs and Kif cries.]
+<info>Bender laughs and Kif cries.</info>
 
-[Wong Ranch. The buggalo are returned and Kif closes the gate 
-behind them.]
+<info>Wong Ranch. The buggalo are returned and Kif closes the gate 
+behind them.</info>
 
 <character>MR. WONG</character>
 Hooray! You bring back cattle.
@@ -804,8 +804,8 @@ the blow.  Why Amy being so quiet?
 <character>KIF</character>
 Um ... well, um ... that is, um...
 
-[A smaller tornado whips by and drops a piece of paper in front 
-of Mr. Wong. He picks up.]
+<info>A smaller tornado whips by and drops a piece of paper in front 
+of Mr. Wong. He picks up.</info>
 
 <character>MR. WONG</character>
 Oh, no! Martians kidnap Amy!  I know 
@@ -827,13 +827,13 @@ law man in the whole universe!
 You mean--? Oh, no, please. I beg you! 
 Oh, for the love of--
 
-[The Wongs' Lounge. The law man has arrived.]
+<info>The Wongs' Lounge. The law man has arrived.</info>
 
 <character>ZAPP</character>
 I am the man with no name. Zapp Brannigan, 
 at your service!
 
-[Kif sighs.]
+<info>Kif sighs.</info>
 
 <character>MRS. WONG</character>
 Please, Mr. Brannigan, we need you go 
@@ -858,8 +858,8 @@ Bender--
 <character>BENDER</character>
 Damn you, old man!
 
-[Mars Surface. Zapp, Kif, Leela, Fry and Bender trek across the 
-desert again. Betsy catches up with them and rubs against Kif.]
+<info>Mars Surface. Zapp, Kif, Leela, Fry and Bender trek across the 
+desert again. Betsy catches up with them and rubs against Kif.</info>
 
 <character>LEELA</character>
 Aw, look. Betsy followed you, Kif!
@@ -868,7 +868,7 @@ Aw, look. Betsy followed you, Kif!
 I didn't realise you were bringing your 
 girlfriend, lieutenant!
 
-[He sniggers and Kif sighs.]
+<info>He sniggers and Kif sighs.</info>
 
 <character>KIF</character>
 She won't leave me alone.
@@ -877,9 +877,9 @@ She won't leave me alone.
 Did I say "girlfriend"? She sounds more 
 like a wife!
 
-[There is silence. A tumbleweed blows by.]
+<info>There is silence. A tumbleweed blows by.</info>
 
-[Time Lapse. They reach a cliff and look over the edge.]
+<info>Time Lapse. They reach a cliff and look over the edge.</info>
 
 <character>ZAPP</character>
 Behold: The Great Stone Face of Mars.
@@ -898,15 +898,15 @@ What about the Great Stone Ass of Mars?
 Well, yeah, but it's way over the other 
 side of the planet.
 
-[Time Lapse. They prepare to walk through one of the nostrils.]
+<info>Time Lapse. They prepare to walk through one of the nostrils.</info>
 
 <character>ZAPP</character>
 Nose-ward, ho!
 
-[Cut to: Martian Reservation. The nose begins to get darker. 
+<info>Cut to: Martian Reservation. The nose begins to get darker. 
 They mumble. They are surrounded by torches. They gasp. It gets 
 lighter and they see they are surrounded by Martians with bows 
-and laser-arrows. Singing Wind walks in.]
+and laser-arrows. Singing Wind walks in.</info>
 
 <character>SINGING WIND</character>
 Fehk! I am Singing Wind, chief of the 
@@ -915,7 +915,7 @@ Martian tribe.
 <character>ZAPP</character>
 Take me to your leader.
 
-[The Martians stare blankly at him.]
+<info>The Martians stare blankly at him.</info>
 
 <character>SINGING WIND</character>
 Moving along. Why you trespass on our 
@@ -926,8 +926,8 @@ We come to negotiate the release of
 Amy Wong. And just to clarify: Land 
 is the stuff that has sky over it.
 
-[He drinks from a Slurm can and throws it down. A Martian cries 
-� la the Native American in those American public service advertisements.]
+<info>He drinks from a Slurm can and throws it down. A Martian cries 
+� la the Native American in those American public service advertisements.</info>
 
 <character>LEELA</character>
 They have such respect for the planet.
@@ -935,7 +935,7 @@ They have such respect for the planet.
 <character>MARTIAN</character>
 Cynthia used to drink Slurm.
 
-[Singing Wind claps and Martians come in holding Amy.]
+<info>Singing Wind claps and Martians come in holding Amy.</info>
 
 <character>SINGING WIND</character>
 We will give back girl when we get back 
@@ -971,40 +971,40 @@ And that law is ...  ... no backsies!
 <character>SINGING WIND</character>
 The time for stupid statements is over!
 
-[He and the other Martians make the "omm" noise. The dust picks 
-up.]
+<info>He and the other Martians make the "omm" noise. The dust picks 
+up.</info>
 
 <character>ZAPP</character>
 Oh, boy!
 
-[Cut to: Mars Surface. The Great Stone Face's mouth opens and 
-the tornado blows the sand away, revealing a Great Stone Body.]
+<info>Cut to: Mars Surface. The Great Stone Face's mouth opens and 
+the tornado blows the sand away, revealing a Great Stone Body.</info>
 
-[Cut to: Martian Reservation. Dust blows in Leela's face.]
+<info>Cut to: Martian Reservation. Dust blows in Leela's face.</info>
 
 <character>LEELA</character>
 Ow, ow, ow, ow! My eye!
 
-[She puts in some eye drops.]
+<info>She puts in some eye drops.</info>
 
-[Mars University. The tornado blows down the "Knowledge Brings 
-Fear" sign and strips away the Martian statue to a skeleton.]
+<info>Mars University. The tornado blows down the "Knowledge Brings 
+Fear" sign and strips away the Martian statue to a skeleton.</info>
 
-[Wong Ranch. Zoidberg looks out the window.]
+<info>Wong Ranch. Zoidberg looks out the window.</info>
 
 <character>ZOIDBERG</character>
 Ma! Pa! Our precious ranch!
 
-[Mrs. Wong beats Zoidberg over the head with a trophy head.]
+<info>Mrs. Wong beats Zoidberg over the head with a trophy head.</info>
 
-[Martian Reservation. Singing Wind gives a signal and the tornado 
-sucks up Amy.]
+<info>Martian Reservation. Singing Wind gives a signal and the tornado 
+sucks up Amy.</info>
 
 <character>KIF</character>
 Amy, no! It's too windy!  Stay calm, 
 dearest! I'll save you!
 
-[He flies Betsy into the tornado.]
+<info>He flies Betsy into the tornado.</info>
 
 <character>AMY</character>
 Kif!  You're flying Betsy!
@@ -1012,14 +1012,14 @@ Kif!  You're flying Betsy!
 <character>KIF</character>
 Need a lift?
 
-[Amy grabs hold of his face and stretches it.]
+<info>Amy grabs hold of his face and stretches it.</info>
 
 <character>SINGING WIND</character>
 Great Mother Mars! He has the gift!
 
-[He gives a signal and the Martians stop making the noise and 
+<info>He gives a signal and the Martians stop making the noise and 
 the tornado dies away. Kif lands Betsy. Zapp, Leela, Fry and 
-Bender cheer.]
+Bender cheer.</info>
 
 <character>LEELA</character>
 Yay, Kif!
@@ -1040,8 +1040,8 @@ Yes. Let us smoke on peace pipe.
 <character>KIF</character>
 Smoke-em?
 
-[Martian Tent. Singing Wind smokes the pipe and passes it to 
-Kif.]
+<info>Martian Tent. Singing Wind smokes the pipe and passes it to 
+Kif.</info>
 
 <character>SINGING WIND</character>
 Here, take.
@@ -1062,7 +1062,7 @@ Don't be such a chicken, Kif. Teenagers
 all smoke and they seem pretty on the 
 ball.
 
-[Kif takes a puff and everyone cheers.]
+<info>Kif takes a puff and everyone cheers.</info>
 
 <character>FRY</character>
 Yeah!
@@ -1077,7 +1077,7 @@ Way to suck it!
 Hey, I'm smoking! I'm the greatest! 
 Oh, monkey trumpets!
 
-[Martian Torture Chamber. Kif is held down on a rack with rope.]
+<info>Martian Torture Chamber. Kif is held down on a rack with rope.</info>
 
 <character>SINGING WIND</character>
 You have coughed at our offer of peace. 
@@ -1092,8 +1092,8 @@ Well, actually, I don't have bones.
 I'm supported by a system of fluid-filled 
 bladders that--
 
-[The Martians ignore him and turn away. The roof opens and Kif 
-screams. The bead is lowered in and he whimpers.]
+<info>The Martians ignore him and turn away. The roof opens and Kif 
+screams. The bead is lowered in and he whimpers.</info>
 
 <character>FRY</character>
 Wait. That's the bead you traded your 
@@ -1106,14 +1106,14 @@ must be worth a fortune.
 <character>SINGING WIND</character>
 Really?
 
-[The diamond stops and Kif sighs. Bender takes a look at the 
-diamond through an eye glass and stutters.]
+<info>The diamond stops and Kif sighs. Bender takes a look at the 
+diamond through an eye glass and stutters.</info>
 
 <character>BENDER</character>
 Oh, Chief, you've made me the happiest 
 girl in the world!
 
-[He hugs Singing Wind and he immediately pushes him away.]
+<info>He hugs Singing Wind and he immediately pushes him away.</info>
 
 <character>AMY</character>
 Y'know, if you still want your land, 
@@ -1142,9 +1142,9 @@ new planet and act like it's sacred.
 With cash like this, who's going to 
 argue? Nobody, that's who!
 
-[The Martian ships fly away from Mars with the diamond in tow.]
+<info>The Martian ships fly away from Mars with the diamond in tow.</info>
 
-[The Wongs' Lounge. Everyone is back.]
+<info>The Wongs' Lounge. Everyone is back.</info>
 
 <character>AMY</character>
 Then Kif flew Betsy, rescued me from 
@@ -1161,20 +1161,20 @@ here.
 <character>ZAPP</character>
 Please, you give me too little credit.
 
-[Kif sighs.]
+<info>Kif sighs.</info>
 
 <character>ZOIDBERG</character>
 Captain Brannigan, you're always welcome 
 here at Rancho Zoidberg!
 
-[Cut to: The Wongs' Porch. Zoidberg is thrown out. He hits his 
-head on a post and scoffs.]
+<info>Cut to: The Wongs' Porch. Zoidberg is thrown out. He hits his 
+head on a post and scoffs.</info>
 
 <character>ZOIDBERG</character>
 Money doesn't make good people, no siree!
 
-[Time Lapse. Later that night, Amy comes out onto the porch. 
-Kif is sat on the porch swing.]
+<info>Time Lapse. Later that night, Amy comes out onto the porch. 
+Kif is sat on the porch swing.</info>
 
 <character>AMY</character>
 Thanks for saving my life, Kif. You're 
@@ -1189,13 +1189,13 @@ Well globviously! But if they liked
 you then I wouldn't. Don't you know 
 anything about girls?
 
-[They kiss. The buggalo run past and the ground shakes. Amy gets 
-up and goes back inside. Kif gets out his diary.]
+<info>They kiss. The buggalo run past and the ground shakes. Amy gets 
+up and goes back inside. Kif gets out his diary.</info>
 
 <character>KIF</character>
 Dear diary, I just made love for the 
 second time!
 
-[He closes his diary and hugs it.]
+<info>He closes his diary and hugs it.</info>
 
 <info>THE END</info></xml>

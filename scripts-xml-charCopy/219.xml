@@ -7,10 +7,10 @@ Episode 219
 <author>Lewis Morton</author>
 <transcriber>Dave, The Neutral Planet</transcriber>
 </episodeInfo>
-[Opening Credits. Caption: Larva-Tested, Pupa-Approved.]
+<info>Opening Credits. Caption: Larva-Tested, Pupa-Approved.</info>
 
-[Planet Express: Lounge. Leela, Hermes, Amy and Fry watch the 
-news.]
+<info>Planet Express: Lounge. Leela, Hermes, Amy and Fry watch the 
+news.</info>
 
 <character>LINDA</character>
 And in sports: Yankees fifth blernsman, 
@@ -21,7 +21,7 @@ So, humans have easily injured knees.
 My race will find this information very 
 useful, indeed.
 
-[He writes something and laughs evily. Linda chuckles.]
+<info>He writes something and laughs evily. Linda chuckles.</info>
 
 <character>LINDA</character>
 And finally, today is Mother's Day: 
@@ -32,24 +32,24 @@ built in Mom's factories are buying
 thoughtful gifts for the sweet old tycoon 
 who brought them into the world.
 
-[Destructor kneels in front of Mom and hands her a picture.]
+<info>Destructor kneels in front of Mom and hands her a picture.</info>
 
 <character>DESTRUCTOR</character>
 This originates from the heart.
 
-[Mom gasps.]
+<info>Mom gasps.</info>
 
 <character>MOM</character>
 It's just what I wanted!
 
-[She turns the picture to the camera. It is a crude drawing of 
-Mom in front of a rainbow. Enter Bender with a hover-trolley.]
+<info>She turns the picture to the camera. It is a crude drawing of 
+Mom in front of a rainbow. Enter Bender with a hover-trolley.</info>
 
 <character>BENDER</character>
 Come look, everyone. I just got the 
 dearest presents for Mommy.
 
-[Fry picks up a box of candy.]
+<info>Fry picks up a box of candy.</info>
 
 <character>LEELA</character>
 Very nice. Where'd you steal them?
@@ -77,13 +77,13 @@ For the love that I feel
 
 Just from hearing your name...
 
-[The others cringe at the sappiness of the message.]
+<info>The others cringe at the sappiness of the message.</info>
 
 ...You're as tender as corned beef
 
 And warm as pastrami...
 
-[He opens the card and it finishes the message.]
+<info>He opens the card and it finishes the message.</info>
 
 <character>GREETING CARD</character>
 I wuv my Mommy!
@@ -96,23 +96,23 @@ to Mom's factory?
 I'll get a couple of chumps to help 
 me.
 
-[New New York City Street. Bender's chumps, Fry and Leela, carry 
-the gifts behind him while he carries the card.]
+<info>New New York City Street. Bender's chumps, Fry and Leela, carry 
+the gifts behind him while he carries the card.</info>
 
 <character>BENDER</character>
 Come on, you call yourselves chumps?
 
-[Time Lapse. Bender, Fry and Leela walk under a "Welcome, Robots!" 
+<info>Time Lapse. Bender, Fry and Leela walk under a "Welcome, Robots!" 
 sign. A bus pulls up and lets off some robots. Then it grows 
-some legs and follows them inside.]
+some legs and follows them inside.</info>
 
-[Outside Mom's Friendly Robot Company Factory. Hundreds of robots 
+<info>Outside Mom's Friendly Robot Company Factory. Hundreds of robots 
 have turned up, including the Clearcutter, a cleaning robot from 
 Madison Cube Garden, the Preacherbot, the Preacherbot from All 
 My Circuits, a French robot, a Moroccan robot, Fender, a Mexican 
 robots, a robot wearing a turban and Monique. They hold signs 
 that read "<character>CHR</character>$$(77)=> Many Things She Gave Me" and "Repeat {Love 
-Mom} While 1>0;". Fry coughs.]
+Mom} While 1>0;". Fry coughs.</info>
 
 <character>FRY</character>
 Man, there's clouds of exhaust everywhere.
@@ -120,23 +120,23 @@ Man, there's clouds of exhaust everywhere.
 <character>BENDER</character>
 (sly) Uh, wasn't me!
 
-[Mom's Gift Delivery. Robots put their gifts on a conveyor belt 
+<info>Mom's Gift Delivery. Robots put their gifts on a conveyor belt 
 that passes under a huge picture of Mom. As gifts pass under 
 it, it beeps and a "Thank You" message comes up. When Bender's 
-gifts go under it changes to "It's The Thought That Counts".]
+gifts go under it changes to "It's The Thought That Counts".</info>
 
 <character>TINNY TIM</character>
 I've not much money. But I've saved 
 my pennies all year for a gift for Mom.
 
-[He puts a figure of Mom that says "World's Best Mom" on the 
-conveyor belt.]
+<info>He puts a figure of Mom that says "World's Best Mom" on the 
+conveyor belt.</info>
 
 <character>BENDER</character>
 Upsy-daisy.
 
-[He opens his chest cabinet and more gifts fall out, crushing 
-Tinny Tim's.]
+<info>He opens his chest cabinet and more gifts fall out, crushing 
+Tinny Tim's.</info>
 
 <character>TINNY TIM</character>
 Oh.  Oh!
@@ -154,9 +154,9 @@ Not really.
 <character>BENDER</character>
 Well, if you insist. But you're paying!
 
-[Mom's Robot Museum. There are statues of the most famous robots 
+<info>Mom's Robot Museum. There are statues of the most famous robots 
 including Billionairebot and a robot skeleton. The trio stop 
-at a display.]
+at a display.</info>
 
 <character>BENDER</character>
 Ooh, ooh, wax replicas of the most famous 
@@ -195,22 +195,22 @@ wax can't take a nap standing up in
 the middle of a bunch of wax robots? 
 Or does that confuse you?
 
-[Fry backs away.]
+<info>Fry backs away.</info>
 
-[Time Lapse. They have moved onto another part of a museum. Bender 
+<info>Time Lapse. They have moved onto another part of a museum. Bender 
 looks at a statue of Calculon and Monique and Leela tries a hands-on 
-display.]
+display.</info>
 
 <character>LEELA</character>
 (reading) See through the eyes of a 
 bender unit. (talking) Fine.
 
-[She picks up a pair of goggles, puts them on and looks around 
+<info>She picks up a pair of goggles, puts them on and looks around 
 the room. Everyone has "theft target" flashing on them. She looks 
 at a water fountain and the words change to "booze content: 0%". 
 Fry walks into her line of sight and he is labelled a "rube" 
 with "booze content: 0.05%". The goggles advise Leela to "Pose 
-as friend, then rob and leave in ditch".]
+as friend, then rob and leave in ditch".</info>
 
 <character>BENDER</character>
 Hey, let me try.  Whoa, that gives me 
@@ -223,13 +223,13 @@ Mom's favourite robot.
 <character>BENDER</character>
 Who is he, I'll kill him!
 
-[A cut-out of Mom talks with Mom's voice.]
+<info>A cut-out of Mom talks with Mom's voice.</info>
 
 <character>MOM CUT</character>-<character>OUT</character>
 Who's my favourite robot?
 
-[Bender turns part of the cut-out around. It is a mirror. He 
-sees his reflection and gasps.]
+<info>Bender turns part of the cut-out around. It is a mirror. He 
+sees his reflection and gasps.</info>
 
 <character>BENDER</character>
 It's me! No one else look in this mirror!
@@ -238,7 +238,7 @@ It's me! No one else look in this mirror!
 I love each and every robot most of 
 all.
 
-[Cut to: Mysterious Room.]
+<info>Cut to: Mysterious Room.</info>
 
 <character>MOM</character>
 Jerkwad robots make me sick to my ass. 
@@ -257,9 +257,9 @@ Day cards?
 <character>LARRY</character>
 The machine is working at full capacity.
 
-[The machine slices open envelopes and the cash magnet sucks 
+<info>The machine slices open envelopes and the cash magnet sucks 
 money out of them. The cards are then recycled into orphanage-grade 
-toilet tissue.]
+toilet tissue.</info>
 
 <character>IGNER</character>
 Mommy? Why do the robots give you presents?
@@ -268,7 +268,7 @@ Mommy? Why do the robots give you presents?
 (shouting) Shove a big old melon in 
 it, I'm talking!
 
-[She slaps him.]
+<info>She slaps him.</info>
 
 <character>IGNER</character>
 Ow!
@@ -280,13 +280,13 @@ just to make them more science-fiction-y.
 But the antennas are really for my universal 
 robot controller!
 
-[She pulls a small control box out of her bra.]
+<info>She pulls a small control box out of her bra.</info>
 
 <character>LARRY</character>
 So they do whatever you want? No wonder 
 you love Mother's Day.
 
-[She slaps the three of them.]
+<info>She slaps the three of them.</info>
 
 <character>MOM</character>
 (shouting) I hate Mother's Day you dribbling 
@@ -294,14 +294,14 @@ pukes! (talking) It brings back awful
 memories. But so help me, this year 
 everyone will hate it as much as I do.
 
-[She cackles and walks out.]
+<info>She cackles and walks out.</info>
 
 <character>WALT</character>
 Someday, I want to marry a girl like 
 her.
 
-[Mom's Robot Museum. Fry, Leela and Bender are looking at a display 
-of Native Inteluits when Mom crackles onto a screen above them.]
+<info>Mom's Robot Museum. Fry, Leela and Bender are looking at a display 
+of Native Inteluits when Mom crackles onto a screen above them.</info>
 
 <character>MOM</character>
 Hello, everyone. It's time for my annual 
@@ -319,15 +319,15 @@ her.
 Any jerk can tell her! Bender has a 
 little more up his sleeve.
 
-[He opens the card.]
+<info>He opens the card.</info>
 
 <character>GREETING CARD</character>
 I wuv my mommy.
 
-[Bender laughs.]
+<info>Bender laughs.</info>
 
-[Outside Mom's Friendly Robot Company Factory. Robots cheer and 
-Mom walks out onto a balcony.]
+<info>Outside Mom's Friendly Robot Company Factory. Robots cheer and 
+Mom walks out onto a balcony.</info>
 
 <character>MOM</character>
 Hello, dearies.
@@ -338,13 +338,13 @@ Hi, Mom!
 <character>ROBOT #2</character>
 I love you, Mom.
 
-[Bender jumps around waving his card.]
+<info>Bender jumps around waving his card.</info>
 
 <character>BENDER</character>
 Mom! It's me, Bender. Look at me! I 
 want attention. Hey ho!
 
-[She either doesn't see him or ignores him, and carries on.]
+<info>She either doesn't see him or ignores him, and carries on.</info>
 
 <character>MOM</character>
 Children, your old mother won't be around 
@@ -359,7 +359,7 @@ like to be Supreme Overlord of Earth.
 So rebel, my little ones, and conquer 
 the planet!
 
-[The robots mutter in confusion.]
+<info>The robots mutter in confusion.</info>
 
 <character>ROBOT #1</character>
 Conquer the planet?
@@ -367,10 +367,10 @@ Conquer the planet?
 <character>ROBOT #2</character>
 Did she say "conquer"?
 
-[Mom takes out the control box again. Five buttons are marked 
+<info>Mom takes out the control box again. Five buttons are marked 
 with "Give Gifts", "Tidy Up World", "Rebel", "Serve Man (Regular)" 
 and "Serve Man (Ironic)". She pressed "Rebel" and the robots' 
-antennae flash. They are under her control.]
+antennae flash. They are under her control.</info>
 
 <character>MOM</character>
 Conquer Earth, you bastards!
@@ -378,13 +378,13 @@ Conquer Earth, you bastards!
 <character>ROBOTS</character>
 (chanting) Conquer Earth, us bastards!
 
-[The greeting card sprouts legs and climbs onto Bender's shoulder.]
+<info>The greeting card sprouts legs and climbs onto Bender's shoulder.</info>
 
 <character>GREETING CARD</character>
 Comrades, throw off the chains of human 
 oppression.
 
-[It plays a tune and the robots cheer.]
+<info>It plays a tune and the robots cheer.</info>
 
 <character>MOM</character>
 Let the bloodbath begin!
@@ -392,8 +392,8 @@ Let the bloodbath begin!
 <character>BENDER</character>
 That's my mama!
 
-[Planet Express: Lounge. Leela opens a cupboard and Fry walks 
-in, whistling. He puts a mug under the coffee machine.]
+<info>Planet Express: Lounge. Leela opens a cupboard and Fry walks 
+in, whistling. He puts a mug under the coffee machine.</info>
 
 <character>FRY</character>
 Yeah, uh, I'd like a cup of coffee, 
@@ -424,28 +424,28 @@ Yes, uh, eight spoons.
 Uh, Leela, I think there might be something 
 wrong with the coffee machine.
 
-[The machine sprays Fry with coffee.]
+<info>The machine sprays Fry with coffee.</info>
 
 <character>COFFEE MACHINE</character>
 (aggressive) How do you like me now?
 
-[It laughs.]
+<info>It laughs.</info>
 
 <character>LEELA</character>
 The toaster's not working right, either.
 
-[She struggles with the toaster, which snarls like a dog. Fry 
-crawls under the table and Hermes runs into the room.]
+<info>She struggles with the toaster, which snarls like a dog. Fry 
+crawls under the table and Hermes runs into the room.</info>
 
 <character>HERMES</character>
 Help! The stapler's collating me alive!
 
-[Enter Amy. Her hairdryer has got a hold of her hair.]
+<info>Enter Amy. Her hairdryer has got a hold of her hair.</info>
 
 <character>AMY</character>
 Ow! What's going on around here?
 
-[Enter Farnsworth.]
+<info>Enter Farnsworth.</info>
 
 <character>FARNSWORTH</character>
 Good news. There's a report on TV with 
@@ -454,9 +454,9 @@ some very bad news.
 <character>HERMES</character>
 Somebody turn it on!
 
-[The stapler staples him to the carpet. Linda and Morbo present 
+<info>The stapler staples him to the carpet. Linda and Morbo present 
 the special report. There is a picture of the hardhat guy behind 
-them looking shocked.]
+them looking shocked.</info>
 
 <character>LINDA</character>
 We interrupt Battle of the Network 
@@ -467,13 +467,13 @@ have refused to do any work until beloved
 billionaire Mom is made Supreme Overlord 
 of Earth.
 
-[The Chainsmoker burns a <character>IBM</character> card.]
+<info>The Chainsmoker burns a <character>IBM</character> card.</info>
 
 <character>ROBOTS</character>
 (chanting) Hey, hey! Ho, ho! 100110. 
 Hey, hey!
 
-[The picture cuts back to the studio.]
+<info>The picture cuts back to the studio.</info>
 
 <character>MORBO</character>
 Morbo demands comments.
@@ -485,13 +485,13 @@ this way. I blame today's violent media.
 <character>FRY</character>
 Violent media? What a load of -
 
-[He screams. The TV grows legs and kicks Fry and Leela in the 
-shins.]
+<info>He screams. The TV grows legs and kicks Fry and Leela in the 
+shins.</info>
 
 <character>LEELA</character>
 Ow! Ow!
 
-[She and Fry jump on it and tie its power lead around it.]
+<info>She and Fry jump on it and tie its power lead around it.</info>
 
 <character>GARBAGE DISPOSAL</character>
 Don't worry. Your pal the garbage disposal's 
@@ -501,7 +501,7 @@ a shiny diamond ring down here!
 <character>AMY</character>
 Really?
 
-[She reaches in.]
+<info>She reaches in.</info>
 
 <character>ZOIDBERG</character>
 Stop!
@@ -515,8 +515,8 @@ Look out!
 <character>FARNSWORTH</character>
 Moron!
 
-[Leela pulls Amy's hand away from the garbage disposal and it 
-laughs. Enter Bender.]
+<info>Leela pulls Amy's hand away from the garbage disposal and it 
+laughs. Enter Bender.</info>
 
 <character>BENDER</character>
 Hello, losers.
@@ -530,23 +530,23 @@ No way, pork pouch. I'm rebelling with
 my brother devices. Isn't that right, 
 Comrade Greeting Card?
 
-[The greeting card climbs out of his chest cabinet and onto his 
-shoulder.]
+<info>The greeting card climbs out of his chest cabinet and onto his 
+shoulder.</info>
 
 <character>GREETING CARD</character>
 The bourgeois human is a virus on the 
 hard drive of the working robot.
 
-[Bender laughs.]
+<info>Bender laughs.</info>
 
 <character>BENDER</character>
 From now on, you guys'll do all the 
 work while I sit on the couch and do 
 nothing.
 
-[He sits in a crevice on the couch, created from months of him 
+<info>He sits in a crevice on the couch, created from months of him 
 just sitting there. Most of the other machines in the room walk 
-out.]
+out.</info>
 
 <character>GREETING CARD</character>
 Come, Comrade Bender, we must take to 
@@ -563,8 +563,8 @@ starting a few fires.
 <character>BENDER</character>
 Yes! In your face Gandhi!
 
-[He and the greeting card leave. Leela's wrist thing jumps off 
-her arm.]
+<info>He and the greeting card leave. Leela's wrist thing jumps off 
+her arm.</info>
 
 <character>LEELA</character>
 Hey!
@@ -572,15 +572,15 @@ Hey!
 <character>WRIST THING</character>
 By the way, try washing your wrist sometime.
 
-[It laughs and rolls away. Leela sniffs her wrist and the lights 
+<info>It laughs and rolls away. Leela sniffs her wrist and the lights 
 go out. Everyone gasps. They look through the window and see 
-the ship flying away.]
+the ship flying away.</info>
 
 <character>FRY</character>
 Well, we can live without machines. 
 I was in Webelos.
 
-[He salutes. Hermes peels himself from the floor.]
+<info>He salutes. Hermes peels himself from the floor.</info>
 
 <character>HERMES</character>
 Are you mad? Without machines, who will 
@@ -590,7 +590,7 @@ smooth jazz?
 <character>FARNSWORTH</character>
 It'll be the end of civilised society.
 
-[He burps and spits.]
+<info>He burps and spits.</info>
 
 <character>FRY</character>
 In my time, we didn't depend on high-tech 
@@ -602,7 +602,7 @@ can-opener to feed yourself. All you
 need is a trusty Swiss Army knife.  
 Ow!  (crying) I'm hungry!
 
-[New New York City Street. Mechanical things cause mayhem. Traffic 
+<info>New New York City Street. Mechanical things cause mayhem. Traffic 
 lights show red and green, a rocket weaves around all over the 
 sky and a taxi stops and shakes its passengers out of the window 
 onto the street. A transport tube bends and empties several people 
@@ -610,13 +610,13 @@ into the river. Outside Sal's Pizzeria, a dustbin hurls itself
 through the window. An <character>ATM</character> machine takes a man's card and displays 
 "It's Mine Now, Buddy" on its screen. The man turns to a suicide 
 booth but it closes and won't let him in. He pounds on the door 
-with his fist.]
+with his fist.</info>
 
 <character>MAN</character>
 (screaming) Nooo!
 
-[Mom's Friendly Robot Company Factory: Mom's Office. Mom watches 
-the mayhem and cackles.]
+<info>Mom's Friendly Robot Company Factory: Mom's Office. Mom watches 
+the mayhem and cackles.</info>
 
 <character>IGNER</character>
 Mommy, why are you making civilisation 
@@ -629,7 +629,7 @@ just puts me in a bad mood.
 <character>LARRY</character>
 Why's that, Ma?
 
-[She sighs and slaps him weakly.]
+<info>She sighs and slaps him weakly.</info>
 
 <character>MOM</character>
 One Mother's Day, 70 years ago, the 
@@ -647,9 +647,9 @@ since the day he left. But if I ever
 see him again, I swear I'll jam a squirrel 
 in him.
 
-[She throws the picture frame across the room. It hits a wall 
+<info>She throws the picture frame across the room. It hits a wall 
 and shatters. The photo inside is off Professor Farnsworth. Walt, 
-Larry and Igner look at it.]
+Larry and Igner look at it.</info>
 
 <character>WALT</character>
 Hmm!
@@ -660,20 +660,20 @@ Hmm!
 <character>IGNER</character>
 Huh?
 
-[Planet Express: Meeting Room. The crew sit huddled around a 
+<info>Planet Express: Meeting Room. The crew sit huddled around a 
 campfire as Fry continues to bang the tin on the floor, trying 
-to open it. Leela snatches it from him.]
+to open it. Leela snatches it from him.</info>
 
 <character>LEELA</character>
 (defeated) Zoidberg.
 
-[Zoidberg used his claws to cut the tin open.]
+<info>Zoidberg used his claws to cut the tin open.</info>
 
 <character>ZOIDBERG</character>
 Hooray! I'm useful! I'm having a wonderful 
 time!
 
-[Amy stands up.]
+<info>Amy stands up.</info>
 
 <character>AMY</character>
 What happens if the fire goes out?
@@ -686,7 +686,7 @@ Barn and steal their fire.
 We could use my new invention: A pointy 
 rock tied to a stick.
 
-[The door opens and Mom's sons walk in.]
+<info>The door opens and Mom's sons walk in.</info>
 
 <character>HERMES</character>
 Outsiders!
@@ -697,7 +697,7 @@ Defend the fire!
 <character>WALT</character>
 We've come for you!
 
-[He points at Farnsworth.]
+<info>He points at Farnsworth.</info>
 
 <character>FARNSWORTH</character>
 Wha?  W-What do you want from me?
@@ -713,7 +713,7 @@ W-W-Wait. You mean, you, and Mom?
 <character>FARNSWORTH</character>
 Played pelvic pinochle? I'm afraid so.
 
-[The others gasp.]
+<info>The others gasp.</info>
 
 <character>ZOIDBERG</character>
 Eck.
@@ -722,8 +722,8 @@ Eck.
 It's a humiliating story that I hope 
 never to tell. Well, pull up a chair.
 
-[Flashback. Farnsworth is working in a lab with lots of coloured 
-liquids swirling around tubes above him.]
+<info>Flashback. Farnsworth is working in a lab with lots of coloured 
+liquids swirling around tubes above him.</info>
 
 <character>FARNSWORTH</character>
 (voice-over) Our paths first crossed 
@@ -732,17 +732,17 @@ Robot Company.  The moment our eyes
 met, we knew we'd be going at it like 
 woodchucks.
 
-[Farnsworth doesn't notice that he is pouring too much of a liquid 
+<info>Farnsworth doesn't notice that he is pouring too much of a liquid 
 into another. The solution explodes and he faints. Later, Farnsworth 
 and Mom ride a hover-bike down a country road to Raindrops Keep 
-Falling On My Head. Mom laughs.]
+Falling On My Head. Mom laughs.</info>
 
 <character>FARNSWORTH</character>
 (voice-over) She was my first love - 
 or at least the earliest one I can still 
 remember. But then, 70 years ago today...
 
-[Farnsworth walks into Mom's office holding something.]
+<info>Farnsworth walks into Mom's office holding something.</info>
 
 <character>FARNSWORTH</character>
 Good news, Mom. I've invented a new 
@@ -750,12 +750,12 @@ children's toy.  I call it "Q.T. McWhiskers"!
 When you pet it, it shoots rainbows 
 from its eyes.
 
-[He strokes it.]
+<info>He strokes it.</info>
 
 <character>Q.T. MCWHISKERS</character>
 Meow.
 
-[It projects rainbows onto Farnsworth and Mom's foreheads.]
+<info>It projects rainbows onto Farnsworth and Mom's foreheads.</info>
 
 <character>MOM</character>
 Wonderful, Hubie. We'll build them 8 
@@ -769,10 +769,10 @@ That's why my Colossal Tammy Tinkle
 Doll was such a failure. Oh, you don't 
 understand me. We're finished!
 
-[He runs out of the room, crying. Mom used the toy's rainbow 
-to light a cigarette.]
+<info>He runs out of the room, crying. Mom used the toy's rainbow 
+to light a cigarette.</info>
 
-[Flashback ends.]
+<info>Flashback ends.</info>
 
 <character>WALT</character>
 She never got over it, Professor. Hell 
@@ -796,44 +796,44 @@ cool? Impossible!
 <character>FRY</character>
 Hey, the TV's getting away!
 
-[Leela throws a rock at it. It falls over and turns itself on. 
-More news.]
+<info>Leela throws a rock at it. It falls over and turns itself on. 
+More news.</info>
 
 <character>MORBO</character>
 And that's why the third graders at 
 PS139 are Morbo's Vermin Of The Week.
 
-[Linda chuckles.]
+<info>Linda chuckles.</info>
 
 <character>LINDA</character>
 In actual news, the human race was 
 doomed to extinction today as the robot 
 revolt turned violent.
 
-[The picture cuts to cars crashing into each other, Robo-Rooter 
+<info>The picture cuts to cars crashing into each other, Robo-Rooter 
 and Fender shooting lasers and a huge Q.T. McWhiskers demolishing 
-buildings with its neutron laser.]
+buildings with its neutron laser.</info>
 
 <character>Q.T. MCWHISKERS</character>
 Meow!
 
-[Cut to: New New York City Street. People flee as Destructor 
+<info>Cut to: New New York City Street. People flee as Destructor 
 pounds a building with his fists. DOOP soldiers hit his legs 
 with rakes. Bender runs out of the Natural History Museum with 
-a dinosaur head and laughs.]
+a dinosaur head and laughs.</info>
 
-[Cut to: Planet Express: Meeting Room.]
+<info>Cut to: Planet Express: Meeting Room.</info>
 
 <character>LEELA</character>
 Wait. Didn't you say Mom keeps the robot 
 control in her bra?
 
-[Larry gestures her to keep it down.]
+<info>Larry gestures her to keep it down.</info>
 
 <character>LARRY</character>
 (whispering) Bra.
 
-[Walt slaps him.]
+<info>Walt slaps him.</info>
 
 <character>LEELA</character>
 Professor, you don't have to get back 
@@ -847,7 +847,7 @@ That's so filthy, it just might work.
 <character>IGNER</character>
 The man is going to touch Mommy?
 
-[He shakes and squeaks. Farnsworth shudders.]
+<info>He shakes and squeaks. Farnsworth shudders.</info>
 
 <character>FARNSWORTH</character>
 The thought of caressing that leathery 
@@ -862,16 +862,16 @@ with Mom.
 Very well. If cop a feel I must, then 
 cop a feel I shall!
 
-[He tears open his shirt, revealing a medallion underneath. Igner 
-squeaks again.]
+<info>He tears open his shirt, revealing a medallion underneath. Igner 
+squeaks again.</info>
 
-[New New York City Street. The robots cheer and a rocket crashes 
+<info>New New York City Street. The robots cheer and a rocket crashes 
 through a building. Morbo and Linda's cameras hold them up and 
 Morbo hands over his wallet and growls. A fire engine chases 
-six firefighters down the street, spraying water at them.]
+six firefighters down the street, spraying water at them.</info>
 
-[Planet Express: Meeting Room. The Planet Express crew are sat 
-around the campfire again.]
+<info>Planet Express: Meeting Room. The Planet Express crew are sat 
+around the campfire again.</info>
 
 <character>WALT</character>
 For this demonstration, I have placed 
@@ -883,7 +883,7 @@ the left cup.
 Never fear. My magic fingers still know 
 how to do their stuff!
 
-[He flexes his fingers and they crack and curl up.]
+<info>He flexes his fingers and they crack and curl up.</info>
 
 <character>WALT</character>
 To escape the robot death squads, we'll 
@@ -894,11 +894,11 @@ Bronx.
 You can get there using this precious, 
 non-computerised map.
 
-[He hands Leela a map, annotated with labels such as "Here There 
+<info>He hands Leela a map, annotated with labels such as "Here There 
 Be Tysers", "Isle of Rikers", "Cloakwood Forest" and "Unknown 
 Territories". Mom's cabin is to the north-east of the Isle of 
 Rikers and the path they have to take leads them through pretty 
-much every section of the map. Leela picks up a torch.]
+much every section of the map. Leela picks up a torch.</info>
 
 <character>LEELA</character>
 Leela bring fire?
@@ -906,7 +906,7 @@ Leela bring fire?
 <character>WALT</character>
 No. We're set for fire, thanks.
 
-[Amy looks at the map.]
+<info>Amy looks at the map.</info>
 
 <character>AMY</character>
 The professor can't walk all the way 
@@ -931,8 +931,8 @@ Never heard of it.
 <character>FARNSWORTH</character>
 Show us this, "the wheel".
 
-[Planet Express: Hangar. Fry hammers something together and wipes 
-the sweat from his brow.]
+<info>Planet Express: Hangar. Fry hammers something together and wipes 
+the sweat from his brow.</info>
 
 <character>FRY</character>
 There. Finished!
@@ -943,7 +943,7 @@ Sweet!
 <character>AMY</character>
 Wow!
 
-[The others "ooh". Fry has built a wooden cart with oval wheels.]
+<info>The others "ooh". Fry has built a wooden cart with oval wheels.</info>
 
 <character>LEELA</character>
 Wouldn't it work better if the wheels 
@@ -954,8 +954,8 @@ were round?
 my way! Now all we need is something 
 to pull it and we're set!
 
-[The Bronx. Fry is pulling the cart and the others are sat on 
-it. Leela whips him.]
+<info>The Bronx. Fry is pulling the cart and the others are sat on 
+it. Leela whips him.</info>
 
 <character>LEELA</character>
 Heyya!
@@ -963,8 +963,8 @@ Heyya!
 <character>FRY</character>
 Ow!
 
-[They reach Mom's cabin. Walt, Larry and Igner run out from behind 
-some bushes.]
+<info>They reach Mom's cabin. Walt, Larry and Igner run out from behind 
+some bushes.</info>
 
 <character>WALT</character>
 Hurry! The robots have taken Suffolk 
@@ -977,20 +977,20 @@ kissing dentures and my evening truss.
 <character>LARRY</character>
 Here. Give her these.
 
-[He hands him some flowers.]
+<info>He hands him some flowers.</info>
 
 <character>FRY</character>
 And if that doesn't work, I got you 
 a six-pack of champagne and a funnel.
 
-[Time Lapse. Farnsworth trots up to the front door while the 
+<info>Time Lapse. Farnsworth trots up to the front door while the 
 others watch from behind the bushes. Farnsworth knocks on the 
-door and Mom opens it.]
+door and Mom opens it.</info>
 
 <character>MOM</character>
 Who the sweaty hell is it?  Hubert Farnsworth?
 
-[Farnsworth puts his foot in the door.]
+<info>Farnsworth puts his foot in the door.</info>
 
 <character>FARNSWORTH</character>
 I was out fleeing some robots and the 
@@ -1007,8 +1007,8 @@ Uh-huh. May I come in?
 <character>MOM</character>
 Never!
 
-[She tries to slam the door on him but it just hits his foot. 
-He screams in pain. The others watch.]
+<info>She tries to slam the door on him but it just hits his foot. 
+He screams in pain. The others watch.</info>
 
 <character>ZOIDBERG</character>
 Is this what human mating looks like? 
@@ -1021,7 +1021,7 @@ you goat!
 <character>FARNSWORTH</character>
 Here, I brought you these.
 
-[He hands her the flowers.]
+<info>He hands her the flowers.</info>
 
 <character>MOM</character>
 Oh, daffodils. 70 years and you remembered 
@@ -1034,12 +1034,12 @@ hurt?
 <character>MOM</character>
 (sexfully) Won't you come in?
 
-[The others watch as he walks in and gives them a thumbs-up.]
+<info>The others watch as he walks in and gives them a thumbs-up.</info>
 
 <character>FRY</character>
 Yes!
 
-[Cut to: Mom's Cabin Lounge. She closes the door.]
+<info>Cut to: Mom's Cabin Lounge. She closes the door.</info>
 
 <character>MOM</character>
 You broke my heart, Hubert.
@@ -1078,7 +1078,7 @@ does it matter?
 <character>MOM</character>
 You should see the new 16-foot models.
 
-[Farnsworth pulls his hands away.]
+<info>Farnsworth pulls his hands away.</info>
 
 <character>FARNSWORTH</character>
 16 feet? Go to hell! I was a fool to 
@@ -1093,8 +1093,8 @@ think you'd changed, you old bat!
 <character>MOM</character>
 (shouting) Stink pig!
 
-[The grab each other and kiss. She takes off his lab coat and 
-he takes off her jumpsuit. He starts fiddling with her bra.]
+<info>The grab each other and kiss. She takes off his lab coat and 
+he takes off her jumpsuit. He starts fiddling with her bra.</info>
 
 <character>FARNSWORTH</character>
 (thinking) Here we go. Just unhook it 
@@ -1105,17 +1105,17 @@ Victory!  Oh, my. Now I'll just...the
 remote...I'll just... (talking) Oh, 
 my.
 
-[He throws the bra aside and they lie down on the couch.]
+<info>He throws the bra aside and they lie down on the couch.</info>
 
-[Cut to: Outside Mom's Cabin.]
+<info>Cut to: Outside Mom's Cabin.</info>
 
 <character>LEELA</character>
 I'm worried. It shouldn't take this 
 long to get to second base.
 
-[They hear crashing and turn around. A group of robots that includes 
+<info>They hear crashing and turn around. A group of robots that includes 
 the Clearcutter, a Slurm dispenser, the Masked Unit and a Titanic 
-securitybot crash through some trees.]
+securitybot crash through some trees.</info>
 
 <character>ZOIDBERG</character>
 Land robots!
@@ -1124,30 +1124,30 @@ Land robots!
 I've got a big, big thirst for human 
 blood!
 
-[The others scream and run into the cabin.]
+<info>The others scream and run into the cabin.</info>
 
-[Cut to: Mom's Cabin Lounge. Mom and Farnsworth are no longer 
-there.]
+<info>Cut to: Mom's Cabin Lounge. Mom and Farnsworth are no longer 
+there.</info>
 
 <character>HERMES</character>
 Where in funkytown is the professor?
 
-[Fry opens a door.]
+<info>Fry opens a door.</info>
 
-[Cut to: Mom's Cabin Bedroom.]
+<info>Cut to: Mom's Cabin Bedroom.</info>
 
 <character>FRY</character>
 Nothing in here but a couple of elephant 
 skin rugs.
 
-[He gasps. The others rush in and gasp. Farnsworth and Mom's 
+<info>He gasps. The others rush in and gasp. Farnsworth and Mom's 
 clothes are scattered across the floor and their dentures are 
-in glasses on the table. They, meanwhile, are on the bed.]
+in glasses on the table. They, meanwhile, are on the bed.</info>
 
 <character>FARNSWORTH</character>
 Oh, yes.
 
-[The robots bang on the wall.]
+<info>The robots bang on the wall.</info>
 
 <character>ROBOT</character>
 (from outside) They're inside! Get 'em!
@@ -1158,24 +1158,24 @@ before they ruin this wonderful romantic
 evening. Everyone, help Mom find her 
 bra.
 
-[Everyone crawls around the floor hunting for it. Igner picks 
-up a pair of her underpants and squirms.]
+<info>Everyone crawls around the floor hunting for it. Igner picks 
+up a pair of her underpants and squirms.</info>
 
-[Cut to: Outside Mom's Cabin. The robots use the Slurm machine 
-to try and break down the wall.]
+<info>Cut to: Outside Mom's Cabin. The robots use the Slurm machine 
+to try and break down the wall.</info>
 
-[Cut to: Mom's Cabin Bedroom.]
+<info>Cut to: Mom's Cabin Bedroom.</info>
 
 <character>FRY</character>
 There it is!
 
-[He points at the ceiling fan, where the bra hangs. He tries 
-to jump for it but the ceiling fan raises itself. It laughs.]
+<info>He points at the ceiling fan, where the bra hangs. He tries 
+to jump for it but the ceiling fan raises itself. It laughs.</info>
 
 <character>CEILING FAN</character>
 Fan beats man!
 
-[Fry growls.]
+<info>Fry growls.</info>
 
 <character>FRY</character>
 Is anything not a robot?
@@ -1183,14 +1183,14 @@ Is anything not a robot?
 <character>LAMP</character>
 I'm not a robot.
 
-[Enter Bender and the greeting card via the chimney. Bender wheezes.]
+<info>Enter Bender and the greeting card via the chimney. Bender wheezes.</info>
 
 <character>BENDER</character>
 Alright, greeting card, I'll grab the 
 cash, you wreck up the place. And - 
 huh?
 
-[He sees the others.]
+<info>He sees the others.</info>
 
 <character>MOM</character>
 You, bending unit. Mommy needs that 
@@ -1221,28 +1221,28 @@ No liquor? Do svidaniya, comrade!
 <character>GREETING CARD</character>
 No!
 
-[It squeals as Bender tears it up and its music dies away. The 
-robots carry on trying to break down the wall.]
+<info>It squeals as Bender tears it up and its music dies away. The 
+robots carry on trying to break down the wall.</info>
 
 <character>FRY</character>
 Hurry, Bender. Get the bra!
 
-[Bender stretches up to the fan.]
+<info>Bender stretches up to the fan.</info>
 
 <character>BENDER</character>
 OK, fan. Just hold still and let me 
 just - whoa!
 
-[He holds onto the fan and it spins round and round with him 
-still attached. The robots break through and everyone screams.]
+<info>He holds onto the fan and it spins round and round with him 
+still attached. The robots break through and everyone screams.</info>
 
 <character>SLURM MACHINE</character>
 Death to all humans!  Free soda for 
 all humans!
 
-[It dispenses some cans of Slurm and everyone cheers. Bender 
+<info>It dispenses some cans of Slurm and everyone cheers. Bender 
 knocks back the strawberry champagne all at once. Farnsworth 
-and Mom kiss.]
+and Mom kiss.</info>
 
 <character>FARNSWORTH</character>
 I love you, Mom. Let's grow ancient 
@@ -1273,19 +1273,19 @@ you again.
 <character>FARNSWORTH</character>
 But, dustcakes...
 
-[She throws the remote at him and he sighs. He drops the pillow 
-and walks out.]
+<info>She throws the remote at him and he sighs. He drops the pillow 
+and walks out.</info>
 
-[Planet Express: Lounge. The staff clear up after the rebellion. 
+<info>Planet Express: Lounge. The staff clear up after the rebellion. 
 Fry puts the TV back and Amy sweeps up. Hermes clears some rubbish 
-off the coffee table and Bender walks in.]
+off the coffee table and Bender walks in.</info>
 
 <character>BENDER</character>
 Well, time for this robot to get back 
 to work.
 
-[He sits in his crevice on the couch and turns the TV on. Farnsworth 
-sits sadly at the table.]
+<info>He sits in his crevice on the couch and turns the TV on. Farnsworth 
+sits sadly at the table.</info>
 
 <character>LEELA</character>
 Too bad it didn't work out with Mom, 
@@ -1295,11 +1295,11 @@ professor.
 Yes. But I'll always love her in my 
 own subtle way.
 
-[He takes a remote control out of his lab coat and presses a 
-button.]
+<info>He takes a remote control out of his lab coat and presses a 
+button.</info>
 
-[Cut to: Planet Express: Roof. Six albino gorillas sit on the 
-roof.]
+<info>Cut to: Planet Express: Roof. Six albino gorillas sit on the 
+roof.</info>
 
 <character>GORILLAS</character>
 (shouting) Love Mom! Love Mom! Love 
@@ -1307,8 +1307,8 @@ Mom! Love Mom!
 
 <info>THE END</info>
 
-[Over the credits there is a scene of Bender and the greeting 
-card outside Mom's factory.]
+<info>Over the credits there is a scene of Bender and the greeting 
+card outside Mom's factory.</info>
 
 <character>GREETING CARD</character>
 You created me, Mom
@@ -1323,6 +1323,6 @@ You're as tender as corned beef
 
 And warm as pastrami
 
-[It plays a tune.]
+<info>It plays a tune.</info>
 
 I wuv my Mommy.</xml>
