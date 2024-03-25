@@ -1,37 +1,39 @@
-# Community (2009-2015) 
+# *Futurama* vs *South Park* Analysis
 
 ## Overview
-This repository contains data and analysis regarding the TV show *Community*, which aired from 2009 to 2015. The analysis focuses primarily on character lines and the frequency of each character's dialogue throughout the series.
+This repository contains a comparative analysis between the TV shows *Futurama* and *South Park*. Both shows have gained significant popularity and have unique characteristics that appeal to diverse audiences. This analysis aims to highlight the differences and similarities between these two iconic animated series.
 
 ## Data
-The data used for this analysis was collected from transcripts of each episode of *Community*. The transcripts were processed to extract dialogue lines for each character.
+The data used for this analysis includes information gathered from transcripts of episodes from both *Futurama* and *South Park*. Dialogues were extracted and analyzed to compare various aspects such as character lines and thematic elements.
 
 ## Analysis
 ### Character Lines
-The analysis provides insights into the dialogue lines delivered by each character throughout the series. This includes:
+The analysis provides insights into the dialogue lines delivered by characters in both *Futurama* and *South Park*. This includes:
 
-- Total lines spoken by each character
-- Distribution of lines across seasons
-- Notable quotes and dialogue patterns for key characters
+- Total lines spoken by key characters in each series
+- Distribution of lines across seasons for main characters
+- Notable quotes and dialogue patterns for key characters in each show
 
-### Frequency of Speaking
-Additionally, the analysis explores how frequently each character speaks relative to others. This includes:
+### Tone and Themes
+Additionally, the analysis explores the tone and themes present in both *Futurama* and *South Park*. This includes:
 
-- Comparison of speaking time between main characters
-- Trends in character dialogue across seasons
-- Impact of character dynamics and story arcs on speaking time
+- Examination of the humor styles employed in each series
+- Comparison of recurring themes and social commentary
+- Exploration of how each show addresses societal issues and current events
+
+### Visual Style and Animation
+The visual style and animation techniques used in *Futurama* and *South Park* are compared. This includes:
+
+- Differences in animation styles
+- Impact of visual elements on storytelling and comedic delivery
+- Evolution of animation techniques throughout the series' run
 
 ## Usage
-Researchers, fans, and enthusiasts of *Community* can use this analysis to:
+Fans, researchers, and enthusiasts of both *Futurama* and *South Park* can use this analysis to:
 
-- Gain insights into the character dynamics and dialogue distribution throughout the series.
-- Explore trends and patterns in character development and storytelling.
-- Inform discussions and analyses of the show's narrative structure and character interactions.
-
-
-
-## Credits
-This analysis was conducted by Mistie, Tyler,---, --- and is made available under the [appropriate license or attribution].
+- Understand the distinct characteristics of each show and how they contribute to their appeal
+- Explore the differences and similarities in storytelling, humor, and thematic elements
+- Gain insights into the cultural significance and impact of both *Futurama* and *South Park* on animated television.
 
 ## Disclaimer
-This analysis is intended for school research and entertainment purposes only. *Community* is the intellectual property of its creators and production companies. This analysis is not affiliated with or endorsed by the creators or production companies of *Community*.
+This analysis is intended for educational and entertainment purposes only. *Futurama* and *South Park* are the intellectual property of their respective creators and production companies. This analysis is not affiliated with or endorsed by the creators or production companies of either show.
