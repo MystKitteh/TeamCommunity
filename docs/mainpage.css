@@ -1,9 +1,18 @@
 div{
-  background-color: #CDE8FA;
+     background-color: #CDE8FA; 
 
- background-image: url("./Images/benduh.png");
+
  
  background-position: center center;
  
- background-repeat: no-repeat
+ background-repeat: no-repeat;
+ 
 }
+div.nav {display:flex;}
+
+div#bender img {
+max-width:500px; 
+width:50%;
+background-position:center}
+
+nav ul li {display:inline;}
