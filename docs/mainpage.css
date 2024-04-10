@@ -1,6 +1,6 @@
 div{
      background-color: #CDE8FA; 
-
+font-family: Helvetica;
 
  
  background-position: center center;
@@ -8,11 +8,18 @@ div{
  background-repeat: no-repeat;
  
 }
-div.nav {display:flex;}
+div.nav {display:flex;
+  text-align:center;
+  }
 
 div#bender img {
 max-width:500px; 
 width:50%;
-background-position:center}
+background-position: top;}
 
 nav ul li {display:inline;}
+div#Fry img{
+max-width:500px; 
+width:20%;
+background-position:center    
+}
