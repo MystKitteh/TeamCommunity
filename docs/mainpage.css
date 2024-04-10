@@ -8,18 +8,11 @@ div{
  background-repeat: no-repeat;
  
 }
-div.nav {display:flex;
-  text-align:center;
-  }
+div.nav {display:flex;}
 
 div#bender img {
 max-width:500px; 
 width:50%;
-background-position: top;}
+background-position:center}
 
 nav ul li {display:inline;}
-div#Fry img{
-max-width:500px; 
-width:20%;
-background-position:center    
-}
