@@ -46,3 +46,11 @@ img.future {
     padding-top: 55px;
     display: block;
 }
+img.antvis {
+     width:500px;
+     
+}
+div.vis{
+ background-color: #CDE8FA; 
+font-family: Helvetica;   
+}
