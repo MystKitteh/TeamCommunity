@@ -69,17 +69,22 @@ div.image div > h3{
 }
 
 div.cover{
- background-color: #FBFAE5; 
- font-family: Helvetica;
+     background-color: #FBFAE5; 
+font-family: Helvetica;
+
  margin-left:auto; margin-right:auto; margin-top: 368px;
+ 
  background-position: center center;
+ 
  background-repeat: no-repeat;
+ 
 }
 
 
 nav{
 text-align: center;
 }
+
 nav a {
  margin-left: 0.5em;
  margin-right: 0.5em;
@@ -110,3 +115,16 @@ h2.title{
     font-family: 'Bebas Neue', sans-serif;
 }
 
+
+
+
+img.antvis {
+     width:500px;
+     
+}
+
+
+div.vis{
+ background-color: #FBFAE5; 
+font-family: Helvetica;   
+}
