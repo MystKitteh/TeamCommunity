@@ -43,7 +43,6 @@ div.image {
 div.lol {
   flex: 2; 
   font-size: 20pt;
-  font-family: sans-serif;
   color: black;
   text-align: justify;
   transform: translateX(1em);
@@ -145,4 +144,5 @@ h2.title{
 body {
     width: 70%;
     padding: 30px 15%;
+    font-family: sans-serif;
 }
