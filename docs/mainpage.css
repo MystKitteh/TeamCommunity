@@ -120,3 +120,10 @@ a {
 a:hover {
     color: gray;
 }
+.frylink {
+    height: 50vw;
+    width: 55vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
