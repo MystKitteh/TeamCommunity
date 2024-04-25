@@ -136,3 +136,32 @@ body {
     width: 70%;
     padding: 30px 15%;
 }
+.codebox {
+ 
+    width: 70%;
+    box-sizing: border-box;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: left;
+    border: black 5px solid;
+    background-color: #333;
+    overflow: auto;
+    height: 500px;
+
+}
+.codebox code {
+    font-size: medium;
+    color: #00FF41;
+}
+.codebox::-webkit-scrollbar {
+    width: 12px;
+}
+
+.codebox::-webkit-scrollbar-thumb {
+    background-color: #00FF41;
+    border-radius: 5px;
+}
+
+.codebox::-webkit-scrollbar-track {
+    background-color: #333;
+}
