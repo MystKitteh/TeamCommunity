@@ -7,15 +7,15 @@
         <g id="Fry">
             <text x="10" y="-170">Season 5</text>
             <g class="fryInfo">
-                <text x="15" y="-120">426</text>
+                <text x="42" y="-120">27</text>
             </g>    
-            <desc>Fry's Dialogue Frequency!</desc>
+            <desc>Fry's Average Dialogue Frequency Per Episode!</desc>
             <line stroke="red" x1="50" x2="50" y1="0" y2="-110" fill="red" style="stroke-width:16"/>
             <desc>Bender's Dialogue Frequency!-393</desc>
-            <text x="65" y="-100">393</text>
+            <text x="65" y="-100">23</text>
             <line stroke="blue" x1="100" x2="100" y1="0" y2="-89" style="stroke-width:14"/>
-            <desc>Leela's Dialogue Frequency!-375</desc>
-            <text x="90" y="-90">375</text>
+            <desc>Leela's Dialogue Frequency!-24.56</desc>
+            <text x="95" y="-90">25</text>
             <line stroke="purple" x1="75" x2="75" y1="0" y2="-99" style="stroke-width:14"/>
             <text fill="red" x="160" y="-100">Fry</text>
             <text fill="purple" x="160" y="-80">Leela</text>
