@@ -5,8 +5,6 @@
     font-style: normal;
 }
 
-  
-
 header {
     background-image: url(images/header-thin.png);
     position: absolute;
@@ -28,25 +26,23 @@ img.future {
 
 html, body {
     overflow-x: hidden;
-    background-color: #FBFAE5; 
-    
+    background-color: #FBFAE5;  
 }
 
 /*  dr. b simplifying the css with a nice flex container */
 
 div.image {
     display:flex;
-    
 }
 /* dr. b added a class attribute to the div inside to make it easier to point to here.
  * Also wrapped a <figure> element around the image to make it easier to control the size. */
+ 
 div.lol {
   flex: 2; 
   font-size: 20pt;
   color: black;
   text-align: justify;
   transform: translateX(1em);
-    
 }
 figure.hypnotoad {
     flex: 1
@@ -59,40 +55,10 @@ figure.hypnotoad img {
     margin-left:2vw;
 }
 
-
-/* ebb: Too complicated (hard to control)  div.image{
-    display: block;
-    position: relative;
-    height: 40vh;
-}
-
-div.image img{
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 25vw;
-    height: 15.63vw;
-    object-fit: contain;
-}
- 
-
-div.image div{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 55%;
-    font-size: 20pt;
-    font-family: sans-serif;
-    color: black;
-    text-align: justify;
-    transform: translateX(1em);
-}
-*/
 div.bone{
     padding-left: 20pt;
     font-size: 20pt;
     max-width: 80vw;
-    
 }
 
 div.image div > h3{
@@ -106,7 +72,6 @@ div.cover{
  background-position: center center;
  background-repeat: no-repeat;
 }
-
 
 nav{
 text-align: center;
@@ -141,11 +106,17 @@ h2.title{
     margin-bottom: 0.1em;
     font-family: 'Bebas Neue', sans-serif;
 }
+
 body {
     width: 70%;
     padding: 30px 15%;
     font-family: sans-serif;
 }
-img.frylink{
-    
+
+a {
+    color:black;
+}
+
+a:hover {
+    color: gray;
 }
